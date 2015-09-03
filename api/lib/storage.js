@@ -15,7 +15,8 @@ function Storage(_db) {
     });
 
     this.inGenomicRegion = function inGenomicRegion(species, chromosome, start, end) {
-        //TODO check params
+        log.info('inGenomicRegion(%s, %s, %s, %s)',species, chromosome, start, end)
+        //TODO check params, start-end ints!
         var d = when.defer()
         const query = {
             chromosome: chromosome, $or: [
