@@ -1,0 +1,40 @@
+{
+  "name": "geneassasin-api-domains",
+  "version": "0.0.1",
+  "author": "Milan Simonovic <milan.simonovic@uzh.ch>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meringlab/ga-api-domains"
+  },
+  "bugs": {
+    "url": "https://github.com/meringlab/ga-api-domains/issues"
+  },
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "mocha test/*.js integration_test/*.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.1",
+    "bunyan": "^1.4.0",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "ejs": "~2.3.2",
+    "express": "~4.13.0",
+    "express-negotiate": "0.0.5",
+    "glob": "^5.0.13",
+    "morgan": "~1.6.1",
+    "mongodb": "~2.0",
+    "serve-favicon": "~2.3.0",
+    "underscore": "^1.8.3",
+    "when": "^3.7.3"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*",
+    "superagent": "^1.2.0"
+  },
+  "engines": {
+    "node": "0.12.x"
+  }
+}
