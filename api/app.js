@@ -18,8 +18,11 @@ app.use(logger('dev')); // or app.use(morgan('combined'))
 //app.use(bodyParser.urlencoded({ extended: false }));
 //app.use(cookieParser());
 
-var routes = require('./routes/index');
-app.use('/', routes);
+var index = require('./routes/index');
+var domains = require('./routes/domains');
+
+app.use('/domains', domains);
+app.use('/', index);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
