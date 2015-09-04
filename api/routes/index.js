@@ -53,6 +53,7 @@ router.get('/', function (req, res, next) {
 
 function render(res, contentType, params) {
     res.header('content-type', contentType);
+    res.header('Access-Control-Allow-Origin', '*');
     res.json(params);
 }
 
