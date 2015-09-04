@@ -17,7 +17,7 @@ function parseRecord(line) {
 	return
     }
     var records = line.split('\t')
-    return {chromosome : records[0],start: records[1], end:   records[2],  bed:   line + '\t-\t-\t83,88,95'/*color*/}
+    return {chromosome : records[0],start: parseInt(records[1]), end:   parseInt(records[2]),  bed:   line + '\t-\t-\t83,88,95'/*color*/}
 }
 
 var domains = []
