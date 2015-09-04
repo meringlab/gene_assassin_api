@@ -17,9 +17,9 @@ describe('Storage', function () {
 
     it('can fetch domains on a genomic region', function () {
         //var promise = storage.inGenomicRegion('drerio','9', 35088310, 35091575);
-        var promise = storage.inGenomicRegion('drerio','7', 1009500, 1009600);
-        return promise.then(function (err, domains) {
-            assert.equal(2, domains.length);
+        var promise = storage.domainsInGenomicRegion('drerio', '7', 1009500, 1009600);
+        return promise.then(function (res) {
+            assert.equal(2, res.domains.length);
         })
 
     });

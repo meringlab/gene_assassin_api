@@ -11,11 +11,11 @@ function Storage(_db) {
     const log = bunyan.createLogger({
         name: "ga-API-domains",
         module: "storage/mongodb"
-        ,server: db.serverConfig.host
+        , server: db.serverConfig.host
     });
 
-    this.inGenomicRegion = function inGenomicRegion(species, chromosome, start, end) {
-        log.info('inGenomicRegion(%s, %s, %s, %s)',species, chromosome, start, end)
+    this.domainsInGenomicRegion = function domainsInGenomicRegion(species, chromosome, start, end) {
+        log.info('inGenomicRegion(%s, %s, %s, %s)', species, chromosome, start, end)
         //TODO check params, start-end ints!
         var d = when.defer()
         const query = {
@@ -25,17 +25,17 @@ function Storage(_db) {
         };
         //var db = client.db(species)
         const collection = db.collection('domains');
-        collection.find(query, {limit: 100, fields: {'bed':1}}).toArray(function (err, docs) {
+        collection.find(query, {limit: 100, fields: {'bed': 1}}).toArray(function (err, docs) {
             if (err) {
-                log.error(err, 'failed to get domains on [%s,%s,%s]',chromosome, start, end)
+                log.error(err, 'failed to get domains on [%s,%s,%s]', chromosome, start, end)
                 var e = Error("inGenomicRegion FAILED: " + err.message);
                 deferredImport.reject(e);
                 return
             }
-            var res = docs.map(function(el) {
+            var bed = docs.map(function (el) {
                 return el.bed
             })
-            d.resolve(res)
+            d.resolve({species: species, chromosome: chromosome, start: start, end: end, domains: bed})
         })
         return d.promise
     }
