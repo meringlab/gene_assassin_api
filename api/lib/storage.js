@@ -15,29 +15,57 @@ function Storage(_db) {
     });
 
     this.domainsInGenomicRegion = function domainsInGenomicRegion(species, chromosome, start, end) {
-        log.info('inGenomicRegion(%s, %s, %s, %s)', species, chromosome, start, end)
-        //TODO check params, start-end ints!
         var d = when.defer()
-        const query = {
-            chromosome: chromosome, $or: [
-                {start: {$gt: start}, end: {$lt: end}},
-                {start: {$lt: start}, end: {$gt: start}}]
-        };
-        //var db = client.db(species)
-        const collection = db.collection('domains');
-        collection.find(query, {limit: 100, fields: {'bed': 1}}).toArray(function (err, docs) {
-            if (err) {
-                log.error(err, 'failed to get domains on [%s,%s,%s]', chromosome, start, end)
-                var e = Error("inGenomicRegion FAILED: " + err.message);
-                deferredImport.reject(e);
-                return
-            }
+        queryGenomicRegion('domains', species, chromosome, start, end, function (docs) {
             var bed = docs.map(function (el) {
                 return el.bed
             })
             d.resolve({species: species, chromosome: chromosome, start: start, end: end, domains: bed})
-        })
+        }, function (err) {
+            deferredImport.reject(err);
+        });
+
         return d.promise
+    }
+
+    this.guidesInGenomicRegion = function guidesInGenomicRegion(species, chromosome, start, end) {
+        var d = when.defer()
+        queryGenomicRegion('guides', species, chromosome, start, end, function (docs) {
+            var allGuides = []
+            docs.forEach(function (el) {
+                allGuides.push(el.bed)
+            })
+            d.resolve({species: species, chromosome: chromosome, start: start, end: end, guides: allGuides})
+        }, function (err) {
+            deferredImport.reject(err);
+        });
+        return d.promise
+    }
+
+    function queryGenomicRegion(collection, species, chromosome, start, end, resultsCollector, errorHandler) {
+        log.info('queryGenomicRegion(%s, %s, %s, %s, %s)', collection, species, chromosome, start, end)
+        //TODO check params, start-end ints!
+        /*
+         db.domains.find({chromosome: '7', $or : [ {start: {"$lt" : 1009500}, end : {"$gt" : 1009500}}, {start: {"$gt" : 1009500}, start : {"$lt" : 1009550}}        ]}, {start:1, end:1})
+         */
+        const query = {
+            chromosome: chromosome, $or: [
+                //these 2 should cover all 4 possible cases:
+                {start: {$lt: start}, end: {$gt: start}},
+                {start: {$lt: end}, end: {$gt: start}}
+            ]
+        };
+        //var db = client.db(species)
+        db.collection(collection).find(query, {limit: 100}).toArray(function (err, docs) {
+            if (err) {
+                log.error(err, 'failed to get %s on [%s,%s,%s]', collection, chromosome, start, end)
+                var e = Error("domainsInGenomicRegion FAILED: " + err.message);
+                errorHandler(e)
+                return
+            }
+            resultsCollector(docs)
+        })
+
     }
 
     this.shutdown = function shutdown() {
@@ -46,7 +74,6 @@ function Storage(_db) {
             db.close()
         }
     }
-
 }
 
 exports = module.exports = function (URL, callback) {

@@ -23,6 +23,14 @@ describe('Storage', function () {
         })
 
     });
+    it('can fetch guides on a genomic region', function () {
+        //var promise = storage.inGenomicRegion('drerio','9', 35088310, 35091575);
+        var promise = storage.guidesInGenomicRegion('drerio', '9', 35091800, 35091850);
+        return promise.then(function (res) {
+            assert.equal(5, res.guides.length);
+        })
+
+    });
     after(function(done) {
         if (storage) {
             storage.shutdown()
