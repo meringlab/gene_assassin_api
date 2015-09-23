@@ -20,7 +20,8 @@
     "bunyan": "~1.4",
     "debug": "~2.2",
     "mongodb": "~2.0",
-    "underscore": "~1.8"
+    "underscore": "~1.8",
+    "when": "~3.7"
   },
   "devDependencies": {
     "chai": "*",
