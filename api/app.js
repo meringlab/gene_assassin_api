@@ -21,9 +21,11 @@ app.use(logger('dev')); // or app.use(morgan('combined'))
 var index = require('./routes/index');
 var domains = require('./routes/domains');
 var guides = require('./routes/guides');
+var primers = require('./routes/primers');
 
 app.use('/domains', domains);
 app.use('/guides', guides);
+app.use('/primers', primers);
 app.use('/', index);
 
 // catch 404 and forward to error handler
