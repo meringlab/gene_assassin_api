@@ -1,15 +1,6 @@
-browser position chr21:7841684-7852005
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000037962	ENSDART00000055325	ENSDARP00000055324	7841717	7852002	###
-#	PR00141	IPR000243	182	193	\N	6.4e-08	30.11	EDRYRPDMEEED
-21	7847149	7848800	Pept_T1A_subB_(PR00141)	217.0	+
-#	PR00141	IPR000243	207	218	\N	6.4e-08	31.06	FNDLGSGSNIDV
-21	7848840	7848875	Pept_T1A_subB_(PR00141)	126.0	+
-#	PR00141	IPR000243	171	182	\N	6.4e-08	40.34	GSGSLAAMAVFE
-21	7847116	7847151	Pept_T1A_subB_(PR00141)	196.0	+
-#	PR00141	IPR000243	51	66	\N	6.4e-08	49.29	YKDGVVLGADTRATEG
-21	7843880	7844005	Pept_T1A_subB_(PR00141)	443.0	+
-#	PF12465	IPR024689	252	282	\N	9.7e-16	0.0	GSYRYKHGTTGVLSKAVTPLNLDMVEESVQT
-21	7851787	7851879	Proteasome_bsu_C_(PF12465)	44.3	+
-#	PF00227	IPR001353	41	221	\N	7.6999999999999995e-56	0.0	KTGTTICGIVYKDGVVLGADTRATEGMIVADKNCSKIHYISPNIYCCGAGTAADTEMTTQIISSNLELHSLSTGRLPRVATANRMLKQMLFRYQGYIGAALVLGGVDCTGPHLYSIYPHGSTDKLPYVTMGSGSLAAMAVFEDRYRPDMEEEDAKSLVRDAIAAGIFNDLGSGSNIDVCVI
-21	7843850	7848884	Proteasome_sua/b_(PF00227)	175.7	+
+21	7847149	7848800	Pept_T1A_subB	217.0	+	7847149	7848800	83,88,95	2	26,8	0,1643	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+21	7848840	7848875	Pept_T1A_subB	126.0	+	7848840	7848875	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+21	7847116	7847151	Pept_T1A_subB	196.0	+	7847116	7847151	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+21	7843880	7844005	Pept_T1A_subB	443.0	+	7843880	7844005	83,88,95	2	5,41	0,84	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+21	7851787	7851879	Proteasome_bsu_C	44.3	+	7851787	7851879	83,88,95	1	92	0	PF12465	http://pfam.sanger.ac.uk/family?acc=PF12465
+21	7843850	7848884	Proteasome_sua/b	175.7	+	7843850	7848884	83,88,95	6	35,97,140,115,58,92	0,114,299,2152,3267,4942	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227

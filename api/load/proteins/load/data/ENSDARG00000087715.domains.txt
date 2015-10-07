@@ -1,23 +1,10 @@
-browser position chr9:20275410-20281344
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000087715	ENSDART00000124894	ENSDARP00000106431	20275410	20281344	###
-#	PR00263	IPR002209	19	31	\N	3.8e-18	43.08	QLLYCRVGIGFHL
-9	20275464	20275502	Fibroblast_GF_fam_(PR00263)	269.0	+
-#	PR00263	IPR002209	51	65	\N	3.8e-18	42.96	LKVFAVRPGVVGIRG
-9	20275711	20275755	Fibroblast_GF_fam_(PR00263)	294.0	+
-#	PR00263	IPR002209	71	83	\N	3.8e-18	36.58	YLCMNQEGIAHGM
-9	20275771	20275809	Fibroblast_GF_fam_(PR00263)	257.0	+
-#	PR00263	IPR002209	87	106	\N	3.8e-18	58.56	SNECLFKEQIEENHYNTYSS
-9	20281168	20281227	Fibroblast_GF_fam_(PR00263)	674.0	+
-#	PR00262	IPR028142	58	85	\N	1.7e-16	32.91	PGVVGIRGVKSQLYLCMNQEGIAHGMKK
-9	20275732	20281164	IL-1_fam/FGF_fam_(PR00262)	343.0	+
-#	PR00262	IPR028142	89	109	\N	1.7e-16	41.1	ECLFKEQIEENHYNTYSSMNH
-9	20281174	20281236	IL-1_fam/FGF_fam_(PR00262)	409.0	+
-#	PR00262	IPR028142	130	139	\N	1.7e-16	34.31	RNQVCTHFLL
-9	20281297	20281326	IL-1_fam/FGF_fam_(PR00262)	110.0	+
-#	PF00167	IPR002209	19	138	\N	9.199999999999998e-41	0.0	QLLYCRVGIGFHLQILMNGSVCGVHEPSEYSLLKVFAVRPGVVGIRGVKSQLYLCMNQEGIAHGMKKFSNECLFKEQIEENHYNTYSSMNHTGFFLALSKRGHLRKGYRVGRNQVCTHFL
-9	20275464	20281323	Fibroblast_GF_fam_(PF00167)	124.9	+
-#	SM00442	IPR002209	15	141	\N	5.599999999999999e-46	0.0	FITHQLLYCRVGIGFHLQILMNGSVCGVHEPSEYSLLKVFAVRPGVVGIRGVKSQLYLCMNQEGIAHGMKKFSNECLFKEQIEENHYNTYSSMNHTGFFLALSKRGHLRKGYRVGRNQVCTHFLLLK
-9	20275452	20281332	Fibroblast_GF_fam_(SM00442)	168.7	+
-#	SSF50353	IPR008996	1	144	\N	4e-43	0.0	MIPAGVERSNPAEGFITHQLLYCRVGIGFHLQILMNGSVCGVHEPSEYSLLKVFAVRPGVVGIRGVKSQLYLCMNQEGIAHGMKKFSNECLFKEQIEENHYNTYSSMNHTGFFLALSKRGHLRKGYRVGRNQVCTHFLLLKKRR
-9	20275410	20281341	Cytokine_IL1-like_(SSF50353)	0.0	+
+9	20275464	20275502	Fibroblast_GF_fam	269.0	+	20275464	20275502	83,88,95	1	38	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+9	20275711	20275755	Fibroblast_GF_fam	294.0	+	20275711	20275755	83,88,95	1	44	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+9	20275771	20275809	Fibroblast_GF_fam	257.0	+	20275771	20275809	83,88,95	1	38	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+9	20281168	20281227	Fibroblast_GF_fam	674.0	+	20281168	20281227	83,88,95	1	59	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+9	20275732	20281164	IL-1_fam/FGF_fam	343.0	+	20275732	20281164	83,88,95	2	77,5	0,5427	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
+9	20281174	20281236	IL-1_fam/FGF_fam	409.0	+	20281174	20281236	83,88,95	1	62	0	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
+9	20281297	20281326	IL-1_fam/FGF_fam	110.0	+	20281297	20281326	83,88,95	1	29	0	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
+9	20275464	20281323	Fibroblast_GF_fam	124.9	+	20275464	20281323	83,88,95	3	90,103,164	0,242,5695	PF00167	http://pfam.sanger.ac.uk/family?acc=PF00167
+9	20275452	20281332	Fibroblast_GF_fam	168.7	+	20275452	20281332	83,88,95	3	102,103,173	0,254,5707	SM00442	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00442
+9	20275410	20281341	Cytokine_IL1-like	0.0	+	20275410	20281341	83,88,95	3	144,103,182	0,296,5749	SSF50353	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50353

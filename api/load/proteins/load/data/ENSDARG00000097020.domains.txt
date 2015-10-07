@@ -1,23 +1,10 @@
-browser position chr25:36195695-36196105
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000097020	ENSDART00000156376	ENSDARP00000127943	36195695	36196105	###
-#	PR00622	IPR000164	80	98	\N	6.399999999999999e-86	87.3	KTDLRFQSSAVMALQEASE
-25	36195932	36195988	Histone_H3_(PR00622)	778.0	+
-#	PR00622	IPR000164	58	75	\N	6.399999999999999e-86	97.46	STELLIRKLPFQRLVREI
-25	36195866	36195919	Histone_H3_(PR00622)	830.0	+
-#	PR00622	IPR000164	34	55	\N	6.399999999999999e-86	93.58	GGVKKPHRYRPGTVALREIRRY
-25	36195794	36195859	Histone_H3_(PR00622)	1112.0	+
-#	PR00622	IPR000164	3	17	\N	6.399999999999999e-86	97.1	RTKQTARKSTGGKAP
-25	36195701	36195745	Histone_H3_(PR00622)	729.0	+
-#	PR00622	IPR000164	17	31	\N	6.399999999999999e-86	92.32	PRKQLATKAARKSAP
-25	36195743	36195787	Histone_H3_(PR00622)	672.0	+
-#	PR00622	IPR000164	114	135	\N	6.399999999999999e-86	94.86	HAKRVTIMPKDIQLARRIRGER
-25	36196034	36196099	Histone_H3_(PR00622)	1039.0	+
-#	PR00622	IPR000164	98	114	\N	6.399999999999999e-86	96.93	EAYLVGLFEDTNLCAIH
-25	36195986	36196036	Histone_H3_(PR00622)	873.0	+
-#	PF00125	IPR007125	58	132	\N	6.0999999999999995e-37	0.0	STELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIR
-25	36195866	36196090	Histone_core_D_(PF00125)	112.2	+
-#	SM00428	IPR000164	34	136	\N	2.5e-75	0.0	GGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRGERA
-25	36195794	36196102	Histone_H3_(SM00428)	266.3	+
-#	SSF47113	IPR009072	2	136	\N	3.1e-56	0.0	ARTKQTARKSTGGKAPRKQLATKAARKSAPATGGVKKPHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIRGERA
-25	36195698	36196102	Histone-fold_(SSF47113)	0.0	+
+25	36195932	36195988	Histone_H3	778.0	+	36195932	36195988	83,88,95	1	56	0	PR00622	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00622&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00622
+25	36195866	36195919	Histone_H3	830.0	+	36195866	36195919	83,88,95	1	53	0	PR00622	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00622&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00622
+25	36195794	36195859	Histone_H3	1112.0	+	36195794	36195859	83,88,95	1	65	0	PR00622	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00622&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00622
+25	36195701	36195745	Histone_H3	729.0	+	36195701	36195745	83,88,95	1	44	0	PR00622	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00622&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00622
+25	36195743	36195787	Histone_H3	672.0	+	36195743	36195787	83,88,95	1	44	0	PR00622	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00622&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00622
+25	36196034	36196099	Histone_H3	1039.0	+	36196034	36196099	83,88,95	1	65	0	PR00622	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00622&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00622
+25	36195986	36196036	Histone_H3	873.0	+	36195986	36196036	83,88,95	1	50	0	PR00622	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00622&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00622
+25	36195866	36196090	Histone_core_D	112.2	+	36195866	36196090	83,88,95	1	224	0	PF00125	http://pfam.sanger.ac.uk/family?acc=PF00125
+25	36195794	36196102	Histone_H3	266.3	+	36195794	36196102	83,88,95	1	308	0	SM00428	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00428
+25	36195698	36196102	Histone-fold	0.0	+	36195698	36196102	83,88,95	1	404	0	SSF47113	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47113

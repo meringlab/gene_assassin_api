@@ -1,13 +1,5 @@
-browser position chr23:31670535-31674501
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000036875	ENSDART00000053542	ENSDARP00000053541	31670557	31674501	###
-#	PF01248	IPR004038	17	110	\N	1.8999999999999998e-34	0.0	ALPEVLKTALIHDGLARGIREAAKALDKRQAHLCVLAANCDEPMYVKLVEALCAEHQINLIKVDDNKKLGEWVGLCKIDREGKPRKVVGCSCVV
-23	31672034	31674001	Ribosomal_L7Ae/L30e/S12e/Gad45_(PF01248)	103.6	+
-#	PR00972	IPR000530	21	34	\N	8.499999999999998e-40	84.42	VLKTALIHDGLARG
-23	31672046	31672087	Ribosomal_S12e_(PR00972)	574.0	+
-#	PR00972	IPR000530	35	51	\N	8.499999999999998e-40	83.42	IREAAKALDKRQAHLCV
-23	31672088	31672332	Ribosomal_S12e_(PR00972)	731.0	+
-#	PR00972	IPR000530	76	97	\N	8.499999999999998e-40	79.75	LIKVDDNKKLGEWVGLCKIDRE
-23	31672405	31673962	Ribosomal_S12e_(PR00972)	944.0	+
-#	PR00972	IPR000530	101	114	\N	8.499999999999998e-40	77.92	RKVVGCSCVVIKDY
-23	31673972	31674416	Ribosomal_S12e_(PR00972)	632.0	+
+23	31672034	31674001	Ribosomal_L7Ae/L30e/S12e/Gad45	103.6	+	31672034	31674001	83,88,95	3	82,102,95	0,277,1872	PF01248	http://pfam.sanger.ac.uk/family?acc=PF01248
+23	31672046	31672087	Ribosomal_S12e	574.0	+	31672046	31672087	83,88,95	1	41	0	PR00972	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00972&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00972
+23	31672088	31672332	Ribosomal_S12e	731.0	+	31672088	31672332	83,88,95	2	28,21	0,223	PR00972	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00972&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00972
+23	31672405	31673962	Ribosomal_S12e	944.0	+	31672405	31673962	83,88,95	2	8,56	0,1501	PR00972	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00972&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00972
+23	31673972	31674416	Ribosomal_S12e	632.0	+	31673972	31674416	83,88,95	2	35,5	0,439	PR00972	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00972&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00972

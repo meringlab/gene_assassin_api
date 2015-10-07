@@ -1,17 +1,7 @@
-browser position chrZv9_scaffold3531:127163-135867
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000090594	ENSDART00000122572	ENSDARP00000108634	127163	135867	###
-#	PR01407	IPR003879	70	87	\N	4.0999999999999993e-10	41.67	YVCFLTLDPNTAHTRLIL
-Zv9_scaffold3531	135643	135696	Butyrophylin_(PR01407)	335.0	+
-#	PR01407	IPR003879	87	104	\N	4.0999999999999993e-10	29.7	LSEENREVKSVWENQPYP
-Zv9_scaffold3531	135694	135747	Butyrophylin_(PR01407)	182.0	+
-#	PR01407	IPR003879	109	133	\N	4.0999999999999993e-10	32.92	RFDGLYPQVLCRESVCGRYYWEIEW
-Zv9_scaffold3531	135760	135834	Butyrophylin_(PR01407)	373.0	+
-#	SM00589	IPR006574	71	124	\N	1.4e-13	0.0	VCFLTLDPNTAHTRLILSEENREVKSVWENQPYPDHPDRFDGLYPQVLCRESVC
-Zv9_scaffold3531	135646	135807	PRY_(SM00589)	61.1	+
-#	SM00368	IPR003590	18	45	\N	0.0026	0.0	PSHLRELDLSYNHPGDSGVKLLSEQLED
-Zv9_scaffold3531	127214	127297	Leu-rich_rpt_RNase_inh_sub-typ_(SM00368)	27.0	+
-#	PS50188	IPR001870	53	143	\N	0.0	0.0	LNLDHGGHTRITAGPRKYVCFLTLDPNTAHTRLILSEENREVKSVWENQPYPDHPDRFDGLYPQVLCRESVCGRYYWEIEWRCCCVYICVI
-Zv9_scaffold3531	127319	135864	B30.2/SPRY_(PS50188)	8.65	+
-#	SSF49899	IPR008985	63	133	\N	2.1000000000000002e-20	0.0	ITAGPRKYVCFLTLDPNTAHTRLILSEENREVKSVWENQPYPDHPDRFDGLYPQVLCRESVCGRYYWEIEW
-Zv9_scaffold3531	128170	135834	ConA-like_lec_gl_sf_(SSF49899)	0.0	+
+Zv9_scaffold3531	135643	135696	Butyrophylin	335.0	+	135643	135696	83,88,95	1	53	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
+Zv9_scaffold3531	135694	135747	Butyrophylin	182.0	+	135694	135747	83,88,95	1	53	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
+Zv9_scaffold3531	135760	135834	Butyrophylin	373.0	+	135760	135834	83,88,95	1	74	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
+Zv9_scaffold3531	135646	135807	PRY	61.1	+	135646	135807	83,88,95	1	161	0	SM00589	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00589
+Zv9_scaffold3531	127214	127297	Leu-rich_rpt_RNase_inh_sub-typ	27.0	+	127214	127297	83,88,95	1	83	0	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
+Zv9_scaffold3531	127319	135864	B30.2/SPRY	8.65	+	127319	135864	83,88,95	3	4,46,220	0,826,8325	PS50188	http://www.expasy.ch/prosite/PS50188
+Zv9_scaffold3531	128170	135834	ConA-like_lec_gl_sf	0.0	+	128170	135834	83,88,95	2	21,190	0,7474	SSF49899	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49899

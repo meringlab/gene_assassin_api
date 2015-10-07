@@ -1,25 +1,11 @@
-browser position chr1:28027491-28031533
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000053502	ENSDART00000075539	ENSDARP00000070021	28027491	28031533	###
-#	PS01031	IPR002068	64	146	\N	0.0	0.0	EVRSDREKFTVYLDVKHFSPDELSVKVTDDYVEIQGKHGERQDDHGYISREFHRRYRLPSNVDQSAITCTLSADGLLTLCGPK
-1	28027811	28030685	a-crystallin/Hsp20_dom_(PS01031)	20.985	+
-#	PR00299	IPR001436	2	14	\N	4.5999999999999995e-63	74.86	DIAIQHPWFRRTL
-1	28027625	28027663	Alpha-crystallin/HSP_(PR00299)	596.0	+
-#	PR00299	IPR001436	16	28	\N	4.5999999999999995e-63	86.13	YPTRLFDQFFGEG
-1	28027667	28027705	Alpha-crystallin/HSP_(PR00299)	640.0	+
-#	PR00299	IPR001436	66	86	\N	4.5999999999999995e-63	69.9	RSDREKFTVYLDVKHFSPDEL
-1	28028262	28028324	Alpha-crystallin/HSP_(PR00299)	867.0	+
-#	PR00299	IPR001436	88	101	\N	4.5999999999999995e-63	70.15	VKVTDDYVEIQGKH
-1	28028328	28028369	Alpha-crystallin/HSP_(PR00299)	538.0	+
-#	PR00299	IPR001436	103	122	\N	4.5999999999999995e-63	94.02	ERQDDHGYISREFHRRYRLP
-1	28028373	28030613	Alpha-crystallin/HSP_(PR00299)	1082.0	+
-#	PR00299	IPR001436	125	146	\N	4.5999999999999995e-63	68.99	VDQSAITCTLSADGLLTLCGPK
-1	28030620	28030685	Alpha-crystallin/HSP_(PR00299)	815.0	+
-#	PR00299	IPR001436	156	171	\N	4.5999999999999995e-63	49.67	DRTIPVTREDKSNSGS
-1	28030713	28030760	Alpha-crystallin/HSP_(PR00299)	420.0	+
-#	PF00011	IPR002068	64	161	\N	1.1e-31	0.0	EVRSDREKFTVYLDVKHFSPDELSVKVTDDYVEIQGKHGERQDDHGYISREFHRRYRLPSNVDQSAITCTLSADGLLTLCGPKTSGIDAGRGDRTIPV
-1	28027811	28030730	a-crystallin/Hsp20_dom_(PF00011)	96.2	+
-#	PF00525	IPR003090	1	52	\N	4.8e-29	0.0	MDIAIQHPWFRRTLGYPTRLFDQFFGEGLFDYDLFPFTTSTVSPYYRHSLFR
-1	28027622	28027777	Alpha-crystallin_N_(PF00525)	87.9	+
-#	SSF49764	IPR008978	51	162	\N	2.3999999999999997e-19	0.0	FRNILDSSNSGVSEVRSDREKFTVYLDVKHFSPDELSVKVTDDYVEIQGKHGERQDDHGYISREFHRRYRLPSNVDQSAITCTLSADGLLTLCGPKTSGIDAGRGDRTIPVT
-1	28027772	28030733	HSP20-like_chaperone_(SSF49764)	0.0	+
+1	28027811	28030685	a-crystallin/Hsp20_dom	20.985	+	28027811	28030685	83,88,95	3	2,122,122	0,448,2752	PS01031	http://www.expasy.ch/prosite/PS01031
+1	28027625	28027663	Alpha-crystallin/HSP	596.0	+	28027625	28027663	83,88,95	1	38	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+1	28027667	28027705	Alpha-crystallin/HSP	640.0	+	28027667	28027705	83,88,95	1	38	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+1	28028262	28028324	Alpha-crystallin/HSP	867.0	+	28028262	28028324	83,88,95	1	62	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+1	28028328	28028369	Alpha-crystallin/HSP	538.0	+	28028328	28028369	83,88,95	1	41	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+1	28028373	28030613	Alpha-crystallin/HSP	1082.0	+	28028373	28030613	83,88,95	2	8,50	0,2190	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+1	28030620	28030685	Alpha-crystallin/HSP	815.0	+	28030620	28030685	83,88,95	1	65	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+1	28030713	28030760	Alpha-crystallin/HSP	420.0	+	28030713	28030760	83,88,95	1	47	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+1	28027811	28030730	a-crystallin/Hsp20_dom	96.2	+	28027811	28030730	83,88,95	3	2,122,167	0,448,2752	PF00011	http://pfam.sanger.ac.uk/family?acc=PF00011
+1	28027622	28027777	Alpha-crystallin_N	87.9	+	28027622	28027777	83,88,95	1	155	0	PF00525	http://pfam.sanger.ac.uk/family?acc=PF00525
+1	28027772	28030733	HSP20-like_chaperone	0.0	+	28027772	28030733	83,88,95	3	41,122,170	0,487,2791	SSF49764	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49764

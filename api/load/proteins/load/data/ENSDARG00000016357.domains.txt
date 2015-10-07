@@ -1,67 +1,32 @@
-browser position chr20:15099468-15110570
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000016357	ENSDART00000034011	ENSDARP00000038651	15099468	15110570	###
-#	PR00370	IPR000960	3	19	\N	1.3999999999999996e-107	69.41	KRVAIIGGGTSGLACIK
-20	15105353	15105403	Flavin_mOase_(PR00370)	592.0	-
-#	PR00370	IPR000960	27	51	\N	1.3999999999999996e-107	66.4	EPVCFETSDDIGGLWRFKENPDAGR
-20	15104681	15105331	Flavin_mOase_(PR00370)	988.0	-
-#	PR00370	IPR000960	55	73	\N	1.3999999999999996e-107	63.95	YHSLIINTSKEMMCYSDYP
-20	15104615	15104671	Flavin_mOase_(PR00370)	724.0	-
-#	PR00370	IPR000960	79	94	\N	1.3999999999999996e-107	54.38	PNYMHNSLIMEYFRMY
-20	15104552	15104599	Flavin_mOase_(PR00370)	561.0	-
-#	PR00370	IPR000960	104	116	\N	1.3999999999999996e-107	43.85	IRFQTRVLHVTPR
-20	15104378	15104524	Flavin_mOase_(PR00370)	246.0	-
-#	PR00370	IPR000960	141	157	\N	1.3999999999999996e-107	72.94	FDAVMVCTGHHCHPHLP
-20	15104255	15104305	Flavin_mOase_(PR00370)	735.0	-
-#	PR00370	IPR000960	172	186	\N	1.3999999999999996e-107	62.33	FHSRDYKNPEDWRGK
-20	15103197	15103241	Flavin_mOase_(PR00370)	546.0	-
-#	PR00370	IPR000960	199	214	\N	1.3999999999999996e-107	68.12	DIAVELSRMAKQVYLS
-20	15103018	15103160	Flavin_mOase_(PR00370)	509.0	-
-#	PR00370	IPR000960	297	314	\N	1.3999999999999996e-107	42.5	TVSVKPNVQEFRGSSVVF
-20	15102576	15102629	Flavin_mOase_(PR00370)	390.0	-
-#	PR00370	IPR000960	316	343	\N	1.3999999999999996e-107	60.89	DGTVEDNIDLVVFATGYTFSFPFLSSHV
-20	15102489	15102572	Flavin_mOase_(PR00370)	956.0	-
-#	PR00370	IPR000960	364	381	\N	1.3999999999999996e-107	65.83	RSTLAVIGLIQPLGAIMP
-20	15102375	15102428	Flavin_mOase_(PR00370)	598.0	-
-#	PR00370	IPR000960	381	394	\N	1.3999999999999996e-107	63.57	PISEMQARWATRVF
-20	15102336	15102377	Flavin_mOase_(PR00370)	497.0	-
-#	PR01125	IPR002257	87	99	\N	1.3999999999999998e-20	61.54	IMEYFRMYAENFQ
-20	15104537	15104575	Flavin_mOase_5_(PR01125)	500.0	-
-#	PR01125	IPR002257	207	217	\N	1.3999999999999998e-20	72.73	MAKQVYLSTRK
-20	15103009	15103136	Flavin_mOase_5_(PR01125)	400.0	-
-#	PR01125	IPR002257	275	286	\N	1.3999999999999998e-20	64.58	EHRFFSQHPMVN
-20	15102660	15102837	Flavin_mOase_5_(PR01125)	442.0	-
-#	PR01125	IPR002257	345	353	\N	1.3999999999999998e-20	63.89	PVSNNKVSL
-20	15102459	15102485	Flavin_mOase_5_(PR01125)	237.0	-
-#	PR01125	IPR002257	402	421	\N	1.3999999999999998e-20	41.25	SMNAMMNDIKSKEEAMARRY
-20	15100307	15100476	Flavin_mOase_5_(PR01125)	421.0	-
-#	PR01125	IPR002257	421	432	\N	1.3999999999999998e-20	83.33	YVVSQRHTIQVD
-20	15100274	15100309	Flavin_mOase_5_(PR01125)	475.0	-
-#	PR01121	IPR002253	82	98	\N	1.5e-13	45.88	MHNSLIMEYFRMYAENF
-20	15104540	15104590	Flavin_mOase_1_(PR01121)	453.0	-
-#	PR01121	IPR002253	207	219	\N	1.5e-13	52.31	MAKQVYLSTRKGS
-20	15103003	15103136	Flavin_mOase_1_(PR01121)	348.0	-
-#	PR01121	IPR002253	291	304	\N	1.5e-13	40.0	NRILSGTVSVKPNV
-20	15102606	15102647	Flavin_mOase_1_(PR01121)	367.0	-
-#	PR01121	IPR002253	343	353	\N	1.5e-13	34.55	VIPVSNNKVSL
-20	15102459	15102491	Flavin_mOase_1_(PR01121)	198.0	-
-#	PR01121	IPR002253	396	405	\N	1.5e-13	36.0	GLCKLPSMNA
-20	15100465	15100494	Flavin_mOase_1_(PR01121)	164.0	-
-#	PR01121	IPR002253	496	512	\N	1.5e-13	32.94	VMKPLKTRCREEPQSQS
-20	15100034	15100084	Flavin_mOase_1_(PR01121)	182.0	-
-#	PR01122	IPR002254	86	98	\N	5.5e-06	46.15	LIMEYFRMYAENF
-20	15104540	15104578	Flavin_mOase_2_(PR01122)	403.0	-
-#	PR01122	IPR002254	107	115	\N	5.5e-06	51.85	QTRVLHVTP
-20	15104381	15104515	Flavin_mOase_2_(PR01122)	170.0	-
-#	PR01122	IPR002254	343	353	\N	5.5e-06	42.42	VIPVSNNKVSL
-20	15102459	15102491	Flavin_mOase_2_(PR01122)	259.0	-
-#	PR01122	IPR002254	423	435	\N	5.5e-06	33.33	VSQRHTIQVDYIP
-20	15100265	15100303	Flavin_mOase_2_(PR01122)	222.0	-
-#	PR01122	IPR002254	442	456	\N	5.5e-06	24.44	KQVGVRPSIPRLLLT
-20	15100202	15100246	Flavin_mOase_2_(PR01122)	213.0	-
-#	PF00743	IPR020946	2	522	\N	4.999999999999998e-257	0.0	AKRVAIIGGGTSGLACIKCCLDEGLEPVCFETSDDIGGLWRFKENPDAGRASIYHSLIINTSKEMMCYSDYPIPAHFPNYMHNSLIMEYFRMYAENFQLKRHIRFQTRVLHVTPRPDFPHSGQWDVETESKDGQREKQVFDAVMVCTGHHCHPHLPLKDFPGIDTFKGRFFHSRDYKNPEDWRGKRVVVIGIGNSGGDIAVELSRMAKQVYLSTRKGSWILNRVGDNGIPSDMLFNRRLQNWFLKMLPVGFVNNMGESRLNKRFDHKLYGLQPEHRFFSQHPMVNDDLPNRILSGTVSVKPNVQEFRGSSVVFEDGTVEDNIDLVVFATGYTFSFPFLSSHVIPVSNNKVSLYKFVYPPGLERSTLAVIGLIQPLGAIMPISEMQARWATRVFKGLCKLPSMNAMMNDIKSKEEAMARRYVVSQRHTIQVDYIPYMDELAKQVGVRPSIPRLLLTDPRLAFKIIFGPCTPYQFRLHGPGQWEGARQAILTQWDRVMKPLKTRCREEPQSQSFLHSLIFSVS
-20	15100004	15105406	Flavin_mOase-like_(PF00743)	840.5	-
-#	PF07992	IPR023753	4	255	\N	4.7000000000000006e-12	0.0	RVAIIGGGTSGLACIKCCLDEGLEPVCFETSDDIGGLWRFKENPDAGRASIYHSLIINTSKEMMCYSDYPIPAHFPNYMHNSLIMEYFRMYAENFQLKRHIRFQTRVLHVTPRPDFPHSGQWDVETESKDGQREKQVFDAVMVCTGHHCHPHLPLKDFPGIDTFKGRFFHSRDYKNPEDWRGKRVVVIGIGNSGGDIAVELSRMAKQVYLSTRKGSWILNRVGDNGIPSDMLFNRRLQNWFLKMLPVGFVNN
-20	15102895	15105400	Pyr_nucl-diS_OxRdtase_FAD/NAD_(PF07992)	33.2	-
-#	PIRSF000332	IPR012143	1	534	\N	0.0	0.0	MAKRVAIIGGGTSGLACIKCCLDEGLEPVCFETSDDIGGLWRFKENPDAGRASIYHSLIINTSKEMMCYSDYPIPAHFPNYMHNSLIMEYFRMYAENFQLKRHIRFQTRVLHVTPRPDFPHSGQWDVETESKDGQREKQVFDAVMVCTGHHCHPHLPLKDFPGIDTFKGRFFHSRDYKNPEDWRGKRVVVIGIGNSGGDIAVELSRMAKQVYLSTRKGSWILNRVGDNGIPSDMLFNRRLQNWFLKMLPVGFVNNMGESRLNKRFDHKLYGLQPEHRFFSQHPMVNDDLPNRILSGTVSVKPNVQEFRGSSVVFEDGTVEDNIDLVVFATGYTFSFPFLSSHVIPVSNNKVSLYKFVYPPGLERSTLAVIGLIQPLGAIMPISEMQARWATRVFKGLCKLPSMNAMMNDIKSKEEAMARRYVVSQRHTIQVDYIPYMDELAKQVGVRPSIPRLLLTDPRLAFKIIFGPCTPYQFRLHGPGQWEGARQAILTQWDRVMKPLKTRCREEPQSQSFLHSLIFSVSVAGLLSALYYGR
-20	15099968	15105409	DiMe-aniline_mOase_(PIRSF000332)	1191.8	-
+20	15105353	15105403	Flavin_mOase	592.0	-	15105353	15105403	83,88,95	1	50	0	PR00370	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00370&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00370
+20	15104681	15105331	Flavin_mOase	988.0	-	15104681	15105331	83,88,95	2	597,630	0,20	PR00370	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00370&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00370
+20	15104615	15104671	Flavin_mOase	724.0	-	15104615	15104671	83,88,95	1	56	0	PR00370	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00370&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00370
+20	15104552	15104599	Flavin_mOase	561.0	-	15104552	15104599	83,88,95	1	47	0	PR00370	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00370&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00370
+20	15104378	15104524	Flavin_mOase	246.0	-	15104378	15104524	83,88,95	2	135,120	0,26	PR00370	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00370&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00370
+20	15104255	15104305	Flavin_mOase	735.0	-	15104255	15104305	83,88,95	1	50	0	PR00370	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00370&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00370
+20	15103197	15103241	Flavin_mOase	546.0	-	15103197	15103241	83,88,95	1	44	0	PR00370	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00370&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00370
+20	15103018	15103160	Flavin_mOase	509.0	-	15103018	15103160	83,88,95	2	107,131	0,11	PR00370	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00370&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00370
+20	15102576	15102629	Flavin_mOase	390.0	-	15102576	15102629	83,88,95	1	53	0	PR00370	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00370&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00370
+20	15102489	15102572	Flavin_mOase	956.0	-	15102489	15102572	83,88,95	1	83	0	PR00370	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00370&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00370
+20	15102375	15102428	Flavin_mOase	598.0	-	15102375	15102428	83,88,95	1	53	0	PR00370	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00370&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00370
+20	15102336	15102377	Flavin_mOase	497.0	-	15102336	15102377	83,88,95	1	41	0	PR00370	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00370&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00370
+20	15104537	15104575	Flavin_mOase_5	500.0	-	15104537	15104575	83,88,95	1	38	0	PR01125	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01125&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01125
+20	15103009	15103136	Flavin_mOase_5	400.0	-	15103009	15103136	83,88,95	2	116,107	0,20	PR01125	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01125&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01125
+20	15102660	15102837	Flavin_mOase_5	442.0	-	15102660	15102837	83,88,95	2	170,150	0,27	PR01125	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01125&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01125
+20	15102459	15102485	Flavin_mOase_5	237.0	-	15102459	15102485	83,88,95	1	26	0	PR01125	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01125&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01125
+20	15100307	15100476	Flavin_mOase_5	421.0	-	15100307	15100476	83,88,95	2	114,166	0,3	PR01125	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01125&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01125
+20	15100274	15100309	Flavin_mOase_5	475.0	-	15100274	15100309	83,88,95	1	35	0	PR01125	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01125&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01125
+20	15104540	15104590	Flavin_mOase_1	453.0	-	15104540	15104590	83,88,95	1	50	0	PR01121	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01121&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01121
+20	15103003	15103136	Flavin_mOase_1	348.0	-	15103003	15103136	83,88,95	2	122,107	0,26	PR01121	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01121&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01121
+20	15102606	15102647	Flavin_mOase_1	367.0	-	15102606	15102647	83,88,95	1	41	0	PR01121	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01121&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01121
+20	15102459	15102491	Flavin_mOase_1	198.0	-	15102459	15102491	83,88,95	1	32	0	PR01121	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01121&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01121
+20	15100465	15100494	Flavin_mOase_1	164.0	-	15100465	15100494	83,88,95	1	29	0	PR01121	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01121&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01121
+20	15100034	15100084	Flavin_mOase_1	182.0	-	15100034	15100084	83,88,95	1	50	0	PR01121	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01121&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01121
+20	15104540	15104578	Flavin_mOase_2	403.0	-	15104540	15104578	83,88,95	1	38	0	PR01122	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01122&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01122
+20	15104381	15104515	Flavin_mOase_2	170.0	-	15104381	15104515	83,88,95	2	132,111	0,23	PR01122	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01122&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01122
+20	15102459	15102491	Flavin_mOase_2	259.0	-	15102459	15102491	83,88,95	1	32	0	PR01122	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01122&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01122
+20	15100265	15100303	Flavin_mOase_2	222.0	-	15100265	15100303	83,88,95	1	38	0	PR01122	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01122&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01122
+20	15100202	15100246	Flavin_mOase_2	213.0	-	15100202	15100246	83,88,95	1	44	0	PR01122	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01122&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01122
+20	15100004	15105406	Flavin_mOase-like	840.5	-	15100004	15105406	83,88,95	8	5274,-188,-165,-142,-199,-355,-72,5096	0,4697,4400,3263,3025,2683,489,306	PF00743	http://pfam.sanger.ac.uk/family?acc=PF00743
+20	15102895	15105400	Pyr_nucl-diS_OxRdtase_FAD/NAD	33.2	-	15102895	15105400	83,88,95	5	2383,-188,-165,-142,2371	0,1806,1509,372,134	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992
+20	15099968	15105409	DiMe-aniline_mOase	1191.8	-	15099968	15105409	83,88,95	8	5310,-188,-165,-142,-199,-355,-72,5099	0,4733,4436,3299,3061,2719,525,342	PIRSF000332	None

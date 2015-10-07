@@ -1,23 +1,10 @@
-browser position chr1:59144814-59154559
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000087063	ENSDART00000109641	ENSDARP00000098345	59144814	59154559	###
-#	PR01210	IPR000101	83	108	\N	4.2e-74	55.59	SAVDAAIAALLCVSVINPQSIGIGGG
-1	59153305	59153382	GGT_peptidase_(PR01210)	744.0	-
-#	PR01210	IPR000101	151	169	\N	4.2e-74	48.33	LIAVPGELRGYKLAHDRHG
-1	59150072	59150128	GGT_peptidase_(PR01210)	472.0	-
-#	PR01210	IPR000101	169	188	\N	4.2e-74	50.0	GRLEWKELFKPSIKLARKGF
-1	59150015	59150074	GGT_peptidase_(PR01210)	515.0	-
-#	PR01210	IPR000101	268	284	\N	4.2e-74	31.28	NITRKDLTDYEPVLTES
-1	59149155	59149205	GGT_peptidase_(PR01210)	221.0	-
-#	PR01210	IPR000101	298	317	\N	4.2e-74	33.41	PGAPFGGPVLTLIMKILLGN
-1	59149056	59149115	GGT_peptidase_(PR01210)	243.0	-
-#	PR01210	IPR000101	412	430	\N	4.2e-74	54.07	TSHVSVIDAEGNAVAVTSS
-1	59146959	59147015	GGT_peptidase_(PR01210)	555.0	-
-#	PR01210	IPR000101	436	454	\N	4.2e-74	43.3	GSGVMSECTGIIFNDQMKD
-1	59146308	59146364	GGT_peptidase_(PR01210)	415.0	-
-#	PR01210	IPR000101	465	480	\N	4.2e-74	62.5	KGKRPLSSMCPTIILD
-1	59146111	59146277	GGT_peptidase_(PR01210)	507.0	-
-#	PR01210	IPR000101	494	511	\N	4.2e-74	46.46	GAEGGTNITTAVAQVILN
-1	59145821	59146071	GGT_peptidase_(PR01210)	405.0	-
-#	PF01019	IPR000101	76	584	\N	2.0999999999999996e-152	0.0	DILQRGGSAVDAAIAALLCVSVINPQSIGIGGGVVFTIYNASTGKVETINARETAPMSATADMFDNNNNNTKPGLLIAVPGELRGYKLAHDRHGRLEWKELFKPSIKLARKGFKIGKALADAIKEEEDKFQKNTTLCEVFCDADYNLPKINDYIRFSQLAATYRKISEEGPDAFYNGSLTQSIVDDIRAAGGNITRKDLTDYEPVLTESAINFNVGKYIFHAPGAPFGGPVLTLIMKILLGNGTKGFSGFNLSKKSVSTTKNKTLTYHRIIETLCIADVEKTKLGDPLKQPIVNEVVKNMISDSFADHNRSEIDDSIATACNKSNNVSKSVPDDSGTSHVSVIDAEGNAVAVTSSINNYFGSGVMSECTGIIFNDQMKDFTDNEHNRIEKGKRPLSSMCPTIILDEEKENSEKVTMVVGAEGGTNITTAVAQVILNYLYFDYDLKDAVNASRVQIKNNVTNVEPGFDKDVIKGLEQKYHVIGNKTEVSVVQVIDREKDKVCAVSDHRKY
-1	59145497	59153403	GGT_peptidase_(PF01019)	494.4	-
+1	59153305	59153382	GGT_peptidase	744.0	-	59153305	59153382	83,88,95	1	77	0	PR01210	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01210&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01210
+1	59150072	59150128	GGT_peptidase	472.0	-	59150072	59150128	83,88,95	1	56	0	PR01210	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01210&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01210
+1	59150015	59150074	GGT_peptidase	515.0	-	59150015	59150074	83,88,95	1	59	0	PR01210	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01210&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01210
+1	59149155	59149205	GGT_peptidase	221.0	-	59149155	59149205	83,88,95	1	50	0	PR01210	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01210&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01210
+1	59149056	59149115	GGT_peptidase	243.0	-	59149056	59149115	83,88,95	1	59	0	PR01210	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01210&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01210
+1	59146959	59147015	GGT_peptidase	555.0	-	59146959	59147015	83,88,95	1	56	0	PR01210	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01210&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01210
+1	59146308	59146364	GGT_peptidase	415.0	-	59146308	59146364	83,88,95	1	56	0	PR01210	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01210&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01210
+1	59146111	59146277	GGT_peptidase	507.0	-	59146111	59146277	83,88,95	2	164,122	0,44	PR01210	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01210&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01210
+1	59145821	59146071	GGT_peptidase	405.0	-	59145821	59146071	83,88,95	2	210,238	0,12	PR01210	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01210&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01210
+1	59145497	59153403	GGT_peptidase	494.4	-	59145497	59153403	83,88,95	11	7778,-89,-189,-160,-164,-148,-190,-94,-124,-107,7783	0,5253,4637,3973,3714,2606,1642,872,658,336,123	PF01019	http://pfam.sanger.ac.uk/family?acc=PF01019

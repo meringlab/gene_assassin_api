@@ -1,15 +1,6 @@
-browser position chr8:43276859-43294653
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000079932	ENSDART00000111321	ENSDARP00000097937	43276859	43294653	###
-#	PR00481	IPR011356	50	67	\N	2e-28	63.37	LMLVGKGITYDTGGADIK
-8	43278294	43279763	Leucine_aapep/pepB_(PR00481)	630.0	+
-#	PR00481	IPR011356	72	93	\N	2e-28	38.55	MAGMHRDKCGSAAVAGFFQILA
-8	43279776	43282105	Leucine_aapep/pepB_(PR00481)	317.0	+
-#	PR00481	IPR011356	110	131	\N	2e-28	17.0	RNSVGSDCYVADELVVSRAGRR
-8	43282154	43282293	Leucine_aapep/pepB_(PR00481)	174.0	+
-#	PR00481	IPR011356	132	152	\N	2e-28	48.5	IRVGNTDAEGRMVMVDLLCEM
-8	43282294	43282356	Leucine_aapep/pepB_(PR00481)	523.0	+
-#	PR00481	IPR011356	164	179	\N	2e-28	44.91	LFTIATLTGHAIRAMG
-8	43282539	43282586	Leucine_aapep/pepB_(PR00481)	335.0	+
-#	PF00883	IPR000819	2	282	\N	1.7e-46	0.0	VTVVSNLNTLEKEYPCLAAVNRCANAVPRHQARVIKLQYCGEGPIEQTLMLVGKGITYDTGGADIKAGGIMAGMHRDKCGSAAVAGFFQILAKLKPKHLKVVGAMAMVRNSVGSDCYVADELVVSRAGRRIRVGNTDAEGRMVMVDLLCEMKEQALQEVSPHLFTIATLTGHAIRAMGPKYSIIMDNGAARRAGNDLEWQKAGEVLGDLFEVSTIRREDYEFHKGKSEYEDILQANNLPSSATPRGHQTPAAFLIMASGLDQHGVDSAKPLPYSHIDIAGS
-8	43276862	43294024	Peptidase_M17_C_(PF00883)	144.8	+
+8	43278294	43279763	Leucine_aapep/pepB	630.0	+	43278294	43279763	83,88,95	2	16,36	0,1433	PR00481	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00481&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00481
+8	43279776	43282105	Leucine_aapep/pepB	317.0	+	43279776	43282105	83,88,95	2	55,9	0,2320	PR00481	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00481&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00481
+8	43282154	43282293	Leucine_aapep/pepB	174.0	+	43282154	43282293	83,88,95	2	17,47	0,92	PR00481	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00481&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00481
+8	43282294	43282356	Leucine_aapep/pepB	523.0	+	43282294	43282356	83,88,95	1	62	0	PR00481	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00481&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00481
+8	43282539	43282586	Leucine_aapep/pepB	335.0	+	43282539	43282586	83,88,95	1	47	0	PR00481	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00481&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00481
+8	43276862	43294024	Peptidase_M17_C	144.8	+	43276862	43294024	83,88,95	9	74,85,104,75,118,83,57,181,57	0,1363,2865,5234,5384,5652,11602,11739,17105	PF00883	http://pfam.sanger.ac.uk/family?acc=PF00883

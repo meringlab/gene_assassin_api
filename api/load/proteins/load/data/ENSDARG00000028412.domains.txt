@@ -1,15 +1,6 @@
-browser position chrZv9_NA89:1490-3253
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000028412	ENSDART00000115315	ENSDARP00000104349	1490	3253	###
-#	PF01186	IPR001695	1	119	\N	1.4999999999999996e-66	0.0	MNEFCHYDLLDSRTQQRVAEGHKASFCLEDTSCDPGYHRRYACTSHTQGLSPGCYDTYSADIDCQWIDITDVQPGRYILKVTVNPGFQVSESDFSNNIVRCDVHYTGNYAHVSGCTVSP
-Zv9_NA89	1490	3154	Lysyl_oxidase_(PF01186)	210.3	+
-#	PR00074	IPR001695	84	101	\N	5.599999999999999e-54	65.28	NPGFQVSESDFSNNIVRC
-Zv9_NA89	3047	3100	Lysyl_oxidase_(PR00074)	707.0	+
-#	PR00074	IPR001695	102	120	\N	5.599999999999999e-54	56.58	DVHYTGNYAHVSGCTVSPH
-Zv9_NA89	3101	3250	Lysyl_oxidase_(PR00074)	750.0	+
-#	PR00074	IPR001695	64	83	\N	5.599999999999999e-54	87.5	CQWIDITDVQPGRYILKVTV
-Zv9_NA89	2604	3046	Lysyl_oxidase_(PR00074)	990.0	+
-#	PR00074	IPR001695	41	63	\N	5.599999999999999e-54	88.04	YACTSHTQGLSPGCYDTYSADID
-Zv9_NA89	1610	2603	Lysyl_oxidase_(PR00074)	1227.0	+
-#	PR00074	IPR001695	18	39	\N	5.599999999999999e-54	94.32	VAEGHKASFCLEDTSCDPGYHR
-Zv9_NA89	1541	1606	Lysyl_oxidase_(PR00074)	1155.0	+
+Zv9_NA89	1490	3154	Lysyl_oxidase	210.3	+	1490	3154	83,88,95	3	143,95,116	0,1069,1548	PF01186	http://pfam.sanger.ac.uk/family?acc=PF01186
+Zv9_NA89	3047	3100	Lysyl_oxidase	707.0	+	3047	3100	83,88,95	1	53	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+Zv9_NA89	3101	3250	Lysyl_oxidase	750.0	+	3101	3250	83,88,95	2	52,3	0,146	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+Zv9_NA89	2604	3046	Lysyl_oxidase	990.0	+	2604	3046	83,88,95	2	50,8	0,434	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+Zv9_NA89	1610	2603	Lysyl_oxidase	1227.0	+	1610	2603	83,88,95	2	23,44	0,949	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+Zv9_NA89	1541	1606	Lysyl_oxidase	1155.0	+	1541	1606	83,88,95	1	65	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074

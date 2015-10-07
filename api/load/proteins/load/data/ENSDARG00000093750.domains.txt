@@ -1,15 +1,6 @@
-browser position chr5:55512580-55514561
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000093750	ENSDART00000145765	ENSDARP00000116931	55512580	55514561	###
-#	SM00369	IPR003591	489	512	\N	18.0	0.0	LRHLNHIDLSENKFVKLSTSGFYS
-5	55514136	55514207	Leu-rich_rpt_typical-subtyp_(SM00369)	11.2	+
-#	SM00369	IPR003591	465	488	\N	14.0	0.0	VPLLETLVLSACKITSFDENLFKG
-5	55514064	55514135	Leu-rich_rpt_typical-subtyp_(SM00369)	12.0	+
-#	SM00369	IPR003591	266	289	\N	40.0	0.0	LEGLKKLDLTRAHLNALPLNTTGL
-5	55513467	55513538	Leu-rich_rpt_typical-subtyp_(SM00369)	8.4	+
-#	SM00369	IPR003591	438	464	\N	49.0	0.0	LKALQHLNLRGNAIQGEVLTQTELFKC
-5	55513983	55514063	Leu-rich_rpt_typical-subtyp_(SM00369)	7.6	+
-#	SM00369	IPR003591	67	89	\N	25.0	0.0	PHLEVLLLTGNPLVFIASTAFSG
-5	55512870	55512938	Leu-rich_rpt_typical-subtyp_(SM00369)	9.9	+
-#	SM00369	IPR003591	42	65	\N	38.0	0.0	LKSLRSLDVTRCSITFIYEDVFTY
-5	55512703	55512866	Leu-rich_rpt_typical-subtyp_(SM00369)	8.6	+
+5	55514136	55514207	Leu-rich_rpt_typical-subtyp	11.2	+	55514136	55514207	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	55514064	55514135	Leu-rich_rpt_typical-subtyp	12.0	+	55514064	55514135	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	55513467	55513538	Leu-rich_rpt_typical-subtyp	8.4	+	55513467	55513538	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	55513983	55514063	Leu-rich_rpt_typical-subtyp	7.6	+	55513983	55514063	83,88,95	1	80	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	55512870	55512938	Leu-rich_rpt_typical-subtyp	9.9	+	55512870	55512938	83,88,95	1	68	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	55512703	55512866	Leu-rich_rpt_typical-subtyp	8.6	+	55512703	55512866	83,88,95	2	31,39	0,124	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369

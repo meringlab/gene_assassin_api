@@ -1,13 +1,5 @@
-browser position chrZv9_scaffold3525:60108-65009
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000018800	ENSDART00000026816	ENSDARP00000018961	60108	65009	###
-#	PR02049	IPR023242	17	32	\N	1.7999999999999998e-31	57.46	LDIHNTPCAREAILHG
-Zv9_scaffold3525	62100	62147	FAM36A_(PR02049)	543.0	+
-#	PR02049	IPR023242	35	49	\N	1.7999999999999998e-31	69.25	GSVAAGLLHFLATSR
-Zv9_scaffold3525	62154	62292	FAM36A_(PR02049)	500.0	+
-#	PR02049	IPR023242	55	74	\N	1.7999999999999998e-31	59.03	DVGVAGFMITTLGSWFYCRY
-Zv9_scaffold3525	62308	64783	FAM36A_(PR02049)	696.0	+
-#	PR02049	IPR023242	86	102	\N	1.7999999999999998e-31	48.2	IQEGLKNKVFYEGTDLD
-Zv9_scaffold3525	64817	64867	FAM36A_(PR02049)	502.0	+
-#	PF12597	IPR022533	9	78	\N	6.3e-19	0.0	QGMKVLGILDIHNTPCAREAILHGAAGSVAAGLLHFLATSRVKRSFDVGVAGFMITTLGSWFYCRYNNAK
-Zv9_scaffold3525	60132	64795	Cox20/FAM36A_(PF12597)	54.3	+
+Zv9_scaffold3525	62100	62147	FAM36A	543.0	+	62100	62147	83,88,95	1	47	0	PR02049	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02049&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02049
+Zv9_scaffold3525	62154	62292	FAM36A	500.0	+	62154	62292	83,88,95	2	39,4	0,134	PR02049	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02049&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02049
+Zv9_scaffold3525	62308	64783	FAM36A	696.0	+	62308	64783	83,88,95	2	43,15	0,2460	PR02049	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02049&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02049
+Zv9_scaffold3525	64817	64867	FAM36A	502.0	+	64817	64867	83,88,95	1	50	0	PR02049	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02049&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02049
+Zv9_scaffold3525	60132	64795	Cox20/FAM36A	54.3	+	60132	64795	83,88,95	4	2,114,63,27	0,1947,2156,4636	PF12597	http://pfam.sanger.ac.uk/family?acc=PF12597

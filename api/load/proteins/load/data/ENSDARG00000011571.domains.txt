@@ -1,49 +1,23 @@
-browser position chr6:11591958-11615627
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000011571	ENSDART00000043908	ENSDARP00000043907	11602678	11615627	###
-#	SM00008	IPR001879	74	149	\N	4.6e-20	0.0	DGSMCKRTWDGWLCWEYMEPGVTSAQHCPNYFDDFDTSEVATKICTNSGHWFVHPESNRTWSNYTDCRLKSNDHKK
-6	11606138	11606457	GPCR_2_extracellular_dom_(SM00008)	82.7	+
-#	PS50227	IPR001879	59	144	\N	0.0	0.0	ECYQKIMKDTNHNKTDGSMCKRTWDGWLCWEYMEPGVTSAQHCPNYFDDFDTSEVATKICTNSGHWFVHPESNRTWSNYTDCRLKS
-6	11602852	11606442	GPCR_2_extracellular_dom_(PS50227)	20.173	+
-#	PS50261	IPR017981	154	405	\N	0.0	0.0	LYYLTLIGHGLSLISLFTSLGIFFYFNNRSLSCQRITLHKNLFFSFVLNSVITIIFFTCVANNQEVTEANPVSCKVSVFIHHYLLGCNYFWMLCEGIYLHTLIVVAVFAEKQHLMWYYLLGWAGFPLIPAFIHAISRSYYYNDNCWISSNTSLLYIIHGPICAALLVNLFFLLNIVRVLITKLKVTHQAESSVYMRAVRATLILVPLLGIQYLLLPYKPDGRLASEIFIHTTNILMHYQQGLLVATIFCFFN
-6	11607222	11615316	GPCR_2-like_(PS50261)	37.039	+
-#	PF00002	IPR000832	152	397	\N	3.9999999999999994e-73	0.0	LNLYYLTLIGHGLSLISLFTSLGIFFYFNNRSLSCQRITLHKNLFFSFVLNSVITIIFFTCVANNQEVTEANPVSCKVSVFIHHYLLGCNYFWMLCEGIYLHTLIVVAVFAEKQHLMWYYLLGWAGFPLIPAFIHAISRSYYYNDNCWISSNTSLLYIIHGPICAALLVNLFFLLNIVRVLITKLKVTHQAESSVYMRAVRATLILVPLLGIQYLLLPYKPDGRLASEIFIHTTNILMHYQQGLLV
-6	11607216	11615292	GPCR_2_secretin-like_(PF00002)	232.8	+
-#	PF02793	IPR001879	76	141	\N	2.6000000000000004e-18	0.0	SMCKRTWDGWLCWEYMEPGVTSAQHCPNYFDDFDTSEVATKICTNSGHWFVHPESNRTWSNYTDCR
-6	11606144	11606433	GPCR_2_extracellular_dom_(PF02793)	53.3	+
-#	PR00249	IPR000832	156	180	\N	9.2e-50	32.34	YLTLIGHGLSLISLFTSLGIFFYFN
-6	11607228	11607302	GPCR_2_secretin-like_(PR00249)	372.0	+
-#	PR00249	IPR000832	190	214	\N	9.2e-50	30.71	TLHKNLFFSFVLNSVITIIFFTCVA
-6	11607426	11607500	GPCR_2_secretin-like_(PR00249)	352.0	+
-#	PR00249	IPR000832	229	252	\N	9.2e-50	45.76	VSVFIHHYLLGCNYFWMLCEGIYL
-6	11610102	11610173	GPCR_2_secretin-like_(PR00249)	651.0	+
-#	PR00249	IPR000832	268	293	\N	9.2e-50	26.73	MWYYLLGWAGFPLIPAFIHAISRSYY
-6	11610219	11610446	GPCR_2_secretin-like_(PR00249)	247.0	+
-#	PR00249	IPR000832	308	333	\N	9.2e-50	47.26	YIIHGPICAALLVNLFFLLNIVRVLI
-6	11612323	11613477	GPCR_2_secretin-like_(PR00249)	659.0	+
-#	PR00249	IPR000832	350	370	\N	9.2e-50	47.38	AVRATLILVPLLGIQYLLLPY
-6	11613526	11613588	GPCR_2_secretin-like_(PR00249)	543.0	+
-#	PR00249	IPR000832	383	404	\N	9.2e-50	31.59	HTTNILMHYQQGLLVATIFCFF
-6	11613625	11615313	GPCR_2_secretin-like_(PR00249)	321.0	+
-#	PR01350	IPR003287	57	76	\N	1.1999999999999998e-33	24.38	QFECYQKIMKDTNHNKTDGS
-6	11602846	11606146	GCPR_2_calcitonin_rcpt_fam_(PR01350)	224.0	+
-#	PR01350	IPR003287	88	99	\N	1.1999999999999998e-33	36.46	WEYMEPGVTSAQ
-6	11606180	11606215	GCPR_2_calcitonin_rcpt_fam_(PR01350)	217.0	+
-#	PR01350	IPR003287	103	117	\N	1.1999999999999998e-33	56.67	NYFDDFDTSEVATKI
-6	11606225	11606361	GCPR_2_calcitonin_rcpt_fam_(PR01350)	455.0	+
-#	PR01350	IPR003287	124	138	\N	1.1999999999999998e-33	81.67	WFVHPESNRTWSNYT
-6	11606380	11606424	GCPR_2_calcitonin_rcpt_fam_(PR01350)	802.0	+
-#	PR01350	IPR003287	141	161	\N	1.1999999999999998e-33	37.5	RLKSNDHKKTALNLYYLTLIG
-6	11606431	11607245	GCPR_2_calcitonin_rcpt_fam_(PR01350)	378.0	+
-#	PR01350	IPR003287	279	297	\N	1.1999999999999998e-33	67.11	PLIPAFIHAISRSYYYNDN
-6	11610402	11610458	GCPR_2_calcitonin_rcpt_fam_(PR01350)	751.0	+
-#	PR01350	IPR003287	370	390	\N	1.1999999999999998e-33	24.4	YKPDGRLASEIFIHTTNILMH
-6	11613586	11613648	GCPR_2_calcitonin_rcpt_fam_(PR01350)	368.0	+
-#	PR01350	IPR003287	409	423	\N	1.1999999999999998e-33	47.5	QGVLRRHWNQYRTQF
-6	11615415	11615459	GCPR_2_calcitonin_rcpt_fam_(PR01350)	454.0	+
-#	PR01351	IPR003289	46	59	\N	2.6000000000000002e-05	64.29	LNFTRHKILTAQFE
-6	11602813	11602854	GPCR_2_CGRP1_rcpt_(PR01351)	470.0	+
-#	PR01351	IPR003289	211	223	\N	2.6000000000000002e-05	53.85	TCVANNQEVTEAN
-6	11607489	11607527	GPCR_2_CGRP1_rcpt_(PR01351)	350.0	+
-#	PR01351	IPR003289	421	437	\N	2.6000000000000002e-05	44.12	TQFGGTFANTALRSASY
-6	11615451	11615501	GPCR_2_CGRP1_rcpt_(PR01351)	220.0	+
+6	11606138	11606457	GPCR_2_extracellular_dom	82.7	+	11606138	11606457	83,88,95	2	114,112	0,207	SM00008	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00008
+6	11602852	11606442	GPCR_2_extracellular_dom	20.173	+	11602852	11606442	83,88,95	3	45,113,97	0,3287,3493	PS50227	http://www.expasy.ch/prosite/PS50227
+6	11607222	11615316	GPCR_2-like	37.039	+	11607222	11615316	83,88,95	7	79,132,153,63,66,218,38	0,176,2868,3172,5070,6214,8056	PS50261	http://www.expasy.ch/prosite/PS50261
+6	11607216	11615292	GPCR_2_secretin-like	232.8	+	11607216	11615292	83,88,95	7	85,132,153,63,66,218,14	0,182,2874,3178,5076,6220,8062	PF00002	http://pfam.sanger.ac.uk/family?acc=PF00002
+6	11606144	11606433	GPCR_2_extracellular_dom	53.3	+	11606144	11606433	83,88,95	2	108,88	0,201	PF02793	http://pfam.sanger.ac.uk/family?acc=PF02793
+6	11607228	11607302	GPCR_2_secretin-like	372.0	+	11607228	11607302	83,88,95	1	74	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+6	11607426	11607500	GPCR_2_secretin-like	352.0	+	11607426	11607500	83,88,95	1	74	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+6	11610102	11610173	GPCR_2_secretin-like	651.0	+	11610102	11610173	83,88,95	1	71	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+6	11610219	11610446	GPCR_2_secretin-like	247.0	+	11610219	11610446	83,88,95	2	24,52	0,175	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+6	11612323	11613477	GPCR_2_secretin-like	659.0	+	11612323	11613477	83,88,95	2	35,41	0,1113	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+6	11613526	11613588	GPCR_2_secretin-like	543.0	+	11613526	11613588	83,88,95	1	62	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+6	11613625	11615313	GPCR_2_secretin-like	321.0	+	11613625	11615313	83,88,95	2	29,35	0,1653	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+6	11602846	11606146	GCPR_2_calcitonin_rcpt_fam	224.0	+	11602846	11606146	83,88,95	2	51,7	0,3293	PR01350	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01350&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01350
+6	11606180	11606215	GCPR_2_calcitonin_rcpt_fam	217.0	+	11606180	11606215	83,88,95	1	35	0	PR01350	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01350&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01350
+6	11606225	11606361	GCPR_2_calcitonin_rcpt_fam	455.0	+	11606225	11606361	83,88,95	2	27,16	0,120	PR01350	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01350&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01350
+6	11606380	11606424	GCPR_2_calcitonin_rcpt_fam	802.0	+	11606380	11606424	83,88,95	1	44	0	PR01350	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01350&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01350
+6	11606431	11607245	GCPR_2_calcitonin_rcpt_fam	378.0	+	11606431	11607245	83,88,95	2	26,35	0,779	PR01350	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01350&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01350
+6	11610402	11610458	GCPR_2_calcitonin_rcpt_fam	751.0	+	11610402	11610458	83,88,95	1	56	0	PR01350	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01350&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01350
+6	11613586	11613648	GCPR_2_calcitonin_rcpt_fam	368.0	+	11613586	11613648	83,88,95	1	62	0	PR01350	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01350&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01350
+6	11615415	11615459	GCPR_2_calcitonin_rcpt_fam	454.0	+	11615415	11615459	83,88,95	1	44	0	PR01350	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01350&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01350
+6	11602813	11602854	GPCR_2_CGRP1_rcpt	470.0	+	11602813	11602854	83,88,95	1	41	0	PR01351	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01351&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01351
+6	11607489	11607527	GPCR_2_CGRP1_rcpt	350.0	+	11607489	11607527	83,88,95	1	38	0	PR01351	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01351&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01351
+6	11615451	11615501	GPCR_2_CGRP1_rcpt	220.0	+	11615451	11615501	83,88,95	1	50	0	PR01351	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01351&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01351

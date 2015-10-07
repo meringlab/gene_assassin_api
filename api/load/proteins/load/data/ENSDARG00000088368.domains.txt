@@ -1,15 +1,6 @@
-browser position chr9:20503254-20508199
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000088368	ENSDART00000125842	ENSDARP00000110961	20503254	20508199	###
-#	PR00387	IPR023088	2	15	\N	2.3e-18	31.14	TQVDILILMTAAVC
-9	20503258	20503299	PDEase_(PR00387)	229.0	+
-#	PR00387	IPR023088	16	31	\N	2.3e-18	51.5	HDLDHPGYNNTYQINA
-9	20503300	20505851	PDEase_(PR00387)	516.0	+
-#	PR00387	IPR023088	43	59	\N	2.3e-18	40.24	SPLENHHCAVAFQIFSQ
-9	20505885	20505935	PDEase_(PR00387)	359.0	+
-#	PR00387	IPR023088	122	135	\N	2.3e-18	31.0	IKCCDISNEVRPME
-9	20508104	20508145	PDEase_(PR00387)	273.0	+
-#	PR00387	IPR023088	139	153	\N	2.3e-18	30.94	PWVDCLLEEYFMQV
-9	20508155	20508199	PDEase_(PR00387)	254.0	+
-#	PF00233	IPR002073	1	153	\N	1.4999999999999998e-47	0.0	FTQVDILILMTAAVCHDLDHPGYNNTYQINARTELAVRYNDISPLENHHCAVAFQIFSQPDCNIFASFDPEAFKQIRQGTITLILATDMARHGEIMDSFKQKVDSFDYNNEEHVTCLKMVLIKCCDISNEVRPMEVAEPWVDCLLEEYFMQV
-9	20503255	20508199	PDEase_catalytic_dom_(PF00233)	148.7	+
+9	20503258	20503299	PDEase	229.0	+	20503258	20503299	83,88,95	1	41	0	PR00387	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00387&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00387
+9	20503300	20505851	PDEase	516.0	+	20503300	20505851	83,88,95	2	31,15	0,2536	PR00387	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00387&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00387
+9	20505885	20505935	PDEase	359.0	+	20505885	20505935	83,88,95	1	50	0	PR00387	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00387&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00387
+9	20508104	20508145	PDEase	273.0	+	20508104	20508145	83,88,95	1	41	0	PR00387	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00387&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00387
+9	20508155	20508199	PDEase	254.0	+	20508155	20508199	83,88,95	1	44	0	PR00387	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00387&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00387
+9	20503255	20508199	PDEase_catalytic_dom	148.7	+	20503255	20508199	83,88,95	4	76,156,113,110	0,2581,3105,4834	PF00233	http://pfam.sanger.ac.uk/family?acc=PF00233

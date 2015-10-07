@@ -1,25 +1,11 @@
-browser position chr24:33779650-33787776
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000045277	ENSDART00000066590	ENSDARP00000066589	33779650	33787776	###
-#	PR00081	IPR002347	15	32	\N	3.2e-18	41.4	TVLITGANTGIGKETAID
-24	33787681	33787734	Glc/ribitol_DH_(PR00081)	340.0	-
-#	PR00081	IPR002347	91	102	\N	3.2e-18	44.29	KQVNILINNAGV
-24	33785658	33785693	Glc/ribitol_DH_(PR00081)	297.0	-
-#	PR00081	IPR002347	136	152	\N	3.2e-18	27.38	IKRSAPARIINVSSTAH
-24	33785223	33785273	Glc/ribitol_DH_(PR00081)	160.0	-
-#	PR00081	IPR002347	174	193	\N	3.2e-18	33.25	YCQSKLANVLFTRSLAKRLE
-24	33785100	33785159	Glc/ribitol_DH_(PR00081)	208.0	-
-#	PR00081	IPR002347	195	212	\N	3.2e-18	27.27	TGVTAYSLHPGVVQTDLW
-24	33782817	33782870	Glc/ribitol_DH_(PR00081)	222.0	-
-#	PR00080	IPR002198	91	102	\N	1.4e-08	48.71	KQVNILINNAGV
-24	33785658	33785693	DH_sc/Rdtase_SDR_(PR00080)	324.0	-
-#	PR00080	IPR002198	142	150	\N	1.4e-08	44.77	ARIINVSST
-24	33785229	33785255	DH_sc/Rdtase_SDR_(PR00080)	199.0	-
-#	PR00080	IPR002198	174	193	\N	1.4e-08	37.89	YCQSKLANVLFTRSLAKRLE
-24	33785100	33785159	DH_sc/Rdtase_SDR_(PR00080)	258.0	-
-#	PF00106	IPR002198	14	157	\N	2.3e-26	0.0	KTVLITGANTGIGKETAIDLAKRGARIIMACRDMEKAEAALKEVKDSSGNQDVFISSLDLSDSKSIRGFAEKINKEEKQVNILINNAGVMVCPYGKTADGFEMQIGVNHMGHFLLTYLLLDLIKRSAPARIINVSSTAHQWGTI
-24	33785208	33787737	DH_sc/Rdtase_SDR_(PF00106)	80.6	-
-#	PF08659	IPR013968	15	106	\N	2.3e-12	0.0	TVLITGANTGIGKETAIDLAKRGARIIMACRDMEKAEAALKEVKDSSGNQDVFISSLDLSDSKSIRGFAEKINKEEKQVNILINNAGVMVCP
-24	33785646	33787734	PKS_KR_(PF08659)	34.9	-
-#	PF01370	IPR001509	16	191	\N	3.2e-09	0.0	VLITGANTGIGKETAIDLAKRGARIIMACRDMEKAEAALKEVKDSSGNQDVFISSLDLSDSKSIRGFAEKINKEEKQVNILINNAGVMVCPYGKTADGFEMQIGVNHMGHFLLTYLLLDLIKRSAPARIINVSSTAHQWGTINLEDINSEKNYDKQKAYCQSKLANVLFTRSLAKR
-24	33785106	33787731	Epimerase_deHydtase_(PF01370)	24.5	-
+24	33787681	33787734	Glc/ribitol_DH	340.0	-	33787681	33787734	83,88,95	1	53	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+24	33785658	33785693	Glc/ribitol_DH	297.0	-	33785658	33785693	83,88,95	1	35	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+24	33785223	33785273	Glc/ribitol_DH	160.0	-	33785223	33785273	83,88,95	1	50	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+24	33785100	33785159	Glc/ribitol_DH	208.0	-	33785100	33785159	83,88,95	1	59	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+24	33782817	33782870	Glc/ribitol_DH	222.0	-	33782817	33782870	83,88,95	1	53	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+24	33785658	33785693	DH_sc/Rdtase_SDR	324.0	-	33785658	33785693	83,88,95	1	35	0	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+24	33785229	33785255	DH_sc/Rdtase_SDR	199.0	-	33785229	33785255	83,88,95	1	26	0	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+24	33785100	33785159	DH_sc/Rdtase_SDR	258.0	-	33785100	33785159	83,88,95	1	59	0	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+24	33785208	33787737	DH_sc/Rdtase_SDR	80.6	-	33785208	33787737	83,88,95	4	2460,-155,-104,2429	0,1777,490,100	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106
+24	33785646	33787734	PKS_KR	34.9	-	33785646	33787734	83,88,95	3	2022,-155,2036	0,1339,52	PF08659	http://pfam.sanger.ac.uk/family?acc=PF08659
+24	33785106	33787731	Epimerase_deHydtase	24.5	-	33785106	33787731	83,88,95	4	2562,-155,-104,2423	0,1879,592,202	PF01370	http://pfam.sanger.ac.uk/family?acc=PF01370

@@ -1,21 +1,9 @@
-browser position chr6:13515596-13598177
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000004243	ENSDART00000104716	ENSDARP00000095487	13515596	13598177	###
-#	PF00858	IPR001873	47	463	\N	7.599999999999998e-157	0.0	FASSSSLHGLARALGTSERLGFRQTLWGLALLVSLGLFLYQATWSAATYLERPHLAALREETRRELTFPAITLCNVNRFRFSALTDADIYHLANLTGLPPKSRKGHRPSELQYPPPNMLDIFQRTGHQLEDMLKSCNFSGQNCSSEDFSVVYTRYGKCYTFNGNKTSPKRVRQGGTGNGLEMMLDIQQDEYLPIWRETNETTLEAGIRVQIHSQNEPPYIHQLGFGVSPGFQTFVSCQEQRLTYLPQPWGNCRASSEPVIPGYDTYSVSACRLHCESTQVQRECNCRMVHMPGDADICAPSKIKCVDKALASLQKSTGDSCPCETPCNLTRYGKELSMVKIPSRGSARYLSRKYQKSEEYIRDNFLILDIFFEALNYETIEQKKAYDIAGLLGDIGGQMGLFIGASILTILEILDYI
-6	13516057	13596824	Na+channel_ASC_(PF00858)	508.7	+
-#	PR01078	IPR001873	70	87	\N	3.8e-37	28.22	QTLWGLALLVSLGLFLYQ
-6	13516126	13516179	Na+channel_ASC_(PR01078)	254.0	+
-#	PR01078	IPR001873	110	126	\N	3.8e-37	45.65	RELTFPAITLCNVNRFR
-6	13516246	13516296	Na+channel_ASC_(PR01078)	496.0	+
-#	PR01078	IPR001873	221	239	\N	3.8e-37	40.84	GTGNGLEMMLDIQQDEYLP
-6	13575900	13575956	Na+channel_ASC_(PR01078)	426.0	+
-#	PR01078	IPR001873	282	298	\N	3.8e-37	26.12	SCQEQRLTYLPQPWGNC
-6	13578187	13578528	Na+channel_ASC_(PR01078)	244.0	+
-#	PR01078	IPR001873	369	389	\N	3.8e-37	34.1	CETPCNLTRYGKELSMVKIPS
-6	13586280	13586342	Na+channel_ASC_(PR01078)	368.0	+
-#	PR01078	IPR001873	408	428	\N	3.8e-37	34.29	RDNFLILDIFFEALNYETIEQ
-6	13586397	13588772	Na+channel_ASC_(PR01078)	422.0	+
-#	PR01078	IPR001873	428	442	\N	3.8e-37	29.6	QKKAYDIAGLLGDIG
-6	13588770	13596761	Na+channel_ASC_(PR01078)	244.0	+
-#	PR01078	IPR001873	442	458	\N	3.8e-37	49.18	GGQMGLFIGASILTILE
-6	13596759	13596809	Na+channel_ASC_(PR01078)	483.0	+
+6	13516057	13596824	Na+channel_ASC	508.7	+	13516057	13596824	83,88,95	8	449,144,127,153,53,153,91,73	0,59771,62020,62439,64510,70188,72655,80694	PF00858	http://pfam.sanger.ac.uk/family?acc=PF00858
+6	13516126	13516179	Na+channel_ASC	254.0	+	13516126	13516179	83,88,95	1	53	0	PR01078	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01078&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01078
+6	13516246	13516296	Na+channel_ASC	496.0	+	13516246	13516296	83,88,95	1	50	0	PR01078	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01078&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01078
+6	13575900	13575956	Na+channel_ASC	426.0	+	13575900	13575956	83,88,95	1	56	0	PR01078	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01078&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01078
+6	13578187	13578528	Na+channel_ASC	244.0	+	13578187	13578528	83,88,95	2	17,32	0,309	PR01078	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01078&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01078
+6	13586280	13586342	Na+channel_ASC	368.0	+	13586280	13586342	83,88,95	1	62	0	PR01078	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01078&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01078
+6	13586397	13588772	Na+channel_ASC	422.0	+	13586397	13588772	83,88,95	2	1,60	0,2315	PR01078	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01078&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01078
+6	13588770	13596761	Na+channel_ASC	244.0	+	13588770	13596761	83,88,95	2	33,10	0,7981	PR01078	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01078&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01078
+6	13596759	13596809	Na+channel_ASC	483.0	+	13596759	13596809	83,88,95	1	50	0	PR01078	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01078&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01078

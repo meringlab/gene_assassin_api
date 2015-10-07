@@ -1,35 +1,16 @@
-browser position chr19:11314012-11352334
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000058498	ENSDART00000126033	ENSDARP00000107289	11314430	11352334	###
-#	PF00999	IPR006153	63	465	\N	2.0999999999999993e-79	0.0	WVFVAGLAKLSVIQLNHSITGVFPESGLLIILGFILGGIVVGADKAQTFKLLPSTFFYYLLPQIILDASYFMPNKLFFRNLGAILIYAIFGTCWNAAAVGLSLWGCHEAGAMGDLNIGLLQFLLFGSLIAAVDPVAVIAVFEEVHVNEVLFILVFGESLLNDGVTVVLYNVFDGFVSLGGPMIDAAEIFKGICSFVVVAFGGSFVGVAFAILLSLLTRCTKHVQIIEAGFVFLVGYLSYLTAEMLSLSAILSITFCGVCCQKYINANMDERSVTTVRHAMKMLANGSETMIFLFLGVTAIDTEIWVWNTGFILLTLLFIFIYRIIGVFMFTWMLNKFRLVPVELIDQVVMSYGGLRGAVAYGLAAMLDESRIPEKKLMISTTLIVVYFTVILQGITMKPLVQW
-19	11330534	11351915	Cation/H_exchanger_(PF00999)	253.0	-
-#	TIGR00840	IPR004709	50	589	\N	4.799999999999997e-199	0.0	KWHHVETPYLVALWVFVAGLAKLSVIQLNHSITGVFPESGLLIILGFILGGIVVGADKAQTFKLLPSTFFYYLLPQIILDASYFMPNKLFFRNLGAILIYAIFGTCWNAAAVGLSLWGCHEAGAMGDLNIGLLQFLLFGSLIAAVDPVAVIAVFEEVHVNEVLFILVFGESLLNDGVTVVLYNVFDGFVSLGGPMIDAAEIFKGICSFVVVAFGGSFVGVAFAILLSLLTRCTKHVQIIEAGFVFLVGYLSYLTAEMLSLSAILSITFCGVCCQKYINANMDERSVTTVRHAMKMLANGSETMIFLFLGVTAIDTEIWVWNTGFILLTLLFIFIYRIIGVFMFTWMLNKFRLVPVELIDQVVMSYGGLRGAVAYGLAAMLDESRIPEKKLMISTTLIVVYFTVILQGITMKPLVQWLKVKRAAHSDLKLVEKLNNRAFDHILAAVEDICGRIGDNWWTRGWNRFEEKYISWLLMKPKARKNRDYLFNIFHKLNLEDAMNYVSEGERQGSLAFIRNDEAANVDFKKQFDSEFADVMPDIMV
-19	11326538	11351954	NaH_exchanger_(TIGR00840)	648.2	-
-#	PR01087	IPR018410	55	61	\N	5.4e-38	42.86	ETPYLVA
-19	11351919	11351939	Na/H_exchanger_3/5_(PR01087)	237.0	-
-#	PR01087	IPR018410	77	84	\N	5.4e-38	50.0	LNHSITGV
-19	11341565	11341588	Na/H_exchanger_3/5_(PR01087)	250.0	-
-#	PR01087	IPR018410	167	177	\N	5.4e-38	50.0	GCHEAGAMGDL
-19	11338573	11341318	Na/H_exchanger_3/5_(PR01087)	268.0	-
-#	PR01087	IPR018410	271	278	\N	5.4e-38	75.0	FAILLSLL
-19	11335313	11335336	Na/H_exchanger_3/5_(PR01087)	270.0	-
-#	PR01087	IPR018410	312	324	\N	5.4e-38	84.62	ILSITFCGVCCQK
-19	11331547	11335213	Na/H_exchanger_3/5_(PR01087)	700.0	-
-#	PR01087	IPR018410	472	482	\N	5.4e-38	50.0	AHSDLKLVEKL
-19	11330483	11330515	Na/H_exchanger_3/5_(PR01087)	222.0	-
-#	PR01087	IPR018410	484	493	\N	5.4e-38	80.0	NRAFDHILAA
-19	11327659	11330479	Na/H_exchanger_3/5_(PR01087)	420.0	-
-#	PR01087	IPR018410	526	541	\N	5.4e-38	50.0	KARKNRDYLFNIFHKL
-19	11327430	11327477	Na/H_exchanger_3/5_(PR01087)	500.0	-
-#	PR01087	IPR018410	542	560	\N	5.4e-38	73.68	NLEDAMNYVSEGERQGSLA
-19	11326625	11327429	Na/H_exchanger_3/5_(PR01087)	750.0	-
-#	PR01087	IPR018410	782	807	\N	5.4e-38	48.08	QRRLPWTPNRRLAPMRISTCSTDSFL
-19	11319830	11319907	Na/H_exchanger_3/5_(PR01087)	437.0	-
-#	PR01084	IPR004709	117	128	\N	3e-16	65.22	TFFYYLLPQIIL
-19	11341433	11341468	NaH_exchanger_(PR01084)	376.0	-
-#	PR01084	IPR004709	131	145	\N	3e-16	48.41	SYFMPNKLFFRNLGA
-19	11341382	11341426	NaH_exchanger_(PR01084)	398.0	-
-#	PR01084	IPR004709	146	154	\N	3e-16	62.96	ILIYAIFGT
-19	11341355	11341381	NaH_exchanger_(PR01084)	290.0	-
-#	PR01084	IPR004709	188	198	\N	3e-16	71.1	GSLIAAVDPVA
-19	11338510	11338542	NaH_exchanger_(PR01084)	399.0	-
+19	11330534	11351915	Cation/H_exchanger	253.0	-	11330534	11351915	83,88,95	8	21348,-302,-160,-78,-177,-220,-202,21352	0,11062,8046,7803,4849,1043,316,29	PF00999	http://pfam.sanger.ac.uk/family?acc=PF00999
+19	11326538	11351954	NaH_exchanger	648.2	-	11326538	11351954	83,88,95	11	25344,-302,-160,-78,-177,-220,-202,-89,-70,-129,25306	0,15058,12042,11799,8845,5039,4312,4025,1144,988,110	TIGR00840	http://www.ebi.ac.uk/interpro/signature/TIGR00840
+19	11351919	11351939	Na/H_exchanger_3/5	237.0	-	11351919	11351939	83,88,95	1	20	0	PR01087	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01087&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01087
+19	11341565	11341588	Na/H_exchanger_3/5	250.0	-	11341565	11341588	83,88,95	1	23	0	PR01087	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01087&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01087
+19	11338573	11341318	Na/H_exchanger_3/5	268.0	-	11338573	11341318	83,88,95	2	2721,2738	0,7	PR01087	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01087&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01087
+19	11335313	11335336	Na/H_exchanger_3/5	270.0	-	11335313	11335336	83,88,95	1	23	0	PR01087	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01087&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01087
+19	11331547	11335213	Na/H_exchanger_3/5	700.0	-	11331547	11335213	83,88,95	2	3659,3636	0,30	PR01087	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01087&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01087
+19	11330483	11330515	Na/H_exchanger_3/5	222.0	-	11330483	11330515	83,88,95	1	32	0	PR01087	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01087&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01087
+19	11327659	11330479	Na/H_exchanger_3/5	420.0	-	11327659	11330479	83,88,95	2	2815,2797	0,23	PR01087	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01087&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01087
+19	11327430	11327477	Na/H_exchanger_3/5	500.0	-	11327430	11327477	83,88,95	1	47	0	PR01087	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01087&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01087
+19	11326625	11327429	Na/H_exchanger_3/5	750.0	-	11326625	11327429	83,88,95	2	772,781	0,23	PR01087	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01087&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01087
+19	11319830	11319907	Na/H_exchanger_3/5	437.0	-	11319830	11319907	83,88,95	1	77	0	PR01087	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01087&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01087
+19	11341433	11341468	NaH_exchanger	376.0	-	11341433	11341468	83,88,95	1	35	0	PR01084	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01084&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01084
+19	11341382	11341426	NaH_exchanger	398.0	-	11341382	11341426	83,88,95	1	44	0	PR01084	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01084&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01084
+19	11341355	11341381	NaH_exchanger	290.0	-	11341355	11341381	83,88,95	1	26	0	PR01084	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01084&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01084
+19	11338510	11338542	NaH_exchanger	399.0	-	11338510	11338542	83,88,95	1	32	0	PR01084	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01084&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01084

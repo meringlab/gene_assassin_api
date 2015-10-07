@@ -1,7 +1,2 @@
-browser position chr17:56980-58384
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000073930	ENSDART00000111464	ENSDARP00000102666	56980	58384	###
-#	PR01039	IPR002306	81	100	\N	9.400000000000001e-08	41.38	DIIACGFDVNKTFIFSDLEY
-17	57293	57352	Trp-tRNA-ligase_(PR01039)	393.0	+
-#	PR01039	IPR002306	29	45	\N	9.400000000000001e-08	33.06	IHVGHLIPFIFTKWLQD
-17	57064	57187	Trp-tRNA-ligase_(PR01039)	265.0	+
+17	57293	57352	Trp-tRNA-ligase	393.0	+	57293	57352	83,88,95	1	59	0	PR01039	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01039&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01039
+17	57064	57187	Trp-tRNA-ligase	265.0	+	57064	57187	83,88,95	2	37,12	0,111	PR01039	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01039&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01039

@@ -1,25 +1,11 @@
-browser position chr5:37076088-37080024
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000020364	ENSDART00000051313	ENSDARP00000051312	37076088	37080024	###
-#	PF00316	IPR000146	13	334	\N	1.9999999999999995e-138	0.0	TLTRFVLEEGRKAKGTGELTTLLNSMCTAIKAISTAVRKAGIANLYGIAGSTNVTGDQVKKLDVLSNDLVINMIKSSFTSCVLVSEEDEKAVIIEPEKRGKYVVCFDPLDGSSNIDCLASIGTIFAIYRKETDDEPSEKDALRSGRHIVAAGYALYGSATMLVLSTGQGVNCFMLDPAIGEFILVDRDVRIKKKGKIYSLNEGYAQQFYPDVTEYLQKKKFPEDGSSPYGGRYVGSMVADVHRTLVYGGIFLYPANVKSPKGKLRLLYECNPMAFIMEQAGGMATTGAMNVLDIQPESIHQRVPVVLGSPDDVKEYISIYKK
-5	37076226	37079719	FBPase_class-1/SBPase_(PF00316)	446.9	+
-#	PR00115	IPR028343	36	63	\N	9.099999999999999e-57	35.99	NSMCTAIKAISTAVRKAGIANLYGIAGS
-5	37076295	37077188	FBPtase_(PR00115)	440.0	+
-#	PR00115	IPR028343	73	99	\N	9.099999999999999e-57	41.13	KLDVLSNDLVINMIKSSFTSCVLVSEE
-5	37077216	37077296	FBPtase_(PR00115)	497.0	+
-#	PR00115	IPR028343	153	176	\N	9.099999999999999e-57	56.14	ALRSGRHIVAAGYALYGSATMLVL
-5	37078757	37078828	FBPtase_(PR00115)	645.0	+
-#	PR00115	IPR028343	184	207	\N	9.099999999999999e-57	40.37	CFMLDPAIGEFILVDRDVRIKKKG
-5	37078850	37079044	FBPtase_(PR00115)	470.0	+
-#	PR00115	IPR028343	210	237	\N	9.099999999999999e-57	29.59	YSLNEGYAQQFYPDVTEYLQKKKFPEDG
-5	37079051	37079331	FBPtase_(PR00115)	368.0	+
-#	PR00115	IPR028343	308	333	\N	9.099999999999999e-57	41.33	PESIHQRVPVVLGSPDDVKEYISIYK
-5	37079639	37079716	FBPtase_(PR00115)	560.0	+
-#	PR01958	IPR023079	71	86	\N	1.3e-06	18.55	VKKLDVLSNDLVINMI
-5	37077210	37077257	SBPase_(PR01958)	145.0	+
-#	PR01958	IPR023079	154	172	\N	1.3e-06	38.49	LRSGRHIVAAGYALYGSAT
-5	37078760	37078816	SBPase_(PR01958)	264.0	+
-#	PR01958	IPR023079	243	263	\N	1.3e-06	37.8	GRYVGSMVADVHRTLVYGGIF
-5	37079347	37079409	SBPase_(PR01958)	276.0	+
-#	PR01958	IPR023079	305	329	\N	1.3e-06	25.5	DIQPESIHQRVPVVLGSPDDVKEYI
-5	37079630	37079704	SBPase_(PR01958)	269.0	+
+5	37076226	37079719	FBPase_class-1/SBPase	446.9	+	37076226	37079719	83,88,95	7	133,162,92,140,137,119,176	0,944,2316,2501,2765,3100,3317	PF00316	http://pfam.sanger.ac.uk/family?acc=PF00316
+5	37076295	37077188	FBPtase	440.0	+	37076295	37077188	83,88,95	2	64,18	0,875	PR00115	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00115&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00115
+5	37077216	37077296	FBPtase	497.0	+	37077216	37077296	83,88,95	1	80	0	PR00115	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00115&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00115
+5	37078757	37078828	FBPtase	645.0	+	37078757	37078828	83,88,95	1	71	0	PR00115	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00115&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00115
+5	37078850	37079044	FBPtase	470.0	+	37078850	37079044	83,88,95	2	17,53	0,141	PR00115	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00115&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00115
+5	37079051	37079331	FBPtase	368.0	+	37079051	37079331	83,88,95	2	77,5	0,275	PR00115	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00115&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00115
+5	37079639	37079716	FBPtase	560.0	+	37079639	37079716	83,88,95	1	77	0	PR00115	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00115&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00115
+5	37077210	37077257	SBPase	145.0	+	37077210	37077257	83,88,95	1	47	0	PR01958	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01958&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01958
+5	37078760	37078816	SBPase	264.0	+	37078760	37078816	83,88,95	1	56	0	PR01958	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01958&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01958
+5	37079347	37079409	SBPase	276.0	+	37079347	37079409	83,88,95	1	62	0	PR01958	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01958&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01958
+5	37079630	37079704	SBPase	269.0	+	37079630	37079704	83,88,95	1	74	0	PR01958	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01958&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01958

@@ -1,65 +1,31 @@
-browser position chr10:25462200-25494859
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000086883	ENSDART00000125087	ENSDARP00000107818	25462200	25494859	###
-#	PR01149	IPR002278	265	274	\N	3.2e-11	55.0	VAINPEVMAP
-10	25462422	25462451	Mel_1A_rcpt_(PR01149)	275.0	-
-#	PR01149	IPR002278	321	336	\N	3.2e-11	21.88	RRFVTETSRAATDGMR
-10	25462236	25462283	Mel_1A_rcpt_(PR01149)	182.0	-
-#	PR01149	IPR002278	338	347	\N	3.2e-11	39.58	KPSPAINNNE
-10	25462203	25462232	Mel_1A_rcpt_(PR01149)	338.0	-
-#	PR01150	IPR002279	32	39	\N	2.8000000000000003e-09	62.5	AVLASVLI
-10	25494282	25494305	Mel_rcpt_1C_(PR01150)	191.0	-
-#	PR01150	IPR002279	319	334	\N	2.8000000000000003e-09	40.62	IPRRFVTETSRAATDG
-10	25462242	25462289	Mel_rcpt_1C_(PR01150)	339.0	-
-#	PR01150	IPR002279	334	347	\N	2.8000000000000003e-09	52.94	GMRSKPSPAINNNE
-10	25462203	25462244	Mel_rcpt_1C_(PR01150)	560.0	-
-#	PR01150	IPR002279	226	238	\N	2.8000000000000003e-09	17.31	KSEERSRVRPSDL
-10	25462530	25462568	Mel_rcpt_1C_(PR01150)	183.0	-
-#	PR01149	IPR002278	226	238	\N	3.2e-11	25.64	KSEERSRVRPSDL
-10	25462530	25462568	Mel_1A_rcpt_(PR01149)	255.0	-
-#	PR00237	IPR000276	66	87	\N	1.4999999999999997e-40	32.45	GNVFVVSLAFADLVVAFYPYPL
-10	25462983	25463048	GPCR_Rhodpsn_(PR00237)	269.0	-
-#	PR00237	IPR000276	192	215	\N	1.4999999999999997e-40	26.28	TVVVVVVHFLVPIAVVTFCYLRIW
-10	25462599	25462670	GPCR_Rhodpsn_(PR00237)	351.0	-
-#	PR00237	IPR000276	240	264	\N	1.4999999999999997e-40	25.79	NFVTMFVVFVLFAICWAPLNLIGLV
-10	25462452	25462526	GPCR_Rhodpsn_(PR00237)	342.0	-
-#	PR00237	IPR000276	33	57	\N	1.4999999999999997e-40	25.87	VLASVLIFTTVVDVLGNLLVIISVF
-10	25494228	25494302	GPCR_Rhodpsn_(PR00237)	254.0	-
-#	PR00857	IPR000025	136	151	\N	2.3999999999999997e-46	41.48	SFAYGRLYSFRNTLLL
-10	25462791	25462838	Melatonin_rcpt_(PR00857)	311.0	-
-#	PR00857	IPR000025	166	181	\N	2.3999999999999997e-46	75.0	NFFVGSLSYDPRVYSC
-10	25462701	25462748	Melatonin_rcpt_(PR00857)	731.0	-
-#	PR00857	IPR000025	181	199	\N	2.3999999999999997e-46	70.33	CTFTQTASSSYTVVVVVVH
-10	25462647	25462703	Melatonin_rcpt_(PR00857)	745.0	-
-#	PR00857	IPR000025	218	232	\N	2.3999999999999997e-46	43.64	VIQVRRKVKSEERSR
-10	25462548	25462592	Melatonin_rcpt_(PR00857)	348.0	-
-#	PR00857	IPR000025	234	248	\N	2.3999999999999997e-46	78.18	RPSDLRNFVTMFVVF
-10	25462500	25462544	Melatonin_rcpt_(PR00857)	635.0	-
-#	PR00857	IPR000025	259	269	\N	2.3999999999999997e-46	73.55	NLIGLVVAINP
-10	25462437	25462469	Melatonin_rcpt_(PR00857)	404.0	-
-#	PR00857	IPR000025	273	285	\N	2.3999999999999997e-46	77.62	APRVPEWLFVVSY
-10	25462389	25462427	Melatonin_rcpt_(PR00857)	625.0	-
-#	PR00237	IPR000276	147	168	\N	1.4999999999999997e-40	21.58	NTLLLVALIWALTVLAILPNFF
-10	25462740	25462805	GPCR_Rhodpsn_(PR00237)	216.0	-
-#	PR00237	IPR000276	111	133	\N	1.4999999999999997e-40	27.15	MGLSVIGSVFNITGIAINRYCYI
-10	25462845	25462913	GPCR_Rhodpsn_(PR00237)	250.0	-
-#	PR01012	IPR000611	297	310	\N	6.3e-08	49.03	IIYGLLNRNFRKEY
-10	25462314	25462355	NPY_rcpt_(PR01012)	423.0	-
-#	PR01012	IPR000611	111	126	\N	6.3e-08	34.09	MGLSVIGSVFNITGIA
-10	25462866	25462913	NPY_rcpt_(PR01012)	197.0	-
-#	PR01012	IPR000611	286	295	\N	6.3e-08	28.18	FMAYFNSCLN
-10	25462359	25462388	NPY_rcpt_(PR01012)	175.0	-
-#	PF00001	IPR000276	48	299	\N	1.0999999999999999e-57	0.0	GNLLVIISVFRNRKLRNAGNVFVVSLAFADLVVAFYPYPLVLYAIFHDGWSLGETQCKISGFLMGLSVIGSVFNITGIAINRYCYICHSFAYGRLYSFRNTLLLVALIWALTVLAILPNFFVGSLSYDPRVYSCTFTQTASSSYTVVVVVVHFLVPIAVVTFCYLRIWVLVIQVRRKVKSEERSRVRPSDLRNFVTMFVVFVLFAICWAPLNLIGLVVAINPEVMAPRVPEWLFVVSYFMAYFNSCLNAIIY
-10	25462347	25494257	GPCR_Rhodpsn_(PF00001)	183.0	-
-#	PF10328	IPR019430	40	309	\N	3.7000000000000006e-14	0.0	FTTVVDVLGNLLVIISVFRNRKLRNAGNVFVVSLAFADLVVAFYPYPLVLYAIFHDGWSLGETQCKISGFLMGLSVIGSVFNITGIAINRYCYICHSFAYGRLYSFRNTLLLVALIWALTVLAILPNFFVGSLSYDPRVYSCTFTQTASSSYTVVVVVVHFLVPIAVVTFCYLRIWVLVIQVRRKVKSEERSRVRPSDLRNFVTMFVVFVLFAICWAPLNLIGLVVAINPEVMAPRVPEWLFVVSYFMAYFNSCLNAIIYGLLNRNFRKE
-10	25462317	25494281	7TM_GPCR_serpentine_rcpt_Srx_(PF10328)	40.3	-
-#	PF10320	IPR019424	43	313	\N	9.299999999999999e-11	0.0	VVDVLGNLLVIISVFRNRKLRNAGNVFVVSLAFADLVVAFYPYPLVLYAIFHDGWSLGETQCKISGFLMGLSVIGSVFNITGIAINRYCYICHSFAYGRLYSFRNTLLLVALIWALTVLAILPNFFVGSLSYDPRVYSCTFTQTASSSYTVVVVVVHFLVPIAVVTFCYLRIWVLVIQVRRKVKSEERSRVRPSDLRNFVTMFVVFVLFAICWAPLNLIGLVVAINPEVMAPRVPEWLFVVSYFMAYFNSCLNAIIYGLLNRNFRKEYVRI
-10	25462305	25494272	7TM_GPCR_olfarory/Srsx_(PF10320)	29.2	-
-#	PR01012	IPR000611	58	70	\N	6.3e-08	22.38	RNRKLRNAGNVFV
-10	25463034	25494227	NPY_rcpt_(PR01012)	208.0	-
-#	PR01149	IPR002278	26	40	\N	3.2e-11	58.89	RPAWAIAVLASVLIF
-10	25494279	25494323	Mel_1A_rcpt_(PR01149)	495.0	-
-#	PR00237	IPR000276	281	307	\N	1.4999999999999997e-40	32.66	FVVSYFMAYFNSCLNAIIYGLLNRNFR
-10	25462323	25462403	GPCR_Rhodpsn_(PR00237)	449.0	-
-#	PS50262	IPR017452	48	299	\N	0.0	0.0	GNLLVIISVFRNRKLRNAGNVFVVSLAFADLVVAFYPYPLVLYAIFHDGWSLGETQCKISGFLMGLSVIGSVFNITGIAINRYCYICHSFAYGRLYSFRNTLLLVALIWALTVLAILPNFFVGSLSYDPRVYSCTFTQTASSSYTVVVVVVHFLVPIAVVTFCYLRIWVLVIQVRRKVKSEERSRVRPSDLRNFVTMFVVFVLFAICWAPLNLIGLVVAINPEVMAPRVPEWLFVVSYFMAYFNSCLNAIIY
-10	25462347	25494257	GPCR_Rhodpsn_7TM_(PS50262)	47.193000000000005	-
+10	25462422	25462451	Mel_1A_rcpt	275.0	-	25462422	25462451	83,88,95	1	29	0	PR01149	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01149&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01149
+10	25462236	25462283	Mel_1A_rcpt	182.0	-	25462236	25462283	83,88,95	1	47	0	PR01149	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01149&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01149
+10	25462203	25462232	Mel_1A_rcpt	338.0	-	25462203	25462232	83,88,95	1	29	0	PR01149	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01149&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01149
+10	25494282	25494305	Mel_rcpt_1C	191.0	-	25494282	25494305	83,88,95	1	23	0	PR01150	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01150&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01150
+10	25462242	25462289	Mel_rcpt_1C	339.0	-	25462242	25462289	83,88,95	1	47	0	PR01150	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01150&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01150
+10	25462203	25462244	Mel_rcpt_1C	560.0	-	25462203	25462244	83,88,95	1	41	0	PR01150	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01150&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01150
+10	25462530	25462568	Mel_rcpt_1C	183.0	-	25462530	25462568	83,88,95	1	38	0	PR01150	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01150&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01150
+10	25462530	25462568	Mel_1A_rcpt	255.0	-	25462530	25462568	83,88,95	1	38	0	PR01149	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01149&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01149
+10	25462983	25463048	GPCR_Rhodpsn	269.0	-	25462983	25463048	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+10	25462599	25462670	GPCR_Rhodpsn	351.0	-	25462599	25462670	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+10	25462452	25462526	GPCR_Rhodpsn	342.0	-	25462452	25462526	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+10	25494228	25494302	GPCR_Rhodpsn	254.0	-	25494228	25494302	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+10	25462791	25462838	Melatonin_rcpt	311.0	-	25462791	25462838	83,88,95	1	47	0	PR00857	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00857&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00857
+10	25462701	25462748	Melatonin_rcpt	731.0	-	25462701	25462748	83,88,95	1	47	0	PR00857	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00857&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00857
+10	25462647	25462703	Melatonin_rcpt	745.0	-	25462647	25462703	83,88,95	1	56	0	PR00857	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00857&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00857
+10	25462548	25462592	Melatonin_rcpt	348.0	-	25462548	25462592	83,88,95	1	44	0	PR00857	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00857&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00857
+10	25462500	25462544	Melatonin_rcpt	635.0	-	25462500	25462544	83,88,95	1	44	0	PR00857	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00857&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00857
+10	25462437	25462469	Melatonin_rcpt	404.0	-	25462437	25462469	83,88,95	1	32	0	PR00857	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00857&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00857
+10	25462389	25462427	Melatonin_rcpt	625.0	-	25462389	25462427	83,88,95	1	38	0	PR00857	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00857&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00857
+10	25462740	25462805	GPCR_Rhodpsn	216.0	-	25462740	25462805	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+10	25462845	25462913	GPCR_Rhodpsn	250.0	-	25462845	25462913	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+10	25462314	25462355	NPY_rcpt	423.0	-	25462314	25462355	83,88,95	1	41	0	PR01012	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01012&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01012
+10	25462866	25462913	NPY_rcpt	197.0	-	25462866	25462913	83,88,95	1	47	0	PR01012	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01012&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01012
+10	25462359	25462388	NPY_rcpt	175.0	-	25462359	25462388	83,88,95	1	29	0	PR01012	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01012&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01012
+10	25462347	25494257	GPCR_Rhodpsn	183.0	-	25462347	25494257	83,88,95	2	31856,31210	0,700	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+10	25462317	25494281	7TM_GPCR_serpentine_rcpt_Srx	40.3	-	25462317	25494281	83,88,95	2	31886,31234	0,730	PF10328	http://pfam.sanger.ac.uk/family?acc=PF10328
+10	25462305	25494272	7TM_GPCR_olfarory/Srsx	29.2	-	25462305	25494272	83,88,95	2	31898,31225	0,742	PF10320	http://pfam.sanger.ac.uk/family?acc=PF10320
+10	25463034	25494227	NPY_rcpt	208.0	-	25463034	25494227	83,88,95	2	31169,31180	0,13	PR01012	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01012&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01012
+10	25494279	25494323	Mel_1A_rcpt	495.0	-	25494279	25494323	83,88,95	1	44	0	PR01149	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01149&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01149
+10	25462323	25462403	GPCR_Rhodpsn	449.0	-	25462323	25462403	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+10	25462347	25494257	GPCR_Rhodpsn_7TM	47.193000000000005	-	25462347	25494257	83,88,95	2	31856,31210	0,700	PS50262	http://www.expasy.ch/prosite/PS50262

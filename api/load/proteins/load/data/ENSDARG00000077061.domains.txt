@@ -1,35 +1,16 @@
-browser position chr3:356725-363189
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000077061	ENSDART00000112631	ENSDARP00000102166	356725	363189	###
-#	PF00001	IPR000276	58	345	\N	3.7999999999999996e-35	0.0	LAILANAYSRRSKTTKATFLLFASSLVVTDLVGHVIPGALVLHLYLSGTGPCLPAVPDGTCQFLGGSMVFFGLCPLFLGCAMAVERCIGVTRPLLHKRLVCTTQTKIVMVMVWLLALSVAFLPFFRLGSYTYQYPWTWCFINVLDETNVTDVIFVVLFSGLGLASLAVALVCNTISGVTLVAARLRKKQKQESIRQSKKDKQESVRLSRKDKQNKSSKTHDIEMVVQLVGIMVTSCICWSPLLIFGLMSVIRSSISSMGDDLEMSYRTLLVMGVRLASWNQILDPWVY
-3	356923	362893	GPCR_Rhodpsn_(PF00001)	108.5	+
-#	PF10328	IPR019430	48	264	\N	1.9e-11	0.0	TLGIVSNIIALAILANAYSRRSKTTKATFLLFASSLVVTDLVGHVIPGALVLHLYLSGTGPCLPAVPDGTCQFLGGSMVFFGLCPLFLGCAMAVERCIGVTRPLLHKRLVCTTQTKIVMVMVWLLALSVAFLPFFRLGSYTYQYPWTWCFINVLDETNVTDVIFVVLFSGLGLASLAVALVCNTISGVTLVAARLRKKQKQESIRQSKKDKQESVRL
-3	356893	357543	7TM_GPCR_serpentine_rcpt_Srx_(PF10328)	30.9	+
-#	PR01788	IPR008365	52	64	\N	5.8e-25	42.53	VSNIIALAILANA
-3	356905	356943	Prostanoid_rcpt_(PR01788)	291.0	+
-#	PR01788	IPR008365	75	91	\N	5.8e-25	50.75	TFLLFASSLVVTDLVGH
-3	356974	357024	Prostanoid_rcpt_(PR01788)	412.0	+
-#	PR01788	IPR008365	117	130	\N	5.8e-25	48.88	TCQFLGGSMVFFGL
-3	357100	357141	Prostanoid_rcpt_(PR01788)	356.0	+
-#	PR01788	IPR008365	180	197	\N	5.8e-25	49.78	PFFRLGSYTYQYPWTWCF
-3	357289	357342	Prostanoid_rcpt_(PR01788)	539.0	+
-#	PR01788	IPR008365	284	295	\N	5.8e-25	47.06	QLVGIMVTSCIC
-3	357601	357636	Prostanoid_rcpt_(PR01788)	293.0	+
-#	PR00429	IPR001105	82	95	\N	6.999999999999999e-15	42.86	SLVVTDLVGHVIPG
-3	356995	357036	Thbox_rcpt_(PR00429)	330.0	+
-#	PR00429	IPR001105	121	136	\N	6.999999999999999e-15	68.75	LGGSMVFFGLCPLFLG
-3	357112	357159	Thbox_rcpt_(PR00429)	600.0	+
-#	PR00429	IPR001105	184	199	\N	6.999999999999999e-15	57.29	LGSYTYQYPWTWCFIN
-3	357301	357348	Thbox_rcpt_(PR00429)	631.0	+
-#	PR00237	IPR000276	38	62	\N	4.6e-06	16.68	TSPTAAGLSMTLGIVSNIIALAILA
-3	356863	356937	GPCR_Rhodpsn_(PR00237)	119.0	+
-#	PR00237	IPR000276	125	147	\N	4.6e-06	19.32	MVFFGLCPLFLGCAMAVERCIGV
-3	357124	357192	GPCR_Rhodpsn_(PR00237)	100.0	+
-#	PR00237	IPR000276	161	182	\N	4.6e-06	20.25	QTKIVMVMVWLLALSVAFLPFF
-3	357232	357297	GPCR_Rhodpsn_(PR00237)	206.0	+
-#	PR00237	IPR000276	281	305	\N	4.6e-06	21.38	MVVQLVGIMVTSCICWSPLLIFGLM
-3	357592	362773	GPCR_Rhodpsn_(PR00237)	250.0	+
-#	PR00237	IPR000276	327	353	\N	4.6e-06	18.77	LVMGVRLASWNQILDPWVYILLRRAIL
-3	362837	362917	GPCR_Rhodpsn_(PR00237)	142.0	+
-#	PS50262	IPR017452	53	345	\N	0.0	0.0	SNIIALAILANAYSRRSKTTKATFLLFASSLVVTDLVGHVIPGALVLHLYLSGTGPCLPAVPDGTCQFLGGSMVFFGLCPLFLGCAMAVERCIGVTRPLLHKRLVCTTQTKIVMVMVWLLALSVAFLPFFRLGSYTYQYPWTWCFINVLDETNVTDVIFVVLFSGLGLASLAVALVCNTISGVTLVAARLRKKQKQESIRQSKKDKQESVRLSRKDKQNKSSKTHDIEMVVQLVGIMVTSCICWSPLLIFGLMSVIRSSISSMGDDLEMSYRTLLVMGVRLASWNQILDPWVY
-3	356908	362893	GPCR_Rhodpsn_7TM_(PS50262)	24.163	+
+3	356923	362893	GPCR_Rhodpsn	108.5	+	356923	362893	83,88,95	2	728,134	0,5836	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+3	356893	357543	7TM_GPCR_serpentine_rcpt_Srx	30.9	+	356893	357543	83,88,95	1	650	0	PF10328	http://pfam.sanger.ac.uk/family?acc=PF10328
+3	356905	356943	Prostanoid_rcpt	291.0	+	356905	356943	83,88,95	1	38	0	PR01788	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01788&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01788
+3	356974	357024	Prostanoid_rcpt	412.0	+	356974	357024	83,88,95	1	50	0	PR01788	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01788&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01788
+3	357100	357141	Prostanoid_rcpt	356.0	+	357100	357141	83,88,95	1	41	0	PR01788	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01788&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01788
+3	357289	357342	Prostanoid_rcpt	539.0	+	357289	357342	83,88,95	1	53	0	PR01788	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01788&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01788
+3	357601	357636	Prostanoid_rcpt	293.0	+	357601	357636	83,88,95	1	35	0	PR01788	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01788&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01788
+3	356995	357036	Thbox_rcpt	330.0	+	356995	357036	83,88,95	1	41	0	PR00429	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00429&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00429
+3	357112	357159	Thbox_rcpt	600.0	+	357112	357159	83,88,95	1	47	0	PR00429	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00429&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00429
+3	357301	357348	Thbox_rcpt	631.0	+	357301	357348	83,88,95	1	47	0	PR00429	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00429&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00429
+3	356863	356937	GPCR_Rhodpsn	119.0	+	356863	356937	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+3	357124	357192	GPCR_Rhodpsn	100.0	+	357124	357192	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+3	357232	357297	GPCR_Rhodpsn	206.0	+	357232	357297	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+3	357592	362773	GPCR_Rhodpsn	250.0	+	357592	362773	83,88,95	2	59,14	0,5167	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+3	362837	362917	GPCR_Rhodpsn	142.0	+	362837	362917	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+3	356908	362893	GPCR_Rhodpsn_7TM	24.163	+	356908	362893	83,88,95	2	743,134	0,5851	PS50262	http://www.expasy.ch/prosite/PS50262

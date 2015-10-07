@@ -1,17 +1,7 @@
-browser position chr4:6747634-6783981
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000018688	ENSDART00000149218	ENSDARP00000123783	6747634	6783981	###
-#	PF00178	IPR000418	5	86	\N	9.4e-42	0.0	ITLWQFLLQLLLDQSHKHLICWTSNDGEFKLLKSEEVAKLWGLRKNKTNMNYDKLSRALRYYYDKNIIKKVIGQKFVYKFVS
-4	6769252	6771227	Ets_dom_(PF00178)	127.6	+
-#	PR00454	IPR000418	67	85	\N	5e-28	51.41	YDKNIIKKVIGQKFVYKFV
-4	6769438	6771224	Ets_dom_(PR00454)	516.0	+
-#	PR00454	IPR000418	48	66	\N	5e-28	72.29	RKNKTNMNYDKLSRALRYY
-4	6769381	6769437	Ets_dom_(PR00454)	741.0	+
-#	SM00413	IPR000418	4	89	\N	4.199999999999999e-56	0.0	AITLWQFLLQLLLDQSHKHLICWTSNDGEFKLLKSEEVAKLWGLRKNKTNMNYDKLSRALRYYYDKNIIKKVIGQKFVYKFVSFPD
-4	6769249	6771236	Ets_dom_(SM00413)	202.4	+
-#	PR00454	IPR000418	29	47	\N	5e-28	49.18	NDGEFKLLKSEEVAKLWGL
-4	6769324	6769380	Ets_dom_(PR00454)	488.0	+
-#	PR00454	IPR000418	5	18	\N	5e-28	60.4	ITLWQFLLQLLLDQ
-4	6769252	6769293	Ets_dom_(PR00454)	417.0	+
-#	PS50061	IPR000418	5	85	\N	0.0	0.0	ITLWQFLLQLLLDQSHKHLICWTSNDGEFKLLKSEEVAKLWGLRKNKTNMNYDKLSRALRYYYDKNIIKKVIGQKFVYKFV
-4	6769252	6771224	Ets_dom_(PS50061)	36.91	+
+4	6769252	6771227	Ets_dom	127.6	+	6769252	6771227	83,88,95	2	194,50	0,1925	PF00178	http://pfam.sanger.ac.uk/family?acc=PF00178
+4	6769438	6771224	Ets_dom	516.0	+	6769438	6771224	83,88,95	2	8,47	0,1739	PR00454	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00454&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00454
+4	6769381	6769437	Ets_dom	741.0	+	6769381	6769437	83,88,95	1	56	0	PR00454	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00454&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00454
+4	6769249	6771236	Ets_dom	202.4	+	6769249	6771236	83,88,95	2	197,59	0,1928	SM00413	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00413
+4	6769324	6769380	Ets_dom	488.0	+	6769324	6769380	83,88,95	1	56	0	PR00454	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00454&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00454
+4	6769252	6769293	Ets_dom	417.0	+	6769252	6769293	83,88,95	1	41	0	PR00454	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00454&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00454
+4	6769252	6771224	Ets_dom	36.91	+	6769252	6771224	83,88,95	2	194,47	0,1925	PS50061	http://www.expasy.ch/prosite/PS50061

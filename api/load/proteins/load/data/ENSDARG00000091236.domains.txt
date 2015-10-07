@@ -1,9 +1,3 @@
-browser position chr5:4500674-4502906
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000091236	ENSDART00000129131	ENSDARP00000104528	4500674	4502906	###
-#	PR00295	IPR001713	9	28	\N	1.7e-07	34.72	GAWSNEAPVTLEVLKICLQV
-5	4500698	4501062	Prot_inh_stefinA_(PR00295)	257.0	+
-#	PR00295	IPR001713	52	71	\N	1.7e-07	42.78	LVAGTNYLVKVFIAGDECAH
-5	4501132	4502810	Prot_inh_stefinA_(PR00295)	469.0	+
-#	PR00295	IPR001713	85	102	\N	1.7e-07	29.63	LTVPDVQFPKKFDDPLNL
-5	4502850	4502903	Prot_inh_stefinA_(PR00295)	137.0	+
+5	4500698	4501062	Prot_inh_stefinA	257.0	+	4500698	4501062	83,88,95	2	56,2	0,362	PR00295	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00295&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00295
+5	4501132	4502810	Prot_inh_stefinA	469.0	+	4501132	4502810	83,88,95	2	29,29	0,1649	PR00295	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00295&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00295
+5	4502850	4502903	Prot_inh_stefinA	137.0	+	4502850	4502903	83,88,95	1	53	0	PR00295	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00295&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00295

@@ -1,23 +1,10 @@
-browser position chr21:20185195-20189162
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000057037	ENSDART00000146102	ENSDARP00000119746	20185195	20189162	###
-#	PF07885	IPR013099	96	154	\N	2.2000000000000002e-20	0.0	RARWDFSGAFYFVGTVISTIGFGMTTPVTVAGKIFLIFYGLLGCAATILFFNLFLERII
-21	20185480	20188268	2pore_dom_K_chnl_dom_(PF07885)	58.7	+
-#	PF07885	IPR013099	203	283	\N	4.8999999999999996e-20	0.0	AALLIACSASALYSAMEGWDYFESFYFCFVAFSTIGFGDVVSSQRENYKAQEAYRFGNCLFILMGVCCIYSLFNVISIIIK
-21	20188413	20188655	2pore_dom_K_chnl_dom_(PF07885)	57.6	+
-#	PR01588	IPR005410	17	32	\N	6.1e-34	81.25	LNEDNARFGLLAALIL
-21	20185243	20185290	2pore_dom_K_chnl_THIK_(PR01588)	558.0	+
-#	PR01588	IPR005410	72	84	\N	6.1e-34	42.31	LKSLQVLLRQYEE
-21	20185408	20185446	2pore_dom_K_chnl_THIK_(PR01588)	235.0	+
-#	PR01588	IPR005410	86	98	\N	6.1e-34	59.62	FAAGIRVDKLRAR
-21	20185450	20185488	2pore_dom_K_chnl_THIK_(PR01588)	372.0	+
-#	PR01588	IPR005410	138	152	\N	6.1e-34	91.67	GCAATILFFNLFLER
-21	20188218	20188262	2pore_dom_K_chnl_THIK_(PR01588)	737.0	+
-#	PR01588	IPR005410	212	225	\N	6.1e-34	60.71	SALYSAMEGWDYFE
-21	20188440	20188481	2pore_dom_K_chnl_THIK_(PR01588)	572.0	+
-#	PR01588	IPR005410	260	272	\N	6.1e-34	84.62	NCLFILMGVCCIY
-21	20188584	20188622	2pore_dom_K_chnl_THIK_(PR01588)	627.0	+
-#	PR01333	IPR003280	110	138	\N	4.7e-15	50.02	TVISTIGFGMTTPVTVAGKIFLIFYGLLG
-21	20185522	20188220	2pore_dom_K_chnl_(PR01333)	773.0	+
-#	PR01333	IPR003280	235	244	\N	4.7e-15	68.78	STIGFGDVVS
-21	20188509	20188538	2pore_dom_K_chnl_(PR01333)	366.0	+
+21	20185480	20188268	2pore_dom_K_chnl_dom	58.7	+	20185480	20188268	83,88,95	2	60,115	0,2673	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
+21	20188413	20188655	2pore_dom_K_chnl_dom	57.6	+	20188413	20188655	83,88,95	1	242	0	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
+21	20185243	20185290	2pore_dom_K_chnl_THIK	558.0	+	20185243	20185290	83,88,95	1	47	0	PR01588	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01588&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01588
+21	20185408	20185446	2pore_dom_K_chnl_THIK	235.0	+	20185408	20185446	83,88,95	1	38	0	PR01588	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01588&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01588
+21	20185450	20185488	2pore_dom_K_chnl_THIK	372.0	+	20185450	20185488	83,88,95	1	38	0	PR01588	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01588&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01588
+21	20188218	20188262	2pore_dom_K_chnl_THIK	737.0	+	20188218	20188262	83,88,95	1	44	0	PR01588	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01588&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01588
+21	20188440	20188481	2pore_dom_K_chnl_THIK	572.0	+	20188440	20188481	83,88,95	1	41	0	PR01588	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01588&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01588
+21	20188584	20188622	2pore_dom_K_chnl_THIK	627.0	+	20188584	20188622	83,88,95	1	38	0	PR01588	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01588&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01588
+21	20185522	20188220	2pore_dom_K_chnl	773.0	+	20185522	20188220	83,88,95	2	18,67	0,2631	PR01333	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01333&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01333
+21	20188509	20188538	2pore_dom_K_chnl	366.0	+	20188509	20188538	83,88,95	1	29	0	PR01333	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01333&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01333

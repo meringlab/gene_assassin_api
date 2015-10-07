@@ -1,13 +1,5 @@
-browser position chr24:25455631-25489944
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000027657	ENSDART00000038290	ENSDARP00000038676	25455631	25457068	###
-#	PF00473	IPR000187	122	160	\N	9.300000000000002e-21	0.0	EPPISLDLTFHLLREVLEMARAEQMAQQAHSNRKMMEIF
-24	25456080	25456196	Corticotropin-releasing_factor_(PF00473)	60.2	-
-#	PR01612	IPR003620	135	147	\N	1.6e-17	65.16	REVLEMARAEQMA
-24	25456119	25456157	Urocortin_CRF_(PR01612)	410.0	-
-#	PR01612	IPR003620	121	134	\N	1.6e-17	86.13	EEPPISLDLTFHLL
-24	25456158	25456199	Urocortin_CRF_(PR01612)	663.0	-
-#	SM00039	IPR000187	121	160	\N	1.1e-15	0.0	EEPPISLDLTFHLLREVLEMARAEQMAQQAHSNRKMMEIF
-24	25456080	25456199	Corticotropin-releasing_factor_(SM00039)	68.1	-
-#	PR01612	IPR003620	148	160	\N	1.6e-17	60.63	QQAHSNRKMMEIF
-24	25456080	25456118	Urocortin_CRF_(PR01612)	402.0	-
+24	25456080	25456196	Corticotropin-releasing_factor	60.2	-	25456080	25456196	83,88,95	1	116	0	PF00473	http://pfam.sanger.ac.uk/family?acc=PF00473
+24	25456119	25456157	Urocortin_CRF	410.0	-	25456119	25456157	83,88,95	1	38	0	PR01612	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01612&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01612
+24	25456158	25456199	Urocortin_CRF	663.0	-	25456158	25456199	83,88,95	1	41	0	PR01612	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01612&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01612
+24	25456080	25456199	Corticotropin-releasing_factor	68.1	-	25456080	25456199	83,88,95	1	119	0	SM00039	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00039
+24	25456080	25456118	Urocortin_CRF	402.0	-	25456080	25456118	83,88,95	1	38	0	PR01612	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01612&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01612

@@ -1,11 +1,4 @@
-browser position chr23:19878556-19892963
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000020764	ENSDART00000021231	ENSDARP00000024693	19878556	19892963	###
-#	PR00194	IPR000533	5	22	\N	3.9e-05	20.55	KLKDPINKVSLIKDELSR
-23	19879163	19881205	Tropomyosin_(PR00194)	205.0	+
-#	PR00194	IPR000533	73	93	\N	3.9e-05	36.66	AEESAKQMKVLQTQLQKLQEE
-23	19882740	19882902	Tropomyosin_(PR00194)	365.0	+
-#	PR00194	IPR000533	172	195	\N	3.9e-05	22.82	HLQQNQQRDRATKQQAGELEKVQK
-23	19883137	19886324	Tropomyosin_(PR00194)	246.0	+
-#	PR00194	IPR000533	228	253	\N	3.9e-05	19.38	ENSSLRSEKEQLQKKQQQLEKELDSS
-23	19886421	19889444	Tropomyosin_(PR00194)	200.0	+
+23	19879163	19881205	Tropomyosin	205.0	+	19879163	19881205	83,88,95	2	39,13	0,2029	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+23	19882740	19882902	Tropomyosin	365.0	+	19882740	19882902	83,88,95	2	36,25	0,137	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+23	19883137	19886324	Tropomyosin	246.0	+	19883137	19886324	83,88,95	2	45,25	0,3162	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+23	19886421	19889444	Tropomyosin	200.0	+	19886421	19889444	83,88,95	2	73,3	0,3020	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194

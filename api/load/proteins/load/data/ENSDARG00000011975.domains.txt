@@ -1,27 +1,12 @@
-browser position chr20:29462509-29495136
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000011975	ENSDART00000136804	ENSDARP00000122153	29462509	29495136	###
-#	PR00828	IPR001265	637	659	\N	6.2e-76	73.91	KYTEAEHQAALLQLKRECNEEVE
-20	29465342	29468015	Formin_Cappuccino_subfam_(PR00828)	860.0	+
-#	PR00828	IPR001265	709	730	\N	6.2e-76	63.64	TEDDIKARAVRSVCIQTDRETS
-20	29468348	29468413	Formin_Cappuccino_subfam_(PR00828)	724.0	+
-#	PR00828	IPR001265	946	969	\N	6.2e-76	50.0	RNDVLWSSLKEPEIINTNEFAELF
-20	29469059	29471577	Formin_Cappuccino_subfam_(PR00828)	596.0	+
-#	PR00828	IPR001265	1014	1036	\N	6.2e-76	73.91	HLEMKDIQQAVLTLDDTVVDLDA
-20	29474749	29475376	Formin_Cappuccino_subfam_(PR00828)	923.0	+
-#	PR00828	IPR001265	1056	1075	\N	6.2e-76	78.33	HYETSDEEQVKLLDKPEQFL
-20	29479089	29479362	Formin_Cappuccino_subfam_(PR00828)	836.0	+
-#	PR00828	IPR001265	1118	1137	\N	6.2e-76	48.33	LLEKDSTREVMGLVLALGNY
-20	29481496	29481555	Formin_Cappuccino_subfam_(PR00828)	560.0	+
-#	PR00828	IPR001265	1201	1222	\N	6.2e-76	75.76	DVFLSSQVKFDDLSKDLRKLGR
-20	29483652	29483717	Formin_Cappuccino_subfam_(PR00828)	800.0	+
-#	PR00828	IPR001265	1291	1310	\N	6.2e-76	70.0	NVFTLWFEFCNDFKIRWKRE
-20	29492807	29492866	Formin_Cappuccino_subfam_(PR00828)	860.0	+
-#	PR00828	IPR001265	1332	1354	\N	6.2e-76	21.74	EKKIETRRAHANGLKERLCMKEA
-20	29494873	29495118	Formin_Cappuccino_subfam_(PR00828)	250.0	+
-#	PR00828	IPR001265	607	626	\N	6.2e-76	66.67	PEVSDEHTPKRLQTVWPPPK
-20	29465252	29465311	Formin_Cappuccino_subfam_(PR00828)	787.0	+
-#	PF02181	IPR015425	923	1304	\N	1.6e-87	0.0	KPSVEPVCAMKPLYWTRIQIQECRNDVLWSSLKEPEIINTNEFAELFAKATSPTKRKPLSDAYEKKTKARKVIKLLDGKRSQAVGILISSLHLEMKDIQQAVLTLDDTVVDLDAIEALYENRAQPEELEKIKKHYETSDEEQVKLLDKPEQFLYELSQIPEFSSRVHCFIFQTKFTDAVASIQRKTEIIHHVCKFLLEKDSTREVMGLVLALGNYMNGGSRARGQADGFGLEILPKLKDVKSRENHISLLDYIVSYYLHHLDKNAGTEKSIFPLPEPQDVFLSSQVKFDDLSKDLRKLGRDLTVCEKDVLTVCTNSSQEHIHPFQEKMDFFIASVYCALLCIFFPSFSDLVEYFGLKPRSGEQEVAPGNVFTLWFEFCNDFK
-20	29468990	29492848	FH2_Formin_(PF02181)	280.0	+
-#	SM00498	IPR015425	922	1318	\N	5.9e-76	0.0	RKPSVEPVCAMKPLYWTRIQIQECRNDVLWSSLKEPEIINTNEFAELFAKATSPTKRKPLSDAYEKKTKARKVIKLLDGKRSQAVGILISSLHLEMKDIQQAVLTLDDTVVDLDAIEALYENRAQPEELEKIKKHYETSDEEQVKLLDKPEQFLYELSQIPEFSSRVHCFIFQTKFTDAVASIQRKTEIIHHVCKFLLEKDSTREVMGLVLALGNYMNGGSRARGQADGFGLEILPKLKDVKSRENHISLLDYIVSYYLHHLDKNAGTEKSIFPLPEPQDVFLSSQVKFDDLSKDLRKLGRDLTVCEKDVLTVCTNSSQEHIHPFQEKMDFFIASVYCALLCIFFPSFSDLVEYFGLKPRSGEQEVAPGNVFTLWFEFCNDFKIRWKRENKIISKQR
-20	29468987	29492890	FH2_Formin_(SM00498)	268.3	+
+20	29465342	29468015	Formin_Cappuccino_subfam	860.0	+	29465342	29468015	83,88,95	2	15,52	0,2621	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+20	29468348	29468413	Formin_Cappuccino_subfam	724.0	+	29468348	29468413	83,88,95	1	65	0	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+20	29469059	29471577	Formin_Cappuccino_subfam	596.0	+	29469059	29471577	83,88,95	2	1,69	0,2449	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+20	29474749	29475376	Formin_Cappuccino_subfam	923.0	+	29474749	29475376	83,88,95	2	27,40	0,587	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+20	29479089	29479362	Formin_Cappuccino_subfam	836.0	+	29479089	29479362	83,88,95	2	52,6	0,267	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+20	29481496	29481555	Formin_Cappuccino_subfam	560.0	+	29481496	29481555	83,88,95	1	59	0	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+20	29483652	29483717	Formin_Cappuccino_subfam	800.0	+	29483652	29483717	83,88,95	1	65	0	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+20	29492807	29492866	Formin_Cappuccino_subfam	860.0	+	29492807	29492866	83,88,95	1	59	0	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+20	29494873	29495118	Formin_Cappuccino_subfam	250.0	+	29494873	29495118	83,88,95	2	41,26	0,219	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+20	29465252	29465311	Formin_Cappuccino_subfam	787.0	+	29465252	29465311	83,88,95	1	59	0	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+20	29468990	29492848	FH2_Formin	280.0	+	29468990	29492848	83,88,95	11	70,141,87,61,88,129,146,59,120,92,142	0,2518,5699,6346,10063,10366,12503,12755,14617,20637,23716	PF02181	http://pfam.sanger.ac.uk/family?acc=PF02181
+20	29468987	29492890	FH2_Formin	268.3	+	29468987	29492890	83,88,95	11	73,141,87,61,88,129,146,59,120,92,184	0,2521,5702,6349,10066,10369,12506,12758,14620,20640,23719	SM00498	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00498

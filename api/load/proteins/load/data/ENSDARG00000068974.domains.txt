@@ -1,23 +1,10 @@
-browser position chr10:30804032-30810922
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000068974	ENSDART00000078800	ENSDARP00000073261	30804032	30810922	###
-#	PR01457	IPR003935	29	42	\N	5.2e-24	64.29	MQYRHSNNYMHQGL
-10	30808158	30808199	LMIP_(PR01457)	480.0	-
-#	PR01457	IPR003935	46	62	\N	5.2e-24	56.86	CTPGKCFTHTDSIAYWD
-10	30806059	30808148	LMIP_(PR01457)	617.0	-
-#	PR01457	IPR003935	91	102	\N	5.2e-24	41.67	SFDRFDKTFAAG
-10	30805939	30805974	LMIP_(PR01457)	294.0	-
-#	PR01457	IPR003935	104	117	\N	5.2e-24	59.52	LFFISCFFVFLAMA
-10	30804642	30805935	LMIP_(PR01457)	414.0	-
-#	PR01457	IPR003935	120	134	\N	5.2e-24	53.33	TGVTINYYGKRYGNW
-10	30804591	30804635	LMIP_(PR01457)	600.0	-
-#	PR01453	IPR004032	66	73	\N	2.2e-05	69.53	AFMILSLL
-10	30806026	30806049	PMP22_EMP_MP20_(PR01453)	260.0	-
-#	PR01453	IPR004032	94	102	\N	2.2e-05	24.31	RFDKTFAAG
-10	30805939	30805965	PMP22_EMP_MP20_(PR01453)	104.0	-
-#	PR01453	IPR004032	110	119	\N	2.2e-05	33.12	FFVFLAMAVY
-10	30804636	30804665	PMP22_EMP_MP20_(PR01453)	185.0	-
-#	PR01453	IPR004032	138	145	\N	2.2e-05	48.44	WSYIIGWV
-10	30804558	30804581	PMP22_EMP_MP20_(PR01453)	306.0	-
-#	PF00822	IPR004031	1	157	\N	8.3e-38	0.0	MYSFLGGGLFCAGVGNILLIVSTATDYWMQYRHSNNYMHQGLWRYCTPGKCFTHTDSIAYWDATRAFMILSLLACFIGIIIGIMAFIHYSSFDRFDKTFAAGILFFISCFFVFLAMAVYTGVTINYYGKRYGNWRFSWSYIIGWVSVVLTFFSGMFY
-10	30804191	30808283	PMP22/EMP/MP20/Claudin_(PF00822)	116.0	-
+10	30808158	30808199	LMIP	480.0	-	30808158	30808199	83,88,95	1	41	0	PR01457	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01457&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01457
+10	30806059	30808148	LMIP	617.0	-	30806059	30808148	83,88,95	2	2050,2079	0,10	PR01457	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01457&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01457
+10	30805939	30805974	LMIP	294.0	-	30805939	30805974	83,88,95	1	35	0	PR01457	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01457&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01457
+10	30804642	30805935	LMIP	414.0	-	30804642	30805935	83,88,95	2	1278,1268	0,25	PR01457	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01457&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01457
+10	30804591	30804635	LMIP	600.0	-	30804591	30804635	83,88,95	1	44	0	PR01457	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01457&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01457
+10	30806026	30806049	PMP22_EMP_MP20	260.0	-	30806026	30806049	83,88,95	1	23	0	PR01453	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01453&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01453
+10	30805939	30805965	PMP22_EMP_MP20	104.0	-	30805939	30805965	83,88,95	1	26	0	PR01453	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01453&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01453
+10	30804636	30804665	PMP22_EMP_MP20	185.0	-	30804636	30804665	83,88,95	1	29	0	PR01453	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01453&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01453
+10	30804558	30804581	PMP22_EMP_MP20	306.0	-	30804558	30804581	83,88,95	1	23	0	PR01453	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01453&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01453
+10	30804191	30808283	PMP22/EMP/MP20/Claudin	116.0	-	30804191	30808283	83,88,95	4	3918,-149,-134,4082	0,1878,476,10	PF00822	http://pfam.sanger.ac.uk/family?acc=PF00822

@@ -1,41 +1,19 @@
-browser position chr24:497261-519314
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000045465	ENSDART00000134772	ENSDARP00000114912	497261	519314	###
-#	PF05147	IPR007822	88	433	\N	2.0999999999999996e-97	0.0	PHDFSTYTGWTGVALLYLHLYQATQEVSHLQRSLDYVKRTLRNLNGRRVSFLCGDAGPLAVGAVVHHHLKNQTESQDCISKLLQLQRSVLSPDSDVPDELLYGRAGYLYALLYVNREIAPDAVDEATIAKVVTAIVESGKNLSKEEKKSERCPLLYEWHKKQYVGAAHGLAGIYYMLMQPSAKLHPDLLSELVRPSVDYLRHKKFRSGNYPSSLSNESDRLVHWCHGAPGVLHMLIMAHTVFKDEKYLRDALECGELIWQRGLLRKGYGLCHGTAGNAYAFLALYRCTRDRKHLHRACKFAEWCLDYGTHGCRIPDRPYSLFEGMAGAIHYLSDVLQPEVSCFPAF
-24	503207	517668	LANC-like_(PF05147)	312.1	+
-#	PR01951	IPR020464	20	33	\N	4.1000000000000003e-51	59.52	EERCFSNPFPDYEP
-24	500339	500380	LanC-like_prot_euk_(PR01951)	493.0	+
-#	PR01951	IPR020464	215	230	\N	4.1000000000000003e-51	51.82	IAKVVTAIVESGKNLS
-24	505315	509050	LanC-like_prot_euk_(PR01951)	391.0	+
-#	PR01951	IPR020464	239	251	\N	4.1000000000000003e-51	61.86	CPLLYEWHKKQYV
-24	509075	509113	LanC-like_prot_euk_(PR01951)	551.0	+
-#	PR01951	IPR020464	288	303	\N	4.1000000000000003e-51	59.9	RHKKFRSGNYPSSLSN
-24	513396	513443	LanC-like_prot_euk_(PR01951)	490.0	+
-#	PR01951	IPR020464	325	346	\N	4.1000000000000003e-51	57.01	AHTVFKDEKYLRDALECGELIW
-24	513507	515097	LanC-like_prot_euk_(PR01951)	768.0	+
-#	PR01951	IPR020464	371	389	\N	4.1000000000000003e-51	65.13	LYRCTRDRKHLHRACKFAE
-24	515170	515581	LanC-like_prot_euk_(PR01951)	684.0	+
-#	PR01951	IPR020464	421	435	\N	4.1000000000000003e-51	55.0	DVLQPEVSCFPAFQL
-24	517630	517674	LanC-like_prot_euk_(PR01951)	442.0	+
-#	PR01950	IPR007822	90	108	\N	2.8999999999999996e-50	42.16	DFSTYTGWTGVALLYLHLY
-24	503213	504720	LANC-like_(PR01950)	373.0	+
-#	PR01950	IPR007822	185	200	\N	2.8999999999999996e-50	56.67	DELLYGRAGYLYALLY
-24	505225	505272	LANC-like_(PR01950)	427.0	+
-#	PR01950	IPR007822	250	266	\N	2.8999999999999996e-50	58.96	YVGAAHGLAGIYYMLMQ
-24	509108	509158	LANC-like_(PR01950)	510.0	+
-#	PR01950	IPR007822	308	328	\N	2.8999999999999996e-50	50.4	LVHWCHGAPGVLHMLIMAHTV
-24	513456	515043	LANC-like_(PR01950)	603.0	+
-#	PR01950	IPR007822	355	368	\N	2.8999999999999996e-50	58.51	YGLCHGTAGNAYAF
-24	515122	515163	LANC-like_(PR01950)	485.0	+
-#	PR01950	IPR007822	405	422	\N	2.8999999999999996e-50	47.32	PYSLFEGMAGAIHYLSDV
-24	515627	517635	LANC-like_(PR01950)	417.0	+
-#	PR01955	IPR020434	91	106	\N	1.3000000000000001e-05	38.75	FSTYTGWTGVALLYLH
-24	503216	504714	LanC-like_protein_(PR01955)	199.0	+
-#	PR01955	IPR020434	308	331	\N	1.3000000000000001e-05	29.58	LVHWCHGAPGVLHMLIMAHTVFKD
-24	513456	515052	LanC-like_protein_(PR01955)	380.0	+
-#	PR01955	IPR020434	354	374	\N	1.3000000000000001e-05	35.71	GYGLCHGTAGNAYAFLALYRC
-24	515119	515181	LanC-like_protein_(PR01955)	251.0	+
-#	PR01955	IPR020434	406	423	\N	1.3000000000000001e-05	28.89	YSLFEGMAGAIHYLSDVL
-24	515630	517638	LanC-like_protein_(PR01955)	126.0	+
-#	SSF48208	IPR008928	66	394	\N	8.3e-10	0.0	KKVQSKIKDLLQQMEEGLKTADPHDFSTYTGWTGVALLYLHLYQATQEVSHLQRSLDYVKRTLRNLNGRRVSFLCGDAGPLAVGAVVHHHLKNQTESQDCISKLLQLQRSVLSPDSDVPDELLYGRAGYLYALLYVNREIAPDAVDEATIAKVVTAIVESGKNLSKEEKKSERCPLLYEWHKKQYVGAAHGLAGIYYMLMQPSAKLHPDLLSELVRPSVDYLRHKKFRSGNYPSSLSNESDRLVHWCHGAPGVLHMLIMAHTVFKDEKYLRDALECGELIWQRGLLRKGYGLCHGTAGNAYAFLALYRCTRDRKHLHRACKFAEWCLDY
-24	503141	515596	6-hairpin_glycosidase-like_(SSF48208)	0.0	+
+24	503207	517668	LANC-like	312.1	+	503207	517668	83,88,95	8	33,207,147,146,182,176,72,67	0,1485,1969,5805,10126,11834,12366,14394	PF05147	http://pfam.sanger.ac.uk/family?acc=PF05147
+24	500339	500380	LanC-like_prot_euk	493.0	+	500339	500380	83,88,95	1	41	0	PR01951	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01951&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01951
+24	505315	509050	LanC-like_prot_euk	391.0	+	505315	509050	83,88,95	2	8,38	0,3697	PR01951	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01951&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01951
+24	509075	509113	LanC-like_prot_euk	551.0	+	509075	509113	83,88,95	1	38	0	PR01951	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01951&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01951
+24	513396	513443	LanC-like_prot_euk	490.0	+	513396	513443	83,88,95	1	47	0	PR01951	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01951&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01951
+24	513507	515097	LanC-like_prot_euk	768.0	+	513507	515097	83,88,95	2	8,56	0,1534	PR01951	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01951&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01951
+24	515170	515581	LanC-like_prot_euk	684.0	+	515170	515581	83,88,95	2	47,8	0,403	PR01951	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01951&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01951
+24	517630	517674	LanC-like_prot_euk	442.0	+	517630	517674	83,88,95	1	44	0	PR01951	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01951&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01951
+24	503213	504720	LANC-like	373.0	+	503213	504720	83,88,95	2	27,28	0,1479	PR01950	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01950&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01950
+24	505225	505272	LANC-like	427.0	+	505225	505272	83,88,95	1	47	0	PR01950	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01950&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01950
+24	509108	509158	LANC-like	510.0	+	509108	509158	83,88,95	1	50	0	PR01950	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01950&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01950
+24	513456	515043	LANC-like	603.0	+	513456	515043	83,88,95	2	59,2	0,1585	PR01950	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01950&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01950
+24	515122	515163	LANC-like	485.0	+	515122	515163	83,88,95	1	41	0	PR01950	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01950&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01950
+24	515627	517635	LANC-like	417.0	+	515627	517635	83,88,95	2	18,34	0,1974	PR01950	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01950&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01950
+24	503216	504714	LanC-like_protein	199.0	+	503216	504714	83,88,95	2	24,22	0,1476	PR01955	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01955&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01955
+24	513456	515052	LanC-like_protein	380.0	+	513456	515052	83,88,95	2	59,11	0,1585	PR01955	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01955&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01955
+24	515119	515181	LanC-like_protein	251.0	+	515119	515181	83,88,95	1	62	0	PR01955	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01955&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01955
+24	515630	517638	LanC-like_protein	126.0	+	515630	517638	83,88,95	2	15,37	0,1971	PR01955	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01955&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01955
+24	503141	515596	6-hairpin_glycosidase-like	0.0	+	503141	515596	83,88,95	7	99,207,147,146,182,176,23	0,1551,2035,5871,10192,11900,12432	SSF48208	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48208

@@ -1,55 +1,26 @@
-browser position chr18:23652345-23806708
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000040926	ENSDART00000059976	ENSDARP00000059975	23652345	23659078	###
-#	PR00545	IPR000003	307	325	\N	4.2e-05	35.28	RIFQEQVEKLKALHVDSAE
-18	23656712	23656768	Retinoid-X_rcpt/HNF4_(PR00545)	349.0	-
-#	PR00047	IPR001628	144	152	\N	7.6e-19	65.28	LKKCLKVGM
-18	23658287	23658313	Znf_hrmn_rcpt_(PR00047)	332.0	-
-#	PR00545	IPR000003	348	367	\N	4.2e-05	44.28	VESLQEKSQCALEEYVRSQY
-18	23654777	23654836	Retinoid-X_rcpt/HNF4_(PR00545)	437.0	-
-#	PR00398	IPR001723	319	334	\N	5.799999999999999e-30	44.39	LHVDSAEYSCLKAIVL
-18	23656685	23656732	Str_hrmn_rcpt_(PR00398)	355.0	-
-#	PR00047	IPR001628	136	144	\N	7.6e-19	65.98	RNQCQYCRL
-18	23658311	23658337	Znf_hrmn_rcpt_(PR00047)	369.0	-
-#	PR00047	IPR001628	103	118	\N	7.6e-19	59.03	TCEGCKSFFKRSVRRN
-18	23658389	23658436	Znf_hrmn_rcpt_(PR00047)	593.0	-
-#	SSF48508	IPR008946	159	414	\N	2.7999999999999998e-73	0.0	FTAAVQRGRMPPTQPHHGQFALTNGDPLHCHSYLSGYISLLLRAEPYPTSRYGSQCMQPNNIMGIENICELAARMLFSAVEWARNIPFFPDLQITDQVALLRLTWSELFVLNAAQCSMPLHVAPLLAAAGLHASPMSADRVVAFMDHIRIFQEQVEKLKALHVDSAEYSCLKAIVLFTSDACGLSDVAHVESLQEKSQCALEEYVRSQYPNQPTRFGKLLLRLPSLRTVSSSVIEQLFFVRLVGKTPIETLIRDML
-18	23654636	23657212	Nucl_hormone_rcpt_ligand-bd_(SSF48508)	0.0	-
-#	PR00398	IPR001723	376	393	\N	5.799999999999999e-30	41.48	KLLLRLPSLRTVSSSVIE
-18	23654699	23654752	Str_hrmn_rcpt_(PR00398)	341.0	-
-#	PR00047	IPR001628	87	103	\N	7.6e-19	56.58	CVVCGDKSSGKHYGQFT
-18	23658434	23658484	Znf_hrmn_rcpt_(PR00047)	586.0	-
-#	PR00398	IPR001723	250	266	\N	5.799999999999999e-30	45.18	LQITDQVALLRLTWSEL
-18	23656889	23656939	Str_hrmn_rcpt_(PR00398)	345.0	-
-#	PR00398	IPR001723	229	250	\N	5.799999999999999e-30	38.79	LAARMLFSAVEWARNIPFFPDL
-18	23656937	23657002	Str_hrmn_rcpt_(PR00398)	416.0	-
-#	PR00398	IPR001723	148	158	\N	5.799999999999999e-30	41.94	LKVGMRREVSL
-18	23657213	23658301	Str_hrmn_rcpt_(PR00398)	189.0	-
-#	PR01282	IPR003068	413	426	\N	8.2e-83	92.38	MLLSGSSFNWPYMS
-18	23654600	23654641	COUP_TF_(PR01282)	720.0	-
-#	PR01282	IPR003068	402	413	\N	8.2e-83	99.44	GKTPIETLIRDM
-18	23654639	23654674	COUP_TF_(PR01282)	608.0	-
-#	PR01282	IPR003068	382	395	\N	8.2e-83	88.1	PSLRTVSSSVIEQL
-18	23654693	23654734	COUP_TF_(PR01282)	559.0	-
-#	PR01282	IPR003068	335	347	\N	8.2e-83	91.28	FTSDACGLSDVAH
-18	23654837	23656684	COUP_TF_(PR01282)	640.0	-
-#	PR01282	IPR003068	296	310	\N	8.2e-83	92.44	ADRVVAFMDHIRIFQ
-18	23656757	23656801	COUP_TF_(PR01282)	711.0	-
-#	PR01282	IPR003068	222	238	\N	8.2e-83	91.76	GIENICELAARMLFSAV
-18	23656973	23657023	COUP_TF_(PR01282)	790.0	-
-#	PR01282	IPR003068	276	294	\N	8.2e-83	93.68	MPLHVAPLLAAAGLHASPM
-18	23656805	23656861	COUP_TF_(PR01282)	904.0	-
-#	PR01282	IPR003068	192	207	\N	8.2e-83	90.83	LSGYISLLLRAEPYPT
-18	23657066	23657113	COUP_TF_(PR01282)	730.0	-
-#	PR01282	IPR003068	161	173	\N	8.2e-83	80.0	AAVQRGRMPPTQP
-18	23657168	23657206	COUP_TF_(PR01282)	533.0	-
-#	PF00105	IPR001628	86	154	\N	4.4e-35	0.0	ECVVCGDKSSGKHYGQFTCEGCKSFFKRSVRRNLTYTCRANRNCPIDQHHRNQCQYCRLKKCLKVGMRR
-18	23658281	23658487	Znf_hrmn_rcpt_(PF00105)	107.9	-
-#	PF00104	IPR000536	254	413	\N	3.1e-48	0.0	DQVALLRLTWSELFVLNAAQCSMPLHVAPLLAAAGLHASPMSADRVVAFMDHIRIFQEQVEKLKALHVDSAEYSCLKAIVLFTSDACGLSDVAHVESLQEKSQCALEEYVRSQYPNQPTRFGKLLLRLPSLRTVSSSVIEQLFFVRLVGKTPIETLIRDM
-18	23654639	23656927	Nucl_hrmn_rcpt_lig-bd_core_(PF00104)	151.2	-
-#	SM00399	IPR001628	84	155	\N	3.4999999999999993e-39	0.0	HIECVVCGDKSSGKHYGQFTCEGCKSFFKRSVRRNLTYTCRANRNCPIDQHHRNQCQYCRLKKCLKVGMRRE
-18	23658278	23658493	Znf_hrmn_rcpt_(SM00399)	146.2	-
-#	SM00430	IPR000536	228	388	\N	1.4999999999999998e-47	0.0	ELAARMLFSAVEWARNIPFFPDLQITDQVALLRLTWSELFVLNAAQCSMPLHVAPLLAAAGLHASPMSADRVVAFMDHIRIFQEQVEKLKALHVDSAEYSCLKAIVLFTSDACGLSDVAHVESLQEKSQCALEEYVRSQYPNQPTRFGKLLLRLPSLRTVS
-18	23654714	23657005	Nucl_hrmn_rcpt_lig-bd_core_(SM00430)	174.0	-
-#	PS51030	IPR001628	84	159	\N	0.0	0.0	HIECVVCGDKSSGKHYGQFTCEGCKSFFKRSVRRNLTYTCRANRNCPIDQHHRNQCQYCRLKKCLKVGMRREVSLF
-18	23657210	23658493	Znf_hrmn_rcpt_(PS51030)	19.549	-
+18	23656712	23656768	Retinoid-X_rcpt/HNF4	349.0	-	23656712	23656768	83,88,95	1	56	0	PR00545	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00545&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00545
+18	23658287	23658313	Znf_hrmn_rcpt	332.0	-	23658287	23658313	83,88,95	1	26	0	PR00047	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00047&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00047
+18	23654777	23654836	Retinoid-X_rcpt/HNF4	437.0	-	23654777	23654836	83,88,95	1	59	0	PR00545	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00545&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00545
+18	23656685	23656732	Str_hrmn_rcpt	355.0	-	23656685	23656732	83,88,95	1	47	0	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
+18	23658311	23658337	Znf_hrmn_rcpt	369.0	-	23658311	23658337	83,88,95	1	26	0	PR00047	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00047&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00047
+18	23658389	23658436	Znf_hrmn_rcpt	593.0	-	23658389	23658436	83,88,95	1	47	0	PR00047	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00047&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00047
+18	23654636	23657212	Nucl_hormone_rcpt_ligand-bd	0.0	-	23654636	23657212	83,88,95	2	2039,2347	0,229	SSF48508	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48508
+18	23654699	23654752	Str_hrmn_rcpt	341.0	-	23654699	23654752	83,88,95	1	53	0	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
+18	23658434	23658484	Znf_hrmn_rcpt	586.0	-	23658434	23658484	83,88,95	1	50	0	PR00047	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00047&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00047
+18	23656889	23656939	Str_hrmn_rcpt	345.0	-	23656889	23656939	83,88,95	1	50	0	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
+18	23656937	23657002	Str_hrmn_rcpt	416.0	-	23656937	23657002	83,88,95	1	65	0	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
+18	23657213	23658301	Str_hrmn_rcpt	189.0	-	23657213	23658301	83,88,95	2	1064,1081	0,7	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
+18	23654600	23654641	COUP_TF	720.0	-	23654600	23654641	83,88,95	1	41	0	PR01282	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01282&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01282
+18	23654639	23654674	COUP_TF	608.0	-	23654639	23654674	83,88,95	1	35	0	PR01282	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01282&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01282
+18	23654693	23654734	COUP_TF	559.0	-	23654693	23654734	83,88,95	1	41	0	PR01282	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01282&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01282
+18	23654837	23656684	COUP_TF	640.0	-	23654837	23656684	83,88,95	2	1838,1819	0,28	PR01282	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01282&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01282
+18	23656757	23656801	COUP_TF	711.0	-	23656757	23656801	83,88,95	1	44	0	PR01282	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01282&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01282
+18	23656973	23657023	COUP_TF	790.0	-	23656973	23657023	83,88,95	1	50	0	PR01282	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01282&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01282
+18	23656805	23656861	COUP_TF	904.0	-	23656805	23656861	83,88,95	1	56	0	PR01282	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01282&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01282
+18	23657066	23657113	COUP_TF	730.0	-	23657066	23657113	83,88,95	1	47	0	PR01282	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01282&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01282
+18	23657168	23657206	COUP_TF	533.0	-	23657168	23657206	83,88,95	1	38	0	PR01282	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01282&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01282
+18	23658281	23658487	Znf_hrmn_rcpt	107.9	-	23658281	23658487	83,88,95	1	206	0	PF00105	http://pfam.sanger.ac.uk/family?acc=PF00105
+18	23654639	23656927	Nucl_hrmn_rcpt_lig-bd_core	151.2	-	23654639	23656927	83,88,95	2	2036,2062	0,226	PF00104	http://pfam.sanger.ac.uk/family?acc=PF00104
+18	23658278	23658493	Znf_hrmn_rcpt	146.2	-	23658278	23658493	83,88,95	1	215	0	SM00399	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00399
+18	23654714	23657005	Nucl_hrmn_rcpt_lig-bd_core	174.0	-	23654714	23657005	83,88,95	2	1961,2140	0,151	SM00430	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00430
+18	23657210	23658493	Znf_hrmn_rcpt	19.549	-	23657210	23658493	83,88,95	2	1067,1273	0,10	PS51030	http://www.expasy.ch/prosite/PS51030

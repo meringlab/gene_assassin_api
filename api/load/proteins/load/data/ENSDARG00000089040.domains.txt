@@ -1,19 +1,8 @@
-browser position chrZv9_NA605:17436-19401
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000089040	ENSDART00000130214	ENSDARP00000110812	17436	19401	###
-#	PF00560	IPR001611	164	183	\N	2.9999999999999997e-05	0.0	KLEALYLENNRLKSLDPSVF
-Zv9_NA605	17763	17822	Leu-rich_rpt_(PF00560)	10.7	-
-#	PF00560	IPR001611	116	137	\N	6.6e-06	0.0	SLQRLDLASNRFTLLPVAFLQR
-Zv9_NA605	17901	17966	Leu-rich_rpt_(PF00560)	12.7	-
-#	SM00369	IPR003591	41	64	\N	30.0	0.0	FSHLSHLSLTRNQLQTTPADLLVS
-Zv9_NA605	19210	19281	Leu-rich_rpt_typical-subtyp_(SM00369)	9.3	-
-#	SM00369	IPR003591	115	137	\N	47.0	0.0	SSLQRLDLASNRFTLLPVAFLQR
-Zv9_NA605	17901	17969	Leu-rich_rpt_typical-subtyp_(SM00369)	7.8	-
-#	SM00369	IPR003591	138	161	\N	0.95	0.0	LGNLQSFDFKNNQLEELTPGALVS
-Zv9_NA605	17829	17900	Leu-rich_rpt_typical-subtyp_(SM00369)	18.5	-
-#	SM00369	IPR003591	162	185	\N	0.0067	0.0	LSKLEALYLENNRLKSLDPSVFIG
-Zv9_NA605	17757	17828	Leu-rich_rpt_typical-subtyp_(SM00369)	25.6	-
-#	SM00369	IPR003591	187	209	\N	21.0	0.0	PNLQQVFMSVNRLESLPAGLFLQ
-Zv9_NA605	17685	17753	Leu-rich_rpt_typical-subtyp_(SM00369)	10.6	-
-#	SM00369	IPR003591	211	233	\N	200.0	0.0	KELVFLDLRNNTLLNLPSGSLCS
-Zv9_NA605	17613	17681	Leu-rich_rpt_typical-subtyp_(SM00369)	2.6	-
+Zv9_NA605	17763	17822	Leu-rich_rpt	10.7	-	17763	17822	83,88,95	1	59	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+Zv9_NA605	17901	17966	Leu-rich_rpt	12.7	-	17901	17966	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+Zv9_NA605	19210	19281	Leu-rich_rpt_typical-subtyp	9.3	-	19210	19281	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+Zv9_NA605	17901	17969	Leu-rich_rpt_typical-subtyp	7.8	-	17901	17969	83,88,95	1	68	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+Zv9_NA605	17829	17900	Leu-rich_rpt_typical-subtyp	18.5	-	17829	17900	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+Zv9_NA605	17757	17828	Leu-rich_rpt_typical-subtyp	25.6	-	17757	17828	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+Zv9_NA605	17685	17753	Leu-rich_rpt_typical-subtyp	10.6	-	17685	17753	83,88,95	1	68	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+Zv9_NA605	17613	17681	Leu-rich_rpt_typical-subtyp	2.6	-	17613	17681	83,88,95	1	68	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369

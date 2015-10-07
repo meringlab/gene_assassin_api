@@ -1,25 +1,11 @@
-browser position chr20:6292835-6308950
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000024208	ENSDART00000033404	ENSDARP00000031910	6292835	6308950	###
-#	PR00237	IPR000276	249	275	\N	1.2e-22	29.63	FAVPAMFAKSSTLYNPLIYLLLKPNFR
-20	6293294	6293374	GPCR_Rhodpsn_(PR00237)	366.0	-
-#	PR00237	IPR000276	109	130	\N	1.2e-22	20.11	HGRMLIVCAWAYSLVFACSPLA
-20	6300120	6300185	GPCR_Rhodpsn_(PR00237)	178.0	-
-#	PR00237	IPR000276	161	184	\N	1.2e-22	24.56	TTVLFIACYLVPCVIIIISYTRIL
-20	6299958	6300029	GPCR_Rhodpsn_(PR00237)	285.0	-
-#	PR00237	IPR000276	211	235	\N	1.2e-22	23.49	IVKLSVAVCIGFFTAWSPYALVSMW
-20	6293414	6299879	GPCR_Rhodpsn_(PR00237)	290.0	-
-#	PR00237	IPR000276	29	50	\N	1.2e-22	33.55	AEFFIVNLAISDLGMTLSLYPL
-20	6308801	6308866	GPCR_Rhodpsn_(PR00237)	301.0	-
-#	PF00001	IPR000276	11	267	\N	7.799999999999999e-44	0.0	GNSMLLYVSYKKKHLLKPAEFFIVNLAISDLGMTLSLYPLAVTSSIAHRWLYGRTVCVIYAFCGVLFGICSLTTLTILSTVCCLKVCYPLHGNRFSYEHGRMLIVCAWAYSLVFACSPLAHWGQYGPEPYGTACCIDWAWSNQNSVARSYTTVLFIACYLVPCVIIIISYTRILITVRESRRAVEQHVSAQTRMGNIQTIIVKLSVAVCIGFFTAWSPYALVSMWAAFGHFDDIPPMAFAVPAMFAKSSTLYNPLIY
-20	6293318	6308920	GPCR_Rhodpsn_(PF00001)	136.0	-
-#	PR01244	IPR002962	235	253	\N	1.4e-06	36.84	WAAFGHFDDIPPMAFAVPA
-20	6293360	6293416	Peropsin_(PR01244)	350.0	-
-#	PR01244	IPR002962	157	171	\N	1.4e-06	26.67	ARSYTTVLFIACYLV
-20	6299997	6300041	Peropsin_(PR01244)	180.0	-
-#	PS50262	IPR017452	11	267	\N	0.0	0.0	GNSMLLYVSYKKKHLLKPAEFFIVNLAISDLGMTLSLYPLAVTSSIAHRWLYGRTVCVIYAFCGVLFGICSLTTLTILSTVCCLKVCYPLHGNRFSYEHGRMLIVCAWAYSLVFACSPLAHWGQYGPEPYGTACCIDWAWSNQNSVARSYTTVLFIACYLVPCVIIIISYTRILITVRESRRAVEQHVSAQTRMGNIQTIIVKLSVAVCIGFFTAWSPYALVSMWAAFGHFDDIPPMAFAVPAMFAKSSTLYNPLIY
-20	6293318	6308920	GPCR_Rhodpsn_7TM_(PS50262)	33.13	-
-#	PR01244	IPR002962	70	86	\N	1.4e-06	41.18	YAFCGVLFGICSLTTLT
-20	6302792	6302842	Peropsin_(PR01244)	345.0	-
-#	PR01244	IPR002962	39	54	\N	1.4e-06	31.25	SDLGMTLSLYPLAVTS
-20	6308789	6308836	Peropsin_(PR01244)	300.0	-
+20	6293294	6293374	GPCR_Rhodpsn	366.0	-	6293294	6293374	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+20	6300120	6300185	GPCR_Rhodpsn	178.0	-	6300120	6300185	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+20	6299958	6300029	GPCR_Rhodpsn	285.0	-	6299958	6300029	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+20	6293414	6299879	GPCR_Rhodpsn	290.0	-	6293414	6299879	83,88,95	2	6457,6400	0,65	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+20	6308801	6308866	GPCR_Rhodpsn	301.0	-	6308801	6308866	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+20	6293318	6308920	GPCR_Rhodpsn	136.0	-	6293318	6308920	83,88,95	4	15457,-127,-334,15441	0,9555,6887,161	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+20	6293360	6293416	Peropsin	350.0	-	6293360	6293416	83,88,95	1	56	0	PR01244	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01244&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01244
+20	6299997	6300041	Peropsin	180.0	-	6299997	6300041	83,88,95	1	44	0	PR01244	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01244&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01244
+20	6293318	6308920	GPCR_Rhodpsn_7TM	33.13	-	6293318	6308920	83,88,95	4	15457,-127,-334,15441	0,9555,6887,161	PS50262	http://www.expasy.ch/prosite/PS50262
+20	6302792	6302842	Peropsin	345.0	-	6302792	6302842	83,88,95	1	50	0	PR01244	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01244&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01244
+20	6308789	6308836	Peropsin	300.0	-	6308789	6308836	83,88,95	1	47	0	PR01244	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01244&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01244

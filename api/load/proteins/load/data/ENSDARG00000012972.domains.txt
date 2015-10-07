@@ -1,17 +1,7 @@
-browser position chr13:33831214-33833902
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000012972	ENSDART00000026464	ENSDARP00000006420	33831214	33833902	###
-#	PR00006	IPR017904	76	96	\N	1e-26	68.57	ECRYALYDCKYTNKESVKEDL
-13	33832809	33832871	ADF/Cofilin/Destrin_(PR00006)	788.0	+
-#	PR00006	IPR017904	15	39	\N	1e-26	29.6	YELIRVRLQGTDEKERFKLVVMRLS
-13	33832626	33832700	ADF/Cofilin/Destrin_(PR00006)	166.0	+
-#	PR00006	IPR017904	150	162	\N	1e-26	54.62	GGSKIVTSLEGKP
-13	33833552	33833590	ADF/Cofilin/Destrin_(PR00006)	325.0	+
-#	PR00006	IPR017904	119	135	\N	1e-26	51.76	NALKAKLPGMKFEWQIN
-13	33833304	33833509	ADF/Cofilin/Destrin_(PR00006)	474.0	+
-#	PR00006	IPR017904	97	118	\N	1e-26	68.18	VFIFSAPDDAPMRSKMLYASSK
-13	33832872	33833303	ADF/Cofilin/Destrin_(PR00006)	804.0	+
-#	PF00241	IPR002108	26	149	\N	6.4e-32	0.0	DEKERFKLVVMRLSDDLKNIIVDEKNCLKVKDVENEKDVFKKIISMLPPKECRYALYDCKYTNKESVKEDLVFIFSAPDDAPMRSKMLYASSKNALKAKLPGMKFEWQINDNADKDASSLVEKL
-13	33832659	33833551	Actin-bd_cofilin/tropomyosin_(PF00241)	96.6	+
-#	SM00102	IPR002108	19	150	\N	4.899999999999999e-28	0.0	RVRLQGTDEKERFKLVVMRLSDDLKNIIVDEKNCLKVKDVENEKDVFKKIISMLPPKECRYALYDCKYTNKESVKEDLVFIFSAPDDAPMRSKMLYASSKNALKAKLPGMKFEWQINDNADKDASSLVEKLG
-13	33832638	33833554	Actin-bd_cofilin/tropomyosin_(SM00102)	109.1	+
+13	33832809	33832871	ADF/Cofilin/Destrin	788.0	+	33832809	33832871	83,88,95	1	62	0	PR00006	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00006&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00006
+13	33832626	33832700	ADF/Cofilin/Destrin	166.0	+	33832626	33832700	83,88,95	1	74	0	PR00006	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00006&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00006
+13	33833552	33833590	ADF/Cofilin/Destrin	325.0	+	33833552	33833590	83,88,95	1	38	0	PR00006	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00006&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00006
+13	33833304	33833509	ADF/Cofilin/Destrin	474.0	+	33833304	33833509	83,88,95	2	24,25	0,180	PR00006	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00006&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00006
+13	33832872	33833303	ADF/Cofilin/Destrin	804.0	+	33832872	33833303	83,88,95	2	13,51	0,380	PR00006	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00006&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00006
+13	33832659	33833551	Actin-bd_cofilin/tropomyosin	96.6	+	33832659	33833551	83,88,95	3	226,76,67	0,593,825	PF00241	http://pfam.sanger.ac.uk/family?acc=PF00241
+13	33832638	33833554	Actin-bd_cofilin/tropomyosin	109.1	+	33832638	33833554	83,88,95	3	247,76,70	0,614,846	SM00102	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00102

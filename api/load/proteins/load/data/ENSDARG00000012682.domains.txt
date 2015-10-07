@@ -1,29 +1,13 @@
-browser position chr2:9935926-9940736
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000012682	ENSDART00000053426	ENSDARP00000053425	9936000	9940736	###
-#	PF00235	IPR005455	2	134	\N	3.7000000000000003e-34	0.0	SWQSYVDNLMADGSCQDAAIVGYTDAKYVWASSEGGTFSGITPDEIDVIVGKDREGFFTSGLTLGKKKCSVIRDSLQVEGDWTMDIRTKSHNGEPTYNVSIGRAGKVLVLVMGKEGVHGGGLNKKAYSMAKYL
-2	9936169	9938555	Profilin_eukaryotes/bac_(PF00235)	103.9	+
-#	PR01639	IPR005454	2	18	\N	6.499999999999999e-43	74.12	SWQSYVDNLMADGSCQD
-2	9936169	9936219	Profilin_chordates_(PR01639)	787.0	+
-#	PR01639	IPR005454	31	46	\N	6.499999999999999e-43	56.25	WASSEGGTFSGITPDE
-2	9936256	9937286	Profilin_chordates_(PR01639)	497.0	+
-#	PR01639	IPR005454	52	66	\N	6.499999999999999e-43	86.67	GKDREGFFTSGLTLG
-2	9937302	9937346	Profilin_chordates_(PR01639)	707.0	+
-#	PR01639	IPR005454	69	82	\N	6.499999999999999e-43	80.0	KCSVIRDSLQVEGD
-2	9937353	9937394	Profilin_chordates_(PR01639)	574.0	+
-#	PR01639	IPR005454	85	94	\N	6.499999999999999e-43	77.0	MDIRTKSHNG
-2	9937401	9937430	Profilin_chordates_(PR01639)	388.0	+
-#	PR01639	IPR005454	113	126	\N	6.499999999999999e-43	92.86	MGKEGVHGGGLNKK
-2	9938490	9938531	Profilin_chordates_(PR01639)	710.0	+
-#	PR00392	IPR005455	3	12	\N	1.4999999999999999e-05	53.5	WQSYVDNLMA
-2	9936172	9936201	Profilin_eukaryotes/bac_(PR00392)	348.0	+
-#	PR00392	IPR005455	62	76	\N	1.4999999999999999e-05	40.33	GLTLGKKKCSVIRDS
-2	9937332	9937376	Profilin_eukaryotes/bac_(PR00392)	231.0	+
-#	PR00392	IPR005455	108	121	\N	1.4999999999999999e-05	30.54	VLVLVMGKEGVHGG
-2	9938475	9938516	Profilin_eukaryotes/bac_(PR00392)	134.0	+
-#	PR00392	IPR005455	121	138	\N	1.4999999999999999e-05	32.08	GGLNKKAYSMAKYLRDSG
-2	9938514	9938567	Profilin_eukaryotes/bac_(PR00392)	230.0	+
-#	SM00392	IPR005455	1	139	\N	1.6999999999999998e-48	0.0	MSWQSYVDNLMADGSCQDAAIVGYTDAKYVWASSEGGTFSGITPDEIDVIVGKDREGFFTSGLTLGKKKCSVIRDSLQVEGDWTMDIRTKSHNGEPTYNVSIGRAGKVLVLVMGKEGVHGGGLNKKAYSMAKYLRDSGF
-2	9936166	9938570	Profilin_eukaryotes/bac_(SM00392)	177.1	+
-#	SSF55770	IPR005455	1	139	\N	1.8e-52	0.0	MSWQSYVDNLMADGSCQDAAIVGYTDAKYVWASSEGGTFSGITPDEIDVIVGKDREGFFTSGLTLGKKKCSVIRDSLQVEGDWTMDIRTKSHNGEPTYNVSIGRAGKVLVLVMGKEGVHGGGLNKKAYSMAKYLRDSGF
-2	9936166	9938570	Profilin_eukaryotes/bac_(SSF55770)	0.0	+
+2	9936169	9938555	Profilin_eukaryotes/bac	103.9	+	9936169	9938555	83,88,95	3	125,192,79	0,1109,2307	PF00235	http://pfam.sanger.ac.uk/family?acc=PF00235
+2	9936169	9936219	Profilin_chordates	787.0	+	9936169	9936219	83,88,95	1	50	0	PR01639	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01639&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01639
+2	9936256	9937286	Profilin_chordates	497.0	+	9936256	9937286	83,88,95	2	38,8	0,1022	PR01639	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01639&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01639
+2	9937302	9937346	Profilin_chordates	707.0	+	9937302	9937346	83,88,95	1	44	0	PR01639	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01639&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01639
+2	9937353	9937394	Profilin_chordates	574.0	+	9937353	9937394	83,88,95	1	41	0	PR01639	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01639&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01639
+2	9937401	9937430	Profilin_chordates	388.0	+	9937401	9937430	83,88,95	1	29	0	PR01639	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01639&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01639
+2	9938490	9938531	Profilin_chordates	710.0	+	9938490	9938531	83,88,95	1	41	0	PR01639	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01639&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01639
+2	9936172	9936201	Profilin_eukaryotes/bac	348.0	+	9936172	9936201	83,88,95	1	29	0	PR00392	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00392&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00392
+2	9937332	9937376	Profilin_eukaryotes/bac	231.0	+	9937332	9937376	83,88,95	1	44	0	PR00392	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00392&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00392
+2	9938475	9938516	Profilin_eukaryotes/bac	134.0	+	9938475	9938516	83,88,95	1	41	0	PR00392	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00392&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00392
+2	9938514	9938567	Profilin_eukaryotes/bac	230.0	+	9938514	9938567	83,88,95	1	53	0	PR00392	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00392&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00392
+2	9936166	9938570	Profilin_eukaryotes/bac	177.1	+	9936166	9938570	83,88,95	3	128,192,94	0,1112,2310	SM00392	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00392
+2	9936166	9938570	Profilin_eukaryotes/bac	0.0	+	9936166	9938570	83,88,95	3	128,192,94	0,1112,2310	SSF55770	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55770

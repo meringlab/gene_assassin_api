@@ -1,15 +1,6 @@
-browser position chr18:2109407-2174751
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000007921	ENSDART00000101694	ENSDARP00000092468	2109407	2174751	###
-#	PR01970	IPR022333	288	301	\N	6.2e-28	77.14	INGLASRSGVCCSR
-18	2118405	2118446	TNFR_19-like_(PR01970)	580.0	-
-#	PR01970	IPR022333	240	253	\N	6.2e-28	77.14	ALEELLQEYEDKQM
-18	2123662	2123703	TNFR_19-like_(PR01970)	546.0	-
-#	PR01970	IPR022333	146	161	\N	6.2e-28	55.0	GNTTSVQAPEEKTTEY
-18	2135391	2135438	TNFR_19-like_(PR01970)	460.0	-
-#	PR01970	IPR022333	86	107	\N	6.2e-28	50.0	RWISTKPTSTSDAVCGGCLPGF
-18	2137375	2140400	TNFR_19-like_(PR01970)	593.0	-
-#	PR01970	IPR022333	1	19	\N	6.2e-28	51.58	MKNHLYCSAPVCLILLELW
-18	2143082	2145258	TNFR_19-like_(PR01970)	488.0	-
-#	PF12606	IPR022248	161	207	\N	1.5e-22	0.0	YAVFALVPVFCVMGLLGILICNLLKKKGYRCSAEKDGMDAEAATPQK
-18	2135253	2135393	TNF_rcpt_RELT_(PF12606)	65.0	-
+18	2118405	2118446	TNFR_19-like	580.0	-	2118405	2118446	83,88,95	1	41	0	PR01970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01970
+18	2123662	2123703	TNFR_19-like	546.0	-	2123662	2123703	83,88,95	1	41	0	PR01970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01970
+18	2135391	2135438	TNFR_19-like	460.0	-	2135391	2135438	83,88,95	1	47	0	PR01970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01970
+18	2137375	2140400	TNFR_19-like	593.0	-	2137375	2140400	83,88,95	2	2964,3022	0,3	PR01970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01970
+18	2143082	2145258	TNFR_19-like	488.0	-	2143082	2145258	83,88,95	2	2135,2162	0,14	PR01970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01970
+18	2135253	2135393	TNF_rcpt_RELT	65.0	-	2135253	2135393	83,88,95	1	140	0	PF12606	http://pfam.sanger.ac.uk/family?acc=PF12606

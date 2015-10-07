@@ -1,17 +1,7 @@
-browser position chr22:10650596-10651862
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000008049	ENSDART00000013933	ENSDARP00000009826	10650596	10651862	###
-#	PR00310	IPR002087	6	30	\N	2.5e-56	44.0	STAANFVARLLRGTGLLSEEQLQQF
-22	10651430	10651504	Anti_prolifrtn_(PR00310)	547.0	-
-#	PR00310	IPR002087	31	60	\N	2.5e-56	63.33	RFSLEEALGDHYRHHWFPNAPFRGSGYRCI
-22	10651109	10651429	Anti_prolifrtn_(PR00310)	1202.0	-
-#	PR00310	IPR002087	61	90	\N	2.5e-56	68.57	RINHKMDPLIGKAACTIGLTKERLFSLLPS
-22	10651019	10651108	Anti_prolifrtn_(PR00310)	1038.0	-
-#	PR00310	IPR002087	91	120	\N	2.5e-56	87.14	ELTMWVDPYEVSYRIGEDGSICVLYESTPL
-22	10650929	10651018	Anti_prolifrtn_(PR00310)	1481.0	-
-#	PR00310	IPR002087	127	146	\N	2.5e-56	44.29	DSCKGELRKEQQSPSKSFSM
-22	10650851	10650910	Anti_prolifrtn_(PR00310)	429.0	-
-#	PF07742	IPR002087	1	116	\N	4.699999999999999e-47	0.0	MKTEVSTAANFVARLLRGTGLLSEEQLQQFRFSLEEALGDHYRHHWFPNAPFRGSGYRCIRINHKMDPLIGKAACTIGLTKERLFSLLPSELTMWVDPYEVSYRIGEDGSICVLYE
-22	10650941	10651519	Anti_prolifrtn_(PF07742)	144.9	-
-#	SM00099	IPR002087	1	108	\N	2.7999999999999996e-52	0.0	MKTEVSTAANFVARLLRGTGLLSEEQLQQFRFSLEEALGDHYRHHWFPNAPFRGSGYRCIRINHKMDPLIGKAACTIGLTKERLFSLLPSELTMWVDPYEVSYRIGED
-22	10650965	10651519	Anti_prolifrtn_(SM00099)	189.7	-
+22	10651430	10651504	Anti_prolifrtn	547.0	-	10651430	10651504	83,88,95	1	74	0	PR00310	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00310&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00310
+22	10651109	10651429	Anti_prolifrtn	1202.0	-	10651109	10651429	83,88,95	2	293,259	0,61	PR00310	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00310&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00310
+22	10651019	10651108	Anti_prolifrtn	1038.0	-	10651019	10651108	83,88,95	1	89	0	PR00310	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00310&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00310
+22	10650929	10651018	Anti_prolifrtn	1481.0	-	10650929	10651018	83,88,95	1	89	0	PR00310	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00310&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00310
+22	10650851	10650910	Anti_prolifrtn	429.0	-	10650851	10650910	83,88,95	1	59	0	PR00310	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00310&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00310
+22	10650941	10651519	Anti_prolifrtn	144.9	-	10650941	10651519	83,88,95	2	461,349	0,229	PF07742	http://pfam.sanger.ac.uk/family?acc=PF07742
+22	10650965	10651519	Anti_prolifrtn	189.7	-	10650965	10651519	83,88,95	2	437,349	0,205	SM00099	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00099

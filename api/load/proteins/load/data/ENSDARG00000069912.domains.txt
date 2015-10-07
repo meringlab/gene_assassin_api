@@ -1,25 +1,11 @@
-browser position chr4:11883794-11926611
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000069912	ENSDART00000150384	ENSDARP00000125420	11883794	11926505	###
-#	PF02178	IPR017956	76	87	\N	2e-07	0.0	KRPRGRPRKWAT
-4	11890990	11915358	AT_hook_DNA-bd_motif_(PF02178)	17.0	-
-#	SM00384	IPR017956	76	88	\N	0.14	0.0	KRPRGRPRKWATT
-4	11890987	11915358	AT_hook_DNA-bd_motif_(SM00384)	20.1	-
-#	SM00384	IPR017956	48	60	\N	3.1	0.0	KRPRGRPKGSKNK
-4	11923740	11923778	AT_hook_DNA-bd_motif_(SM00384)	12.5	-
-#	SM00384	IPR017956	28	40	\N	22.0	0.0	KRGPGRPRKPQQE
-4	11923800	11926078	AT_hook_DNA-bd_motif_(SM00384)	7.7	-
-#	PR00930	IPR000116	26	38	\N	2e-30	68.13	PKKRGPGRPRKPQ
-4	11926046	11926084	HMGI/HMGY_(PR00930)	462.0	-
-#	PR00930	IPR000116	39	50	\N	2e-30	75.0	QEPTGEPVPKRP
-4	11923770	11926045	HMGI/HMGY_(PR00930)	503.0	-
-#	PR00930	IPR000116	50	61	\N	2e-30	95.24	PRGRPKGSKNKG
-4	11923737	11923772	HMGI/HMGY_(PR00930)	635.0	-
-#	PR00930	IPR000116	65	84	\N	2e-30	75.0	AAQKKAETTGEKRPRGRPRK
-4	11915332	11923727	HMGI/HMGY_(PR00930)	781.0	-
-#	PR00929	IPR020478	28	38	\N	6.8e-14	65.15	KRGPGRPRKPQ
-4	11926046	11926078	AT_hook-like_(PR00929)	357.0	-
-#	PR00929	IPR020478	46	57	\N	6.8e-14	62.85	VPKRPRGRPKGS
-4	11923749	11923784	AT_hook-like_(PR00929)	379.0	-
-#	PR00929	IPR020478	74	84	\N	6.8e-14	67.8	GEKRPRGRPRK
-4	11915332	11915364	AT_hook-like_(PR00929)	393.0	-
+4	11890990	11915358	AT_hook_DNA-bd_motif	17.0	-	11890990	11915358	83,88,95	2	24339,24363	0,5	PF02178	http://pfam.sanger.ac.uk/family?acc=PF02178
+4	11890987	11915358	AT_hook_DNA-bd_motif	20.1	-	11890987	11915358	83,88,95	2	24342,24363	0,8	SM00384	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00384
+4	11923740	11923778	AT_hook_DNA-bd_motif	12.5	-	11923740	11923778	83,88,95	1	38	0	SM00384	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00384
+4	11923800	11926078	AT_hook_DNA-bd_motif	7.7	-	11923800	11926078	83,88,95	2	2243,2276	0,2	SM00384	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00384
+4	11926046	11926084	HMGI/HMGY	462.0	-	11926046	11926084	83,88,95	1	38	0	PR00930	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00930&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00930
+4	11923770	11926045	HMGI/HMGY	503.0	-	11923770	11926045	83,88,95	2	2273,2243	0,32	PR00930	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00930&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00930
+4	11923737	11923772	HMGI/HMGY	635.0	-	11923737	11923772	83,88,95	1	35	0	PR00930	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00930&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00930
+4	11915332	11923727	HMGI/HMGY	781.0	-	11915332	11923727	83,88,95	2	8384,8348	0,47	PR00930	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00930&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00930
+4	11926046	11926078	AT_hook-like	357.0	-	11926046	11926078	83,88,95	1	32	0	PR00929	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00929&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00929
+4	11923749	11923784	AT_hook-like	379.0	-	11923749	11923784	83,88,95	1	35	0	PR00929	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00929&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00929
+4	11915332	11915364	AT_hook-like	393.0	-	11915332	11915364	83,88,95	1	32	0	PR00929	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00929&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00929

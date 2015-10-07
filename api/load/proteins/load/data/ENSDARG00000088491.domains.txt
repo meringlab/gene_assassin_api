@@ -1,23 +1,10 @@
-browser position chr19:133804-136987
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000088491	ENSDART00000128259	ENSDARP00000107307	133804	136987	###
-#	SM00201	IPR001212	45	88	\N	4.2000000000000004e-06	0.0	VSSSCRNRCFEPVGVYSASCRCDHQCVETQSCCFDYRDVCLLPS
-19	135693	136076	Somatomedin_B_dom_(SM00201)	36.3	+
-#	SM00201	IPR001212	89	132	\N	8.5e-11	0.0	ELWECTSLRCGEKRLSVSRCHCSEDCMSRGDCCTNYHSVCKGDT
-19	136077	136417	Somatomedin_B_dom_(SM00201)	51.9	+
-#	PF01033	IPR001212	47	85	\N	9.5e-14	0.0	SSCRNRCFEPVGVYSASCRCDHQCVETQSCCFDYRDVCL
-19	135699	135815	Somatomedin_B_dom_(PF01033)	37.7	+
-#	PF01033	IPR001212	91	132	\N	3.2e-15	0.0	WECTSLRCGEKRLSVSRCHCSEDCMSRGDCCTNYHSVCKGDT
-19	136083	136417	Somatomedin_B_dom_(PF01033)	42.4	+
-#	PR00022	IPR020436	44	57	\N	4.7e-05	38.66	DVSSSCRNRCFEPV
-19	135690	135731	Somatomedin_B_chordata_(PR00022)	299.0	+
-#	PR00022	IPR020436	62	73	\N	4.7e-05	38.24	ASCRCDHQCVET
-19	135744	135779	Somatomedin_B_chordata_(PR00022)	291.0	+
-#	PR00022	IPR020436	74	85	\N	4.7e-05	50.98	QSCCFDYRDVCL
-19	135780	135815	Somatomedin_B_chordata_(PR00022)	403.0	+
-#	PS50958	IPR001212	89	133	\N	0.0	0.0	ELWECTSLRCGEKRLSVSRCHCSEDCMSRGDCCTNYHSVCKGDTE
-19	136077	136420	Somatomedin_B_dom_(PS50958)	8.079	+
-#	PS50958	IPR001212	45	88	\N	0.0	0.0	VSSSCRNRCFEPVGVYSASCRCDHQCVETQSCCFDYRDVCLLPS
-19	135693	136076	Somatomedin_B_dom_(PS50958)	8.289	+
-#	SSF53649	IPR017850	139	199	\N	3.5e-07	0.0	CVDLSTPKCPASFKRQPLLLVSLDGLRAEYLQTWGLLVPVLDKISQSHTHMHTNSHEQAVT
-19	136436	136978	Alkaline_phosphatase_core_(SSF53649)	0.0	+
+19	135693	136076	Somatomedin_B_dom	36.3	+	135693	136076	83,88,95	2	129,1	0,382	SM00201	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00201
+19	136077	136417	Somatomedin_B_dom	51.9	+	136077	136417	83,88,95	2	123,7	0,333	SM00201	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00201
+19	135699	135815	Somatomedin_B_dom	37.7	+	135699	135815	83,88,95	1	116	0	PF01033	http://pfam.sanger.ac.uk/family?acc=PF01033
+19	136083	136417	Somatomedin_B_dom	42.4	+	136083	136417	83,88,95	2	117,7	0,327	PF01033	http://pfam.sanger.ac.uk/family?acc=PF01033
+19	135690	135731	Somatomedin_B_chordata	299.0	+	135690	135731	83,88,95	1	41	0	PR00022	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00022&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00022
+19	135744	135779	Somatomedin_B_chordata	291.0	+	135744	135779	83,88,95	1	35	0	PR00022	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00022&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00022
+19	135780	135815	Somatomedin_B_chordata	403.0	+	135780	135815	83,88,95	1	35	0	PR00022	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00022&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00022
+19	136077	136420	Somatomedin_B_dom	8.079	+	136077	136420	83,88,95	2	123,10	0,333	PS50958	http://www.expasy.ch/prosite/PS50958
+19	135693	136076	Somatomedin_B_dom	8.289	+	135693	136076	83,88,95	2	129,1	0,382	PS50958	http://www.expasy.ch/prosite/PS50958
+19	136436	136978	Alkaline_phosphatase_core	0.0	+	136436	136978	83,88,95	2	34,147	0,395	SSF53649	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF53649

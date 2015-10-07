@@ -1,37 +1,17 @@
-browser position chr12:32369976-32379565
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000045067	ENSDART00000122715	ENSDARP00000111823	32370404	32379565	###
-#	PF07885	IPR013099	93	157	\N	4.7999999999999993e-23	0.0	LNNASSNWNWDFTSALFFASTVLSTTGYGHTVPLSDGGKAFCIIYSVVGIPFTLLFLTAVVQRIM
-12	32370680	32373030	2pore_dom_K_chnl_dom_(PF07885)	67.2	+
-#	PF07885	IPR013099	192	269	\N	2.7e-21	0.0	VSCFFLIPAIIFSVLEEEWNFLESFYFCFISLSTIGLGDYVPGEGYHQRFRELYKLGITFYLILGLIAMLVVLETFCE
-12	32373133	32375906	2pore_dom_K_chnl_dom_(PF07885)	61.6	+
-#	PR01333	IPR003280	113	141	\N	3.6000000000000003e-16	47.85	TVLSTTGYGHTVPLSDGGKAFCIIYSVVG
-12	32370740	32372982	2pore_dom_K_chnl_(PR01333)	800.0	+
-#	PR01586	IPR005408	265	283	\N	4.1999999999999995e-44	57.89	ETFCELQQLKKLRKMFYLR
-12	32375892	32375948	2pore_dom_K_chnl_TWIK_(PR01586)	600.0	+
-#	PR01586	IPR005408	250	263	\N	4.1999999999999995e-44	77.38	TFYLILGLIAMLVV
-12	32373307	32375888	2pore_dom_K_chnl_TWIK_(PR01586)	514.0	+
-#	PR01333	IPR003280	224	233	\N	3.6000000000000003e-16	71.88	STIGLGDYVP
-12	32373229	32373258	2pore_dom_K_chnl_(PR01333)	388.0	+
-#	PR01586	IPR005408	233	246	\N	4.1999999999999995e-44	76.19	PGEGYHQRFRELYK
-12	32373256	32373297	2pore_dom_K_chnl_TWIK_(PR01586)	603.0	+
-#	PR01586	IPR005408	69	81	\N	4.1999999999999995e-44	43.59	CLSNDRLEEFLIK
-12	32370608	32370646	2pore_dom_K_chnl_TWIK_(PR01586)	303.0	+
-#	PR01586	IPR005408	83	99	\N	4.1999999999999995e-44	74.51	LEASNYGVSVLNNASSN
-12	32370650	32370700	2pore_dom_K_chnl_TWIK_(PR01586)	578.0	+
-#	PR01586	IPR005408	143	155	\N	4.1999999999999995e-44	85.9	PFTLLFLTAVVQR
-12	32372986	32373024	2pore_dom_K_chnl_TWIK_(PR01586)	540.0	+
-#	PR01096	IPR001779	295	310	\N	2.7999999999999994e-46	59.38	DHDHLSFASVSDQAAS
-12	32375982	32376029	2pore_dom_K_chnl_TWIK1_(PR01096)	545.0	+
-#	PR01096	IPR001779	233	253	\N	2.7999999999999994e-46	80.95	PGEGYHQRFRELYKLGITFYL
-12	32373256	32375858	2pore_dom_K_chnl_TWIK1_(PR01096)	970.0	+
-#	PR01096	IPR001779	150	177	\N	2.7999999999999994e-46	57.14	TAVVQRIMEFSTRRPIEFLHRRWGTSKP
-12	32373007	32373090	2pore_dom_K_chnl_TWIK1_(PR01096)	810.0	+
-#	PR01096	IPR001779	73	89	\N	2.7999999999999994e-46	64.71	DRLEEFLIKALEASNYG
-12	32370620	32370670	2pore_dom_K_chnl_TWIK1_(PR01096)	555.0	+
-#	PR01096	IPR001779	1	19	\N	2.7999999999999994e-46	50.0	MLQCLSGSSCMRVIDGYKS
-12	32370404	32370460	2pore_dom_K_chnl_TWIK1_(PR01096)	590.0	+
-#	PR01096	IPR001779	52	72	\N	2.7999999999999994e-46	66.67	LRQELRTVKQQFLEDNECLSN
-12	32370557	32370619	2pore_dom_K_chnl_TWIK1_(PR01096)	750.0	+
-#	PIRSF038061	IPR003092	1	334	\N	2.899999999999999e-144	0.0	MLQCLSGSSCMRVIDGYKSTWYFLVLVLAYVLYLIFGALVFSAVELPYEEQLRQELRTVKQQFLEDNECLSNDRLEEFLIKALEASNYGVSVLNNASSNWNWDFTSALFFASTVLSTTGYGHTVPLSDGGKAFCIIYSVVGIPFTLLFLTAVVQRIMEFSTRRPIEFLHRRWGTSKPLLAAMHATLLAIITVSCFFLIPAIIFSVLEEEWNFLESFYFCFISLSTIGLGDYVPGEGYHQRFRELYKLGITFYLILGLIAMLVVLETFCELQQLKKLRKMFYLRKQKTEDQLNIVDHDHLSFASVSDQAASFREDKTELFPDDIVSGSPTATSNG
-12	32370404	32376101	2pore_dom_K_chnl_TASK_(PIRSF038061)	488.3	+
+12	32370680	32373030	2pore_dom_K_chnl_dom	67.2	+	32370680	32373030	83,88,95	2	78,115	0,2235	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
+12	32373133	32375906	2pore_dom_K_chnl_dom	61.6	+	32373133	32375906	83,88,95	2	177,55	0,2718	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
+12	32370740	32372982	2pore_dom_K_chnl	800.0	+	32370740	32372982	83,88,95	2	18,67	0,2175	PR01333	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01333&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01333
+12	32375892	32375948	2pore_dom_K_chnl_TWIK	600.0	+	32375892	32375948	83,88,95	1	56	0	PR01586	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01586&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01586
+12	32373307	32375888	2pore_dom_K_chnl_TWIK	514.0	+	32373307	32375888	83,88,95	2	3,37	0,2544	PR01586	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01586&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01586
+12	32373229	32373258	2pore_dom_K_chnl	388.0	+	32373229	32373258	83,88,95	1	29	0	PR01333	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01333&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01333
+12	32373256	32373297	2pore_dom_K_chnl_TWIK	603.0	+	32373256	32373297	83,88,95	1	41	0	PR01586	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01586&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01586
+12	32370608	32370646	2pore_dom_K_chnl_TWIK	303.0	+	32370608	32370646	83,88,95	1	38	0	PR01586	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01586&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01586
+12	32370650	32370700	2pore_dom_K_chnl_TWIK	578.0	+	32370650	32370700	83,88,95	1	50	0	PR01586	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01586&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01586
+12	32372986	32373024	2pore_dom_K_chnl_TWIK	540.0	+	32372986	32373024	83,88,95	1	38	0	PR01586	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01586&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01586
+12	32375982	32376029	2pore_dom_K_chnl_TWIK1	545.0	+	32375982	32376029	83,88,95	1	47	0	PR01096	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01096&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01096
+12	32373256	32375858	2pore_dom_K_chnl_TWIK1	970.0	+	32373256	32375858	83,88,95	2	54,7	0,2595	PR01096	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01096&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01096
+12	32373007	32373090	2pore_dom_K_chnl_TWIK1	810.0	+	32373007	32373090	83,88,95	1	83	0	PR01096	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01096&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01096
+12	32370620	32370670	2pore_dom_K_chnl_TWIK1	555.0	+	32370620	32370670	83,88,95	1	50	0	PR01096	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01096&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01096
+12	32370404	32370460	2pore_dom_K_chnl_TWIK1	590.0	+	32370404	32370460	83,88,95	1	56	0	PR01096	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01096&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01096
+12	32370557	32370619	2pore_dom_K_chnl_TWIK1	750.0	+	32370557	32370619	83,88,95	1	62	0	PR01096	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01096&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01096
+12	32370404	32376101	2pore_dom_K_chnl_TASK	488.3	+	32370404	32376101	83,88,95	3	354,395,250	0,2511,5447	PIRSF038061	None

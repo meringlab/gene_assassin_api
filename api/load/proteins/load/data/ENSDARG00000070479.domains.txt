@@ -1,11 +1,4 @@
-browser position chr19:31633394-31644600
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000070479	ENSDART00000145396	ENSDARP00000120882	31633397	31644576	###
-#	PR00259	IPR000301	69	97	\N	4.9e-09	22.89	KHHQVLLFFYMIILFLVFVVQFAVSSACL
-19	31637346	31639368	Tetraspanin_(PR00259)	284.0	+
-#	PR00259	IPR000301	42	68	\N	4.9e-09	26.08	SFQVVGGIIGIGVFLFFVALAGLIGAM
-19	31637265	31637345	Tetraspanin_(PR00259)	258.0	+
-#	PR00259	IPR000301	11	34	\N	4.9e-09	18.53	NSLCALNILYVMVSLLMIGIAAWG
-19	31633614	31637243	Tetraspanin_(PR00259)	226.0	+
-#	PF00335	IPR018499	8	187	\N	2.6e-25	0.0	CSKNSLCALNILYVMVSLLMIGIAAWGKCFGLVSSFQVVGGIIGIGVFLFFVALAGLIGAMKHHQVLLFFYMIILFLVFVVQFAVSSACLAINEKQQNHLLEVGWNNSLTTQRDVEKSLNCCGFSHMDVNGSCAAPCFHYSTCTTCAAKIQEHAGEVLRFVGGIGLFFSFTELLFCLFQI
-19	31633605	31643727	Tetraspanin/Peripherin_(PF00335)	75.3	+
+19	31637346	31639368	Tetraspanin	284.0	+	31637346	31639368	83,88,95	2	26,59	0,1963	PR00259	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00259&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00259
+19	31637265	31637345	Tetraspanin	258.0	+	31637265	31637345	83,88,95	1	80	0	PR00259	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00259&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00259
+19	31633614	31637243	Tetraspanin	226.0	+	31633614	31637243	83,88,95	2	32,38	0,3591	PR00259	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00259&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00259
+19	31633605	31643727	Tetraspanin/Peripherin	75.3	+	31633605	31643727	83,88,95	6	41,167,80,113,110,23	0,3600,5704,8123,8481,10099	PF00335	http://pfam.sanger.ac.uk/family?acc=PF00335

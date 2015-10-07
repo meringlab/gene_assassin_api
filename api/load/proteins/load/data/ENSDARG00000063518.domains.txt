@@ -1,31 +1,14 @@
-browser position chr2:93928-97276
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000063518	ENSDART00000092924	ENSDARP00000087356	93928	97276	###
-#	PF00560	IPR001611	171	192	\N	9.7e-07	0.0	RLQELDLSFNQISSLSTELFQN
-2	95556	95621	Leu-rich_rpt_(PF00560)	15.2	+
-#	PF00560	IPR001611	266	287	\N	6.3e-07	0.0	ITYLDLSQNSLTEVPADLFQNL
-2	95841	95906	Leu-rich_rpt_(PF00560)	15.8	+
-#	PF00560	IPR001611	289	311	\N	2.8999999999999998e-06	0.0	SLETLDLSENRISTLAGSVFKGL
-2	95910	95978	Leu-rich_rpt_(PF00560)	13.8	+
-#	PF00560	IPR001611	338	359	\N	6.9e-07	0.0	LQLLDLSNNSLRSIPSGFFEDL
-2	96057	96122	Leu-rich_rpt_(PF00560)	15.7	+
-#	SM00369	IPR003591	263	286	\N	0.49	0.0	LHYITYLDLSQNSLTEVPADLFQN
-2	95832	95903	Leu-rich_rpt_typical-subtyp_(SM00369)	19.5	+
-#	SM00369	IPR003591	241	262	\N	380.0	0.0	SLKTLILKKNLLEKLTNAVFHT
-2	95766	95831	Leu-rich_rpt_typical-subtyp_(SM00369)	0.3	+
-#	SM00369	IPR003591	121	144	\N	0.021	0.0	LTNLTRLLLNNNKLSGVDAGLFHS
-2	95406	95477	Leu-rich_rpt_typical-subtyp_(SM00369)	24.0	+
-#	SM00369	IPR003591	217	240	\N	0.07400000000000001	0.0	LDHLQELNLRSNLIRVLTPGSFPA
-2	95694	95765	Leu-rich_rpt_typical-subtyp_(SM00369)	22.2	+
-#	SM00082	IPR000483	370	422	\N	7.4e-07	0.0	NPWSCDCGIHYFYDWLKYNHKHVKDLSRVSCEAPELIQGHNLRSVDREQLVCS
-2	96153	96311	Cys-rich_flank_reg_C_(SM00082)	38.8	+
-#	SM00369	IPR003591	336	358	\N	1.9	0.0	HDLQLLDLSNNSLRSIPSGFFED
-2	96051	96119	Leu-rich_rpt_typical-subtyp_(SM00369)	17.5	+
-#	SM00369	IPR003591	194	216	\N	3.2	0.0	SELRVLSLQANKIPNLPDGIFTH
-2	95625	95693	Leu-rich_rpt_typical-subtyp_(SM00369)	16.7	+
-#	SM00369	IPR003591	287	310	\N	0.0015	0.0	LISLETLDLSENRISTLAGSVFKG
-2	95904	95975	Leu-rich_rpt_typical-subtyp_(SM00369)	27.8	+
-#	SM00369	IPR003591	169	192	\N	0.00011	0.0	LHRLQELDLSFNQISSLSTELFQN
-2	95550	95621	Leu-rich_rpt_typical-subtyp_(SM00369)	31.6	+
-#	SM00369	IPR003591	145	168	\N	1.4	0.0	LHQLEMLQLRGNGLSFLSGRLFQR
-2	95478	95549	Leu-rich_rpt_typical-subtyp_(SM00369)	17.9	+
+2	95556	95621	Leu-rich_rpt	15.2	+	95556	95621	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+2	95841	95906	Leu-rich_rpt	15.8	+	95841	95906	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+2	95910	95978	Leu-rich_rpt	13.8	+	95910	95978	83,88,95	1	68	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+2	96057	96122	Leu-rich_rpt	15.7	+	96057	96122	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+2	95832	95903	Leu-rich_rpt_typical-subtyp	19.5	+	95832	95903	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+2	95766	95831	Leu-rich_rpt_typical-subtyp	0.3	+	95766	95831	83,88,95	1	65	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+2	95406	95477	Leu-rich_rpt_typical-subtyp	24.0	+	95406	95477	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+2	95694	95765	Leu-rich_rpt_typical-subtyp	22.2	+	95694	95765	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+2	96153	96311	Cys-rich_flank_reg_C	38.8	+	96153	96311	83,88,95	1	158	0	SM00082	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00082
+2	96051	96119	Leu-rich_rpt_typical-subtyp	17.5	+	96051	96119	83,88,95	1	68	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+2	95625	95693	Leu-rich_rpt_typical-subtyp	16.7	+	95625	95693	83,88,95	1	68	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+2	95904	95975	Leu-rich_rpt_typical-subtyp	27.8	+	95904	95975	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+2	95550	95621	Leu-rich_rpt_typical-subtyp	31.6	+	95550	95621	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+2	95478	95549	Leu-rich_rpt_typical-subtyp	17.9	+	95478	95549	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369

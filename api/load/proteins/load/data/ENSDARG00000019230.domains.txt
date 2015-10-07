@@ -1,27 +1,12 @@
-browser position chr5:34902042-34905589
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000019230	ENSDART00000004238	ENSDARP00000010055	34902042	34905589	###
-#	PR00882	IPR001921	36	53	\N	1.4999999999999997e-79	83.33	PKNFGIGQDIQPKRDLTR
-5	34904376	34904613	Ribosomal_L7A/L8_(PR00882)	823.0	-
-#	PR00882	IPR001921	53	70	\N	1.4999999999999997e-79	79.8	RFVKWPRYVRLQRQRAIL
-5	34904325	34904378	Ribosomal_L7A/L8_(PR00882)	828.0	-
-#	PR00882	IPR001921	73	92	\N	1.4999999999999997e-79	80.91	RLKVPPAINQFTQALDRQTA
-5	34903259	34904318	Ribosomal_L7A/L8_(PR00882)	820.0	-
-#	PR00882	IPR001921	97	110	\N	1.4999999999999997e-79	72.73	KLAHKYRPETKHEK
-5	34903205	34903246	Ribosomal_L7A/L8_(PR00882)	512.0	-
-#	PR00882	IPR001921	132	152	\N	1.4999999999999997e-79	64.07	RPPVLRAGVNTVTTLVESKKA
-5	34902973	34903141	Ribosomal_L7A/L8_(PR00882)	674.0	-
-#	PR00882	IPR001921	193	217	\N	1.4999999999999997e-79	60.36	LVHRKTCTSIAFTQTNPEDKAALAK
-5	34902349	34902623	Ribosomal_L7A/L8_(PR00882)	767.0	-
-#	PR00882	IPR001921	225	245	\N	1.4999999999999997e-79	71.0	NYNDRYEEIRRHWGGNVLGPK
-5	34902141	34902327	Ribosomal_L7A/L8_(PR00882)	971.0	-
-#	PR00881	IPR018492	136	150	\N	4.700000000000001e-24	46.67	LRAGVNTVTTLVESK
-5	34902979	34903129	Ribosomal_L7Ae/L8/Nhp2_(PR00881)	335.0	-
-#	PR00881	IPR018492	155	168	\N	4.700000000000001e-24	71.43	VVIAHDVDPIELVV
-5	34902696	34902966	Ribosomal_L7Ae/L8/Nhp2_(PR00881)	511.0	-
-#	PR00881	IPR018492	171	181	\N	4.700000000000001e-24	73.14	PALCRKMGVPY
-5	34902657	34902689	Ribosomal_L7Ae/L8/Nhp2_(PR00881)	470.0	-
-#	PR00881	IPR018492	181	195	\N	4.700000000000001e-24	60.0	YCIVKGKARLGRLVH
-5	34902615	34902659	Ribosomal_L7Ae/L8/Nhp2_(PR00881)	441.0	-
-#	PF01248	IPR004038	131	214	\N	7.5e-28	0.0	KRPPVLRAGVNTVTTLVESKKAQLVVIAHDVDPIELVVFLPALCRKMGVPYCIVKGKARLGRLVHRKTCTSIAFTQTNPEDKAA
-5	34902358	34903144	Ribosomal_L7Ae/L30e/S12e/Gad45_(PF01248)	82.5	-
+5	34904376	34904613	Ribosomal_L7A/L8	823.0	-	34904376	34904613	83,88,95	2	219,203	0,34	PR00882	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00882&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00882
+5	34904325	34904378	Ribosomal_L7A/L8	828.0	-	34904325	34904378	83,88,95	1	53	0	PR00882	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00882&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00882
+5	34903259	34904318	Ribosomal_L7A/L8	820.0	-	34903259	34904318	83,88,95	2	1002,1058	0,1	PR00882	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00882&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00882
+5	34903205	34903246	Ribosomal_L7A/L8	512.0	-	34903205	34903246	83,88,95	1	41	0	PR00882	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00882&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00882
+5	34902973	34903141	Ribosomal_L7A/L8	674.0	-	34902973	34903141	83,88,95	2	147,128	0,40	PR00882	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00882&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00882
+5	34902349	34902623	Ribosomal_L7A/L8	767.0	-	34902349	34902623	83,88,95	2	225,250	0,24	PR00882	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00882&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00882
+5	34902141	34902327	Ribosomal_L7A/L8	971.0	-	34902141	34902327	83,88,95	2	163,148	0,38	PR00882	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00882&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00882
+5	34902979	34903129	Ribosomal_L7Ae/L8/Nhp2	335.0	-	34902979	34903129	83,88,95	2	141,116	0,34	PR00881	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00881&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00881
+5	34902696	34902966	Ribosomal_L7Ae/L8/Nhp2	511.0	-	34902696	34902966	83,88,95	2	238,262	0,8	PR00881	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00881&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00881
+5	34902657	34902689	Ribosomal_L7Ae/L8/Nhp2	470.0	-	34902657	34902689	83,88,95	1	32	0	PR00881	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00881&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00881
+5	34902615	34902659	Ribosomal_L7Ae/L8/Nhp2	441.0	-	34902615	34902659	83,88,95	1	44	0	PR00881	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00881&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00881
+5	34902358	34903144	Ribosomal_L7Ae/L30e/S12e/Gad45	82.5	-	34902358	34903144	83,88,95	4	762,-79,-130,771	0,655,346,15	PF01248	http://pfam.sanger.ac.uk/family?acc=PF01248

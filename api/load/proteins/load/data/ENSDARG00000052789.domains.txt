@@ -1,31 +1,14 @@
-browser position chr16:56309499-56340115
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000052789	ENSDART00000074706	ENSDARP00000069192	56312365	56336960	###
-#	PF02784	IPR022644	49	281	\N	1.6e-56	0.0	VIVQQQARWRNKMDQIRPFYTVKSNSSPVVVELLASLGTGFICSNKHELDLVKGFGVSSQDIILGGTCKQLSHIKYAAKHNIPLLVCDNEAEMRKIARCHPKAKVLLLLTSESCCEKEEMAIPFGSTLKDCRRLLECAAGELNLQVTGVKFNIPSCCQEVEKFSRAVSEARCVFDMGEELGFEMNILDIGGGFDGSEEQLDKVNQMLKPMLDMYFPRSTGLSIIAEPGAYYVS
-16	56319527	56328517	De-COase2_N_(PF02784)	178.5	-
-#	PF00278	IPR022643	285	391	\N	3e-18	0.0	TLAVNIIDKKTVARDCSAQPHDALSANDEPEFLYHINDGVYGSFASKLLCEDSIATPLAHKHVSADEPLFSSSLWGPSEDDLDLVMERCLLPELSVGDWLLFRNAGA
-16	56316902	56319517	De-COase2_C_(PF00278)	53.1	-
-#	PR01182	IPR002433	40	64	\N	1.7e-42	30.93	SAFFAADLGVIVQQQARWRNKMDQI
-16	56328470	56328544	Orn_de-COase_(PR01182)	443.0	-
-#	PR01182	IPR002433	66	93	\N	1.7e-42	49.17	PFYTVKSNSSPVVVELLASLGTGFICSN
-16	56328383	56328466	Orn_de-COase_(PR01182)	763.0	-
-#	PR01182	IPR002433	110	134	\N	1.7e-42	35.87	IILGGTCKQLSHIKYAAKHNIPLLV
-16	56328125	56328199	Orn_de-COase_(PR01182)	434.0	-
-#	PR01182	IPR002433	140	162	\N	1.7e-42	36.38	EMRKIARCHPKAKVLLLLTSESC
-16	56325461	56328109	Orn_de-COase_(PR01182)	430.0	-
-#	PR01182	IPR002433	322	335	\N	1.7e-42	51.19	DGVYGSFASKLLCE
-16	56317161	56317202	Orn_de-COase_(PR01182)	317.0	-
-#	PR01182	IPR002433	357	367	\N	1.7e-42	56.36	SLWGPSEDDLD
-16	56316974	56317006	Orn_de-COase_(PR01182)	363.0	-
-#	PR01182	IPR002433	377	390	\N	1.7e-42	57.86	ELSVGDWLLFRNAG
-16	56316905	56316946	Orn_de-COase_(PR01182)	472.0	-
-#	PR01179	IPR000183	68	86	\N	4.6e-17	41.2	YTVKSNSSPVVVELLASLG
-16	56328404	56328460	Orn/DAP/Arg_de-COase_(PR01179)	372.0	-
-#	PR01179	IPR000183	88	100	\N	4.6e-17	35.7	GFICSNKHELDLV
-16	56328227	56328400	Orn/DAP/Arg_de-COase_(PR01179)	203.0	-
-#	PR01179	IPR000183	191	204	\N	4.6e-17	33.93	NLQVTGVKFNIPSC
-16	56322975	56325376	Orn/DAP/Arg_de-COase_(PR01179)	178.0	-
-#	PR01179	IPR000183	271	290	\N	4.6e-17	45.86	IIAEPGAYYVSSAFTLAVNI
-16	56319500	56319559	Orn/DAP/Arg_de-COase_(PR01179)	429.0	-
-#	SSF50621	IPR009006	244	428	\N	1.8000000000000001e-22	0.0	SEEQLDKVNQMLKPMLDMYFPRSTGLSIIAEPGAYYVSSAFTLAVNIIDKKTVARDCSAQPHDALSANDEPEFLYHINDGVYGSFASKLLCEDSIATPLAHKHVSADEPLFSSSLWGPSEDDLDLVMERCLLPELSVGDWLLFRNAGASALGSAFSHGDQHKPPVFYSITEYDWQEIHNSGVTVD
-16	56312446	56322711	Ala_racemase/Decarboxylase_C_(SSF50621)	0.0	-
+16	56319527	56328517	De-COase2_N	178.5	-	56319527	56328517	83,88,95	6	8853,-172,-137,-81,-74,8898	0,8717,5964,3466,3238,92	PF02784	http://pfam.sanger.ac.uk/family?acc=PF02784
+16	56316902	56319517	De-COase2_C	53.1	-	56316902	56319517	83,88,95	3	2552,-118,2478	0,347,137	PF00278	http://pfam.sanger.ac.uk/family?acc=PF00278
+16	56328470	56328544	Orn_de-COase	443.0	-	56328470	56328544	83,88,95	1	74	0	PR01182	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01182&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01182
+16	56328383	56328466	Orn_de-COase	763.0	-	56328383	56328466	83,88,95	1	83	0	PR01182	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01182&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01182
+16	56328125	56328199	Orn_de-COase	434.0	-	56328125	56328199	83,88,95	1	74	0	PR01182	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01182&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01182
+16	56325461	56328109	Orn_de-COase	430.0	-	56325461	56328109	83,88,95	2	2611,2618	0,30	PR01182	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01182&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01182
+16	56317161	56317202	Orn_de-COase	317.0	-	56317161	56317202	83,88,95	1	41	0	PR01182	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01182&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01182
+16	56316974	56317006	Orn_de-COase	363.0	-	56316974	56317006	83,88,95	1	32	0	PR01182	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01182&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01182
+16	56316905	56316946	Orn_de-COase	472.0	-	56316905	56316946	83,88,95	1	41	0	PR01182	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01182&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01182
+16	56328404	56328460	Orn/DAP/Arg_de-COase	372.0	-	56328404	56328460	83,88,95	1	56	0	PR01179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01179
+16	56328227	56328400	Orn/DAP/Arg_de-COase	203.0	-	56328227	56328400	83,88,95	2	153,156	0,17	PR01179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01179
+16	56322975	56325376	Orn/DAP/Arg_de-COase	178.0	-	56322975	56325376	83,88,95	2	2379,2383	0,18	PR01179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01179
+16	56319500	56319559	Orn/DAP/Arg_de-COase	429.0	-	56319500	56319559	83,88,95	1	59	0	PR01179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01179
+16	56312446	56322711	Ala_racemase/Decarboxylase_C	0.0	-	56312446	56322711	83,88,95	5	10245,-165,-118,-214,10232	0,7173,4803,4593,33	SSF50621	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50621

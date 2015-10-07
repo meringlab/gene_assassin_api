@@ -1,55 +1,26 @@
-browser position chr2:30593696-30601399
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000006894	ENSDART00000009326	ENSDARP00000022783	30593696	30601399	###
-#	PF10328	IPR019430	65	243	\N	9.300000000000001e-10	0.0	VFVVGLVGNCLVMYVIIRYTKMKTATNIYIFNLAVADALVTTTMPFQSTDYLLNSWPFGEVVCKVFISIDYYNMFTSIFTLTMMSVDRYVAVCHPVKALDFRTPMKAKIINILIWVLSSAAGIPAMVLGSTQTNNGTTECALQFPDPYVYWDTLMKICVFIFGFVAPLLIITVCYTLMV
-2	30594214	30600775	7TM_GPCR_serpentine_rcpt_Srx_(PF10328)	25.9	+
-#	PF10320	IPR019424	66	336	\N	2.3e-14	0.0	FVVGLVGNCLVMYVIIRYTKMKTATNIYIFNLAVADALVTTTMPFQSTDYLLNSWPFGEVVCKVFISIDYYNMFTSIFTLTMMSVDRYVAVCHPVKALDFRTPMKAKIINILIWVLSSAAGIPAMVLGSTQTNNGTTECALQFPDPYVYWDTLMKICVFIFGFVAPLLIITVCYTLMVLRLKSVRLLSGSREKDRNLRRITRLVLVVVAVFVVCWTPIHIFILVKALSHGVPETTSVMAAYFFCVALGYTNSSLNPILYAFLDENFKRCFR
-2	30594217	30601054	7TM_GPCR_olfarory/Srsx_(PF10320)	41.1	+
-#	PF00001	IPR000276	72	324	\N	1.2999999999999998e-69	0.0	GNCLVMYVIIRYTKMKTATNIYIFNLAVADALVTTTMPFQSTDYLLNSWPFGEVVCKVFISIDYYNMFTSIFTLTMMSVDRYVAVCHPVKALDFRTPMKAKIINILIWVLSSAAGIPAMVLGSTQTNNGTTECALQFPDPYVYWDTLMKICVFIFGFVAPLLIITVCYTLMVLRLKSVRLLSGSREKDRNLRRITRLVLVVVAVFVVCWTPIHIFILVKALSHGVPETTSVMAAYFFCVALGYTNSSLNPILY
-2	30594235	30601018	GPCR_Rhodpsn_(PF00001)	222.0	+
-#	PR00384	IPR001418	82	95	\N	1e-36	97.22	RYTKMKTATNIYIF
-2	30594265	30597690	Opioid_rcpt_(PR00384)	712.0	+
-#	PR00384	IPR001418	134	146	\N	1e-36	95.73	DYYNMFTSIFTLT
-2	30597805	30597843	Opioid_rcpt_(PR00384)	669.0	+
-#	PR00237	IPR000276	57	81	\N	1.4999999999999997e-57	32.79	IITAVYSVVFVVGLVGNCLVMYVII
-2	30594190	30594264	GPCR_Rhodpsn_(PR00237)	385.0	+
-#	PR00237	IPR000276	90	111	\N	1.4999999999999997e-57	38.65	TNIYIFNLAVADALVTTTMPFQ
-2	30597673	30597738	GPCR_Rhodpsn_(PR00237)	357.0	+
-#	PR00237	IPR000276	134	156	\N	1.4999999999999997e-57	36.5	DYYNMFTSIFTLTMMSVDRYVAV
-2	30597805	30597873	GPCR_Rhodpsn_(PR00237)	410.0	+
-#	PR00237	IPR000276	170	191	\N	1.4999999999999997e-57	24.86	KAKIINILIWVLSSAAGIPAMV
-2	30597913	30597978	GPCR_Rhodpsn_(PR00237)	260.0	+
-#	PR00237	IPR000276	220	243	\N	1.4999999999999997e-57	30.16	KICVFIFGFVAPLLIITVCYTLMV
-2	30600704	30600775	GPCR_Rhodpsn_(PR00237)	338.0	+
-#	PR00237	IPR000276	265	289	\N	1.4999999999999997e-57	32.6	ITRLVLVVVAVFVVCWTPIHIFILV
-2	30600839	30600913	GPCR_Rhodpsn_(PR00237)	516.0	+
-#	PR00237	IPR000276	306	332	\N	1.4999999999999997e-57	34.81	YFFCVALGYTNSSLNPILYAFLDENFK
-2	30600962	30601042	GPCR_Rhodpsn_(PR00237)	490.0	+
-#	PR01012	IPR000611	82	94	\N	3.7e-05	35.31	RYTKMKTATNIYI
-2	30594265	30597687	NPY_rcpt_(PR01012)	235.0	+
-#	PR01012	IPR000611	111	123	\N	3.7e-05	33.22	QSTDYLLNSWPFG
-2	30597736	30597774	NPY_rcpt_(PR01012)	209.0	+
-#	PR01012	IPR000611	134	149	\N	3.7e-05	20.45	DYYNMFTSIFTLTMMS
-2	30597805	30597852	NPY_rcpt_(PR01012)	137.0	+
-#	PR01012	IPR000611	322	335	\N	3.7e-05	40.58	ILYAFLDENFKRCF
-2	30601010	30601051	NPY_rcpt_(PR01012)	332.0	+
-#	PR01855	IPR009150	245	258	\N	1.9e-09	41.07	RLKSVRLLSGSREK
-2	30600779	30600820	Neuropept_B/W_rcpt_(PR01855)	252.0	+
-#	PR01855	IPR009150	203	212	\N	1.9e-09	50.0	ECALQFPDPY
-2	30600653	30600682	Neuropept_B/W_rcpt_(PR01855)	295.0	+
-#	PR01855	IPR009150	171	183	\N	1.9e-09	19.23	AKIINILIWVLSS
-2	30597916	30597954	Neuropept_B/W_rcpt_(PR01855)	231.0	+
-#	PR01855	IPR009150	101	114	\N	1.9e-09	32.14	DALVTTTMPFQSTD
-2	30597706	30597747	Neuropept_B/W_rcpt_(PR01855)	215.0	+
-#	PR00384	IPR001418	252	264	\N	1e-36	94.87	LSGSREKDRNLRR
-2	30600800	30600838	Opioid_rcpt_(PR00384)	616.0	+
-#	PR00384	IPR001418	308	315	\N	1e-36	79.86	FCVALGYT
-2	30600968	30600991	Opioid_rcpt_(PR00384)	398.0	+
-#	PR00384	IPR001418	326	335	\N	1e-36	97.22	FLDENFKRCF
-2	30601022	30601051	Opioid_rcpt_(PR00384)	563.0	+
-#	PR00384	IPR001418	163	172	\N	1e-36	77.78	LDFRTPMKAK
-2	30597892	30597921	Opioid_rcpt_(PR00384)	392.0	+
-#	PR01855	IPR009150	277	291	\N	1.9e-09	38.33	VVCWTPIHIFILVKA
-2	30600875	30600919	Neuropept_B/W_rcpt_(PR01855)	407.0	+
-#	PS50262	IPR017452	72	324	\N	0.0	0.0	GNCLVMYVIIRYTKMKTATNIYIFNLAVADALVTTTMPFQSTDYLLNSWPFGEVVCKVFISIDYYNMFTSIFTLTMMSVDRYVAVCHPVKALDFRTPMKAKIINILIWVLSSAAGIPAMVLGSTQTNNGTTECALQFPDPYVYWDTLMKICVFIFGFVAPLLIITVCYTLMVLRLKSVRLLSGSREKDRNLRRITRLVLVVVAVFVVCWTPIHIFILVKALSHGVPETTSVMAAYFFCVALGYTNSSLNPILY
-2	30594235	30601018	GPCR_Rhodpsn_7TM_(PS50262)	50.461999999999996	+
+2	30594214	30600775	7TM_GPCR_serpentine_rcpt_Srx	25.9	+	30594214	30600775	83,88,95	3	52,352,130	0,3437,6431	PF10328	http://pfam.sanger.ac.uk/family?acc=PF10328
+2	30594217	30601054	7TM_GPCR_olfarory/Srsx	41.1	+	30594217	30601054	83,88,95	3	49,352,409	0,3434,6428	PF10320	http://pfam.sanger.ac.uk/family?acc=PF10320
+2	30594235	30601018	GPCR_Rhodpsn	222.0	+	30594235	30601018	83,88,95	3	31,352,373	0,3416,6410	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+2	30594265	30597690	Opioid_rcpt	712.0	+	30594265	30597690	83,88,95	2	1,39	0,3386	PR00384	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00384&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00384
+2	30597805	30597843	Opioid_rcpt	669.0	+	30597805	30597843	83,88,95	1	38	0	PR00384	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00384&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00384
+2	30594190	30594264	GPCR_Rhodpsn	385.0	+	30594190	30594264	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+2	30597673	30597738	GPCR_Rhodpsn	357.0	+	30597673	30597738	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+2	30597805	30597873	GPCR_Rhodpsn	410.0	+	30597805	30597873	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+2	30597913	30597978	GPCR_Rhodpsn	260.0	+	30597913	30597978	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+2	30600704	30600775	GPCR_Rhodpsn	338.0	+	30600704	30600775	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+2	30600839	30600913	GPCR_Rhodpsn	516.0	+	30600839	30600913	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+2	30600962	30601042	GPCR_Rhodpsn	490.0	+	30600962	30601042	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+2	30594265	30597687	NPY_rcpt	235.0	+	30594265	30597687	83,88,95	2	1,36	0,3386	PR01012	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01012&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01012
+2	30597736	30597774	NPY_rcpt	209.0	+	30597736	30597774	83,88,95	1	38	0	PR01012	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01012&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01012
+2	30597805	30597852	NPY_rcpt	137.0	+	30597805	30597852	83,88,95	1	47	0	PR01012	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01012&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01012
+2	30601010	30601051	NPY_rcpt	332.0	+	30601010	30601051	83,88,95	1	41	0	PR01012	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01012&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01012
+2	30600779	30600820	Neuropept_B/W_rcpt	252.0	+	30600779	30600820	83,88,95	1	41	0	PR01855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01855
+2	30600653	30600682	Neuropept_B/W_rcpt	295.0	+	30600653	30600682	83,88,95	1	29	0	PR01855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01855
+2	30597916	30597954	Neuropept_B/W_rcpt	231.0	+	30597916	30597954	83,88,95	1	38	0	PR01855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01855
+2	30597706	30597747	Neuropept_B/W_rcpt	215.0	+	30597706	30597747	83,88,95	1	41	0	PR01855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01855
+2	30600800	30600838	Opioid_rcpt	616.0	+	30600800	30600838	83,88,95	1	38	0	PR00384	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00384&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00384
+2	30600968	30600991	Opioid_rcpt	398.0	+	30600968	30600991	83,88,95	1	23	0	PR00384	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00384&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00384
+2	30601022	30601051	Opioid_rcpt	563.0	+	30601022	30601051	83,88,95	1	29	0	PR00384	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00384&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00384
+2	30597892	30597921	Opioid_rcpt	392.0	+	30597892	30597921	83,88,95	1	29	0	PR00384	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00384&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00384
+2	30600875	30600919	Neuropept_B/W_rcpt	407.0	+	30600875	30600919	83,88,95	1	44	0	PR01855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01855
+2	30594235	30601018	GPCR_Rhodpsn_7TM	50.461999999999996	+	30594235	30601018	83,88,95	3	31,352,373	0,3416,6410	PS50262	http://www.expasy.ch/prosite/PS50262

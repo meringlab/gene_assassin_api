@@ -1,23 +1,10 @@
-browser position chr10:38118058-38126716
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000020978	ENSDART00000011471	ENSDARP00000002327	38118058	38126716	###
-#	PR00081	IPR002347	223	240	\N	8.8e-17	26.93	TSVTCYSVHPGVVKTELS
-10	38118348	38123214	Glc/ribitol_DH_(PR00081)	220.0	-
-#	PR00081	IPR002347	202	221	\N	8.8e-17	27.87	YCNSKLCNVLFTHELAKRLK
-10	38123218	38123277	Glc/ribitol_DH_(PR00081)	121.0	-
-#	PR00081	IPR002347	157	173	\N	8.8e-17	20.78	LKESPAARVITLSSMAY
-10	38123362	38123412	Glc/ribitol_DH_(PR00081)	119.0	-
-#	PR00081	IPR002347	114	125	\N	8.8e-17	49.62	SRLDLLINNAGL
-10	38123506	38125923	Glc/ribitol_DH_(PR00081)	339.0	-
-#	PR00081	IPR002347	38	55	\N	8.8e-17	46.56	TAIITGGNTGIGKATALD
-10	38126175	38126591	Glc/ribitol_DH_(PR00081)	397.0	-
-#	PR00080	IPR002198	114	125	\N	2.9999999999999997e-05	51.99	SRLDLLINNAGL
-10	38123506	38125923	DH_sc/Rdtase_SDR_(PR00080)	343.0	-
-#	PR00080	IPR002198	202	221	\N	2.9999999999999997e-05	31.75	YCNSKLCNVLFTHELAKRLK
-10	38123218	38123277	DH_sc/Rdtase_SDR_(PR00080)	177.0	-
-#	PF08659	IPR013968	38	176	\N	1.7e-11	0.0	TAIITGGNTGIGKATALDLAGRGMRVILACRNQKKAEAAINDIKKATGSDEVLFMELDLGSLKSVRAFAETFLKSESRLDLLINNAGLVADGRTEDGFGIEFGVNHLGHFLLTCLLLDRLKESPAARVITLSSMAYRWG
-10	38123353	38126591	PKS_KR_(PF08659)	31.4	-
-#	PF00106	IPR002198	37	177	\N	2.0000000000000002e-24	0.0	KTAIITGGNTGIGKATALDLAGRGMRVILACRNQKKAEAAINDIKKATGSDEVLFMELDLGSLKSVRAFAETFLKSESRLDLLINNAGLVADGRTEDGFGIEFGVNHLGHFLLTCLLLDRLKESPAARVITLSSMAYRWGR
-10	38123350	38126594	DH_sc/Rdtase_SDR_(PF00106)	73.8	-
-#	PR00080	IPR002198	163	171	\N	2.9999999999999997e-05	25.37	ARVITLSSM
-10	38123368	38123394	DH_sc/Rdtase_SDR_(PR00080)	135.0	-
+10	38118348	38123214	Glc/ribitol_DH	220.0	-	38118348	38123214	83,88,95	2	4836,4844	0,22	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+10	38123218	38123277	Glc/ribitol_DH	121.0	-	38123218	38123277	83,88,95	1	59	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+10	38123362	38123412	Glc/ribitol_DH	119.0	-	38123362	38123412	83,88,95	1	50	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+10	38123506	38125923	Glc/ribitol_DH	339.0	-	38123506	38125923	83,88,95	2	2387,2413	0,4	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+10	38126175	38126591	Glc/ribitol_DH	397.0	-	38126175	38126591	83,88,95	2	401,379	0,37	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+10	38123506	38125923	DH_sc/Rdtase_SDR	343.0	-	38123506	38125923	83,88,95	2	2387,2413	0,4	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+10	38123218	38123277	DH_sc/Rdtase_SDR	177.0	-	38123218	38123277	83,88,95	1	59	0	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+10	38123353	38126591	PKS_KR	31.4	-	38123353	38126591	83,88,95	4	3223,-118,-123,3081	0,2859,2663,157	PF08659	http://pfam.sanger.ac.uk/family?acc=PF08659
+10	38123350	38126594	DH_sc/Rdtase_SDR	73.8	-	38123350	38126594	83,88,95	4	3226,-118,-123,3084	0,2862,2666,160	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106
+10	38123368	38123394	DH_sc/Rdtase_SDR	135.0	-	38123368	38123394	83,88,95	1	26	0	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080

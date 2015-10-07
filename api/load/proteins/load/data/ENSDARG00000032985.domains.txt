@@ -1,9 +1,3 @@
-browser position chr12:23039657-23043505
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000032985	ENSDART00000043546	ENSDARP00000043545	23039657	23043505	###
-#	PF01016	IPR001684	29	102	\N	9e-31	0.0	ASKKSGGSSKNLGGKSSGRRYGYKKQDGNFVHAGNILATQRKGLMRWHPGAHVGIGTNKTLYALEDGIVRYTKE
-12	23040161	23043205	Ribosomal_L27_(PF01016)	92.0	+
-#	PR00063	IPR001684	32	56	\N	5.5e-07	38.0	KSGGSSKNLGGKSSGRRYGYKKQDG
-12	23040170	23040396	Ribosomal_L27_(PR00063)	386.0	+
-#	PR00063	IPR001684	84	108	\N	5.5e-07	32.62	GTNKTLYALEDGIVRYTKEVYVPLP
-12	23043149	23043223	Ribosomal_L27_(PR00063)	298.0	+
+12	23040161	23043205	Ribosomal_L27	92.0	+	23040161	23043205	83,88,95	3	81,73,65	0,234,2979	PF01016	http://pfam.sanger.ac.uk/family?acc=PF01016
+12	23040170	23040396	Ribosomal_L27	386.0	+	23040170	23040396	83,88,95	2	72,1	0,225	PR00063	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00063&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00063
+12	23043149	23043223	Ribosomal_L27	298.0	+	23043149	23043223	83,88,95	1	74	0	PR00063	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00063&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00063

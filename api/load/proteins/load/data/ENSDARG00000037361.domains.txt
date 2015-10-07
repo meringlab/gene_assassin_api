@@ -1,19 +1,8 @@
-browser position chr12:1179851-1187204
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000037361	ENSDART00000054367	ENSDARP00000054366	1179851	1187204	###
-#	PR00660	IPR000133	4	23	\N	5.4999999999999994e-73	69.29	FRLTGDLSHLAAIIILLLKI
-12	1186950	1187009	ER_ret_rcpt_(PR00660)	688.0	-
-#	PR00660	IPR000133	31	51	\N	5.4999999999999994e-73	81.63	GISGKSQILFALVFTTRYLDL
-12	1185426	1185488	ER_ret_rcpt_(PR00660)	845.0	-
-#	PR00660	IPR000133	52	68	\N	5.4999999999999994e-73	55.46	LTSFISLYNTSMKVIYI
-12	1183895	1185425	ER_ret_rcpt_(PR00660)	549.0	-
-#	PR00660	IPR000133	120	140	\N	5.4999999999999994e-73	78.57	WTFSIYLESVSILPQLFMISK
-12	1182097	1182159	ER_ret_rcpt_(PR00660)	911.0	-
-#	PR00660	IPR000133	142	156	\N	5.4999999999999994e-73	71.9	GEAETITTHYLFFLG
-12	1182049	1182093	ER_ret_rcpt_(PR00660)	586.0	-
-#	PR00660	IPR000133	156	174	\N	5.4999999999999994e-73	66.92	GLYRALYLFNWIWRFYFEG
-12	1181995	1182051	ER_ret_rcpt_(PR00660)	781.0	-
-#	PR00660	IPR000133	184	199	\N	5.4999999999999994e-73	75.45	GVVQTILYCDFFYLYV
-12	1181920	1181967	ER_ret_rcpt_(PR00660)	730.0	-
-#	PF00810	IPR000133	28	169	\N	2e-62	0.0	SCAGISGKSQILFALVFTTRYLDLLTSFISLYNTSMKVIYIACAYATVYLIYAKFKATYDGNHDTFRVEFLVVPVGGLAFLVNHDFSPLEILWTFSIYLESVSILPQLFMISKTGEAETITTHYLFFLGLYRALYLFNWIWR
-12	1182010	1186937	ER_ret_rcpt_(PF00810)	196.5	-
+12	1186950	1187009	ER_ret_rcpt	688.0	-	1186950	1187009	83,88,95	1	59	0	PR00660	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00660&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00660
+12	1185426	1185488	ER_ret_rcpt	845.0	-	1185426	1185488	83,88,95	1	62	0	PR00660	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00660&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00660
+12	1183895	1185425	ER_ret_rcpt	549.0	-	1183895	1185425	83,88,95	2	1492,1519	0,11	PR00660	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00660&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00660
+12	1182097	1182159	ER_ret_rcpt	911.0	-	1182097	1182159	83,88,95	1	62	0	PR00660	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00660&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00660
+12	1182049	1182093	ER_ret_rcpt	586.0	-	1182049	1182093	83,88,95	1	44	0	PR00660	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00660&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00660
+12	1181995	1182051	ER_ret_rcpt	781.0	-	1181995	1182051	83,88,95	1	56	0	PR00660	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00660&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00660
+12	1181920	1181967	ER_ret_rcpt	730.0	-	1181920	1181967	83,88,95	1	47	0	PR00660	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00660&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00660
+12	1182010	1186937	ER_ret_rcpt	196.5	-	1182010	1186937	83,88,95	4	4918,-100,-158,4772	0,3477,1896,155	PF00810	http://pfam.sanger.ac.uk/family?acc=PF00810

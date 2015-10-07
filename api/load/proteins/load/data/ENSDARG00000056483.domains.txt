@@ -1,15 +1,6 @@
-browser position chr22:21274805-21367189
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000056483	ENSDART00000133982	ENSDARP00000120091	21274805	21367189	###
-#	PR01743	IPR008116	8	27	\N	8.9e-38	87.22	AVVPSDSQAREKLALYVYEY
-22	21352518	21366979	SSDP_DNA-bd_(PR01743)	896.0	-
-#	PR01743	IPR008116	29	44	\N	8.9e-38	98.96	LHVGAQKSAQTFLSEI
-22	21343083	21352514	SSDP_DNA-bd_(PR01743)	766.0	-
-#	PR01743	IPR008116	45	62	\N	8.9e-38	99.69	RWEKNITLGEPPGFLHSW
-22	21343029	21343082	SSDP_DNA-bd_(PR01743)	1088.0	-
-#	PR01743	IPR008116	76	91	\N	8.9e-38	93.4	RETCEHSSEAKAFHDY
-22	21330956	21331003	SSDP_DNA-bd_(PR01743)	850.0	-
-#	SM00667	IPR006594	16	48	\N	0.0018	0.0	AREKLALYVYEYLLHVGAQKSAQTFLSEIRWEK
-22	21343071	21366955	LisH_dimerisation_(SM00667)	27.5	-
-#	PS50896	IPR006594	16	48	\N	0.0	0.0	AREKLALYVYEYLLHVGAQKSAQTFLSEIRWEK
-22	21343071	21366955	LisH_dimerisation_(PS50896)	9.397	-
+22	21352518	21366979	SSDP_DNA-bd	896.0	-	21352518	21366979	83,88,95	2	14427,14437	0,24	PR01743	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01743&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01743
+22	21343083	21352514	SSDP_DNA-bd	766.0	-	21343083	21352514	83,88,95	2	9387,9429	0,2	PR01743	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01743&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01743
+22	21343029	21343082	SSDP_DNA-bd	1088.0	-	21343029	21343082	83,88,95	1	53	0	PR01743	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01743&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01743
+22	21330956	21331003	SSDP_DNA-bd	850.0	-	21330956	21331003	83,88,95	1	47	0	PR01743	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01743&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01743
+22	21343071	21366955	LisH_dimerisation	27.5	-	21343071	21366955	83,88,95	3	23874,-72,23870	0,9471,14	SM00667	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00667
+22	21343071	21366955	LisH_dimerisation	9.397	-	21343071	21366955	83,88,95	3	23874,-72,23870	0,9471,14	PS50896	http://www.expasy.ch/prosite/PS50896

@@ -1,9 +1,3 @@
-browser position chr13:49262139-49262480
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000074530	ENSDART00000115137	ENSDARP00000103270	49262139	49262480	###
-#	PR01588	IPR005410	14	29	\N	7.2e-15	71.88	INEDNGRFLLLALLII
-13	49262394	49262441	2pore_dom_K_chnl_THIK_(PR01588)	561.0	-
-#	PR01588	IPR005410	69	81	\N	7.2e-15	42.31	LQDLSSFLKEYEA
-13	49262238	49262276	2pore_dom_K_chnl_THIK_(PR01588)	285.0	-
-#	PR01588	IPR005410	83	95	\N	7.2e-15	71.15	IAAGVRVDALRPR
-13	49262196	49262234	2pore_dom_K_chnl_THIK_(PR01588)	489.0	-
+13	49262394	49262441	2pore_dom_K_chnl_THIK	561.0	-	49262394	49262441	83,88,95	1	47	0	PR01588	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01588&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01588
+13	49262238	49262276	2pore_dom_K_chnl_THIK	285.0	-	49262238	49262276	83,88,95	1	38	0	PR01588	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01588&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01588
+13	49262196	49262234	2pore_dom_K_chnl_THIK	489.0	-	49262196	49262234	83,88,95	1	38	0	PR01588	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01588&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01588

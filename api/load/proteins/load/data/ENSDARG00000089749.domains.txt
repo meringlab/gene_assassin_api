@@ -1,33 +1,15 @@
-browser position chr3:18394178-18397736
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000089749	ENSDART00000122968	ENSDARP00000109513	18394178	18397736	###
-#	PR02020	IPR023277	71	81	\N	1.1e-13	30.91	LAVVIGCMVEI
-3	18397461	18397493	Aquaporin_8_(PR02020)	144.0	-
-#	PR02020	IPR023277	100	111	\N	1.1e-13	48.33	LELKMVLPYLIS
-3	18395868	18395903	Aquaporin_8_(PR02020)	310.0	-
-#	PR02020	IPR023277	123	136	\N	1.1e-13	28.57	AKGMTSSEKYAQAQ
-3	18395711	18395834	Aquaporin_8_(PR02020)	192.0	-
-#	PR02020	IPR023277	136	148	\N	1.1e-13	38.46	QGAAFTVLQADDH
-3	18395675	18395713	Aquaporin_8_(PR02020)	274.0	-
-#	PR02020	IPR023277	236	245	\N	1.1e-13	44.0	AAALVRLFLG
-3	18394377	18395341	Aquaporin_8_(PR02020)	262.0	-
-#	PR02020	IPR023277	246	254	\N	1.1e-13	36.36	DNDTRVVMK
-3	18394350	18394376	Aquaporin_8_(PR02020)	260.0	-
-#	PR00783	IPR000425	186	208	\N	1.4e-31	33.19	GCTVMVNVLAGANVSGACLNPVR
-3	18395423	18395563	MIP_(PR00783)	326.0	-
-#	PR00783	IPR000425	104	123	\N	1.4e-31	30.37	MVLPYLISQVSGGLLGAVMA
-3	18395832	18395891	MIP_(PR00783)	314.0	-
-#	PR02020	IPR023277	19	34	\N	1.1e-13	32.5	EMEEPGLFEQLVQPCM
-3	18397602	18397649	Aquaporin_8_(PR02020)	272.0	-
-#	PR00783	IPR000425	67	91	\N	1.4e-31	37.52	HGLALAVVIGCMVEISGSHFNPSFT
-3	18395928	18397505	MIP_(PR00783)	479.0	-
-#	PR00783	IPR000425	31	50	\N	1.4e-31	31.61	QPCMAELVGTAFFVLMGCLC
-3	18397554	18397613	MIP_(PR00783)	268.0	-
-#	PF00230	IPR000425	29	238	\N	1.5e-50	0.0	LVQPCMAELVGTAFFVLMGCLCVIESAQEGHTLQAALVHGLALAVVIGCMVEISGSHFNPSFTIAVFLSGGLELKMVLPYLISQVSGGLLGAVMAKGMTSSEKYAQAQGAAFTVLQADDHIMKALFAEAAMTCLATLAVLLSAVNGKSKNHMFPFLVGCTVMVNVLAGANVSGACLNPVRALGPAVLTNYWTHHWIYWVGPITGGLIAAA
-3	18395333	18397619	MIP_(PF00230)	158.1	-
-#	PR02020	IPR023277	172	182	\N	1.1e-13	34.55	VNGKSKNHMFP
-3	18395573	18395605	Aquaporin_8_(PR02020)	191.0	-
-#	PR00783	IPR000425	223	243	\N	1.4e-31	41.11	WIYWVGPITGGLIAAALVRLF
-3	18394383	18395380	MIP_(PR00783)	504.0	-
-#	SSF81338	IPR023271	20	254	\N	9.899999999999999e-53	0.0	MEEPGLFEQLVQPCMAELVGTAFFVLMGCLCVIESAQEGHTLQAALVHGLALAVVIGCMVEISGSHFNPSFTIAVFLSGGLELKMVLPYLISQVSGGLLGAVMAKGMTSSEKYAQAQGAAFTVLQADDHIMKALFAEAAMTCLATLAVLLSAVNGKSKNHMFPFLVGCTVMVNVLAGANVSGACLNPVRALGPAVLTNYWTHHWIYWVGPITGGLIAAALVRLFLGDNDTRVVMK
-3	18394350	18397646	Aquaporin-like_(SSF81338)	0.0	-
+3	18397461	18397493	Aquaporin_8	144.0	-	18397461	18397493	83,88,95	1	32	0	PR02020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02020
+3	18395868	18395903	Aquaporin_8	310.0	-	18395868	18395903	83,88,95	1	35	0	PR02020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02020
+3	18395711	18395834	Aquaporin_8	192.0	-	18395711	18395834	83,88,95	2	118,88	0,35	PR02020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02020
+3	18395675	18395713	Aquaporin_8	274.0	-	18395675	18395713	83,88,95	1	38	0	PR02020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02020
+3	18394377	18395341	Aquaporin_8	262.0	-	18394377	18395341	83,88,95	2	948,952	0,12	PR02020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02020
+3	18394350	18394376	Aquaporin_8	260.0	-	18394350	18394376	83,88,95	1	26	0	PR02020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02020
+3	18395423	18395563	MIP	326.0	-	18395423	18395563	83,88,95	2	109,104	0,36	PR00783	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00783&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00783
+3	18395832	18395891	MIP	314.0	-	18395832	18395891	83,88,95	1	59	0	PR00783	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00783&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00783
+3	18397602	18397649	Aquaporin_8	272.0	-	18397602	18397649	83,88,95	1	47	0	PR02020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02020
+3	18395928	18397505	MIP	479.0	-	18395928	18397505	83,88,95	2	1531,1550	0,27	PR00783	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00783&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00783
+3	18397554	18397613	MIP	268.0	-	18397554	18397613	83,88,95	1	59	0	PR00783	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00783&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00783
+3	18395333	18397619	MIP	158.1	-	18395333	18397619	83,88,95	4	2126,-126,-214,2160	0,622,413,126	PF00230	http://pfam.sanger.ac.uk/family?acc=PF00230
+3	18395573	18395605	Aquaporin_8	191.0	-	18395573	18395605	83,88,95	1	32	0	PR02020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02020
+3	18394383	18395380	MIP	504.0	-	18394383	18395380	83,88,95	2	942,991	0,6	PR00783	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00783&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00783
+3	18394350	18397646	Aquaporin-like	0.0	-	18394350	18397646	83,88,95	5	3109,-126,-214,-134,3257	0,1605,1396,1109,39	SSF81338	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81338

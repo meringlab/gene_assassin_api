@@ -1,13 +1,5 @@
-browser position chr5:19504794-19532326
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000058232	ENSDART00000081064	ENSDARP00000075507	19504794	19531189	###
-#	PR02044	IPR023246	487	501	\N	9.999999999999999e-33	73.94	DTWNRLHRTPPSFPT
-5	19529617	19529661	AUTS2_(PR02044)	692.0	+
-#	PR02044	IPR023246	440	458	\N	9.999999999999999e-33	60.77	SRSSTFGGLSNLSSSAFGG
-5	19528918	19528974	AUTS2_(PR02044)	576.0	+
-#	PR02044	IPR023246	406	421	\N	9.999999999999999e-33	57.95	LFSSTGSGHPAASPYG
-5	19523333	19526794	AUTS2_(PR02044)	539.0	+
-#	PR02044	IPR023246	390	405	\N	9.999999999999999e-33	54.55	PGVFPGFPYPHDLARP
-5	19523285	19523332	AUTS2_(PR02044)	497.0	+
-#	PR02044	IPR023246	368	377	\N	9.999999999999999e-33	67.27	MHLDPHKLDM
-5	19523219	19523248	AUTS2_(PR02044)	358.0	+
+5	19529617	19529661	AUTS2	692.0	+	19529617	19529661	83,88,95	1	44	0	PR02044	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02044&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02044
+5	19528918	19528974	AUTS2	576.0	+	19528918	19528974	83,88,95	1	56	0	PR02044	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02044&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02044
+5	19523333	19526794	AUTS2	539.0	+	19523333	19526794	83,88,95	2	15,31	0,3430	PR02044	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02044&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02044
+5	19523285	19523332	AUTS2	497.0	+	19523285	19523332	83,88,95	1	47	0	PR02044	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02044&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02044
+5	19523219	19523248	AUTS2	358.0	+	19523219	19523248	83,88,95	1	29	0	PR02044	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02044&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02044

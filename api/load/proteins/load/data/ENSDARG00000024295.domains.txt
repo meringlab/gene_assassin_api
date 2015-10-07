@@ -1,11 +1,4 @@
-browser position chr11:268489-273356
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000024295	ENSDART00000035737	ENSDARP00000033139	268489	273356	###
-#	PF01566	IPR001046	32	143	\N	1.9999999999999998e-32	0.0	VLGCFFGPAALYIWAVGILAAGQSSTMTGTYSGQFVMEGFLNLRWSRFARVLLTRSIAIFPTLLVAVFQDVQHLTGMNDFLNVLQSMQLPFALIPILTFTSLTSLMHDFANG
-11	269281	271415	NRAMP-like_(PF01566)	98.6	-
-#	PR00447	IPR001046	53	72	\N	3.2e-35	87.0	GQSSTMTGTYSGQFVMEGFL
-11	270153	271352	NRAMP-like_(PR00447)	899.0	-
-#	PR00447	IPR001046	81	98	\N	3.2e-35	71.33	RVLLTRSIAIFPTLLVAV
-11	270075	270128	NRAMP-like_(PR00447)	591.0	-
-#	PR00447	IPR001046	113	132	\N	3.2e-35	74.0	NVLQSMQLPFALIPILTFTS
-11	269314	270032	NRAMP-like_(PR00447)	747.0	-
+11	269281	271415	NRAMP-like	98.6	-	269281	271415	83,88,95	3	2021,-149,2063	0,880,71	PF01566	http://pfam.sanger.ac.uk/family?acc=PF01566
+11	270153	271352	NRAMP-like	899.0	-	270153	271352	83,88,95	2	1149,1191	0,8	PR00447	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00447&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00447
+11	270075	270128	NRAMP-like	591.0	-	270075	270128	83,88,95	1	53	0	PR00447	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00447&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00447
+11	269314	270032	NRAMP-like	747.0	-	269314	270032	83,88,95	2	698,680	0,38	PR00447	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00447&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00447

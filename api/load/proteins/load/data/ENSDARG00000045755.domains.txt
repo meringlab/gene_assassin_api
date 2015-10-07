@@ -1,13 +1,5 @@
-browser position chr4:10117825-10120261
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000045755	ENSDART00000140362	ENSDARP00000119374	10117825	10120261	###
-#	PF08524	IPR013730	162	253	\N	1.1e-09	0.0	PAQPESSHKTTFFQRKQNISSYQKTKQEYERIKEERARKREEILKDKAQREEALKKYKEKKIATYQLLKRKTKKGQPNLNLQMELLLQKIQA
-4	10119187	10119745	rRNA_processing_(PF08524)	24.7	+
-#	PR01854	IPR013730	66	93	\N	1.7e-20	19.05	EYNKLLRKERKRKQESKVQLQEEYPEHL
-4	10118899	10118982	rRNA_processing_(PR01854)	173.0	+
-#	PR01854	IPR013730	178	201	\N	1.7e-20	41.67	QNISSYQKTKQEYERIKEERARKR
-4	10119339	10119410	rRNA_processing_(PR01854)	529.0	+
-#	PR01854	IPR013730	203	224	\N	1.7e-20	45.45	EILKDKAQREEALKKYKEKKIA
-4	10119593	10119658	rRNA_processing_(PR01854)	490.0	+
-#	PR01854	IPR013730	226	250	\N	1.7e-20	73.33	YQLLKRKTKKGQPNLNLQMELLLQK
-4	10119662	10119736	rRNA_processing_(PR01854)	1000.0	+
+4	10119187	10119745	rRNA_processing	24.7	+	10119187	10119745	83,88,95	3	16,105,152	0,121,406	PF08524	http://pfam.sanger.ac.uk/family?acc=PF08524
+4	10118899	10118982	rRNA_processing	173.0	+	10118899	10118982	83,88,95	1	83	0	PR01854	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01854&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01854
+4	10119339	10119410	rRNA_processing	529.0	+	10119339	10119410	83,88,95	1	71	0	PR01854	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01854&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01854
+4	10119593	10119658	rRNA_processing	490.0	+	10119593	10119658	83,88,95	1	65	0	PR01854	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01854&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01854
+4	10119662	10119736	rRNA_processing	1000.0	+	10119662	10119736	83,88,95	1	74	0	PR01854	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01854&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01854

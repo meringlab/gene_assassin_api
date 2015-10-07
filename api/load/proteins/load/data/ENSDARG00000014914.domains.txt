@@ -1,13 +1,5 @@
-browser position chr14:34448790-34456576
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000014914	ENSDART00000124242	ENSDARP00000105565	34449655	34456576	###
-#	PF01299	IPR002000	72	355	\N	1.3999999999999995e-90	0.0	AAKTTTARTTVTTSAPTSTQSTSSSSTSATVTTLAPTTTGHNTTNSTTEPPTTTGHNTTNSTTDAPTTTHTNATVAPTPPPTTPSVPKPTVGNYSVKTDNVSDCLLAKMGLQFSFKISGNASLQTVNLDPNVTKVNGTCGSGGSDSSLFLTSKDITVHFVFTNDSQKFRLHALTLTVDLGNGNIFNDSNTNLSLWEASVGSSYMCRKEQSYNISDKLTLNTFELQVQPFDVKKNSFSTAHECSLDDTSLLIPIIVGAALAGLIFIVVIAYVIGRRRTYVGYQTL
-14	34450876	34454177	Lysosome-assoc_membr_glycop_(PF01299)	289.9	-
-#	PR00336	IPR002000	319	341	\N	2e-19	59.63	SLLIPIIVGAALAGLIFIVVIAY
-14	34450918	34450986	Lysosome-assoc_membr_glycop_(PR00336)	713.0	-
-#	PR00336	IPR002000	305	317	\N	2e-19	35.71	NSFSTAHECSLDD
-14	34450990	34451947	Lysosome-assoc_membr_glycop_(PR00336)	273.0	-
-#	PR00336	IPR002000	268	282	\N	2e-19	49.05	ASVGSSYMCRKEQSY
-14	34452014	34452058	Lysosome-assoc_membr_glycop_(PR00336)	390.0	-
-#	PR00336	IPR002000	164	188	\N	2e-19	25.43	NYSVKTDNVSDCLLAKMGLQFSFKI
-14	34453827	34453901	Lysosome-assoc_membr_glycop_(PR00336)	185.0	-
+14	34450876	34454177	Lysosome-assoc_membr_glycop	289.9	-	34450876	34454177	83,88,95	5	2945,-131,-54,-170,3165	0,2855,2082,1226,136	PF01299	http://pfam.sanger.ac.uk/family?acc=PF01299
+14	34450918	34450986	Lysosome-assoc_membr_glycop	713.0	-	34450918	34450986	83,88,95	1	68	0	PR00336	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00336&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00336
+14	34450990	34451947	Lysosome-assoc_membr_glycop	273.0	-	34450990	34451947	83,88,95	2	942,935	0,22	PR00336	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00336&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00336
+14	34452014	34452058	Lysosome-assoc_membr_glycop	390.0	-	34452014	34452058	83,88,95	1	44	0	PR00336	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00336&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00336
+14	34453827	34453901	Lysosome-assoc_membr_glycop	185.0	-	34453827	34453901	83,88,95	1	74	0	PR00336	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00336&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00336

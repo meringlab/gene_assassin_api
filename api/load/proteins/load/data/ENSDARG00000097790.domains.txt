@@ -1,17 +1,7 @@
-browser position chr25:38310856-38319348
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000097790	ENSDART00000156737	ENSDARP00000129670	38310856	38319348	###
-#	PR00469	IPR000103	45	67	\N	2.1000000000000002e-06	45.6	PVLVVGSGPVGLTAALVAVRSGK
-25	38318987	38319055	Pyridine_nuc-diS_OxRdtase_2_(PR00469)	537.0	-
-#	PR00469	IPR000103	165	173	\N	2.1000000000000002e-06	29.54	RVIVVADGS
-25	38314545	38314571	Pyridine_nuc-diS_OxRdtase_2_(PR00469)	178.0	-
-#	PR00368	IPR013027	46	65	\N	6.2e-05	45.73	VLVVGSGPVGLTAALVAVRS
-25	38318993	38319052	FAD_pyr_nucl-diS_OxRdtase_(PR00368)	461.0	-
-#	PR00368	IPR013027	164	182	\N	6.2e-05	19.88	PRVIVVADGSCGDSCSVLG
-25	38314518	38314574	FAD_pyr_nucl-diS_OxRdtase_(PR00368)	90.0	-
-#	PR00420	IPR003042	45	67	\N	6.9e-05	42.61	PVLVVGSGPVGLTAALVAVRSGK
-25	38318987	38319055	Rng_hydrolase-like_(PR00420)	423.0	-
-#	PR00420	IPR003042	352	368	\N	6.9e-05	27.25	FDTGCGVNLGMRGLESL
-25	38311125	38311395	Rng_hydrolase-like_(PR00420)	126.0	-
-#	PF01494	IPR002938	44	105	\N	1.3e-08	0.0	VPVLVVGSGPVGLTAALVAVRSGKVLKLTLLDARYRSALLRRPQQIALDPRSVRFLLELGVD
-25	38318873	38319058	mOase_FAD-bd_(PF01494)	20.5	-
+25	38318987	38319055	Pyridine_nuc-diS_OxRdtase_2	537.0	-	38318987	38319055	83,88,95	1	68	0	PR00469	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00469&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00469
+25	38314545	38314571	Pyridine_nuc-diS_OxRdtase_2	178.0	-	38314545	38314571	83,88,95	1	26	0	PR00469	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00469&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00469
+25	38318993	38319052	FAD_pyr_nucl-diS_OxRdtase	461.0	-	38318993	38319052	83,88,95	1	59	0	PR00368	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00368&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00368
+25	38314518	38314574	FAD_pyr_nucl-diS_OxRdtase	90.0	-	38314518	38314574	83,88,95	1	56	0	PR00368	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00368&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00368
+25	38318987	38319055	Rng_hydrolase-like	423.0	-	38318987	38319055	83,88,95	1	68	0	PR00420	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00420&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00420
+25	38311125	38311395	Rng_hydrolase-like	126.0	-	38311125	38311395	83,88,95	2	261,230	0,40	PR00420	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00420&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00420
+25	38318873	38319058	mOase_FAD-bd	20.5	-	38318873	38319058	83,88,95	1	185	0	PF01494	http://pfam.sanger.ac.uk/family?acc=PF01494

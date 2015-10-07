@@ -1,19 +1,8 @@
-browser position chr7:59931811-59941037
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000036045	ENSDART00000052332	ENSDARP00000052331	59931811	59941037	###
-#	PF01160	IPR006024	27	91	\N	5.0000000000000004e-30	0.0	CRWTLLLSACLTLTARADCGEDCAYCLQQMPLQLKHLNSIECVLECEEQPNAGSSWSQCKHFMQN
-7	59932052	59939987	Opioid_neupept_(PF01160)	89.4	+
-#	PR01028	IPR006024	44	55	\N	8.3e-09	37.75	DCGEDCAYCLQQ
-7	59932103	59932138	Opioid_neupept_(PR01028)	313.0	+
-#	PR01028	IPR006024	64	72	\N	8.3e-09	52.94	NSIECVLEC
-7	59932163	59939930	Opioid_neupept_(PR01028)	296.0	+
-#	PR01028	IPR006024	72	85	\N	8.3e-09	29.83	CEEQPNAGSSWSQC
-7	59939928	59939969	Opioid_neupept_(PR01028)	271.0	+
-#	PR01028	IPR006024	128	138	\N	8.3e-09	62.03	SLIKRYGGFMK
-7	59940096	59940128	Opioid_neupept_(PR01028)	378.0	+
-#	PR01029	IPR000703	26	44	\N	6.2e-08	42.11	SCRWTLLLSACLTLTARAD
-7	59932049	59932105	Proenkphlin_A_(PR01029)	422.0	+
-#	PR01029	IPR000703	104	120	\N	6.2e-08	28.43	QIEHSNSQQHQVDKKYG
-7	59940024	59940074	Proenkphlin_A_(PR01029)	265.0	+
-#	PR01029	IPR000703	222	236	\N	6.2e-08	60.0	MRRVGRPDWWQESKR
-7	59940378	59940422	Proenkphlin_A_(PR01029)	640.0	+
+7	59932052	59939987	Opioid_neupept	89.4	+	59932052	59939987	83,88,95	2	118,75	0,7860	PF01160	http://pfam.sanger.ac.uk/family?acc=PF01160
+7	59932103	59932138	Opioid_neupept	313.0	+	59932103	59932138	83,88,95	1	35	0	PR01028	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01028&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01028
+7	59932163	59939930	Opioid_neupept	296.0	+	59932163	59939930	83,88,95	2	7,18	0,7749	PR01028	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01028&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01028
+7	59939928	59939969	Opioid_neupept	271.0	+	59939928	59939969	83,88,95	1	41	0	PR01028	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01028&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01028
+7	59940096	59940128	Opioid_neupept	378.0	+	59940096	59940128	83,88,95	1	32	0	PR01028	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01028&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01028
+7	59932049	59932105	Proenkphlin_A	422.0	+	59932049	59932105	83,88,95	1	56	0	PR01029	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01029&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01029
+7	59940024	59940074	Proenkphlin_A	265.0	+	59940024	59940074	83,88,95	1	50	0	PR01029	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01029&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01029
+7	59940378	59940422	Proenkphlin_A	640.0	+	59940378	59940422	83,88,95	1	44	0	PR01029	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01029&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01029

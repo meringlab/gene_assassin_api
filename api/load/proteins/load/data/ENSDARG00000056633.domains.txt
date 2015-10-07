@@ -1,23 +1,10 @@
-browser position chr10:27352112-27379624
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000056633	ENSDART00000020096	ENSDARP00000003654	27352112	27373079	###
-#	SM00442	IPR002209	15	146	\N	7e-70	0.0	KGIVTKLYSRQGFHLQLQADGTIDGTKEEDNSFAIFNLIPVGLRVVAIQGVQTKLYLAMNNEGYLYTSEHFTPECKFKESVFENYYVTYSSMIYRQQQSGRGWYLGLNKEGQIMKGNHVKKTKPAAHFIPKP
-10	27358759	27365414	Fibroblast_GF_fam_(SM00442)	248.1	-
-#	PF00167	IPR002209	19	143	\N	1.3999999999999997e-48	0.0	TKLYSRQGFHLQLQADGTIDGTKEEDNSFAIFNLIPVGLRVVAIQGVQTKLYLAMNNEGYLYTSEHFTPECKFKESVFENYYVTYSSMIYRQQQSGRGWYLGLNKEGQIMKGNHVKKTKPAAHFI
-10	27358768	27365402	Fibroblast_GF_fam_(PF00167)	150.1	-
-#	PR00262	IPR028142	57	84	\N	5.9e-14	35.16	LRVVAIQGVQTKLYLAMNNEGYLYTSEH
-10	27358945	27365182	IL-1_fam/FGF_fam_(PR00262)	362.0	-
-#	PR00262	IPR028142	88	108	\N	5.9e-14	35.97	ECKFKESVFENYYVTYSSMIY
-10	27358873	27358935	IL-1_fam/FGF_fam_(PR00262)	308.0	-
-#	PR00262	IPR028142	135	144	\N	5.9e-14	25.85	KTKPAAHFIP
-10	27358765	27358794	IL-1_fam/FGF_fam_(PR00262)	110.0	-
-#	PR00263	IPR002209	19	31	\N	3.7e-13	33.33	TKLYSRQGFHLQL
-10	27365364	27365402	Fibroblast_GF_fam_(PR00263)	203.0	-
-#	PR00263	IPR002209	50	64	\N	3.7e-13	31.26	FNLIPVGLRVVAIQG
-10	27365159	27365203	Fibroblast_GF_fam_(PR00263)	173.0	-
-#	PR00263	IPR002209	70	82	\N	3.7e-13	57.78	YLAMNNEGYLYTS
-10	27365105	27365143	Fibroblast_GF_fam_(PR00263)	375.0	-
-#	PR00263	IPR002209	86	105	\N	3.7e-13	50.44	TPECKFKESVFENYYVTYSS
-10	27358882	27358941	Fibroblast_GF_fam_(PR00263)	511.0	-
-#	SSF50353	IPR008996	18	163	\N	4.299999999999999e-50	0.0	VTKLYSRQGFHLQLQADGTIDGTKEEDNSFAIFNLIPVGLRVVAIQGVQTKLYLAMNNEGYLYTSEHFTPECKFKESVFENYYVTYSSMIYRQQQSGRGWYLGLNKEGQIMKGNHVKKTKPAAHFIPKPLKVAMYREPSLHDLTEF
-10	27353441	27365405	Cytokine_IL1-like_(SSF50353)	0.0	-
+10	27358759	27365414	Fibroblast_GF_fam	248.1	-	27358759	27365414	83,88,95	3	6556,-103,6464	0,6449,191	SM00442	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00442
+10	27358768	27365402	Fibroblast_GF_fam	150.1	-	27358768	27365402	83,88,95	3	6547,-103,6452	0,6440,182	PF00167	http://pfam.sanger.ac.uk/family?acc=PF00167
+10	27358945	27365182	IL-1_fam/FGF_fam	362.0	-	27358945	27365182	83,88,95	2	6160,6232	0,5	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
+10	27358873	27358935	IL-1_fam/FGF_fam	308.0	-	27358873	27358935	83,88,95	1	62	0	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
+10	27358765	27358794	IL-1_fam/FGF_fam	110.0	-	27358765	27358794	83,88,95	1	29	0	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
+10	27365364	27365402	Fibroblast_GF_fam	203.0	-	27365364	27365402	83,88,95	1	38	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+10	27365159	27365203	Fibroblast_GF_fam	173.0	-	27365159	27365203	83,88,95	1	44	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+10	27365105	27365143	Fibroblast_GF_fam	375.0	-	27365105	27365143	83,88,95	1	38	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+10	27358882	27358941	Fibroblast_GF_fam	511.0	-	27358882	27358941	83,88,95	1	59	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+10	27353441	27365405	Cytokine_IL1-like	0.0	-	27353441	27365405	83,88,95	4	11874,-103,-198,11921	0,11767,5509,43	SSF50353	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50353

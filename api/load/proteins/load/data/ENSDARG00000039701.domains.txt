@@ -1,21 +1,9 @@
-browser position chr13:19367592-19372563
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000039701	ENSDART00000058036	ENSDARP00000058035	19367592	19372563	###
-#	PR00024	IPR020479	186	196	\N	1.2e-05	64.19	LSLTETQVKVW
-13	19369769	19371368	Homeobox_metazoa_(PR00024)	416.0	+
-#	PR00024	IPR020479	171	182	\N	1.2e-05	29.79	NHYVVGAERKQL
-13	19369724	19369759	Homeobox_metazoa_(PR00024)	171.0	+
-#	PR00031	IPR000047	187	203	\N	5.9999999999999995e-05	59.62	SLTETQVKVWFQNRRTK
-13	19369772	19371389	HTH_motif_(PR00031)	580.0	+
-#	PR00031	IPR000047	178	187	\N	5.9999999999999995e-05	39.81	ERKQLAHSLS
-13	19369745	19369774	HTH_motif_(PR00031)	172.0	+
-#	PR00024	IPR020479	196	205	\N	1.2e-05	76.62	WFQNRRTKFK
-13	19371366	19371395	Homeobox_metazoa_(PR00024)	459.0	+
-#	PF00046	IPR001356	150	206	\N	8e-26	0.0	KRIRTAFSPSQLLRLEHAFEKNHYVVGAERKQLAHSLSLTETQVKVWFQNRRTKFKR
-13	19369661	19371398	Homeobox_dom_(PF00046)	76.0	+
-#	SM00389	IPR001356	149	211	\N	1.8000000000000004e-26	0.0	PKRIRTAFSPSQLLRLEHAFEKNHYVVGAERKQLAHSLSLTETQVKVWFQNRRTKFKRQKLEE
-13	19369658	19371413	Homeobox_dom_(SM00389)	103.9	+
-#	PS50071	IPR001356	147	207	\N	0.0	0.0	RKPKRIRTAFSPSQLLRLEHAFEKNHYVVGAERKQLAHSLSLTETQVKVWFQNRRTKFKRQ
-13	19369652	19371401	Homeobox_dom_(PS50071)	20.779	+
-#	SSF46689	IPR009057	123	210	\N	5.799999999999999e-23	0.0	RYLGHRFQGNETSPESFLLHNALARKPKRIRTAFSPSQLLRLEHAFEKNHYVVGAERKQLAHSLSLTETQVKVWFQNRRTKFKRQKLE
-13	19368161	19371410	Homeodomain-like_(SSF46689)	0.0	+
+13	19369769	19371368	Homeobox_metazoa	416.0	+	19369769	19371368	83,88,95	2	20,11	0,1588	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
+13	19369724	19369759	Homeobox_metazoa	171.0	+	19369724	19369759	83,88,95	1	35	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
+13	19369772	19371389	HTH_motif	580.0	+	19369772	19371389	83,88,95	2	17,32	0,1585	PR00031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00031
+13	19369745	19369774	HTH_motif	172.0	+	19369745	19369774	83,88,95	1	29	0	PR00031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00031
+13	19371366	19371395	Homeobox_metazoa	459.0	+	19371366	19371395	83,88,95	1	29	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
+13	19369661	19371398	Homeobox_dom	76.0	+	19369661	19371398	83,88,95	2	128,41	0,1696	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
+13	19369658	19371413	Homeobox_dom	103.9	+	19369658	19371413	83,88,95	2	131,56	0,1699	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
+13	19369652	19371401	Homeobox_dom	20.779	+	19369652	19371401	83,88,95	2	137,44	0,1705	PS50071	http://www.expasy.ch/prosite/PS50071
+13	19368161	19371410	Homeodomain-like	0.0	+	19368161	19371410	83,88,95	3	24,184,53	0,1444,3196	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

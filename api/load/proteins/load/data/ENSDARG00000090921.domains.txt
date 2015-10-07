@@ -1,15 +1,6 @@
-browser position chr22:41578654-41584044
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000090921	ENSDART00000131178	ENSDARP00000108273	41578654	41584044	###
-#	SM00183	IPR000663	96	119	\N	1.6e-06	0.0	GATARSGCFGHKMDRIGTMSGMGC
-22	41580462	41580533	Natr_peptide_(SM00183)	37.7	-
-#	PF00212	IPR000663	85	119	\N	2.5e-17	0.0	TRRHRAGSKKGGATARSGCFGHKMDRIGTMSGMGC
-22	41580462	41580566	Natr_peptide_(PF00212)	49.3	-
-#	PR00712	IPR002408	111	124	\N	6.500000000000001e-05	38.78	IGTMSGMGCQPSHY
-22	41580447	41580488	Natriuretic_peptide_brain_(PR00712)	292.0	-
-#	PR00712	IPR002408	101	111	\N	6.500000000000001e-05	77.92	SGCFGHKMDRI
-22	41580486	41580518	Natriuretic_peptide_brain_(PR00712)	513.0	-
-#	PR00710	IPR000663	109	118	\N	3.9e-05	72.05	DRIGTMSGMG
-22	41580465	41580494	Natr_peptide_(PR00710)	400.0	-
-#	PR00710	IPR000663	100	109	\N	3.9e-05	61.54	RSGCFGHKMD
-22	41580492	41580521	Natr_peptide_(PR00710)	369.0	-
+22	41580462	41580533	Natr_peptide	37.7	-	41580462	41580533	83,88,95	1	71	0	SM00183	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00183
+22	41580462	41580566	Natr_peptide	49.3	-	41580462	41580566	83,88,95	1	104	0	PF00212	http://pfam.sanger.ac.uk/family?acc=PF00212
+22	41580447	41580488	Natriuretic_peptide_brain	292.0	-	41580447	41580488	83,88,95	1	41	0	PR00712	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00712&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00712
+22	41580486	41580518	Natriuretic_peptide_brain	513.0	-	41580486	41580518	83,88,95	1	32	0	PR00712	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00712&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00712
+22	41580465	41580494	Natr_peptide	400.0	-	41580465	41580494	83,88,95	1	29	0	PR00710	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00710&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00710
+22	41580492	41580521	Natr_peptide	369.0	-	41580492	41580521	83,88,95	1	29	0	PR00710	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00710&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00710

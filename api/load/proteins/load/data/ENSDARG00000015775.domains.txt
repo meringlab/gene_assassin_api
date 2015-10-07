@@ -1,17 +1,7 @@
-browser position chrZv9_NA963:1-14235
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000015775	ENSDART00000025036	ENSDARP00000002791	1	14235	###
-#	PF10580	IPR018947	1	32	\N	5.7000000000000004e-27	0.0	MLCCIRRTKPVEKNEEADQEIKQDGIKPEENA
-Zv9_NA963	102	10951	Neuromodulin_gap-junction_N_(PF10580)	80.6	+
-#	PF00612	IPR000048	33	53	\N	5.5e-10	0.0	HKAATKIQASFRGHITRKKMK
-Zv9_NA963	10952	11014	IQ_motif_EF-hand-BS_(PF00612)	25.9	+
-#	SM00015	IPR000048	31	53	\N	3.9e-05	0.0	NAHKAATKIQASFRGHITRKKMK
-Zv9_NA963	10946	11014	IQ_motif_EF-hand-BS_(SM00015)	33.1	+
-#	PS50096	IPR000048	32	61	\N	0.0	0.0	AHKAATKIQASFRGHITRKKMKDGEKEEEN
-Zv9_NA963	10949	11038	IQ_motif_EF-hand-BS_(PS50096)	11.793	+
-#	PR00215	IPR001422	2	16	\N	3.3e-27	83.7	LCCIRRTKPVEKNEE
-Zv9_NA963	105	10903	Neuromodulin_(PR00215)	715.0	+
-#	PR00215	IPR001422	18	37	\N	3.3e-27	80.56	DQEIKQDGIKPEENAHKAAT
-Zv9_NA963	10907	10966	Neuromodulin_(PR00215)	866.0	+
-#	PR00215	IPR001422	38	58	\N	3.3e-27	80.95	KIQASFRGHITRKKMKDGEKE
-Zv9_NA963	10967	11029	Neuromodulin_(PR00215)	863.0	+
+Zv9_NA963	102	10951	Neuromodulin_gap-junction_N	80.6	+	102	10951	83,88,95	2	29,65	0,10784	PF10580	http://pfam.sanger.ac.uk/family?acc=PF10580
+Zv9_NA963	10952	11014	IQ_motif_EF-hand-BS	25.9	+	10952	11014	83,88,95	1	62	0	PF00612	http://pfam.sanger.ac.uk/family?acc=PF00612
+Zv9_NA963	10946	11014	IQ_motif_EF-hand-BS	33.1	+	10946	11014	83,88,95	1	68	0	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
+Zv9_NA963	10949	11038	IQ_motif_EF-hand-BS	11.793	+	10949	11038	83,88,95	1	89	0	PS50096	http://www.expasy.ch/prosite/PS50096
+Zv9_NA963	105	10903	Neuromodulin	715.0	+	105	10903	83,88,95	2	26,17	0,10781	PR00215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00215
+Zv9_NA963	10907	10966	Neuromodulin	866.0	+	10907	10966	83,88,95	1	59	0	PR00215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00215
+Zv9_NA963	10967	11029	Neuromodulin	863.0	+	10967	11029	83,88,95	1	62	0	PR00215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00215

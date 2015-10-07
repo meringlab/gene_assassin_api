@@ -1,15 +1,6 @@
-browser position chr3:8809413-8812000
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000094959	ENSDART00000138670	ENSDARP00000115333	8809413	8812000	###
-#	PF01129	IPR000768	27	217	\N	7.799999999999999e-48	0.0	LDMAEDSVDDQFDGCSAEMGKLVLDTYLKEEFKKSRNYSIAWLEASKIYKELDLIAIHVYTNNGLKVFRNLNTDARNGKSNYKTLKYNWYSLHFFLTKGLQKLKGECHNTYRATTMDVNVVKESEVRFGSFTSTSLDKKVIEGYGGTTCFEIHTCEGAHIEKYSKYPEEREVLIPPYEKFKVKDIKKRKDK
-3	8811279	8811851	ART_(PF01129)	148.8	+
-#	PR00970	IPR000768	28	49	\N	6.900000000000001e-28	42.42	DMAEDSVDDQFDGCSAEMGKLV
-3	8811282	8811347	ART_(PR00970)	476.0	+
-#	PR00970	IPR000768	113	129	\N	6.900000000000001e-28	40.39	YNWYSLHFFLTKGLQKL
-3	8811537	8811587	ART_(PR00970)	406.0	+
-#	PR00970	IPR000768	152	167	\N	6.900000000000001e-28	57.08	VRFGSFTSTSLDKKVI
-3	8811654	8811701	ART_(PR00970)	421.0	+
-#	PR00970	IPR000768	174	190	\N	6.900000000000001e-28	47.84	TCFEIHTCEGAHIEKYS
-3	8811720	8811770	ART_(PR00970)	390.0	+
-#	PR00970	IPR000768	195	210	\N	6.900000000000001e-28	55.83	EREVLIPPYEKFKVKD
-3	8811783	8811830	ART_(PR00970)	415.0	+
+3	8811279	8811851	ART	148.8	+	8811279	8811851	83,88,95	1	572	0	PF01129	http://pfam.sanger.ac.uk/family?acc=PF01129
+3	8811282	8811347	ART	476.0	+	8811282	8811347	83,88,95	1	65	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	8811537	8811587	ART	406.0	+	8811537	8811587	83,88,95	1	50	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	8811654	8811701	ART	421.0	+	8811654	8811701	83,88,95	1	47	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	8811720	8811770	ART	390.0	+	8811720	8811770	83,88,95	1	50	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	8811783	8811830	ART	415.0	+	8811783	8811830	83,88,95	1	47	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970

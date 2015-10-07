@@ -1,13 +1,5 @@
-browser position chr1:22280619-22331971
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000055099	ENSDART00000077394	ENSDARP00000071861	22281185	22331792	###
-#	PR00194	IPR000533	135	152	\N	3.2e-06	25.13	ETSDLRRDYQNLQTDRDN
-1	22310214	22310267	Tropomyosin_(PR00194)	192.0	-
-#	PR00194	IPR000533	184	204	\N	3.2e-06	35.41	REEEEKMQRVEEERKKEMEEK
-1	22310058	22310120	Tropomyosin_(PR00194)	324.0	-
-#	PR00194	IPR000533	212	240	\N	3.2e-06	16.5	NRVSQERKRVEEEYEVKLKTARKEVQVLR
-1	22309950	22310036	Tropomyosin_(PR00194)	198.0	-
-#	PR00194	IPR000533	253	276	\N	3.2e-06	22.49	DMEEWKKRVKEMEDERKDEQEAAK
-1	22309842	22309913	Tropomyosin_(PR00194)	225.0	-
-#	PR00194	IPR000533	315	340	\N	3.2e-06	32.41	DLEVREQRLNESNRHCSKLQERVEDL
-1	22306928	22309727	Tropomyosin_(PR00194)	361.0	-
+1	22310214	22310267	Tropomyosin	192.0	-	22310214	22310267	83,88,95	1	53	0	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+1	22310058	22310120	Tropomyosin	324.0	-	22310058	22310120	83,88,95	1	62	0	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+1	22309950	22310036	Tropomyosin	198.0	-	22309950	22310036	83,88,95	1	86	0	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+1	22309842	22309913	Tropomyosin	225.0	-	22309842	22309913	83,88,95	1	71	0	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+1	22306928	22309727	Tropomyosin	361.0	-	22306928	22309727	83,88,95	2	2728,2794	0,5	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194

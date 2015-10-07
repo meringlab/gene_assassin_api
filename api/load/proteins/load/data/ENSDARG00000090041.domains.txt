@@ -1,39 +1,18 @@
-browser position chr21:7280102-7299833
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000090041	ENSDART00000123623	ENSDARP00000109403	7280102	7299833	###
-#	PS50262	IPR017452	127	378	\N	0.0	0.0	LNALALVTFTCRIREKKPAVIYMSHLACVDLLFALLLPLKIHYQLNASDWLFGEAACRVLTAAYYCYMYCSILLMMCMSVDRLLAVVFPVASLTWRNARKASFICALVWLLALAGTVPLLCITQTFRIKDVGVTCHNVLYNTQLYAYLLSSLSCLYFFLPLVVVLVSYSRIIYVLNAKSDHLAASSSSNKRRAVIMTVFVLIEFVVCFAPTNVILLHHCVRLATEGSAEGGKYYMLAVCLGSASVFLDPLLY
-21	7280314	7281069	GPCR_Rhodpsn_7TM_(PS50262)	35.939	-
-#	PF00001	IPR000276	128	378	\N	3.8e-45	0.0	NALALVTFTCRIREKKPAVIYMSHLACVDLLFALLLPLKIHYQLNASDWLFGEAACRVLTAAYYCYMYCSILLMMCMSVDRLLAVVFPVASLTWRNARKASFICALVWLLALAGTVPLLCITQTFRIKDVGVTCHNVLYNTQLYAYLLSSLSCLYFFLPLVVVLVSYSRIIYVLNAKSDHLAASSSSNKRRAVIMTVFVLIEFVVCFAPTNVILLHHCVRLATEGSAEGGKYYMLAVCLGSASVFLDPLLY
-21	7280314	7281066	GPCR_Rhodpsn_(PF00001)	141.3	-
-#	PF10323	IPR019426	188	337	\N	8.599999999999999e-10	0.0	AAYYCYMYCSILLMMCMSVDRLLAVVFPVASLTWRNARKASFICALVWLLALAGTVPLLCITQTFRIKDVGVTCHNVLYNTQLYAYLLSSLSCLYFFLPLVVVLVSYSRIIYVLNAKSDHLAASSSSNKRRAVIMTVFVLIEFVVCFAPT
-21	7280437	7280886	7TM_GPCR_serpentine_rcpt_Srv_(PF10323)	25.5	-
-#	PR00237	IPR000276	112	136	\N	3.2000000000000003e-28	20.07	FMPSFFIIIILLSLPLNALALVTFT
-21	7281040	7281114	GPCR_Rhodpsn_(PR00237)	181.0	-
-#	PR00237	IPR000276	145	166	\N	3.2000000000000003e-28	29.48	AVIYMSHLACVDLLFALLLPLK
-21	7280950	7281015	GPCR_Rhodpsn_(PR00237)	200.0	-
-#	PR00237	IPR000276	190	212	\N	3.2000000000000003e-28	27.16	YYCYMYCSILLMMCMSVDRLLAV
-21	7280812	7280880	GPCR_Rhodpsn_(PR00237)	262.0	-
-#	PR00237	IPR000276	226	247	\N	3.2000000000000003e-28	24.0	KASFICALVWLLALAGTVPLLC
-21	7280707	7280772	GPCR_Rhodpsn_(PR00237)	228.0	-
-#	PR00237	IPR000276	275	298	\N	3.2000000000000003e-28	27.08	LSSLSCLYFFLPLVVVLVSYSRII
-21	7280554	7280625	GPCR_Rhodpsn_(PR00237)	282.0	-
-#	PR00237	IPR000276	319	343	\N	3.2000000000000003e-28	23.58	AVIMTVFVLIEFVVCFAPTNVILLH
-21	7280419	7280493	GPCR_Rhodpsn_(PR00237)	247.0	-
-#	PR00237	IPR000276	360	386	\N	3.2000000000000003e-28	25.06	YMLAVCLGSASVFLDPLLYYYGSSQFR
-21	7280290	7280370	GPCR_Rhodpsn_(PR00237)	302.0	-
-#	PR00908	IPR000935	96	112	\N	3.3e-10	36.27	ISDQAVEFLKGPLVTRF
-21	7281112	7281162	Thrmbn_rcpt_(PR00908)	269.0	-
-#	PR00908	IPR000935	138	151	\N	3.3e-10	57.14	RIREKKPAVIYMSH
-21	7280995	7281036	Thrmbn_rcpt_(PR00908)	483.0	-
-#	PR00908	IPR000935	217	231	\N	3.3e-10	47.78	ASLTWRNARKASFIC
-21	7280755	7280799	Thrmbn_rcpt_(PR00908)	416.0	-
-#	PR00908	IPR000935	270	283	\N	3.3e-10	39.29	LYAYLLSSLSCLYF
-21	7280599	7280640	Thrmbn_rcpt_(PR00908)	336.0	-
-#	PR01428	IPR003912	100	117	\N	1.2e-08	28.57	AVEFLKGPLVTRFMPSFF
-21	7281097	7281150	Protea_act_rcpt_(PR01428)	268.0	-
-#	PR01428	IPR003912	168	182	\N	1.2e-08	44.76	HYQLNASDWLFGEAA
-21	7280902	7280946	Protea_act_rcpt_(PR01428)	418.0	-
-#	PR01428	IPR003912	275	286	\N	1.2e-08	34.52	LSSLSCLYFFLP
-21	7280590	7280625	Protea_act_rcpt_(PR01428)	158.0	-
-#	PR01428	IPR003912	321	334	\N	1.2e-08	31.63	IMTVFVLIEFVVCF
-21	7280446	7280487	Protea_act_rcpt_(PR01428)	235.0	-
+21	7280314	7281069	GPCR_Rhodpsn_7TM	35.939	-	7280314	7281069	83,88,95	1	755	0	PS50262	http://www.expasy.ch/prosite/PS50262
+21	7280314	7281066	GPCR_Rhodpsn	141.3	-	7280314	7281066	83,88,95	1	752	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+21	7280437	7280886	7TM_GPCR_serpentine_rcpt_Srv	25.5	-	7280437	7280886	83,88,95	1	449	0	PF10323	http://pfam.sanger.ac.uk/family?acc=PF10323
+21	7281040	7281114	GPCR_Rhodpsn	181.0	-	7281040	7281114	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	7280950	7281015	GPCR_Rhodpsn	200.0	-	7280950	7281015	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	7280812	7280880	GPCR_Rhodpsn	262.0	-	7280812	7280880	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	7280707	7280772	GPCR_Rhodpsn	228.0	-	7280707	7280772	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	7280554	7280625	GPCR_Rhodpsn	282.0	-	7280554	7280625	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	7280419	7280493	GPCR_Rhodpsn	247.0	-	7280419	7280493	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	7280290	7280370	GPCR_Rhodpsn	302.0	-	7280290	7280370	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	7281112	7281162	Thrmbn_rcpt	269.0	-	7281112	7281162	83,88,95	1	50	0	PR00908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00908
+21	7280995	7281036	Thrmbn_rcpt	483.0	-	7280995	7281036	83,88,95	1	41	0	PR00908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00908
+21	7280755	7280799	Thrmbn_rcpt	416.0	-	7280755	7280799	83,88,95	1	44	0	PR00908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00908
+21	7280599	7280640	Thrmbn_rcpt	336.0	-	7280599	7280640	83,88,95	1	41	0	PR00908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00908
+21	7281097	7281150	Protea_act_rcpt	268.0	-	7281097	7281150	83,88,95	1	53	0	PR01428	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01428&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01428
+21	7280902	7280946	Protea_act_rcpt	418.0	-	7280902	7280946	83,88,95	1	44	0	PR01428	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01428&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01428
+21	7280590	7280625	Protea_act_rcpt	158.0	-	7280590	7280625	83,88,95	1	35	0	PR01428	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01428&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01428
+21	7280446	7280487	Protea_act_rcpt	235.0	-	7280446	7280487	83,88,95	1	41	0	PR01428	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01428&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01428

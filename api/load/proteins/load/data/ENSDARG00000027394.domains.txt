@@ -1,7 +1,2 @@
-browser position chr7:34056993-34081860
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000027394	ENSDART00000126565	ENSDARP00000108478	34056993	34081860	###
-#	PR01077	IPR006187	197	218	\N	6.5000000000000004e-06	24.26	DLMQYVAGLLFLMGGTCCIISL
-7	34074264	34076700	Claudin_(PR01077)	264.0	+
-#	PR01077	IPR006187	244	268	\N	6.5000000000000004e-06	26.54	SHGYGWSMFCAWGGLGLTLLAGFLC
-7	34076776	34076850	Claudin_(PR01077)	322.0	+
+7	34074264	34076700	Claudin	264.0	+	34074264	34076700	83,88,95	2	42,22	0,2414	PR01077	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01077&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01077
+7	34076776	34076850	Claudin	322.0	+	34076776	34076850	83,88,95	1	74	0	PR01077	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01077&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01077

@@ -1,29 +1,13 @@
-browser position chr7:33259493-33276180
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000018817	ENSDART00000014843	ENSDARP00000010990	33259493	33267233	###
-#	PF00243	IPR002072	155	270	\N	5.799999999999999e-61	0.0	PARRGELSVCDSISQWVTAVDKKTAIDMSGQTVTVLEKVPVTNGQLKQYFYETKCNPLGYTKEGCRGIDKRHYNSQCRTTQSYVRALTMDSKRKIGWRFIRIDTSCVCTLTIKRGR
-7	33260245	33260592	Nerve_growth_factor-rel_(PF00243)	189.9	-
-#	PR01912	IPR020430	10	22	\N	3.2e-34	81.01	ISYFSCMRAAPMR
-7	33260989	33261027	Brain-der_neurotrophic_factor_(PR01912)	606.0	-
-#	PR01912	IPR020430	65	80	\N	3.2e-34	78.86	SLTDTFEQVIEELLEV
-7	33260815	33260862	Brain-der_neurotrophic_factor_(PR01912)	584.0	-
-#	PR01912	IPR020430	128	144	\N	3.2e-34	100.0	PLLFLLEEYKNYLDAAN
-7	33260623	33260673	Brain-der_neurotrophic_factor_(PR01912)	880.0	-
-#	PR01912	IPR020430	190	201	\N	3.2e-34	84.4	LEKVPVTNGQLK
-7	33260452	33260487	Brain-der_neurotrophic_factor_(PR01912)	502.0	-
-#	PR01912	IPR020430	209	218	\N	3.2e-34	87.66	CNPLGYTKEG
-7	33260401	33260430	Brain-der_neurotrophic_factor_(PR01912)	554.0	-
-#	PR00268	IPR002072	159	171	\N	9.7e-31	82.31	GELSVCDSISQWV
-7	33260542	33260580	Nerve_growth_factor-rel_(PR00268)	588.0	-
-#	PR00268	IPR002072	200	210	\N	9.7e-31	81.97	LKQYFYETKCN
-7	33260425	33260457	Nerve_growth_factor-rel_(PR00268)	539.0	-
-#	PR00268	IPR002072	218	244	\N	9.7e-31	77.11	GCRGIDKRHYNSQCRTTQSYVRALTMD
-7	33260323	33260403	Nerve_growth_factor-rel_(PR00268)	1179.0	-
-#	PR00268	IPR002072	251	263	\N	9.7e-31	89.02	WRFIRIDTSCVCT
-7	33260266	33260304	Nerve_growth_factor-rel_(PR00268)	704.0	-
-#	SM00140	IPR002072	156	263	\N	1.3999999999999996e-80	0.0	ARRGELSVCDSISQWVTAVDKKTAIDMSGQTVTVLEKVPVTNGQLKQYFYETKCNPLGYTKEGCRGIDKRHYNSQCRTTQSYVRALTMDSKRKIGWRFIRIDTSCVCT
-7	33260266	33260589	Nerve_growth_factor-rel_(SM00140)	283.7	-
-#	PS50270	IPR002072	154	270	\N	0.0	0.0	DPARRGELSVCDSISQWVTAVDKKTAIDMSGQTVTVLEKVPVTNGQLKQYFYETKCNPLGYTKEGCRGIDKRHYNSQCRTTQSYVRALTMDSKRKIGWRFIRIDTSCVCTLTIKRGR
-7	33260245	33260595	Nerve_growth_factor-rel_(PS50270)	54.07	-
-#	PIRSF001789	IPR020408	1	270	\N	1.9999999999999995e-153	0.0	MTILFVTMVISYFSCMRAAPMREIPGVQGGHRAEGYLGAAAAAAAAVTSGSRGHGTPQSGGGLPSLTDTFEQVIEELLEVEGEATQQLGPGADQGQGGGGPIDAADSKDVDLYASRVMISNQVPLEPPLLFLLEEYKNYLDAANMSMRVRRHSDPARRGELSVCDSISQWVTAVDKKTAIDMSGQTVTVLEKVPVTNGQLKQYFYETKCNPLGYTKEGCRGIDKRHYNSQCRTTQSYVRALTMDSKRKIGWRFIRIDTSCVCTLTIKRGR
-7	33260245	33261054	Nerve_growth_factor-like_(PIRSF001789)	518.7	-
+7	33260245	33260592	Nerve_growth_factor-rel	189.9	-	33260245	33260592	83,88,95	1	347	0	PF00243	http://pfam.sanger.ac.uk/family?acc=PF00243
+7	33260989	33261027	Brain-der_neurotrophic_factor	606.0	-	33260989	33261027	83,88,95	1	38	0	PR01912	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01912&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01912
+7	33260815	33260862	Brain-der_neurotrophic_factor	584.0	-	33260815	33260862	83,88,95	1	47	0	PR01912	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01912&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01912
+7	33260623	33260673	Brain-der_neurotrophic_factor	880.0	-	33260623	33260673	83,88,95	1	50	0	PR01912	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01912&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01912
+7	33260452	33260487	Brain-der_neurotrophic_factor	502.0	-	33260452	33260487	83,88,95	1	35	0	PR01912	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01912&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01912
+7	33260401	33260430	Brain-der_neurotrophic_factor	554.0	-	33260401	33260430	83,88,95	1	29	0	PR01912	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01912&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01912
+7	33260542	33260580	Nerve_growth_factor-rel	588.0	-	33260542	33260580	83,88,95	1	38	0	PR00268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00268
+7	33260425	33260457	Nerve_growth_factor-rel	539.0	-	33260425	33260457	83,88,95	1	32	0	PR00268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00268
+7	33260323	33260403	Nerve_growth_factor-rel	1179.0	-	33260323	33260403	83,88,95	1	80	0	PR00268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00268
+7	33260266	33260304	Nerve_growth_factor-rel	704.0	-	33260266	33260304	83,88,95	1	38	0	PR00268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00268
+7	33260266	33260589	Nerve_growth_factor-rel	283.7	-	33260266	33260589	83,88,95	1	323	0	SM00140	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00140
+7	33260245	33260595	Nerve_growth_factor-rel	54.07	-	33260245	33260595	83,88,95	1	350	0	PS50270	http://www.expasy.ch/prosite/PS50270
+7	33260245	33261054	Nerve_growth_factor-like	518.7	-	33260245	33261054	83,88,95	1	809	0	PIRSF001789	None

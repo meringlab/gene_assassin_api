@@ -1,53 +1,25 @@
-browser position chr1:52709821-52717915
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000017193	ENSDART00000010236	ENSDARP00000003525	52709821	52717915	###
-#	PF00402	IPR000557	245	266	\N	5.5e-10	0.0	SLQMGTNKVPSQSGLTPMGGAR
-1	52709887	52709952	Calponin_repeat_(PF00402)	26.6	-
-#	PF00307	IPR001715	29	127	\N	1.1000000000000002e-19	0.0	TEEDLRMWVQEITGRTLAENFMEGLKDGVILCELINKLQPGSVPKVNHSTLNWHKLENITHFVRAIGEYGLKPHDIFEANDLFEDMNHTQVQCTLVALA
-1	52715133	52716006	CH-domain_(PF00307)	58.5	-
-#	PF11971	IPR022613	36	91	\N	2.5e-08	0.0	WVQEITGRTLAENFMEGLKDGVILCELINKLQPGSVPKVNHSTLNWHKLENITHFV
-1	52715241	52715985	CAMSAP_CH_(PF11971)	21.5	-
-#	PR00889	IPR001997	260	277	\N	3e-41	45.56	TPMGGARLVYDRKYCVKA
-1	52709854	52709907	Calponin_(PR00889)	384.0	-
-#	PR00889	IPR001997	202	217	\N	3e-41	70.62	RSTINLQMGTNKCASM
-1	52710468	52710515	Calponin_(PR00889)	550.0	-
-#	PR00889	IPR001997	183	202	\N	3e-41	63.5	YGTRRHLYEPKIGMEKPADR
-1	52710513	52710572	Calponin_(PR00889)	769.0	-
-#	PR00889	IPR001997	112	127	\N	3e-41	70.62	EDMNHTQVQCTLVALA
-1	52715133	52715180	Calponin_(PR00889)	518.0	-
-#	PR00889	IPR001997	60	77	\N	3e-41	80.56	CELINKLQPGSVPKVNHS
-1	52715773	52715913	Calponin_(PR00889)	756.0	-
-#	PR00889	IPR001997	31	45	\N	3e-41	40.67	EDLRMWVQEITGRTL
-1	52715956	52716000	Calponin_(PR00889)	444.0	-
-#	PR00888	IPR003096	166	181	\N	1.1e-54	70.59	SQQMGSNKFASQKGMT
-1	52710576	52712450	SM22_calponin_(PR00888)	539.0	-
-#	PR00888	IPR003096	153	166	\N	1.1e-54	37.39	FNPDKMKAGKSIIS
-1	52712448	52712489	SM22_calponin_(PR00888)	318.0	-
-#	PF00402	IPR000557	205	228	\N	1.7000000000000001e-09	0.0	INLQMGTNKCASMAGMFALGTARQ
-1	52710001	52710506	Calponin_repeat_(PF00402)	25.0	-
-#	PS50021	IPR001715	27	130	\N	0.0	0.0	PQTEEDLRMWVQEITGRTLAENFMEGLKDGVILCELINKLQPGSVPKVNHSTLNWHKLENITHFVRAIGEYGLKPHDIFEANDLFEDMNHTQVQCTLVALAGLA
-1	52712556	52716012	CH-domain_(PS50021)	17.247	-
-#	PS51122	IPR000557	165	190	\N	0.0	0.0	ISQQMGSNKFASQKGMTSYGTRRHLY
-1	52710549	52712453	Calponin_repeat_(PS51122)	14.534	-
-#	PS51122	IPR000557	205	230	\N	0.0	0.0	INLQMGTNKCASMAGMFALGTARQVT
-1	52709995	52710506	Calponin_repeat_(PS51122)	11.308	-
-#	PS51122	IPR000557	244	269	\N	0.0	0.0	VSLQMGTNKVPSQSGLTPMGGARLVY
-1	52709878	52709955	Calponin_repeat_(PS51122)	10.887	-
-#	SM00033	IPR001715	29	126	\N	1.7e-21	0.0	TEEDLRMWVQEITGRTLAENFMEGLKDGVILCELINKLQPGSVPKVNHSTLNWHKLENITHFVRAIGEYGLKPHDIFEANDLFEDMNHTQVQCTLVAL
-1	52715136	52716006	CH-domain_(SM00033)	87.4	-
-#	PR00888	IPR003096	98	113	\N	1.1e-54	65.81	GLKPHDIFEANDLFED
-1	52715175	52715222	SM22_calponin_(PR00888)	573.0	-
-#	PR00888	IPR003096	82	98	\N	1.1e-54	46.37	HKLENITHFVRAIGEYG
-1	52715220	52715760	SM22_calponin_(PR00888)	460.0	-
-#	PR00888	IPR003096	49	64	\N	1.1e-54	70.22	FMEGLKDGVILCELIN
-1	52715812	52715946	SM22_calponin_(PR00888)	609.0	-
-#	PR00888	IPR003096	25	38	\N	1.1e-54	47.9	YDPQTEEDLRMWVQ
-1	52715977	52716018	SM22_calponin_(PR00888)	420.0	-
-#	PF00402	IPR000557	165	190	\N	3.4000000000000004e-18	0.0	ISQQMGSNKFASQKGMTSYGTRRHLY
-1	52710549	52712453	Calponin_repeat_(PF00402)	52.8	-
-#	PR00888	IPR003096	6	20	\N	1.1e-54	55.69	SKGPTFGLSADVRNK
-1	52717710	52717754	SM22_calponin_(PR00888)	512.0	-
-#	PR00888	IPR003096	119	133	\N	1.1e-54	69.8	VQCTLVALAGLAKTK
-1	52712547	52715159	SM22_calponin_(PR00888)	447.0	-
-#	SSF47576	IPR001715	18	175	\N	3.1e-41	0.0	RNKLAQKYDPQTEEDLRMWVQEITGRTLAENFMEGLKDGVILCELINKLQPGSVPKVNHSTLNWHKLENITHFVRAIGEYGLKPHDIFEANDLFEDMNHTQVQCTLVALAGLAKTKGFYTKSDIGVKYAAKKQRKFNPDKMKAGKSIISQQMGSNKFA
-1	52710594	52717718	CH-domain_(SSF47576)	0.0	-
+1	52709887	52709952	Calponin_repeat	26.6	-	52709887	52709952	83,88,95	1	65	0	PF00402	http://pfam.sanger.ac.uk/family?acc=PF00402
+1	52715133	52716006	CH-domain	58.5	-	52715133	52716006	83,88,95	3	776,-66,742	0,688,131	PF00307	http://pfam.sanger.ac.uk/family?acc=PF00307
+1	52715241	52715985	CAMSAP_CH	21.5	-	52715241	52715985	83,88,95	3	668,-66,721	0,580,23	PF11971	http://pfam.sanger.ac.uk/family?acc=PF11971
+1	52709854	52709907	Calponin	384.0	-	52709854	52709907	83,88,95	1	53	0	PR00889	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00889&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00889
+1	52710468	52710515	Calponin	550.0	-	52710468	52710515	83,88,95	1	47	0	PR00889	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00889&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00889
+1	52710513	52710572	Calponin	769.0	-	52710513	52710572	83,88,95	1	59	0	PR00889	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00889&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00889
+1	52715133	52715180	Calponin	518.0	-	52715133	52715180	83,88,95	1	47	0	PR00889	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00889&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00889
+1	52715773	52715913	Calponin	756.0	-	52715773	52715913	83,88,95	2	136,92	0,48	PR00889	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00889&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00889
+1	52715956	52716000	Calponin	444.0	-	52715956	52716000	83,88,95	1	44	0	PR00889	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00889&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00889
+1	52710576	52712450	SM22_calponin	539.0	-	52710576	52712450	83,88,95	2	1866,1836	0,38	PR00888	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00888&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00888
+1	52712448	52712489	SM22_calponin	318.0	-	52712448	52712489	83,88,95	1	41	0	PR00888	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00888&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00888
+1	52710001	52710506	Calponin_repeat	25.0	-	52710001	52710506	83,88,95	2	467,473	0,32	PF00402	http://pfam.sanger.ac.uk/family?acc=PF00402
+1	52712556	52716012	CH-domain	17.247	-	52712556	52716012	83,88,95	4	3353,-66,-137,3454	0,3265,2708,2	PS50021	http://www.expasy.ch/prosite/PS50021
+1	52710549	52712453	Calponin_repeat	14.534	-	52710549	52712453	83,88,95	2	1893,1839	0,65	PS51122	http://www.expasy.ch/prosite/PS51122
+1	52709995	52710506	Calponin_repeat	11.308	-	52709995	52710506	83,88,95	2	473,473	0,38	PS51122	http://www.expasy.ch/prosite/PS51122
+1	52709878	52709955	Calponin_repeat	10.887	-	52709878	52709955	83,88,95	1	77	0	PS51122	http://www.expasy.ch/prosite/PS51122
+1	52715136	52716006	CH-domain	87.4	-	52715136	52716006	83,88,95	3	773,-66,742	0,685,128	SM00033	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00033
+1	52715175	52715222	SM22_calponin	573.0	-	52715175	52715222	83,88,95	1	47	0	PR00888	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00888&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00888
+1	52715220	52715760	SM22_calponin	460.0	-	52715220	52715760	83,88,95	2	535,496	0,44	PR00888	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00888&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00888
+1	52715812	52715946	SM22_calponin	609.0	-	52715812	52715946	83,88,95	2	97,125	0,9	PR00888	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00888&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00888
+1	52715977	52716018	SM22_calponin	420.0	-	52715977	52716018	83,88,95	1	41	0	PR00888	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00888&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00888
+1	52710549	52712453	Calponin_repeat	52.8	-	52710549	52712453	83,88,95	2	1893,1839	0,65	PF00402	http://pfam.sanger.ac.uk/family?acc=PF00402
+1	52717710	52717754	SM22_calponin	512.0	-	52717710	52717754	83,88,95	1	44	0	PR00888	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00888&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00888
+1	52712547	52715159	SM22_calponin	447.0	-	52712547	52715159	83,88,95	2	2580,2601	0,11	PR00888	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00888&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00888
+1	52710594	52717718	CH-domain	0.0	-	52710594	52717718	83,88,95	6	7116,-121,-66,-137,-116,7104	0,5436,5227,4670,1964,20	SSF47576	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47576

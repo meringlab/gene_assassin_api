@@ -1,11 +1,4 @@
-browser position chr22:7231900-7438348
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000071637	ENSDART00000106085	ENSDARP00000096863	7231900	7438348	###
-#	PF00858	IPR001873	22	189	\N	1.6999999999999997e-52	0.0	FASRSTLHGISHVFSYERQCVKRCLWVLFFMGSFTFLVVVCVDRIKFYFQYPHVTKLDEVTAPLMAFPAITFCNLNSFRFGRVTRNDLYHAGELLALLNGRYEIRDTHMVEESVLTTLKDKADFSSFKPRPFNMREFYDRTGHDIKEMLLSCYFRGSECSAEDFTVIF
-22	7231966	7438285	Na+channel_ASC_(PF00858)	164.8	-
-#	PR01078	IPR001873	44	61	\N	1.8e-05	17.78	RCLWVLFFMGSFTFLVVV
-22	7438166	7438219	Na+channel_ASC_(PR01078)	140.0	-
-#	PR01078	IPR001873	84	100	\N	1.8e-05	45.65	PLMAFPAITFCNLNSFR
-22	7438049	7438099	Na+channel_ASC_(PR01078)	463.0	-
-#	PR01078	IPR001873	170	181	\N	1.8e-05	35.67	LLSCYFRGSECS
-22	7397574	7397609	Na+channel_ASC_(PR01078)	289.0	-
+22	7231966	7438285	Na+channel_ASC	164.8	-	7231966	7438285	83,88,95	3	206018,-195,206314	0,165785,5	PF00858	http://pfam.sanger.ac.uk/family?acc=PF00858
+22	7438166	7438219	Na+channel_ASC	140.0	-	7438166	7438219	83,88,95	1	53	0	PR01078	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01078&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01078
+22	7438049	7438099	Na+channel_ASC	463.0	-	7438049	7438099	83,88,95	1	50	0	PR01078	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01078&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01078
+22	7397574	7397609	Na+channel_ASC	289.0	-	7397574	7397609	83,88,95	1	35	0	PR01078	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01078&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01078

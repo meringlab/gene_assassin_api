@@ -1,3 +1,1 @@
-browser position chr8:33457-35245
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000091708	ENSDART00000127785	ENSDARP00000104482	33457	35245	###
+8	33475	33712	AA-permease/SLC12A_dom	21.6	+	33475	33712	83,88,95	2	103,12	0,225	PF00324	http://pfam.sanger.ac.uk/family?acc=PF00324

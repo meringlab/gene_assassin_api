@@ -1,39 +1,18 @@
-browser position chr10:9338078-9360218
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000044254	ENSDART00000064974	ENSDARP00000064973	9338078	9360218	###
-#	PR00196	IPR001464	48	70	\N	3.5999999999999997e-57	54.35	EGIGTTEKTLIDILCQRSNAQRQ
-10	9358971	9359185	Annexin_(PR00196)	618.0	-
-#	PR00196	IPR001464	88	104	\N	3.5999999999999997e-57	32.68	LEGDTHGDFEDILVALI
-10	9358794	9358844	Annexin_(PR00196)	308.0	-
-#	PR00196	IPR001464	115	136	\N	3.5999999999999997e-57	57.24	FKRAIKGAGTKESLLIELLASR
-10	9355531	9358763	Annexin_(PR00196)	622.0	-
-#	PR00196	IPR001464	198	224	\N	3.5999999999999997e-57	55.97	LYEAGEKKWGTDESKFIDILCHRSVAQ
-10	9351874	9351954	Annexin_(PR00196)	727.0	-
-#	PR00196	IPR001464	278	298	\N	3.5999999999999997e-57	66.49	MKGTGTTESTLIRIIVSRSEL
-10	9346197	9351156	Annexin_(PR00196)	696.0	-
-#	PR00196	IPR001464	322	335	\N	3.5999999999999997e-57	57.94	ETSGDFRKALLKIC
-10	9338624	9338665	Annexin_(PR00196)	468.0	-
-#	PR00199	IPR002390	27	38	\N	4.8e-06	37.5	TVKEKTGFKPDE
-10	9359213	9359248	AnnexinIII_(PR00199)	249.0	-
-#	PR00199	IPR002390	70	79	\N	4.8e-06	57.5	QLICKAYQDN
-10	9358944	9358973	AnnexinIII_(PR00199)	231.0	-
-#	PR00199	IPR002390	98	110	\N	4.8e-06	57.69	DILVALITPPAKF
-10	9358776	9358814	AnnexinIII_(PR00199)	399.0	-
-#	PR00199	IPR002390	134	153	\N	4.8e-06	27.5	ASRSNYQIKAMRDAYLAETG
-10	9355399	9355539	AnnexinIII_(PR00199)	216.0	-
-#	PF00191	IPR018502	270	333	\N	9.5e-29	0.0	LAERLHKSMKGTGTTESTLIRIIVSRSELDLQDIKAEYKKLFGCSLYSTIESETSGDFRKALLK
-10	9338630	9351180	Annexin_repeat_(PF00191)	85.7	-
-#	SM00335	IPR018502	282	334	\N	9.199999999999999e-23	0.0	GTTESTLIRIIVSRSELDLQDIKAEYKKLFGCSLYSTIESETSGDFRKALLKI
-10	9338627	9346247	Annexin_repeat_(SM00335)	91.6	-
-#	SM00335	IPR018502	207	259	\N	6.4e-17	0.0	GTDESKFIDILCHRSVAQLRQTLVEYKSLSGRTLQESIEREMSGCLEDILVAI
-10	9351638	9351927	Annexin_repeat_(SM00335)	72.2	-
-#	SM00335	IPR018502	123	175	\N	1.6e-18	0.0	GTKESLLIELLASRSNYQIKAMRDAYLAETGRNLIDDLKSEVSGDFEKTLLNL
-10	9355333	9355572	Annexin_repeat_(SM00335)	77.5	-
-#	SM00335	IPR018502	51	103	\N	1.3999999999999999e-24	0.0	GTTEKTLIDILCQRSNAQRQLICKAYQDNTGRSLCDDLEGDTHGDFEDILVAL
-10	9358797	9359030	Annexin_repeat_(SM00335)	97.7	-
-#	PF00191	IPR018502	111	175	\N	3.1e-24	0.0	DCLEFKRAIKGAGTKESLLIELLASRSNYQIKAMRDAYLAETGRNLIDDLKSEVSGDFEKTLLNL
-10	9355333	9358775	Annexin_repeat_(PF00191)	71.2	-
-#	PF00191	IPR018502	38	103	\N	1.6e-29	0.0	EDAAELRKAIEGIGTTEKTLIDILCQRSNAQRQLICKAYQDNTGRSLCDDLEGDTHGDFEDILVAL
-10	9358797	9359215	Annexin_repeat_(PF00191)	88.2	-
-#	PF00191	IPR018502	194	259	\N	1.5e-26	0.0	DAKILYEAGEKKWGTDESKFIDILCHRSVAQLRQTLVEYKSLSGRTLQESIEREMSGCLEDILVAI
-10	9351638	9355167	Annexin_repeat_(PF00191)	78.7	-
+10	9358971	9359185	Annexin	618.0	-	9358971	9359185	83,88,95	2	205,156	0,58	PR00196	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00196&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00196
+10	9358794	9358844	Annexin	308.0	-	9358794	9358844	83,88,95	1	50	0	PR00196	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00196&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00196
+10	9355531	9358763	Annexin	622.0	-	9355531	9358763	83,88,95	2	3215,3185	0,47	PR00196	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00196&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00196
+10	9351874	9351954	Annexin	727.0	-	9351874	9351954	83,88,95	1	80	0	PR00196	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00196&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00196
+10	9346197	9351156	Annexin	696.0	-	9346197	9351156	83,88,95	2	4954,4903	0,56	PR00196	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00196&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00196
+10	9338624	9338665	Annexin	468.0	-	9338624	9338665	83,88,95	1	41	0	PR00196	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00196&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00196
+10	9359213	9359248	AnnexinIII	249.0	-	9359213	9359248	83,88,95	1	35	0	PR00199	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00199&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00199
+10	9358944	9358973	AnnexinIII	231.0	-	9358944	9358973	83,88,95	1	29	0	PR00199	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00199&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00199
+10	9358776	9358814	AnnexinIII	399.0	-	9358776	9358814	83,88,95	1	38	0	PR00199	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00199&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00199
+10	9355399	9355539	AnnexinIII	216.0	-	9355399	9355539	83,88,95	2	89,133	0,7	PR00199	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00199&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00199
+10	9338630	9351180	Annexin_repeat	85.7	-	9338630	9351180	83,88,95	3	12521,-122,12512	0,7623,38	PF00191	http://pfam.sanger.ac.uk/family?acc=PF00191
+10	9338627	9346247	Annexin_repeat	91.6	-	9338627	9346247	83,88,95	2	7504,7579	0,41	SM00335	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00335
+10	9351638	9351927	Annexin_repeat	72.2	-	9351638	9351927	83,88,95	2	226,195	0,94	SM00335	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00335
+10	9355333	9355572	Annexin_repeat	77.5	-	9355333	9355572	83,88,95	2	155,166	0,73	SM00335	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00335
+10	9358797	9359030	Annexin_repeat	97.7	-	9358797	9359030	83,88,95	2	138,171	0,62	SM00335	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00335
+10	9355333	9358775	Annexin_repeat	71.2	-	9355333	9358775	83,88,95	3	3413,-90,3369	0,245,73	PF00191	http://pfam.sanger.ac.uk/family?acc=PF00191
+10	9358797	9359215	Annexin_repeat	88.2	-	9358797	9359215	83,88,95	3	379,-94,356	0,232,62	PF00191	http://pfam.sanger.ac.uk/family?acc=PF00191
+10	9351638	9355167	Annexin_repeat	78.7	-	9351638	9355167	83,88,95	3	3521,-93,3435	0,319,94	PF00191	http://pfam.sanger.ac.uk/family?acc=PF00191

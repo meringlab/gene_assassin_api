@@ -1,19 +1,8 @@
-browser position chr12:49684020-49699500
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000033662	ENSDART00000050006	ENSDARP00000050005	49688998	49699500	###
-#	PF00487	IPR005804	67	274	\N	6.1000000000000005e-22	0.0	TLLWAFACFVYGGLGITAGVHRLWSHRSYKATLPLRIFLAIGNSMAFQNDIYEWSRDHRVHHKYSETDADPHNSNRGFFFSHVGWLLVRKHPEVIERGRKLELTDLKADKVVMFQRRFYKLSVVLMCFVVPTVVPCYMWGESLWIAYFIPTLLRYALGLNSTWLVNSAAHMWGNRPYDGNIGPRENRFVTFSAIGEGYHNYHHTFPYD
-12	49689196	49697492	Fatty_acid_desaturase-1_(PF00487)	64.6	+
-#	PR00075	IPR015876	261	275	\N	8.599999999999998e-74	81.75	GEGYHNYHHTFPYDY
-12	49697451	49697495	Fatty_acid_desaturase-1_core_(PR00075)	825.0	+
-#	PR00075	IPR015876	218	239	\N	8.599999999999998e-74	60.53	LLRYALGLNSTWLVNSAAHMWG
-12	49695369	49695434	Fatty_acid_desaturase-1_core_(PR00075)	712.0	+
-#	PR00075	IPR015876	185	203	\N	8.599999999999998e-74	44.04	YKLSVVLMCFVVPTVVPCY
-12	49695270	49695326	Fatty_acid_desaturase-1_core_(PR00075)	478.0	+
-#	PR00075	IPR015876	124	153	\N	8.599999999999998e-74	77.19	HRVHHKYSETDADPHNSNRGFFFSHVGWLL
-12	49692818	49692907	Fatty_acid_desaturase-1_core_(PR00075)	1451.0	+
-#	PR00075	IPR015876	87	107	\N	8.599999999999998e-74	71.93	HRLWSHRSYKATLPLRIFLAI
-12	49692042	49692104	Fatty_acid_desaturase-1_core_(PR00075)	841.0	+
-#	PR00075	IPR015876	64	86	\N	8.599999999999998e-74	41.42	HPLTLLWAFACFVYGGLGITAGV
-12	49689187	49692041	Fatty_acid_desaturase-1_core_(PR00075)	419.0	+
-#	PR00075	IPR015876	40	60	\N	8.599999999999998e-74	51.88	WRNVILMSLLHIAAVYGLFLI
-12	49689115	49689177	Fatty_acid_desaturase-1_core_(PR00075)	616.0	+
+12	49689196	49697492	Fatty_acid_desaturase-1	64.6	+	49689196	49697492	83,88,95	5	12,130,205,232,40	0,2799,3595,6070,8256	PF00487	http://pfam.sanger.ac.uk/family?acc=PF00487
+12	49697451	49697495	Fatty_acid_desaturase-1_core	825.0	+	49697451	49697495	83,88,95	1	44	0	PR00075	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00075&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00075
+12	49695369	49695434	Fatty_acid_desaturase-1_core	712.0	+	49695369	49695434	83,88,95	1	65	0	PR00075	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00075&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00075
+12	49695270	49695326	Fatty_acid_desaturase-1_core	478.0	+	49695270	49695326	83,88,95	1	56	0	PR00075	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00075&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00075
+12	49692818	49692907	Fatty_acid_desaturase-1_core	1451.0	+	49692818	49692907	83,88,95	1	89	0	PR00075	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00075&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00075
+12	49692042	49692104	Fatty_acid_desaturase-1_core	841.0	+	49692042	49692104	83,88,95	1	62	0	PR00075	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00075&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00075
+12	49689187	49692041	Fatty_acid_desaturase-1_core	419.0	+	49689187	49692041	83,88,95	2	21,46	0,2808	PR00075	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00075&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00075
+12	49689115	49689177	Fatty_acid_desaturase-1_core	616.0	+	49689115	49689177	83,88,95	1	62	0	PR00075	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00075&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00075

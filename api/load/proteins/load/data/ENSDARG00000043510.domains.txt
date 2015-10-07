@@ -1,13 +1,5 @@
-browser position chr20:14882685-14920060
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000043510	ENSDART00000124345	ENSDARP00000111163	14882685	14920060	###
-#	PR00219	IPR001388	166	185	\N	6e-23	53.38	QSQVDEVIDVMQENISKVIE
-20	14912465	14912524	Synaptobrevin_(PR00219)	601.0	+
-#	PR00219	IPR001388	186	205	\N	6e-23	45.0	RGERLDELQDKSESLSDNAS
-20	14912525	14916022	Synaptobrevin_(PR00219)	458.0	+
-#	PR00219	IPR001388	222	241	\N	6e-23	31.22	DTKMKMIVALVVVILLLIII
-20	14916071	14918970	Synaptobrevin_(PR00219)	357.0	+
-#	PF00957	IPR001388	158	244	\N	3.4999999999999993e-39	0.0	QNDKIRQVQSQVDEVIDVMQENISKVIERGERLDELQDKSESLSDNASAFSSRAKQLHRRMWWRDTKMKMIVALVVVILLLIIIVPV
-20	14909591	14919068	Synaptobrevin_(PF00957)	118.9	+
-#	PS50892	IPR001388	161	221	\N	0.0	0.0	KIRQVQSQVDEVIDVMQENISKVIERGERLDELQDKSESLSDNASAFSSRAKQLHRRMWWR
-20	14909600	14916070	Synaptobrevin_(PS50892)	19.785	+
+20	14912465	14912524	Synaptobrevin	601.0	+	14912465	14912524	83,88,95	1	59	0	PR00219	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00219&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00219
+20	14912525	14916022	Synaptobrevin	458.0	+	14912525	14916022	83,88,95	2	36,22	0,3475	PR00219	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00219&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00219
+20	14916071	14918970	Synaptobrevin	357.0	+	14916071	14918970	83,88,95	2	8,50	0,2849	PR00219	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00219&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00219
+20	14909591	14919068	Synaptobrevin	118.9	+	14909591	14919068	83,88,95	5	19,100,79,51,7	0,2870,6409,9329,9470	PF00957	http://pfam.sanger.ac.uk/family?acc=PF00957
+20	14909600	14916070	Synaptobrevin	19.785	+	14909600	14916070	83,88,95	3	10,100,70	0,2861,6400	PS50892	http://www.expasy.ch/prosite/PS50892

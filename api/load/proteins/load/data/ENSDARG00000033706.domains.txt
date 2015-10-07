@@ -1,45 +1,21 @@
-browser position chr8:31512119-31529898
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000033706	ENSDART00000138750	ENSDARP00000121566	31512119	31529695	###
-#	PF00001	IPR000276	24	287	\N	6.999999999999998e-65	0.0	GNVLVCWAVGLNSNLQSITNFFVVSLAVADIAVGVLAIPFSIVISTGFCANFYGCLFIACFVLVLTQSSIFSLLAIAIDRYIAIKIPLRYNSLVTGQRARGIIAICWVLSVIIGLTPMLGWHKARLQEGHNGTCPPGMMECLFEEVVVMDYMVYFNFFACVLVPLLLMLAIYLRIFMAARHQLKCIESKAIPCELKSRSTLQKEVHAAKSLAIIVGLFAVCWLPLHIINCFTLFCPECERPPALIMYLAIILSHANSVVNPFIY
-8	31519700	31529227	GPCR_Rhodpsn_(PF00001)	206.0	+
-#	PF10320	IPR019424	19	301	\N	3.3999999999999997e-19	0.0	LLSVLGNVLVCWAVGLNSNLQSITNFFVVSLAVADIAVGVLAIPFSIVISTGFCANFYGCLFIACFVLVLTQSSIFSLLAIAIDRYIAIKIPLRYNSLVTGQRARGIIAICWVLSVIIGLTPMLGWHKARLQEGHNGTCPPGMMECLFEEVVVMDYMVYFNFFACVLVPLLLMLAIYLRIFMAARHQLKCIESKAIPCELKSRSTLQKEVHAAKSLAIIVGLFAVCWLPLHIINCFTLFCPECERPPALIMYLAIILSHANSVVNPFIYAYRIREFRHTFRKI
-8	31519685	31529269	7TM_GPCR_olfarory/Srsx_(PF10320)	56.3	+
-#	PR00237	IPR000276	9	33	\N	1e-45	29.01	LYMILELLIALLSVLGNVLVCWAVG
-8	31519655	31519729	GPCR_Rhodpsn_(PR00237)	251.0	+
-#	PR00237	IPR000276	42	63	\N	1e-45	34.55	TNFFVVSLAVADIAVGVLAIPF
-8	31519754	31519819	GPCR_Rhodpsn_(PR00237)	354.0	+
-#	PR00237	IPR000276	85	107	\N	1e-45	38.63	VLVLTQSSIFSLLAIAIDRYIAI
-8	31519883	31519951	GPCR_Rhodpsn_(PR00237)	391.0	+
-#	PR00237	IPR000276	121	142	\N	1e-45	26.28	RARGIIAICWVLSVIIGLTPML
-8	31528727	31528792	GPCR_Rhodpsn_(PR00237)	253.0	+
-#	PR00237	IPR000276	176	199	\N	1e-45	25.03	VYFNFFACVLVPLLLMLAIYLRIF
-8	31528892	31528963	GPCR_Rhodpsn_(PR00237)	241.0	+
-#	PR00237	IPR000276	230	254	\N	1e-45	32.54	AAKSLAIIVGLFAVCWLPLHIINCF
-8	31529054	31529128	GPCR_Rhodpsn_(PR00237)	458.0	+
-#	PR00237	IPR000276	269	295	\N	1e-45	32.95	MYLAIILSHANSVVNPFIYAYRIREFR
-8	31529171	31529251	GPCR_Rhodpsn_(PR00237)	415.0	+
-#	PR00424	IPR001634	8	17	\N	2.6e-32	43.18	VLYMILELLI
-8	31519652	31519681	Adenosn_rcpt_(PR00424)	217.0	+
-#	PR00424	IPR001634	77	89	\N	2.6e-32	70.63	GCLFIACFVLVLT
-8	31519859	31519897	Adenosn_rcpt_(PR00424)	509.0	+
-#	PR00424	IPR001634	136	146	\N	2.6e-32	68.6	IGLTPMLGWHK
-8	31528772	31528804	Adenosn_rcpt_(PR00424)	489.0	+
-#	PR00424	IPR001634	164	183	\N	2.6e-32	68.18	CLFEEVVVMDYMVYFNFFAC
-8	31528856	31528915	Adenosn_rcpt_(PR00424)	771.0	+
-#	PR00424	IPR001634	221	234	\N	2.6e-32	61.36	RSTLQKEVHAAKSL
-8	31529027	31529068	Adenosn_rcpt_(PR00424)	373.0	+
-#	PR00424	IPR001634	269	279	\N	2.6e-32	68.6	MYLAIILSHAN
-8	31529171	31529203	Adenosn_rcpt_(PR00424)	412.0	+
-#	PR00553	IPR001513	29	41	\N	7.200000000000001e-16	72.31	CWAVGLNSNLQSI
-8	31519715	31519753	Adeno_A2A_rcpt_(PR00553)	578.0	+
-#	PR00553	IPR001513	69	77	\N	7.200000000000001e-16	64.44	TGFCANFYG
-8	31519835	31519861	Adeno_A2A_rcpt_(PR00553)	328.0	+
-#	PR00553	IPR001513	157	166	\N	7.200000000000001e-16	50.0	CPPGMMECLF
-8	31528835	31528864	Adeno_A2A_rcpt_(PR00553)	308.0	+
-#	PR00553	IPR001513	253	265	\N	7.200000000000001e-16	61.54	CFTLFCPECERPP
-8	31529123	31529161	Adeno_A2A_rcpt_(PR00553)	566.0	+
-#	PR00553	IPR001513	303	320	\N	7.200000000000001e-16	42.22	RYHILGRREPLSCNGSTR
-8	31529273	31529326	Adeno_A2A_rcpt_(PR00553)	406.0	+
-#	PS50262	IPR017452	24	287	\N	0.0	0.0	GNVLVCWAVGLNSNLQSITNFFVVSLAVADIAVGVLAIPFSIVISTGFCANFYGCLFIACFVLVLTQSSIFSLLAIAIDRYIAIKIPLRYNSLVTGQRARGIIAICWVLSVIIGLTPMLGWHKARLQEGHNGTCPPGMMECLFEEVVVMDYMVYFNFFACVLVPLLLMLAIYLRIFMAARHQLKCIESKAIPCELKSRSTLQKEVHAAKSLAIIVGLFAVCWLPLHIINCFTLFCPECERPPALIMYLAIILSHANSVVNPFIY
-8	31519700	31529227	GPCR_Rhodpsn_7TM_(PS50262)	42.358000000000004	+
+8	31519700	31529227	GPCR_Rhodpsn	206.0	+	31519700	31529227	83,88,95	2	265,525	0,9002	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+8	31519685	31529269	7TM_GPCR_olfarory/Srsx	56.3	+	31519685	31529269	83,88,95	2	280,567	0,9017	PF10320	http://pfam.sanger.ac.uk/family?acc=PF10320
+8	31519655	31519729	GPCR_Rhodpsn	251.0	+	31519655	31519729	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+8	31519754	31519819	GPCR_Rhodpsn	354.0	+	31519754	31519819	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+8	31519883	31519951	GPCR_Rhodpsn	391.0	+	31519883	31519951	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+8	31528727	31528792	GPCR_Rhodpsn	253.0	+	31528727	31528792	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+8	31528892	31528963	GPCR_Rhodpsn	241.0	+	31528892	31528963	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+8	31529054	31529128	GPCR_Rhodpsn	458.0	+	31529054	31529128	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+8	31529171	31529251	GPCR_Rhodpsn	415.0	+	31529171	31529251	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+8	31519652	31519681	Adenosn_rcpt	217.0	+	31519652	31519681	83,88,95	1	29	0	PR00424	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00424&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00424
+8	31519859	31519897	Adenosn_rcpt	509.0	+	31519859	31519897	83,88,95	1	38	0	PR00424	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00424&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00424
+8	31528772	31528804	Adenosn_rcpt	489.0	+	31528772	31528804	83,88,95	1	32	0	PR00424	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00424&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00424
+8	31528856	31528915	Adenosn_rcpt	771.0	+	31528856	31528915	83,88,95	1	59	0	PR00424	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00424&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00424
+8	31529027	31529068	Adenosn_rcpt	373.0	+	31529027	31529068	83,88,95	1	41	0	PR00424	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00424&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00424
+8	31529171	31529203	Adenosn_rcpt	412.0	+	31529171	31529203	83,88,95	1	32	0	PR00424	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00424&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00424
+8	31519715	31519753	Adeno_A2A_rcpt	578.0	+	31519715	31519753	83,88,95	1	38	0	PR00553	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00553&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00553
+8	31519835	31519861	Adeno_A2A_rcpt	328.0	+	31519835	31519861	83,88,95	1	26	0	PR00553	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00553&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00553
+8	31528835	31528864	Adeno_A2A_rcpt	308.0	+	31528835	31528864	83,88,95	1	29	0	PR00553	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00553&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00553
+8	31529123	31529161	Adeno_A2A_rcpt	566.0	+	31529123	31529161	83,88,95	1	38	0	PR00553	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00553&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00553
+8	31529273	31529326	Adeno_A2A_rcpt	406.0	+	31529273	31529326	83,88,95	1	53	0	PR00553	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00553&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00553
+8	31519700	31529227	GPCR_Rhodpsn_7TM	42.358000000000004	+	31519700	31529227	83,88,95	2	265,525	0,9002	PS50262	http://www.expasy.ch/prosite/PS50262

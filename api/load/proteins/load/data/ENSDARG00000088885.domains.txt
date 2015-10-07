@@ -1,9 +1,3 @@
-browser position chr15:45693653-45700903
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000088885	ENSDART00000128404	ENSDARP00000110427	45693653	45700903	###
-#	PR00341	IPR000817	100	121	\N	6.700000000000001e-10	35.75	YGPGVPQGPGYGPPQGPGYGPP
-15	45699312	45699377	Prion_(PR00341)	343.0	-
-#	PR00341	IPR000817	126	141	\N	6.700000000000001e-10	61.49	YGQPQGPGYGQPQGPG
-15	45699252	45699299	Prion_(PR00341)	586.0	-
-#	PR00341	IPR000817	142	157	\N	6.700000000000001e-10	60.81	YGQPQGPGYGQPQGPG
-15	45699204	45699251	Prion_(PR00341)	579.0	-
+15	45699312	45699377	Prion	343.0	-	45699312	45699377	83,88,95	1	65	0	PR00341	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00341&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00341
+15	45699252	45699299	Prion	586.0	-	45699252	45699299	83,88,95	1	47	0	PR00341	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00341&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00341
+15	45699204	45699251	Prion	579.0	-	45699204	45699251	83,88,95	1	47	0	PR00341	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00341&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00341

@@ -1,15 +1,6 @@
-browser position chr9:893698-901125
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000026369	ENSDART00000034850	ENSDARP00000038227	893698	901125	###
-#	PF00887	IPR000582	3	85	\N	4.0999999999999995e-36	0.0	EAEFQKAAEEVKQLKAKPTDAEMLEIYSLYKQATVGDVNTARPGMLDFTGKAKWDAWDAKKGTSKEDAVKAYIAKVEELKGKY
-9	893822	900028	Acyl-CoA-binding_protein_(PF00887)	109.1	+
-#	PR00689	IPR000582	3	18	\N	2.5000000000000002e-30	46.13	EAEFQKAAEEVKQLKA
-9	893822	897148	Acyl-CoA-binding_protein_(PR00689)	349.0	+
-#	PR00689	IPR000582	20	38	\N	2.5000000000000002e-30	62.91	PTDAEMLEIYSLYKQATVG
-9	897152	897208	Acyl-CoA-binding_protein_(PR00689)	625.0	+
-#	PR00689	IPR000582	43	58	\N	2.5000000000000002e-30	61.01	ARPGMLDFTGKAKWDA
-9	898384	898431	Acyl-CoA-binding_protein_(PR00689)	566.0	+
-#	PR00689	IPR000582	64	81	\N	2.5000000000000002e-30	58.2	GTSKEDAVKAYIAKVEEL
-9	899963	900016	Acyl-CoA-binding_protein_(PR00689)	507.0	+
-#	SSF47027	IPR000582	2	87	\N	2.1e-30	0.0	SEAEFQKAAEEVKQLKAKPTDAEMLEIYSLYKQATVGDVNTARPGMLDFTGKAKWDAWDAKKGTSKEDAVKAYIAKVEELKGKYGI
-9	893819	900034	Acyl-CoA-binding_protein_(SSF47027)	0.0	+
+9	893822	900028	Acyl-CoA-binding_protein	109.1	+	893822	900028	83,88,95	4	2,117,62,64	0,3282,4563,6142	PF00887	http://pfam.sanger.ac.uk/family?acc=PF00887
+9	893822	897148	Acyl-CoA-binding_protein	349.0	+	893822	897148	83,88,95	2	2,44	0,3282	PR00689	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00689&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00689
+9	897152	897208	Acyl-CoA-binding_protein	625.0	+	897152	897208	83,88,95	1	56	0	PR00689	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00689&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00689
+9	898384	898431	Acyl-CoA-binding_protein	566.0	+	898384	898431	83,88,95	1	47	0	PR00689	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00689&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00689
+9	899963	900016	Acyl-CoA-binding_protein	507.0	+	899963	900016	83,88,95	1	53	0	PR00689	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00689&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00689
+9	893819	900034	Acyl-CoA-binding_protein	0.0	+	893819	900034	83,88,95	4	5,117,62,70	0,3285,4566,6145	SSF47027	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47027

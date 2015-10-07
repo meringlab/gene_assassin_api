@@ -1,25 +1,11 @@
-browser position chrZv9_scaffold3560:2375-4794
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000090148	ENSDART00000102945	ENSDARP00000093720	2375	4794	###
-#	PR01407	IPR003879	70	87	\N	6.6e-19	41.67	YVCFLTLDPNTAHTRLIL
-Zv9_scaffold3560	4264	4317	Butyrophylin_(PR01407)	335.0	+
-#	PR01407	IPR003879	87	104	\N	6.6e-19	29.91	LSEKNRKVKCVWEKQPYP
-Zv9_scaffold3560	4315	4368	Butyrophylin_(PR01407)	162.0	+
-#	PR01407	IPR003879	139	152	\N	6.6e-19	33.24	VCISVSYKSIKRKG
-Zv9_scaffold3560	4471	4512	Butyrophylin_(PR01407)	188.0	+
-#	PR01407	IPR003879	186	210	\N	6.6e-19	39.85	LPVKPLSRRIGVFVDHSAGTLIFYN
-Zv9_scaffold3560	4612	4686	Butyrophylin_(PR01407)	543.0	+
-#	PR01407	IPR003879	218	236	\N	6.6e-19	26.52	LIHSVQTTFTEPLWPGFGF
-Zv9_scaffold3560	4708	4764	Butyrophylin_(PR01407)	179.0	+
-#	PF00622	IPR003877	124	243	\N	1.6e-12	0.0	GPCYWEIDWSGDDHGVCISVSYKSIKRKGYGDDCWFGRNDQSWSLFCFPSRFTFWHNNTCTDLPVKPLSRRIGVFVDHSAGTLIFYNIYRDTMSLIHSVQTTFTEPLWPGFGFYSGSSVK
-Zv9_scaffold3560	4426	4785	SPRY_rcpt_(PF00622)	34.1	+
-#	SM00368	IPR003590	18	45	\N	0.0026	0.0	PSHLRELDLSYNHPGDSGVKLLSEQLED
-Zv9_scaffold3560	2426	2509	Leu-rich_rpt_RNase_inh_sub-typ_(SM00368)	27.0	+
-#	SM00589	IPR006574	71	123	\N	1.8e-18	0.0	VCFLTLDPNTAHTRLILSEKNRKVKCVWEKQPYPDHPDRFNYYPQVLCRESVC
-Zv9_scaffold3560	4267	4425	PRY_(SM00589)	77.4	+
-#	SM00449	IPR018355	123	242	\N	0.00039	0.0	CGPCYWEIDWSGDDHGVCISVSYKSIKRKGYGDDCWFGRNDQSWSLFCFPSRFTFWHNNTCTDLPVKPLSRRIGVFVDHSAGTLIFYNIYRDTMSLIHSVQTTFTEPLWPGFGFYSGSSV
-Zv9_scaffold3560	4423	4782	SPla/RYanodine_receptor_subgr_(SM00449)	29.7	+
-#	PS50188	IPR001870	53	245	\N	0.0	0.0	LNLDHGVRMRITAGPRKYVCFLTLDPNTAHTRLILSEKNRKVKCVWEKQPYPDHPDRFNYYPQVLCRESVCGPCYWEIDWSGDDHGVCISVSYKSIKRKGYGDDCWFGRNDQSWSLFCFPSRFTFWHNNTCTDLPVKPLSRRIGVFVDHSAGTLIFYNIYRDTMSLIHSVQTTFTEPLWPGFGFYSGSSVKLS
-Zv9_scaffold3560	2531	4791	B30.2/SPRY_(PS50188)	17.97	+
-#	SSF49899	IPR008985	63	245	\N	4.8e-57	0.0	ITAGPRKYVCFLTLDPNTAHTRLILSEKNRKVKCVWEKQPYPDHPDRFNYYPQVLCRESVCGPCYWEIDWSGDDHGVCISVSYKSIKRKGYGDDCWFGRNDQSWSLFCFPSRFTFWHNNTCTDLPVKPLSRRIGVFVDHSAGTLIFYNIYRDTMSLIHSVQTTFTEPLWPGFGFYSGSSVKLS
-Zv9_scaffold3560	3746	4791	ConA-like_lec_gl_sf_(SSF49899)	0.0	+
+Zv9_scaffold3560	4264	4317	Butyrophylin	335.0	+	4264	4317	83,88,95	1	53	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
+Zv9_scaffold3560	4315	4368	Butyrophylin	162.0	+	4315	4368	83,88,95	1	53	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
+Zv9_scaffold3560	4471	4512	Butyrophylin	188.0	+	4471	4512	83,88,95	1	41	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
+Zv9_scaffold3560	4612	4686	Butyrophylin	543.0	+	4612	4686	83,88,95	1	74	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
+Zv9_scaffold3560	4708	4764	Butyrophylin	179.0	+	4708	4764	83,88,95	1	56	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
+Zv9_scaffold3560	4426	4785	SPRY_rcpt	34.1	+	4426	4785	83,88,95	1	359	0	PF00622	http://pfam.sanger.ac.uk/family?acc=PF00622
+Zv9_scaffold3560	2426	2509	Leu-rich_rpt_RNase_inh_sub-typ	27.0	+	2426	2509	83,88,95	1	83	0	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
+Zv9_scaffold3560	4267	4425	PRY	77.4	+	4267	4425	83,88,95	1	158	0	SM00589	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00589
+Zv9_scaffold3560	4423	4782	SPla/RYanodine_receptor_subgr	29.7	+	4423	4782	83,88,95	1	359	0	SM00449	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00449
+Zv9_scaffold3560	2531	4791	B30.2/SPRY	17.97	+	2531	4791	83,88,95	3	4,46,526	0,1190,1734	PS50188	http://www.expasy.ch/prosite/PS50188
+Zv9_scaffold3560	3746	4791	ConA-like_lec_gl_sf	0.0	+	3746	4791	83,88,95	2	21,526	0,519	SSF49899	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49899

@@ -1,27 +1,12 @@
-browser position chr2:26831083-26837078
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000003517	ENSDART00000010683	ENSDARP00000018348	26831083	26837078	###
-#	PR00377	IPR000760	41	61	\N	7.699999999999999e-47	33.77	DLVTKTDQNVEQLIITSVKEK
-2	26833081	26833143	Inositol_monophosphatase_(PR00377)	344.0	+
-#	PR00377	IPR000760	63	79	\N	7.699999999999999e-47	34.48	PEHSFIGEESVAAGEPC
-2	26833147	26833285	Inositol_monophosphatase_(PR00377)	231.0	+
-#	PR00377	IPR000760	87	103	\N	7.699999999999999e-47	69.51	WIVDPVDGTTNFVHGYP
-2	26833307	26834188	Inositol_monophosphatase_(PR00377)	782.0	+
-#	PR00377	IPR000760	136	159	\N	7.699999999999999e-47	34.0	GKGAFCNGQPLQVSDQKEINQSII
-2	26834502	26834643	Inositol_monophosphatase_(PR00377)	425.0	+
-#	PR00377	IPR000760	185	206	\N	7.699999999999999e-47	41.47	LPVHGIRGAGSAAINMCLVAAG
-2	26834719	26834937	Inositol_monophosphatase_(PR00377)	400.0	+
-#	PR00377	IPR000760	216	240	\N	7.699999999999999e-47	45.94	IHCWDMAAGAVIVSEAGGVLLDVEG
-2	26834965	26836768	Inositol_monophosphatase_(PR00377)	625.0	+
-#	PR00378	IPR020552	19	38	\N	2e-40	51.0	AGEIVREALQNDLKIMCKSS
-2	26832929	26833074	Inositol_monoPase_Li-sen_(PR00378)	523.0	+
-#	PR00378	IPR020552	110	120	\N	2e-40	73.33	GFAVNKTLEFG
-2	26834207	26834456	Inositol_monoPase_Li-sen_(PR00378)	424.0	+
-#	PR00378	IPR020552	138	156	\N	2e-40	62.81	GAFCNGQPLQVSDQKEINQ
-2	26834508	26834634	Inositol_monoPase_Li-sen_(PR00378)	643.0	+
-#	PR00378	IPR020552	161	171	\N	2e-40	60.3	TEFGSNRDPEN
-2	26834647	26834679	Inositol_monoPase_Li-sen_(PR00378)	350.0	+
-#	PR00378	IPR020552	244	266	\N	2e-40	54.93	DLMSRRVLAANNKTIGERIVQEV
-2	26836778	26836846	Inositol_monoPase_Li-sen_(PR00378)	637.0	+
-#	PF00459	IPR000760	8	268	\N	9.4e-90	0.0	AMDHAVTLARKAGEIVREALQNDLKIMCKSSSVDLVTKTDQNVEQLIITSVKEKFPEHSFIGEESVAAGEPCVLTENPTWIVDPVDGTTNFVHGYPFVAVSIGFAVNKTLEFGVVYSCIEDKMYTARKGKGAFCNGQPLQVSDQKEINQSIIATEFGSNRDPENVEKIFSSMRKILCLPVHGIRGAGSAAINMCLVAAGCVEAYYEIGIHCWDMAAGAVIVSEAGGVLLDVEGGPFDLMSRRVLAANNKTIGERIVQEVEA
-2	26832896	26836852	Inositol_monophosphatase_(PF00459)	286.9	+
+2	26833081	26833143	Inositol_monophosphatase	344.0	+	26833081	26833143	83,88,95	1	62	0	PR00377	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00377&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00377
+2	26833147	26833285	Inositol_monophosphatase	231.0	+	26833147	26833285	83,88,95	2	10,39	0,99	PR00377	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00377&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00377
+2	26833307	26834188	Inositol_monophosphatase	782.0	+	26833307	26834188	83,88,95	2	43,6	0,875	PR00377	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00377&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00377
+2	26834502	26834643	Inositol_monophosphatase	425.0	+	26834502	26834643	83,88,95	2	51,19	0,122	PR00377	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00377&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00377
+2	26834719	26834937	Inositol_monophosphatase	400.0	+	26834719	26834937	83,88,95	2	13,51	0,167	PR00377	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00377&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00377
+2	26834965	26836768	Inositol_monophosphatase	625.0	+	26834965	26836768	83,88,95	2	72,1	0,1802	PR00377	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00377&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00377
+2	26832929	26833074	Inositol_monoPase_Li-sen	523.0	+	26832929	26833074	83,88,95	2	8,50	0,95	PR00378	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00378&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00378
+2	26834207	26834456	Inositol_monoPase_Li-sen	424.0	+	26834207	26834456	83,88,95	2	20,11	0,238	PR00378	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00378&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00378
+2	26834508	26834634	Inositol_monoPase_Li-sen	643.0	+	26834508	26834634	83,88,95	2	45,10	0,116	PR00378	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00378&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00378
+2	26834647	26834679	Inositol_monoPase_Li-sen	350.0	+	26834647	26834679	83,88,95	1	32	0	PR00378	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00378&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00378
+2	26836778	26836846	Inositol_monoPase_Li-sen	637.0	+	26836778	26836846	83,88,95	1	68	0	PR00378	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00378&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00378
+2	26832896	26836852	Inositol_monophosphatase	286.9	+	26832896	26836852	83,88,95	8	41,133,104,45,108,108,151,85	0,128,350,1286,1549,1728,1990,3871	PF00459	http://pfam.sanger.ac.uk/family?acc=PF00459

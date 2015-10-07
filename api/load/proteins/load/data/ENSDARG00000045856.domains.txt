@@ -1,23 +1,10 @@
-browser position chr4:5053899-5056586
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000045856	ENSDART00000067390	ENSDARP00000067389	5053899	5056586	###
-#	PF00167	IPR002209	85	206	\N	1.1e-45	0.0	RVRRLYCNVGIGFHLQVLPDGKINGVHNENQYSLIEISTVARGVVSLCGVKSELFVAMNSRGRLYGTATFKDECKFKETLLPNNYNAYESSVYKGFYIALSKHGRVKRGNKATTAMTVTHFL
-4	5054232	5056564	Fibroblast_GF_fam_(PF00167)	140.7	+
-#	PR00263	IPR002209	87	99	\N	5.1e-21	49.91	RRLYCNVGIGFHL
-4	5054238	5054276	Fibroblast_GF_fam_(PR00263)	330.0	+
-#	PR00263	IPR002209	119	133	\N	5.1e-21	44.3	IEISTVARGVVSLCG
-4	5054762	5054806	Fibroblast_GF_fam_(PR00263)	311.0	+
-#	PR00263	IPR002209	139	151	\N	5.1e-21	51.79	FVAMNSRGRLYGT
-4	5054822	5054860	Fibroblast_GF_fam_(PR00263)	394.0	+
-#	PR00263	IPR002209	155	174	\N	5.1e-21	55.67	KDECKFKETLLPNNYNAYES
-4	5056409	5056468	Fibroblast_GF_fam_(PR00263)	598.0	+
-#	PR00262	IPR028142	126	153	\N	1.2e-17	35.27	RGVVSLCGVKSELFVAMNSRGRLYGTAT
-4	5054783	5056405	IL-1_fam/FGF_fam_(PR00262)	382.0	+
-#	PR00262	IPR028142	157	177	\N	1.2e-17	39.05	ECKFKETLLPNNYNAYESSVY
-4	5056415	5056477	IL-1_fam/FGF_fam_(PR00262)	371.0	+
-#	PR00262	IPR028142	198	207	\N	1.2e-17	35.08	TAMTVTHFLP
-4	5056538	5056567	IL-1_fam/FGF_fam_(PR00262)	154.0	+
-#	SM00442	IPR002209	83	209	\N	1.4999999999999996e-63	0.0	IKRVRRLYCNVGIGFHLQVLPDGKINGVHNENQYSLIEISTVARGVVSLCGVKSELFVAMNSRGRLYGTATFKDECKFKETLLPNNYNAYESSVYKGFYIALSKHGRVKRGNKATTAMTVTHFLPRI
-4	5054226	5056573	Fibroblast_GF_fam_(SM00442)	227.1	+
-#	SSF50353	IPR008996	58	208	\N	9.999999999999999e-48	0.0	LFSRSVLGISGERPDPNWENDYLLGIKRVRRLYCNVGIGFHLQVLPDGKINGVHNENQYSLIEISTVARGVVSLCGVKSELFVAMNSRGRLYGTATFKDECKFKETLLPNNYNAYESSVYKGFYIALSKHGRVKRGNKATTAMTVTHFLPR
-4	5054151	5056570	Cytokine_IL1-like_(SSF50353)	0.0	+
+4	5054232	5056564	Fibroblast_GF_fam	140.7	+	5054232	5056564	83,88,95	3	96,103,164	0,525,2168	PF00167	http://pfam.sanger.ac.uk/family?acc=PF00167
+4	5054238	5054276	Fibroblast_GF_fam	330.0	+	5054238	5054276	83,88,95	1	38	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+4	5054762	5054806	Fibroblast_GF_fam	311.0	+	5054762	5054806	83,88,95	1	44	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+4	5054822	5054860	Fibroblast_GF_fam	394.0	+	5054822	5054860	83,88,95	1	38	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+4	5056409	5056468	Fibroblast_GF_fam	598.0	+	5056409	5056468	83,88,95	1	59	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+4	5054783	5056405	IL-1_fam/FGF_fam	382.0	+	5054783	5056405	83,88,95	2	77,5	0,1617	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
+4	5056415	5056477	IL-1_fam/FGF_fam	371.0	+	5056415	5056477	83,88,95	1	62	0	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
+4	5056538	5056567	IL-1_fam/FGF_fam	154.0	+	5056538	5056567	83,88,95	1	29	0	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
+4	5054226	5056573	Fibroblast_GF_fam	227.1	+	5054226	5056573	83,88,95	3	102,103,173	0,531,2174	SM00442	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00442
+4	5054151	5056570	Cytokine_IL1-like	0.0	+	5054151	5056570	83,88,95	3	177,103,170	0,606,2249	SSF50353	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50353

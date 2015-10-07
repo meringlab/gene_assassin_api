@@ -1,23 +1,10 @@
-browser position chr16:14587564-14617972
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000046079	ENSDART00000067741	ENSDARP00000067740	14587564	14617972	###
-#	PR01792	IPR008368	54	72	\N	9.800000000000001e-06	27.07	VLIGVTLTVLGMGTEFWVE
-16	14588127	14588183	VDCC_gsu_(PR01792)	345.0	+
-#	PR01792	IPR008368	190	209	\N	9.800000000000001e-06	25.36	SGILVLLSIIVFHQSILALL
-16	14612139	14617588	VDCC_gsu_(PR01792)	214.0	+
-#	PR01792	IPR008368	219	240	\N	9.800000000000001e-06	28.41	HELSWSVACVGSSGAILIIGGL
-16	14617616	14617681	VDCC_gsu_(PR01792)	250.0	+
-#	PR01601	IPR005421	68	94	\N	2.1e-05	36.11	EFWVELSQPKHFRNNQTCEMAHYGLWK
-16	14588169	14588249	VDCC_g1su_(PR01601)	515.0	+
-#	PR01601	IPR005421	169	184	\N	2.1e-05	28.12	TMSISKSVPFFLKPAT
-16	14612076	14612123	VDCC_g1su_(PR01601)	242.0	+
-#	PR01601	IPR005421	239	262	\N	2.1e-05	34.38	GLIFLLLSLPYNPLEKCFRQQSSS
-16	14617676	14617747	VDCC_g1su_(PR01601)	370.0	+
-#	PR01077	IPR006187	145	167	\N	2.5e-05	25.66	SLHIAGAMLALLSLFMMVMGSVC
-16	14612004	14612072	Claudin_(PR01077)	293.0	+
-#	PR01077	IPR006187	177	198	\N	2.5e-05	18.82	PFFLKPATICFVCSGILVLLSI
-16	14612100	14617555	Claudin_(PR01077)	132.0	+
-#	PR01077	IPR006187	218	242	\N	2.5e-05	21.35	HHELSWSVACVGSSGAILIIGGLIF
-16	14617613	14617687	Claudin_(PR01077)	214.0	+
-#	PF00822	IPR004031	144	241	\N	1e-09	0.0	KSLHIAGAMLALLSLFMMVMGSVCITMSISKSVPFFLKPATICFVCSGILVLLSIIVFHQSILALLASDHSIPLHHELSWSVACVGSSGAILIIGGLI
-16	14600657	14617684	PMP22/EMP/MP20/Claudin_(PF00822)	24.7	+
+16	14588127	14588183	VDCC_gsu	345.0	+	14588127	14588183	83,88,95	1	56	0	PR01792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01792
+16	14612139	14617588	VDCC_gsu	214.0	+	14612139	14617588	83,88,95	2	3,55	0,5394	PR01792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01792
+16	14617616	14617681	VDCC_gsu	250.0	+	14617616	14617681	83,88,95	1	65	0	PR01792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01792
+16	14588169	14588249	VDCC_g1su	515.0	+	14588169	14588249	83,88,95	1	80	0	PR01601	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01601&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01601
+16	14612076	14612123	VDCC_g1su	242.0	+	14612076	14612123	83,88,95	1	47	0	PR01601	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01601&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01601
+16	14617676	14617747	VDCC_g1su	370.0	+	14617676	14617747	83,88,95	1	71	0	PR01601	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01601&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01601
+16	14612004	14612072	Claudin	293.0	+	14612004	14612072	83,88,95	1	68	0	PR01077	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01077&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01077
+16	14612100	14617555	Claudin	132.0	+	14612100	14617555	83,88,95	2	42,22	0,5433	PR01077	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01077&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01077
+16	14617613	14617687	Claudin	214.0	+	14617613	14617687	83,88,95	1	74	0	PR01077	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01077&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01077
+16	14600657	14617684	PMP22/EMP/MP20/Claudin	24.7	+	14600657	14617684	83,88,95	3	3,137,151	0,11348,16876	PF00822	http://pfam.sanger.ac.uk/family?acc=PF00822

@@ -1,25 +1,11 @@
-browser position chr9:52436447-52450391
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000076281	ENSDART00000114016	ENSDARP00000099789	52436447	52450391	###
-#	PR01463	IPR003938	9	19	\N	2.8999999999999995e-30	86.65	LIAHWLACIWY
-9	52450335	52450367	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	659.0	-
-#	PR01463	IPR003938	62	79	\N	2.8999999999999995e-30	82.99	YVTALYFTFSSLTSVGFG
-9	52450155	52450208	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	795.0	-
-#	PR01463	IPR003938	88	99	\N	2.8999999999999995e-30	79.17	EKIFSICVMLIG
-9	52450095	52450130	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	511.0	-
-#	PR01463	IPR003938	106	115	\N	2.8999999999999995e-30	83.12	IFGNVSAIIQ
-9	52446042	52446071	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	415.0	-
-#	PR01463	IPR003938	156	163	\N	2.8999999999999995e-30	67.19	WTYTNGID
-9	52445898	52445921	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	355.0	-
-#	PR01333	IPR003280	71	99	\N	6.7e-06	32.99	SSLTSVGFGNVSPNTNSEKIFSICVMLIG
-9	52450095	52450181	2pore_dom_K_chnl_(PR01333)	542.0	-
-#	PR01333	IPR003280	220	229	\N	6.7e-06	28.0	TLVHCGDVLT
-9	52436519	52436548	2pore_dom_K_chnl_(PR01333)	142.0	-
-#	PF07885	IPR013099	59	114	\N	1.8e-15	0.0	KDKYVTALYFTFSSLTSVGFGNVSPNTNSEKIFSICVMLIGSLMYASIFGNVSAII
-9	52446045	52450217	2pore_dom_K_chnl_dom_(PF07885)	43.9	-
-#	PF00520	IPR005821	3	110	\N	1.2e-13	0.0	LMCIFALIAHWLACIWYAIGNVEKSYLEHKIGWLDNLEVSIGKRSNTSDPGSGPSIKDKYVTALYFTFSSLTSVGFGNVSPNTNSEKIFSICVMLIGSLMYASIFGNV
-9	52446057	52450385	Ion_trans_dom_(PF00520)	38.2	-
-#	PS50042	IPR000595	194	253	\N	0.0	0.0	AFRGATQGCLRALAIRFKNTHAPPGDTLVHCGDVLTALYFLSRGSIEILKDDIVVAILG
-9	52436447	52436626	cNMP-bd_dom_(PS50042)	10.35	-
-#	SSF51206	IPR018490	118	253	\N	5.9000000000000005e-27	0.0	YSGTARYHMQMLRVKEFIRFHQIPNPLRQRLEEYFQHSWTYTNGIDMNMQVLKGFPECLQADICLHLNDSLLQGCKAFRGATQGCLRALAIRFKNTHAPPGDTLVHCGDVLTALYFLSRGSIEILKDDIVVAILG
-9	52436447	52446035	cNMP-bd-like_(SSF51206)	0.0	-
+9	52450335	52450367	K_chnl_volt-dep_EAG/ELK/ERG	659.0	-	52450335	52450367	83,88,95	1	32	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+9	52450155	52450208	K_chnl_volt-dep_EAG/ELK/ERG	795.0	-	52450155	52450208	83,88,95	1	53	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+9	52450095	52450130	K_chnl_volt-dep_EAG/ELK/ERG	511.0	-	52450095	52450130	83,88,95	1	35	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+9	52446042	52446071	K_chnl_volt-dep_EAG/ELK/ERG	415.0	-	52446042	52446071	83,88,95	1	29	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+9	52445898	52445921	K_chnl_volt-dep_EAG/ELK/ERG	355.0	-	52445898	52445921	83,88,95	1	23	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+9	52450095	52450181	2pore_dom_K_chnl	542.0	-	52450095	52450181	83,88,95	1	86	0	PR01333	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01333&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01333
+9	52436519	52436548	2pore_dom_K_chnl	142.0	-	52436519	52436548	83,88,95	1	29	0	PR01333	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01333&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01333
+9	52446045	52450217	2pore_dom_K_chnl_dom	43.9	-	52446045	52450217	83,88,95	2	4049,4129	0,43	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
+9	52446057	52450385	Ion_trans_dom	38.2	-	52446057	52450385	83,88,95	2	4037,4297	0,31	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
+9	52436447	52436626	cNMP-bd_dom	10.35	-	52436447	52436626	83,88,95	1	179	0	PS50042	http://www.expasy.ch/prosite/PS50042
+9	52436447	52446035	cNMP-bd-like	0.0	-	52436447	52446035	83,88,95	2	9442,9328	0,260	SSF51206	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51206

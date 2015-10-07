@@ -1,13 +1,5 @@
-browser position chr6:10741791-10746869
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000009447	ENSDART00000005903	ENSDARP00000014252	10741791	10746796	###
-#	PF00137	IPR002379	72	139	\N	2.0999999999999997e-21	0.0	KFIGAGAATVGVAGSGAGIGTVFGSLIIGYARNPSLKQQLFSYAILGFALSEAMGLFCLMVAFLILFA
-6	10741989	10744063	ATPase_proteolipid_c_like_dom_(PF00137)	62.2	-
-#	PR00124	IPR000454	74	93	\N	1.1e-31	54.31	IGAGAATVGVAGSGAGIGTV
-6	10743998	10744057	ATPase_F0-cplx_csu_(PR00124)	513.0	-
-#	PR00124	IPR000454	95	110	\N	1.1e-31	51.53	GSLIIGYARNPSLKQQ
-6	10742076	10743994	ATPase_F0-cplx_csu_(PR00124)	386.0	-
-#	PR00124	IPR000454	112	137	\N	1.1e-31	59.01	FSYAILGFALSEAMGLFCLMVAFLIL
-6	10741995	10742072	ATPase_F0-cplx_csu_(PR00124)	729.0	-
-#	SSF81333	IPR002379	64	139	\N	1.2e-17	0.0	SRDIDTAAKFIGAGAATVGVAGSGAGIGTVFGSLIIGYARNPSLKQQLFSYAILGFALSEAMGLFCLMVAFLILFA
-6	10741989	10744087	ATPase_proteolipid_c_like_dom_(SSF81333)	0.0	-
+6	10741989	10744063	ATPase_proteolipid_c_like_dom	62.2	-	10741989	10744063	83,88,95	2	1980,1966	0,108	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
+6	10743998	10744057	ATPase_F0-cplx_csu	513.0	-	10743998	10744057	83,88,95	1	59	0	PR00124	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00124&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00124
+6	10742076	10743994	ATPase_F0-cplx_csu	386.0	-	10742076	10743994	83,88,95	2	1893,1897	0,21	PR00124	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00124&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00124
+6	10741995	10742072	ATPase_F0-cplx_csu	729.0	-	10741995	10742072	83,88,95	1	77	0	PR00124	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00124&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00124
+6	10741989	10744087	ATPase_proteolipid_c_like_dom	0.0	-	10741989	10744087	83,88,95	2	1980,1990	0,108	SSF81333	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81333

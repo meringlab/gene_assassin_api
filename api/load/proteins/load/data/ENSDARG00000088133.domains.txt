@@ -1,11 +1,4 @@
-browser position chr17:879352-925832
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000088133	ENSDART00000124572	ENSDARP00000105184	881701	925832	###
-#	PR00828	IPR001265	411	430	\N	5.3999999999999995e-36	78.33	PSDGEDRTPGRLQAVWPPPK
-17	892206	892265	Formin_Cappuccino_subfam_(PR00828)	966.0	+
-#	PR00828	IPR001265	440	462	\N	5.3999999999999995e-36	73.91	RYTEAEHQAALLQLKRESKEELE
-17	892293	892440	Formin_Cappuccino_subfam_(PR00828)	890.0	+
-#	PR00828	IPR001265	515	536	\N	5.3999999999999995e-36	72.73	TEDDLPPRSFRNVCVQTDRETF
-17	912915	912980	Formin_Cappuccino_subfam_(PR00828)	958.0	+
-#	PR00828	IPR001265	733	756	\N	5.3999999999999995e-36	65.28	NNNTLWSSLEEPDIINTTEFEELF
-17	913569	925727	Formin_Cappuccino_subfam_(PR00828)	750.0	+
+17	892206	892265	Formin_Cappuccino_subfam	966.0	+	892206	892265	83,88,95	1	59	0	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+17	892293	892440	Formin_Cappuccino_subfam	890.0	+	892293	892440	83,88,95	2	15,52	0,95	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+17	912915	912980	Formin_Cappuccino_subfam	958.0	+	912915	912980	83,88,95	1	65	0	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828
+17	913569	925727	Formin_Cappuccino_subfam	750.0	+	913569	925727	83,88,95	2	1,69	0,12089	PR00828	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00828&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00828

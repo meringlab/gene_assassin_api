@@ -1,15 +1,6 @@
-browser position chr11:20044835-20114564
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000037587	ENSDART00000054735	ENSDARP00000054734	20044835	20114564	###
-#	PR00220	IPR001285	23	45	\N	1.4e-61	66.67	IRLLEWLFAIFAFATCGGYSGQM
-11	20064517	20114376	Synaptophysin/porin_(PR00220)	928.0	-
-#	PR00220	IPR001285	47	72	\N	1.4e-61	51.6	VSVDCINKSDSNLSIAINFAYPFRLN
-11	20059619	20064513	Synaptophysin/porin_(PR00220)	717.0	-
-#	PR00220	IPR001285	101	125	\N	1.4e-61	67.33	FFVTIAVFSFLYSLLATVVYIFFQN
-11	20059460	20059534	Synaptophysin/porin_(PR00220)	879.0	-
-#	PR00220	IPR001285	133	156	\N	1.4e-61	73.61	GPLIDFIVTVVFSFMWLVSSSAWA
-11	20053214	20059438	Synaptophysin/porin_(PR00220)	1011.0	-
-#	PR00220	IPR001285	200	218	\N	1.4e-61	75.44	VVFGYLNFVLWAGNIWFVF
-11	20048316	20053084	Synaptophysin/porin_(PR00220)	914.0	-
-#	PF01284	IPR008253	17	216	\N	2.6e-45	0.0	KLPLGFIRLLEWLFAIFAFATCGGYSGQMRVSVDCINKSDSNLSIAINFAYPFRLNQVEFDVPMCEGRRQERLYLIGDFSSSAEFFVTIAVFSFLYSLLATVVYIFFQNKYRENNRGPLIDFIVTVVFSFMWLVSSSAWAKGLSDVKAATDPDEVVLLVSACKVQTNKCSSLYGPRWSGLNTSVVFGYLNFVLWAGNIWF
-11	20048322	20114394	Marvel_(PF01284)	140.2	-
+11	20064517	20114376	Synaptophysin/porin	928.0	-	20064517	20114376	83,88,95	2	49842,49809	0,50	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+11	20059619	20064513	Synaptophysin/porin	717.0	-	20059619	20064513	83,88,95	2	4824,4888	0,6	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+11	20059460	20059534	Synaptophysin/porin	879.0	-	20059460	20059534	83,88,95	1	74	0	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+11	20053214	20059438	Synaptophysin/porin	1011.0	-	20053214	20059438	83,88,95	2	6213,6165	0,59	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+11	20048316	20053084	Synaptophysin/porin	914.0	-	20048316	20053084	83,88,95	2	4766,4715	0,53	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+11	20048322	20114394	Marvel	140.2	-	20048322	20114394	83,88,95	5	66037,-124,-198,-191,66025	0,16245,11303,4951,47	PF01284	http://pfam.sanger.ac.uk/family?acc=PF01284

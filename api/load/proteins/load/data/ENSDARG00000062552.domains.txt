@@ -1,25 +1,11 @@
-browser position chr15:3747499-3748572
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000062552	ENSDART00000090624	ENSDARP00000085057	3747499	3748572	###
-#	PS50262	IPR017452	44	302	\N	0.0	0.0	TNVAAMYIFMCSLKLRNETTTYMMNLVVSDLLFVLTLPLRVFYFVQQNWPFGSLLCKLSVSLFYTNMYGSILFLTCISVDRFLAIVYPFRSRGLRTKRNAKIVCAAVWVLVLSGSLPTGFMLNSTNKLENNSISCFENFSSKEWKSHLSKVVIFIETVGFLIPLMLNVVCSAMVLQTLRRPNTVSRGGKLNKKKILRMIIVHLFIFCFCFIPYNVNLVFYSLVRTNTLKGCAAESVVRTIYPIALCIAVSNCCFDPIVY
-15	3747667	3748443	GPCR_Rhodpsn_7TM_(PS50262)	43.24100000000001	-
-#	PR00237	IPR000276	29	53	\N	2.6e-36	18.87	LYSMVFSIVFMVGLITNVAAMYIFM
-15	3748414	3748488	GPCR_Rhodpsn_(PR00237)	218.0	-
-#	PR00237	IPR000276	62	83	\N	2.6e-36	32.23	TTTYMMNLVVSDLLFVLTLPLR
-15	3748324	3748389	GPCR_Rhodpsn_(PR00237)	291.0	-
-#	PR00237	IPR000276	106	128	\N	2.6e-36	36.55	FYTNMYGSILFLTCISVDRFLAI
-15	3748189	3748257	GPCR_Rhodpsn_(PR00237)	371.0	-
-#	PR00237	IPR000276	142	163	\N	2.6e-36	26.61	NAKIVCAAVWVLVLSGSLPTGF
-15	3748084	3748149	GPCR_Rhodpsn_(PR00237)	210.0	-
-#	PR00237	IPR000276	195	218	\N	2.6e-36	23.07	VIFIETVGFLIPLMLNVVCSAMVL
-15	3747919	3747990	GPCR_Rhodpsn_(PR00237)	230.0	-
-#	PR00237	IPR000276	238	262	\N	2.6e-36	23.0	ILRMIIVHLFIFCFCFIPYNVNLVF
-15	3747787	3747861	GPCR_Rhodpsn_(PR00237)	310.0	-
-#	PR00237	IPR000276	284	310	\N	2.6e-36	22.52	YPIALCIAVSNCCFDPIVYYFTSETIQ
-15	3747643	3747723	GPCR_Rhodpsn_(PR00237)	338.0	-
-#	PR00663	IPR000405	92	110	\N	9.4e-05	42.63	WPFGSLLCKLSVSLFYTNM
-15	3748243	3748299	Galanin_rcpt_(PR00663)	430.0	-
-#	PR00663	IPR000405	134	150	\N	9.4e-05	45.88	SRGLRTKRNAKIVCAAV
-15	3748123	3748173	Galanin_rcpt_(PR00663)	335.0	-
-#	PF00001	IPR000276	45	302	\N	1.1999999999999998e-60	0.0	NVAAMYIFMCSLKLRNETTTYMMNLVVSDLLFVLTLPLRVFYFVQQNWPFGSLLCKLSVSLFYTNMYGSILFLTCISVDRFLAIVYPFRSRGLRTKRNAKIVCAAVWVLVLSGSLPTGFMLNSTNKLENNSISCFENFSSKEWKSHLSKVVIFIETVGFLIPLMLNVVCSAMVLQTLRRPNTVSRGGKLNKKKILRMIIVHLFIFCFCFIPYNVNLVFYSLVRTNTLKGCAAESVVRTIYPIALCIAVSNCCFDPIVY
-15	3747667	3748440	GPCR_Rhodpsn_(PF00001)	191.1	-
+15	3747667	3748443	GPCR_Rhodpsn_7TM	43.24100000000001	-	3747667	3748443	83,88,95	1	776	0	PS50262	http://www.expasy.ch/prosite/PS50262
+15	3748414	3748488	GPCR_Rhodpsn	218.0	-	3748414	3748488	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	3748324	3748389	GPCR_Rhodpsn	291.0	-	3748324	3748389	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	3748189	3748257	GPCR_Rhodpsn	371.0	-	3748189	3748257	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	3748084	3748149	GPCR_Rhodpsn	210.0	-	3748084	3748149	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	3747919	3747990	GPCR_Rhodpsn	230.0	-	3747919	3747990	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	3747787	3747861	GPCR_Rhodpsn	310.0	-	3747787	3747861	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	3747643	3747723	GPCR_Rhodpsn	338.0	-	3747643	3747723	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	3748243	3748299	Galanin_rcpt	430.0	-	3748243	3748299	83,88,95	1	56	0	PR00663	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00663&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00663
+15	3748123	3748173	Galanin_rcpt	335.0	-	3748123	3748173	83,88,95	1	50	0	PR00663	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00663&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00663
+15	3747667	3748440	GPCR_Rhodpsn	191.1	-	3747667	3748440	83,88,95	1	773	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001

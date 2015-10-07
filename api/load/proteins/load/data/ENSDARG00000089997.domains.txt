@@ -1,17 +1,7 @@
-browser position chr12:3858415-3861563
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000089997	ENSDART00000152353	ENSDARP00000127076	3858415	3861563	###
-#	PR00321	IPR001770	11	26	\N	7.200000000000001e-14	41.18	LKMELDQLKVEVNTAR
-12	3858841	3858888	Gprotein-gamma_(PR00321)	312.0	-
-#	PR00321	IPR001770	27	41	\N	7.200000000000001e-14	30.98	TAVSATAPEIIAFVE
-12	3858706	3858840	Gprotein-gamma_(PR00321)	200.0	-
-#	PR00321	IPR001770	47	64	\N	7.200000000000001e-14	64.38	DPLVKGVPEDKNPFKEKG
-12	3858637	3858690	Gprotein-gamma_(PR00321)	645.0	-
-#	SM00224	IPR015898	8	69	\N	6e-16	0.0	KEILKMELDQLKVEVNTARTAVSATAPEIIAFVEGLSAEDPLVKGVPEDKNPFKEKGGCIIT
-12	3858622	3858897	G-protein_gamma-like_dom_(SM00224)	69.0	-
-#	PF00631	IPR015898	8	62	\N	1.9e-22	0.0	KEILKMELDQLKVEVNTARTAVSATAPEIIAFVEGLSAEDPLVKGVPEDKNPFKE
-12	3858643	3858897	G-protein_gamma-like_dom_(PF00631)	65.3	-
-#	PS50058	IPR015898	1	69	\N	0.0	0.0	MARDMSDKEILKMELDQLKVEVNTARTAVSATAPEIIAFVEGLSAEDPLVKGVPEDKNPFKEKGGCIIT
-12	3858622	3858918	G-protein_gamma-like_dom_(PS50058)	22.366999999999997	-
-#	SSF48670	IPR015898	1	64	\N	1.6e-15	0.0	MARDMSDKEILKMELDQLKVEVNTARTAVSATAPEIIAFVEGLSAEDPLVKGVPEDKNPFKEKG
-12	3858637	3858918	G-protein_gamma-like_dom_(SSF48670)	0.0	-
+12	3858841	3858888	Gprotein-gamma	312.0	-	3858841	3858888	83,88,95	1	47	0	PR00321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00321
+12	3858706	3858840	Gprotein-gamma	200.0	-	3858706	3858840	83,88,95	2	129,96	0,38	PR00321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00321
+12	3858637	3858690	Gprotein-gamma	645.0	-	3858637	3858690	83,88,95	1	53	0	PR00321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00321
+12	3858622	3858897	G-protein_gamma-like_dom	69.0	-	3858622	3858897	83,88,95	2	213,153	0,122	SM00224	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00224
+12	3858643	3858897	G-protein_gamma-like_dom	65.3	-	3858643	3858897	83,88,95	2	192,153	0,101	PF00631	http://pfam.sanger.ac.uk/family?acc=PF00631
+12	3858622	3858918	G-protein_gamma-like_dom	22.366999999999997	-	3858622	3858918	83,88,95	2	213,174	0,122	PS50058	http://www.expasy.ch/prosite/PS50058
+12	3858637	3858918	G-protein_gamma-like_dom	0.0	-	3858637	3858918	83,88,95	2	198,174	0,107	SSF48670	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48670

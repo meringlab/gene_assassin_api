@@ -1,27 +1,12 @@
-browser position chr23:10355854-10360516
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000058358	ENSDART00000081215	ENSDARP00000075658	10355854	10360516	###
-#	PR01276	IPR003054	189	202	\N	4.5e-38	68.39	LHNMQGLVEDFKNK
-23	10358682	10358723	Keratin_II_(PR01276)	483.0	-
-#	PR01276	IPR003054	144	156	\N	4.5e-38	58.65	ETKWSLLQNQTAT
-23	10358820	10358858	Keratin_II_(PR01276)	399.0	-
-#	PR01276	IPR003054	117	125	\N	4.5e-38	83.33	EQIKTLNNR
-23	10360021	10360047	Keratin_II_(PR01276)	387.0	-
-#	PF00038	IPR001664	114	425	\N	1.4999999999999995e-121	0.0	QEKEQIKTLNNRFASFIDKVRFLEQQNKMLETKWSLLQNQTATRSNIDAMFEAYIANLRRQLDSLGNDKMKLEADLHNMQGLVEDFKNKYEDEINKRTECENEFVLIKKDVDEAYMNKVELEAKLESLTDEINFLRQIFEEEIRELQSQIKDTSVVVEMDNSRNLDMDAIVAEVRAQYEDIANRSRAEAEMWYKSKYEEMQTSANKYGDDLRSTKTEIADLNRMIQRLQSEIDAVKGQRANLENQIAEAEERGEMAVRDAKGRIKDLEDALQRAKQDMARQIREYQDLMNVKLALDIEIATYRKLLEGEEDR
-23	10357124	10360056	IF_(PF00038)	393.5	-
-#	PR01276	IPR003054	203	222	\N	4.5e-38	76.62	YEDEINKRTECENEFVLIKK
-23	10358108	10358167	Keratin_II_(PR01276)	807.0	-
-#	PR01248	IPR002957	340	355	\N	3.6000000000000003e-06	24.53	RLQSEIDAVKGQRANL
-23	10357334	10357483	Keratin_I_(PR01248)	153.0	-
-#	PR01248	IPR002957	268	288	\N	3.6000000000000003e-06	34.23	VVVEMDNSRNLDMDAIVAEVR
-23	10357727	10357789	Keratin_I_(PR01248)	351.0	-
-#	PR01248	IPR002957	213	236	\N	3.6000000000000003e-06	24.61	CENEFVLIKKDVDEAYMNKVELEA
-23	10357981	10358137	Keratin_I_(PR01248)	253.0	-
-#	PR01248	IPR002957	192	205	\N	3.6000000000000003e-06	33.83	MQGLVEDFKNKYED
-23	10358159	10358714	Keratin_I_(PR01248)	246.0	-
-#	PR01276	IPR003054	365	380	\N	4.5e-38	50.0	RGEMAVRDAKGRIKDL
-23	10357259	10357306	Keratin_II_(PR01276)	456.0	-
-#	PR01276	IPR003054	314	331	\N	4.5e-38	58.33	QTSANKYGDDLRSTKTEI
-23	10357508	10357561	Keratin_II_(PR01276)	549.0	-
-#	SSF46579	IPR009053	222	346	\N	0.00013000000000000002	0.0	KDVDEAYMNKVELEAKLESLTDEINFLRQIFEEEIRELQSQIKDTSVVVEMDNSRNLDMDAIVAEVRAQYEDIANRSRAEAEMWYKSKYEEMQTSANKYGDDLRSTKTEIADLNRMIQRLQSEID
-23	10357463	10358110	Prefoldin_(SSF46579)	0.0	-
+23	10358682	10358723	Keratin_II	483.0	-	10358682	10358723	83,88,95	1	41	0	PR01276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01276
+23	10358820	10358858	Keratin_II	399.0	-	10358820	10358858	83,88,95	1	38	0	PR01276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01276
+23	10360021	10360047	Keratin_II	387.0	-	10360021	10360047	83,88,95	1	26	0	PR01276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01276
+23	10357124	10360056	IF	393.5	-	10357124	10360056	83,88,95	7	2876,-208,-60,-95,-164,-125,2711	0,1767,1044,898,704,449,221	PF00038	http://pfam.sanger.ac.uk/family?acc=PF00038
+23	10358108	10358167	Keratin_II	807.0	-	10358108	10358167	83,88,95	1	59	0	PR01276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01276
+23	10357334	10357483	Keratin_I	153.0	-	10357334	10357483	83,88,95	2	114,138	0,11	PR01248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01248
+23	10357727	10357789	Keratin_I	351.0	-	10357727	10357789	83,88,95	1	62	0	PR01248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01248
+23	10357981	10358137	Keratin_I	253.0	-	10357981	10358137	83,88,95	2	127,115	0,41	PR01248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01248
+23	10358159	10358714	Keratin_I	246.0	-	10358159	10358714	83,88,95	2	524,546	0,9	PR01248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01248
+23	10357259	10357306	Keratin_II	456.0	-	10357259	10357306	83,88,95	1	47	0	PR01276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01276
+23	10357508	10357561	Keratin_II	549.0	-	10357508	10357561	83,88,95	1	53	0	PR01276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01276
+23	10357463	10358110	Prefoldin	0.0	-	10357463	10358110	83,88,95	4	645,-95,-164,537	0,559,365,110	SSF46579	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46579

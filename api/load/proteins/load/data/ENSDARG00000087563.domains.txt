@@ -1,9 +1,3 @@
-browser position chr15:42601596-42607151
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000087563	ENSDART00000126310	ENSDARP00000105348	42601596	42607151	###
-#	PR00466	IPR000778	8	21	\N	8.400000000000001e-10	64.29	PTVHVDGPFGSPSE
-15	42605124	42607130	Cyt_b245_heavy_chain_(PR00466)	510.0	-
-#	PR00466	IPR000778	31	48	\N	8.400000000000001e-10	55.56	CVAGGIGVTPFACVLQAL
-15	42605043	42605096	Cyt_b245_heavy_chain_(PR00466)	540.0	-
-#	PF08030	IPR013121	26	81	\N	1.3999999999999999e-14	0.0	YEVSLCVAGGIGVTPFACVLQALYDDWCHYKLKRLYFVWICRDIQCFYWFADLLCG
-15	42601608	42605111	Fe_red_NAD-bd_6_(PF08030)	40.9	-
+15	42605124	42607130	Cyt_b245_heavy_chain	510.0	-	42605124	42607130	83,88,95	2	2002,1970	0,36	PR00466	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00466&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00466
+15	42605043	42605096	Cyt_b245_heavy_chain	540.0	-	42605043	42605096	83,88,95	1	53	0	PR00466	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00466&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00466
+15	42601608	42605111	Fe_red_NAD-bd_6	40.9	-	42601608	42605111	83,88,95	2	3433,3407	0,96	PF08030	http://pfam.sanger.ac.uk/family?acc=PF08030

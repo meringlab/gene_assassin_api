@@ -1,17 +1,7 @@
-browser position chr3:8798913-8799810
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000039104	ENSDART00000057107	ENSDARP00000057106	8798913	8799810	###
-#	PF01129	IPR000768	28	231	\N	2.3e-52	0.0	LDMALNSVDDQYVKCTGQMENMVDNYYLETEQSSYPKFRTAWEDGKRNAVKPSPENPLNRNHLIAIYVYTDRTVYADFNNDVRIGKSTYKNGNYKWNSLHFLLTDAVQILKTSQDNCYKTYRGANVNINDQNVLNTEVRLGSFVSSSTDPEKTRPFGKTSCFEIRTCKGAKIFKYSKFPHEKEVLIPPYETFKVTKIQRKTENK
-3	8799039	8799650	ART_(PF01129)	163.6	-
-#	PR00970	IPR000768	208	223	\N	8.2e-28	58.33	EKEVLIPPYETFKVTK
-3	8799063	8799110	ART_(PR00970)	481.0	-
-#	PR00970	IPR000768	187	203	\N	8.2e-28	42.35	SCFEIRTCKGAKIFKYS
-3	8799123	8799173	ART_(PR00970)	323.0	-
-#	PR00970	IPR000768	121	137	\N	8.2e-28	43.53	YKWNSLHFLLTDAVQIL
-3	8799321	8799371	ART_(PR00970)	426.0	-
-#	PR00970	IPR000768	165	180	\N	8.2e-28	42.08	VRLGSFVSSSTDPEKT
-3	8799192	8799239	ART_(PR00970)	275.0	-
-#	PR00970	IPR000768	85	99	\N	8.2e-28	29.33	LNRNHLIAIYVYTDR
-3	8799435	8799479	ART_(PR00970)	187.0	-
-#	PR00970	IPR000768	29	50	\N	8.2e-28	48.79	DMALNSVDDQYVKCTGQMENMV
-3	8799582	8799647	ART_(PR00970)	524.0	-
+3	8799039	8799650	ART	163.6	-	8799039	8799650	83,88,95	1	611	0	PF01129	http://pfam.sanger.ac.uk/family?acc=PF01129
+3	8799063	8799110	ART	481.0	-	8799063	8799110	83,88,95	1	47	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	8799123	8799173	ART	323.0	-	8799123	8799173	83,88,95	1	50	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	8799321	8799371	ART	426.0	-	8799321	8799371	83,88,95	1	50	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	8799192	8799239	ART	275.0	-	8799192	8799239	83,88,95	1	47	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	8799435	8799479	ART	187.0	-	8799435	8799479	83,88,95	1	44	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	8799582	8799647	ART	524.0	-	8799582	8799647	83,88,95	1	65	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970

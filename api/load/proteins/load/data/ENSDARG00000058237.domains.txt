@@ -1,17 +1,7 @@
-browser position chr2:10725784-10818715
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000058237	ENSDART00000081072	ENSDARP00000075515	10725784	10818563	###
-#	PR01743	IPR008116	8	27	\N	4.1e-47	91.67	TAVPSDGQAREKLALYVYEY
-2	10818089	10818493	SSDP_DNA-bd_(PR01743)	938.0	-
-#	PR01743	IPR008116	29	44	\N	4.1e-47	98.96	LHVGAQKSAQTFLSEI
-2	10817925	10818085	SSDP_DNA-bd_(PR01743)	766.0	-
-#	PR01743	IPR008116	45	62	\N	4.1e-47	99.69	RWEKNITLGEPPGFLHSW
-2	10817871	10817924	SSDP_DNA-bd_(PR01743)	1088.0	-
-#	PR01743	IPR008116	63	76	\N	4.1e-47	98.81	WCVFWDLYCAAPER
-2	10814079	10817870	SSDP_DNA-bd_(PR01743)	915.0	-
-#	PR01743	IPR008116	77	92	\N	4.1e-47	87.15	RDTCDHSSEAKAFHDY
-2	10814031	10814078	SSDP_DNA-bd_(PR01743)	825.0	-
-#	SM00667	IPR006594	16	48	\N	0.0018	0.0	AREKLALYVYEYLLHVGAQKSAQTFLSEIRWEK
-2	10817913	10818469	LisH_dimerisation_(SM00667)	27.5	-
-#	PS50896	IPR006594	16	48	\N	0.0	0.0	AREKLALYVYEYLLHVGAQKSAQTFLSEIRWEK
-2	10817913	10818469	LisH_dimerisation_(PS50896)	9.397	-
+2	10818089	10818493	SSDP_DNA-bd	938.0	-	10818089	10818493	83,88,95	2	370,380	0,24	PR01743	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01743&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01743
+2	10817925	10818085	SSDP_DNA-bd	766.0	-	10817925	10818085	83,88,95	2	116,158	0,2	PR01743	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01743&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01743
+2	10817871	10817924	SSDP_DNA-bd	1088.0	-	10817871	10817924	83,88,95	1	53	0	PR01743	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01743&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01743
+2	10814079	10817870	SSDP_DNA-bd	915.0	-	10814079	10817870	83,88,95	2	3787,3755	0,36	PR01743	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01743&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01743
+2	10814031	10814078	SSDP_DNA-bd	825.0	-	10814031	10814078	83,88,95	1	47	0	PR01743	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01743&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01743
+2	10817913	10818469	LisH_dimerisation	27.5	-	10817913	10818469	83,88,95	3	546,-72,542	0,200,14	SM00667	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00667
+2	10817913	10818469	LisH_dimerisation	9.397	-	10817913	10818469	83,88,95	3	546,-72,542	0,200,14	PS50896	http://www.expasy.ch/prosite/PS50896

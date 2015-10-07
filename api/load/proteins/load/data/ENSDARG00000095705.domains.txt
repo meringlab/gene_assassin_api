@@ -1,11 +1,4 @@
-browser position chr4:17665842-17674751
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000095705	ENSDART00000137798	ENSDARP00000114819	17667610	17674708	###
-#	PF10170	IPR018785	12	74	\N	1.6e-35	0.0	FSCQLCEVSSPYSFYGQKPPNTRAIVLLEECFGIKDPFSPEREKFLILGSKCSLCSKTVCVGT
-4	17667853	17674533	Cys-rich_DPF_(PF10170)	107.6	-
-#	PR01995	IPR018785	10	22	\N	7.4e-12	35.22	GVFSCQLCEVSSP
-4	17674501	17674539	Cys-rich_DPF_(PR01995)	251.0	-
-#	PR01995	IPR018785	33	51	\N	7.4e-12	38.23	TRAIVLLEECFGIKDPFSP
-4	17667922	17674470	Cys-rich_DPF_(PR01995)	398.0	-
-#	PR01995	IPR018785	56	77	\N	7.4e-12	47.85	FLILGSKCSLCSKTVCVGTVRR
-4	17667844	17667909	Cys-rich_DPF_(PR01995)	564.0	-
+4	17667853	17674533	Cys-rich_DPF	107.6	-	17667853	17674533	83,88,95	2	6604,6569	0,111	PF10170	http://pfam.sanger.ac.uk/family?acc=PF10170
+4	17674501	17674539	Cys-rich_DPF	251.0	-	17674501	17674539	83,88,95	1	38	0	PR01995	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01995&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01995
+4	17667922	17674470	Cys-rich_DPF	398.0	-	17667922	17674470	83,88,95	2	6535,6506	0,42	PR01995	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01995&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01995
+4	17667844	17667909	Cys-rich_DPF	564.0	-	17667844	17667909	83,88,95	1	65	0	PR01995	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01995&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01995

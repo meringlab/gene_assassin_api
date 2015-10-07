@@ -1,15 +1,6 @@
-browser position chr2:8846226-8922838
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000024479	ENSDART00000028906	ENSDARP00000039104	8846226	8922838	###
-#	PF01650	IPR001096	42	271	\N	7e-48	0.0	NWAVLVCTSRFWFNYRHVANTLSVYRSVKRLGIPDSHIVLMLADDMACNYRNPKPATVFSHKNMELNVYGDDVEVDYRGYEVTVENFLRVLTGRLPLSTPRSKRLLSDDRSNILIYLTGHGGNGFLKFQDSEEISNMELADAFEQMWQKRRYNELLFIIDTCQGASMYERFYSPNIMALASSQVGEDSLSHQPDLAIGVHLMDKYTFYLLEFLEEVHPASQANMNDLFKV
-2	8848506	8875349	Peptidase_C13_(PF01650)	149.4	+
-#	PR00776	IPR001096	117	132	\N	7.299999999999999e-38	62.23	DYRGYEVTVENFLRVL
-2	8851549	8854342	Peptidase_C13_(PR00776)	499.0	+
-#	PR00776	IPR001096	144	163	\N	7.299999999999999e-38	47.17	KRLLSDDRSNILIYLTGHGG
-2	8854376	8854513	Peptidase_C13_(PR00776)	472.0	+
-#	PR00776	IPR001096	68	97	\N	7.299999999999999e-38	43.91	SVKRLGIPDSHIVLMLADDMACNYRNPKPA
-2	8850187	8851491	Peptidase_C13_(PR00776)	711.0	+
-#	PR00776	IPR001096	43	67	\N	7.299999999999999e-38	52.87	WAVLVCTSRFWFNYRHVANTLSVYR
-2	8848509	8850186	Peptidase_C13_(PR00776)	706.0	+
-#	PR00776	IPR001096	193	209	\N	7.299999999999999e-38	36.06	YNELLFIIDTCQGASMY
-2	8865157	8865207	Peptidase_C13_(PR00776)	442.0	+
+2	8848506	8875349	Peptidase_C13	149.4	+	8848506	8875349	83,88,95	8	14,91,135,111,96,117,110,8	0,1618,2925,5807,5997,16650,20552,26835	PF01650	http://pfam.sanger.ac.uk/family?acc=PF01650
+2	8851549	8854342	Peptidase_C13	499.0	+	8851549	8854342	83,88,95	2	17,29	0,2764	PR00776	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00776&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00776
+2	8854376	8854513	Peptidase_C13	472.0	+	8854376	8854513	83,88,95	2	48,10	0,127	PR00776	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00776&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00776
+2	8850187	8851491	Peptidase_C13	711.0	+	8850187	8851491	83,88,95	2	28,60	0,1244	PR00776	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00776&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00776
+2	8848509	8850186	Peptidase_C13	706.0	+	8848509	8850186	83,88,95	2	11,62	0,1615	PR00776	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00776&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00776
+2	8865157	8865207	Peptidase_C13	442.0	+	8865157	8865207	83,88,95	1	50	0	PR00776	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00776&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00776

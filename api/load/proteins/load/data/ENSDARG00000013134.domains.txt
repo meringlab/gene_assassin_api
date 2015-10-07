@@ -1,19 +1,8 @@
-browser position chr17:40041367-40048800
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000013134	ENSDART00000002217	ENSDARP00000003339	40041367	40048800	###
-#	PR00218	IPR000830	265	286	\N	1.4e-59	45.87	IGLMVLIIWLFELSVLTGVRYL
-17	40041604	40045018	Peripherin/rom-1_(PR00218)	624.0	-
-#	PR00218	IPR000830	198	224	\N	1.4e-59	78.79	SNVESKYLMDGVPFSCCNVNSPRPCIQ
-17	40045139	40045219	Peripherin/rom-1_(PR00218)	1270.0	-
-#	PR00218	IPR000830	158	186	\N	1.4e-59	72.1	LLQMQFQCCGNEGFRDWFQIQWVSNRYLD
-17	40048243	40048329	Peripherin/rom-1_(PR00218)	1393.0	-
-#	PR00218	IPR000830	102	122	\N	1.4e-59	20.78	IICMFFFTLSVLVGALMCYSM
-17	40048435	40048497	Peripherin/rom-1_(PR00218)	162.0	-
-#	PR00218	IPR000830	60	79	\N	1.4e-59	45.45	VPNMLIVVGLIACVINFLGG
-17	40048564	40048623	Peripherin/rom-1_(PR00218)	478.0	-
-#	PR00218	IPR000830	19	41	\N	1.4e-59	52.17	VLWVLNWISVVTGIILFSLGIFL
-17	40048678	40048746	Peripherin/rom-1_(PR00218)	715.0	-
-#	PF00335	IPR018499	19	287	\N	1.3e-55	0.0	VLWVLNWISVVTGIILFSLGIFLKVEIYKRQDLMAEGQLQSVPNMLIVVGLIACVINFLGGKICYDCVDSSRFLHWKLVMLPYIICMFFFTLSVLVGALMCYSMHSQLEESLTLGLRDAMRYYKDTDTPGRCFLKRTVDLLQMQFQCCGNEGFRDWFQIQWVSNRYLDMSQREVVDRLRSNVESKYLMDGVPFSCCNVNSPRPCIQHQISNNSAHFNYDYQTEELNLWMRGCRQALLQYYTNIMHSIGLMVLIIWLFELSVLTGVRYLQ
-17	40041601	40048746	Tetraspanin/Peripherin_(PF00335)	174.4	-
-#	SSF48652	IPR008952	120	262	\N	1.6e-11	0.0	YSMHSQLEESLTLGLRDAMRYYKDTDTPGRCFLKRTVDLLQMQFQCCGNEGFRDWFQIQWVSNRYLDMSQREVVDRLRSNVESKYLMDGVPFSCCNVNSPRPCIQHQISNNSAHFNYDYQTEELNLWMRGCRQALLQYYTNIM
-17	40045025	40048443	Tetraspanin_EC2_(SSF48652)	0.0	-
+17	40041604	40045018	Peripherin/rom-1	624.0	-	40041604	40045018	83,88,95	2	3379,3385	0,29	PR00218	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00218&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00218
+17	40045139	40045219	Peripherin/rom-1	1270.0	-	40045139	40045219	83,88,95	1	80	0	PR00218	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00218&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00218
+17	40048243	40048329	Peripherin/rom-1	1393.0	-	40048243	40048329	83,88,95	1	86	0	PR00218	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00218&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00218
+17	40048435	40048497	Peripherin/rom-1	162.0	-	40048435	40048497	83,88,95	1	62	0	PR00218	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00218&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00218
+17	40048564	40048623	Peripherin/rom-1	478.0	-	40048564	40048623	83,88,95	1	59	0	PR00218	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00218&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00218
+17	40048678	40048746	Peripherin/rom-1	715.0	-	40048678	40048746	83,88,95	1	68	0	PR00218	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00218&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00218
+17	40041601	40048746	Tetraspanin/Peripherin	174.4	-	40041601	40048746	83,88,95	3	6619,-246,7113	0,3628,32	PF00335	http://pfam.sanger.ac.uk/family?acc=PF00335
+17	40045025	40048443	Tetraspanin_EC2	0.0	-	40045025	40048443	83,88,95	2	3195,3214	0,204	SSF48652	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48652

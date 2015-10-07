@@ -1,15 +1,6 @@
-browser position chr12:27468003-27491023
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000076081	ENSDART00000105615	ENSDARP00000096392	27468003	27491023	###
-#	PF01387	IPR001058	1	102	\N	4.5000000000000005e-45	0.0	MDVLMKGFSMAKEGVVAAAEKTKAGVEEAALKTKEGVMYVGNKTKEGMVSGVNTVVQKTTDQANIVGETAVGGANVAGQNTVEGLENVAASTGMVNPGDFSH
-12	27472080	27491023	Synuclein_(PF01387)	139.2	-
-#	PR01211	IPR001058	2	14	\N	1.3000000000000001e-37	78.85	DVLMKGFSMAKEG
-12	27490982	27491020	Synuclein_(PR01211)	510.0	-
-#	PR01211	IPR001058	14	28	\N	1.3000000000000001e-37	82.22	GVVAAAEKTKAGVEE
-12	27490940	27490984	Synuclein_(PR01211)	565.0	-
-#	PR01211	IPR001058	29	48	\N	1.3000000000000001e-37	79.17	AALKTKEGVMYVGNKTKEGM
-12	27479587	27490939	Synuclein_(PR01211)	788.0	-
-#	PR01211	IPR001058	49	72	\N	1.3000000000000001e-37	43.75	VSGVNTVVQKTTDQANIVGETAVG
-12	27479433	27479586	Synuclein_(PR01211)	475.0	-
-#	PR01211	IPR001058	84	99	\N	1.3000000000000001e-37	42.19	GLENVAASTGMVNPGD
-12	27472089	27479399	Synuclein_(PR01211)	340.0	-
+12	27472080	27491023	Synuclein	139.2	-	27472080	27491023	83,88,95	4	18823,-41,-127,18929	0,7529,7405,14	PF01387	http://pfam.sanger.ac.uk/family?acc=PF01387
+12	27490982	27491020	Synuclein	510.0	-	27490982	27491020	83,88,95	1	38	0	PR01211	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01211&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01211
+12	27490940	27490984	Synuclein	565.0	-	27490940	27490984	83,88,95	1	44	0	PR01211	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01211&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01211
+12	27479587	27490939	Synuclein	788.0	-	27479587	27490939	83,88,95	2	11316,11330	0,22	PR01211	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01211&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01211
+12	27479433	27479586	Synuclein	475.0	-	27479433	27479586	83,88,95	2	135,101	0,52	PR01211	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01211&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01211
+12	27472089	27479399	Synuclein	340.0	-	27472089	27479399	83,88,95	2	7269,7305	0,5	PR01211	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01211&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01211

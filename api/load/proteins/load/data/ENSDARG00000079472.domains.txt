@@ -1,35 +1,16 @@
-browser position chr21:5762765-5771598
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000079472	ENSDART00000115367	ENSDARP00000103414	5762765	5771598	###
-#	PF00001	IPR000276	107	351	\N	1.1000000000000002e-34	0.0	NIAILLTVGTKVRVISSAILYCSLAVSDLLLLFSLFLKTHYHLNGNNWIFGETACRVTTAFFYGNLYCSAFTLACISIKRYIAVVHPFFYKSLPKRSFSAWGGLIVWIVFIVALLPECLVKQSYYIMHLGITTCHDVLPDTIDYRWLEYYNLGLTCVGFFGPLVVTIGCYASIVWHLNRSHRDWALYIRASSLNFVIFVVCFGPSSCFHFVHYFLLSLEITESFYMYFSVAVCLCCLHSALDPFL
-21	5770783	5771517	GPCR_Rhodpsn_(PF00001)	106.0	+
-#	PR00237	IPR000276	91	115	\N	1.3000000000000001e-20	18.46	FIPAIYIISLVVGIPANIAILLTVG
-21	5770735	5770809	GPCR_Rhodpsn_(PR00237)	201.0	+
-#	PR00237	IPR000276	123	144	\N	1.3000000000000001e-20	29.94	SAILYCSLAVSDLLLLFSLFLK
-21	5770831	5770896	GPCR_Rhodpsn_(PR00237)	199.0	+
-#	PR00237	IPR000276	168	190	\N	1.3000000000000001e-20	31.63	FYGNLYCSAFTLACISIKRYIAV
-21	5770966	5771034	GPCR_Rhodpsn_(PR00237)	297.0	+
-#	PR00237	IPR000276	257	280	\N	1.3000000000000001e-20	26.7	NLGLTCVGFFGPLVVTIGCYASIV
-21	5771233	5771304	GPCR_Rhodpsn_(PR00237)	225.0	+
-#	PR00237	IPR000276	293	317	\N	1.3000000000000001e-20	18.28	YIRASSLNFVIFVVCFGPSSCFHFV
-21	5771341	5771415	GPCR_Rhodpsn_(PR00237)	148.0	+
-#	PR00237	IPR000276	334	360	\N	1.3000000000000001e-20	17.88	FSVAVCLCCLHSALDPFLFMVMSRTVG
-21	5771464	5771544	GPCR_Rhodpsn_(PR00237)	193.0	+
-#	PR01428	IPR003912	79	96	\N	2e-12	38.89	TAVYLRGPISIWFIPAIY
-21	5770699	5770752	Protea_act_rcpt_(PR01428)	335.0	+
-#	PR01428	IPR003912	146	160	\N	2e-12	61.9	HYHLNGNNWIFGETA
-21	5770900	5770944	Protea_act_rcpt_(PR01428)	602.0	+
-#	PR01428	IPR003912	295	308	\N	2e-12	30.61	RASSLNFVIFVVCF
-21	5771347	5771388	Protea_act_rcpt_(PR01428)	204.0	+
-#	PR01428	IPR003912	318	331	\N	2e-12	31.63	HYFLLSLEITESFY
-21	5771416	5771457	Protea_act_rcpt_(PR01428)	197.0	+
-#	PR01429	IPR003943	8	28	\N	7.1e-06	30.95	KAFLIVLVTLFLLNTTQTQGK
-21	5762786	5770548	Prot_act_rcpt_3_(PR01429)	200.0	+
-#	PR01429	IPR003943	193	210	\N	7.1e-06	44.44	PFFYKSLPKRSFSAWGGL
-21	5771041	5771094	Prot_act_rcpt_3_(PR01429)	345.0	+
-#	PR01429	IPR003943	228	239	\N	7.1e-06	50.0	QSYYIMHLGITT
-21	5771146	5771181	Prot_act_rcpt_3_(PR01429)	335.0	+
-#	PR01429	IPR003943	287	299	\N	7.1e-06	42.31	HRDWALYIRASSL
-21	5771323	5771361	Prot_act_rcpt_3_(PR01429)	255.0	+
-#	PS50262	IPR017452	106	352	\N	0.0	0.0	ANIAILLTVGTKVRVISSAILYCSLAVSDLLLLFSLFLKTHYHLNGNNWIFGETACRVTTAFFYGNLYCSAFTLACISIKRYIAVVHPFFYKSLPKRSFSAWGGLIVWIVFIVALLPECLVKQSYYIMHLGITTCHDVLPDTIDYRWLEYYNLGLTCVGFFGPLVVTIGCYASIVWHLNRSHRDWALYIRASSLNFVIFVVCFGPSSCFHFVHYFLLSLEITESFYMYFSVAVCLCCLHSALDPFLF
-21	5770780	5771520	GPCR_Rhodpsn_7TM_(PS50262)	27.493000000000002	+
+21	5770783	5771517	GPCR_Rhodpsn	106.0	+	5770783	5771517	83,88,95	1	734	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+21	5770735	5770809	GPCR_Rhodpsn	201.0	+	5770735	5770809	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	5770831	5770896	GPCR_Rhodpsn	199.0	+	5770831	5770896	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	5770966	5771034	GPCR_Rhodpsn	297.0	+	5770966	5771034	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	5771233	5771304	GPCR_Rhodpsn	225.0	+	5771233	5771304	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	5771341	5771415	GPCR_Rhodpsn	148.0	+	5771341	5771415	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	5771464	5771544	GPCR_Rhodpsn	193.0	+	5771464	5771544	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+21	5770699	5770752	Protea_act_rcpt	335.0	+	5770699	5770752	83,88,95	1	53	0	PR01428	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01428&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01428
+21	5770900	5770944	Protea_act_rcpt	602.0	+	5770900	5770944	83,88,95	1	44	0	PR01428	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01428&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01428
+21	5771347	5771388	Protea_act_rcpt	204.0	+	5771347	5771388	83,88,95	1	41	0	PR01428	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01428&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01428
+21	5771416	5771457	Protea_act_rcpt	197.0	+	5771416	5771457	83,88,95	1	41	0	PR01428	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01428&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01428
+21	5762786	5770548	Prot_act_rcpt_3	200.0	+	5762786	5770548	83,88,95	2	57,4	0,7758	PR01429	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01429&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01429
+21	5771041	5771094	Prot_act_rcpt_3	345.0	+	5771041	5771094	83,88,95	1	53	0	PR01429	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01429&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01429
+21	5771146	5771181	Prot_act_rcpt_3	335.0	+	5771146	5771181	83,88,95	1	35	0	PR01429	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01429&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01429
+21	5771323	5771361	Prot_act_rcpt_3	255.0	+	5771323	5771361	83,88,95	1	38	0	PR01429	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01429&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01429
+21	5770780	5771520	GPCR_Rhodpsn_7TM	27.493000000000002	+	5770780	5771520	83,88,95	1	740	0	PS50262	http://www.expasy.ch/prosite/PS50262

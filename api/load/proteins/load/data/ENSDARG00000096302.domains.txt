@@ -1,17 +1,7 @@
-browser position chr6:20098826-20197068
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000096302	ENSDART00000151791	ENSDARP00000125873	20099207	20196856	###
-#	PS50058	IPR015898	7	72	\N	0.0	0.0	SSNNIAQARRNVQQLRIEANVERIKVSKASADLMHYCSEHAKYDPLLMGIPASENPFKDKKPCTIL
-6	20099282	20102542	G-protein_gamma-like_dom_(PS50058)	31.06	-
-#	PF00631	IPR015898	12	64	\N	2e-28	0.0	AQARRNVQQLRIEANVERIKVSKASADLMHYCSEHAKYDPLLMGIPASENPFK
-6	20099306	20102527	G-protein_gamma-like_dom_(PF00631)	84.5	-
-#	PR00321	IPR001770	14	29	\N	1.7e-21	50.74	ARRNVQQLRIEANVER
-6	20102474	20102521	Gprotein-gamma_(PR00321)	402.0	-
-#	PR00321	IPR001770	30	44	\N	1.7e-21	54.12	IKVSKASADLMHYCS
-6	20099366	20102473	Gprotein-gamma_(PR00321)	420.0	-
-#	PR00321	IPR001770	50	67	\N	1.7e-21	67.65	DPLLMGIPASENPFKDKK
-6	20099297	20099350	Gprotein-gamma_(PR00321)	698.0	-
-#	SM00224	IPR015898	11	72	\N	2.9999999999999997e-29	0.0	IAQARRNVQQLRIEANVERIKVSKASADLMHYCSEHAKYDPLLMGIPASENPFKDKKPCTIL
-6	20099282	20102530	G-protein_gamma-like_dom_(SM00224)	113.2	-
-#	SSF48670	IPR015898	1	67	\N	3.7e-19	0.0	MLSKMQSSNNIAQARRNVQQLRIEANVERIKVSKASADLMHYCSEHAKYDPLLMGIPASENPFKDKK
-6	20099297	20102560	G-protein_gamma-like_dom_(SSF48670)	0.0	-
+6	20099282	20102542	G-protein_gamma-like_dom	31.06	-	20099282	20102542	83,88,95	2	3186,3138	0,122	PS50058	http://www.expasy.ch/prosite/PS50058
+6	20099306	20102527	G-protein_gamma-like_dom	84.5	-	20099306	20102527	83,88,95	2	3162,3123	0,98	PF00631	http://pfam.sanger.ac.uk/family?acc=PF00631
+6	20102474	20102521	Gprotein-gamma	402.0	-	20102474	20102521	83,88,95	1	47	0	PR00321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00321
+6	20099366	20102473	Gprotein-gamma	420.0	-	20099366	20102473	83,88,95	2	3102,3069	0,38	PR00321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00321
+6	20099297	20099350	Gprotein-gamma	698.0	-	20099297	20099350	83,88,95	1	53	0	PR00321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00321
+6	20099282	20102530	G-protein_gamma-like_dom	113.2	-	20099282	20102530	83,88,95	2	3186,3126	0,122	SM00224	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00224
+6	20099297	20102560	G-protein_gamma-like_dom	0.0	-	20099297	20102560	83,88,95	2	3171,3156	0,107	SSF48670	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48670

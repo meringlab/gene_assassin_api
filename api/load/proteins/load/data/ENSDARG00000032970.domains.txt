@@ -1,15 +1,6 @@
-browser position chr18:30452117-30454519
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000032970	ENSDART00000026866	ENSDARP00000007446	30452117	30454519	###
-#	PR01873	IPR013288	39	52	\N	1.8e-25	48.29	FDRRESPLPEIKFV
-18	30453788	30453829	Cyt_c_oxidase_su4_(PR01873)	361.0	+
-#	PR01873	IPR013288	83	101	\N	1.8e-25	64.84	RISFKESFAEMNQGSGEWK
-18	30454001	30454057	Cyt_c_oxidase_su4_(PR01873)	687.0	+
-#	PR01873	IPR013288	124	137	\N	1.8e-25	52.86	YVYGDVPNTFDPEY
-18	30454124	30454255	Cyt_c_oxidase_su4_(PR01873)	426.0	+
-#	PR01873	IPR013288	152	168	\N	1.8e-25	67.29	PVQGFAAKWDYENNAWK
-18	30454298	30454348	Cyt_c_oxidase_su4_(PR01873)	754.0	+
-#	PF02936	IPR004203	27	169	\N	1.3e-49	0.0	VAKVEDYSLPAYFDRRESPLPEIKFVQQLSADQKSLKEKEKGSWAALSKEEKIALYRISFKESFAEMNQGSGEWKSVVAGIFFFVGLTGLVVLWQRKYVYGDVPNTFDPEYKQKEIQRMLDMRINPVQGFAAKWDYENNAWKK
-18	30453752	30454351	Cyt_c_oxidase_su4_fam_(PF02936)	154.0	+
-#	SSF81406	IPR004203	26	169	\N	4.4999999999999995e-60	0.0	GVAKVEDYSLPAYFDRRESPLPEIKFVQQLSADQKSLKEKEKGSWAALSKEEKIALYRISFKESFAEMNQGSGEWKSVVAGIFFFVGLTGLVVLWQRKYVYGDVPNTFDPEYKQKEIQRMLDMRINPVQGFAAKWDYENNAWKK
-18	30453749	30454351	Cyt_c_oxidase_su4_fam_(SSF81406)	0.0	+
+18	30453788	30453829	Cyt_c_oxidase_su4	361.0	+	30453788	30453829	83,88,95	1	41	0	PR01873	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01873&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01873
+18	30454001	30454057	Cyt_c_oxidase_su4	687.0	+	30454001	30454057	83,88,95	1	56	0	PR01873	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01873&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01873
+18	30454124	30454255	Cyt_c_oxidase_su4	426.0	+	30454124	30454255	83,88,95	2	3,37	0,94	PR01873	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01873&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01873
+18	30454298	30454348	Cyt_c_oxidase_su4	754.0	+	30454298	30454348	83,88,95	1	50	0	PR01873	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01873&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01873
+18	30453752	30454351	Cyt_c_oxidase_su4_fam	154.0	+	30453752	30454351	83,88,95	3	162,131,133	0,244,466	PF02936	http://pfam.sanger.ac.uk/family?acc=PF02936
+18	30453749	30454351	Cyt_c_oxidase_su4_fam	0.0	+	30453749	30454351	83,88,95	3	165,131,133	0,247,469	SSF81406	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81406

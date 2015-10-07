@@ -1,15 +1,6 @@
-browser position chr3:40279380-40282623
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000017084	ENSDART00000009411	ENSDARP00000015461	40279380	40282623	###
-#	PF01125	IPR001748	1	143	\N	4.5999999999999994e-70	0.0	MPKVKRSRKPPPDGWELIEPTLDELDQKMREAETEPHEGKRKVESLWPIFRLHHQRSRYIFDLFYKRKAISRELYEYCIREGYADKNLIAKWKKQGYENLCCLRCIQTRDTNFGTNCICRVPKGKLEVGRIIECTHCGCRGCS
-3	40279696	40282183	G10_(PF01125)	220.2	+
-#	PR00322	IPR001748	12	32	\N	1.3e-62	76.79	PDGWELIEPTLDELDQKMREA
-3	40279729	40280018	G10_(PR00322)	869.0	+
-#	PR00322	IPR001748	47	70	\N	1.3e-62	76.04	WPIFRLHHQRSRYIFDLFYKRKAI
-3	40280061	40280132	G10_(PR00322)	1122.0	+
-#	PR00322	IPR001748	71	96	\N	1.3e-62	75.0	SRELYEYCIREGYADKNLIAKWKKQG
-3	40280133	40281931	G10_(PR00322)	1108.0	+
-#	PR00322	IPR001748	97	122	\N	1.3e-62	84.13	YENLCCLRCIQTRDTNFGTNCICRVP
-3	40281932	40282009	G10_(PR00322)	1333.0	+
-#	PR00322	IPR001748	134	143	\N	1.3e-62	83.75	CTHCGCRGCS
-3	40282154	40282183	G10_(PR00322)	624.0	+
+3	40279696	40282183	G10	220.2	+	40279696	40282183	83,88,95	4	93,122,166,44	0,321,2165,2443	PF01125	http://pfam.sanger.ac.uk/family?acc=PF01125
+3	40279729	40280018	G10	869.0	+	40279729	40280018	83,88,95	2	60,1	0,288	PR00322	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00322&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00322
+3	40280061	40280132	G10	1122.0	+	40280061	40280132	83,88,95	1	71	0	PR00322	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00322&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00322
+3	40280133	40281931	G10	1108.0	+	40280133	40281931	83,88,95	2	6,70	0,1728	PR00322	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00322&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00322
+3	40281932	40282009	G10	1333.0	+	40281932	40282009	83,88,95	1	77	0	PR00322	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00322&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00322
+3	40282154	40282183	G10	624.0	+	40282154	40282183	83,88,95	1	29	0	PR00322	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00322&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00322

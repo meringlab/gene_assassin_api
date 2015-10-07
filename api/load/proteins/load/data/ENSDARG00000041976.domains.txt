@@ -1,11 +1,4 @@
-browser position chr20:34816774-34819073
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000041976	ENSDART00000061523	ENSDARP00000061522	34816774	34819073	###
-#	PF06083	IPR010345	10	155	\N	2e-44	0.0	VLLLFLLMLLLDAALSENRTKRKRCSGVKKCTSAGCKSRCQRKTAWVILNSAWDNIMSDTPSPDRSLSPWTYTTSVDESRIPSTISEAKCEKRGCLTKDGEEDLGLESQPIYYQINILRRVKKKNSTFYALKLETKKVSVGCTCVL
-20	34817507	34818342	IL-17_fam_(PF06083)	137.9	+
-#	PR01932	IPR020440	140	154	\N	1.6e-08	53.33	LKLETKKVSVGCTCV
-20	34818295	34818339	IL-17_chr_(PR01932)	435.0	+
-#	PR01932	IPR020440	96	105	\N	1.6e-08	53.42	EAKCEKRGCL
-20	34818163	34818192	IL-17_chr_(PR01932)	316.0	+
-#	PR01932	IPR020440	77	89	\N	1.6e-08	48.99	SPWTYTTSVDESR
-20	34817708	34818144	IL-17_chr_(PR01932)	364.0	+
+20	34817507	34818342	IL-17_fam	137.9	+	34817507	34818342	83,88,95	2	217,219	0,616	PF06083	http://pfam.sanger.ac.uk/family?acc=PF06083
+20	34818295	34818339	IL-17_chr	435.0	+	34818295	34818339	83,88,95	1	44	0	PR01932	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01932&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01932
+20	34818163	34818192	IL-17_chr	316.0	+	34818163	34818192	83,88,95	1	29	0	PR01932	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01932&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01932
+20	34817708	34818144	IL-17_chr	364.0	+	34817708	34818144	83,88,95	2	16,21	0,415	PR01932	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01932&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01932

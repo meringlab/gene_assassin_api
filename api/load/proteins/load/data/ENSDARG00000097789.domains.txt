@@ -1,23 +1,10 @@
-browser position chr16:26896251-26900819
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000097789	ENSDART00000058959	ENSDARP00000058958	26896251	26900819	###
-#	PR01785	IPR002640	133	146	\N	1.4e-47	63.33	NHPQGKSQVEIFRF
-16	26898422	26898463	Arylesterase_(PR01785)	514.0	-
-#	PR01785	IPR002640	174	186	\N	1.4e-47	82.56	GTESFYATNDHYF
-16	26898229	26898267	Arylesterase_(PR01785)	627.0	-
-#	PR01785	IPR002640	207	220	\N	1.4e-47	70.0	YYSPETVQVVAGGF
-16	26898127	26898168	Arylesterase_(PR01785)	512.0	-
-#	PR01785	IPR002640	269	290	\N	1.4e-47	63.94	DNIEVDRESGDLWLGCHPNGYK
-16	26896674	26896739	Arylesterase_(PR01785)	895.0	-
-#	PR01785	IPR002640	233	251	\N	1.4e-47	31.93	RHLYVSNLMKHKITVLEIQ
-16	26897914	26898090	Arylesterase_(PR01785)	371.0	-
-#	PR01785	IPR002640	48	62	\N	1.4e-47	56.44	GVEFGAEDITILEDG
-16	26898986	26900490	Arylesterase_(PR01785)	441.0	-
-#	PF08450	IPR013658	149	288	\N	2e-13	0.0	HENALKHIKTIKHELLHSVNDIVAVGTESFYATNDHYFTNDILKSLELLFSLPWCDVVYYSPETVQVVAGGFLFANGINISPNKRHLYVSNLMKHKITVLEIQKTTELSHVKEVDVGSLCDNIEVDRESGDLWLGCHPNG
-16	26896680	26898415	SGL_(PF08450)	38.2	-
-#	PF01731	IPR002640	168	252	\N	2.7e-32	0.0	NDIVAVGTESFYATNDHYFTNDILKSLELLFSLPWCDVVYYSPETVQVVAGGFLFANGINISPNKRHLYVSNLMKHKITVLEIQK
-16	26897911	26898285	Arylesterase_(PF01731)	98.7	-
-#	PR01785	IPR002640	337	353	\N	1.4e-47	67.84	YRGKLLIGTVYQKALIC
-16	26896306	26896356	Arylesterase_(PR01785)	646.0	-
-#	PR01785	IPR002640	71	84	\N	1.4e-47	34.29	KYPGVPYYSEDPGK
-16	26898820	26898861	Arylesterase_(PR01785)	259.0	-
+16	26898422	26898463	Arylesterase	514.0	-	26898422	26898463	83,88,95	1	41	0	PR01785	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01785&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01785
+16	26898229	26898267	Arylesterase	627.0	-	26898229	26898267	83,88,95	1	38	0	PR01785	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01785&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01785
+16	26898127	26898168	Arylesterase	512.0	-	26898127	26898168	83,88,95	1	41	0	PR01785	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01785&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01785
+16	26896674	26896739	Arylesterase	895.0	-	26896674	26896739	83,88,95	1	65	0	PR01785	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01785&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01785
+16	26897914	26898090	Arylesterase	371.0	-	26897914	26898090	83,88,95	2	175,122	0,54	PR01785	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01785&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01785
+16	26898986	26900490	Arylesterase	441.0	-	26898986	26900490	83,88,95	2	1498,1467	0,37	PR01785	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01785&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01785
+16	26896680	26898415	SGL	38.2	-	26896680	26898415	83,88,95	4	1683,-200,-81,1652	0,1609,1288,83	PF08450	http://pfam.sanger.ac.uk/family?acc=PF08450
+16	26897911	26898285	Arylesterase	98.7	-	26897911	26898285	83,88,95	2	178,317	0,57	PF01731	http://pfam.sanger.ac.uk/family?acc=PF01731
+16	26896306	26896356	Arylesterase	646.0	-	26896306	26896356	83,88,95	1	50	0	PR01785	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01785&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01785
+16	26898820	26898861	Arylesterase	259.0	-	26898820	26898861	83,88,95	1	41	0	PR01785	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01785&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01785

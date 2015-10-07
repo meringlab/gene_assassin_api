@@ -1,13 +1,5 @@
-browser position chr8:25932413-25943401
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000000690	ENSDART00000000744	ENSDARP00000001793	25932413	25943401	###
-#	PR00220	IPR001285	129	152	\N	1.6e-40	61.81	GPYIDLLVTAIFTFIWLVCSSAWG
-8	25935987	25938482	Synaptophysin/porin_(PR00220)	861.0	+
-#	PR00220	IPR001285	97	121	\N	1.6e-40	49.67	FFVAVGVLAFLYSTATLVLYLGYQH
-8	25935891	25935965	Synaptophysin/porin_(PR00220)	641.0	+
-#	PR00220	IPR001285	18	40	\N	1.6e-40	64.13	IRVLEWIFAIFAFATTGGYSGST
-8	25932810	25934734	Synaptophysin/porin_(PR00220)	833.0	+
-#	PR00220	IPR001285	196	214	\N	1.6e-40	70.18	VIFGFLNLILWGGNCWFLY
-8	25938612	25942178	Synaptophysin/porin_(PR00220)	872.0	+
-#	PF01284	IPR008253	11	212	\N	9.2e-44	0.0	LKEPLGFIRVLEWIFAIFAFATTGGYSGSTSFNIVCKGSSVTQEINASFSYPFRLNTQSYKVPTCEANSTTFRTRQLTGDHSSSAEFFVAVGVLAFLYSTATLVLYLGYQHLYRQSPRGPYIDLLVTAIFTFIWLVCSSAWGKGLTDVKWATSPNSLVSLNEVCRQELNKCTAGHTPLMGRLNSSVIFGFLNLILWGGNCWF
-8	25932789	25942172	Marvel_(PF01284)	135.2	+
+8	25935987	25938482	Synaptophysin/porin	861.0	+	25935987	25938482	83,88,95	2	11,59	0,2436	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+8	25935891	25935965	Synaptophysin/porin	641.0	+	25935891	25935965	83,88,95	1	74	0	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+8	25932810	25934734	Synaptophysin/porin	833.0	+	25932810	25934734	83,88,95	2	17,50	0,1874	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+8	25938612	25942178	Synaptophysin/porin	872.0	+	25938612	25942178	83,88,95	2	2,53	0,3513	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+8	25932789	25942172	Marvel	135.2	+	25932789	25942172	83,88,95	5	38,121,204,191,47	0,1895,3005,5634,9336	PF01284	http://pfam.sanger.ac.uk/family?acc=PF01284

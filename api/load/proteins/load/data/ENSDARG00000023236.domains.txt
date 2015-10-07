@@ -1,81 +1,39 @@
-browser position chr22:40863783-40913738
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000023236	ENSDART00000032246	ENSDARP00000031423	40863783	40913738	###
-#	PR01464	IPR003949	19	26	\N	3.4999999999999997e-79	95.83	ENIVRRSN
-22	40863837	40863860	K_chnl_volt-dep_EAG_(PR01464)	381.0	+
-#	PR01464	IPR003949	114	127	\N	3.4999999999999997e-79	95.24	APIRNEQDKVVLFL
-22	40870898	40870939	K_chnl_volt-dep_EAG_(PR01464)	654.0	+
-#	PR01464	IPR003949	129	140	\N	3.4999999999999997e-79	94.44	TFSDITAFKQPI
-22	40870943	40870978	K_chnl_volt-dep_EAG_(PR01464)	574.0	+
-#	PR01464	IPR003949	150	162	\N	3.4999999999999997e-79	90.6	KFARLTRALTSSR
-22	40873303	40873341	K_chnl_volt-dep_EAG_(PR01464)	552.0	+
-#	PR01464	IPR003949	189	206	\N	3.4999999999999997e-79	93.83	QLGSDILPQYKQEAPKTP
-22	40876318	40876371	K_chnl_volt-dep_EAG_(PR01464)	905.0	+
-#	PR01464	IPR003949	297	305	\N	3.4999999999999997e-79	97.53	VIDLLSCLP
-22	40876642	40876668	K_chnl_volt-dep_EAG_(PR01464)	457.0	+
-#	PR01463	IPR003938	265	274	\N	3.7999999999999994e-48	79.06	IVLNFHTTFV
-22	40876546	40876575	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	429.0	+
-#	PR01463	IPR003938	254	264	\N	3.7999999999999994e-48	67.61	DSIVDVIFLVD
-22	40876513	40876545	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	399.0	+
-#	PR01463	IPR003938	230	237	\N	3.7999999999999994e-48	73.05	YTAIMVPY
-22	40876441	40876464	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	349.0	+
-#	PR01464	IPR003949	707	718	\N	3.4999999999999997e-79	87.96	DHPVRRLFQRFR
-22	40912980	40913015	K_chnl_volt-dep_EAG_(PR01464)	596.0	+
-#	PR01464	IPR003949	390	396	\N	3.4999999999999997e-79	68.25	SWLYLLG
-22	40883803	40883823	K_chnl_volt-dep_EAG_(PR01464)	268.0	+
-#	SM00100	IPR000595	554	672	\N	4.7e-18	0.0	AFRLASDGCLRALAMEFQTIHSAPGDLIYHAGESVDSLCFVVSGSLEVIQDDEVVAILGKGDVFGDVFWKEVNLAQSCANVRALTYCDLHIIKRDALQKVLEFYTAFAGHFSRNLVLTY
-22	40897116	40898203	cNMP-bd_dom_(SM00100)	76.0	+
-#	SM00086	IPR001610	94	136	\N	4e-07	0.0	SFELLMYKKNRMPVWFFVKIAPIRNEQDKVVLFLCTFSDITAF
-22	40870755	40870966	PAC_(SM00086)	39.7	+
-#	PR01463	IPR003938	449	460	\N	3.7999999999999994e-48	64.32	EKIFAVAMMMIG
-22	40883980	40884015	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	427.0	+
-#	PR01463	IPR003938	467	476	\N	3.7999999999999994e-48	73.44	IFGNVTNIFQ
-22	40895209	40895238	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	372.0	+
-#	PR01463	IPR003938	517	524	\N	3.7999999999999994e-48	67.19	WSMSRGID
-22	40895359	40895382	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	341.0	+
-#	PR01463	IPR003938	634	642	\N	3.7999999999999994e-48	92.01	VRALTYCDL
-22	40898087	40898113	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	443.0	+
-#	PR01470	IPR003967	229	241	\N	1.1999999999999999e-11	47.8	FYTAIMVPYNVSF
-22	40876438	40876476	K_chnl_volt-dep_ERG_(PR01470)	403.0	+
-#	PR01470	IPR003967	496	511	\N	1.1999999999999999e-11	25.0	LKLYQVPKGLSERVMD
-22	40895296	40895343	K_chnl_volt-dep_ERG_(PR01470)	300.0	+
-#	PR01463	IPR003938	423	440	\N	3.7999999999999994e-48	75.87	YITSLYFTMTSLTSIGFG
-22	40883902	40883955	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	776.0	+
-#	PF00989	IPR013767	42	133	\N	6.8000000000000005e-09	0.0	IVYSNDGFCKLSGYHRAEVMQKSSTCSFMYGELSDKETSEKLRQTFENYEMNSFELLMYKKNRMPVWFFVKIAPIRNEQDKVVLFLCTFSDI
-22	40868437	40870957	PAS_fold_(PF00989)	24.0	+
-#	PF00027	IPR000595	576	655	\N	1.1e-15	0.0	APGDLIYHAGESVDSLCFVVSGSLEVIQDDEVVAILGKGDVFGDVFWKEVNLAQSCANVRALTYCDLHIIKRDALQKVLE
-22	40897182	40898152	cNMP-bd_dom_(PF00027)	45.7	+
-#	PF00520	IPR005821	253	471	\N	1.8e-27	0.0	VDSIVDVIFLVDIVLNFHTTFVGPAGEVISDPKLIRMNYVKTWFVIDLLSCLPYDVINAFENVDEGISSLFSSLKVVRLLRLGRVARKLDHYIEYGAAVLVLLVCVFGLAAHWLACIWYSIGDYEVIDQDANMVRTDSWLYLLGEAVGQPYHFNASGSGKWEGGPSKDSVYITSLYFTMTSLTSIGFGNIAPTTDGEKIFAVAMMMIGSLLYATIFGNV
-22	40876510	40895223	Ion_trans_dom_(PF00520)	84.3	+
-#	PF07885	IPR013099	419	476	\N	1.3e-16	0.0	KDSVYITSLYFTMTSLTSIGFGNIAPTTDGEKIFAVAMMMIGSLLYATIFGNVTNIFQ
-22	40883890	40895238	2pore_dom_K_chnl_dom_(PF07885)	48.6	+
-#	PR01470	IPR003967	610	622	\N	1.1999999999999999e-11	53.3	ILGKGDVFGDVFW
-22	40897284	40898053	K_chnl_volt-dep_ERG_(PR01470)	358.0	+
-#	TIGR00229	IPR000014	17	138	\N	4.4e-12	0.0	FLENIVRRSNDTNFVLGNAQIVDWPIVYSNDGFCKLSGYHRAEVMQKSSTCSFMYGELSDKETSEKLRQTFENYEMNSFELLMYKKNRMPVWFFVKIAPIRNEQDKVVLFLCTFSDITAFKQ
-22	40863831	40870972	PAS_(TIGR00229)	32.4	+
-#	PR01463	IPR003938	212	221	\N	3.7999999999999994e-48	65.0	HYCTFKTTWD
-22	40876387	40876416	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	439.0	+
-#	PR01464	IPR003949	675	689	\N	3.4999999999999997e-79	90.37	RKRIVFRKISDVKRE
-22	40898210	40912928	K_chnl_volt-dep_EAG_(PR01464)	679.0	+
-#	PR01464	IPR003949	318	327	\N	3.4999999999999997e-79	95.56	GISSLFSSLK
-22	40883587	40883616	K_chnl_volt-dep_EAG_(PR01464)	434.0	+
-#	PR01463	IPR003938	361	371	\N	3.7999999999999994e-48	85.51	LAAHWLACIWY
-22	40883716	40883748	K_chnl_volt-dep_EAG/ELK/ERG_(PR01463)	642.0	+
-#	PR01464	IPR003949	655	670	\N	3.4999999999999997e-79	73.61	EFYTAFAGHFSRNLVL
-22	40898150	40898197	K_chnl_volt-dep_EAG_(PR01464)	619.0	+
-#	PR01464	IPR003949	525	537	\N	3.4999999999999997e-79	86.32	TDKVLQICPKDMR
-22	40895383	40897067	K_chnl_volt-dep_EAG_(PR01464)	624.0	+
-#	PR01470	IPR003967	569	583	\N	1.1999999999999999e-11	47.14	EFQTIHSAPGDLIYH
-22	40897161	40897205	K_chnl_volt-dep_ERG_(PR01470)	469.0	+
-#	PR01470	IPR003967	513	524	\N	1.1999999999999999e-11	39.88	IVSTWSMSRGID
-22	40895347	40895382	K_chnl_volt-dep_ERG_(PR01470)	273.0	+
-#	PS50042	IPR000595	567	654	\N	0.0	0.0	AMEFQTIHSAPGDLIYHAGESVDSLCFVVSGSLEVIQDDEVVAILGKGDVFGDVFWKEVNLAQSCANVRALTYCDLHIIKRDALQKVL
-22	40897155	40898149	cNMP-bd_dom_(PS50042)	16.073	+
-#	PS50112	IPR000014	14	94	\N	0.0	0.0	QNTFLENIVRRSNDTNFVLGNAQIVDWPIVYSNDGFCKLSGYHRAEVMQKSSTCSFMYGELSDKETSEKLRQTFENYEMNS
-22	40863822	40870757	PAS_(PS50112)	9.331	+
-#	PS50113	IPR000700	93	145	\N	0.0	0.0	NSFELLMYKKNRMPVWFFVKIAPIRNEQDKVVLFLCTFSDITAFKQPIEDDSS
-22	40870752	40870993	PAS-assoc_C_(PS50113)	11.597000000000001	+
-#	SSF51206	IPR018490	479	668	\N	1.1e-43	0.0	YANTNRYHEMLNSVRDFLKLYQVPKGLSERVMDYIVSTWSMSRGIDTDKVLQICPKDMRADICVHLNRKVFKEHPAFRLASDGCLRALAMEFQTIHSAPGDLIYHAGESVDSLCFVVSGSLEVIQDDEVVAILGKGDVFGDVFWKEVNLAQSCANVRALTYCDLHIIKRDALQKVLEFYTAFAGHFSRNL
-22	40895245	40898191	cNMP-bd-like_(SSF51206)	0.0	+
-#	SSF55785	IPR000014	24	133	\N	4.0000000000000004e-20	0.0	RSNDTNFVLGNAQIVDWPIVYSNDGFCKLSGYHRAEVMQKSSTCSFMYGELSDKETSEKLRQTFENYEMNSFELLMYKKNRMPVWFFVKIAPIRNEQDKVVLFLCTFSDI
-22	40863852	40870957	PAS_(SSF55785)	0.0	+
+22	40863837	40863860	K_chnl_volt-dep_EAG	381.0	+	40863837	40863860	83,88,95	1	23	0	PR01464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01464
+22	40870898	40870939	K_chnl_volt-dep_EAG	654.0	+	40870898	40870939	83,88,95	1	41	0	PR01464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01464
+22	40870943	40870978	K_chnl_volt-dep_EAG	574.0	+	40870943	40870978	83,88,95	1	35	0	PR01464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01464
+22	40873303	40873341	K_chnl_volt-dep_EAG	552.0	+	40873303	40873341	83,88,95	1	38	0	PR01464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01464
+22	40876318	40876371	K_chnl_volt-dep_EAG	905.0	+	40876318	40876371	83,88,95	1	53	0	PR01464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01464
+22	40876642	40876668	K_chnl_volt-dep_EAG	457.0	+	40876642	40876668	83,88,95	1	26	0	PR01464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01464
+22	40876546	40876575	K_chnl_volt-dep_EAG/ELK/ERG	429.0	+	40876546	40876575	83,88,95	1	29	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+22	40876513	40876545	K_chnl_volt-dep_EAG/ELK/ERG	399.0	+	40876513	40876545	83,88,95	1	32	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+22	40876441	40876464	K_chnl_volt-dep_EAG/ELK/ERG	349.0	+	40876441	40876464	83,88,95	1	23	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+22	40912980	40913015	K_chnl_volt-dep_EAG	596.0	+	40912980	40913015	83,88,95	1	35	0	PR01464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01464
+22	40883803	40883823	K_chnl_volt-dep_EAG	268.0	+	40883803	40883823	83,88,95	1	20	0	PR01464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01464
+22	40897116	40898203	cNMP-bd_dom	76.0	+	40897116	40898203	83,88,95	2	174,181	0,906	SM00100	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00100
+22	40870755	40870966	PAC	39.7	+	40870755	40870966	83,88,95	2	30,97	0,114	SM00086	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00086
+22	40883980	40884015	K_chnl_volt-dep_EAG/ELK/ERG	427.0	+	40883980	40884015	83,88,95	1	35	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+22	40895209	40895238	K_chnl_volt-dep_EAG/ELK/ERG	372.0	+	40895209	40895238	83,88,95	1	29	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+22	40895359	40895382	K_chnl_volt-dep_EAG/ELK/ERG	341.0	+	40895359	40895382	83,88,95	1	23	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+22	40898087	40898113	K_chnl_volt-dep_EAG/ELK/ERG	443.0	+	40898087	40898113	83,88,95	1	26	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+22	40876438	40876476	K_chnl_volt-dep_ERG	403.0	+	40876438	40876476	83,88,95	1	38	0	PR01470	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01470&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01470
+22	40895296	40895343	K_chnl_volt-dep_ERG	300.0	+	40895296	40895343	83,88,95	1	47	0	PR01470	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01470&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01470
+22	40883902	40883955	K_chnl_volt-dep_EAG/ELK/ERG	776.0	+	40883902	40883955	83,88,95	1	53	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+22	40868437	40870957	PAS_fold	24.0	+	40868437	40870957	83,88,95	3	79,106,88	0,2242,2432	PF00989	http://pfam.sanger.ac.uk/family?acc=PF00989
+22	40897182	40898152	cNMP-bd_dom	45.7	+	40897182	40898152	83,88,95	2	108,130	0,840	PF00027	http://pfam.sanger.ac.uk/family?acc=PF00027
+22	40876510	40895223	Ion_trans_dom	84.3	+	40876510	40895223	83,88,95	3	194,429,31	0,7077,18682	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
+22	40883890	40895238	2pore_dom_K_chnl_dom	48.6	+	40883890	40895238	83,88,95	2	126,46	0,11302	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
+22	40897284	40898053	K_chnl_volt-dep_ERG	358.0	+	40897284	40898053	83,88,95	2	6,31	0,738	PR01470	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01470&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01470
+22	40863831	40870972	PAS	32.4	+	40863831	40870972	83,88,95	4	30,123,106,103	0,4562,6848,7038	TIGR00229	http://www.ebi.ac.uk/interpro/signature/TIGR00229
+22	40876387	40876416	K_chnl_volt-dep_EAG/ELK/ERG	439.0	+	40876387	40876416	83,88,95	1	29	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+22	40898210	40912928	K_chnl_volt-dep_EAG	679.0	+	40898210	40912928	83,88,95	2	8,35	0,14683	PR01464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01464
+22	40883587	40883616	K_chnl_volt-dep_EAG	434.0	+	40883587	40883616	83,88,95	1	29	0	PR01464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01464
+22	40883716	40883748	K_chnl_volt-dep_EAG/ELK/ERG	642.0	+	40883716	40883748	83,88,95	1	32	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
+22	40898150	40898197	K_chnl_volt-dep_EAG	619.0	+	40898150	40898197	83,88,95	1	47	0	PR01464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01464
+22	40895383	40897067	K_chnl_volt-dep_EAG	624.0	+	40895383	40897067	83,88,95	2	8,29	0,1655	PR01464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01464
+22	40897161	40897205	K_chnl_volt-dep_ERG	469.0	+	40897161	40897205	83,88,95	1	44	0	PR01470	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01470&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01470
+22	40895347	40895382	K_chnl_volt-dep_ERG	273.0	+	40895347	40895382	83,88,95	1	35	0	PR01470	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01470&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01470
+22	40897155	40898149	cNMP-bd_dom	16.073	+	40897155	40898149	83,88,95	2	135,127	0,867	PS50042	http://www.expasy.ch/prosite/PS50042
+22	40863822	40870757	PAS	9.331	+	40863822	40870757	83,88,95	3	39,123,78	0,4571,6857	PS50112	http://www.expasy.ch/prosite/PS50112
+22	40870752	40870993	PAS-assoc_C	11.597000000000001	+	40870752	40870993	83,88,95	2	33,124	0,117	PS50113	http://www.expasy.ch/prosite/PS50113
+22	40895245	40898191	cNMP-bd-like	0.0	+	40895245	40898191	83,88,95	3	146,252,169	0,1793,2777	SSF51206	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51206
+22	40863852	40870957	PAS	0.0	+	40863852	40870957	83,88,95	4	9,123,106,88	0,4541,6827,7017	SSF55785	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55785

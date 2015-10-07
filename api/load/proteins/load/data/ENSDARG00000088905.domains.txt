@@ -1,13 +1,5 @@
-browser position chrZv9_NA18:66-2716
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000088905	ENSDART00000127815	ENSDARP00000111299	66	2716	###
-#	PR00387	IPR023088	182	195	\N	1.4e-11	53.0	GSNPYHNSTHAADV
-Zv9_NA18	2087	2128	PDEase_(PR00387)	375.0	+
-#	PR00387	IPR023088	213	226	\N	1.4e-11	28.14	DPIDEVAALIAAAV
-Zv9_NA18	2273	2314	PDEase_(PR00387)	161.0	+
-#	PR00387	IPR023088	227	242	\N	1.4e-11	50.25	HDVDHPGRTNSFLCNA
-Zv9_NA18	2315	2362	PDEase_(PR00387)	477.0	+
-#	PR00387	IPR023088	254	270	\N	1.4e-11	32.82	AVLESHHAALAFQITTR
-Zv9_NA18	2396	2446	PDEase_(PR00387)	314.0	+
-#	PF00233	IPR002073	186	317	\N	1.4999999999999999e-44	0.0	YHNSTHAADVLHATAYFLCKERVKQSLDPIDEVAALIAAAVHDVDHPGRTNSFLCNAGSELAVLYNDTAVLESHHAALAFQITTRDDKSNIFRNMERNEYRTLRQAIIDMVLATEMTKHFEHVNKFVNSINK
-Zv9_NA18	2099	2689	PDEase_catalytic_dom_(PF00233)	138.9	+
+Zv9_NA18	2087	2128	PDEase	375.0	+	2087	2128	83,88,95	1	41	0	PR00387	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00387&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00387
+Zv9_NA18	2273	2314	PDEase	161.0	+	2273	2314	83,88,95	1	41	0	PR00387	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00387&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00387
+Zv9_NA18	2315	2362	PDEase	477.0	+	2315	2362	83,88,95	1	47	0	PR00387	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00387&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00387
+Zv9_NA18	2396	2446	PDEase	314.0	+	2396	2446	83,88,95	1	50	0	PR00387	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00387&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00387
+Zv9_NA18	2099	2689	PDEase_catalytic_dom	138.9	+	2099	2689	83,88,95	3	71,217,105	0,165,485	PF00233	http://pfam.sanger.ac.uk/family?acc=PF00233

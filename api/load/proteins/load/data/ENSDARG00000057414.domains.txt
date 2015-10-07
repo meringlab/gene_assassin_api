@@ -1,21 +1,9 @@
-browser position chr3:15341405-15351593
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000057414	ENSDART00000080075	ENSDARP00000074525	15341405	15351593	###
-#	PF01145	IPR001107	28	205	\N	1.3e-30	0.0	NVDAGHRAVIFDRFRGVQDVVVGEGTHFLIPWVQKPIIFDCRSRPRNVPVITGSKDLQNVNITLRILFRPVAGQLPRIFTSIGEDYDERVLPSITTEVLKSVVARFDAGELITQRELVSRQVSEDLTERASTFGLILDDVSLTHLTFGKEFTEAVEMKQVAQQEAERARFVVEKAEQQ
-3	15342075	15350562	Band_7_(PF01145)	93.0	+
-#	PR00679	IPR000163	181	204	\N	2.9999999999999995e-70	80.77	AVEMKQVAQQEAERARFVVEKAEQ
-3	15349460	15350559	Prohibitin_(PR00679)	921.0	+
-#	PR00679	IPR000163	204	220	\N	2.9999999999999995e-70	54.3	QQKQAAIISAEGDSQAA
-3	15350557	15350607	Prohibitin_(PR00679)	504.0	+
-#	PR00679	IPR000163	156	175	\N	2.9999999999999995e-70	65.0	RASTFGLILDDVSLTHLTFG
-3	15349308	15349444	Prohibitin_(PR00679)	699.0	+
-#	PR00679	IPR000163	69	85	\N	2.9999999999999995e-70	64.71	RSRPRNVPVITGSKDLQ
-3	15345765	15346476	Prohibitin_(PR00679)	559.0	+
-#	PR00679	IPR000163	87	106	\N	2.9999999999999995e-70	62.31	VNITLRILFRPVAGQLPRIF
-3	15346480	15346539	Prohibitin_(PR00679)	613.0	+
-#	PR00679	IPR000163	110	128	\N	2.9999999999999995e-70	77.33	GEDYDERVLPSITTEVLKS
-3	15346549	15346605	Prohibitin_(PR00679)	742.0	+
-#	PR00679	IPR000163	133	149	\N	2.9999999999999995e-70	62.44	FDAGELITQRELVSRQV
-3	15349239	15349289	Prohibitin_(PR00679)	502.0	+
-#	SM00244	IPR001107	25	186	\N	1.7e-49	0.0	ALYNVDAGHRAVIFDRFRGVQDVVVGEGTHFLIPWVQKPIIFDCRSRPRNVPVITGSKDLQNVNITLRILFRPVAGQLPRIFTSIGEDYDERVLPSITTEVLKSVVARFDAGELITQRELVSRQVSEDLTERASTFGLILDDVSLTHLTFGKEFTEAVEMKQ
-3	15342066	15349477	Band_7_(SM00244)	180.4	+
+3	15342075	15350562	Band_7	93.0	+	15342075	15350562	83,88,95	6	3,161,142,116,95,11	0,3571,4394,7158,7352,8476	PF01145	http://pfam.sanger.ac.uk/family?acc=PF01145
+3	15349460	15350559	Prohibitin	921.0	+	15349460	15350559	83,88,95	2	62,8	0,1091	PR00679	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00679&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00679
+3	15350557	15350607	Prohibitin	504.0	+	15350557	15350607	83,88,95	1	50	0	PR00679	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00679&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00679
+3	15349308	15349444	Prohibitin	699.0	+	15349308	15349444	83,88,95	2	41,17	0,119	PR00679	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00679&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00679
+3	15345765	15346476	Prohibitin	559.0	+	15345765	15346476	83,88,95	2	42,7	0,704	PR00679	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00679&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00679
+3	15346480	15346539	Prohibitin	613.0	+	15346480	15346539	83,88,95	1	59	0	PR00679	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00679&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00679
+3	15346549	15346605	Prohibitin	742.0	+	15346549	15346605	83,88,95	1	56	0	PR00679	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00679&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00679
+3	15349239	15349289	Prohibitin	502.0	+	15349239	15349289	83,88,95	1	50	0	PR00679	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00679&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00679
+3	15342066	15349477	Band_7	180.4	+	15342066	15349477	83,88,95	5	12,161,142,116,50	0,3580,4403,7167,7361	SM00244	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00244

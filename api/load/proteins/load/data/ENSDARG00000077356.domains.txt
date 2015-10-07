@@ -1,13 +1,5 @@
-browser position chr4:3260737-3269256
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000077356	ENSDART00000112443	ENSDARP00000098590	3261150	3269005	###
-#	PF01284	IPR008253	29	229	\N	1.4999999999999997e-40	0.0	VKEPLGFVKVLEWITAVLAFGTCGGFSGRNVLSVFCDGSNETLTATFTYPFRWLNHELLVEQNRTLCNRSVSATHLVGDSSSSVEFFVAVAVLAFLYSMLALIVYLGYMHVYRDSDFGPMFDFVLTAVFAFLWLVCSSAWARGLQTVKDATSTAGMESTLALCKDRGVRCEVTEFASMRSLNISVVFGFLNLIIWAGNAWF
-4	3261234	3268921	Marvel_(PF01284)	124.7	+
-#	PR00220	IPR001285	36	58	\N	7.699999999999999e-41	51.81	VKVLEWITAVLAFGTCGGFSGRN
-4	3261255	3265422	Synaptophysin/porin_(PR00220)	748.0	+
-#	PR00220	IPR001285	114	138	\N	7.699999999999999e-41	52.33	FFVAVAVLAFLYSMLALIVYLGYMH
-4	3266258	3266332	Synaptophysin/porin_(PR00220)	669.0	+
-#	PR00220	IPR001285	146	169	\N	7.699999999999999e-41	68.4	GPMFDFVLTAVFAFLWLVCSSAWA
-4	3266354	3267554	Synaptophysin/porin_(PR00220)	931.0	+
-#	PR00220	IPR001285	213	231	\N	7.699999999999999e-41	72.81	VVFGFLNLIIWAGNAWFVY
-4	3267684	3268927	Synaptophysin/porin_(PR00220)	894.0	+
+4	3261234	3268921	Marvel	124.7	+	3261234	3268921	83,88,95	5	38,118,204,191,47	0,4138,4927,6261,7640	PF01284	http://pfam.sanger.ac.uk/family?acc=PF01284
+4	3261255	3265422	Synaptophysin/porin	748.0	+	3261255	3265422	83,88,95	2	17,50	0,4117	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+4	3266258	3266332	Synaptophysin/porin	669.0	+	3266258	3266332	83,88,95	1	74	0	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+4	3266354	3267554	Synaptophysin/porin	931.0	+	3266354	3267554	83,88,95	2	11,59	0,1141	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+4	3267684	3268927	Synaptophysin/porin	894.0	+	3267684	3268927	83,88,95	2	2,53	0,1190	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220

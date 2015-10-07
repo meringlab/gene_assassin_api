@@ -1,65 +1,31 @@
-browser position chr23:8375217-8464101
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000071209	ENSDART00000105135	ENSDARP00000095906	8375217	8464101	###
-#	PF00001	IPR000276	60	312	\N	1.0999999999999999e-67	0.0	GNCLVMYVIIRYTKMKTATNIYIFNLALADALVLATLPFQGTDVFLGFWPFGNALCKVVVSIDYYNMFTSVFTLTVMSMDRYVAVCHPVKALDMRTPHKAKVVNICVWVLASAIGVPAMVLGDVEQDNGESIECILVLPDPRSYWDPVFGTCVFLLSFLIPVAIISVCYSLMVKRLRSVRILSGSKEKDRNLRRITRMVLVVVAAFVVCWTPIQIMALAQSLGFNLASVQTVVFMHFCIALGYVNSSLNPVLY
-23	8376620	8462418	GPCR_Rhodpsn_(PF00001)	216.1	-
-#	PF10320	IPR019424	54	325	\N	4e-17	0.0	CVVGLVGNCLVMYVIIRYTKMKTATNIYIFNLALADALVLATLPFQGTDVFLGFWPFGNALCKVVVSIDYYNMFTSVFTLTVMSMDRYVAVCHPVKALDMRTPHKAKVVNICVWVLASAIGVPAMVLGDVEQDNGESIECILVLPDPRSYWDPVFGTCVFLLSFLIPVAIISVCYSLMVKRLRSVRILSGSKEKDRNLRRITRMVLVVVAAFVVCWTPIQIMALAQSLGFNLASVQTVVFMHFCIALGYVNSSLNPVLYAFLDENFKRCFRE
-23	8376581	8462436	7TM_GPCR_olfarory/Srsx_(PF10320)	50.5	-
-#	PF10323	IPR019426	115	324	\N	4.9e-12	0.0	CKVVVSIDYYNMFTSVFTLTVMSMDRYVAVCHPVKALDMRTPHKAKVVNICVWVLASAIGVPAMVLGDVEQDNGESIECILVLPDPRSYWDPVFGTCVFLLSFLIPVAIISVCYSLMVKRLRSVRILSGSKEKDRNLRRITRMVLVVVAAFVVCWTPIQIMALAQSLGFNLASVQTVVFMHFCIALGYVNSSLNPVLYAFLDENFKRCFR
-23	8376584	8394198	7TM_GPCR_serpentine_rcpt_Srv_(PF10323)	33.8	-
-#	PF10328	IPR019430	52	173	\N	2.4e-09	0.0	IVCVVGLVGNCLVMYVIIRYTKMKTATNIYIFNLALADALVLATLPFQGTDVFLGFWPFGNALCKVVVSIDYYNMFTSVFTLTVMSMDRYVAVCHPVKALDMRTPHKAKVVNICVWVLASAI
-23	8394022	8462442	7TM_GPCR_serpentine_rcpt_Srx_(PF10328)	25.0	-
-#	PR00237	IPR000276	45	69	\N	1.8000000000000002e-54	31.0	TIAVVYMIVCVVGLVGNCLVMYVII
-23	8462389	8462463	GPCR_Rhodpsn_(PR00237)	361.0	-
-#	PR00237	IPR000276	78	99	\N	1.8000000000000002e-54	39.36	TNIYIFNLALADALVLATLPFQ
-23	8394244	8394309	GPCR_Rhodpsn_(PR00237)	349.0	-
-#	PR00237	IPR000276	122	144	\N	1.8000000000000002e-54	34.82	DYYNMFTSVFTLTVMSMDRYVAV
-23	8394109	8394177	GPCR_Rhodpsn_(PR00237)	405.0	-
-#	PR00237	IPR000276	158	179	\N	1.8000000000000002e-54	24.79	KAKVVNICVWVLASAIGVPAMV
-23	8394004	8394069	GPCR_Rhodpsn_(PR00237)	266.0	-
-#	PR00237	IPR000276	209	232	\N	1.8000000000000002e-54	27.08	GTCVFLLSFLIPVAIISVCYSLMV
-23	8376860	8376931	GPCR_Rhodpsn_(PR00237)	295.0	-
-#	PR00237	IPR000276	254	278	\N	1.8000000000000002e-54	31.72	ITRMVLVVVAAFVVCWTPIQIMALA
-23	8376722	8376796	GPCR_Rhodpsn_(PR00237)	476.0	-
-#	PR00237	IPR000276	294	320	\N	1.8000000000000002e-54	34.43	MHFCIALGYVNSSLNPVLYAFLDENFK
-23	8376596	8376676	GPCR_Rhodpsn_(PR00237)	491.0	-
-#	PR00384	IPR001418	70	83	\N	1e-35	97.22	RYTKMKTATNIYIF
-23	8394292	8462388	Opioid_rcpt_(PR00384)	712.0	-
-#	PR00384	IPR001418	122	134	\N	1e-35	90.17	DYYNMFTSVFTLT
-23	8394139	8394177	Opioid_rcpt_(PR00384)	664.0	-
-#	PR00384	IPR001418	151	160	\N	1e-35	71.11	LDMRTPHKAK
-23	8394061	8394090	Opioid_rcpt_(PR00384)	349.0	-
-#	PR00384	IPR001418	241	253	\N	1e-35	94.87	LSGSKEKDRNLRR
-23	8376797	8376835	Opioid_rcpt_(PR00384)	616.0	-
-#	PR00384	IPR001418	296	303	\N	1e-35	85.42	FCIALGYV
-23	8376647	8376670	Opioid_rcpt_(PR00384)	387.0	-
-#	PR00384	IPR001418	314	323	\N	1e-35	97.22	FLDENFKRCF
-23	8376587	8376616	Opioid_rcpt_(PR00384)	563.0	-
-#	PR00246	IPR000586	42	54	\N	2.7e-09	33.03	FKITIAVVYMIVC
-23	8462434	8462472	Somatstn_rcpt_(PR00246)	282.0	-
-#	PR00246	IPR000586	97	105	\N	2.7e-09	38.56	PFQGTDVFL
-23	8394226	8394252	Somatstn_rcpt_(PR00246)	136.0	-
-#	PR00246	IPR000586	116	125	\N	2.7e-09	36.47	KVVVSIDYYN
-23	8394166	8394195	Somatstn_rcpt_(PR00246)	217.0	-
-#	PR00246	IPR000586	243	256	\N	2.7e-09	33.61	GSKEKDRNLRRITR
-23	8376788	8376829	Somatstn_rcpt_(PR00246)	261.0	-
-#	PR00246	IPR000586	314	326	\N	2.7e-09	47.06	FLDENFKRCFREF
-23	8376578	8376616	Somatstn_rcpt_(PR00246)	349.0	-
-#	PR01855	IPR009150	159	171	\N	5.5e-08	40.38	AKVVNICVWVLAS
-23	8394028	8394066	Neuropept_B/W_rcpt_(PR01855)	338.0	-
-#	PR01855	IPR009150	192	201	\N	5.5e-08	45.0	ECILVLPDPR
-23	8376953	8376982	Neuropept_B/W_rcpt_(PR01855)	270.0	-
-#	PR01855	IPR009150	234	247	\N	5.5e-08	46.43	RLRSVRILSGSKEK
-23	8376815	8376856	Neuropept_B/W_rcpt_(PR01855)	287.0	-
-#	PR01855	IPR009150	266	280	\N	5.5e-08	25.0	VVCWTPIQIMALAQS
-23	8376716	8376760	Neuropept_B/W_rcpt_(PR01855)	307.0	-
-#	PR00547	IPR001420	99	107	\N	1e-07	77.78	QGTDVFLGF
-23	8394220	8394246	X_opioid_rcpt_(PR00547)	400.0	-
-#	PR00547	IPR001420	180	198	\N	1e-07	31.58	LGDVEQDNGESIECILVLP
-23	8376962	8394003	X_opioid_rcpt_(PR00547)	290.0	-
-#	PR00547	IPR001420	279	296	\N	1e-07	34.44	QSLGFNLASVQTVVFMHF
-23	8376668	8376721	X_opioid_rcpt_(PR00547)	250.0	-
-#	PR00547	IPR001420	344	361	\N	1e-07	32.22	HITREVAFNCKTTDGNSN
-23	8376473	8376526	X_opioid_rcpt_(PR00547)	294.0	-
-#	PS50262	IPR017452	60	312	\N	0.0	0.0	GNCLVMYVIIRYTKMKTATNIYIFNLALADALVLATLPFQGTDVFLGFWPFGNALCKVVVSIDYYNMFTSVFTLTVMSMDRYVAVCHPVKALDMRTPHKAKVVNICVWVLASAIGVPAMVLGDVEQDNGESIECILVLPDPRSYWDPVFGTCVFLLSFLIPVAIISVCYSLMVKRLRSVRILSGSKEKDRNLRRITRMVLVVVAAFVVCWTPIQIMALAQSLGFNLASVQTVVFMHFCIALGYVNSSLNPVLY
-23	8376620	8462418	GPCR_Rhodpsn_7TM_(PS50262)	47.132	-
+23	8376620	8462418	GPCR_Rhodpsn	216.1	-	8376620	8462418	83,88,95	3	85767,-358,85431	0,17711,367	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+23	8376581	8462436	7TM_GPCR_olfarory/Srsx	50.5	-	8376581	8462436	83,88,95	3	85806,-358,85449	0,17750,406	PF10320	http://pfam.sanger.ac.uk/family?acc=PF10320
+23	8376584	8394198	7TM_GPCR_serpentine_rcpt_Srv	33.8	-	8376584	8394198	83,88,95	2	17389,17211	0,403	PF10323	http://pfam.sanger.ac.uk/family?acc=PF10323
+23	8394022	8462442	7TM_GPCR_serpentine_rcpt_Srx	25.0	-	8394022	8462442	83,88,95	2	68365,68111	0,309	PF10328	http://pfam.sanger.ac.uk/family?acc=PF10328
+23	8462389	8462463	GPCR_Rhodpsn	361.0	-	8462389	8462463	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+23	8394244	8394309	GPCR_Rhodpsn	349.0	-	8394244	8394309	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+23	8394109	8394177	GPCR_Rhodpsn	405.0	-	8394109	8394177	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+23	8394004	8394069	GPCR_Rhodpsn	266.0	-	8394004	8394069	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+23	8376860	8376931	GPCR_Rhodpsn	295.0	-	8376860	8376931	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+23	8376722	8376796	GPCR_Rhodpsn	476.0	-	8376722	8376796	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+23	8376596	8376676	GPCR_Rhodpsn	491.0	-	8376596	8376676	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+23	8394292	8462388	Opioid_rcpt	712.0	-	8394292	8462388	83,88,95	2	68095,68057	0,39	PR00384	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00384&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00384
+23	8394139	8394177	Opioid_rcpt	664.0	-	8394139	8394177	83,88,95	1	38	0	PR00384	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00384&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00384
+23	8394061	8394090	Opioid_rcpt	349.0	-	8394061	8394090	83,88,95	1	29	0	PR00384	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00384&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00384
+23	8376797	8376835	Opioid_rcpt	616.0	-	8376797	8376835	83,88,95	1	38	0	PR00384	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00384&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00384
+23	8376647	8376670	Opioid_rcpt	387.0	-	8376647	8376670	83,88,95	1	23	0	PR00384	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00384&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00384
+23	8376587	8376616	Opioid_rcpt	563.0	-	8376587	8376616	83,88,95	1	29	0	PR00384	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00384&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00384
+23	8462434	8462472	Somatstn_rcpt	282.0	-	8462434	8462472	83,88,95	1	38	0	PR00246	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00246&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00246
+23	8394226	8394252	Somatstn_rcpt	136.0	-	8394226	8394252	83,88,95	1	26	0	PR00246	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00246&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00246
+23	8394166	8394195	Somatstn_rcpt	217.0	-	8394166	8394195	83,88,95	1	29	0	PR00246	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00246&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00246
+23	8376788	8376829	Somatstn_rcpt	261.0	-	8376788	8376829	83,88,95	1	41	0	PR00246	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00246&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00246
+23	8376578	8376616	Somatstn_rcpt	349.0	-	8376578	8376616	83,88,95	1	38	0	PR00246	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00246&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00246
+23	8394028	8394066	Neuropept_B/W_rcpt	338.0	-	8394028	8394066	83,88,95	1	38	0	PR01855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01855
+23	8376953	8376982	Neuropept_B/W_rcpt	270.0	-	8376953	8376982	83,88,95	1	29	0	PR01855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01855
+23	8376815	8376856	Neuropept_B/W_rcpt	287.0	-	8376815	8376856	83,88,95	1	41	0	PR01855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01855
+23	8376716	8376760	Neuropept_B/W_rcpt	307.0	-	8376716	8376760	83,88,95	1	44	0	PR01855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01855
+23	8394220	8394246	X_opioid_rcpt	400.0	-	8394220	8394246	83,88,95	1	26	0	PR00547	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00547&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00547
+23	8376962	8394003	X_opioid_rcpt	290.0	-	8376962	8394003	83,88,95	2	17011,17016	0,25	PR00547	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00547&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00547
+23	8376668	8376721	X_opioid_rcpt	250.0	-	8376668	8376721	83,88,95	1	53	0	PR00547	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00547&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00547
+23	8376473	8376526	X_opioid_rcpt	294.0	-	8376473	8376526	83,88,95	1	53	0	PR00547	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00547&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00547
+23	8376620	8462418	GPCR_Rhodpsn_7TM	47.132	-	8376620	8462418	83,88,95	3	85767,-358,85431	0,17711,367	PS50262	http://www.expasy.ch/prosite/PS50262

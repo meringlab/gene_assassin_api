@@ -1,13 +1,5 @@
-browser position chr9:2325892-2336221
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000017775	ENSDART00000016417	ENSDARP00000015997	2328644	2336221	###
-#	PF00137	IPR002379	71	138	\N	2.0999999999999997e-21	0.0	KFIGAGAATVGVAGSGAGIGTVFGSLIIGYARNPSLKQQLFSYAILGFALSEAMGLFCLMVAFLILFA
-9	2332296	2335748	ATPase_proteolipid_c_like_dom_(PF00137)	62.2	+
-#	PR00124	IPR000454	73	92	\N	1.1e-31	54.31	IGAGAATVGVAGSGAGIGTV
-9	2332302	2332361	ATPase_F0-cplx_csu_(PR00124)	513.0	+
-#	PR00124	IPR000454	94	109	\N	1.1e-31	51.53	GSLIIGYARNPSLKQQ
-9	2332365	2335661	ATPase_F0-cplx_csu_(PR00124)	386.0	+
-#	PR00124	IPR000454	111	136	\N	1.1e-31	59.01	FSYAILGFALSEAMGLFCLMVAFLIL
-9	2335665	2335742	ATPase_F0-cplx_csu_(PR00124)	729.0	+
-#	SSF81333	IPR002379	63	138	\N	1.2e-17	0.0	SRDIDTAAKFIGAGAATVGVAGSGAGIGTVFGSLIIGYARNPSLKQQLFSYAILGFALSEAMGLFCLMVAFLILFA
-9	2332272	2335748	ATPase_proteolipid_c_like_dom_(SSF81333)	0.0	+
+9	2332296	2335748	ATPase_proteolipid_c_like_dom	62.2	+	2332296	2335748	83,88,95	2	94,108	0,3344	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
+9	2332302	2332361	ATPase_F0-cplx_csu	513.0	+	2332302	2332361	83,88,95	1	59	0	PR00124	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00124&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00124
+9	2332365	2335661	ATPase_F0-cplx_csu	386.0	+	2332365	2335661	83,88,95	2	25,21	0,3275	PR00124	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00124&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00124
+9	2335665	2335742	ATPase_F0-cplx_csu	729.0	+	2335665	2335742	83,88,95	1	77	0	PR00124	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00124&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00124
+9	2332272	2335748	ATPase_proteolipid_c_like_dom	0.0	+	2332272	2335748	83,88,95	2	118,108	0,3368	SSF81333	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81333

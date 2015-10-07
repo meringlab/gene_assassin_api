@@ -1,31 +1,14 @@
-browser position chr7:5188378-5211223
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000032631	ENSDART00000154438	ENSDARP00000128869	5188378	5211223	###
-#	PR01476	IPR003981	82	97	\N	5.5e-12	36.61	LLSSPLFIRYLVGGKG
-7	5200849	5200896	Leukotriene_B4_rcpt_(PR01476)	287.0	-
-#	PR00237	IPR000276	281	307	\N	1.6999999999999999e-35	23.26	RPNVTAFAFMSSSVNPVLYVFAGSSHI
-7	5190926	5191006	GPCR_Rhodpsn_(PR00237)	234.0	-
-#	PR00237	IPR000276	237	261	\N	1.6999999999999999e-35	26.88	GNFLILIIIAAFTLFWLPYHLINII
-7	5194943	5195017	GPCR_Rhodpsn_(PR00237)	384.0	-
-#	PF00001	IPR000276	49	299	\N	5.799999999999999e-54	0.0	GNLFVVWSVLCRVRRRSVTCLLILNLAVADALVLLSSPLFIRYLVGGKGWEFGPVVCKTVHYLCCVNMYASIYLICLMSMDRWLAVTKPFLSQRLRTKKRLLSIMLAIWVMAFLMALPMPFYRSVVQYKPGVPIYLCNPYHWQSESHEIFQYLSETLLGFLLPFAFILFCYISVILRLRSAMFQRKGRGNFLILIIIAAFTLFWLPYHLINIIQVIGVMQGSSSFLNVAKVGRPNVTAFAFMSSSVNPVLY
-7	5190950	5200995	GPCR_Rhodpsn_(PF00001)	170.2	-
-#	PR00237	IPR000276	34	58	\N	1.6999999999999999e-35	23.19	IGIAILVIAFVFGFPGNLFVVWSVL
-7	5200966	5201040	GPCR_Rhodpsn_(PR00237)	198.0	-
-#	PR01476	IPR003981	136	150	\N	5.5e-12	45.71	KPFLSQRLRTKKRLL
-7	5200690	5200734	Leukotriene_B4_rcpt_(PR01476)	331.0	-
-#	PR00237	IPR000276	200	223	\N	1.6999999999999999e-35	25.49	YLSETLLGFLLPFAFILFCYISVI
-7	5195057	5195128	GPCR_Rhodpsn_(PR00237)	284.0	-
-#	PR00237	IPR000276	148	169	\N	1.6999999999999999e-35	23.16	RLLSIMLAIWVMAFLMALPMPF
-7	5200633	5200698	GPCR_Rhodpsn_(PR00237)	225.0	-
-#	PR00237	IPR000276	112	134	\N	1.6999999999999999e-35	29.06	CCVNMYASIYLICLMSMDRWLAV
-7	5200738	5200806	GPCR_Rhodpsn_(PR00237)	350.0	-
-#	PR00237	IPR000276	67	88	\N	1.6999999999999999e-35	36.75	TCLLILNLAVADALVLLSSPLF
-7	5200876	5200941	GPCR_Rhodpsn_(PR00237)	289.0	-
-#	PR01476	IPR003981	304	324	\N	5.5e-12	44.9	SSHIRQAGLGFMAKLFEGTNS
-7	5190875	5190937	Leukotriene_B4_rcpt_(PR01476)	474.0	-
-#	PS50262	IPR017452	49	299	\N	0.0	0.0	GNLFVVWSVLCRVRRRSVTCLLILNLAVADALVLLSSPLFIRYLVGGKGWEFGPVVCKTVHYLCCVNMYASIYLICLMSMDRWLAVTKPFLSQRLRTKKRLLSIMLAIWVMAFLMALPMPFYRSVVQYKPGVPIYLCNPYHWQSESHEIFQYLSETLLGFLLPFAFILFCYISVILRLRSAMFQRKGRGNFLILIIIAAFTLFWLPYHLINIIQVIGVMQGSSSFLNVAKVGRPNVTAFAFMSSSVNPVLY
-7	5190950	5200995	GPCR_Rhodpsn_7TM_(PS50262)	42.839	-
-#	PR01476	IPR003981	191	203	\N	5.5e-12	30.77	QSESHEIFQYLSE
-7	5195117	5195155	Leukotriene_B4_rcpt_(PR01476)	162.0	-
-#	PF10328	IPR019430	43	179	\N	1.3e-08	0.0	FVFGFPGNLFVVWSVLCRVRRRSVTCLLILNLAVADALVLLSSPLFIRYLVGGKGWEFGPVVCKTVHYLCCVNMYASIYLICLMSMDRWLAVTKPFLSQRLRTKKRLLSIMLAIWVMAFLMALPMPFYRSVVQYKPG
-7	5195189	5201013	7TM_GPCR_serpentine_rcpt_Srx_(PF10328)	21.6	-
+7	5200849	5200896	Leukotriene_B4_rcpt	287.0	-	5200849	5200896	83,88,95	1	47	0	PR01476	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01476&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01476
+7	5190926	5191006	GPCR_Rhodpsn	234.0	-	5190926	5191006	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+7	5194943	5195017	GPCR_Rhodpsn	384.0	-	5194943	5195017	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+7	5190950	5200995	GPCR_Rhodpsn	170.2	-	5190950	5200995	83,88,95	3	9678,-273,9935	0,4263,110	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+7	5200966	5201040	GPCR_Rhodpsn	198.0	-	5200966	5201040	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+7	5200690	5200734	Leukotriene_B4_rcpt	331.0	-	5200690	5200734	83,88,95	1	44	0	PR01476	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01476&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01476
+7	5195057	5195128	GPCR_Rhodpsn	284.0	-	5195057	5195128	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+7	5200633	5200698	GPCR_Rhodpsn	225.0	-	5200633	5200698	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+7	5200738	5200806	GPCR_Rhodpsn	350.0	-	5200738	5200806	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+7	5200876	5200941	GPCR_Rhodpsn	289.0	-	5200876	5200941	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+7	5190875	5190937	Leukotriene_B4_rcpt	474.0	-	5190875	5190937	83,88,95	1	62	0	PR01476	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01476&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01476
+7	5190950	5200995	GPCR_Rhodpsn_7TM	42.839	-	5190950	5200995	83,88,95	3	9678,-273,9935	0,4263,110	PS50262	http://www.expasy.ch/prosite/PS50262
+7	5195117	5195155	Leukotriene_B4_rcpt	162.0	-	5195117	5195155	83,88,95	1	38	0	PR01476	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01476&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01476
+7	5195189	5201013	7TM_GPCR_serpentine_rcpt_Srx	21.6	-	5195189	5201013	83,88,95	2	5439,5800	0,24	PF10328	http://pfam.sanger.ac.uk/family?acc=PF10328

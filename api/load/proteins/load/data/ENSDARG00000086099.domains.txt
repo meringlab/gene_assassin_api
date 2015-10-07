@@ -1,39 +1,18 @@
-browser position chr5:63941830-63956640
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000086099	ENSDART00000127691	ENSDARP00000111091	63941830	63956640	###
-#	PR01609	IPR002159	326	350	\N	4.199999999999999e-41	45.66	CLGKGVLKVSVCRQGAPIVVSFPHF
-5	63949624	63952426	CD36_(PR01609)	625.0	+
-#	PR01609	IPR002159	250	274	\N	4.199999999999999e-41	38.34	SNMINGTDGSVFHTFLSRKELLYIF
-5	63949272	63949346	CD36_(PR01609)	470.0	+
-#	PR01609	IPR002159	111	130	\N	4.199999999999999e-41	22.59	KIFATNPKSFVFLRNMSAGD
-5	63946921	63946980	CD36_(PR01609)	133.0	+
-#	PR01609	IPR002159	57	78	\N	4.199999999999999e-41	41.38	NPPPPVYMQYFFFNVTNPDEFL
-5	63945218	63945283	CD36_(PR01609)	500.0	+
-#	PR01609	IPR002159	83	95	\N	4.199999999999999e-41	50.66	KAKVTQMGPYTYR
-5	63945296	63945334	CD36_(PR01609)	369.0	+
-#	PF01130	IPR002159	13	467	\N	1.5999999999999994e-166	0.0	IVCAHLLILGIALLLAQVFQTMIQERIKKEITLAENSRVLDGWINPPPPVYMQYFFFNVTNPDEFLAGKEKAKVTQMGPYTYREYRPRENVTYLENGTKIFATNPKSFVFLRNMSAGDPEVDRVTTVNIPMIAVMNELNSYSFFVRTAVSMYMGSMGMGLFMNRTVHEILWGFKDPLLTKLHAMRPEVDEHFGLMYNKNGTHEGEFVFHTGEKNYMNYGKIDTWNGISQMNWWSSNQSNMINGTDGSVFHTFLSRKELLYIFAADLCRSIHLGYVRDMEVKGIPAFRFAPPSDVLAPPDENPANAGFCVPAGDCLGKGVLKVSVCRQGAPIVVSFPHFYQADERYINAIEGMNPNEEEHETYLDINPTTGVPIRACKRAQLNIILKRVRGFPNTKFLNETIFPIMYVNETATIDDESAAQMRMLLLIVTVVSNFPVIILALGVILLVVLIFLVCR
-5	63942132	63953900	CD36_(PF01130)	540.4	+
-#	PR01610	IPR005428	439	461	\N	6.700000000000001e-10	18.84	IVTVVSNFPVIILALGVILLVVL
-5	63953814	63953882	CD36_antigen_(PR01610)	274.0	+
-#	PR01611	IPR005429	187	204	\N	5.8e-24	35.19	DPLLTKLHAMRPEVDEHF
-5	63947405	63947458	LimpII_(PR01611)	412.0	+
-#	PR01611	IPR005429	262	278	\N	5.8e-24	43.14	HTFLSRKELLYIFAADL
-5	63949308	63949358	LimpII_(PR01611)	456.0	+
-#	PR01611	IPR005429	394	415	\N	5.8e-24	27.27	NIILKRVRGFPNTKFLNETIFP
-5	63952872	63953018	LimpII_(PR01611)	306.0	+
-#	PR01610	IPR005428	2	23	\N	6.700000000000001e-10	25.76	TRRSCTIYATGIVCAHLLILGI
-5	63942099	63942164	CD36_antigen_(PR01610)	240.0	+
-#	PR01610	IPR005428	67	89	\N	6.700000000000001e-10	39.13	FFFNVTNPDEFLAGKEKAKVTQM
-5	63945248	63945316	CD36_antigen_(PR01610)	443.0	+
-#	PR01610	IPR005428	130	150	\N	6.700000000000001e-10	24.6	DPEVDRVTTVNIPMIAVMNEL
-5	63946978	63947296	CD36_antigen_(PR01610)	179.0	+
-#	PR01610	IPR005428	350	368	\N	6.700000000000001e-10	42.98	FYQADERYINAIEGMNPNE
-5	63952424	63952480	CD36_antigen_(PR01610)	396.0	+
-#	PR01611	IPR005429	5	29	\N	5.8e-24	32.0	SCTIYATGIVCAHLLILGIALLLAQ
-5	63942108	63942182	LimpII_(PR01611)	420.0	+
-#	PR01611	IPR005429	31	54	\N	5.8e-24	27.78	FQTMIQERIKKEITLAENSRVLDG
-5	63942186	63945211	LimpII_(PR01611)	375.0	+
-#	PR01611	IPR005429	130	148	\N	5.8e-24	45.61	DPEVDRVTTVNIPMIAVMN
-5	63946978	63947290	LimpII_(PR01611)	558.0	+
-#	PR01609	IPR002159	373	394	\N	4.199999999999999e-41	42.63	TYLDINPTTGVPIRACKRAQLN
-5	63952493	63952874	CD36_(PR01609)	520.0	+
+5	63949624	63952426	CD36	625.0	+	63949624	63952426	83,88,95	2	42,31	0,2771	PR01609	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01609&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01609
+5	63949272	63949346	CD36	470.0	+	63949272	63949346	83,88,95	1	74	0	PR01609	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01609&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01609
+5	63946921	63946980	CD36	133.0	+	63946921	63946980	83,88,95	1	59	0	PR01609	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01609&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01609
+5	63945218	63945283	CD36	500.0	+	63945218	63945283	83,88,95	1	65	0	PR01609	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01609&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01609
+5	63945296	63945334	CD36	369.0	+	63945296	63945334	83,88,95	1	38	0	PR01609	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01609&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01609
+5	63942132	63953900	CD36	540.4	+	63942132	63953900	83,88,95	11	86,160,147,194,91,119,178,118,73,51,137	0,3041,4743,5147,5968,7112,7356,10263,10698,10853,11631	PF01130	http://pfam.sanger.ac.uk/family?acc=PF01130
+5	63953814	63953882	CD36_antigen	274.0	+	63953814	63953882	83,88,95	1	68	0	PR01610	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01610&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01610
+5	63947405	63947458	LimpII	412.0	+	63947405	63947458	83,88,95	1	53	0	PR01611	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01611&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01611
+5	63949308	63949358	LimpII	456.0	+	63949308	63949358	83,88,95	1	50	0	PR01611	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01611&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01611
+5	63952872	63953018	LimpII	306.0	+	63952872	63953018	83,88,95	2	31,33	0,113	PR01611	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01611&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01611
+5	63942099	63942164	CD36_antigen	240.0	+	63942099	63942164	83,88,95	1	65	0	PR01610	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01610&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01610
+5	63945248	63945316	CD36_antigen	443.0	+	63945248	63945316	83,88,95	1	68	0	PR01610	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01610&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01610
+5	63946978	63947296	CD36_antigen	179.0	+	63946978	63947296	83,88,95	2	44,17	0,301	PR01610	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01610&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01610
+5	63952424	63952480	CD36_antigen	396.0	+	63952424	63952480	83,88,95	1	56	0	PR01610	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01610&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01610
+5	63942108	63942182	LimpII	420.0	+	63942108	63942182	83,88,95	1	74	0	PR01611	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01611&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01611
+5	63942186	63945211	LimpII	375.0	+	63942186	63945211	83,88,95	2	32,38	0,2987	PR01611	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01611&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01611
+5	63946978	63947290	LimpII	558.0	+	63946978	63947290	83,88,95	2	44,11	0,301	PR01611	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01611&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01611
+5	63952493	63952874	CD36	520.0	+	63952493	63952874	83,88,95	2	20,44	0,337	PR01609	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01609&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01609

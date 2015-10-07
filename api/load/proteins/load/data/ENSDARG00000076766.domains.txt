@@ -1,15 +1,6 @@
-browser position chr7:76823085-76823497
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000076766	ENSDART00000109720	ENSDARP00000097572	76823085	76823497	###
-#	SM00526	IPR005818	26	91	\N	1.2e-18	0.0	KKAGPGVGELIVKAVSASKERSGMSLAALKKALAASGYDVEKNNSRVKLAIKGMVTKGVLKQVKGT
-7	76823160	76823357	Histone_H1/H5_H15_(SM00526)	78.0	+
-#	PR00624	IPR005819	15	36	\N	2.6e-15	24.24	KAPRKKSAAKAKKAGPGVGELI
-7	76823127	76823192	Histone_H5_(PR00624)	255.0	+
-#	PR00624	IPR005819	42	59	\N	2.6e-15	35.19	ASKERSGMSLAALKKALA
-7	76823208	76823261	Histone_H5_(PR00624)	293.0	+
-#	PR00624	IPR005819	62	80	\N	2.6e-15	30.41	GYDVEKNNSRVKLAIKGMV
-7	76823268	76823324	Histone_H5_(PR00624)	188.0	+
-#	PR00624	IPR005819	83	107	\N	2.6e-15	62.22	GVLKQVKGTGASGSFKLNKQQEAQE
-7	76823331	76823470	Histone_H5_(PR00624)	771.0	+
-#	PF00538	IPR005818	30	101	\N	1.1e-24	0.0	PGVGELIVKAVSASKERSGMSLAALKKALAASGYDVEKNNSRVKLAIKGMVTKGVLKQVKGTGASGSFKLNK
-7	76823172	76823387	Histone_H1/H5_H15_(PF00538)	72.9	+
+7	76823160	76823357	Histone_H1/H5_H15	78.0	+	76823160	76823357	83,88,95	1	197	0	SM00526	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00526
+7	76823127	76823192	Histone_H5	255.0	+	76823127	76823192	83,88,95	1	65	0	PR00624	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00624&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00624
+7	76823208	76823261	Histone_H5	293.0	+	76823208	76823261	83,88,95	1	53	0	PR00624	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00624&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00624
+7	76823268	76823324	Histone_H5	188.0	+	76823268	76823324	83,88,95	1	56	0	PR00624	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00624&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00624
+7	76823331	76823470	Histone_H5	771.0	+	76823331	76823470	83,88,95	2	63,10	0,129	PR00624	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00624&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00624
+7	76823172	76823387	Histone_H1/H5_H15	72.9	+	76823172	76823387	83,88,95	1	215	0	PF00538	http://pfam.sanger.ac.uk/family?acc=PF00538

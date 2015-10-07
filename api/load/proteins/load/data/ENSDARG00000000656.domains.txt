@@ -1,13 +1,5 @@
-browser position chr19:7742916-7744909
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000000656	ENSDART00000000698	ENSDARP00000001220	7742916	7744909	###
-#	PF00227	IPR001353	16	197	\N	1.2e-49	0.0	VKTGTTIIAVTFDGGVVIGSDSRVSAGESVVNRVMNKLSPLHDKIYCALSGSAADAQTIAEIVNYQLDVHSIEVEDDPLVCSAATLVKNISYKYKEELSAHLIVAGWDKKGGGQVYATLSGLLTKQPFAIGGSGSFYINGFVDAEYKKNMTKRECQEFVVNALTLAMGRDGSSGGVAYVVTI
-19	7743269	7744655	Proteasome_sua/b_(PF00227)	154.6	+
-#	PR00141	IPR000243	27	42	\N	6e-19	63.49	FDGGVVIGSDSRVSAG
-19	7743509	7743556	Pept_T1A_subB_(PR00141)	539.0	+
-#	PR00141	IPR000243	147	158	\N	6e-19	61.55	GSGSFYINGFVD
-19	7744368	7744403	Pept_T1A_subB_(PR00141)	367.0	+
-#	PR00141	IPR000243	158	169	\N	6e-19	43.18	DAEYKKNMTKRE
-19	7744401	7744436	Pept_T1A_subB_(PR00141)	283.0	+
-#	PR00141	IPR000243	183	194	\N	6e-19	57.58	GRDGSSGGVAYV
-19	7744611	7744646	Pept_T1A_subB_(PR00141)	319.0	+
+19	7743269	7744655	Proteasome_sua/b	154.6	+	7743269	7744655	83,88,95	6	11,67,131,129,141,61	0,219,553,810,1048,1325	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227
+19	7743509	7743556	Pept_T1A_subB	539.0	+	7743509	7743556	83,88,95	1	47	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+19	7744368	7744403	Pept_T1A_subB	367.0	+	7744368	7744403	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+19	7744401	7744436	Pept_T1A_subB	283.0	+	7744401	7744436	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+19	7744611	7744646	Pept_T1A_subB	319.0	+	7744611	7744646	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141

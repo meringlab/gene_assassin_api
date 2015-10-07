@@ -1,31 +1,14 @@
-browser position chr11:36012195-36025843
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000078585	ENSDART00000110839	ENSDARP00000102772	36012195	36025843	###
-#	PR01546	IPR004353	283	296	\N	8.399999999999998e-115	44.05	AKAKNLVFSILLAG
-11	36018586	36018627	Vacuolar_fusion_protein_MON1_(PR01546)	288.0	+
-#	PR01546	IPR004353	492	505	\N	8.399999999999998e-115	33.33	PLGTKSLAVSAVNR
-11	36022850	36022891	Vacuolar_fusion_protein_MON1_(PR01546)	223.0	+
-#	PR01546	IPR004353	476	490	\N	8.399999999999998e-115	50.0	LYALVTSGFELYLCF
-11	36020926	36022846	Vacuolar_fusion_protein_MON1_(PR01546)	335.0	+
-#	PR01546	IPR004353	362	388	\N	8.399999999999998e-115	40.12	CLILVSTDREDFFNLSDCKKRFLERLR
-11	36018823	36018903	Vacuolar_fusion_protein_MON1_(PR01546)	596.0	+
-#	PR01546	IPR004353	332	355	\N	8.399999999999998e-115	61.81	EGWTPICLPKFNPAGFFHAHISYL
-11	36018733	36018804	Vacuolar_fusion_protein_MON1_(PR01546)	950.0	+
-#	PF03164	IPR004353	116	525	\N	5.199999999999999e-174	0.0	VTSETWRSHRKHVFVLSEAGKPIYTRYGTEEALSSIMGVMMLLMSFVEDKKNIIRSIHADGYRVVFLRKTPLILVGVSRTSCSDRELTRELQYVYFQIVSLLTLTQLNHVFQHRQSYDLRRLLAGSEHLTDNLLRLLDRDPGLLLSAVMCLPLANSARDVVSSSLQAAKAKNLVFSILLAGNRLVTLVRKKDQFLHHMDLHLLFNLVGSSSSFREGEGWTPICLPKFNPAGFFHAHISYLEPASDLCLILVSTDREDFFNLSDCKKRFLERLRRRSAYQSLQEALNTPSYSLSQVGIPELRHFVYKSKSSGLYTSPDLPALYEGGEEQERLMGLYQHLHSCLHHPTRPLRCIYRCTDTENLYALVTSGFELYLCFSPLGTKSLAVSAVNRLLKWIRKEEDRLFILSPLTY
-11	36016329	36022951	Vacuolar_fusion_protein_MON1_(PF03164)	564.9	+
-#	PR01546	IPR004353	259	280	\N	8.399999999999998e-115	43.18	LLSAVMCLPLANSARDVVSSSL
-11	36018514	36018579	Vacuolar_fusion_protein_MON1_(PR01546)	455.0	+
-#	PR01546	IPR004353	230	242	\N	8.399999999999998e-115	64.1	QSYDLRRLLAGSE
-11	36018427	36018465	Vacuolar_fusion_protein_MON1_(PR01546)	449.0	+
-#	PR01546	IPR004353	201	229	\N	8.399999999999998e-115	42.53	ELTRELQYVYFQIVSLLTLTQLNHVFQHR
-11	36018340	36018426	Vacuolar_fusion_protein_MON1_(PR01546)	586.0	+
-#	PR01546	IPR004353	178	192	\N	8.399999999999998e-115	48.89	RVVFLRKTPLILVGV
-11	36018271	36018315	Vacuolar_fusion_protein_MON1_(PR01546)	375.0	+
-#	PR01546	IPR004353	144	164	\N	8.399999999999998e-115	37.3	TEEALSSIMGVMMLLMSFVED
-11	36016413	36016475	Vacuolar_fusion_protein_MON1_(PR01546)	356.0	+
-#	PR01546	IPR004353	126	143	\N	8.399999999999998e-115	63.89	KHVFVLSEAGKPIYTRYG
-11	36016359	36016412	Vacuolar_fusion_protein_MON1_(PR01546)	640.0	+
-#	PR01546	IPR004353	505	525	\N	8.399999999999998e-115	53.97	RLLKWIRKEEDRLFILSPLTY
-11	36022889	36022951	Vacuolar_fusion_protein_MON1_(PR01546)	624.0	+
-#	PR01546	IPR004353	307	323	\N	8.399999999999998e-115	50.0	DQFLHHMDLHLLFNLVG
-11	36018658	36018708	Vacuolar_fusion_protein_MON1_(PR01546)	397.0	+
+11	36018586	36018627	Vacuolar_fusion_protein_MON1	288.0	+	36018586	36018627	83,88,95	1	41	0	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546
+11	36022850	36022891	Vacuolar_fusion_protein_MON1	223.0	+	36022850	36022891	83,88,95	1	41	0	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546
+11	36020926	36022846	Vacuolar_fusion_protein_MON1	335.0	+	36020926	36022846	83,88,95	2	11,32	0,1888	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546
+11	36018823	36018903	Vacuolar_fusion_protein_MON1	596.0	+	36018823	36018903	83,88,95	1	80	0	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546
+11	36018733	36018804	Vacuolar_fusion_protein_MON1	950.0	+	36018733	36018804	83,88,95	1	71	0	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546
+11	36016329	36022951	Vacuolar_fusion_protein_MON1	564.9	+	36016329	36022951	83,88,95	4	177,765,147,137	0,1934,4461,6485	PF03164	http://pfam.sanger.ac.uk/family?acc=PF03164
+11	36018514	36018579	Vacuolar_fusion_protein_MON1	455.0	+	36018514	36018579	83,88,95	1	65	0	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546
+11	36018427	36018465	Vacuolar_fusion_protein_MON1	449.0	+	36018427	36018465	83,88,95	1	38	0	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546
+11	36018340	36018426	Vacuolar_fusion_protein_MON1	586.0	+	36018340	36018426	83,88,95	1	86	0	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546
+11	36018271	36018315	Vacuolar_fusion_protein_MON1	375.0	+	36018271	36018315	83,88,95	1	44	0	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546
+11	36016413	36016475	Vacuolar_fusion_protein_MON1	356.0	+	36016413	36016475	83,88,95	1	62	0	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546
+11	36016359	36016412	Vacuolar_fusion_protein_MON1	640.0	+	36016359	36016412	83,88,95	1	53	0	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546
+11	36022889	36022951	Vacuolar_fusion_protein_MON1	624.0	+	36022889	36022951	83,88,95	1	62	0	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546
+11	36018658	36018708	Vacuolar_fusion_protein_MON1	397.0	+	36018658	36018708	83,88,95	1	50	0	PR01546	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01546&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01546

@@ -1,39 +1,18 @@
-browser position chr8:2631922-2644829
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000003749	ENSDART00000002764	ENSDARP00000017489	2631922	2644829	###
-#	PF10391	IPR018944	98	147	\N	4.0000000000000004e-24	0.0	NFLTRVTGIGPAAARKFFDEGVRNLEDLKKIEHKLNHHQQIGLKYFEEFE
-8	2636605	2637725	DNA_pol_lambd_fingers_domain_(PF10391)	70.5	+
-#	PR00870	IPR002008	64	81	\N	8.7e-51	73.33	GVGAKIAEKIDEFLTTGK
-8	2633228	2633281	DNA_pol_X_beta-like_(PR00870)	659.0	+
-#	PR00870	IPR002008	137	151	\N	8.7e-51	58.67	QIGLKYFEEFEKRIP
-8	2636892	2637737	DNA_pol_X_beta-like_(PR00870)	516.0	+
-#	PR00870	IPR002008	177	196	\N	8.7e-51	70.0	ICGSYRRGAESSGDIDILLT
-8	2638404	2638552	DNA_pol_X_beta-like_(PR00870)	764.0	+
-#	PR00870	IPR002008	257	265	\N	8.7e-51	82.22	RRIDIRLIP
-8	2641139	2642223	DNA_pol_X_beta-like_(PR00870)	358.0	+
-#	PR00870	IPR002008	272	279	\N	8.7e-51	82.5	GVLYFTGS
-8	2642242	2642265	DNA_pol_X_beta-like_(PR00870)	350.0	+
-#	PR00870	IPR002008	320	337	\N	8.7e-51	71.11	EKDIFEYIQWKYREPKDR
-8	2644313	2644366	DNA_pol_X_beta-like_(PR00870)	758.0	+
-#	PR00869	IPR022312	105	122	\N	2.2000000000000002e-30	45.3	GIGPAAARKFFDEGVRNL
-8	2636626	2636770	DNA_pol_X_(PR00869)	421.0	+
-#	PR00869	IPR022312	176	190	\N	2.2000000000000002e-30	52.31	TICGSYRRGAESSGD
-8	2638401	2638534	DNA_pol_X_(PR00869)	427.0	+
-#	PR00869	IPR022312	190	198	\N	2.2000000000000002e-30	61.54	DIDILLTHP
-8	2638532	2638558	DNA_pol_X_(PR00869)	327.0	+
-#	PR00869	IPR022312	258	267	\N	2.2000000000000002e-30	50.0	RIDIRLIPKD
-8	2641142	2642229	DNA_pol_X_(PR00869)	270.0	+
-#	PR00869	IPR022312	274	287	\N	2.2000000000000002e-30	51.65	LYFTGSDIFNKNMR
-8	2642248	2642289	DNA_pol_X_(PR00869)	345.0	+
-#	PR00869	IPR022312	319	337	\N	2.2000000000000002e-30	53.85	SEKDIFEYIQWKYREPKDR
-8	2644310	2644366	DNA_pol_X_(PR00869)	554.0	+
-#	SM00483	IPR002054	10	338	\N	4.399999999999998e-137	0.0	SLNEGITDFLVELANYERNVNRAIHKYNAYRKAASVIAKYPQKIKSGTEAKKLDGVGAKIAEKIDEFLTTGKLRKLEKIRNDDTSSSINFLTRVTGIGPAAARKFFDEGVRNLEDLKKIEHKLNHHQQIGLKYFEEFEKRIPRSEMQKMEALILKELDIVDPEYIGTICGSYRRGAESSGDIDILLTHPDFTSQSEKQPKLLHAVVDHLESIGFITDTLSKGDTKFMGVCQLQKEKEEEEEEEESLHRRIDIRLIPKDQYYCGVLYFTGSDIFNKNMRTHALEKGFTLNEYTIRPLGVTGVAGEPLLVDSEKDIFEYIQWKYREPKDRS
-8	2632084	2644369	DNA-dir_DNA_pol_X_(SM00483)	471.4	+
-#	SM00278	IPR003583	98	117	\N	11.0	0.0	NFLTRVTGIGPAAARKFFDE
-8	2636605	2636755	Hlx-hairpin-Hlx_DNA-bd_motif_(SM00278)	14.9	+
-#	SM00278	IPR003583	57	76	\N	2.0	0.0	TEAKKLDGVGAKIAEKIDEF
-8	2632808	2633266	Hlx-hairpin-Hlx_DNA-bd_motif_(SM00278)	17.4	+
-#	SSF47802	IPR010996	1	87	\N	1.1999999999999998e-23	0.0	MSKRKAPQESLNEGITDFLVELANYERNVNRAIHKYNAYRKAASVIAKYPQKIKSGTEAKKLDGVGAKIAEKIDEFLTTGKLRKLEK
-8	2632057	2633299	DNA_pol_b-like_N_(SSF47802)	0.0	+
-#	SSF81585	IPR018944	91	148	\N	3.2e-18	0.0	DDTSSSINFLTRVTGIGPAAARKFFDEGVRNLEDLKKIEHKLNHHQQIGLKYFEEFEK
-8	2636584	2637728	DNA_pol_lambd_fingers_domain_(SSF81585)	0.0	+
+8	2636605	2637725	DNA_pol_lambd_fingers_domain	70.5	+	2636605	2637725	83,88,95	4	28,49,51,18	0,120,249,1102	PF10391	http://pfam.sanger.ac.uk/family?acc=PF10391
+8	2633228	2633281	DNA_pol_X_beta-like	659.0	+	2633228	2633281	83,88,95	1	53	0	PR00870	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00870&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00870
+8	2636892	2637737	DNA_pol_X_beta-like	516.0	+	2636892	2637737	83,88,95	2	13,30	0,815	PR00870	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00870&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00870
+8	2638404	2638552	DNA_pol_X_beta-like	764.0	+	2638404	2638552	83,88,95	2	21,37	0,111	PR00870	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00870&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00870
+8	2641139	2642223	DNA_pol_X_beta-like	358.0	+	2641139	2642223	83,88,95	2	16,9	0,1075	PR00870	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00870&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00870
+8	2642242	2642265	DNA_pol_X_beta-like	350.0	+	2642242	2642265	83,88,95	1	23	0	PR00870	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00870&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00870
+8	2644313	2644366	DNA_pol_X_beta-like	758.0	+	2644313	2644366	83,88,95	1	53	0	PR00870	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00870&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00870
+8	2636626	2636770	DNA_pol_X	421.0	+	2636626	2636770	83,88,95	2	7,45	0,99	PR00869	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00869&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00869
+8	2638401	2638534	DNA_pol_X	427.0	+	2638401	2638534	83,88,95	2	24,19	0,114	PR00869	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00869&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00869
+8	2638532	2638558	DNA_pol_X	327.0	+	2638532	2638558	83,88,95	1	26	0	PR00869	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00869&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00869
+8	2641142	2642229	DNA_pol_X	270.0	+	2641142	2642229	83,88,95	2	13,15	0,1072	PR00869	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00869&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00869
+8	2642248	2642289	DNA_pol_X	345.0	+	2642248	2642289	83,88,95	1	41	0	PR00869	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00869&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00869
+8	2644310	2644366	DNA_pol_X	554.0	+	2644310	2644366	83,88,95	1	56	0	PR00869	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00869&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00869
+8	2632084	2644369	DNA-dir_DNA_pol_X	471.4	+	2632084	2644369	83,88,95	14	33,57,66,74,58,49,51,54,72,70,86,76,139,88	0,533,675,1141,4491,4641,4770,5623,6269,6431,8819,8995,10130,12197	SM00483	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00483
+8	2636605	2636755	Hlx-hairpin-Hlx_DNA-bd_motif	14.9	+	2636605	2636755	83,88,95	2	28,30	0,120	SM00278	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00278
+8	2632808	2633266	Hlx-hairpin-Hlx_DNA-bd_motif	17.4	+	2632808	2633266	83,88,95	2	17,41	0,417	SM00278	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00278
+8	2632057	2633299	DNA_pol_b-like_N	0.0	+	2632057	2633299	83,88,95	4	60,57,66,74	0,560,702,1168	SSF47802	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47802
+8	2636584	2637728	DNA_pol_lambd_fingers_domain	0.0	+	2636584	2637728	83,88,95	4	49,49,51,21	0,141,270,1123	SSF81585	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81585

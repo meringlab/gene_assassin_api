@@ -1,39 +1,18 @@
-browser position chr9:49072980-49076657
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000052088	ENSDART00000073870	ENSDARP00000068360	49072980	49076657	###
-#	PR00657	IPR000355	322	336	\N	3e-06	49.68	FVGEKFRRRFLQLLH
-9	49076526	49076570	Chemokine_rcpt_(PR00657)	361.0	+
-#	PF00001	IPR000276	68	320	\N	2.8000000000000002e-55	0.0	GNVIVGWVIGSNRRLLSASDVYLFNLMLADTLLALILPFSAVNVIHGWVFGNVACKLVSLVKEVNFYTSILFLVCISVDRYMVIVRAMESQKAQRRLCSGVACGLVWVLGLVLSLPSFYNEAFFDKRMFNQTICAERFETDHADEWRLATRIMRHVLGFALPLVVMLSCYSVTVVRLLRTRCFQKQRAMKVIVAVVVAFLVCWTPFHVSTIIDTILRAKVVQFGCTMRTSVEVAMFATQNLGLLHCCVNPVLY
-9	49075764	49076522	GPCR_Rhodpsn_(PF00001)	173.5	+
-#	PR00237	IPR000276	255	279	\N	4e-44	30.82	AMKVIVAVVVAFLVCWTPFHVSTII
-9	49076325	49076399	GPCR_Rhodpsn_(PR00237)	508.0	+
-#	PR00237	IPR000276	302	328	\N	4e-44	33.5	MFATQNLGLLHCCVNPVLYAFVGEKFR
-9	49076466	49076546	GPCR_Rhodpsn_(PR00237)	455.0	+
-#	PR00427	IPR000174	78	89	\N	2.5e-13	43.52	SNRRLLSASDVY
-9	49075794	49075829	Chemokine_CXCR_1/2_(PR00427)	207.0	+
-#	PR00427	IPR000174	123	136	\N	2.5e-13	69.05	KLVSLVKEVNFYTS
-9	49075929	49075970	Chemokine_CXCR_1/2_(PR00427)	506.0	+
-#	PR00427	IPR000174	210	226	\N	2.5e-13	36.6	ADEWRLATRIMRHVLGF
-9	49076190	49076240	Chemokine_CXCR_1/2_(PR00427)	383.0	+
-#	PR00427	IPR000174	280	296	\N	2.5e-13	39.22	DTILRAKVVQFGCTMRT
-9	49076400	49076450	Chemokine_CXCR_1/2_(PR00427)	382.0	+
-#	PR00427	IPR000174	330	346	\N	2.5e-13	24.84	RFLQLLHRKGVLERFSL
-9	49076550	49076600	Chemokine_CXCR_1/2_(PR00427)	169.0	+
-#	PR00657	IPR000355	76	89	\N	3e-06	29.72	IGSNRRLLSASDVY
-9	49075788	49075829	Chemokine_rcpt_(PR00657)	208.0	+
-#	PR00237	IPR000276	218	241	\N	4e-44	27.4	RIMRHVLGFALPLVVMLSCYSVTV
-9	49076214	49076285	GPCR_Rhodpsn_(PR00237)	275.0	+
-#	PR00237	IPR000276	129	151	\N	4e-44	36.41	KEVNFYTSILFLVCISVDRYMVI
-9	49075947	49076015	GPCR_Rhodpsn_(PR00237)	376.0	+
-#	PR00237	IPR000276	165	186	\N	4e-44	23.46	CSGVACGLVWVLGLVLSLPSFY
-9	49076055	49076120	GPCR_Rhodpsn_(PR00237)	221.0	+
-#	PR00237	IPR000276	53	77	\N	4e-44	24.31	SFSVFYVFIFLLAIPGNVIVGWVIG
-9	49075719	49075793	GPCR_Rhodpsn_(PR00237)	216.0	+
-#	PR00237	IPR000276	86	107	\N	4e-44	29.25	SDVYLFNLMLADTLLALILPFS
-9	49075818	49075883	GPCR_Rhodpsn_(PR00237)	265.0	+
-#	PR00657	IPR000355	126	139	\N	3e-06	23.96	SLVKEVNFYTSILF
-9	49075938	49075979	Chemokine_rcpt_(PR00657)	145.0	+
-#	PR00657	IPR000355	298	312	\N	3e-06	31.4	VEVAMFATQNLGLLH
-9	49076454	49076498	Chemokine_rcpt_(PR00657)	257.0	+
-#	PS50262	IPR017452	68	320	\N	0.0	0.0	GNVIVGWVIGSNRRLLSASDVYLFNLMLADTLLALILPFSAVNVIHGWVFGNVACKLVSLVKEVNFYTSILFLVCISVDRYMVIVRAMESQKAQRRLCSGVACGLVWVLGLVLSLPSFYNEAFFDKRMFNQTICAERFETDHADEWRLATRIMRHVLGFALPLVVMLSCYSVTVVRLLRTRCFQKQRAMKVIVAVVVAFLVCWTPFHVSTIIDTILRAKVVQFGCTMRTSVEVAMFATQNLGLLHCCVNPVLY
-9	49075764	49076522	GPCR_Rhodpsn_7TM_(PS50262)	41.395	+
+9	49076526	49076570	Chemokine_rcpt	361.0	+	49076526	49076570	83,88,95	1	44	0	PR00657	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00657&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00657
+9	49075764	49076522	GPCR_Rhodpsn	173.5	+	49075764	49076522	83,88,95	1	758	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+9	49076325	49076399	GPCR_Rhodpsn	508.0	+	49076325	49076399	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	49076466	49076546	GPCR_Rhodpsn	455.0	+	49076466	49076546	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	49075794	49075829	Chemokine_CXCR_1/2	207.0	+	49075794	49075829	83,88,95	1	35	0	PR00427	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00427&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00427
+9	49075929	49075970	Chemokine_CXCR_1/2	506.0	+	49075929	49075970	83,88,95	1	41	0	PR00427	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00427&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00427
+9	49076190	49076240	Chemokine_CXCR_1/2	383.0	+	49076190	49076240	83,88,95	1	50	0	PR00427	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00427&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00427
+9	49076400	49076450	Chemokine_CXCR_1/2	382.0	+	49076400	49076450	83,88,95	1	50	0	PR00427	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00427&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00427
+9	49076550	49076600	Chemokine_CXCR_1/2	169.0	+	49076550	49076600	83,88,95	1	50	0	PR00427	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00427&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00427
+9	49075788	49075829	Chemokine_rcpt	208.0	+	49075788	49075829	83,88,95	1	41	0	PR00657	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00657&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00657
+9	49076214	49076285	GPCR_Rhodpsn	275.0	+	49076214	49076285	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	49075947	49076015	GPCR_Rhodpsn	376.0	+	49075947	49076015	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	49076055	49076120	GPCR_Rhodpsn	221.0	+	49076055	49076120	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	49075719	49075793	GPCR_Rhodpsn	216.0	+	49075719	49075793	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	49075818	49075883	GPCR_Rhodpsn	265.0	+	49075818	49075883	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	49075938	49075979	Chemokine_rcpt	145.0	+	49075938	49075979	83,88,95	1	41	0	PR00657	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00657&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00657
+9	49076454	49076498	Chemokine_rcpt	257.0	+	49076454	49076498	83,88,95	1	44	0	PR00657	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00657&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00657
+9	49075764	49076522	GPCR_Rhodpsn_7TM	41.395	+	49075764	49076522	83,88,95	1	758	0	PS50262	http://www.expasy.ch/prosite/PS50262

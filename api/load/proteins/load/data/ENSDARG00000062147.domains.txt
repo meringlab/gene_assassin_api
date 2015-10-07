@@ -1,33 +1,15 @@
-browser position chr9:31301348-31307720
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000062147	ENSDART00000089526	ENSDARP00000083959	31301348	31307720	###
-#	PR00102	IPR002292	82	96	\N	9.3e-27	70.08	MIFEKRSTRTRMSTE
-9	31306282	31306326	Orn/put_carbamltrans_(PR00102)	500.0	-
-#	PR00102	IPR002292	115	128	\N	9.3e-27	53.16	HLGVNECTTDTARV
-9	31304598	31306111	Orn/put_carbamltrans_(PR00102)	327.0	-
-#	PR00102	IPR002292	155	169	\N	9.3e-27	65.74	IPVINGLSDLYHPIQ
-9	31304475	31304519	Orn/put_carbamltrans_(PR00102)	574.0	-
-#	PR00102	IPR002292	258	268	\N	9.3e-27	69.98	LVTDTWVSMGQ
-9	31301941	31301973	Orn/put_carbamltrans_(PR00102)	451.0	-
-#	PR00102	IPR002292	319	330	\N	9.3e-27	62.21	SLVFEEAENRKW
-9	31301580	31301615	Orn/put_carbamltrans_(PR00102)	371.0	-
-#	PR00100	IPR006130	84	103	\N	5.7e-24	54.16	FEKRSTRTRMSTETGFSLLG
-9	31306145	31306320	Asp/Orn_carbamoylTrfase_(PR00100)	457.0	-
-#	PR00100	IPR006130	166	177	\N	5.7e-24	60.82	HPIQILADLLTL
-9	31304451	31304486	Asp/Orn_carbamoylTrfase_(PR00100)	404.0	-
-#	PR00100	IPR006130	294	303	\N	5.7e-24	48.18	PDWTFLHCLP
-9	31301661	31301690	Asp/Orn_carbamoylTrfase_(PR00100)	276.0	-
-#	PR00100	IPR006130	305	328	\N	5.7e-24	40.75	KPEEVDDEVFYSQRSLVFEEAENR
-9	31301586	31301657	Asp/Orn_carbamoylTrfase_(PR00100)	456.0	-
-#	PR00101	IPR002082	74	96	\N	1.3e-08	45.48	LLQGKSIAMIFEKRSTRTRMSTE
-9	31306282	31306350	Asp_carbamoyltransf_(PR00101)	435.0	-
-#	PR00101	IPR002082	165	182	\N	1.3e-08	44.59	YHPIQILADLLTLQEHYG
-9	31304363	31304489	Asp_carbamoyltransf_(PR00101)	423.0	-
-#	TIGR00658	IPR002292	38	340	\N	1.7999999999999997e-114	0.0	RSFLTLKDYNAEEIKHILWVSADLKHRIKHRGEHLPLLQGKSIAMIFEKRSTRTRMSTETGFSLLGGHPCFLTPQDIHLGVNECTTDTARVLSGLADIVLARVYNHSSLEHLDKDTSIPVINGLSDLYHPIQILADLLTLQEHYGSLKGRTLTWIGDGNNVLHSFMMSLAKLGVNLKVATPKGYEPDAAVTEEAQRLAKQFGTRLQFVSDPVEAARDSSVLVTDTWVSMGQEEEKKKRLKDFSGYQITIQTGSVAAPDWTFLHCLPRKPEEVDDEVFYSQRSLVFEEAENRKWTIMGLMVCIL
-9	31301470	31306537	Orn/put_carbamltrans_(TIGR00658)	368.0	-
-#	PF02729	IPR006132	38	180	\N	1.2999999999999999e-46	0.0	RSFLTLKDYNAEEIKHILWVSADLKHRIKHRGEHLPLLQGKSIAMIFEKRSTRTRMSTETGFSLLGGHPCFLTPQDIHLGVNECTTDTARVLSGLADIVLARVYNHSSLEHLDKDTSIPVINGLSDLYHPIQILADLLTLQEH
-9	31304369	31306537	Asp/Orn_carbamoyltranf_P-bd_(PF02729)	145.2	-
-#	PF00185	IPR006131	185	338	\N	8.400000000000001e-46	0.0	KGRTLTWIGDGNNVLHSFMMSLAKLGVNLKVATPKGYEPDAAVTEEAQRLAKQFGTRLQFVSDPVEAARDSSVLVTDTWVSMGQEEEKKKRLKDFSGYQITIQTGSVAAPDWTFLHCLPRKPEEVDDEVFYSQRSLVFEEAENRKWTIMGLMVC
-9	31301476	31304356	Asp_carbamoyltransf_Asp/Orn-bd_(PF00185)	143.1	-
-#	SSF53671	IPR006130	32	346	\N	2.2999999999999994e-99	0.0	SVNLKGRSFLTLKDYNAEEIKHILWVSADLKHRIKHRGEHLPLLQGKSIAMIFEKRSTRTRMSTETGFSLLGGHPCFLTPQDIHLGVNECTTDTARVLSGLADIVLARVYNHSSLEHLDKDTSIPVINGLSDLYHPIQILADLLTLQEHYGSLKGRTLTWIGDGNNVLHSFMMSLAKLGVNLKVATPKGYEPDAAVTEEAQRLAKQFGTRLQFVSDPVEAARDSSVLVTDTWVSMGQEEEKKKRLKDFSGYQITIQTGSVAAPDWTFLHCLPRKPEEVDDEVFYSQRSLVFEEAENRKWTIMGLMVCILTDYRPQ
-9	31301452	31306555	Asp/Orn_carbamoylTrfase_(SSF53671)	0.0	-
+9	31306282	31306326	Orn/put_carbamltrans	500.0	-	31306282	31306326	83,88,95	1	44	0	PR00102	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00102&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00102
+9	31304598	31306111	Orn/put_carbamltrans	327.0	-	31304598	31306111	83,88,95	2	1476,1510	0,3	PR00102	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00102&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00102
+9	31304475	31304519	Orn/put_carbamltrans	574.0	-	31304475	31304519	83,88,95	1	44	0	PR00102	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00102&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00102
+9	31301941	31301973	Orn/put_carbamltrans	451.0	-	31301941	31301973	83,88,95	1	32	0	PR00102	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00102&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00102
+9	31301580	31301615	Orn/put_carbamltrans	371.0	-	31301580	31301615	83,88,95	1	35	0	PR00102	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00102&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00102
+9	31306145	31306320	Asp/Orn_carbamoylTrfase	457.0	-	31306145	31306320	83,88,95	2	133,159	0,16	PR00100	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00100&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00100
+9	31304451	31304486	Asp/Orn_carbamoylTrfase	404.0	-	31304451	31304486	83,88,95	1	35	0	PR00100	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00100&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00100
+9	31301661	31301690	Asp/Orn_carbamoylTrfase	276.0	-	31301661	31301690	83,88,95	1	29	0	PR00100	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00100&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00100
+9	31301586	31301657	Asp/Orn_carbamoylTrfase	456.0	-	31301586	31301657	83,88,95	1	71	0	PR00100	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00100&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00100
+9	31306282	31306350	Asp_carbamoyltransf	435.0	-	31306282	31306350	83,88,95	1	68	0	PR00101	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00101&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00101
+9	31304363	31304489	Asp_carbamoyltransf	423.0	-	31304363	31304489	83,88,95	2	85,115	0,11	PR00101	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00101&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00101
+9	31301470	31306537	Orn/put_carbamltrans	368.0	-	31301470	31306537	83,88,95	9	4969,-81,-87,-153,-122,-53,-149,-137,5047	0,4889,4691,3131,2904,1843,563,238,20	TIGR00658	http://www.ebi.ac.uk/interpro/signature/TIGR00658
+9	31304369	31306537	Asp/Orn_carbamoyltranf_P-bd	145.2	-	31304369	31306537	83,88,95	5	2070,-81,-87,-153,2163	0,1990,1792,232,5	PF02729	http://pfam.sanger.ac.uk/family?acc=PF02729
+9	31301476	31304356	Asp_carbamoyltransf_Asp/Orn-bd	143.1	-	31301476	31304356	83,88,95	5	2776,-53,-149,-137,2866	0,1837,557,232,14	PF00185	http://pfam.sanger.ac.uk/family?acc=PF00185
+9	31301452	31306555	Asp/Orn_carbamoylTrfase	0.0	-	31301452	31306555	83,88,95	9	4987,-81,-87,-153,-122,-53,-149,-137,5065	0,4907,4709,3149,2922,1861,581,256,38	SSF53671	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF53671

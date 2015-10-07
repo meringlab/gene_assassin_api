@@ -1,45 +1,21 @@
-browser position chr1:56891422-56909879
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000036272	ENSDART00000021878	ENSDARP00000013211	56891422	56909879	###
-#	SM00008	IPR001879	49	119	\N	5.3e-19	0.0	AGLVCNRTFDQYVCWPDGLPGTTVNVSCPWYLPWYSKVDHGLVYRVCGADGRWVHGKNTSECEQDDPGQKQ
-1	56906026	56908087	GPCR_2_extracellular_dom_(SM00008)	79.1	-
-#	PF00002	IPR000832	126	385	\N	4.499999999999999e-82	0.0	KFRAMYTVGYSLSLAALTLALGILVSFRKLHCMRNNIHMNLFGSFMVRALSILIKDTLLDQMNRARSGPSHYQSTRWLDTQTVVGCRSAMVMMQYSVMANNCWLLVEGLYLHSLLVTTVFSERNYFCIYLCIGWGAPLIFVLPWMTVKYLYENEECWERNMNMGYWWIIRSPILFAYLINFIIFIRIIKILMSKLKAHQMRYTDYKFRLAKSTLTLIPLLGIHAVLFTFVIDESVPKESLLRLIRLFYDLLFSSFQGLLV
-1	56894521	56906007	GPCR_2_secretin-like_(PF00002)	262.1	-
-#	PF02793	IPR001879	51	113	\N	1.5e-22	0.0	LVCNRTFDQYVCWPDGLPGTTVNVSCPWYLPWYSKVDHGLVYRVCGADGRWVHGKNTSECEQD
-1	56906157	56906972	GPCR_2_extracellular_dom_(PF02793)	67.0	-
-#	PR00249	IPR000832	129	153	\N	8.4e-60	49.69	AMYTVGYSLSLAALTLALGILVSFR
-1	56905924	56905998	GPCR_2_secretin-like_(PR00249)	562.0	-
-#	PR00249	IPR000832	161	185	\N	8.4e-60	42.85	NIHMNLFGSFMVRALSILIKDTLLD
-1	56905542	56905616	GPCR_2_secretin-like_(PR00249)	505.0	-
-#	PR00249	IPR000832	213	236	\N	8.4e-60	47.39	SAMVMMQYSVMANNCWLLVEGLYL
-1	56904969	56905040	GPCR_2_secretin-like_(PR00249)	584.0	-
-#	PR00249	IPR000832	251	276	\N	8.4e-60	37.48	FCIYLCIGWGAPLIFVLPWMTVKYLY
-1	56903795	56904926	GPCR_2_secretin-like_(PR00249)	577.0	-
-#	PR00249	IPR000832	292	317	\N	8.4e-60	46.81	WIIRSPILFAYLINFIIFIRIIKILM
-1	56897098	56899393	GPCR_2_secretin-like_(PR00249)	698.0	-
-#	PR00249	IPR000832	371	392	\N	8.4e-60	50.39	LFYDLLFSSFQGLLVAILYCFV
-1	56894500	56894646	GPCR_2_secretin-like_(PR00249)	637.0	-
-#	PR01129	IPR001749	17	34	\N	7.7e-11	27.78	QVSSGKSLKLLQEQWRIY
-1	56908130	56909793	GPCR_2_GIP_rcpt_(PR01129)	230.0	-
-#	PR01129	IPR001749	38	52	\N	7.7e-11	28.89	CIQSFISTPPAAGLV
-1	56906967	56908120	GPCR_2_GIP_rcpt_(PR01129)	259.0	-
-#	PR01129	IPR001749	84	97	\N	7.7e-11	42.86	SKVDHGLVYRVCGA
-1	56906205	56906873	GPCR_2_GIP_rcpt_(PR01129)	290.0	-
-#	PR01129	IPR001749	237	254	\N	7.7e-11	46.3	HSLLVTTVFSERNYFCIY
-1	56904915	56904968	GPCR_2_GIP_rcpt_(PR01129)	353.0	-
-#	PR01129	IPR001749	274	291	\N	7.7e-11	59.26	YLYENEECWERNMNMGYW
-1	56899394	56903803	GPCR_2_GIP_rcpt_(PR01129)	673.0	-
-#	PR01354	IPR003291	12	31	\N	1.2e-06	28.33	LTTHTQVSSGKSLKLLQEQW
-1	56908139	56909808	GPCR_2_glucagon_rcpt_(PR01354)	255.0	-
-#	PR01354	IPR003291	82	94	\N	1.2e-06	46.15	WYSKVDHGLVYRV
-1	56906214	56906879	GPCR_2_glucagon_rcpt_(PR01354)	359.0	-
-#	PR01354	IPR003291	96	109	\N	1.2e-06	42.86	GADGRWVHGKNTSE
-1	56906169	56906210	GPCR_2_glucagon_rcpt_(PR01354)	354.0	-
-#	PR01354	IPR003291	240	250	\N	1.2e-06	39.39	LVTTVFSERNY
-1	56904927	56904959	GPCR_2_glucagon_rcpt_(PR01354)	216.0	-
-#	PR01354	IPR003291	407	421	\N	1.2e-06	35.56	WKLGKDIDEEYRHTH
-1	56892019	56892063	GPCR_2_glucagon_rcpt_(PR01354)	268.0	-
-#	PS50227	IPR001879	37	114	\N	0.0	0.0	ECIQSFISTPPAAGLVCNRTFDQYVCWPDGLPGTTVNVSCPWYLPWYSKVDHGLVYRVCGADGRWVHGKNTSECEQDD
-1	56906154	56908123	GPCR_2_extracellular_dom_(PS50227)	18.972	-
-#	PS50261	IPR017981	127	393	\N	0.0	0.0	FRAMYTVGYSLSLAALTLALGILVSFRKLHCMRNNIHMNLFGSFMVRALSILIKDTLLDQMNRARSGPSHYQSTRWLDTQTVVGCRSAMVMMQYSVMANNCWLLVEGLYLHSLLVTTVFSERNYFCIYLCIGWGAPLIFVLPWMTVKYLYENEECWERNMNMGYWWIIRSPILFAYLINFIIFIRIIKILMSKLKAHQMRYTDYKFRLAKSTLTLIPLLGIHAVLFTFVIDESVPKESLLRLIRLFYDLLFSSFQGLLVAILYCFVN
-1	56894497	56906004	GPCR_2-like_(PS50261)	43.806999999999995	-
+1	56906026	56908087	GPCR_2_extracellular_dom	79.1	-	56906026	56908087	83,88,95	4	2058,-107,-94,2056	0,948,213,5	SM00008	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00008
+1	56894521	56906007	GPCR_2_secretin-like	262.1	-	56894521	56906007	83,88,95	8	11404,-159,-159,-60,-69,-88,-144,11475	0,11117,10537,9323,4906,2618,237,11	PF00002	http://pfam.sanger.ac.uk/family?acc=PF00002
+1	56906157	56906972	GPCR_2_extracellular_dom	67.0	-	56906157	56906972	83,88,95	2	710,733	0,82	PF02793	http://pfam.sanger.ac.uk/family?acc=PF02793
+1	56905924	56905998	GPCR_2_secretin-like	562.0	-	56905924	56905998	83,88,95	1	74	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+1	56905542	56905616	GPCR_2_secretin-like	505.0	-	56905542	56905616	83,88,95	1	74	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+1	56904969	56905040	GPCR_2_secretin-like	584.0	-	56904969	56905040	83,88,95	1	71	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+1	56903795	56904926	GPCR_2_secretin-like	577.0	-	56903795	56904926	83,88,95	2	1104,1082	0,49	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+1	56897098	56899393	GPCR_2_secretin-like	698.0	-	56897098	56899393	83,88,95	2	2260,2254	0,41	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+1	56894500	56894646	GPCR_2_secretin-like	637.0	-	56894500	56894646	83,88,95	2	114,114	0,32	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+1	56908130	56909793	GPCR_2_GIP_rcpt	230.0	-	56908130	56909793	83,88,95	2	1661,1613	0,50	PR01129	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01129&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01129
+1	56906967	56908120	GPCR_2_GIP_rcpt	259.0	-	56906967	56908120	83,88,95	2	1117,1146	0,7	PR01129	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01129&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01129
+1	56906205	56906873	GPCR_2_GIP_rcpt	290.0	-	56906205	56906873	83,88,95	2	662,634	0,34	PR01129	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01129&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01129
+1	56904915	56904968	GPCR_2_GIP_rcpt	353.0	-	56904915	56904968	83,88,95	1	53	0	PR01129	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01129&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01129
+1	56899394	56903803	GPCR_2_GIP_rcpt	673.0	-	56899394	56903803	83,88,95	2	4390,4376	0,33	PR01129	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01129&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01129
+1	56908139	56909808	GPCR_2_glucagon_rcpt	255.0	-	56908139	56909808	83,88,95	2	1652,1628	0,41	PR01354	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01354&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01354
+1	56906214	56906879	GPCR_2_glucagon_rcpt	359.0	-	56906214	56906879	83,88,95	2	653,640	0,25	PR01354	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01354&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01354
+1	56906169	56906210	GPCR_2_glucagon_rcpt	354.0	-	56906169	56906210	83,88,95	1	41	0	PR01354	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01354&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01354
+1	56904927	56904959	GPCR_2_glucagon_rcpt	216.0	-	56904927	56904959	83,88,95	1	32	0	PR01354	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01354&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01354
+1	56892019	56892063	GPCR_2_glucagon_rcpt	268.0	-	56892019	56892063	83,88,95	1	44	0	PR01354	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01354&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01354
+1	56906154	56908123	GPCR_2_extracellular_dom	18.972	-	56906154	56908123	83,88,95	3	1930,-107,1884	0,820,85	PS50227	http://www.expasy.ch/prosite/PS50227
+1	56894497	56906004	GPCR_2-like	43.806999999999995	-	56894497	56906004	83,88,95	8	11428,-159,-159,-60,-69,-88,-144,11472	0,11141,10561,9347,4930,2642,261,35	PS50261	http://www.expasy.ch/prosite/PS50261

@@ -1,35 +1,16 @@
-browser position chr24:595106-597000
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000026417	ENSDART00000066872	ENSDARP00000066871	595106	597000	###
-#	PR00237	IPR000276	52	76	\N	1.8e-43	26.04	FLPMFYYIIFTVSILGNGVVLLVVY
-24	595340	595414	GPCR_Rhodpsn_(PR00237)	293.0	+
-#	PR00657	IPR000355	125	138	\N	2.1e-16	45.16	TSAYYLGFYSSILF
-24	595559	595600	Chemokine_rcpt_(PR00657)	389.0	+
-#	PR00657	IPR000355	99	109	\N	2.1e-16	58.36	FTLTLPFQAVY
-24	595481	595513	Chemokine_rcpt_(PR00657)	302.0	+
-#	PR00657	IPR000355	75	88	\N	2.1e-16	21.2	VYKFEKMNTVTNIF
-24	595409	595450	Chemokine_rcpt_(PR00657)	226.0	+
-#	PR00237	IPR000276	292	318	\N	1.8e-43	26.05	VYITNNIARLYFCINPVFYTFLGRKFQ
-24	596060	596140	GPCR_Rhodpsn_(PR00237)	335.0	+
-#	PR00657	IPR000355	40	58	\N	2.1e-16	29.37	CSSIDINEFGRAFLPMFYY
-24	595304	595360	Chemokine_rcpt_(PR00657)	302.0	+
-#	PR00237	IPR000276	249	273	\N	1.8e-43	29.09	TVRLIFVIVLMFFLFWSPYNIILMI
-24	595931	596005	GPCR_Rhodpsn_(PR00237)	453.0	+
-#	PR00237	IPR000276	212	235	\N	1.8e-43	27.34	FYKQFVLFFLFPLVVFVYCYSRIT
-24	595820	595891	GPCR_Rhodpsn_(PR00237)	279.0	+
-#	PR00237	IPR000276	128	150	\N	1.8e-43	35.65	YYLGFYSSILFLTLMTFDRYLAV
-24	595568	595636	GPCR_Rhodpsn_(PR00237)	375.0	+
-#	PR00237	IPR000276	164	185	\N	1.8e-43	24.36	YAASLSVAVWIISLLESLEYLI
-24	595676	595741	GPCR_Rhodpsn_(PR00237)	216.0	+
-#	PR00237	IPR000276	85	106	\N	1.8e-43	28.17	TNIFLINLVASNIIFTLTLPFQ
-24	595439	595504	GPCR_Rhodpsn_(PR00237)	288.0	+
-#	PR00657	IPR000355	312	326	\N	2.1e-16	29.68	FLGRKFQNHVRGVLM
-24	596120	596164	Chemokine_rcpt_(PR00657)	246.0	+
-#	PR00657	IPR000355	288	302	\N	2.1e-16	25.59	LPYAVYITNNIARLY
-24	596048	596092	Chemokine_rcpt_(PR00657)	167.0	+
-#	PF00001	IPR000276	67	310	\N	4.3e-49	0.0	GNGVVLLVVYKFEKMNTVTNIFLINLVASNIIFTLTLPFQAVYHSSEWIFGEPLCKLVTSAYYLGFYSSILFLTLMTFDRYLAVVHCVVANKNRRSVYAASLSVAVWIISLLESLEYLIRFTVEESQMDGLLCEDSNENQWRTFSFYKQFVLFFLFPLVVFVYCYSRITLTIMRTRMIGKHRTVRLIFVIVLMFFLFWSPYNIILMITEHKDLEHEDCNSVLPYAVYITNNIARLYFCINPVFY
-24	595385	596116	GPCR_Rhodpsn_(PF00001)	153.2	+
-#	PR00657	IPR000355	152	169	\N	2.1e-16	29.57	HCVVANKNRRSVYAASLS
-24	595640	595693	Chemokine_rcpt_(PR00657)	173.0	+
-#	PS50262	IPR017452	67	310	\N	0.0	0.0	GNGVVLLVVYKFEKMNTVTNIFLINLVASNIIFTLTLPFQAVYHSSEWIFGEPLCKLVTSAYYLGFYSSILFLTLMTFDRYLAVVHCVVANKNRRSVYAASLSVAVWIISLLESLEYLIRFTVEESQMDGLLCEDSNENQWRTFSFYKQFVLFFLFPLVVFVYCYSRITLTIMRTRMIGKHRTVRLIFVIVLMFFLFWSPYNIILMITEHKDLEHEDCNSVLPYAVYITNNIARLYFCINPVFY
-24	595385	596116	GPCR_Rhodpsn_7TM_(PS50262)	41.074	+
+24	595340	595414	GPCR_Rhodpsn	293.0	+	595340	595414	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+24	595559	595600	Chemokine_rcpt	389.0	+	595559	595600	83,88,95	1	41	0	PR00657	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00657&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00657
+24	595481	595513	Chemokine_rcpt	302.0	+	595481	595513	83,88,95	1	32	0	PR00657	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00657&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00657
+24	595409	595450	Chemokine_rcpt	226.0	+	595409	595450	83,88,95	1	41	0	PR00657	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00657&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00657
+24	596060	596140	GPCR_Rhodpsn	335.0	+	596060	596140	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+24	595304	595360	Chemokine_rcpt	302.0	+	595304	595360	83,88,95	1	56	0	PR00657	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00657&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00657
+24	595931	596005	GPCR_Rhodpsn	453.0	+	595931	596005	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+24	595820	595891	GPCR_Rhodpsn	279.0	+	595820	595891	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+24	595568	595636	GPCR_Rhodpsn	375.0	+	595568	595636	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+24	595676	595741	GPCR_Rhodpsn	216.0	+	595676	595741	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+24	595439	595504	GPCR_Rhodpsn	288.0	+	595439	595504	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+24	596120	596164	Chemokine_rcpt	246.0	+	596120	596164	83,88,95	1	44	0	PR00657	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00657&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00657
+24	596048	596092	Chemokine_rcpt	167.0	+	596048	596092	83,88,95	1	44	0	PR00657	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00657&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00657
+24	595385	596116	GPCR_Rhodpsn	153.2	+	595385	596116	83,88,95	1	731	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+24	595640	595693	Chemokine_rcpt	173.0	+	595640	595693	83,88,95	1	53	0	PR00657	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00657&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00657
+24	595385	596116	GPCR_Rhodpsn_7TM	41.074	+	595385	596116	83,88,95	1	731	0	PS50262	http://www.expasy.ch/prosite/PS50262

@@ -1,17 +1,7 @@
-browser position chr16:19641611-19648583
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000018432	ENSDART00000017142	ENSDARP00000018076	19641615	19648583	###
-#	PR00715	IPR000296	243	261	\N	9.5e-34	78.95	YRGVGTEPLGEEPEERDDH
-16	19642929	19642985	Man_6_P_rcpt_(PR00715)	820.0	-
-#	PR00715	IPR000296	178	199	\N	9.5e-34	60.61	IVLIVVISSLTVYIIGGFLYQR
-16	19643206	19643386	Man_6_P_rcpt_(PR00715)	719.0	-
-#	PR00715	IPR000296	150	169	\N	9.5e-34	40.0	KQKNCYYLFELDTTAVCPAV
-16	19643411	19643470	Man_6_P_rcpt_(PR00715)	530.0	-
-#	PR00715	IPR000296	106	125	\N	9.5e-34	55.0	VLLIYEGGEKYDSHCSSEER
-16	19646954	19647013	Man_6_P_rcpt_(PR00715)	787.0	-
-#	PR00715	IPR000296	87	105	\N	9.5e-34	31.58	KTIRIGDYSKTVATAGSDW
-16	19647014	19647393	Man_6_P_rcpt_(PR00715)	287.0	-
-#	PR00715	IPR000296	44	63	\N	9.5e-34	28.33	EPLTNQNFTTEGQEKEKYSY
-16	19647463	19647623	Man_6_P_rcpt_(PR00715)	204.0	-
-#	SSF50911	IPR009011	43	167	\N	8.3e-27	0.0	LEPLTNQNFTTEGQEKEKYSYIFQVCGDAGGVKNAGLIQQEKGGKTIRIGDYSKTVATAGSDWVLLIYEGGEKYDSHCSSEERKAMIMISCSSSSKSAFSVVMEENQKQKNCYYLFELDTTAVCP
-16	19643417	19647626	Man6P_isomerase_rcpt-bd_dom_(SSF50911)	0.0	-
+16	19642929	19642985	Man_6_P_rcpt	820.0	-	19642929	19642985	83,88,95	1	56	0	PR00715	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00715&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00715
+16	19643206	19643386	Man_6_P_rcpt	719.0	-	19643206	19643386	83,88,95	2	167,129	0,51	PR00715	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00715&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00715
+16	19643411	19643470	Man_6_P_rcpt	530.0	-	19643411	19643470	83,88,95	1	59	0	PR00715	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00715&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00715
+16	19646954	19647013	Man_6_P_rcpt	787.0	-	19646954	19647013	83,88,95	1	59	0	PR00715	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00715&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00715
+16	19647014	19647393	Man_6_P_rcpt	287.0	-	19647014	19647393	83,88,95	2	331,372	0,7	PR00715	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00715&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00715
+16	19647463	19647623	Man_6_P_rcpt	204.0	-	19647463	19647623	83,88,95	2	141,121	0,39	PR00715	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00715&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00715
+16	19643417	19647626	Man6P_isomerase_rcpt-bd_dom	0.0	-	19643417	19647626	83,88,95	4	4187,-157,-106,4123	0,4085,3604,86	SSF50911	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50911

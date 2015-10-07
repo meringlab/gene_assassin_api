@@ -1,27 +1,12 @@
-browser position chr23:4465518-4484395
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000002483	ENSDART00000081821	ENSDARP00000076260	4465518	4484395	###
-#	SM00097	IPR005817	40	350	\N	1.3999999999999996e-187	0.0	KIPGLAPRQRIICQSRPDAIIVIGEGAQMGINECQFQFKHGRWNCSALGERTVFGKELKVGSKEAAFMYAIIAAGVAHAITSACTRGNLSECSCDKDKQGFYAHDNGWKWGGCSADVRYGLGFSKVFMDAKEIKHSARTLMNLHNNEVGRKVLERNMRLECKCHGVSGSCATRTCWTTLPKFRELGYILKDKYTSAIHVEPVKATRHKRPTFLKIKKPYSYRKPMDTDLVYIEKSPNYCEADLRSGSIGTQGRVCNKTLMHHPNGCDLMCCGRGYNTHQYSRVWQCNCKFFWCCYVKCNTCSERTEVYTCK
-23	4465997	4484392	Wnt_(SM00097)	639.1	+
-#	PR01349	IPR005817	102	116	\N	1e-28	59.23	KEAAFMYAIIAAGVA
-23	4475415	4475459	Wnt_(PR01349)	444.0	+
-#	PR01349	IPR005817	121	134	\N	1e-28	47.89	SACTRGNLSECSCD
-23	4475472	4475513	Wnt_(PR01349)	444.0	+
-#	PR01349	IPR005817	147	159	\N	1e-28	59.71	WKWGGCSADVRYG
-23	4475550	4475588	Wnt_(PR01349)	567.0	+
-#	PR01349	IPR005817	201	215	\N	1e-28	79.95	KCHGVSGSCATRTCW
-23	4483943	4483987	Wnt_(PR01349)	809.0	+
-#	PR01349	IPR005817	267	278	\N	1e-28	67.01	DLVYIEKSPNYC
-23	4484141	4484176	Wnt_(PR01349)	513.0	+
-#	PR01891	IPR013300	17	31	\N	6.3e-22	59.26	GIIYLKMGGFSTVLA
-23	4465566	4465972	Wnt7_(PR01891)	534.0	+
-#	PR01891	IPR013300	134	145	\N	6.3e-22	50.0	DKDKQGFYAHDN
-23	4475511	4475546	Wnt7_(PR01891)	333.0	+
-#	PR01891	IPR013300	190	199	\N	6.3e-22	68.89	KVLERNMRLE
-23	4475679	4483939	Wnt7_(PR01891)	361.0	+
-#	PR01891	IPR013300	258	268	\N	6.3e-22	83.84	YSYRKPMDTDL
-23	4484114	4484146	Wnt7_(PR01891)	491.0	+
-#	PR01891	IPR013300	316	325	\N	6.3e-22	87.78	THQYSRVWQC
-23	4484288	4484317	Wnt7_(PR01891)	591.0	+
-#	PF00110	IPR005817	37	350	\N	2.3999999999999996e-125	0.0	ICNKIPGLAPRQRIICQSRPDAIIVIGEGAQMGINECQFQFKHGRWNCSALGERTVFGKELKVGSKEAAFMYAIIAAGVAHAITSACTRGNLSECSCDKDKQGFYAHDNGWKWGGCSADVRYGLGFSKVFMDAKEIKHSARTLMNLHNNEVGRKVLERNMRLECKCHGVSGSCATRTCWTTLPKFRELGYILKDKYTSAIHVEPVKATRHKRPTFLKIKKPYSYRKPMDTDLVYIEKSPNYCEADLRSGSIGTQGRVCNKTLMHHPNGCDLMCCGRGYNTHQYSRVWQCNCKFFWCCYVKCNTCSERTEVYTCK
-23	4465988	4484392	Wnt_(PF00110)	404.1	+
+23	4465997	4484392	Wnt	639.1	+	4465997	4484392	83,88,95	3	180,271,479	0,9413,17916	SM00097	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00097
+23	4475415	4475459	Wnt	444.0	+	4475415	4475459	83,88,95	1	44	0	PR01349	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01349&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01349
+23	4475472	4475513	Wnt	444.0	+	4475472	4475513	83,88,95	1	41	0	PR01349	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01349&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01349
+23	4475550	4475588	Wnt	567.0	+	4475550	4475588	83,88,95	1	38	0	PR01349	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01349&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01349
+23	4483943	4483987	Wnt	809.0	+	4483943	4483987	83,88,95	1	44	0	PR01349	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01349&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01349
+23	4484141	4484176	Wnt	513.0	+	4484141	4484176	83,88,95	1	35	0	PR01349	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01349&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01349
+23	4465566	4465972	Wnt7	534.0	+	4465566	4465972	83,88,95	2	22,21	0,385	PR01891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01891
+23	4475511	4475546	Wnt7	333.0	+	4475511	4475546	83,88,95	1	35	0	PR01891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01891
+23	4475679	4483939	Wnt7	361.0	+	4475679	4483939	83,88,95	2	2,26	0,8234	PR01891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01891
+23	4484114	4484146	Wnt7	491.0	+	4484114	4484146	83,88,95	1	32	0	PR01891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01891
+23	4484288	4484317	Wnt7	591.0	+	4484288	4484317	83,88,95	1	29	0	PR01891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01891
+23	4465988	4484392	Wnt	404.1	+	4465988	4484392	83,88,95	3	189,271,479	0,9422,17925	PF00110	http://pfam.sanger.ac.uk/family?acc=PF00110

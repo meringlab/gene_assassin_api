@@ -1,15 +1,6 @@
-browser position chr1:29779637-29791053
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000042688	ENSDART00000062628	ENSDARP00000062627	29779715	29791053	###
-#	PR02038	IPR023252	147	157	\N	1.1999999999999999e-41	64.88	NAICQTVLSLP
-1	29782593	29782726	Aurora_borealis_protien_(PR02038)	341.0	+
-#	PR02038	IPR023252	158	171	\N	1.1999999999999999e-41	53.9	VDFNLEKVLGDYYK
-1	29782727	29783845	Aurora_borealis_protien_(PR02038)	375.0	+
-#	PR02038	IPR023252	185	197	\N	1.1999999999999999e-41	72.73	SSSLRRKLFLDGH
-1	29783885	29783923	Aurora_borealis_protien_(PR02038)	421.0	+
-#	PR02038	IPR023252	89	113	\N	1.1999999999999999e-41	66.73	DSEIEEKRQHAIEQFFTKGAIVPSP
-1	29782020	29782191	Aurora_borealis_protien_(PR02038)	814.0	+
-#	PR02038	IPR023252	56	75	\N	1.1999999999999999e-41	57.27	FKWSIDEMANLLPVEIDPED
-1	29781834	29781893	Aurora_borealis_protien_(PR02038)	729.0	+
-#	PR02038	IPR023252	31	45	\N	1.1999999999999999e-41	63.64	RLHESVVPSPSVFKS
-1	29780051	29780095	Aurora_borealis_protien_(PR02038)	498.0	+
+1	29782593	29782726	Aurora_borealis_protien	341.0	+	29782593	29782726	83,88,95	2	3,28	0,105	PR02038	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02038&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02038
+1	29782727	29783845	Aurora_borealis_protien	375.0	+	29782727	29783845	83,88,95	2	27,13	0,1105	PR02038	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02038&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02038
+1	29783885	29783923	Aurora_borealis_protien	421.0	+	29783885	29783923	83,88,95	1	38	0	PR02038	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02038&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02038
+1	29782020	29782191	Aurora_borealis_protien	814.0	+	29782020	29782191	83,88,95	2	41,32	0,139	PR02038	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02038&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02038
+1	29781834	29781893	Aurora_borealis_protien	729.0	+	29781834	29781893	83,88,95	1	59	0	PR02038	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02038&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02038
+1	29780051	29780095	Aurora_borealis_protien	498.0	+	29780051	29780095	83,88,95	1	44	0	PR02038	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02038&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02038

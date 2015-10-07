@@ -1,23 +1,10 @@
-browser position chr15:30630104-30631333
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000041033	ENSDART00000060126	ENSDARP00000060125	30630251	30631333	###
-#	PR00245	IPR000725	94	105	\N	6e-17	39.74	MSFSVCITQAFF
-15	30630604	30630639	Olfact_rcpt_(PR00245)	288.0	+
-#	PR00245	IPR000725	131	143	\N	6e-17	35.69	PMRYTTIMTNIHL
-15	30630715	30630753	Olfact_rcpt_(PR00245)	223.0	+
-#	PR00245	IPR000725	177	193	\N	6e-17	42.44	HPYCDNPSLLQLVCADT
-15	30630853	30630903	Olfact_rcpt_(PR00245)	412.0	+
-#	PR00245	IPR000725	237	246	\N	6e-17	62.63	KALQTCGTHL
-15	30631033	30631062	Olfact_rcpt_(PR00245)	363.0	+
-#	PR00245	IPR000725	285	296	\N	6e-17	57.17	PTVNPVIYGLRT
-15	30631177	30631212	Olfact_rcpt_(PR00245)	394.0	+
-#	PR00237	IPR000276	61	82	\N	1.9e-09	25.7	MHILLLNLPINDLIGSTCLFPH
-15	30630505	30630570	GPCR_Rhodpsn_(PR00237)	173.0	+
-#	PR00237	IPR000276	106	128	\N	1.9e-09	29.85	IHVYAVSTVFILTAMAYDRYVAI
-15	30630640	30630708	GPCR_Rhodpsn_(PR00237)	313.0	+
-#	PR00237	IPR000276	274	300	\N	1.9e-09	22.79	KFIAVAAMILPPTVNPVIYGLRTKEIR
-15	30631144	30631224	GPCR_Rhodpsn_(PR00237)	214.0	+
-#	PS50262	IPR017452	43	292	\N	0.0	0.0	CNSFLLFTIITNKALHEPMHILLLNLPINDLIGSTCLFPHVMRELLFDTRTMSFSVCITQAFFIHVYAVSTVFILTAMAYDRYVAICQPMRYTTIMTNIHLAKIISLVWLSNLTLMAVLFILLLRLPRCRSFLNHPYCDNPSLLQLVCADTTINNIYGLLMTAVCQAFTVGLIIYSYLHILIACFRNKRSDTRSKALQTCGTHLVVFVLFECLGLFTIISYRIKDISIHLRKFIAVAAMILPPTVNPVIY
-15	30630451	30631200	GPCR_Rhodpsn_7TM_(PS50262)	27.975	+
-#	PF00001	IPR000276	44	292	\N	3.7999999999999995e-32	0.0	NSFLLFTIITNKALHEPMHILLLNLPINDLIGSTCLFPHVMRELLFDTRTMSFSVCITQAFFIHVYAVSTVFILTAMAYDRYVAICQPMRYTTIMTNIHLAKIISLVWLSNLTLMAVLFILLLRLPRCRSFLNHPYCDNPSLLQLVCADTTINNIYGLLMTAVCQAFTVGLIIYSYLHILIACFRNKRSDTRSKALQTCGTHLVVFVLFECLGLFTIISYRIKDISIHLRKFIAVAAMILPPTVNPVIY
-15	30630454	30631200	GPCR_Rhodpsn_(PF00001)	97.7	+
+15	30630604	30630639	Olfact_rcpt	288.0	+	30630604	30630639	83,88,95	1	35	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	30630715	30630753	Olfact_rcpt	223.0	+	30630715	30630753	83,88,95	1	38	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	30630853	30630903	Olfact_rcpt	412.0	+	30630853	30630903	83,88,95	1	50	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	30631033	30631062	Olfact_rcpt	363.0	+	30631033	30631062	83,88,95	1	29	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	30631177	30631212	Olfact_rcpt	394.0	+	30631177	30631212	83,88,95	1	35	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	30630505	30630570	GPCR_Rhodpsn	173.0	+	30630505	30630570	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	30630640	30630708	GPCR_Rhodpsn	313.0	+	30630640	30630708	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	30631144	30631224	GPCR_Rhodpsn	214.0	+	30631144	30631224	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	30630451	30631200	GPCR_Rhodpsn_7TM	27.975	+	30630451	30631200	83,88,95	1	749	0	PS50262	http://www.expasy.ch/prosite/PS50262
+15	30630454	30631200	GPCR_Rhodpsn	97.7	+	30630454	30631200	83,88,95	1	746	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001

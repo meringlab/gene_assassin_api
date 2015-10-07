@@ -1,17 +1,7 @@
-browser position chr7:69787738-69798598
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000053954	ENSDART00000076073	ENSDARP00000070552	69787738	69798598	###
-#	PF00173	IPR001199	29	102	\N	3.5999999999999996e-31	0.0	YYTRKEVQVHNMGKDTWLIIHDKVYDITSFMEEHPGGEEVLLEQAGADATESFEDVGHSTDAREMLQQYYIGEL
-7	69787989	69793463	Cyt_B5-like_heme/steroid-bd_(PF00173)	93.4	+
-#	PR00363	IPR001199	90	102	\N	4.7e-17	51.28	AREMLQQYYIGEL
-7	69793425	69793463	Cyt_B5-like_heme/steroid-bd_(PR00363)	364.0	+
-#	PR00363	IPR001199	62	76	\N	4.7e-17	59.49	HPGGEEVLLEQAGAD
-7	69793341	69793385	Cyt_B5-like_heme/steroid-bd_(PR00363)	494.0	+
-#	PR00363	IPR001199	52	62	\N	4.7e-17	55.79	VYDITSFMEEH
-7	69788058	69793343	Cyt_B5-like_heme/steroid-bd_(PR00363)	397.0	+
-#	PR00363	IPR001199	77	84	\N	4.7e-17	52.46	ATESFEDV
-7	69793386	69793409	Cyt_B5-like_heme/steroid-bd_(PR00363)	229.0	+
-#	PS50255	IPR001199	27	103	\N	0.0	0.0	VKYYTRKEVQVHNMGKDTWLIIHDKVYDITSFMEEHPGGEEVLLEQAGADATESFEDVGHSTDAREMLQQYYIGELH
-7	69787983	69793466	Cyt_B5-like_heme/steroid-bd_(PS50255)	29.684	+
-#	SSF55856	IPR001199	26	102	\N	9.5e-32	0.0	GVKYYTRKEVQVHNMGKDTWLIIHDKVYDITSFMEEHPGGEEVLLEQAGADATESFEDVGHSTDAREMLQQYYIGEL
-7	69787980	69793463	Cyt_B5-like_heme/steroid-bd_(SSF55856)	0.0	+
+7	69787989	69793463	Cyt_B5-like_heme/steroid-bd	93.4	+	69787989	69793463	83,88,95	2	98,122	0,5352	PF00173	http://pfam.sanger.ac.uk/family?acc=PF00173
+7	69793425	69793463	Cyt_B5-like_heme/steroid-bd	364.0	+	69793425	69793463	83,88,95	1	38	0	PR00363	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00363&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00363
+7	69793341	69793385	Cyt_B5-like_heme/steroid-bd	494.0	+	69793341	69793385	83,88,95	1	44	0	PR00363	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00363&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00363
+7	69788058	69793343	Cyt_B5-like_heme/steroid-bd	397.0	+	69788058	69793343	83,88,95	2	29,2	0,5283	PR00363	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00363&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00363
+7	69793386	69793409	Cyt_B5-like_heme/steroid-bd	229.0	+	69793386	69793409	83,88,95	1	23	0	PR00363	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00363&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00363
+7	69787983	69793466	Cyt_B5-like_heme/steroid-bd	29.684	+	69787983	69793466	83,88,95	2	104,125	0,5358	PS50255	http://www.expasy.ch/prosite/PS50255
+7	69787980	69793463	Cyt_B5-like_heme/steroid-bd	0.0	+	69787980	69793463	83,88,95	2	107,122	0,5361	SSF55856	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55856

@@ -1,25 +1,11 @@
-browser position chr5:22705428-22711526
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000035579	ENSDART00000131838	ENSDARP00000121521	22705428	22711526	###
-#	PR00080	IPR002198	93	104	\N	5.2000000000000004e-05	54.44	KRLDILINNAGM
-5	22709370	22710283	DH_sc/Rdtase_SDR_(PR00080)	347.0	+
-#	PR00080	IPR002198	173	192	\N	5.2000000000000004e-05	32.04	YCRSKLANIYFTQELARMME
-5	22710488	22710547	DH_sc/Rdtase_SDR_(PR00080)	216.0	+
-#	PR01167	IPR002424	195	208	\N	6.2e-09	50.18	GVTAYAVHPGYVRS
-5	22710554	22711113	ADH_insect_(PR01167)	393.0	+
-#	PR01167	IPR002424	172	190	\N	6.2e-09	38.71	TYCRSKLANIYFTQELARM
-5	22710485	22710541	ADH_insect_(PR01167)	329.0	+
-#	PR00081	IPR002347	194	211	\N	1.7e-14	27.58	KGVTAYAVHPGYVRSRWT
-5	22710551	22711122	Glc/ribitol_DH_(PR00081)	205.0	+
-#	PR00081	IPR002347	93	104	\N	1.7e-14	52.71	KRLDILINNAGM
-5	22709370	22710283	Glc/ribitol_DH_(PR00081)	332.0	+
-#	PR00081	IPR002347	17	34	\N	1.7e-14	44.28	TVLITGGNSGIGKETAVA
-5	22705476	22709195	Glc/ribitol_DH_(PR00081)	380.0	+
-#	PR00081	IPR002347	173	192	\N	1.7e-14	28.15	YCRSKLANIYFTQELARMME
-5	22710488	22710547	Glc/ribitol_DH_(PR00081)	149.0	+
-#	PF08659	IPR013968	17	105	\N	5.3e-13	0.0	TVLITGGNSGIGKETAVALAMRGARVIIACRDEEKARKAVREIKARSHNMNVLHMEVDLANMRSIREFSKTFLQKEKRLDILINNAGMP
-5	22705476	22710286	PKS_KR_(PF08659)	36.4	+
-#	PF00106	IPR002198	16	152	\N	7.8e-25	0.0	KTVLITGGNSGIGKETAVALAMRGARVIIACRDEEKARKAVREIKARSHNMNVLHMEVDLANMRSIREFSKTFLQKEKRLDILINNAGMPGVLDWTDDNFSMCFGVNHLGHFLLTNLLLPRLKESSPSRVINLTCSS
-5	22705473	22710427	DH_sc/Rdtase_SDR_(PF00106)	75.1	+
-#	PR01167	IPR002424	16	27	\N	6.2e-09	36.39	KTVLITGGNSGI
-5	22705473	22709174	ADH_insect_(PR01167)	210.0	+
+5	22709370	22710283	DH_sc/Rdtase_SDR	347.0	+	22709370	22710283	83,88,95	2	30,4	0,909	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+5	22710488	22710547	DH_sc/Rdtase_SDR	216.0	+	22710488	22710547	83,88,95	1	59	0	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+5	22710554	22711113	ADH_insect	393.0	+	22710554	22711113	83,88,95	2	27,13	0,546	PR01167	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01167&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01167
+5	22710485	22710541	ADH_insect	329.0	+	22710485	22710541	83,88,95	1	56	0	PR01167	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01167&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01167
+5	22710551	22711122	Glc/ribitol_DH	205.0	+	22710551	22711122	83,88,95	2	30,22	0,549	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+5	22709370	22710283	Glc/ribitol_DH	332.0	+	22709370	22710283	83,88,95	2	30,4	0,909	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+5	22705476	22709195	Glc/ribitol_DH	380.0	+	22705476	22709195	83,88,95	2	15,37	0,3682	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+5	22710488	22710547	Glc/ribitol_DH	149.0	+	22710488	22710547	83,88,95	1	59	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+5	22705476	22710286	PKS_KR	36.4	+	22705476	22710286	83,88,95	3	15,242,7	0,3682,4803	PF08659	http://pfam.sanger.ac.uk/family?acc=PF08659
+5	22705473	22710427	DH_sc/Rdtase_SDR	75.1	+	22705473	22710427	83,88,95	3	18,242,148	0,3685,4806	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106
+5	22705473	22709174	ADH_insect	210.0	+	22705473	22709174	83,88,95	2	18,16	0,3685	PR01167	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01167&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01167

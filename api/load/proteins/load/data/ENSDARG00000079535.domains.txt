@@ -1,55 +1,26 @@
-browser position chrZv9_scaffold3499:7631-12282
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000079535	ENSDART00000003955	ENSDARP00000010626	7631	12282	###
-#	PR00248	IPR000337	659	680	\N	7.899999999999998e-100	45.45	GITFVLCISCVLGKTIVVLMAF
-Zv9_scaffold3499	11710	11775	GPCR_3_(PR00248)	462.0	+
-#	PF01094	IPR001828	81	469	\N	5.199999999999999e-83	0.0	AQSMLFAIEEINNSSTLLPGVSLGYKIYDTCGSVAVGVRAAMALANGHEKISVEGPCTKHAEVQAILGDTTSSACMAITKSIGPFKLPLISHYATCECLSDKVKYPSFLRTIASDHYQSRALAELVRHFGWTWVGALRTDDDYGNSGMATFTKVAEQMGICLEYSLPFFRTYTEDKVMRIIEQIKSSTSRVIVGFLAHWDLEVLLHKFVEYNITGYQWVGTEAWISDSVIASMDTHHILQGAVGLAIPKTKVTGLQEFILNITPLKSSGGAIFSEFWEALFQCKYSNKDTSVSINACTGKEELSQVENLFTDMSLMPIFSNVYKGVYAVAHALHELLGCKDKCALKKQPDPVTFLKHIRKVHFKTKDGEEVYFDENGDPVAKYDIINWQ
-Zv9_scaffold3499	7960	9713	ANF_lig-bd_rcpt_(PF01094)	266.6	+
-#	PF00003	IPR017978	597	834	\N	8.799999999999999e-94	0.0	GAFLTMLIAVIFFKYKNTPIVKANNSELSFLLLFSLMLCFLCSLTFIGRPTEWSCMLRHTAFGITFVLCISCVLGKTIVVLMAFKATLPGSNVMKWFGPPQQRLSVLAFTLIQVLICVLWLTISPPFPFKNVKYFKEKIILECNVGSVLGFWAVLGYVGLLAILCFFLAFLARKLPDNFNEAKFITFSMLIFCAVWVAFIPAYVSSPGKFTVAVEIFAILASTYGLLFCIFIPKCYVI
-Zv9_scaffold3499	11524	12237	GPCR_3_C_(PF00003)	301.2	+
-#	PR00248	IPR000337	198	214	\N	7.899999999999998e-100	48.35	QSRALAELVRHFGWTWV
-Zv9_scaffold3499	8529	8579	GPCR_3_(PR00248)	544.0	+
-#	PR00248	IPR000337	698	721	\N	7.899999999999998e-100	34.77	QRLSVLAFTLIQVLICVLWLTISP
-Zv9_scaffold3499	11827	11898	GPCR_3_(PR00248)	414.0	+
-#	PR01535	IPR004073	740	751	\N	8.900000000000001e-30	57.14	NVGSVLGFWAVL
-Zv9_scaffold3499	11953	11988	GPCR_3_vmron_rcpt_2_(PR01535)	346.0	+
-#	PR01535	IPR004073	542	554	\N	8.900000000000001e-30	42.86	TEGEISNTITDSV
-Zv9_scaffold3499	10073	11397	GPCR_3_vmron_rcpt_2_(PR01535)	202.0	+
-#	PR01535	IPR004073	633	642	\N	8.900000000000001e-30	78.57	MLCFLCSLTF
-Zv9_scaffold3499	11632	11661	GPCR_3_vmron_rcpt_2_(PR01535)	444.0	+
-#	PR01535	IPR004073	723	738	\N	8.900000000000001e-30	35.71	FPFKNVKYFKEKIILE
-Zv9_scaffold3499	11902	11949	GPCR_3_vmron_rcpt_2_(PR01535)	193.0	+
-#	PR00248	IPR000337	614	636	\N	7.899999999999998e-100	60.33	TPIVKANNSELSFLLLFSLMLCF
-Zv9_scaffold3499	11575	11643	GPCR_3_(PR00248)	735.0	+
-#	PR00248	IPR000337	214	231	\N	7.899999999999998e-100	45.31	VGALRTDDDYGNSGMATF
-Zv9_scaffold3499	8577	8630	GPCR_3_(PR00248)	450.0	+
-#	PS50259	IPR017978	586	849	\N	0.0	0.0	MGLLLTTISVAGAFLTMLIAVIFFKYKNTPIVKANNSELSFLLLFSLMLCFLCSLTFIGRPTEWSCMLRHTAFGITFVLCISCVLGKTIVVLMAFKATLPGSNVMKWFGPPQQRLSVLAFTLIQVLICVLWLTISPPFPFKNVKYFKEKIILECNVGSVLGFWAVLGYVGLLAILCFFLAFLARKLPDNFNEAKFITFSMLIFCAVWVAFIPAYVSSPGKFTVAVEIFAILASTYGLLFCIFIPKCYVILLKPDKNSKKHLIG
-Zv9_scaffold3499	11491	12282	GPCR_3_C_(PS50259)	65.836	+
-#	PR01535	IPR004073	520	533	\N	8.900000000000001e-30	46.43	PHGTRKAVKKGKPI
-Zv9_scaffold3499	10007	10048	GPCR_3_vmron_rcpt_2_(PR01535)	283.0	+
-#	PR01535	IPR004073	463	480	\N	8.900000000000001e-30	32.54	YDIINWQQSTKQHYEFVT
-Zv9_scaffold3499	9693	9746	GPCR_3_vmron_rcpt_2_(PR01535)	257.0	+
-#	PR01535	IPR004073	327	338	\N	8.900000000000001e-30	31.55	IPKTKVTGLQEF
-Zv9_scaffold3499	8916	8951	GPCR_3_vmron_rcpt_2_(PR01535)	193.0	+
-#	PR01535	IPR004073	233	250	\N	8.900000000000001e-30	29.76	KVAEQMGICLEYSLPFFR
-Zv9_scaffold3499	8634	8687	GPCR_3_vmron_rcpt_2_(PR01535)	214.0	+
-#	PR01535	IPR004073	256	268	\N	8.900000000000001e-30	34.62	KVMRIIEQIKSST
-Zv9_scaffold3499	8703	8741	GPCR_3_vmron_rcpt_2_(PR01535)	172.0	+
-#	PR00248	IPR000337	776	797	\N	7.899999999999998e-100	67.76	NEAKFITFSMLIFCAVWVAFIP
-Zv9_scaffold3499	12061	12126	GPCR_3_(PR00248)	827.0	+
-#	PF07562	IPR011500	511	565	\N	2.3e-22	0.0	PVSVCSESCPHGTRKAVKKGKPICCYDCISCTEGEISNTITDSVTCLRCHQDFWS
-Zv9_scaffold3499	9980	11430	GPCR_3_9-Cys_dom_(PF07562)	66.6	+
-#	PR00248	IPR000337	753	776	\N	7.899999999999998e-100	55.99	YVGLLAILCFFLAFLARKLPDNFN
-Zv9_scaffold3499	11992	12063	GPCR_3_(PR00248)	686.0	+
-#	PR00248	IPR000337	179	198	\N	7.899999999999998e-100	53.75	LSDKVKYPSFLRTIASDHYQ
-Zv9_scaffold3499	8472	8531	GPCR_3_(PR00248)	549.0	+
-#	PR00248	IPR000337	146	172	\N	7.899999999999998e-100	29.05	ILGDTTSSACMAITKSIGPFKLPLISH
-Zv9_scaffold3499	8155	8453	GPCR_3_(PR00248)	426.0	+
-#	PR00248	IPR000337	92	111	\N	7.899999999999998e-100	55.78	NNSSTLLPGVSLGYKIYDTC
-Zv9_scaffold3499	7993	8052	GPCR_3_(PR00248)	625.0	+
-#	PR00248	IPR000337	77	92	\N	7.899999999999998e-100	45.9	DFQYAQSMLFAIEEIN
-Zv9_scaffold3499	7948	7995	GPCR_3_(PR00248)	400.0	+
-#	PR00248	IPR000337	39	51	\N	7.899999999999998e-100	56.25	DGDIIVGGVFSFH
-Zv9_scaffold3499	7745	7783	GPCR_3_(PR00248)	455.0	+
-#	SSF53822	IPR028082	33	503	\N	1.2999999999999998e-119	0.0	LPELWKDGDIIVGGVFSFHSSWEVRQLTYTFVPPPLKCISLNFRDFQYAQSMLFAIEEINNSSTLLPGVSLGYKIYDTCGSVAVGVRAAMALANGHEKISVEGPCTKHAEVQAILGDTTSSACMAITKSIGPFKLPLISHYATCECLSDKVKYPSFLRTIASDHYQSRALAELVRHFGWTWVGALRTDDDYGNSGMATFTKVAEQMGICLEYSLPFFRTYTEDKVMRIIEQIKSSTSRVIVGFLAHWDLEVLLHKFVEYNITGYQWVGTEAWISDSVIASMDTHHILQGAVGLAIPKTKVTGLQEFILNITPLKSSGGAIFSEFWEALFQCKYSNKDTSVSINACTGKEELSQVENLFTDMSLMPIFSNVYKGVYAVAHALHELLGCKDKCALKKQPDPVTFLKHIRKVHFKTKDGEEVYFDENGDPVAKYDIINWQQSTKQHYEFVTVGFYDASFMGMDRLAVNMSSIFW
-Zv9_scaffold3499	7727	9815	Peripla_BP_I_(SSF53822)	0.0	+
+Zv9_scaffold3499	11710	11775	GPCR_3	462.0	+	11710	11775	83,88,95	1	65	0	PR00248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00248
+Zv9_scaffold3499	7960	9713	ANF_lig-bd_rcpt	266.6	+	7960	9713	83,88,95	3	266,791,107	0,485,1646	PF01094	http://pfam.sanger.ac.uk/family?acc=PF01094
+Zv9_scaffold3499	11524	12237	GPCR_3_C	301.2	+	11524	12237	83,88,95	1	713	0	PF00003	http://pfam.sanger.ac.uk/family?acc=PF00003
+Zv9_scaffold3499	8529	8579	GPCR_3	544.0	+	8529	8579	83,88,95	1	50	0	PR00248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00248
+Zv9_scaffold3499	11827	11898	GPCR_3	414.0	+	11827	11898	83,88,95	1	71	0	PR00248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00248
+Zv9_scaffold3499	11953	11988	GPCR_3_vmron_rcpt_2	346.0	+	11953	11988	83,88,95	1	35	0	PR01535	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01535&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01535
+Zv9_scaffold3499	10073	11397	GPCR_3_vmron_rcpt_2	202.0	+	10073	11397	83,88,95	2	24,13	0,1311	PR01535	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01535&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01535
+Zv9_scaffold3499	11632	11661	GPCR_3_vmron_rcpt_2	444.0	+	11632	11661	83,88,95	1	29	0	PR01535	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01535&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01535
+Zv9_scaffold3499	11902	11949	GPCR_3_vmron_rcpt_2	193.0	+	11902	11949	83,88,95	1	47	0	PR01535	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01535&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01535
+Zv9_scaffold3499	11575	11643	GPCR_3	735.0	+	11575	11643	83,88,95	1	68	0	PR00248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00248
+Zv9_scaffold3499	8577	8630	GPCR_3	450.0	+	8577	8630	83,88,95	1	53	0	PR00248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00248
+Zv9_scaffold3499	11491	12282	GPCR_3_C	65.836	+	11491	12282	83,88,95	1	791	0	PS50259	http://www.expasy.ch/prosite/PS50259
+Zv9_scaffold3499	10007	10048	GPCR_3_vmron_rcpt_2	283.0	+	10007	10048	83,88,95	1	41	0	PR01535	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01535&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01535
+Zv9_scaffold3499	9693	9746	GPCR_3_vmron_rcpt_2	257.0	+	9693	9746	83,88,95	1	53	0	PR01535	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01535&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01535
+Zv9_scaffold3499	8916	8951	GPCR_3_vmron_rcpt_2	193.0	+	8916	8951	83,88,95	1	35	0	PR01535	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01535&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01535
+Zv9_scaffold3499	8634	8687	GPCR_3_vmron_rcpt_2	214.0	+	8634	8687	83,88,95	1	53	0	PR01535	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01535&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01535
+Zv9_scaffold3499	8703	8741	GPCR_3_vmron_rcpt_2	172.0	+	8703	8741	83,88,95	1	38	0	PR01535	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01535&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01535
+Zv9_scaffold3499	12061	12126	GPCR_3	827.0	+	12061	12126	83,88,95	1	65	0	PR00248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00248
+Zv9_scaffold3499	9980	11430	GPCR_3_9-Cys_dom	66.6	+	9980	11430	83,88,95	2	117,46	0,1404	PF07562	http://pfam.sanger.ac.uk/family?acc=PF07562
+Zv9_scaffold3499	11992	12063	GPCR_3	686.0	+	11992	12063	83,88,95	1	71	0	PR00248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00248
+Zv9_scaffold3499	8472	8531	GPCR_3	549.0	+	8472	8531	83,88,95	1	59	0	PR00248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00248
+Zv9_scaffold3499	8155	8453	GPCR_3	426.0	+	8155	8453	83,88,95	2	71,8	0,290	PR00248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00248
+Zv9_scaffold3499	7993	8052	GPCR_3	625.0	+	7993	8052	83,88,95	1	59	0	PR00248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00248
+Zv9_scaffold3499	7948	7995	GPCR_3	400.0	+	7948	7995	83,88,95	1	47	0	PR00248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00248
+Zv9_scaffold3499	7745	7783	GPCR_3	455.0	+	7745	7783	83,88,95	1	38	0	PR00248	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00248&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00248
+Zv9_scaffold3499	7727	9815	Peripla_BP_I	0.0	+	7727	9815	83,88,95	4	118,291,791,209	0,208,718,1879	SSF53822	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF53822

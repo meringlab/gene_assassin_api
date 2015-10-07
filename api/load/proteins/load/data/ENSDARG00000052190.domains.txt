@@ -1,15 +1,6 @@
-browser position chr6:84314-87838
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000052190	ENSDART00000097469	ENSDARP00000088240	84314	87838	###
-#	PR00355	IPR001055	117	127	\N	7.9e-10	71.49	CEASLACSTCH
-6	87015	87047	Adrenodoxin_(PR00355)	507.0	+
-#	PR00355	IPR001055	136	150	\N	7.9e-10	46.97	DRLPEPEEREDDMLD
-6	87072	87190	Adrenodoxin_(PR00355)	355.0	+
-#	PR00355	IPR001055	159	167	\N	7.9e-10	66.67	SRLGCQILT
-6	87215	87243	Adrenodoxin_(PR00355)	311.0	+
-#	PF00111	IPR001041	88	165	\N	1.5e-15	0.0	SGRRIPVQARVGDNVLYLAHKHGIDLEGACEASLACSTCHVYVSSGHYDRLPEPEEREDDMLDMAPLLQENSRLGCQI
-6	86293	87235	2Fe-2S_ferredoxin-type_(PF00111)	43.3	+
-#	PS51085	IPR001041	81	181	\N	0.0	0.0	NVVYIDRSGRRIPVQARVGDNVLYLAHKHGIDLEGACEASLACSTCHVYVSSGHYDRLPEPEEREDDMLDMAPLLQENSRLGCQILTPELDGMELTLPKVT
-6	86272	87285	2Fe-2S_ferredoxin-type_(PS51085)	10.168	+
-#	SSF54292	IPR001041	80	182	\N	1.2999999999999999e-27	0.0	VNVVYIDRSGRRIPVQARVGDNVLYLAHKHGIDLEGACEASLACSTCHVYVSSGHYDRLPEPEEREDDMLDMAPLLQENSRLGCQILTPELDGMELTLPKVTR
-6	86269	87288	2Fe-2S_ferredoxin-type_(SSF54292)	0.0	+
+6	87015	87047	Adrenodoxin	507.0	+	87015	87047	83,88,95	1	32	0	PR00355	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00355&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00355
+6	87072	87190	Adrenodoxin	355.0	+	87072	87190	83,88,95	2	25,18	0,100	PR00355	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00355&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00355
+6	87215	87243	Adrenodoxin	311.0	+	87215	87243	83,88,95	2	20,5	0,23	PR00355	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00355&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00355
+6	86293	87235	2Fe-2S_ferredoxin-type	43.3	+	86293	87235	83,88,95	3	81,87,63	0,717,879	PF00111	http://pfam.sanger.ac.uk/family?acc=PF00111
+6	86272	87285	2Fe-2S_ferredoxin-type	10.168	+	86272	87285	83,88,95	4	102,87,63,47	0,738,900,966	PS51085	http://www.expasy.ch/prosite/PS51085
+6	86269	87288	2Fe-2S_ferredoxin-type	0.0	+	86269	87288	83,88,95	4	105,87,63,50	0,741,903,969	SSF54292	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54292

@@ -1,17 +1,7 @@
-browser position chr3:10211463-10212240
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000076211	ENSDART00000112964	ENSDARP00000098714	10211463	10212240	###
-#	PR00970	IPR000768	3	24	\N	2.5999999999999998e-27	36.67	DKALNSVDAQYKDCKVKMANLV
-3	10211469	10211534	ART_(PR00970)	325.0	+
-#	PR00970	IPR000768	58	72	\N	2.5999999999999998e-27	35.11	LTKNHLIALYVYTDS
-3	10211634	10211678	ART_(PR00970)	207.0	+
-#	PR00970	IPR000768	94	110	\N	2.5999999999999998e-27	48.24	FKWYSLHFLLTEAVQIL
-3	10211742	10211792	ART_(PR00970)	443.0	+
-#	PR00970	IPR000768	136	151	\N	2.5999999999999998e-27	53.75	IRFGSFASSSLDPNVA
-3	10211868	10211915	ART_(PR00970)	400.0	+
-#	PR00970	IPR000768	158	174	\N	2.5999999999999998e-27	38.82	SCFEILTCHGAHVGPFS
-3	10211934	10211984	ART_(PR00970)	311.0	+
-#	PR00970	IPR000768	179	194	\N	2.5999999999999998e-27	56.67	EKEVLIPPYEKFRVTA
-3	10211997	10212044	ART_(PR00970)	439.0	+
-#	PF01129	IPR000768	2	203	\N	2.1000000000000002e-52	0.0	LDKALNSVDAQYKDCKVKMANLVKTKYLKKELNSMPVYKKVWKAGEKKYVKKPVGPLTKNHLIALYVYTDSNLYKDFNSATRNGRKQYTQKTFKWYSLHFLLTEAVQILRKTQGCMKTYRGTSVEFTKNVLNKEIRFGSFASSSLDPNVAQSFGSVSCFEILTCHGAHVGPFSQFFYEKEVLIPPYEKFRVTAVRTKQYHFN
-3	10211466	10212071	ART_(PF01129)	163.7	+
+3	10211469	10211534	ART	325.0	+	10211469	10211534	83,88,95	1	65	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	10211634	10211678	ART	207.0	+	10211634	10211678	83,88,95	1	44	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	10211742	10211792	ART	443.0	+	10211742	10211792	83,88,95	1	50	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	10211868	10211915	ART	400.0	+	10211868	10211915	83,88,95	1	47	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	10211934	10211984	ART	311.0	+	10211934	10211984	83,88,95	1	50	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	10211997	10212044	ART	439.0	+	10211997	10212044	83,88,95	1	47	0	PR00970	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00970&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00970
+3	10211466	10212071	ART	163.7	+	10211466	10212071	83,88,95	1	605	0	PF01129	http://pfam.sanger.ac.uk/family?acc=PF01129

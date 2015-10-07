@@ -1,13 +1,5 @@
-browser position chr20:9306821-9326315
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000043684	ENSDART00000064144	ENSDARP00000064143	9306821	9326315	###
-#	PF00459	IPR000760	12	301	\N	1.5e-59	0.0	VASAHAVAEKAGTIVRRVLKSGELGIVEKTGANDLQTLADRLVQKSICASLSKSFPKLTIIGEEDLPAETVEDDLIENGQNSLILEKSCPDQYASLKEEELVVWVDPLDGTKEYTEGLLDHVTVLIGIAHAGTAIAGVINQPFYNYQAGAGATLGRTLWGVLGLGAFGFQLKEVPDGKRIITTTRSHSNKLVIDTVQAMEPHDVIRVGGAGNKIIQLVEGTASAYVFASLGCKKWDTCAPEAILHAVGGKLTDMHGNTYKYDANVKHMNSAGVLATLRNHEYYLSKVPQA
-20	9308349	9326084	Inositol_monophosphatase_(PF00459)	187.8	+
-#	PR00377	IPR000760	45	65	\N	3.3e-06	28.25	DLQTLADRLVQKSICASLSKS
-20	9308958	9309020	Inositol_monophosphatase_(PR00377)	215.0	+
-#	PR00377	IPR000760	67	83	\N	3.3e-06	28.52	PKLTIIGEEDLPAETVE
-20	9309024	9311047	Inositol_monophosphatase_(PR00377)	132.0	+
-#	PR00377	IPR000760	210	231	\N	3.3e-06	20.38	MEPHDVIRVGGAGNKIIQLVEG
-20	9318498	9325756	Inositol_monophosphatase_(PR00377)	104.0	+
-#	PR00377	IPR000760	243	267	\N	3.3e-06	30.03	CKKWDTCAPEAILHAVGGKLTDMHG
-20	9325790	9325982	Inositol_monophosphatase_(PR00377)	350.0	+
+20	9308349	9326084	Inositol_monophosphatase	187.8	+	9308349	9326084	83,88,95	8	86,104,107,48,91,197,105,124	0,597,2675,2894,9815,9996,17387,17611	PF00459	http://pfam.sanger.ac.uk/family?acc=PF00459
+20	9308958	9309020	Inositol_monophosphatase	215.0	+	9308958	9309020	83,88,95	1	62	0	PR00377	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00377&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00377
+20	9309024	9311047	Inositol_monophosphatase	132.0	+	9309024	9311047	83,88,95	2	26,23	0,2000	PR00377	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00377&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00377
+20	9318498	9325756	Inositol_monophosphatase	104.0	+	9318498	9325756	83,88,95	2	44,20	0,7238	PR00377	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00377&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00377
+20	9325790	9325982	Inositol_monophosphatase	350.0	+	9325790	9325982	83,88,95	2	51,22	0,170	PR00377	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00377&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00377

@@ -1,13 +1,5 @@
-browser position chr14:14053762-14062342
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000062598	ENSDART00000090711	ENSDARP00000085144	14053762	14062342	###
-#	PR00488	IPR001446	2	23	\N	1.2e-15	34.09	LDQIVLLAAVTVLGLLEQAYFS
-14	14061613	14062290	5_LipOase_AP_(PR00488)	460.0	-
-#	PR00488	IPR001446	44	63	\N	1.2e-15	40.0	PEFERIFRAQANCSEYFPIF
-14	14061168	14061552	5_LipOase_AP_(PR00488)	480.0	-
-#	PR00488	IPR001446	64	83	\N	1.2e-15	45.0	VFSLWLAGVFFSQVLAVIFG
-14	14054785	14061167	5_LipOase_AP_(PR00488)	380.0	-
-#	PR00488	IPR001446	84	102	\N	1.2e-15	42.11	LLYLYGRFRYFHGYAESSK
-14	14054728	14054784	5_LipOase_AP_(PR00488)	390.0	-
-#	PF01124	IPR001129	10	112	\N	4.5000000000000004e-21	0.0	AVTVLGLLEQAYFSLQVIYARRKYAVSPPATSGPPEFERIFRAQANCSEYFPIFVFSLWLAGVFFSQVLAVIFGLLYLYGRFRYFHGYAESSKGRLEPLYFSA
-14	14054627	14062266	Membr-assoc_MAPEG_(PF01124)	61.2	-
+14	14061613	14062290	5_LipOase_AP	460.0	-	14061613	14062290	83,88,95	2	623,667	0,10	PR00488	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00488&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00488
+14	14061168	14061552	5_LipOase_AP	480.0	-	14061168	14061552	83,88,95	2	356,354	0,30	PR00488	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00488&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00488
+14	14054785	14061167	5_LipOase_AP	380.0	-	14054785	14061167	83,88,95	2	6343,6363	0,19	PR00488	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00488&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00488
+14	14054728	14054784	5_LipOase_AP	390.0	-	14054728	14054784	83,88,95	1	56	0	PR00488	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00488&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00488
+14	14054627	14062266	Membr-assoc_MAPEG	61.2	-	14054627	14062266	83,88,95	5	7609,-99,-70,-81,7615	0,6996,6571,177,24	PF01124	http://pfam.sanger.ac.uk/family?acc=PF01124

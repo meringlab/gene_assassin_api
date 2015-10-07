@@ -1,21 +1,9 @@
-browser position chr3:31039245-31060606
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000003486	ENSDART00000025046	ENSDARP00000002360	31039245	31060606	###
-#	PF00149	IPR004843	59	251	\N	4.5e-49	0.0	LKICGDVHGQYYDLLRLFEYGGFPPESNYLFLGDYVDRGKQSLETICLLLAYKVKYPENFFLLRGNHECASINRIYGFYDECKRRYNIKLWKTFTDCFNCLPVAAIVDEKIFCCHGGLSPDLQSMEQVRRVMRPTDVPDQGLLCDLLWADPDKDVLGWGENDRGVSFTFGADVVAKFLHKHDMDLICRAHQVV
-3	31045185	31049194	PEstase_dom_(PF00149)	152.9	-
-#	SM00156	IPR006186	30	300	\N	7.499999999999998e-160	0.0	LTESEIRGLCLKSREIFLSQPILLELEAPLKICGDVHGQYYDLLRLFEYGGFPPESNYLFLGDYVDRGKQSLETICLLLAYKVKYPENFFLLRGNHECASINRIYGFYDECKRRYNIKLWKTFTDCFNCLPVAAIVDEKIFCCHGGLSPDLQSMEQVRRVMRPTDVPDQGLLCDLLWADPDKDVLGWGENDRGVSFTFGADVVAKFLHKHDMDLICRAHQVVEDGYEFFAKRQLVTLFSAPNYCGEFDNAGAMMSVDETLMCSFQILKPAD
-3	31042433	31049281	Ser/Thr-sp_prot-phosphatase_(SM00156)	547.0	-
-#	PR00114	IPR006186	58	85	\N	1.4999999999999997e-95	63.35	PLKICGDVHGQYYDLLRLFEYGGFPPES
-3	31048594	31049197	Ser/Thr-sp_prot-phosphatase_(PR00114)	1073.0	-
-#	PR00114	IPR006186	87	114	\N	1.4999999999999997e-95	73.12	YLFLGDYVDRGKQSLETICLLLAYKVKY
-3	31048507	31048590	Ser/Thr-sp_prot-phosphatase_(PR00114)	1086.0	-
-#	PR00114	IPR006186	120	144	\N	1.4999999999999997e-95	72.32	LLRGNHECASINRIYGFYDECKRRY
-3	31048336	31048491	Ser/Thr-sp_prot-phosphatase_(PR00114)	1045.0	-
-#	PR00114	IPR006186	154	180	\N	1.4999999999999997e-95	61.18	DCFNCLPVAAIVDEKIFCCHGGLSPDL
-3	31045490	31048308	Ser/Thr-sp_prot-phosphatase_(PR00114)	979.0	-
-#	PR00114	IPR006186	183	210	\N	1.4999999999999997e-95	51.67	MEQVRRVMRPTDVPDQGLLCDLLWADPD
-3	31045400	31045483	Ser/Thr-sp_prot-phosphatase_(PR00114)	870.0	-
-#	PR00114	IPR006186	240	260	\N	1.4999999999999997e-95	58.45	DMDLICRAHQVVEDGYEFFAK
-3	31045158	31045312	Ser/Thr-sp_prot-phosphatase_(PR00114)	672.0	-
-#	PR00114	IPR006186	262	278	\N	1.4999999999999997e-95	69.93	QLVTLFSAPNYCGEFDN
-3	31045104	31045154	Ser/Thr-sp_prot-phosphatase_(PR00114)	657.0	-
+3	31045185	31049194	PEstase_dom	152.9	-	31045185	31049194	83,88,95	5	3997,-230,-104,-223,4004	0,3476,3164,321,5	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149
+3	31042433	31049281	Ser/Thr-sp_prot-phosphatase	547.0	-	31042433	31049281	83,88,95	6	6749,-230,-104,-223,-134,6831	0,6228,5916,3073,2757,17	SM00156	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00156
+3	31048594	31049197	Ser/Thr-sp_prot-phosphatase	1073.0	-	31048594	31049197	83,88,95	2	588,536	0,67	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+3	31048507	31048590	Ser/Thr-sp_prot-phosphatase	1086.0	-	31048507	31048590	83,88,95	1	83	0	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+3	31048336	31048491	Ser/Thr-sp_prot-phosphatase	1045.0	-	31048336	31048491	83,88,95	2	95,142	0,13	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+3	31045490	31048308	Ser/Thr-sp_prot-phosphatase	979.0	-	31045490	31048308	83,88,95	2	2755,2802	0,16	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+3	31045400	31045483	Ser/Thr-sp_prot-phosphatase	870.0	-	31045400	31045483	83,88,95	1	83	0	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+3	31045158	31045312	Ser/Thr-sp_prot-phosphatase	672.0	-	31045158	31045312	83,88,95	2	125,122	0,32	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+3	31045104	31045154	Ser/Thr-sp_prot-phosphatase	657.0	-	31045104	31045154	83,88,95	1	50	0	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114

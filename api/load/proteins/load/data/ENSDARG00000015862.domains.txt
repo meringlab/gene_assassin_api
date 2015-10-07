@@ -1,17 +1,7 @@
-browser position chr6:28800390-28811189
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000015862	ENSDART00000127695	ENSDARP00000106359	28800390	28811189	###
-#	PR00058	IPR005485	145	164	\N	5.0999999999999986e-76	80.62	YLDAGLARTTTGNKVFGALK
-6	28803211	28803270	Rbsml_L5_euk/L18_arc_(PR00058)	840.0	+
-#	PR00058	IPR005485	20	39	\N	5.0999999999999986e-76	84.69	FRRRREGKTDYFARKRLVIQ
-6	28800987	28801139	Rbsml_L5_euk/L18_arc_(PR00058)	904.0	+
-#	PR00058	IPR005485	207	227	\N	5.0999999999999986e-76	61.01	YMRLLMEEDEECYKKQFSRFI
-6	28803626	28803688	Rbsml_L5_euk/L18_arc_(PR00058)	708.0	+
-#	PR00058	IPR005485	165	184	\N	5.0999999999999986e-76	83.44	GAVDGGLSIPHSTKRFPGYD
-6	28803271	28803559	Rbsml_L5_euk/L18_arc_(PR00058)	931.0	+
-#	PF00861	IPR005484	26	173	\N	2.4e-49	0.0	GKTDYFARKRLVIQDKNKYNTPKYRMIVRFSNRDIVCQIAYAKIEGDMIVCAAYSHELPKYGISVGLTNYAAAYCTGLLLARRLLNKFGLDKVYDGQVEITGDEFNVESIDGQPGAFTCYLDAGLARTTTGNKVFGALKGAVDGGLSI
-6	28801098	28803297	Ribosomal_L18/L5_(PF00861)	153.0	+
-#	PR00058	IPR005485	84	104	\N	5.0999999999999986e-76	82.44	PKYGISVGLTNYAAAYCTGLL
-6	28801462	28801524	Rbsml_L5_euk/L18_arc_(PR00058)	957.0	+
-#	PR00058	IPR005485	43	62	\N	5.0999999999999986e-76	77.81	KYNTPKYRMIVRFSNRDIVC
-6	28801149	28801208	Rbsml_L5_euk/L18_arc_(PR00058)	922.0	+
+6	28803211	28803270	Rbsml_L5_euk/L18_arc	840.0	+	28803211	28803270	83,88,95	1	59	0	PR00058	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00058&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00058
+6	28800987	28801139	Rbsml_L5_euk/L18_arc	904.0	+	28800987	28801139	83,88,95	2	15,43	0,109	PR00058	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00058&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00058
+6	28803626	28803688	Rbsml_L5_euk/L18_arc	708.0	+	28803626	28803688	83,88,95	1	62	0	PR00058	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00058&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00058
+6	28803271	28803559	Rbsml_L5_euk/L18_arc	931.0	+	28803271	28803559	83,88,95	2	34,24	0,264	PR00058	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00058&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00058
+6	28801098	28803297	Ribosomal_L18/L5	153.0	+	28801098	28803297	83,88,95	3	113,134,194	0,304,2005	PF00861	http://pfam.sanger.ac.uk/family?acc=PF00861
+6	28801462	28801524	Rbsml_L5_euk/L18_arc	957.0	+	28801462	28801524	83,88,95	1	62	0	PR00058	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00058&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00058
+6	28801149	28801208	Rbsml_L5_euk/L18_arc	922.0	+	28801149	28801208	83,88,95	1	59	0	PR00058	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00058&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00058

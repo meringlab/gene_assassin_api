@@ -1,29 +1,13 @@
-browser position chr13:6974469-6990691
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000077549	ENSDART00000109434	ENSDARP00000097988	6974469	6990691	###
-#	PR00469	IPR000103	12	34	\N	2.2000000000000002e-08	32.77	HVVIVGGGFGGIAAAQHLKHYGV
-13	6990590	6990658	Pyridine_nuc-diS_OxRdtase_2_(PR00469)	317.0	-
-#	PR00469	IPR000103	102	110	\N	2.2000000000000002e-08	35.77	SHLILCTGT
-13	6990204	6990230	Pyridine_nuc-diS_OxRdtase_2_(PR00469)	154.0	-
-#	PR00469	IPR000103	139	163	\N	2.2000000000000002e-08	28.98	KEANAIVVVGGGTTGVEMAAEIKTE
-13	6989949	6990023	Pyridine_nuc-diS_OxRdtase_2_(PR00469)	293.0	-
-#	PR00469	IPR000103	274	292	\N	2.2000000000000002e-08	21.95	EGFDNVYAVGDCANLSEPK
-13	6977984	6978040	Pyridine_nuc-diS_OxRdtase_2_(PR00469)	169.0	-
-#	PR00420	IPR003042	12	34	\N	2.3e-06	41.16	HVVIVGGGFGGIAAAQHLKHYGV
-13	6990590	6990658	Rng_hydrolase-like_(PR00420)	410.0	-
-#	PR00420	IPR003042	276	291	\N	2.3e-06	28.75	FDNVYAVGDCANLSEP
-13	6977987	6978034	Rng_hydrolase-like_(PR00420)	224.0	-
-#	PF07992	IPR023753	13	287	\N	7.5e-33	0.0	VVIVGGGFGGIAAAQHLKHYGVPFMLIDVLDAFHHNVAALRASVQTGFARKTFIPYKETFGLNFLQGRVIRIDTETQTVVLDNGKEVRYSHLILCTGTTGSFPSKHNSVDTYKSAIQKYEDFFHVIKEANAIVVVGGGTTGVEMAAEIKTEFHDKKVVLIHPREEVADPELLPCVKEQAKQVLLEKGVELLLGQKVSNLEELELNVCRSGMVVKTNKNEQVTTDLVICCTGSKINSEAYRSSMSSCLAENGALKVNKHLQVEGFDNVYAVGDCAN
-13	6977999	6990655	Pyr_nucl-diS_OxRdtase_FAD/NAD_(PF07992)	102.6	-
-#	PF00070	IPR001327	144	213	\N	2e-13	0.0	IVVVGGGTTGVEMAAEIKTEFHDKKVVLIHPREEVADPELLPCVKEQAKQVLLEKGVELLLGQKVSNLEE
-13	6982567	6990008	Pyr_OxRdtase_NAD-bd_dom_(PF00070)	39.6	-
-#	PF01494	IPR002938	11	49	\N	2.8e-08	0.0	VHVVIVGGGFGGIAAAQHLKHYGVPFMLIDVLDAFHHNV
-13	6990545	6990661	mOase_FAD-bd_(PF01494)	22.0	-
-#	PR00368	IPR013027	264	286	\N	2.5999999999999997e-11	20.56	ALKVNKHLQVEGFDNVYAVGDCA
-13	6978002	6978070	FAD_pyr_nucl-diS_OxRdtase_(PR00368)	126.0	-
-#	PR00368	IPR013027	143	161	\N	2.5999999999999997e-11	38.71	AIVVVGGGTTGVEMAAEIK
-13	6989955	6990011	FAD_pyr_nucl-diS_OxRdtase_(PR00368)	379.0	-
-#	PR00368	IPR013027	235	251	\N	2.5999999999999997e-11	21.06	TDLVICCTGSKINSEAY
-13	6982453	6982503	FAD_pyr_nucl-diS_OxRdtase_(PR00368)	107.0	-
-#	PR00368	IPR013027	13	32	\N	2.5999999999999997e-11	36.07	VVIVGGGFGGIAAAQHLKHY
-13	6990596	6990655	FAD_pyr_nucl-diS_OxRdtase_(PR00368)	311.0	-
+13	6990590	6990658	Pyridine_nuc-diS_OxRdtase_2	317.0	-	6990590	6990658	83,88,95	1	68	0	PR00469	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00469&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00469
+13	6990204	6990230	Pyridine_nuc-diS_OxRdtase_2	154.0	-	6990204	6990230	83,88,95	1	26	0	PR00469	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00469&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00469
+13	6989949	6990023	Pyridine_nuc-diS_OxRdtase_2	293.0	-	6989949	6990023	83,88,95	1	74	0	PR00469	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00469&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00469
+13	6977984	6978040	Pyridine_nuc-diS_OxRdtase_2	169.0	-	6977984	6978040	83,88,95	1	56	0	PR00469	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00469&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00469
+13	6990590	6990658	Rng_hydrolase-like	410.0	-	6990590	6990658	83,88,95	1	68	0	PR00420	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00420&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00420
+13	6977987	6978034	Rng_hydrolase-like	224.0	-	6977987	6978034	83,88,95	1	47	0	PR00420	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00420&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00420
+13	6977999	6990655	Pyr_nucl-diS_OxRdtase_FAD/NAD	102.6	-	6977999	6990655	83,88,95	7	12518,-115,-119,-92,-108,-152,12562	0,12441,12243,12027,8902,4593,94	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992
+13	6982567	6990008	Pyr_OxRdtase_NAD-bd_dom	39.6	-	6982567	6990008	83,88,95	3	7367,-108,7416	0,4334,25	PF00070	http://pfam.sanger.ac.uk/family?acc=PF00070
+13	6990545	6990661	mOase_FAD-bd	22.0	-	6990545	6990661	83,88,95	1	116	0	PF01494	http://pfam.sanger.ac.uk/family?acc=PF01494
+13	6978002	6978070	FAD_pyr_nucl-diS_OxRdtase	126.0	-	6978002	6978070	83,88,95	1	68	0	PR00368	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00368&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00368
+13	6989955	6990011	FAD_pyr_nucl-diS_OxRdtase	379.0	-	6989955	6990011	83,88,95	1	56	0	PR00368	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00368&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00368
+13	6982453	6982503	FAD_pyr_nucl-diS_OxRdtase	107.0	-	6982453	6982503	83,88,95	1	50	0	PR00368	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00368&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00368
+13	6990596	6990655	FAD_pyr_nucl-diS_OxRdtase	311.0	-	6990596	6990655	83,88,95	1	59	0	PR00368	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00368&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00368

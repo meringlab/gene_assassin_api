@@ -1,17 +1,7 @@
-browser position chr16:14714441-14755587
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000070624	ENSDART00000133735	ENSDARP00000119475	14714441	14755587	###
-#	PR01792	IPR008368	44	62	\N	2.6e-21	44.74	GACGLLLVGVAVATDYWLL
-16	14735947	14736003	VDCC_gsu_(PR01792)	464.0	-
-#	PF00822	IPR004031	36	222	\N	5.2e-24	0.0	LTLLSTVFGACGLLLVGVAVATDYWLLMEEGIVLQQNQTVDVKMALHSGLWRVCFIAGTEKGRCVASEYFTEPEIEITTENTANILKMVRTATPFPMVSLLFVFTAFIISNVGHIRPQRTILAFVSGIFFILSGLSLVVGLVLYISSINDEVMNRPREPEQFFNYRYGWSFAFAASSFLLKEGAGVM
-16	14715485	14736027	PMP22/EMP/MP20/Claudin_(PF00822)	71.1	-
-#	PR01795	IPR008371	188	199	\N	1.6e-09	58.33	MNRPREPEQFFN
-16	14719269	14719304	VDCC_g7su_(PR01795)	410.0	-
-#	PR01795	IPR008371	104	119	\N	1.6e-09	68.75	YFTEPEIEITTENTAN
-16	14733189	14733236	VDCC_g7su_(PR01795)	610.0	-
-#	PR01795	IPR008371	28	38	\N	1.6e-09	90.91	MSSCSSRALTL
-16	14736019	14736051	VDCC_g7su_(PR01795)	470.0	-
-#	PR01792	IPR008368	200	221	\N	2.6e-21	58.6	YRYGWSFAFAASSFLLKEGAGV
-16	14715488	14719268	VDCC_gsu_(PR01792)	671.0	-
-#	PR01792	IPR008368	168	187	\N	2.6e-21	47.86	SGLSLVVGLVLYISSINDEV
-16	14719305	14732945	VDCC_gsu_(PR01792)	460.0	-
+16	14735947	14736003	VDCC_gsu	464.0	-	14735947	14736003	83,88,95	1	56	0	PR01792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01792
+16	14715485	14736027	PMP22/EMP/MP20/Claudin	71.1	-	14715485	14736027	83,88,95	5	20372,-86,-140,-145,20527	0,17784,17598,3876,15	PF00822	http://pfam.sanger.ac.uk/family?acc=PF00822
+16	14719269	14719304	VDCC_g7su	410.0	-	14719269	14719304	83,88,95	1	35	0	PR01795	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01795&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01795
+16	14733189	14733236	VDCC_g7su	610.0	-	14733189	14733236	83,88,95	1	47	0	PR01795	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01795&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01795
+16	14736019	14736051	VDCC_g7su	470.0	-	14736019	14736051	83,88,95	1	32	0	PR01795	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01795&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01795
+16	14715488	14719268	VDCC_gsu	671.0	-	14715488	14719268	83,88,95	2	3728,3768	0,12	PR01792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01792
+16	14719305	14732945	VDCC_gsu	460.0	-	14719305	14732945	83,88,95	2	13638,13584	0,56	PR01792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01792

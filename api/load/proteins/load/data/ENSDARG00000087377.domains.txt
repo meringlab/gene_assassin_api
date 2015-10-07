@@ -1,11 +1,4 @@
-browser position chr13:53936194-53938330
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000087377	ENSDART00000121457	ENSDARP00000108481	53936194	53938330	###
-#	PR01881	IPR013294	11	21	\N	1.1e-24	45.45	MDDMRLSPSKE
-13	53938268	53938300	LBH_(PR01881)	290.0	-
-#	PR01881	IPR013294	24	36	\N	1.1e-24	76.92	TFQIFPDPSDFER
-13	53936371	53938261	LBH_(PR01881)	620.0	-
-#	PR01881	IPR013294	38	56	\N	1.1e-24	89.47	CKLKERLPSIVVEATEGEV
-13	53936311	53936367	LBH_(PR01881)	860.0	-
-#	PR01881	IPR013294	57	70	\N	1.1e-24	85.71	ESGELRWPPEDFLI
-13	53936269	53936310	LBH_(PR01881)	740.0	-
+13	53938268	53938300	LBH	290.0	-	53938268	53938300	83,88,95	1	32	0	PR01881	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01881&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01881
+13	53936371	53938261	LBH	620.0	-	53936371	53938261	83,88,95	2	1882,1861	0,29	PR01881	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01881&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01881
+13	53936311	53936367	LBH	860.0	-	53936311	53936367	83,88,95	1	56	0	PR01881	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01881&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01881
+13	53936269	53936310	LBH	740.0	-	53936269	53936310	83,88,95	1	41	0	PR01881	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01881&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01881

@@ -1,27 +1,12 @@
-browser position chr2:5038156-5046905
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000078598	ENSDART00000114518	ENSDARP00000098678	5038156	5046905	###
-#	PF00782	IPR000340	37	165	\N	6e-31	0.0	LFLSGADASMNQALMTRKGITLIVNVTLSHTCPVYPGVECIRVAVSDLPNARLGDHFDHVSARIHNNRPGGTLVHCAAGMSRSPAVIMAYLMKYKGVTLRQAHKWVKDSRPYIRLNVGFWTQLLDYERK
-2	5040966	5041352	Dual-sp_phosphatase_cat-dom_(PF00782)	93.2	-
-#	PR01908	IPR020417	51	62	\N	5.4000000000000005e-05	37.59	MTRKGITLIVNV
-2	5041275	5041310	Atypical_DUSP_(PR01908)	245.0	-
-#	PR01908	IPR020417	76	85	\N	5.4000000000000005e-05	29.15	CIRVAVSDLP
-2	5041206	5041235	Atypical_DUSP_(PR01908)	139.0	-
-#	PR01908	IPR020417	92	103	\N	5.4000000000000005e-05	31.38	HFDHVSARIHNN
-2	5041152	5041187	Atypical_DUSP_(PR01908)	157.0	-
-#	PR01910	IPR020420	32	48	\N	2.4e-09	42.86	QITPTLFLSGADASMNQ
-2	5041317	5041367	Atypical_DUSP_famB_(PR01910)	337.0	-
-#	PR01910	IPR020420	51	65	\N	2.4e-09	33.33	MTRKGITLIVNVTLS
-2	5041266	5041310	Atypical_DUSP_famB_(PR01910)	295.0	-
-#	PR01910	IPR020420	76	85	\N	2.4e-09	37.62	CIRVAVSDLP
-2	5041206	5041235	Atypical_DUSP_famB_(PR01910)	212.0	-
-#	PR01910	IPR020420	92	106	\N	2.4e-09	32.06	HFDHVSARIHNNRPG
-2	5041143	5041187	Atypical_DUSP_famB_(PR01910)	211.0	-
-#	PR01908	IPR020417	34	46	\N	5.4000000000000005e-05	32.08	TPTLFLSGADASM
-2	5041323	5041361	Atypical_DUSP_(PR01908)	181.0	-
-#	SM00195	IPR020422	29	165	\N	2.2e-36	0.0	SISQITPTLFLSGADASMNQALMTRKGITLIVNVTLSHTCPVYPGVECIRVAVSDLPNARLGDHFDHVSARIHNNRPGGTLVHCAAGMSRSPAVIMAYLMKYKGVTLRQAHKWVKDSRPYIRLNVGFWTQLLDYERK
-2	5040966	5041376	Dual-sp_phosphatase_subgr_cat_(SM00195)	136.9	-
-#	PS50056	IPR000387	90	147	\N	0.0	0.0	GDHFDHVSARIHNNRPGGTLVHCAAGMSRSPAVIMAYLMKYKGVTLRQAHKWVKDSRP
-2	5041020	5041193	Tyr/Dual-sp_Pase_(PS50056)	11.932	-
-#	PS50054	IPR020422	29	167	\N	0.0	0.0	SISQITPTLFLSGADASMNQALMTRKGITLIVNVTLSHTCPVYPGVECIRVAVSDLPNARLGDHFDHVSARIHNNRPGGTLVHCAAGMSRSPAVIMAYLMKYKGVTLRQAHKWVKDSRPYIRLNVGFWTQLLDYERKLY
-2	5040960	5041376	Dual-sp_phosphatase_subgr_cat_(PS50054)	28.26	-
+2	5040966	5041352	Dual-sp_phosphatase_cat-dom	93.2	-	5040966	5041352	83,88,95	1	386	0	PF00782	http://pfam.sanger.ac.uk/family?acc=PF00782
+2	5041275	5041310	Atypical_DUSP	245.0	-	5041275	5041310	83,88,95	1	35	0	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
+2	5041206	5041235	Atypical_DUSP	139.0	-	5041206	5041235	83,88,95	1	29	0	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
+2	5041152	5041187	Atypical_DUSP	157.0	-	5041152	5041187	83,88,95	1	35	0	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
+2	5041317	5041367	Atypical_DUSP_famB	337.0	-	5041317	5041367	83,88,95	1	50	0	PR01910	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01910&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01910
+2	5041266	5041310	Atypical_DUSP_famB	295.0	-	5041266	5041310	83,88,95	1	44	0	PR01910	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01910&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01910
+2	5041206	5041235	Atypical_DUSP_famB	212.0	-	5041206	5041235	83,88,95	1	29	0	PR01910	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01910&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01910
+2	5041143	5041187	Atypical_DUSP_famB	211.0	-	5041143	5041187	83,88,95	1	44	0	PR01910	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01910&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01910
+2	5041323	5041361	Atypical_DUSP	181.0	-	5041323	5041361	83,88,95	1	38	0	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
+2	5040966	5041376	Dual-sp_phosphatase_subgr_cat	136.9	-	5040966	5041376	83,88,95	1	410	0	SM00195	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00195
+2	5041020	5041193	Tyr/Dual-sp_Pase	11.932	-	5041020	5041193	83,88,95	1	173	0	PS50056	http://www.expasy.ch/prosite/PS50056
+2	5040960	5041376	Dual-sp_phosphatase_subgr_cat	28.26	-	5040960	5041376	83,88,95	1	416	0	PS50054	http://www.expasy.ch/prosite/PS50054

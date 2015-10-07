@@ -1,17 +1,7 @@
-browser position chrZv9_NA175:3353-47162
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000088995	ENSDART00000122214	ENSDARP00000109815	3353	47162	###
-#	PR00237	IPR000276	28	52	\N	2.7e-21	28.23	ALISFLSLVMLMSVLGNLLVMVAVC
-Zv9_NA175	15373	15447	GPCR_Rhodpsn_(PR00237)	291.0	-
-#	PR00237	IPR000276	62	83	\N	2.7e-21	42.99	TNYFIVSLAFADLLVSVLVMPF
-Zv9_NA175	3479	3544	GPCR_Rhodpsn_(PR00237)	410.0	-
-#	PR00237	IPR000276	107	125	\N	2.7e-21	30.58	DVLLTTASILHLCCISLD
-Zv9_NA175	3353	3409	GPCR_Rhodpsn_(PR00237)	272.0	-
-#	PR01059	IPR001520	51	62	\N	6.5e-09	91.67	VCKDRQLRKIKT
-Zv9_NA175	3542	15378	5HT4_rcpt_(PR01059)	590.0	-
-#	PR01059	IPR001520	83	99	\N	6.5e-09	64.71	FGAIELIHQNWIYGETF
-Zv9_NA175	3431	3481	5HT4_rcpt_(PR01059)	630.0	-
-#	PF00001	IPR000276	43	125	\N	2.3e-30	0.0	GNLLVMVAVCKDRQLRKIKTNYFIVSLAFADLLVSVLVMPFGAIELIHQNWIYGETFCLVRTSLDVLLTTASILHLCCISLD
-Zv9_NA175	3353	15402	GPCR_Rhodpsn_(PF00001)	91.9	-
-#	PS50262	IPR017452	43	125	\N	0.0	0.0	GNLLVMVAVCKDRQLRKIKTNYFIVSLAFADLLVSVLVMPFGAIELIHQNWIYGETFCLVRTSLDVLLTTASILHLCCISLD
-Zv9_NA175	3353	15402	GPCR_Rhodpsn_7TM_(PS50262)	21.314	-
+Zv9_NA175	15373	15447	GPCR_Rhodpsn	291.0	-	15373	15447	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+Zv9_NA175	3479	3544	GPCR_Rhodpsn	410.0	-	3479	3544	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+Zv9_NA175	3353	3409	GPCR_Rhodpsn	272.0	-	3353	3409	83,88,95	1	56	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+Zv9_NA175	3542	15378	5HT4_rcpt	590.0	-	3542	15378	83,88,95	2	11814,11824	0,12	PR01059	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01059&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01059
+Zv9_NA175	3431	3481	5HT4_rcpt	630.0	-	3431	3481	83,88,95	1	50	0	PR01059	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01059&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01059
+Zv9_NA175	3353	15402	GPCR_Rhodpsn	91.9	-	3353	15402	83,88,95	2	12003,11848	0,201	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+Zv9_NA175	3353	15402	GPCR_Rhodpsn_7TM	21.314	-	3353	15402	83,88,95	2	12003,11848	0,201	PS50262	http://www.expasy.ch/prosite/PS50262

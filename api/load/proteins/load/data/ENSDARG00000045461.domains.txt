@@ -1,17 +1,7 @@
-browser position chr24:3105987-3144339
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000045461	ENSDART00000151966	ENSDARP00000126346	3105987	3116908	###
-#	PF00378	IPR001753	150	320	\N	1.3e-33	0.0	TIRLNRPDKKNAITVEMYNELIEALELAGKDDSVITVMTGNGDYYCSGNDLNNFTKIPEGGVEKMAKDAGELLRRYVKAYIDFPKPLIGVINGPAVGVSVTLLGLFDVVYATEKATFHTPFSQLGQSPEGCSSYLFPKMMGAAKASEVLLFNKKLSATQACELGLVSEVFP
-24	3108278	3113207	Crotonase_core_superfam_(PF00378)	103.1	-
-#	PF00887	IPR000582	41	120	\N	8.699999999999999e-32	0.0	EDFNKAKDKLNTLKKDPGNEVKLKIYALFKQATVGPCNTPKPGMLDFVNKVKWDAWKGLGSISQEEARQQYVDLISSLVG
-24	3113295	3115028	Acyl-CoA-binding_protein_(PF00887)	96.2	-
-#	PR00689	IPR000582	40	55	\N	1.5e-19	33.33	VEDFNKAKDKLNTLKK
-24	3114984	3115031	Acyl-CoA-binding_protein_(PR00689)	225.0	-
-#	PR00689	IPR000582	57	75	\N	1.5e-19	58.9	PGNEVKLKIYALFKQATVG
-24	3113907	3114980	Acyl-CoA-binding_protein_(PR00689)	569.0	-
-#	PR00689	IPR000582	80	95	\N	1.5e-19	52.38	PKPGMLDFVNKVKWDA
-24	3113847	3113894	Acyl-CoA-binding_protein_(PR00689)	503.0	-
-#	PR00689	IPR000582	101	118	\N	1.5e-19	34.92	SISQEEARQQYVDLISSL
-24	3113301	3113831	Acyl-CoA-binding_protein_(PR00689)	332.0	-
-#	SSF47027	IPR000582	39	124	\N	8.4e-29	0.0	SVEDFNKAKDKLNTLKKDPGNEVKLKIYALFKQATVGPCNTPKPGMLDFVNKVKWDAWKGLGSISQEEARQQYVDLISSLVGAEAP
-24	3113283	3115034	Acyl-CoA-binding_protein_(SSF47027)	0.0	-
+24	3108278	3113207	Crotonase_core_superfam	103.1	-	3108278	3113207	83,88,95	6	4882,-69,-102,-120,-89,4849	0,3390,3225,2565,2344,80	PF00378	http://pfam.sanger.ac.uk/family?acc=PF00378
+24	3113295	3115028	Acyl-CoA-binding_protein	96.2	-	3113295	3115028	83,88,95	3	1641,-98,1686	0,623,47	PF00887	http://pfam.sanger.ac.uk/family?acc=PF00887
+24	3114984	3115031	Acyl-CoA-binding_protein	225.0	-	3114984	3115031	83,88,95	1	47	0	PR00689	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00689&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00689
+24	3113907	3114980	Acyl-CoA-binding_protein	569.0	-	3113907	3114980	83,88,95	2	1029,1062	0,11	PR00689	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00689&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00689
+24	3113847	3113894	Acyl-CoA-binding_protein	503.0	-	3113847	3113894	83,88,95	1	47	0	PR00689	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00689&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00689
+24	3113301	3113831	Acyl-CoA-binding_protein	332.0	-	3113301	3113831	83,88,95	2	519,489	0,41	PR00689	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00689&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00689
+24	3113283	3115034	Acyl-CoA-binding_protein	0.0	-	3113283	3115034	83,88,95	3	1653,-98,1692	0,635,59	SSF47027	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47027

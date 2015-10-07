@@ -1,23 +1,10 @@
-browser position chr4:4270214-4304686
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000059043	ENSDART00000082046	ENSDARP00000076483	4270214	4304686	###
-#	PF00243	IPR002072	129	241	\N	9.7e-51	0.0	HKSYRGEFSVCDSESNWVTNRTSAVDSRGNHVTVLNSFTVKQKYTQYFYETKCKTPHSHRKSRCLGIDEKHWNSQCKTTQTYVRALTQHKSLVSWNWIRIDTACVCALSKKHR
-4	4270406	4270744	Nerve_growth_factor-rel_(PF00243)	156.9	-
-#	PR00268	IPR002072	134	146	\N	1.3e-25	76.53	GEFSVCDSESNWV
-4	4270691	4270729	Nerve_growth_factor-rel_(PR00268)	539.0	-
-#	PR00268	IPR002072	172	182	\N	1.3e-25	70.55	YTQYFYETKCK
-4	4270583	4270615	Nerve_growth_factor-rel_(PR00268)	479.0	-
-#	PR00268	IPR002072	191	217	\N	1.3e-25	64.8	RCLGIDEKHWNSQCKTTQTYVRALTQH
-4	4270478	4270558	Nerve_growth_factor-rel_(PR00268)	1017.0	-
-#	PR00268	IPR002072	223	235	\N	1.3e-25	73.24	WNWIRIDTACVCA
-4	4270424	4270462	Nerve_growth_factor-rel_(PR00268)	607.0	-
-#	PR01914	IPR015578	9	26	\N	2.8000000000000003e-05	51.11	FLAYLYGISASTMDKQRP
-4	4271051	4271104	Neurotrophin-3_(PR01914)	445.0	-
-#	PR01914	IPR015578	36	47	\N	2.8000000000000003e-05	64.17	IKLLQADISRQK
-4	4270988	4271023	Neurotrophin-3_(PR01914)	381.0	-
-#	SM00140	IPR002072	131	235	\N	8.5e-57	0.0	SYRGEFSVCDSESNWVTNRTSAVDSRGNHVTVLNSFTVKQKYTQYFYETKCKTPHSHRKSRCLGIDEKHWNSQCKTTQTYVRALTQHKSLVSWNWIRIDTACVCA
-4	4270424	4270738	Nerve_growth_factor-rel_(SM00140)	204.7	-
-#	PS50270	IPR002072	129	242	\N	0.0	0.0	HKSYRGEFSVCDSESNWVTNRTSAVDSRGNHVTVLNSFTVKQKYTQYFYETKCKTPHSHRKSRCLGIDEKHWNSQCKTTQTYVRALTQHKSLVSWNWIRIDTACVCALSKKHRR
-4	4270403	4270744	Nerve_growth_factor-rel_(PS50270)	43.355	-
-#	PIRSF001789	IPR020408	1	243	\N	2.7999999999999994e-86	0.0	MSILLYVMFLAYLYGISASTMDKQRPMQDPISALIIKLLQADISRQKQGDVIPSSTLNVSTVADYKEKDNNTPMVDSSEELLRQYKRYNSPRVLLSDRPPMQPPAFYLMDKFISGQDSNKTRQKRFAEHKSYRGEFSVCDSESNWVTNRTSAVDSRGNHVTVLNSFTVKQKYTQYFYETKCKTPHSHRKSRCLGIDEKHWNSQCKTTQTYVRALTQHKSLVSWNWIRIDTACVCALSKKHRRT
-4	4270400	4271128	Nerve_growth_factor-like_(PIRSF001789)	295.6	-
+4	4270406	4270744	Nerve_growth_factor-rel	156.9	-	4270406	4270744	83,88,95	1	338	0	PF00243	http://pfam.sanger.ac.uk/family?acc=PF00243
+4	4270691	4270729	Nerve_growth_factor-rel	539.0	-	4270691	4270729	83,88,95	1	38	0	PR00268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00268
+4	4270583	4270615	Nerve_growth_factor-rel	479.0	-	4270583	4270615	83,88,95	1	32	0	PR00268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00268
+4	4270478	4270558	Nerve_growth_factor-rel	1017.0	-	4270478	4270558	83,88,95	1	80	0	PR00268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00268
+4	4270424	4270462	Nerve_growth_factor-rel	607.0	-	4270424	4270462	83,88,95	1	38	0	PR00268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00268
+4	4271051	4271104	Neurotrophin-3	445.0	-	4271051	4271104	83,88,95	1	53	0	PR01914	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01914&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01914
+4	4270988	4271023	Neurotrophin-3	381.0	-	4270988	4271023	83,88,95	1	35	0	PR01914	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01914&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01914
+4	4270424	4270738	Nerve_growth_factor-rel	204.7	-	4270424	4270738	83,88,95	1	314	0	SM00140	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00140
+4	4270403	4270744	Nerve_growth_factor-rel	43.355	-	4270403	4270744	83,88,95	1	341	0	PS50270	http://www.expasy.ch/prosite/PS50270
+4	4270400	4271128	Nerve_growth_factor-like	295.6	-	4270400	4271128	83,88,95	1	728	0	PIRSF001789	None

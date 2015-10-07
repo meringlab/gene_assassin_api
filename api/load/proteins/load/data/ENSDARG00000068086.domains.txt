@@ -1,13 +1,5 @@
-browser position chr23:1153008-1156455
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000068086	ENSDART00000098271	ENSDARP00000089043	1153008	1156455	###
-#	PR00141	IPR000243	24	39	\N	1.1e-13	44.89	FQGGVIAAADTRSSCA
-23	1156339	1156386	Pept_T1A_subB_(PR00141)	384.0	-
-#	PR00141	IPR000243	147	158	\N	1.1e-13	60.61	GSGSPYAYSILD
-23	1153276	1153311	Pept_T1A_subB_(PR00141)	410.0	-
-#	PR00141	IPR000243	158	169	\N	1.1e-13	33.9	DGGVRWGMSAQE
-23	1153243	1153278	Pept_T1A_subB_(PR00141)	207.0	-
-#	PR00141	IPR000243	183	194	\N	1.1e-13	48.67	YRDAYSGNNVDL
-23	1153168	1153203	Pept_T1A_subB_(PR00141)	266.0	-
-#	PF00227	IPR001353	14	197	\N	1.8e-39	0.0	SHGTTTLGFAFQGGVIAAADTRSSCAGKVACPASPKVLPIHSHLVGTTSGTSADCALWKRILARELRLYQLRHRRRLSTGGAAKLLSHMLHPFKGTELCVAATLCGWDGGVRGPRVVYVCSDGLRLQGALFSVGSGSPYAYSILDGGVRWGMSAQEAAAVAREAVYRATYRDAYSGNNVDLYHV
-23	1153159	1156416	Proteasome_sua/b_(PF00227)	121.4	-
+23	1156339	1156386	Pept_T1A_subB	384.0	-	1156339	1156386	83,88,95	1	47	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+23	1153276	1153311	Pept_T1A_subB	410.0	-	1153276	1153311	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+23	1153243	1153278	Pept_T1A_subB	207.0	-	1153243	1153278	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+23	1153168	1153203	Pept_T1A_subB	266.0	-	1153168	1153203	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+23	1153159	1156416	Proteasome_sua/b	121.4	-	1153159	1156416	83,88,95	3	2975,-44,3034	0,370,223	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227

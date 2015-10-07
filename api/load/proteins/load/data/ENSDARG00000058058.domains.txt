@@ -1,19 +1,8 @@
-browser position chr8:14495437-14501983
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000058058	ENSDART00000140576	ENSDARP00000117429	14495437	14501983	###
-#	PR00276	IPR022352	51	67	\N	1.7e-10	52.11	ARCGRELVDDLEFVCGD
-8	14499914	14499964	Insulin_family_(PR00276)	459.0	-
-#	PR00276	IPR022352	89	108	\N	1.7e-10	53.36	GIVDQCCVRGCDLQHLELYC
-8	14497315	14497374	Insulin_family_(PR00276)	658.0	-
-#	PR02002	IPR022350	54	64	\N	6.3e-05	72.53	GRELVDDLEFV
-8	14499923	14499955	Insulin-like_growth_factor_(PR02002)	379.0	-
-#	PR02002	IPR022350	96	105	\N	6.3e-05	52.28	VRGCDLQHLE
-8	14497324	14497353	Insulin-like_growth_factor_(PR02002)	278.0	-
-#	PR02002	IPR022350	109	119	\N	6.3e-05	43.96	AKSKKVRRDVP
-8	14497282	14497314	Insulin-like_growth_factor_(PR02002)	180.0	-
-#	PF00049	IPR016179	52	108	\N	1.8000000000000002e-12	0.0	RCGRELVDDLEFVCGDRGFYIGKPGAARSGGPRSRGKGIVDQCCVRGCDLQHLELYC
-8	14497315	14499961	Insulin-like_(PF00049)	34.4	-
-#	SM00078	IPR016179	50	108	\N	7.699999999999999e-14	0.0	RARCGRELVDDLEFVCGDRGFYIGKPGAARSGGPRSRGKGIVDQCCVRGCDLQHLELYC
-8	14497315	14499967	Insulin-like_(SM00078)	62.0	-
-#	SSF56994	IPR016179	35	117	\N	1.5999999999999999e-21	0.0	SLCCVLILPDNTEGARARCGRELVDDLEFVCGDRGFYIGKPGAARSGGPRSRGKGIVDQCCVRGCDLQHLELYCAKSKKVRRD
-8	14497288	14500012	Insulin-like_(SSF56994)	0.0	-
+8	14499914	14499964	Insulin_family	459.0	-	14499914	14499964	83,88,95	1	50	0	PR00276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00276
+8	14497315	14497374	Insulin_family	658.0	-	14497315	14497374	83,88,95	1	59	0	PR00276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00276
+8	14499923	14499955	Insulin-like_growth_factor	379.0	-	14499923	14499955	83,88,95	1	32	0	PR02002	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02002&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02002
+8	14497324	14497353	Insulin-like_growth_factor	278.0	-	14497324	14497353	83,88,95	1	29	0	PR02002	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02002&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02002
+8	14497282	14497314	Insulin-like_growth_factor	180.0	-	14497282	14497314	83,88,95	1	32	0	PR02002	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02002&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02002
+8	14497315	14499961	Insulin-like	34.4	-	14497315	14499961	83,88,95	2	2583,2540	0,106	PF00049	http://pfam.sanger.ac.uk/family?acc=PF00049
+8	14497315	14499967	Insulin-like	62.0	-	14497315	14499967	83,88,95	2	2583,2546	0,106	SM00078	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00078
+8	14497288	14500012	Insulin-like	0.0	-	14497288	14500012	83,88,95	2	2610,2591	0,133	SSF56994	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56994

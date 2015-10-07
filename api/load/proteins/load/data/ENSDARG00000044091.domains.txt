@@ -1,15 +1,6 @@
-browser position chr10:24754947-24802508
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000044091	ENSDART00000002974	ENSDARP00000003956	24756796	24774709	###
-#	PF02121	IPR001666	11	256	\N	5.7999999999999984e-130	0.0	FIILCTIEEYQVGQLYSVAEASKNETGGGEGVEVLKNEPYEKDGEKGQYTHKIYHLQSKVPSFVRMLAPASALNIHEKAWNAYPYCRTVITNEYMKENFLIKIETWHKPDMGQQDNVHGLDPDTWKKVDVVYIDIADRSQVEPKDYKPEEDPSKYKSVKTGRGPLGPDWKRELPKKTDCPHMCAYKLVTVKFKWWGLQNKVENFIQKQEKRLFTNFHRQLFCWIDKWIELNMDDIRRMEEETRKEL
-10	24757423	24774679	PI_transfer_(PF02121)	418.3	-
-#	PR00391	IPR001666	222	241	\N	8.1e-48	63.75	LFTNFHRQLFCWIDKWIELN
-10	24757468	24757527	PI_transfer_(PR00391)	832.0	-
-#	PR00391	IPR001666	202	217	\N	8.1e-48	74.48	FKWWGLQNKVENFIQK
-10	24765368	24765415	PI_transfer_(PR00391)	733.0	-
-#	PR00391	IPR001666	19	38	\N	8.1e-48	77.08	EYQVGQLYSVAEASKNETGG
-10	24774461	24774655	PI_transfer_(PR00391)	804.0	-
-#	PR00391	IPR001666	86	106	\N	8.1e-48	73.81	HEKAWNAYPYCRTVITNEYMK
-10	24766589	24772215	PI_transfer_(PR00391)	925.0	-
-#	PR00391	IPR001666	113	128	\N	8.1e-48	70.83	IETWHKPDMGQQDNVH
-10	24766225	24766570	PI_transfer_(PR00391)	666.0	-
+10	24757423	24774679	PI_transfer	418.3	-	24757423	24774679	83,88,95	9	17230,-145,-91,-7,-74,-83,-77,-110,17140	0,17094,14844,10349,9180,8807,8645,8055,116	PF02121	http://pfam.sanger.ac.uk/family?acc=PF02121
+10	24757468	24757527	PI_transfer	832.0	-	24757468	24757527	83,88,95	1	59	0	PR00391	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00391&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00391
+10	24765368	24765415	PI_transfer	733.0	-	24765368	24765415	83,88,95	1	47	0	PR00391	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00391&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00391
+10	24774461	24774655	PI_transfer	804.0	-	24774461	24774655	83,88,95	2	192,138	0,56	PR00391	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00391&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00391
+10	24766589	24772215	PI_transfer	925.0	-	24766589	24772215	83,88,95	3	5587,-7,5612	0,1183,14	PR00391	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00391&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00391
+10	24766225	24766570	PI_transfer	666.0	-	24766225	24766570	83,88,95	2	304,340	0,5	PR00391	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00391&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00391

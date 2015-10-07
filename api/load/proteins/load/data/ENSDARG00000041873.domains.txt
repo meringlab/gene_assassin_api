@@ -1,21 +1,9 @@
-browser position chr20:38856297-38860870
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000041873	ENSDART00000061358	ENSDARP00000061357	38856297	38860870	###
-#	PF00106	IPR002198	47	214	\N	3.4e-30	0.0	IVLVTGAANGIGKLIAKELGHYGATLVLWDINSEALEKTAKELKQVLDVRVYAYTCDCSRRSEVYRVAEVVKREVGDVSILVNNAGMVSGKYTFLEAPDSLVDRTLRVNAAAHFWTYKAFLPAMLEQDHGHLLCVACHGALFAMNGLADYCASKSAAVRFAESIALEL
-20	38857819	38860638	DH_sc/Rdtase_SDR_(PF00106)	92.5	-
-#	PF08659	IPR013968	48	208	\N	4.4e-14	0.0	VLVTGAANGIGKLIAKELGHYGATLVLWDINSEALEKTAKELKQVLDVRVYAYTCDCSRRSEVYRVAEVVKREVGDVSILVNNAGMVSGKYTFLEAPDSLVDRTLRVNAAAHFWTYKAFLPAMLEQDHGHLLCVACHGALFAMNGLADYCASKSAAVRFAE
-20	38857837	38860635	PKS_KR_(PF08659)	39.9	-
-#	PR00081	IPR002347	47	64	\N	5.599999999999999e-20	44.98	IVLVTGAANGIGKLIAKE
-20	38860585	38860638	Glc/ribitol_DH_(PR00081)	405.0	-
-#	PR00081	IPR002347	122	133	\N	5.599999999999999e-20	53.13	GDVSILVNNAGM
-20	38858279	38858314	Glc/ribitol_DH_(PR00081)	336.0	-
-#	PR00081	IPR002347	170	186	\N	5.599999999999999e-20	16.9	MLEQDHGHLLCVACHGA
-20	38857994	38858044	Glc/ribitol_DH_(PR00081)	92.0	-
-#	PR00081	IPR002347	196	215	\N	5.599999999999999e-20	34.19	YCASKSAAVRFAESIALELL
-20	38857816	38857875	Glc/ribitol_DH_(PR00081)	288.0	-
-#	PR00081	IPR002347	220	237	\N	5.599999999999999e-20	28.06	EGIKTTIVCPYLINTNMF
-20	38857750	38857803	Glc/ribitol_DH_(PR00081)	204.0	-
-#	PR00080	IPR002198	122	133	\N	1e-06	51.01	GDVSILVNNAGM
-20	38858279	38858314	DH_sc/Rdtase_SDR_(PR00080)	322.0	-
-#	PR00080	IPR002198	196	215	\N	1e-06	36.84	YCASKSAAVRFAESIALELL
-20	38857816	38857875	DH_sc/Rdtase_SDR_(PR00080)	305.0	-
+20	38857819	38860638	DH_sc/Rdtase_SDR	92.5	-	38857819	38860638	83,88,95	4	2610,-134,-99,2761	0,510,249,58	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106
+20	38857837	38860635	PKS_KR	39.9	-	38857837	38860635	83,88,95	4	2592,-134,-99,2758	0,492,231,40	PF08659	http://pfam.sanger.ac.uk/family?acc=PF08659
+20	38860585	38860638	Glc/ribitol_DH	405.0	-	38860585	38860638	83,88,95	1	53	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+20	38858279	38858314	Glc/ribitol_DH	336.0	-	38858279	38858314	83,88,95	1	35	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+20	38857994	38858044	Glc/ribitol_DH	92.0	-	38857994	38858044	83,88,95	1	50	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+20	38857816	38857875	Glc/ribitol_DH	288.0	-	38857816	38857875	83,88,95	1	59	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+20	38857750	38857803	Glc/ribitol_DH	204.0	-	38857750	38857803	83,88,95	1	53	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+20	38858279	38858314	DH_sc/Rdtase_SDR	322.0	-	38858279	38858314	83,88,95	1	35	0	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+20	38857816	38857875	DH_sc/Rdtase_SDR	305.0	-	38857816	38857875	83,88,95	1	59	0	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080

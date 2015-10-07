@@ -1,37 +1,17 @@
-browser position chr15:1836441-1874553
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000059035	ENSDART00000149703	ENSDARP00000123832	1836441	1874553	###
-#	PR00371	IPR001709	308	318	\N	1.3e-34	40.86	YESGDHVAVYP
-15	1848289	1848321	Flavoprot_Pyr_Nucl_cyt_Rdtase_(PR00371)	253.0	-
-#	PR00371	IPR001709	448	455	\N	1.3e-34	73.42	RYYSISSS
-15	1844653	1844676	Flavoprot_Pyr_Nucl_cyt_Rdtase_(PR00371)	284.0	-
-#	PR00371	IPR001709	482	491	\N	1.3e-34	36.55	GVATNWLKNK
-15	1842382	1842411	Flavoprot_Pyr_Nucl_cyt_Rdtase_(PR00371)	180.0	-
-#	PR00371	IPR001709	522	541	\N	1.3e-34	59.2	IMIGPGTGIAPFIGFIQERG
-15	1842232	1842291	Flavoprot_Pyr_Nucl_cyt_Rdtase_(PR00371)	584.0	-
-#	PR00371	IPR001709	551	560	\N	1.3e-34	47.24	GETVLYFGCR
-15	1839825	1839854	Flavoprot_Pyr_Nucl_cyt_Rdtase_(PR00371)	240.0	-
-#	PR00371	IPR001709	564	575	\N	1.3e-34	46.07	EDFLYQEELAQF
-15	1839780	1839815	Flavoprot_Pyr_Nucl_cyt_Rdtase_(PR00371)	302.0	-
-#	PR00371	IPR001709	595	611	\N	1.3e-34	28.6	KVYVQHHLKNNKEAVWK
-15	1839243	1839722	Flavoprot_Pyr_Nucl_cyt_Rdtase_(PR00371)	182.0	-
-#	PR00371	IPR001709	619	627	\N	1.3e-34	51.21	HIYICGDAR
-15	1837945	1839221	Flavoprot_Pyr_Nucl_cyt_Rdtase_(PR00371)	288.0	-
-#	PR00369	IPR001094	75	88	\N	1.3e-24	51.56	VVFYGSQTGTAEEF
-15	1860566	1860607	Flavdoxin_(PR00369)	411.0	-
-#	PR00369	IPR001094	128	139	\N	1.3e-24	50.52	IFCLATYGEGDP
-15	1858979	1859014	Flavdoxin_(PR00369)	366.0	-
-#	PR00369	IPR001094	159	169	\N	1.3e-24	50.71	GLKYTVFALGN
-15	1856128	1858921	Flavdoxin_(PR00369)	302.0	-
-#	PR00369	IPR001094	183	202	\N	1.3e-24	51.41	DKRLEELGAQRIFDLGMGDD
-15	1856029	1856088	Flavdoxin_(PR00369)	513.0	-
-#	PF00667	IPR003097	268	487	\N	2.6999999999999994e-88	0.0	PPFDSKNPFLAPVTVNRKLNKGGERHLMHLELDITGSKIRYESGDHVAVYPINDTAMVNKIGELLAVDLDTVISLNNLDEESNKKHPFPCPTTYRTALTHYLDITNSPRTNVLYELAQYASDPKDQENMRKMASSSAEGKAQYQSWVLDSCRNIVAILEDLPSLRPPIDHLCELLPRLQARYYSISSSSKVHPNSIHICAVVVEYQTKTGRVNKGVATNW
-15	1842394	1851721	FAD-binding_1_(PF00667)	282.9	-
-#	PF00258	IPR008254	76	213	\N	8.4e-38	0.0	VFYGSQTGTAEEFSNRLAKDAHRYGMKGMAADPEEYDLSELSRMGEIDNSLAIFCLATYGEGDPTDNAQDFYDWLQEADADFSGLKYTVFALGNKTYEHYNAMGKYVDKRLEELGAQRIFDLGMGDDDGNLEEDFVSW
-15	1854901	1860604	Flavodoxin/NO_synth_(PF00258)	117.5	-
-#	PF00175	IPR001433	523	634	\N	9.300000000000001e-25	0.0	MIGPGTGIAPFIGFIQERGWLKEQGKEVGETVLYFGCRHKNEDFLYQEELAQFEKTGVLTTLNVAFSRDQAEKVYVQHHLKNNKEAVWKLVHTDNAHIYICGDARNMARDVQ
-15	1837924	1842288	OxRdtase_FAD/NAD-bd_(PF00175)	75.4	-
-#	PS50902	IPR008254	74	218	\N	0.0	0.0	IVVFYGSQTGTAEEFSNRLAKDAHRYGMKGMAADPEEYDLSELSRMGEIDNSLAIFCLATYGEGDPTDNAQDFYDWLQEADADFSGLKYTVFALGNKTYEHYNAMGKYVDKRLEELGAQRIFDLGMGDDDGNLEEDFVSWREQFW
-15	1854886	1860610	Flavodoxin/NO_synth_(PS50902)	33.133	-
-#	SSF63380	IPR017938	237	511	\N	1.2999999999999998e-90	0.0	RQYELKVHTDLNMNKVYTGELGRLKSFENQKPPFDSKNPFLAPVTVNRKLNKGGERHLMHLELDITGSKIRYESGDHVAVYPINDTAMVNKIGELLAVDLDTVISLNNLDEESNKKHPFPCPTTYRTALTHYLDITNSPRTNVLYELAQYASDPKDQENMRKMASSSAEGKAQYQSWVLDSCRNIVAILEDLPSLRPPIDHLCELLPRLQARYYSISSSSKVHPNSIHICAVVVEYQTKTGRVNKGVATNWLKNKMPTDNGHKATVPMYIRKSQF
-15	1842322	1851814	Riboflavin_synthase-like_b-brl_(SSF63380)	0.0	-
+15	1848289	1848321	Flavoprot_Pyr_Nucl_cyt_Rdtase	253.0	-	1848289	1848321	83,88,95	1	32	0	PR00371	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00371&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00371
+15	1844653	1844676	Flavoprot_Pyr_Nucl_cyt_Rdtase	284.0	-	1844653	1844676	83,88,95	1	23	0	PR00371	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00371&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00371
+15	1842382	1842411	Flavoprot_Pyr_Nucl_cyt_Rdtase	180.0	-	1842382	1842411	83,88,95	1	29	0	PR00371	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00371&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00371
+15	1842232	1842291	Flavoprot_Pyr_Nucl_cyt_Rdtase	584.0	-	1842232	1842291	83,88,95	1	59	0	PR00371	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00371&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00371
+15	1839825	1839854	Flavoprot_Pyr_Nucl_cyt_Rdtase	240.0	-	1839825	1839854	83,88,95	1	29	0	PR00371	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00371&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00371
+15	1839780	1839815	Flavoprot_Pyr_Nucl_cyt_Rdtase	302.0	-	1839780	1839815	83,88,95	1	35	0	PR00371	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00371&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00371
+15	1839243	1839722	Flavoprot_Pyr_Nucl_cyt_Rdtase	182.0	-	1839243	1839722	83,88,95	2	477,432	0,47	PR00371	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00371&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00371
+15	1837945	1839221	Flavoprot_Pyr_Nucl_cyt_Rdtase	288.0	-	1837945	1839221	83,88,95	2	1260,1267	0,9	PR00371	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00371&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00371
+15	1860566	1860607	Flavdoxin	411.0	-	1860566	1860607	83,88,95	1	41	0	PR00369	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00369&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00369
+15	1858979	1859014	Flavdoxin	366.0	-	1858979	1859014	83,88,95	1	35	0	PR00369	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00369&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00369
+15	1856128	1858921	Flavdoxin	302.0	-	1856128	1858921	83,88,95	2	2779,2776	0,17	PR00369	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00369&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00369
+15	1856029	1856088	Flavdoxin	513.0	-	1856029	1856088	83,88,95	1	59	0	PR00369	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00369&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00369
+15	1842394	1851721	FAD-binding_1	282.9	-	1842394	1851721	83,88,95	6	9326,-116,-118,-181,-149,9238	0,8948,5928,5673,2402,89	PF00667	http://pfam.sanger.ac.uk/family?acc=PF00667
+15	1854901	1860604	Flavodoxin/NO_synth	117.5	-	1854901	1860604	83,88,95	4	5590,-149,-124,5679	0,4155,1244,24	PF00258	http://pfam.sanger.ac.uk/family?acc=PF00258
+15	1837924	1842288	OxRdtase_FAD/NAD-bd	75.4	-	1837924	1842288	83,88,95	4	4292,-145,-85,4334	0,1941,1366,30	PF00175	http://pfam.sanger.ac.uk/family?acc=PF00175
+15	1854886	1860610	Flavodoxin/NO_synth	33.133	-	1854886	1860610	83,88,95	4	5605,-149,-124,5685	0,4170,1259,39	PS50902	http://www.expasy.ch/prosite/PS50902
+15	1842322	1851814	Riboflavin_synthase-like_b-brl	0.0	-	1842322	1851814	83,88,95	6	9398,-116,-118,-181,-149,9331	0,9020,6000,5745,2474,161	SSF63380	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF63380

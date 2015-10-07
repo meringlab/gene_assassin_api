@@ -1,11 +1,4 @@
-browser position chr6:23079383-23139437
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000003326	ENSDART00000151099	ENSDARP00000126045	23079383	23139437	###
-#	PR01792	IPR008368	17	35	\N	2.6e-24	56.2	AVCSLGLLGIAVSTDYWLY
-6	23113186	23113242	VDCC_gsu_(PR01792)	576.0	+
-#	PR01792	IPR008368	155	174	\N	2.6e-24	48.21	SGLSLVVGLVLYISSINDEM
-6	23120705	23121748	VDCC_gsu_(PR01792)	462.0	+
-#	PR01792	IPR008368	187	208	\N	2.6e-24	58.6	YKYGWSFAFAAVSFLLTEAAGV
-6	23121785	23139190	VDCC_gsu_(PR01792)	716.0	+
-#	PF00822	IPR004031	105	209	\N	3e-19	0.0	ASVLKMIRSATPFPLVSLFFMFIGFVLSNIGHIRPQRTILAFISGIFFILSGLSLVVGLVLYISSINDEMLNRTKTNEAYFSYKYGWSFAFAAVSFLLTEAAGVM
-6	23118180	23139193	PMP22/EMP/MP20/Claudin_(PF00822)	55.7	+
+6	23113186	23113242	VDCC_gsu	576.0	+	23113186	23113242	83,88,95	1	56	0	PR01792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01792
+6	23120705	23121748	VDCC_gsu	462.0	+	23120705	23121748	83,88,95	2	3,55	0,988	PR01792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01792
+6	23121785	23139190	VDCC_gsu	716.0	+	23121785	23139190	83,88,95	2	53,11	0,17394	PR01792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01792
+6	23118180	23139193	PMP22/EMP/MP20/Claudin	55.7	+	23118180	23139193	83,88,95	4	12,140,145,14	0,2388,3513,20999	PF00822	http://pfam.sanger.ac.uk/family?acc=PF00822

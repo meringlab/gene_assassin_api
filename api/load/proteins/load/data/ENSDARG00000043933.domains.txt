@@ -1,11 +1,4 @@
-browser position chr17:12573842-12576188
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000043933	ENSDART00000064511	ENSDARP00000064510	12573842	12576188	###
-#	PF06083	IPR010345	35	147	\N	2.6e-38	0.0	KNKNSHPEADHSYRLVLDAEFKASTNPIHPINNDSISPWTYMFTHNESLYPTSIAEAKCSLTGCLIDGVEVQDYESKPIYTQIMVLRRIRGEKPNYSFKLEYKTIAVGCTCVR
-17	12574216	12575944	IL-17_fam_(PF06083)	118.0	-
-#	PR01932	IPR020440	71	83	\N	3.2e-08	35.22	SPWTYMFTHNESL
-17	12574408	12575836	IL-17_chr_(PR01932)	267.0	-
-#	PR01932	IPR020440	90	99	\N	3.2e-08	52.63	EAKCSLTGCL
-17	12574360	12574389	IL-17_chr_(PR01932)	314.0	-
-#	PR01932	IPR020440	132	146	\N	3.2e-08	58.95	FKLEYKTIAVGCTCV
-17	12574219	12574263	IL-17_chr_(PR01932)	504.0	-
+17	12574216	12575944	IL-17_fam	118.0	-	12574216	12575944	83,88,95	2	1604,1515	0,213	PF06083	http://pfam.sanger.ac.uk/family?acc=PF06083
+17	12574408	12575836	IL-17_chr	267.0	-	12574408	12575836	83,88,95	2	1412,1407	0,21	PR01932	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01932&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01932
+17	12574360	12574389	IL-17_chr	314.0	-	12574360	12574389	83,88,95	1	29	0	PR01932	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01932&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01932
+17	12574219	12574263	IL-17_chr	504.0	-	12574219	12574263	83,88,95	1	44	0	PR01932	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01932&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01932

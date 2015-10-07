@@ -1,47 +1,22 @@
-browser position chr5:27222730-27227874
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000026726	ENSDART00000031665	ENSDARP00000028837	27222730	27227674	###
-#	SM00335	IPR018502	54	106	\N	4.2e-17	0.0	GVDEPTIIDTLVHRSNAQRQQIKAAYQQATSKPLDVALKNALKGELEDVVLGL
-5	27226452	27226690	Annexin_repeat_(SM00335)	72.8	-
-#	SM00335	IPR018502	126	178	\N	2.1000000000000004e-26	0.0	GTTEDTLIEILASRTNKEIGDIKQVYKQEYKKDLEADIKSDTSGDFRNALLSL
-5	27225269	27226127	Annexin_repeat_(SM00335)	103.7	-
-#	SM00335	IPR018502	210	262	\N	1.2e-10	0.0	GTDCSVFIDILTSRNGPHLRKVFQQYNKYSKVDVAKAIDLELKGDIESCLIAV
-5	27223666	27223919	Annexin_repeat_(SM00335)	51.4	-
-#	SM00335	IPR018502	285	337	\N	1.1000000000000001e-20	0.0	GYRGKILTRILVSRSEIDLANIKQEYQKKYGKSLYQDIQDDTKGDYETILLAL
-5	27222874	27223162	Annexin_repeat_(SM00335)	84.7	-
-#	PF00191	IPR018502	42	106	\N	1.4000000000000002e-23	0.0	DAAVLDKAIKAKGVDEPTIIDTLVHRSNAQRQQIKAAYQQATSKPLDVALKNALKGELEDVVLGL
-5	27226452	27226831	Annexin_repeat_(PF00191)	69.1	-
-#	PF00191	IPR018502	113	178	\N	6.6e-30	0.0	YDAFQLKYAMKGAGTTEDTLIEILASRTNKEIGDIKQVYKQEYKKDLEADIKSDTSGDFRNALLSL
-5	27225269	27226433	Annexin_repeat_(PF00191)	89.4	-
-#	PF00191	IPR018502	196	261	\N	1.6999999999999997e-23	0.0	KDARALYEAGEKRKGTDCSVFIDILTSRNGPHLRKVFQQYNKYSKVDVAKAIDLELKGDIESCLIA
-5	27223669	27225030	Annexin_repeat_(PF00191)	68.9	-
-#	PF00191	IPR018502	272	337	\N	1e-27	0.0	FFAEKLNLAMKGSGYRGKILTRILVSRSEIDLANIKQEYQKKYGKSLYQDIQDDTKGDYETILLAL
-5	27222874	27223303	Annexin_repeat_(PF00191)	82.4	-
-#	PR00196	IPR001464	51	73	\N	1.1e-58	59.18	KAKGVDEPTIIDTLVHRSNAQRQ
-5	27226631	27226804	Annexin_(PR00196)	631.0	-
-#	PR00196	IPR001464	91	107	\N	1.1e-58	48.69	LKNALKGELEDVVLGLL
-5	27226449	27226499	Annexin_(PR00196)	412.0	-
-#	PR00196	IPR001464	118	139	\N	1.1e-58	70.45	LKYAMKGAGTTEDTLIEILASR
-5	27226086	27226418	Annexin_(PR00196)	708.0	-
-#	PR00196	IPR001464	201	227	\N	1.1e-58	53.98	LYEAGEKRKGTDCSVFIDILTSRNGPH
-5	27223866	27223946	Annexin_(PR00196)	679.0	-
-#	PR00196	IPR001464	281	301	\N	1.1e-58	59.61	MKGSGYRGKILTRILVSRSEI
-5	27223112	27223276	Annexin_(PR00196)	577.0	-
-#	PR00196	IPR001464	325	338	\N	1.1e-58	65.34	DTKGDYETILLALC
-5	27222871	27222912	Annexin_(PR00196)	495.0	-
-#	PR00197	IPR002388	2	18	\N	7.299999999999999e-08	39.87	SFVSSFLEQLAYQGMQE
-5	27227166	27227216	AnnexinI_(PR00197)	283.0	-
-#	PR00197	IPR002388	79	88	\N	7.299999999999999e-08	62.22	YQQATSKPLD
-5	27226506	27226615	AnnexinI_(PR00197)	315.0	-
-#	PR00197	IPR002388	187	196	\N	7.299999999999999e-08	52.22	NIVKDDLADK
-5	27225028	27225057	AnnexinI_(PR00197)	210.0	-
-#	PR00197	IPR002388	257	271	\N	7.299999999999999e-08	48.89	SCLIAVVKCVSNKPA
-5	27223304	27223683	AnnexinI_(PR00197)	459.0	-
-#	PR00201	IPR002392	142	155	\N	3.7e-05	53.17	KEIGDIKQVYKQEY
-5	27225338	27226079	AnnexinV_(PR00201)	421.0	-
-#	PR00201	IPR002392	188	200	\N	3.7e-05	28.21	IVKDDLADKDARA
-5	27223947	27225054	AnnexinV_(PR00201)	164.0	-
-#	PR00201	IPR002392	230	242	\N	3.7e-05	35.9	KVFQQYNKYSKVD
-5	27223726	27223859	AnnexinV_(PR00201)	194.0	-
-#	PR00201	IPR002392	310	319	\N	3.7e-05	43.33	YQKKYGKSLY
-5	27223058	27223087	AnnexinV_(PR00201)	280.0	-
+5	27226452	27226690	Annexin_repeat	72.8	-	27226452	27226690	83,88,95	2	143,176	0,62	SM00335	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00335
+5	27225269	27226127	Annexin_repeat	103.7	-	27225269	27226127	83,88,95	2	774,785	0,73	SM00335	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00335
+5	27223666	27223919	Annexin_repeat	51.4	-	27223666	27223919	83,88,95	2	190,159	0,94	SM00335	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00335
+5	27222874	27223162	Annexin_repeat	84.7	-	27222874	27223162	83,88,95	2	172,247	0,41	SM00335	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00335
+5	27226452	27226831	Annexin_repeat	69.1	-	27226452	27226831	83,88,95	3	343,-94,317	0,237,62	PF00191	http://pfam.sanger.ac.uk/family?acc=PF00191
+5	27225269	27226433	Annexin_repeat	89.4	-	27225269	27226433	83,88,95	3	1132,-90,1091	0,864,73	PF00191	http://pfam.sanger.ac.uk/family?acc=PF00191
+5	27223669	27225030	Annexin_repeat	68.9	-	27223669	27225030	83,88,95	3	1350,-93,1270	0,280,91	PF00191	http://pfam.sanger.ac.uk/family?acc=PF00191
+5	27222874	27223303	Annexin_repeat	82.4	-	27222874	27223303	83,88,95	3	397,-122,388	0,294,41	PF00191	http://pfam.sanger.ac.uk/family?acc=PF00191
+5	27226631	27226804	Annexin	631.0	-	27226631	27226804	83,88,95	2	164,115	0,58	PR00196	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00196&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00196
+5	27226449	27226499	Annexin	412.0	-	27226449	27226499	83,88,95	1	50	0	PR00196	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00196&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00196
+5	27226086	27226418	Annexin	708.0	-	27226086	27226418	83,88,95	2	315,285	0,47	PR00196	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00196&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00196
+5	27223866	27223946	Annexin	679.0	-	27223866	27223946	83,88,95	1	80	0	PR00196	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00196&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00196
+5	27223112	27223276	Annexin	577.0	-	27223112	27223276	83,88,95	2	159,108	0,56	PR00196	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00196&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00196
+5	27222871	27222912	Annexin	495.0	-	27222871	27222912	83,88,95	1	41	0	PR00196	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00196&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00196
+5	27227166	27227216	AnnexinI	283.0	-	27227166	27227216	83,88,95	1	50	0	PR00197	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00197&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00197
+5	27226506	27226615	AnnexinI	315.0	-	27226506	27226615	83,88,95	2	89,101	0,8	PR00197	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00197&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00197
+5	27225028	27225057	AnnexinI	210.0	-	27225028	27225057	83,88,95	1	29	0	PR00197	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00197&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00197
+5	27223304	27223683	AnnexinI	459.0	-	27223304	27223683	83,88,95	2	361,354	0,25	PR00197	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00197&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00197
+5	27225338	27226079	AnnexinV	421.0	-	27225338	27226079	83,88,95	2	705,737	0,4	PR00201	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00201&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00201
+5	27223947	27225054	AnnexinV	164.0	-	27223947	27225054	83,88,95	2	1072,1105	0,2	PR00201	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00201&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00201
+5	27223726	27223859	AnnexinV	194.0	-	27223726	27223859	83,88,95	2	130,99	0,34	PR00201	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00201&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00201
+5	27223058	27223087	AnnexinV	280.0	-	27223058	27223087	83,88,95	1	29	0	PR00201	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00201&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00201

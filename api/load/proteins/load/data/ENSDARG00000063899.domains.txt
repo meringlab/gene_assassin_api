@@ -1,3 +1,7 @@
-browser position chrMT:4993-6039
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000063899	ENSDART00000093600	ENSDARP00000087870	4993	6039	###
+MT	5059	5796	NADH_UbQ/plastoQ_OxRdtase	179.3	+	5059	5796	83,88,95	1	737	0	PF00361	http://pfam.sanger.ac.uk/family?acc=PF00361
+MT	5860	6027	NADH_DH_su2_C	66.2	+	5860	6027	83,88,95	1	167	0	PF06444	http://pfam.sanger.ac.uk/family?acc=PF06444
+MT	5812	5871	NADH_UbQ_OxRdtase_chain2	552.0	+	5812	5871	83,88,95	1	59	0	PR01436	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01436&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01436
+MT	5716	5754	NADH_UbQ_OxRdtase_chain2	344.0	+	5716	5754	83,88,95	1	38	0	PR01436	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01436&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01436
+MT	5467	5508	NADH_UbQ_OxRdtase_chain2	547.0	+	5467	5508	83,88,95	1	41	0	PR01436	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01436&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01436
+MT	5539	5580	NADH_UbQ_OxRdtase_chain2	525.0	+	5539	5580	83,88,95	1	41	0	PR01436	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01436&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01436
+MT	5596	5652	NADH_UbQ_OxRdtase_chain2	358.0	+	5596	5652	83,88,95	1	56	0	PR01436	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01436&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01436

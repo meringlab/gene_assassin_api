@@ -1,47 +1,22 @@
-browser position chr14:33738538-33741051
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000092553	ENSDART00000105726	ENSDARP00000096504	33738541	33741051	###
-#	PF00153	IPR018108	6	101	\N	5.5e-32	0.0	ISFAKDFLAGGIAAAISKTAVAPIERVKLLLQVQHASKQITADKQYKGIMDCVVRIPKEQGFLSFWRGNLANVIRYFPTQALNFAFKDKYKKVFLD
-14	33739600	33740900	Mitochondrial_sb/sol_carrier_(PF00153)	95.9	-
-#	PF00153	IPR018108	112	203	\N	3.1000000000000004e-26	0.0	YFAGNLASGGAAGATSLCFVYPLDFARTRLAADVGKAGAEREFSGLGNCLVKISKSDGIKGLYQGFNVSVQGIIIYRAAYFGIYDTAKGMLP
-14	33739214	33739569	Mitochondrial_sb/sol_carrier_(PF00153)	77.5	-
-#	PF00153	IPR018108	209	297	\N	4e-19	0.0	HIVVSWMIAQSVTAVAGLASYPFDTVRRRMMMQSGRKGADIMYSGTIDCWRKIARDEGGKAFFKGAWSNVLRGMGGAFVLVLYDELKKV
-14	33738849	33739198	Mitochondrial_sb/sol_carrier_(PF00153)	54.7	-
-#	PR00784	IPR002030	39	58	\N	5.5e-06	20.0	QHASKQITADKQYKGIMDCV
-14	33739729	33739788	Mit_uncoupling_(PR00784)	228.0	-
-#	PR00784	IPR002030	13	25	\N	5.5e-06	29.59	LAGGIAAAISKTA
-14	33740841	33740879	Mit_uncoupling_(PR00784)	167.0	-
-#	PR00926	IPR002067	174	192	\N	1.0999999999999998e-69	66.95	YQGFNVSVQGIIIYRAAYF
-14	33739327	33739383	Mit_carrier_(PR00926)	673.0	-
-#	PR00926	IPR002067	126	144	\N	1.0999999999999998e-69	76.45	TSLCFVYPLDFARTRLAAD
-14	33739471	33739527	Mit_carrier_(PR00926)	722.0	-
-#	PR00926	IPR002067	11	24	\N	1.0999999999999998e-69	70.61	DFLAGGIAAAISKT
-14	33740844	33740885	Mit_carrier_(PR00926)	513.0	-
-#	PR00926	IPR002067	24	38	\N	1.0999999999999998e-69	81.09	TAVAPIERVKLLLQV
-14	33739789	33740846	Mit_carrier_(PR00926)	570.0	-
-#	PR00926	IPR002067	73	93	\N	1.0999999999999998e-69	82.9	GNLANVIRYFPTQALNFAFKD
-14	33739624	33739686	Mit_carrier_(PR00926)	896.0	-
-#	PR00927	IPR002113	213	229	\N	2.0999999999999996e-41	57.67	SWMIAQSVTAVAGLASY
-14	33739136	33739186	Aden_trnslctor_(PR00927)	481.0	-
-#	PR00927	IPR002113	111	124	\N	2.0999999999999996e-41	82.02	RYFAGNLASGGAAG
-14	33739531	33739572	Aden_trnslctor_(PR00927)	599.0	-
-#	PR00927	IPR002113	84	96	\N	2.0999999999999996e-41	89.56	TQALNFAFKDKYK
-14	33739615	33739653	Aden_trnslctor_(PR00927)	602.0	-
-#	PR00927	IPR002113	51	72	\N	2.0999999999999996e-41	64.3	YKGIMDCVVRIPKEQGFLSFWR
-14	33739687	33739752	Aden_trnslctor_(PR00927)	824.0	-
-#	PR00927	IPR002113	8	20	\N	2.0999999999999996e-41	68.43	FAKDFLAGGIAAA
-14	33740856	33740894	Aden_trnslctor_(PR00927)	459.0	-
-#	PR00926	IPR002067	217	239	\N	1.0999999999999998e-69	67.64	AQSVTAVAGLASYPFDTVRRRMM
-14	33739106	33739174	Mit_carrier_(PR00926)	750.0	-
-#	PR00784	IPR002030	286	298	\N	5.5e-06	17.13	FVLVLYDELKKVI
-14	33738846	33738884	Mit_uncoupling_(PR00784)	253.0	-
-#	PR00784	IPR002030	164	181	\N	5.5e-06	27.35	ISKSDGIKGLYQGFNVSV
-14	33739360	33739413	Mit_uncoupling_(PR00784)	312.0	-
-#	PS50920	IPR018108	6	98	\N	0.0	0.0	ISFAKDFLAGGIAAAISKTAVAPIERVKLLLQVQHASKQITADKQYKGIMDCVVRIPKEQGFLSFWRGNLANVIRYFPTQALNFAFKDKYKKV
-14	33739609	33740900	Mitochondrial_sb/sol_carrier_(PS50920)	29.055999999999997	-
-#	PS50920	IPR018108	111	201	\N	0.0	0.0	RYFAGNLASGGAAGATSLCFVYPLDFARTRLAADVGKAGAEREFSGLGNCLVKISKSDGIKGLYQGFNVSVQGIIIYRAAYFGIYDTAKGM
-14	33739220	33739572	Mitochondrial_sb/sol_carrier_(PS50920)	28.326999999999998	-
-#	PS50920	IPR018108	212	297	\N	0.0	0.0	VSWMIAQSVTAVAGLASYPFDTVRRRMMMQSGRKGADIMYSGTIDCWRKIARDEGGKAFFKGAWSNVLRGMGGAFVLVLYDELKKV
-14	33738849	33739189	Mitochondrial_sb/sol_carrier_(PS50920)	23.95	-
-#	SSF103506	IPR023395	3	294	\N	2e-85	0.0	ETAISFAKDFLAGGIAAAISKTAVAPIERVKLLLQVQHASKQITADKQYKGIMDCVVRIPKEQGFLSFWRGNLANVIRYFPTQALNFAFKDKYKKVFLDGVDKRTQFWRYFAGNLASGGAAGATSLCFVYPLDFARTRLAADVGKAGAEREFSGLGNCLVKISKSDGIKGLYQGFNVSVQGIIIYRAAYFGIYDTAKGMLPDPKNTHIVVSWMIAQSVTAVAGLASYPFDTVRRRMMMQSGRKGADIMYSGTIDCWRKIARDEGGKAFFKGAWSNVLRGMGGAFVLVLYDEL
-14	33738858	33740909	Mt_carrier_dom_(SSF103506)	0.0	-
+14	33739600	33740900	Mitochondrial_sb/sol_carrier	95.9	-	33739600	33740900	83,88,95	2	1205,1109	0,191	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+14	33739214	33739569	Mitochondrial_sb/sol_carrier	77.5	-	33739214	33739569	83,88,95	2	91,345	0,10	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+14	33738849	33739198	Mitochondrial_sb/sol_carrier	54.7	-	33738849	33739198	83,88,95	2	235,198	0,151	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+14	33739729	33739788	Mit_uncoupling	228.0	-	33739729	33739788	83,88,95	1	59	0	PR00784	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00784&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00784
+14	33740841	33740879	Mit_uncoupling	167.0	-	33740841	33740879	83,88,95	1	38	0	PR00784	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00784&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00784
+14	33739327	33739383	Mit_carrier	673.0	-	33739327	33739383	83,88,95	1	56	0	PR00926	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00926&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00926
+14	33739471	33739527	Mit_carrier	722.0	-	33739471	33739527	83,88,95	1	56	0	PR00926	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00926&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00926
+14	33740844	33740885	Mit_carrier	513.0	-	33740844	33740885	83,88,95	1	41	0	PR00926	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00926&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00926
+14	33739789	33740846	Mit_carrier	570.0	-	33739789	33740846	83,88,95	2	1016,1055	0,2	PR00926	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00926&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00926
+14	33739624	33739686	Mit_carrier	896.0	-	33739624	33739686	83,88,95	1	62	0	PR00926	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00926&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00926
+14	33739136	33739186	Aden_trnslctor	481.0	-	33739136	33739186	83,88,95	1	50	0	PR00927	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00927&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00927
+14	33739531	33739572	Aden_trnslctor	599.0	-	33739531	33739572	83,88,95	1	41	0	PR00927	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00927&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00927
+14	33739615	33739653	Aden_trnslctor	602.0	-	33739615	33739653	83,88,95	1	38	0	PR00927	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00927&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00927
+14	33739687	33739752	Aden_trnslctor	824.0	-	33739687	33739752	83,88,95	1	65	0	PR00927	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00927&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00927
+14	33740856	33740894	Aden_trnslctor	459.0	-	33740856	33740894	83,88,95	1	38	0	PR00927	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00927&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00927
+14	33739106	33739174	Mit_carrier	750.0	-	33739106	33739174	83,88,95	1	68	0	PR00926	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00926&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00926
+14	33738846	33738884	Mit_uncoupling	253.0	-	33738846	33738884	83,88,95	1	38	0	PR00784	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00784&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00784
+14	33739360	33739413	Mit_uncoupling	312.0	-	33739360	33739413	83,88,95	1	53	0	PR00784	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00784&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00784
+14	33739609	33740900	Mitochondrial_sb/sol_carrier	29.055999999999997	-	33739609	33740900	83,88,95	2	1196,1109	0,182	PS50920	http://www.expasy.ch/prosite/PS50920
+14	33739220	33739572	Mitochondrial_sb/sol_carrier	28.326999999999998	-	33739220	33739572	83,88,95	2	85,348	0,4	PS50920	http://www.expasy.ch/prosite/PS50920
+14	33738849	33739189	Mitochondrial_sb/sol_carrier	23.95	-	33738849	33739189	83,88,95	2	235,189	0,151	PS50920	http://www.expasy.ch/prosite/PS50920
+14	33738858	33740909	Mt_carrier_dom	0.0	-	33738858	33740909	83,88,95	4	1947,-486,-140,1909	0,933,366,142	SSF103506	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF103506

@@ -1,23 +1,10 @@
-browser position chr22:4827861-4833890
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000071676	ENSDART00000113942	ENSDARP00000099758	4827861	4833890	###
-#	PF01186	IPR001695	284	487	\N	9.399999999999997e-110	0.0	PDLIPDPYYIQAASYIQRVQMYTLRCAAEENCLSSSAYSSSVRDLDYRVLLRFPQRVKNQGTADFLPVKPHYDWEWHSCHQHYHSMDAFSNYDLLDAATGRKVAEGHKASFCLEDTSCDPGVRRRYACTAHTQQGLGPGCYDTYHANIDCQWIDITDVSLGDYILKVTVNPGFQVQESDFSNNVVRCDIRYTGLYVQTNNCRIT
-22	4829987	4833884	Lysyl_oxidase_(PF01186)	351.4	+
-#	PR00074	IPR001695	271	292	\N	6.999999999999999e-84	67.05	ETGHGTRYFLNGLPDLIPDPYY
-22	4828671	4830013	Lysyl_oxidase_(PR00074)	870.0	+
-#	PR00074	IPR001695	293	317	\N	6.999999999999999e-84	69.0	IQAASYIQRVQMYTLRCAAEENCLS
-22	4830014	4830088	Lysyl_oxidase_(PR00074)	1017.0	+
-#	PR00074	IPR001695	318	338	\N	6.999999999999999e-84	75.0	SSAYSSSVRDLDYRVLLRFPQ
-22	4830089	4830246	Lysyl_oxidase_(PR00074)	792.0	+
-#	PR00074	IPR001695	339	360	\N	6.999999999999999e-84	77.27	RVKNQGTADFLPVKPHYDWEWH
-22	4830247	4830312	Lysyl_oxidase_(PR00074)	1090.0	+
-#	PR00074	IPR001695	361	381	\N	6.999999999999999e-84	85.71	SCHQHYHSMDAFSNYDLLDAA
-22	4830313	4833179	Lysyl_oxidase_(PR00074)	1045.0	+
-#	PR00074	IPR001695	386	407	\N	6.999999999999999e-84	86.36	VAEGHKASFCLEDTSCDPGVRR
-22	4833192	4833257	Lysyl_oxidase_(PR00074)	1005.0	+
-#	PR00074	IPR001695	433	452	\N	6.999999999999999e-84	80.0	CQWIDITDVSLGDYILKVTV
-22	4833416	4833779	Lysyl_oxidase_(PR00074)	870.0	+
-#	PR00074	IPR001695	453	470	\N	6.999999999999999e-84	68.06	NPGFQVQESDFSNNVVRC
-22	4833780	4833833	Lysyl_oxidase_(PR00074)	712.0	+
-#	PR00074	IPR001695	471	488	\N	6.999999999999999e-84	40.79	DIRYTGLYVQTNNCRITG
-22	4833834	4833887	Lysyl_oxidase_(PR00074)	420.0	+
+22	4829987	4833884	Lysyl_oxidase	351.4	+	4829987	4833884	83,88,95	5	103,137,156,98,113	0,199,3141,3381,3784	PF01186	http://pfam.sanger.ac.uk/family?acc=PF01186
+22	4828671	4830013	Lysyl_oxidase	870.0	+	4828671	4830013	83,88,95	2	33,31	0,1311	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+22	4830014	4830088	Lysyl_oxidase	1017.0	+	4830014	4830088	83,88,95	1	74	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+22	4830089	4830246	Lysyl_oxidase	792.0	+	4830089	4830246	83,88,95	2	1,60	0,97	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+22	4830247	4830312	Lysyl_oxidase	1090.0	+	4830247	4830312	83,88,95	1	65	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+22	4830313	4833179	Lysyl_oxidase	1045.0	+	4830313	4833179	83,88,95	2	10,51	0,2815	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+22	4833192	4833257	Lysyl_oxidase	1005.0	+	4833192	4833257	83,88,95	1	65	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+22	4833416	4833779	Lysyl_oxidase	870.0	+	4833416	4833779	83,88,95	2	50,8	0,355	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+22	4833780	4833833	Lysyl_oxidase	712.0	+	4833780	4833833	83,88,95	1	53	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+22	4833834	4833887	Lysyl_oxidase	420.0	+	4833834	4833887	83,88,95	1	53	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074

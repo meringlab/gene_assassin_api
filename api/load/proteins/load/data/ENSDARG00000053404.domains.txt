@@ -1,21 +1,9 @@
-browser position chr21:44036737-44049033
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000053404	ENSDART00000151106	ENSDARP00000125818	44036737	44049033	###
-#	PF00149	IPR004843	51	243	\N	2.3e-46	0.0	PVTVCGDVHGQFHDLMELFRIGGKSPDTNYLFMGDYVDRGYYSVETVSLLVALKVRYRERVTILRGNHESRQITQVYGFYDECLRKYGNANVWKFFTDLFDYLPLTALVDGQIFCLHGGLSPSIDTLDHIRALDRLQEVPHEGPMCDLLWSDPDDRGGWGISPRGAGYTFGQDISETFNHANGLTLVSRAHQL
-21	44041208	44044587	PEstase_dom_(PF00149)	144.0	-
-#	PR00114	IPR006186	233	253	\N	1.6999999999999996e-91	47.83	GLTLVSRAHQLVMEGYNWCHD
-21	44040912	44041240	Ser/Thr-sp_prot-phosphatase_(PR00114)	520.0	-
-#	PR00114	IPR006186	177	204	\N	1.6999999999999996e-91	58.71	LDHIRALDRLQEVPHEGPMCDLLWSDPD
-21	44041325	44041484	Ser/Thr-sp_prot-phosphatase_(PR00114)	890.0	-
-#	PR00114	IPR006186	148	174	\N	1.6999999999999996e-91	58.87	DLFDYLPLTALVDGQIFCLHGGLSPSI
-21	44041491	44041789	Ser/Thr-sp_prot-phosphatase_(PR00114)	917.0	-
-#	PR00114	IPR006186	113	137	\N	1.6999999999999996e-91	68.45	ILRGNHESRQITQVYGFYDECLRKY
-21	44041820	44041894	Ser/Thr-sp_prot-phosphatase_(PR00114)	990.0	-
-#	PR00114	IPR006186	80	107	\N	1.6999999999999996e-91	67.48	YLFMGDYVDRGYYSVETVSLLVALKVRY
-21	44041910	44044500	Ser/Thr-sp_prot-phosphatase_(PR00114)	1025.0	-
-#	PR00114	IPR006186	51	78	\N	1.6999999999999996e-91	59.93	PVTVCGDVHGQFHDLMELFRIGGKSPDT
-21	44044504	44044587	Ser/Thr-sp_prot-phosphatase_(PR00114)	1009.0	-
-#	PR00114	IPR006186	255	271	\N	1.6999999999999996e-91	66.21	NVVTIFSAPNYCYRCGN
-21	44040858	44040908	Ser/Thr-sp_prot-phosphatase_(PR00114)	617.0	-
-#	SM00156	IPR006186	23	293	\N	5.6999999999999985e-154	0.0	LSETQVKTLCEKAKEILTKESNVQEVRCPVTVCGDVHGQFHDLMELFRIGGKSPDTNYLFMGDYVDRGYYSVETVSLLVALKVRYRERVTILRGNHESRQITQVYGFYDECLRKYGNANVWKFFTDLFDYLPLTALVDGQIFCLHGGLSPSIDTLDHIRALDRLQEVPHEGPMCDLLWSDPDDRGGWGISPRGAGYTFGQDISETFNHANGLTLVSRAHQLVMEGYNWCHDRNVVTIFSAPNYCYRCGNQAAIMELDDTLKYSFLQFDPAP
-21	44037507	44048669	Ser/Thr-sp_prot-phosphatase_(SM00156)	527.5	-
+21	44041208	44044587	PEstase_dom	144.0	-	44041208	44044587	83,88,95	4	3218,-173,-89,3227	0,710,318,152	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149
+21	44040912	44041240	Ser/Thr-sp_prot-phosphatase	520.0	-	44040912	44041240	83,88,95	2	287,308	0,20	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+21	44041325	44041484	Ser/Thr-sp_prot-phosphatase	890.0	-	44041325	44041484	83,88,95	2	112,124	0,35	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+21	44041491	44041789	Ser/Thr-sp_prot-phosphatase	917.0	-	44041491	44041789	83,88,95	2	254,263	0,35	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+21	44041820	44041894	Ser/Thr-sp_prot-phosphatase	990.0	-	44041820	44041894	83,88,95	1	74	0	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+21	44041910	44044500	Ser/Thr-sp_prot-phosphatase	1025.0	-	44041910	44044500	83,88,95	2	2516,2582	0,8	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+21	44044504	44044587	Ser/Thr-sp_prot-phosphatase	1009.0	-	44044504	44044587	83,88,95	1	83	0	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+21	44040858	44040908	Ser/Thr-sp_prot-phosphatase	617.0	-	44040858	44040908	83,88,95	1	50	0	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+21	44037507	44048669	Ser/Thr-sp_prot-phosphatase	527.5	-	44037507	44048669	83,88,95	7	11127,-209,-173,-89,-161,-118,11141	0,7128,4411,4019,3853,3425,21	SM00156	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00156

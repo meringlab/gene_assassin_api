@@ -1,21 +1,9 @@
-browser position chr2:14921325-14927551
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000005673	ENSDART00000027171	ENSDARP00000002953	14921325	14927551	###
-#	PR00346	IPR001187	34	53	\N	1.1e-24	63.0	ATNVSWTSYNFKTILSWGPK
-2	14921743	14921802	Tissue_factor_(PR00346)	714.0	+
-#	PR00346	IPR001187	80	104	\N	1.1e-24	36.0	TETECDLTNDLDINEVYSAEVLSEP
-2	14922531	14922605	Tissue_factor_(PR00346)	321.0	+
-#	PR00346	IPR001187	121	145	\N	1.1e-24	31.2	KIFRPYDDTLIGRPQFTLTVSIDKK
-2	14922654	14922819	Tissue_factor_(PR00346)	306.0	+
-#	PR00346	IPR001187	147	171	\N	1.1e-24	28.8	VLTIQDPITALHKDNRSLNIRDIFK
-2	14922823	14922897	Tissue_factor_(PR00346)	392.0	+
-#	PR00346	IPR001187	172	196	\N	1.1e-24	38.4	KNLKYKVAYSKAGSTGKKIKVVEES
-2	14922898	14924016	Tissue_factor_(PR00346)	455.0	+
-#	PR00346	IPR001187	246	269	\N	1.1e-24	17.5	YGLAVIGGAALATLAFVIAVIVLI
-2	14927065	14927136	Tissue_factor_(PR00346)	206.0	+
-#	PF09294	IPR015373	129	235	\N	2.1000000000000003e-22	0.0	TLIGRPQFTLTVSIDKKLVLTIQDPITALHKDNRSLNIRDIFKKNLKYKVAYSKAGSTGKKIKVVEESRAEFNRLDEDQSYCFSVAAYIPNRKGDKRLGEWSLPKCS
-2	14922769	14924133	Interferon_alpha/beta_rcpt_bsu_(PF09294)	66.6	+
-#	SSF49265	IPR003961	132	235	\N	3.2e-26	0.0	GRPQFTLTVSIDKKLVLTIQDPITALHKDNRSLNIRDIFKKNLKYKVAYSKAGSTGKKIKVVEESRAEFNRLDEDQSYCFSVAAYIPNRKGDKRLGEWSLPKCS
-2	14922778	14924133	Fibronectin_type3_(SSF49265)	0.0	+
-#	SSF49265	IPR003961	31	139	\N	1.6e-22	0.0	LTKATNVSWTSYNFKTILSWGPKPVNYTYTVEFSRTNRDKQRNPHCIRSTETECDLTNDLDINEVYSAEVLSEPLPSMNIDQVEPPYSRSKIFRPYDDTLIGRPQFTLT
-2	14921734	14922801	Fibronectin_type3_(SSF49265)	0.0	+
+2	14921743	14921802	Tissue_factor	714.0	+	14921743	14921802	83,88,95	1	59	0	PR00346	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00346&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00346
+2	14922531	14922605	Tissue_factor	321.0	+	14922531	14922605	83,88,95	1	74	0	PR00346	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00346&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00346
+2	14922654	14922819	Tissue_factor	306.0	+	14922654	14922819	83,88,95	2	24,49	0,116	PR00346	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00346&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00346
+2	14922823	14922897	Tissue_factor	392.0	+	14922823	14922897	83,88,95	1	74	0	PR00346	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00346&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00346
+2	14922898	14924016	Tissue_factor	455.0	+	14922898	14924016	83,88,95	2	50,23	0,1095	PR00346	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00346&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00346
+2	14927065	14927136	Tissue_factor	206.0	+	14927065	14927136	83,88,95	1	71	0	PR00346	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00346&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00346
+2	14922769	14924133	Interferon_alpha/beta_rcpt_bsu	66.6	+	14922769	14924133	83,88,95	2	179,140	0,1224	PF09294	http://pfam.sanger.ac.uk/family?acc=PF09294
+2	14922778	14924133	Fibronectin_type3	0.0	+	14922778	14924133	83,88,95	2	170,140	0,1215	SSF49265	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49265
+2	14921734	14922801	Fibronectin_type3	0.0	+	14921734	14922801	83,88,95	3	103,190,31	0,754,1036	SSF49265	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49265

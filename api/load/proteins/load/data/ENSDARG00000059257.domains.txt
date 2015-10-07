@@ -1,29 +1,13 @@
-browser position chr12:327933-331844
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000059257	ENSDART00000082333	ENSDARP00000076769	327933	331844	###
-#	PR00450	IPR001125	167	187	\N	1.9000000000000001e-53	41.03	ITEGEFIQGVMDNKHILRLIQ
-12	330974	331036	Recoverin_like_(PR00450)	403.0	+
-#	PR00450	IPR001125	141	156	\N	1.9000000000000001e-53	67.55	LPDDENTPEKRTDKIW
-12	330608	330655	Recoverin_like_(PR00450)	633.0	+
-#	PR00450	IPR001125	115	133	\N	1.9000000000000001e-53	45.95	GSITKNEIHEIVKSIFNMI
-12	328275	330586	Recoverin_like_(PR00450)	463.0	+
-#	PR00450	IPR001125	93	112	\N	1.9000000000000001e-53	64.04	TSSGKTVEKLEWAFALYDVD
-12	328209	328268	Recoverin_like_(PR00450)	714.0	+
-#	PR00450	IPR001125	69	90	\N	1.9000000000000001e-53	63.81	VFRSFDADSDGTLDFKEYIVAL
-12	328137	328202	Recoverin_like_(PR00450)	791.0	+
-#	PR00450	IPR001125	9	23	\N	1.9000000000000001e-53	38.72	LSRDVLQELQTSTTY
-12	327957	328001	Recoverin_like_(PR00450)	299.0	+
-#	PR00450	IPR001125	23	42	\N	1.9000000000000001e-53	42.31	YSQEQLFSWYQKFLNECPTG
-12	327999	328058	Recoverin_like_(PR00450)	627.0	+
-#	SM00054	IPR002048	65	93	\N	0.0023	0.0	YAQHVFRSFDADSDGTLDFKEYIVALHLT
-12	328125	328211	EF_hand_dom_(SM00054)	27.2	+
-#	SM00054	IPR002048	101	129	\N	9.6e-05	0.0	KLEWAFALYDVDRNGSITKNEIHEIVKSI
-12	328233	330574	EF_hand_dom_(SM00054)	31.8	+
-#	SM00054	IPR002048	151	179	\N	50.0	0.0	RTDKIWDFFGKKENGKITEGEFIQGVMDN
-12	330638	331012	EF_hand_dom_(SM00054)	4.0	+
-#	PS50222	IPR002048	61	96	\N	0.0	0.0	DPGAYAQHVFRSFDADSDGTLDFKEYIVALHLTSSG
-12	328113	328220	EF_hand_dom_(PS50222)	12.392999999999999	+
-#	PS50222	IPR002048	97	132	\N	0.0	0.0	KTVEKLEWAFALYDVDRNGSITKNEIHEIVKSIFNM
-12	328221	330583	EF_hand_dom_(PS50222)	13.035	+
-#	PS50222	IPR002048	147	182	\N	0.0	0.0	TPEKRTDKIWDFFGKKENGKITEGEFIQGVMDNKHI
-12	330626	331021	EF_hand_dom_(PS50222)	8.934	+
+12	330974	331036	Recoverin_like	403.0	+	330974	331036	83,88,95	1	62	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+12	330608	330655	Recoverin_like	633.0	+	330608	330655	83,88,95	1	47	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+12	328275	330586	Recoverin_like	463.0	+	328275	330586	83,88,95	2	38,17	0,2294	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+12	328209	328268	Recoverin_like	714.0	+	328209	328268	83,88,95	1	59	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+12	328137	328202	Recoverin_like	791.0	+	328137	328202	83,88,95	1	65	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+12	327957	328001	Recoverin_like	299.0	+	327957	328001	83,88,95	1	44	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+12	327999	328058	Recoverin_like	627.0	+	327999	328058	83,88,95	1	59	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+12	328125	328211	EF_hand_dom	27.2	+	328125	328211	83,88,95	1	86	0	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+12	328233	330574	EF_hand_dom	31.8	+	328233	330574	83,88,95	2	80,5	0,2336	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+12	330638	331012	EF_hand_dom	4.0	+	330638	331012	83,88,95	2	42,43	0,331	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+12	328113	328220	EF_hand_dom	12.392999999999999	+	328113	328220	83,88,95	1	107	0	PS50222	http://www.expasy.ch/prosite/PS50222
+12	328221	330583	EF_hand_dom	13.035	+	328221	330583	83,88,95	2	92,14	0,2348	PS50222	http://www.expasy.ch/prosite/PS50222
+12	330626	331021	EF_hand_dom	8.934	+	330626	331021	83,88,95	2	54,52	0,343	PS50222	http://www.expasy.ch/prosite/PS50222

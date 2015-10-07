@@ -1,9 +1,3 @@
-browser position chr1:49938536-49941291
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000096003	ENSDART00000150842	ENSDARP00000125356	49938556	49941197	###
-#	PR01821	IPR009125	47	58	\N	6.499999999999999e-20	45.83	LKPKKQKAVTSS
-1	49938737	49938772	DAPIT_(PR01821)	270.0	-
-#	PR01821	IPR009125	9	27	\N	6.499999999999999e-20	82.89	QHQFTGIAKYFNSYTITGR
-1	49940466	49940522	DAPIT_(PR01821)	870.0	-
-#	PR01821	IPR009125	28	46	\N	6.499999999999999e-20	65.79	RNCVLATYASIAAIILFFK
-1	49938773	49940465	DAPIT_(PR01821)	695.0	-
+1	49938737	49938772	DAPIT	270.0	-	49938737	49938772	83,88,95	1	35	0	PR01821	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01821&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01821
+1	49940466	49940522	DAPIT	870.0	-	49940466	49940522	83,88,95	1	56	0	PR01821	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01821&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01821
+1	49938773	49940465	DAPIT	695.0	-	49938773	49940465	83,88,95	2	1687,1642	0,50	PR01821	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01821&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01821

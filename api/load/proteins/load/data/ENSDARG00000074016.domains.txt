@@ -1,43 +1,20 @@
-browser position chr11:13090424-13097423
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000074016	ENSDART00000108968	ENSDARP00000103644	13090424	13097423	###
-#	PF00001	IPR000276	58	308	\N	1.8999999999999998e-32	0.0	KSKAAFLLFASGLVITDFLGHLINGSLALYVYVSQKEWETFDNHKSLCDFFGVCMAFFGLTPLLLGCLMAVERCIGVTRPLFHTTALGSHHVKRLLGVTWLLGLLVALLPVLFQRSYQVQRSRSWCFFRLQGPRDWMDTLLPILFSALGLLALLVSLLCNTMTFLTLLRSRVQLDRNNHRHSRKASHHSEMVCQLLAIMLVSCVCWGPILLTKKNCNLSLQDRGEDQTSYTHMLLVVRMATWNQILDPWVY
-11	13090595	13095910	GPCR_Rhodpsn_(PF00001)	100.3	+
-#	PF10328	IPR019430	34	252	\N	3e-08	0.0	MTVGIVSNTLALFILIKAYHRFRYKSKAAFLLFASGLVITDFLGHLINGSLALYVYVSQKEWETFDNHKSLCDFFGVCMAFFGLTPLLLGCLMAVERCIGVTRPLFHTTALGSHHVKRLLGVTWLLGLLVALLPVLFQRSYQVQRSRSWCFFRLQGPRDWMDTLLPILFSALGLLALLVSLLCNTMTFLTLLRSRVQLDRNNHRHSRKASHHSEMVCQL
-11	13090523	13091179	7TM_GPCR_serpentine_rcpt_Srx_(PF10328)	21.0	+
-#	PR01788	IPR008365	39	51	\N	2.4e-25	45.25	VSNTLALFILIKA
-11	13090538	13090576	Prostanoid_rcpt_(PR01788)	269.0	+
-#	PR01788	IPR008365	62	78	\N	2.4e-25	51.56	AFLLFASGLVITDFLGH
-11	13090607	13090657	Prostanoid_rcpt_(PR01788)	433.0	+
-#	PR01788	IPR008365	104	117	\N	2.4e-25	58.96	LCDFFGVCMAFFGL
-11	13090733	13090774	Prostanoid_rcpt_(PR01788)	462.0	+
-#	PR01788	IPR008365	167	184	\N	2.4e-25	41.83	PVLFQRSYQVQRSRSWCF
-11	13090922	13090975	Prostanoid_rcpt_(PR01788)	403.0	+
-#	PR01788	IPR008365	251	262	\N	2.4e-25	52.29	QLLAIMLVSCVC
-11	13091174	13091209	Prostanoid_rcpt_(PR01788)	311.0	+
-#	PR00429	IPR001105	69	82	\N	8.6e-15	70.24	GLVITDFLGHLING
-11	13090628	13090669	Thbox_rcpt_(PR00429)	526.0	+
-#	PR00429	IPR001105	108	123	\N	8.6e-15	73.96	FGVCMAFFGLTPLLLG
-11	13090745	13090792	Thbox_rcpt_(PR00429)	602.0	+
-#	PR00429	IPR001105	171	186	\N	8.6e-15	43.75	QRSYQVQRSRSWCFFR
-11	13090934	13090981	Thbox_rcpt_(PR00429)	344.0	+
-#	PR00855	IPR000141	22	36	\N	3.6000000000000004e-14	37.33	KREVSVTSTGISMTV
-11	13090487	13090531	PglndnF_rcpt_(PR00855)	209.0	+
-#	PR00855	IPR000141	50	65	\N	3.6000000000000004e-14	76.25	KAYHRFRYKSKAAFLL
-11	13090571	13090618	PglndnF_rcpt_(PR00855)	602.0	+
-#	PR00855	IPR000141	168	181	\N	3.6000000000000004e-14	45.71	VLFQRSYQVQRSRS
-11	13090925	13090966	PglndnF_rcpt_(PR00855)	356.0	+
-#	PR00855	IPR000141	185	202	\N	3.6000000000000004e-14	25.56	FRLQGPRDWMDTLLPILF
-11	13090976	13091029	PglndnF_rcpt_(PR00855)	268.0	+
-#	PR00855	IPR000141	318	335	\N	3.6000000000000004e-14	25.56	RLFKVALRLCSRHLKFTF
-11	13095938	13095991	PglndnF_rcpt_(PR00855)	186.0	+
-#	PR00855	IPR000141	337	355	\N	3.6000000000000004e-14	33.68	WQSSNLGSSTMEASSSTLP
-11	13095995	13096100	PglndnF_rcpt_(PR00855)	301.0	+
-#	PR00582	IPR000265	48	66	\N	5e-05	37.17	LIKAYHRFRYKSKAAFLLF
-11	13090565	13090621	Prostglndn_EP3_rcpt_(PR00582)	304.0	+
-#	PR00582	IPR000265	90	105	\N	5e-05	38.28	VSQKEWETFDNHKSLC
-11	13090691	13090738	Prostglndn_EP3_rcpt_(PR00582)	348.0	+
-#	PR00582	IPR000265	106	119	\N	5e-05	50.0	DFFGVCMAFFGLTP
-11	13090739	13090780	Prostglndn_EP3_rcpt_(PR00582)	369.0	+
-#	PS50262	IPR017452	40	308	\N	0.0	0.0	SNTLALFILIKAYHRFRYKSKAAFLLFASGLVITDFLGHLINGSLALYVYVSQKEWETFDNHKSLCDFFGVCMAFFGLTPLLLGCLMAVERCIGVTRPLFHTTALGSHHVKRLLGVTWLLGLLVALLPVLFQRSYQVQRSRSWCFFRLQGPRDWMDTLLPILFSALGLLALLVSLLCNTMTFLTLLRSRVQLDRNNHRHSRKASHHSEMVCQLLAIMLVSCVCWGPILLTKKNCNLSLQDRGEDQTSYTHMLLVVRMATWNQILDPWVY
-11	13090541	13095910	GPCR_Rhodpsn_7TM_(PS50262)	23.721999999999998	+
+11	13090595	13095910	GPCR_Rhodpsn	100.3	+	13090595	13095910	83,88,95	3	629,25,96	0,2376,5219	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+11	13090523	13091179	7TM_GPCR_serpentine_rcpt_Srx	21.0	+	13090523	13091179	83,88,95	1	656	0	PF10328	http://pfam.sanger.ac.uk/family?acc=PF10328
+11	13090538	13090576	Prostanoid_rcpt	269.0	+	13090538	13090576	83,88,95	1	38	0	PR01788	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01788&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01788
+11	13090607	13090657	Prostanoid_rcpt	433.0	+	13090607	13090657	83,88,95	1	50	0	PR01788	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01788&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01788
+11	13090733	13090774	Prostanoid_rcpt	462.0	+	13090733	13090774	83,88,95	1	41	0	PR01788	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01788&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01788
+11	13090922	13090975	Prostanoid_rcpt	403.0	+	13090922	13090975	83,88,95	1	53	0	PR01788	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01788&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01788
+11	13091174	13091209	Prostanoid_rcpt	311.0	+	13091174	13091209	83,88,95	1	35	0	PR01788	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01788&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01788
+11	13090628	13090669	Thbox_rcpt	526.0	+	13090628	13090669	83,88,95	1	41	0	PR00429	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00429&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00429
+11	13090745	13090792	Thbox_rcpt	602.0	+	13090745	13090792	83,88,95	1	47	0	PR00429	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00429&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00429
+11	13090934	13090981	Thbox_rcpt	344.0	+	13090934	13090981	83,88,95	1	47	0	PR00429	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00429&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00429
+11	13090487	13090531	PglndnF_rcpt	209.0	+	13090487	13090531	83,88,95	1	44	0	PR00855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00855
+11	13090571	13090618	PglndnF_rcpt	602.0	+	13090571	13090618	83,88,95	1	47	0	PR00855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00855
+11	13090925	13090966	PglndnF_rcpt	356.0	+	13090925	13090966	83,88,95	1	41	0	PR00855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00855
+11	13090976	13091029	PglndnF_rcpt	268.0	+	13090976	13091029	83,88,95	1	53	0	PR00855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00855
+11	13095938	13095991	PglndnF_rcpt	186.0	+	13095938	13095991	83,88,95	1	53	0	PR00855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00855
+11	13095995	13096100	PglndnF_rcpt	301.0	+	13095995	13096100	83,88,95	2	47,8	0,97	PR00855	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00855&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00855
+11	13090565	13090621	Prostglndn_EP3_rcpt	304.0	+	13090565	13090621	83,88,95	1	56	0	PR00582	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00582&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00582
+11	13090691	13090738	Prostglndn_EP3_rcpt	348.0	+	13090691	13090738	83,88,95	1	47	0	PR00582	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00582&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00582
+11	13090739	13090780	Prostglndn_EP3_rcpt	369.0	+	13090739	13090780	83,88,95	1	41	0	PR00582	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00582&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00582
+11	13090541	13095910	GPCR_Rhodpsn_7TM	23.721999999999998	+	13090541	13095910	83,88,95	3	683,25,96	0,2430,5273	PS50262	http://www.expasy.ch/prosite/PS50262

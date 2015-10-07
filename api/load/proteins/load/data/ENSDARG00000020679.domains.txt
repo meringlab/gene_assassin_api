@@ -1,15 +1,6 @@
-browser position chr3:34214801-34222074
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000020679	ENSDART00000131951	ENSDARP00000116965	34214801	34222074	###
-#	PR00127	IPR001907	45	60	\N	3.8e-46	54.69	DIYSRLLRERIICVMG
-3	34220959	34221006	ClpP_(PR00127)	417.0	-
-#	PR00127	IPR001907	85	105	\N	3.8e-46	63.21	PIHMYINSPGGVVTSGLAIYD
-3	34218594	34220781	ClpP_(PR00127)	712.0	-
-#	PR00127	IPR001907	116	133	\N	3.8e-46	66.11	TWCVGQAASMGSLLLAAG
-3	34218510	34218563	ClpP_(PR00127)	576.0	-
-#	PR00127	IPR001907	137	156	\N	3.8e-46	55.25	MRHSLPNARIMVHQPSGGAR
-3	34218441	34218500	ClpP_(PR00127)	608.0	-
-#	PR00127	IPR001907	194	213	\N	3.8e-46	47.88	VMERDRYMSPMEAQDFGIID
-3	34215312	34215371	ClpP_(PR00127)	509.0	-
-#	PF00574	IPR023562	39	217	\N	2.6999999999999995e-82	0.0	RGERAYDIYSRLLRERIICVMGPIDDSVASLVIAQLLFLQSESNNKPIHMYINSPGGVVTSGLAIYDTMQYILNPISTWCVGQAASMGSLLLAAGTAGMRHSLPNARIMVHQPSGGARGQATDIAIQAEEILKLKRQINNIYSKHTGQLLETIESVMERDRYMSPMEAQDFGIIDKVLV
-3	34215300	34221024	ClpP/TepA_(PF00574)	261.2	-
+3	34220959	34221006	ClpP	417.0	-	34220959	34221006	83,88,95	1	47	0	PR00127	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00127&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00127
+3	34218594	34220781	ClpP	712.0	-	34218594	34220781	83,88,95	2	2160,2153	0,34	PR00127	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00127&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00127
+3	34218510	34218563	ClpP	576.0	-	34218510	34218563	83,88,95	1	53	0	PR00127	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00127&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00127
+3	34218441	34218500	ClpP	608.0	-	34218441	34218500	83,88,95	1	59	0	PR00127	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00127&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00127
+3	34215312	34215371	ClpP	509.0	-	34215312	34215371	83,88,95	1	59	0	PR00127	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00127&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00127
+3	34215300	34221024	ClpP/TepA	261.2	-	34215300	34221024	83,88,95	5	5656,-96,-187,-105,5648	0,5550,3328,3056,76	PF00574	http://pfam.sanger.ac.uk/family?acc=PF00574

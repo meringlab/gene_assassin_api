@@ -1,3 +1,4 @@
-browser position chrMT:12897-14717
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000063921	ENSDART00000093622	ENSDARP00000087879	12897	14717	###
+MT	13296	14096	NADH_UbQ/plastoQ_OxRdtase	272.3	+	13296	14096	83,88,95	1	800	0	PF00361	http://pfam.sanger.ac.uk/family?acc=PF00361
+MT	14163	14699	NADH_DH_su5_C	169.8	+	14163	14699	83,88,95	1	536	0	PF06455	http://pfam.sanger.ac.uk/family?acc=PF06455
+MT	13086	13262	NADH_UbQ_OxRdtase_chain5/L_N	63.1	+	13086	13262	83,88,95	1	176	0	PF00662	http://pfam.sanger.ac.uk/family?acc=PF00662
+MT	12966	14696	NADHpl_OxRdtase_5	453.8	+	12966	14696	83,88,95	1	1730	0	TIGR01974	http://www.ebi.ac.uk/interpro/signature/TIGR01974

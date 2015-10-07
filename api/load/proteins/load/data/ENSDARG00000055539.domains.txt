@@ -1,21 +1,9 @@
-browser position chr21:27907451-27917942
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000055539	ENSDART00000077910	ENSDARP00000072376	27907451	27917942	###
-#	SM00026	IPR001299	21	211	\N	1.9000000000000003e-21	0.0	EPCKSPPLLEGALTVFLPSQHWRVFEKFSYDAIGQNVRVLAAGTDGNQTFLTDLLLLYREGVSYEIHYRNQTCIKQALKEPFRHLGVPHNAHFLSQMVLGSSSLPGQGLLVNVWNGTWEETKSHYLMTYTEFGCIPVSIADFTQKAELGELTSFFDLVEGIENPDVFIPPSFCDSVEVLPPRKSASSSFIP
-21	27907564	27917790	Ependymin_(SM00026)	87.3	-
-#	PF00811	IPR001299	64	193	\N	4e-49	0.0	TDGNQTFLTDLLLLYREGVSYEIHYRNQTCIKQALKEPFRHLGVPHNAHFLSQMVLGSSSLPGQGLLVNVWNGTWEETKSHYLMTYTEFGCIPVSIADFTQKAELGELTSFFDLVEGIENPDVFIPPSFC
-21	27907618	27914132	Ependymin_(PF00811)	152.2	-
-#	PR00317	IPR001299	21	40	\N	1.7e-22	30.91	EPCKSPPLLEGALTVFLPSQ
-21	27914202	27917790	Ependymin_(PR00317)	290.0	-
-#	PR00317	IPR001299	46	68	\N	1.7e-22	23.32	EKFSYDAIGQNVRVLAAGTDGNQ
-21	27914118	27914186	Ependymin_(PR00317)	216.0	-
-#	PR00317	IPR001299	75	95	\N	1.7e-22	48.05	LLLYREGVSYEIHYRNQTCIK
-21	27913275	27914099	Ependymin_(PR00317)	558.0	-
-#	PR00317	IPR001299	103	121	\N	1.7e-22	29.67	RHLGVPHNAHFLSQMVLGS
-21	27913197	27913253	Ependymin_(PR00317)	216.0	-
-#	PR00317	IPR001299	140	157	\N	1.7e-22	40.4	ETKSHYLMTYTEFGCIPV
-21	27912859	27913142	Ependymin_(PR00317)	407.0	-
-#	PR00317	IPR001299	170	184	\N	1.7e-22	26.67	ELTSFFDLVEGIENP
-21	27907645	27912822	Ependymin_(PR00317)	140.0	-
-#	PR00317	IPR001299	185	200	\N	1.7e-22	40.91	DVFIPPSFCDSVEVLP
-21	27907597	27907644	Ependymin_(PR00317)	400.0	-
+21	27907564	27917790	Ependymin	87.3	-	27907564	27917790	83,88,95	6	10217,-34,-134,-186,-90,10112	0,10100,6652,5755,5338,114	SM00026	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00026
+21	27907618	27914132	Ependymin	152.2	-	27907618	27914132	83,88,95	4	6464,-186,-90,6454	0,5701,5284,60	PF00811	http://pfam.sanger.ac.uk/family?acc=PF00811
+21	27914202	27917790	Ependymin	290.0	-	27914202	27917790	83,88,95	3	3579,-34,3574	0,3462,14	PR00317	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00317&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00317
+21	27914118	27914186	Ependymin	216.0	-	27914118	27914186	83,88,95	1	68	0	PR00317	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00317&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00317
+21	27913275	27914099	Ependymin	558.0	-	27913275	27914099	83,88,95	2	807,780	0,44	PR00317	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00317&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00317
+21	27913197	27913253	Ependymin	216.0	-	27913197	27913253	83,88,95	1	56	0	PR00317	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00317&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00317
+21	27912859	27913142	Ependymin	407.0	-	27912859	27913142	83,88,95	2	274,240	0,43	PR00317	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00317&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00317
+21	27907645	27912822	Ependymin	140.0	-	27907645	27912822	83,88,95	2	5167,5144	0,33	PR00317	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00317&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00317
+21	27907597	27907644	Ependymin	400.0	-	27907597	27907644	83,88,95	1	47	0	PR00317	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00317&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00317

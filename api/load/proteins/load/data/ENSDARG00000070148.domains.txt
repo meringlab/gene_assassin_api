@@ -1,27 +1,12 @@
-browser position chr6:24281760-24313721
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000070148	ENSDART00000131242	ENSDARP00000120009	24281760	24313721	###
-#	PS01033	IPR000971	19	158	\N	0.0	0.0	LTDVERGIIKDTWARVYASCEDVGVTILIRFFVNFPSAKQYFSQFQDMEDPEEMEKSSQLRKHARRVMNAINTVVENLHDPEKVSSVLVLVGKAHAFKYKVEPIYFKILSGVILEILAEEFGECFTPEVQTSWSKLMAAL
-6	24282132	24312253	Globin_(PS01033)	36.155	+
-#	PF00042	IPR000971	24	131	\N	2.3e-27	0.0	RGIIKDTWARVYASCEDVGVTILIRFFVNFPSAKQYFSQFQDMEDPEEMEKSSQLRKHARRVMNAINTVVENLHDPEKVSSVLVLVGKAHAFKYKVEPIYFKILSGVI
-6	24282147	24312172	Globin_(PF00042)	81.9	+
-#	PR01906	IPR013314	26	39	\N	2.2e-17	36.9	IIKDTWARVYASCE
-6	24282153	24282194	Globin_lamprey/hagfish_(PR01906)	290.0	+
-#	PR01906	IPR013314	48	64	\N	2.2e-17	35.78	RFFVNFPSAKQYFSQFQ
-6	24282219	24299857	Globin_lamprey/hagfish_(PR01906)	386.0	+
-#	PR01906	IPR013314	72	87	\N	2.2e-17	37.5	MEKSSQLRKHARRVMN
-6	24299879	24299926	Globin_lamprey/hagfish_(PR01906)	365.0	+
-#	PR01906	IPR013314	88	106	\N	2.2e-17	34.65	AINTVVENLHDPEKVSSVL
-6	24299927	24299983	Globin_lamprey/hagfish_(PR01906)	298.0	+
-#	PR01906	IPR013314	109	127	\N	2.2e-17	36.84	VGKAHAFKYKVEPIYFKIL
-6	24299990	24312160	Globin_lamprey/hagfish_(PR01906)	377.0	+
-#	PR00613	IPR002335	23	37	\N	6.6e-09	25.69	ERGIIKDTWARVYAS
-6	24282144	24282188	Myoglobin_(PR00613)	204.0	+
-#	PR00613	IPR002335	42	65	\N	6.6e-09	33.17	GVTILIRFFVNFPSAKQYFSQFQD
-6	24282201	24299860	Myoglobin_(PR00613)	402.0	+
-#	PR00613	IPR002335	75	95	\N	6.6e-09	27.11	SSQLRKHARRVMNAINTVVEN
-6	24299888	24299950	Myoglobin_(PR00613)	343.0	+
-#	PR00613	IPR002335	143	172	\N	6.6e-09	22.0	FTPEVQTSWSKLMAALYWHITGAYTEVGWV
-6	24312206	24312295	Myoglobin_(PR00613)	240.0	+
-#	SSF46458	IPR009050	18	171	\N	4.6e-46	0.0	PLTDVERGIIKDTWARVYASCEDVGVTILIRFFVNFPSAKQYFSQFQDMEDPEEMEKSSQLRKHARRVMNAINTVVENLHDPEKVSSVLVLVGKAHAFKYKVEPIYFKILSGVILEILAEEFGECFTPEVQTSWSKLMAALYWHITGAYTEVGW
-6	24282129	24312292	Globin-like_(SSF46458)	0.0	+
+6	24282132	24312253	Globin	36.155	+	24282132	24312253	83,88,95	3	88,231,98	0,17677,30023	PS01033	http://www.expasy.ch/prosite/PS01033
+6	24282147	24312172	Globin	81.9	+	24282147	24312172	83,88,95	3	73,231,17	0,17662,30008	PF00042	http://pfam.sanger.ac.uk/family?acc=PF00042
+6	24282153	24282194	Globin_lamprey/hagfish	290.0	+	24282153	24282194	83,88,95	1	41	0	PR01906	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01906&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01906
+6	24282219	24299857	Globin_lamprey/hagfish	386.0	+	24282219	24299857	83,88,95	2	1,48	0,17590	PR01906	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01906&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01906
+6	24299879	24299926	Globin_lamprey/hagfish	365.0	+	24299879	24299926	83,88,95	1	47	0	PR01906	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01906&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01906
+6	24299927	24299983	Globin_lamprey/hagfish	298.0	+	24299927	24299983	83,88,95	1	56	0	PR01906	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01906&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01906
+6	24299990	24312160	Globin_lamprey/hagfish	377.0	+	24299990	24312160	83,88,95	2	50,5	0,12165	PR01906	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01906&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01906
+6	24282144	24282188	Myoglobin	204.0	+	24282144	24282188	83,88,95	1	44	0	PR00613	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00613&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00613
+6	24282201	24299860	Myoglobin	402.0	+	24282201	24299860	83,88,95	2	19,51	0,17608	PR00613	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00613&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00613
+6	24299888	24299950	Myoglobin	343.0	+	24299888	24299950	83,88,95	1	62	0	PR00613	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00613&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00613
+6	24312206	24312295	Myoglobin	240.0	+	24312206	24312295	83,88,95	1	89	0	PR00613	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00613&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00613
+6	24282129	24312292	Globin-like	0.0	+	24282129	24312292	83,88,95	3	91,231,137	0,17680,30026	SSF46458	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46458

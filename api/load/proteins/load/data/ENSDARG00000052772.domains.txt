@@ -1,13 +1,5 @@
-browser position chr12:3829676-3846927
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000052772	ENSDART00000074692	ENSDARP00000069178	3829676	3846917	###
-#	PF00890	IPR003953	64	104	\N	3.1e-12	0.0	DAIIIGSGIGGMTAAATMAKSGKKVLVLEQHDVAGGCCHTF
-12	3844049	3844171	FAD_bind_dom_(PF00890)	34.9	-
-#	PF01593	IPR002937	72	193	\N	4.6e-12	0.0	IGGMTAAATMAKSGKKVLVLEQHDVAGGCCHTFTEKGFEFDVGLHYFGQLHENGLLKVAMDQISEGQLEFVELPQHFDSIVIDDKGKRRDYPILSGRVEMEQNLKKLFPNDVKAVEEFFKVM
-12	3842444	3844147	Amino_oxidase_(PF01593)	34.5	-
-#	PR00891	IPR018203	64	82	\N	5.5e-05	25.38	DAIIIGSGIGGMTAAATMA
-12	3844115	3844171	GDP_dissociation_inhibitor_(PR00891)	272.0	-
-#	PR00891	IPR018203	82	99	\N	5.5e-05	39.09	AKSGKKVLVLEQHDVAGG
-12	3844064	3844117	GDP_dissociation_inhibitor_(PR00891)	344.0	-
-#	PR00891	IPR018203	288	309	\N	5.5e-05	25.81	GASEIPFHVTKVIQKYGGSVLV
-12	3839042	3839107	GDP_dissociation_inhibitor_(PR00891)	282.0	-
+12	3844049	3844171	FAD_bind_dom	34.9	-	3844049	3844171	83,88,95	1	122	0	PF00890	http://pfam.sanger.ac.uk/family?acc=PF00890
+12	3842444	3844147	Amino_oxidase	34.5	-	3842444	3844147	83,88,95	2	1577,1465	0,238	PF01593	http://pfam.sanger.ac.uk/family?acc=PF01593
+12	3844115	3844171	GDP_dissociation_inhibitor	272.0	-	3844115	3844171	83,88,95	1	56	0	PR00891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00891
+12	3844064	3844117	GDP_dissociation_inhibitor	344.0	-	3844064	3844117	83,88,95	1	53	0	PR00891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00891
+12	3839042	3839107	GDP_dissociation_inhibitor	282.0	-	3839042	3839107	83,88,95	1	65	0	PR00891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00891

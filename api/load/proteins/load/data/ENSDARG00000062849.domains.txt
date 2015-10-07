@@ -1,37 +1,17 @@
-browser position chr20:10353383-10407366
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000062849	ENSDART00000141877	ENSDARP00000119931	10353383	10407366	###
-#	PF07885	IPR013099	166	223	\N	1.3e-22	0.0	SSHWDLGSSFFFAGTVITTIGYGNIAPSTEGGKIFCILYAIFGIPLFGFLLAGVGDQL
-20	10388362	10391703	2pore_dom_K_chnl_dom_(PF07885)	65.9	+
-#	PF07885	IPR013099	263	342	\N	2.8999999999999996e-21	0.0	CILFVTIPAIIFKHIEGWTGLEAIYFVVITLTTVGIGDYVAGGNRRIEYRKWYRPLVWFWILVGLAYFAAVLSMIGDWLR
-20	10397436	10402713	2pore_dom_K_chnl_dom_(PF07885)	61.5	+
-#	PR01499	IPR003976	80	97	\N	3.3999999999999994e-67	66.67	LLTVMKWKTVLAVFVVVV
-20	10360997	10361050	2pore_dom_K_chnl_TREK_(PR01499)	639.0	+
-#	PR01499	IPR003976	117	129	\N	3.3999999999999994e-67	36.54	YQKDSITLKKAAF
-20	10361108	10361146	2pore_dom_K_chnl_TREK_(PR01499)	247.0	+
-#	PR01499	IPR003976	131	149	\N	3.3999999999999994e-67	48.68	LKHPCVTPDELEELIKHSV
-20	10361150	10388313	2pore_dom_K_chnl_TREK_(PR01499)	470.0	+
-#	PR01499	IPR003976	158	170	\N	3.3999999999999994e-67	59.62	PIGDTSYNSSHWD
-20	10388338	10388376	2pore_dom_K_chnl_TREK_(PR01499)	499.0	+
-#	PR01499	IPR003976	208	227	\N	3.3999999999999994e-67	98.75	GIPLFGFLLAGVGDQLGTIF
-20	10391656	10391715	2pore_dom_K_chnl_TREK_(PR01499)	1027.0	+
-#	PR01499	IPR003976	251	262	\N	3.3999999999999994e-67	64.58	RVASTLLFILAG
-20	10397400	10397435	2pore_dom_K_chnl_TREK_(PR01499)	402.0	+
-#	PR01499	IPR003976	307	322	\N	3.3999999999999994e-67	59.38	RRIEYRKWYRPLVWFW
-20	10402606	10402653	2pore_dom_K_chnl_TREK_(PR01499)	642.0	+
-#	PR01499	IPR003976	329	340	\N	3.3999999999999994e-67	95.83	YFAAVLSMIGDW
-20	10402672	10402707	2pore_dom_K_chnl_TREK_(PR01499)	597.0	+
-#	PR01499	IPR003976	342	358	\N	3.3999999999999994e-67	80.88	RVLSKKTKMEVGEIKAH
-20	10402711	10405585	2pore_dom_K_chnl_TREK_(PR01499)	692.0	+
-#	PR01499	IPR003976	378	392	\N	3.3999999999999994e-67	66.67	SVEVHDKLQRAATIR
-20	10405643	10405687	2pore_dom_K_chnl_TREK_(PR01499)	549.0	+
-#	PR01333	IPR003280	180	208	\N	2.4e-15	59.41	TVITTIGYGNIAPSTEGGKIFCILYAIFG
-20	10388404	10391658	2pore_dom_K_chnl_(PR01333)	949.0	+
-#	PR01333	IPR003280	294	303	\N	2.4e-15	60.81	TTVGIGDYVA
-20	10397529	10397558	2pore_dom_K_chnl_(PR01333)	354.0	+
-#	PR01691	IPR008074	154	169	\N	9.5e-08	31.25	AGVSPIGDTSYNSSHW
-20	10388326	10388373	2pore_dom_K_chnl_TRAAK_(PR01691)	225.0	+
-#	PR01691	IPR008074	258	273	\N	9.5e-08	50.0	FILAGCILFVTIPAII
-20	10397421	10397468	2pore_dom_K_chnl_TRAAK_(PR01691)	500.0	+
-#	PR01691	IPR008074	339	356	\N	9.5e-08	41.67	DWLRVLSKKTKMEVGEIK
-20	10402702	10405579	2pore_dom_K_chnl_TRAAK_(PR01691)	490.0	+
+20	10388362	10391703	2pore_dom_K_chnl_dom	65.9	+	10388362	10391703	83,88,95	2	60,112	0,3229	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
+20	10397436	10402713	2pore_dom_K_chnl_dom	61.5	+	10397436	10402713	83,88,95	2	123,115	0,5162	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
+20	10360997	10361050	2pore_dom_K_chnl_TREK	639.0	+	10360997	10361050	83,88,95	1	53	0	PR01499	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01499&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01499
+20	10361108	10361146	2pore_dom_K_chnl_TREK	247.0	+	10361108	10361146	83,88,95	1	38	0	PR01499	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01499&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01499
+20	10361150	10388313	2pore_dom_K_chnl_TREK	470.0	+	10361150	10388313	83,88,95	2	47,8	0,27155	PR01499	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01499&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01499
+20	10388338	10388376	2pore_dom_K_chnl_TREK	499.0	+	10388338	10388376	83,88,95	1	38	0	PR01499	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01499&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01499
+20	10391656	10391715	2pore_dom_K_chnl_TREK	1027.0	+	10391656	10391715	83,88,95	1	59	0	PR01499	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01499&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01499
+20	10397400	10397435	2pore_dom_K_chnl_TREK	402.0	+	10397400	10397435	83,88,95	1	35	0	PR01499	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01499&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01499
+20	10402606	10402653	2pore_dom_K_chnl_TREK	642.0	+	10402606	10402653	83,88,95	1	47	0	PR01499	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01499&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01499
+20	10402672	10402707	2pore_dom_K_chnl_TREK	597.0	+	10402672	10402707	83,88,95	1	35	0	PR01499	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01499&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01499
+20	10402711	10405585	2pore_dom_K_chnl_TREK	692.0	+	10402711	10405585	83,88,95	2	29,20	0,2854	PR01499	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01499&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01499
+20	10405643	10405687	2pore_dom_K_chnl_TREK	549.0	+	10405643	10405687	83,88,95	1	44	0	PR01499	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01499&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01499
+20	10388404	10391658	2pore_dom_K_chnl	949.0	+	10388404	10391658	83,88,95	2	18,67	0,3187	PR01333	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01333&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01333
+20	10397529	10397558	2pore_dom_K_chnl	354.0	+	10397529	10397558	83,88,95	1	29	0	PR01333	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01333&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01333
+20	10388326	10388373	2pore_dom_K_chnl_TRAAK	225.0	+	10388326	10388373	83,88,95	1	47	0	PR01691	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01691&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01691
+20	10397421	10397468	2pore_dom_K_chnl_TRAAK	500.0	+	10397421	10397468	83,88,95	1	47	0	PR01691	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01691&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01691
+20	10402702	10405579	2pore_dom_K_chnl_TRAAK	490.0	+	10402702	10405579	83,88,95	2	38,14	0,2863	PR01691	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01691&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01691

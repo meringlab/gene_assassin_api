@@ -1,19 +1,8 @@
-browser position chr11:45483492-45493291
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000044636	ENSDART00000138234	ENSDARP00000114754	45483492	45493262	###
-#	PF02064	IPR002056	10	52	\N	1.8000000000000002e-12	0.0	AAGLGAALFVGYCIYFDRKRRSDPNYKNKLRERRKKQKAAQEK
-11	45490023	45493157	MAS20_rcpt-related_(PF02064)	33.6	-
-#	PR01989	IPR022422	4	21	\N	5.3e-29	58.33	GSSSRIAAGLGAALFVGY
-11	45493122	45493175	MAS20_rcpt_metazoan_(PR01989)	516.0	-
-#	PR01989	IPR022422	33	49	\N	5.3e-29	74.51	PNYKNKLRERRKKQKAA
-11	45490032	45493088	MAS20_rcpt_metazoan_(PR01989)	692.0	-
-#	PR01989	IPR022422	59	72	\N	5.3e-29	92.86	PDLKDAEAVQKFFL
-11	45489837	45489878	MAS20_rcpt_metazoan_(PR01989)	651.0	-
-#	PR01989	IPR022422	74	88	\N	5.3e-29	68.89	EIQLGEELLAQAYRQ
-11	45483977	45489833	MAS20_rcpt_metazoan_(PR01989)	466.0	-
-#	PR00351	IPR002056	20	41	\N	7.7e-18	57.36	GYCIYFDRKRRSDPNYKNKLRE
-11	45493062	45493127	MAS20_rcpt-related_(PR00351)	778.0	-
-#	PR00351	IPR002056	59	81	\N	7.7e-18	47.48	PDLKDAEAVQKFFLEEIQLGEEL
-11	45489810	45489878	MAS20_rcpt-related_(PR00351)	522.0	-
-#	SSF47157	IPR023392	52	84	\N	5.6e-06	0.0	KAGLSRLPDLKDAEAVQKFFLEEIQLGEELLAQ
-11	45489801	45490025	Tom20_dom_(SSF47157)	0.0	-
+11	45490023	45493157	MAS20_rcpt-related	33.6	-	45490023	45493157	83,88,95	2	3038,3103	0,31	PF02064	http://pfam.sanger.ac.uk/family?acc=PF02064
+11	45493122	45493175	MAS20_rcpt_metazoan	516.0	-	45493122	45493175	83,88,95	1	53	0	PR01989	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01989&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01989
+11	45490032	45493088	MAS20_rcpt_metazoan	692.0	-	45490032	45493088	83,88,95	2	3029,3034	0,22	PR01989	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01989&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01989
+11	45489837	45489878	MAS20_rcpt_metazoan	651.0	-	45489837	45489878	83,88,95	1	41	0	PR01989	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01989&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01989
+11	45483977	45489833	MAS20_rcpt_metazoan	466.0	-	45483977	45489833	83,88,95	2	5823,5846	0,10	PR01989	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01989&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01989
+11	45493062	45493127	MAS20_rcpt-related	778.0	-	45493062	45493127	83,88,95	1	65	0	PR00351	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00351&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00351
+11	45489810	45489878	MAS20_rcpt-related	522.0	-	45489810	45489878	83,88,95	1	68	0	PR00351	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00351&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00351
+11	45489801	45490025	Tom20_dom	0.0	-	45489801	45490025	83,88,95	2	207,144	0,80	SSF47157	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47157

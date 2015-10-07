@@ -1,21 +1,9 @@
-browser position chr9:47606307-47616531
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000007099	ENSDART00000009790	ENSDARP00000015225	47606307	47616531	###
-#	PR00206	IPR000500	76	96	\N	3.7999999999999995e-64	43.92	FWVFQIILITTPTIMYLGFAM
-9	47610757	47610819	Connexin_(PR00206)	601.0	-
-#	PR00206	IPR000500	51	73	\N	3.7999999999999995e-64	75.71	FVCNTQQPGCENVCYDAFAPLSH
-9	47610826	47610894	Connexin_(PR00206)	1072.0	-
-#	PR00206	IPR000500	20	44	\N	3.7999999999999995e-64	46.83	VGKIWLTLFIIFRIVLTVVGGESIY
-9	47610913	47610987	Connexin_(PR00206)	693.0	-
-#	PR00206	IPR000500	226	249	\N	3.7999999999999995e-64	43.03	IFLLIMYAVSCLCLSLTVLEILHL
-9	47610298	47610369	Connexin_(PR00206)	548.0	-
-#	PR00206	IPR000500	205	225	\N	3.7999999999999995e-64	76.03	CTRSPCPHTVDCFVSRPTEKT
-9	47610370	47610432	Connexin_(PR00206)	975.0	-
-#	PR00206	IPR000500	169	195	\N	3.7999999999999995e-64	43.93	LMKVYILQLLSRIIFEVGFLFGQYILY
-9	47610460	47610540	Connexin_(PR00206)	653.0	-
-#	PF10582	IPR019570	183	249	\N	5.799999999999999e-35	0.0	FEVGFLFGQYILYGFEVAPSYVCTRSPCPHTVDCFVSRPTEKTIFLLIMYAVSCLCLSLTVLEILHL
-9	47610298	47610498	Connexin_CCC_(PF10582)	106.5	-
-#	PF00029	IPR013092	2	104	\N	1.4999999999999999e-53	0.0	SWSFLTRLLDEISNHSTFVGKIWLTLFIIFRIVLTVVGGESIYYDEQSKFVCNTQQPGCENVCYDAFAPLSHVRFWVFQIILITTPTIMYLGFAMHKIARSND
-9	47610733	47611041	Connexin_N_(PF00029)	166.8	-
-#	SM00037	IPR013092	42	75	\N	1.1e-17	0.0	SIYYDEQSKFVCNTQQPGCENVCYDAFAPLSHVR
-9	47610820	47610921	Connexin_N_(SM00037)	74.7	-
+9	47610757	47610819	Connexin	601.0	-	47610757	47610819	83,88,95	1	62	0	PR00206	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00206&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00206
+9	47610826	47610894	Connexin	1072.0	-	47610826	47610894	83,88,95	1	68	0	PR00206	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00206&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00206
+9	47610913	47610987	Connexin	693.0	-	47610913	47610987	83,88,95	1	74	0	PR00206	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00206&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00206
+9	47610298	47610369	Connexin	548.0	-	47610298	47610369	83,88,95	1	71	0	PR00206	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00206&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00206
+9	47610370	47610432	Connexin	975.0	-	47610370	47610432	83,88,95	1	62	0	PR00206	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00206&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00206
+9	47610460	47610540	Connexin	653.0	-	47610460	47610540	83,88,95	1	80	0	PR00206	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00206&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00206
+9	47610298	47610498	Connexin_CCC	106.5	-	47610298	47610498	83,88,95	1	200	0	PF10582	http://pfam.sanger.ac.uk/family?acc=PF10582
+9	47610733	47611041	Connexin_N	166.8	-	47610733	47611041	83,88,95	1	308	0	PF00029	http://pfam.sanger.ac.uk/family?acc=PF00029
+9	47610820	47610921	Connexin_N	74.7	-	47610820	47610921	83,88,95	1	101	0	SM00037	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00037

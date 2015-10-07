@@ -1,43 +1,20 @@
-browser position chr11:892247-893851
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000052425	ENSDART00000074283	ENSDARP00000068772	892247	893851	###
-#	PF00001	IPR000276	69	515	\N	1.2999999999999999e-77	0.0	NLLVLFAVRKERTLHTVGNLYIVSLSIADLIVGATVMPLNLVYLLEDQWKLGHVVCQFWLVMDYVASTASIFSLFILCLDRYRSVRHPLQYLKYRTRGRATLLICSAWLLSMTWTIPILGWRMFASVDKKTELENQCDTDFRFVTWFKVLTAILNFYIPSFLMLVFYSQIFIAVRDHYREWENFAGPALKTDATDTLTNGLQLQITKASEKESLALNAYSQNEGLLDQYSLEQPYNSRENTEEMTSEPKRKMCYKKKAIFNLSKRMRKSVPDSEISFQSDDGETVAEGRPSLSLAFLQSENTAQPQTFINVSDCNVLVPNSVGNICESAPTVDIHNYTAVLCTPPSPPSPWAENSPPLDASIALPAKQSWQKLCEQSKQSIHSMRIRKERKAARQLGFIIGVFMVCWIPYFITFMVMALCETCVHHDLHMFTIWLGYINSTLNPFIY
-11	892307	893647	GPCR_Rhodpsn_(PF00001)	247.7	-
-#	PF10320	IPR019424	64	247	\N	2e-12	0.0	LTVIMNLLVLFAVRKERTLHTVGNLYIVSLSIADLIVGATVMPLNLVYLLEDQWKLGHVVCQFWLVMDYVASTASIFSLFILCLDRYRSVRHPLQYLKYRTRGRATLLICSAWLLSMTWTIPILGWRMFASVDKKTELENQCDTDFRFVTWFKVLTAILNFYIPSFLMLVFYSQIFIAVRDHYR
-11	893111	893662	7TM_GPCR_olfarory/Srsx_(PF10320)	34.1	-
-#	PR00237	IPR000276	53	77	\N	1e-42	24.65	VLGIFLGMLSLLTVIMNLLVLFAVR
-11	893621	893695	GPCR_Rhodpsn_(PR00237)	215.0	-
-#	PR00237	IPR000276	86	107	\N	1e-42	33.49	GNLYIVSLSIADLIVGATVMPL
-11	893531	893596	GPCR_Rhodpsn_(PR00237)	325.0	-
-#	PR00237	IPR000276	131	153	\N	1e-42	32.54	DYVASTASIFSLFILCLDRYRSV
-11	893393	893461	GPCR_Rhodpsn_(PR00237)	331.0	-
-#	PR00237	IPR000276	167	188	\N	1e-42	24.07	RATLLICSAWLLSMTWTIPILG
-11	893288	893353	GPCR_Rhodpsn_(PR00237)	217.0	-
-#	PR00237	IPR000276	216	239	\N	1e-42	25.75	KVLTAILNFYIPSFLMLVFYSQIF
-11	893135	893206	GPCR_Rhodpsn_(PR00237)	282.0	-
-#	PR00237	IPR000276	460	484	\N	1e-42	31.26	AARQLGFIIGVFMVCWIPYFITFMV
-11	892400	892474	GPCR_Rhodpsn_(PR00237)	469.0	-
-#	PR00237	IPR000276	497	523	\N	1e-42	33.3	HMFTIWLGYINSTLNPFIYPLCNENFK
-11	892283	892363	GPCR_Rhodpsn_(PR00237)	444.0	-
-#	PR00530	IPR000921	179	192	\N	7.000000000000001e-22	65.71	SMTWTIPILGWRMF
-11	893276	893317	Histamine_H1_rcpt_(PR00530)	548.0	-
-#	PR00530	IPR000921	205	223	\N	7.000000000000001e-22	71.58	CDTDFRFVTWFKVLTAILN
-11	893183	893239	Histamine_H1_rcpt_(PR00530)	806.0	-
-#	PR00530	IPR000921	438	455	\N	7.000000000000001e-22	22.22	WQKLCEQSKQSIHSMRIR
-11	892487	892540	Histamine_H1_rcpt_(PR00530)	288.0	-
-#	PR00530	IPR000921	481	492	\N	7.000000000000001e-22	51.67	TFMVMALCETCV
-11	892376	892411	Histamine_H1_rcpt_(PR00530)	372.0	-
-#	PR00530	IPR000921	516	530	\N	7.000000000000001e-22	76.0	PLCNENFKRVFKKIF
-11	892262	892306	Histamine_H1_rcpt_(PR00530)	681.0	-
-#	PR00243	IPR000995	53	65	\N	1.3e-08	37.46	VLGIFLGMLSLLT
-11	893657	893695	Musac_Ach_rcpt_(PR00243)	224.0	-
-#	PR00243	IPR000995	132	141	\N	1.3e-08	55.65	YVASTASIFS
-11	893429	893458	Musac_Ach_rcpt_(PR00243)	292.0	-
-#	PR00243	IPR000995	151	165	\N	1.3e-08	41.45	RSVRHPLQYLKYRTR
-11	893357	893401	Musac_Ach_rcpt_(PR00243)	215.0	-
-#	PR00243	IPR000995	487	505	\N	1.3e-08	31.12	LCETCVHHDLHMFTIWLGY
-11	892337	892393	Musac_Ach_rcpt_(PR00243)	324.0	-
-#	PR00243	IPR000995	518	532	\N	1.3e-08	33.62	CNENFKRVFKKIFHM
-11	892256	892300	Musac_Ach_rcpt_(PR00243)	308.0	-
-#	PS50262	IPR017452	68	515	\N	0.0	0.0	MNLLVLFAVRKERTLHTVGNLYIVSLSIADLIVGATVMPLNLVYLLEDQWKLGHVVCQFWLVMDYVASTASIFSLFILCLDRYRSVRHPLQYLKYRTRGRATLLICSAWLLSMTWTIPILGWRMFASVDKKTELENQCDTDFRFVTWFKVLTAILNFYIPSFLMLVFYSQIFIAVRDHYREWENFAGPALKTDATDTLTNGLQLQITKASEKESLALNAYSQNEGLLDQYSLEQPYNSRENTEEMTSEPKRKMCYKKKAIFNLSKRMRKSVPDSEISFQSDDGETVAEGRPSLSLAFLQSENTAQPQTFINVSDCNVLVPNSVGNICESAPTVDIHNYTAVLCTPPSPPSPWAENSPPLDASIALPAKQSWQKLCEQSKQSIHSMRIRKERKAARQLGFIIGVFMVCWIPYFITFMVMALCETCVHHDLHMFTIWLGYINSTLNPFIY
-11	892307	893650	GPCR_Rhodpsn_7TM_(PS50262)	42.9	-
+11	892307	893647	GPCR_Rhodpsn	247.7	-	892307	893647	83,88,95	1	1340	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+11	893111	893662	7TM_GPCR_olfarory/Srsx	34.1	-	893111	893662	83,88,95	1	551	0	PF10320	http://pfam.sanger.ac.uk/family?acc=PF10320
+11	893621	893695	GPCR_Rhodpsn	215.0	-	893621	893695	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+11	893531	893596	GPCR_Rhodpsn	325.0	-	893531	893596	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+11	893393	893461	GPCR_Rhodpsn	331.0	-	893393	893461	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+11	893288	893353	GPCR_Rhodpsn	217.0	-	893288	893353	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+11	893135	893206	GPCR_Rhodpsn	282.0	-	893135	893206	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+11	892400	892474	GPCR_Rhodpsn	469.0	-	892400	892474	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+11	892283	892363	GPCR_Rhodpsn	444.0	-	892283	892363	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+11	893276	893317	Histamine_H1_rcpt	548.0	-	893276	893317	83,88,95	1	41	0	PR00530	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00530&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00530
+11	893183	893239	Histamine_H1_rcpt	806.0	-	893183	893239	83,88,95	1	56	0	PR00530	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00530&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00530
+11	892487	892540	Histamine_H1_rcpt	288.0	-	892487	892540	83,88,95	1	53	0	PR00530	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00530&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00530
+11	892376	892411	Histamine_H1_rcpt	372.0	-	892376	892411	83,88,95	1	35	0	PR00530	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00530&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00530
+11	892262	892306	Histamine_H1_rcpt	681.0	-	892262	892306	83,88,95	1	44	0	PR00530	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00530&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00530
+11	893657	893695	Musac_Ach_rcpt	224.0	-	893657	893695	83,88,95	1	38	0	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+11	893429	893458	Musac_Ach_rcpt	292.0	-	893429	893458	83,88,95	1	29	0	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+11	893357	893401	Musac_Ach_rcpt	215.0	-	893357	893401	83,88,95	1	44	0	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+11	892337	892393	Musac_Ach_rcpt	324.0	-	892337	892393	83,88,95	1	56	0	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+11	892256	892300	Musac_Ach_rcpt	308.0	-	892256	892300	83,88,95	1	44	0	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+11	892307	893650	GPCR_Rhodpsn_7TM	42.9	-	892307	893650	83,88,95	1	1343	0	PS50262	http://www.expasy.ch/prosite/PS50262

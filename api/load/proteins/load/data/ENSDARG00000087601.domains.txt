@@ -1,9 +1,3 @@
-browser position chr8:48764927-48775912
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000087601	ENSDART00000121496	ENSDARP00000105243	48764927	48775912	###
-#	PR01992	IPR022335	47	68	\N	4.4e-22	48.18	DEENSQDGGIHPDLIFDRPFDY
-8	48765065	48768464	GPR153_(PR01992)	634.0	+
-#	PR01992	IPR022335	70	89	\N	4.4e-22	50.0	SAGDIMTVERIAKYEFSTLE
-8	48768468	48768527	GPR153_(PR01992)	540.0	+
-#	PR01992	IPR022335	337	362	\N	4.4e-22	66.92	GSTNSFISSQSASSGYITFHSESIGS
-8	48775826	48775903	GPR153_(PR01992)	925.0	+
+8	48765065	48768464	GPR153	634.0	+	48765065	48768464	83,88,95	2	6,58	0,3341	PR01992	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01992&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01992
+8	48768468	48768527	GPR153	540.0	+	48768468	48768527	83,88,95	1	59	0	PR01992	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01992&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01992
+8	48775826	48775903	GPR153	925.0	+	48775826	48775903	83,88,95	1	77	0	PR01992	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01992&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01992

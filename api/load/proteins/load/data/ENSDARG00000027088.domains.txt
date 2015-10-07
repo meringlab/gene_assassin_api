@@ -1,57 +1,27 @@
-browser position chr24:17576415-17578479
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000027088	ENSDART00000039267	ENSDARP00000037484	17576415	17578479	###
-#	PF00061	IPR000566	35	177	\N	4.4e-36	0.0	GKWYLVGFATNAKWFVSHKDDMKMGTAMLVPTQEGDLDLSYSNLKSDGSCWRMTYLAKKTETPGRFVFYSQRWGNDNDMRVVDAKFDEYAIFHTIKTKGGVSEILNKLYSRTPEMVDDLKEKFRQFCLDTGILEENIVMLPQN
-24	17576945	17578226	Lipocln_cytosolic_FA-bd_dom_(PF00061)	110.4	-
-#	PR01254	IPR002972	25	48	\N	6.2e-19	36.81	MTDFDLQKVEGKWYLVGFATNAKW
-24	17578185	17578344	PstgldnD_synth_(PR01254)	552.0	-
-#	PR01254	IPR002972	68	86	\N	6.2e-19	26.32	EGDLDLSYSNLKSDGSCWR
-24	17577990	17578127	PstgldnD_synth_(PR01254)	165.0	-
-#	PR01254	IPR002972	104	127	\N	6.2e-19	36.81	SQRWGNDNDMRVVDAKFDEYAIFH
-24	17577786	17577938	PstgldnD_synth_(PR01254)	534.0	-
-#	PR01254	IPR002972	139	153	\N	6.2e-19	31.11	LNKLYSRTPEMVDDL
-24	17577017	17577752	PstgldnD_synth_(PR01254)	194.0	-
-#	PR01254	IPR002972	156	174	\N	6.2e-19	43.42	KFRQFCLDTGILEENIVML
-24	17576954	17577010	PstgldnD_synth_(PR01254)	389.0	-
-#	PR01215	IPR002968	25	38	\N	4.900000000000001e-16	37.5	MTDFDLQKVEGKWY
-24	17578215	17578344	A1-microglobln_(PR01215)	373.0	-
-#	PR01215	IPR002968	84	99	\N	4.900000000000001e-16	30.47	CWRMTYLAKKTETPGR
-24	17577951	17577998	A1-microglobln_(PR01215)	251.0	-
-#	PR01215	IPR002968	106	125	\N	4.900000000000001e-16	38.75	RWGNDNDMRVVDAKFDEYAI
-24	17577792	17577851	A1-microglobln_(PR01215)	402.0	-
-#	PR01215	IPR002968	137	158	\N	4.900000000000001e-16	43.18	EILNKLYSRTPEMVDDLKEKFR
-24	17577002	17577758	A1-microglobln_(PR01215)	457.0	-
-#	PR01215	IPR002968	165	184	\N	4.900000000000001e-16	41.88	GILEENIVMLPQNGECSVAA
-24	17576829	17576983	A1-microglobln_(PR01215)	402.0	-
-#	PR00179	IPR002345	31	43	\N	3.6e-09	36.49	QKVEGKWYLVGFA
-24	17578200	17578326	Lipocalin_(PR00179)	294.0	-
-#	PR00179	IPR002345	115	127	\N	3.6e-09	31.5	VVDAKFDEYAIFH
-24	17577786	17577824	Lipocalin_(PR00179)	256.0	-
-#	PR00179	IPR002345	142	157	\N	3.6e-09	37.33	LYSRTPEMVDDLKEKF
-24	17577005	17577743	Lipocalin_(PR00179)	290.0	-
-#	PR01221	IPR002971	34	52	\N	7.4e-09	16.75	EGKWYLVGFATNAKWFVSH
-24	17578173	17578229	Maj_urinary_(PR01221)	210.0	-
-#	PR01221	IPR002971	115	130	\N	7.4e-09	25.57	VVDAKFDEYAIFHTIK
-24	17577777	17577824	Maj_urinary_(PR01221)	293.0	-
-#	PR01221	IPR002971	136	157	\N	7.4e-09	42.15	SEILNKLYSRTPEMVDDLKEKF
-24	17577005	17577761	Maj_urinary_(PR01221)	449.0	-
-#	PR01221	IPR002971	164	181	\N	7.4e-09	38.89	TGILEENIVMLPQNGECS
-24	17576838	17576986	Maj_urinary_(PR01221)	324.0	-
-#	PR01172	IPR002447	24	37	\N	1.8e-08	53.78	PMTDFDLQKVEGKW
-24	17578218	17578347	Blactoglobulin_(PR01172)	416.0	-
-#	PR01172	IPR002447	61	75	\N	1.8e-08	36.47	AMLVPTQEGDLDLSY
-24	17578104	17578148	Blactoglobulin_(PR01172)	236.0	-
-#	PR01172	IPR002447	89	103	\N	1.8e-08	38.43	YLAKKTETPGRFVFY
-24	17577939	17577983	Blactoglobulin_(PR01172)	252.0	-
-#	PR01172	IPR002447	138	157	\N	1.8e-08	29.12	ILNKLYSRTPEMVDDLKEKF
-24	17577005	17577755	Blactoglobulin_(PR01172)	265.0	-
-#	PR01275	IPR003087	33	43	\N	3.4e-06	54.55	VEGKWYLVGFA
-24	17578200	17578232	N_gelatinase_(PR01275)	409.0	-
-#	PR01275	IPR003087	110	128	\N	3.4e-06	19.3	DNDMRVVDAKFDEYAIFHT
-24	17577783	17577839	N_gelatinase_(PR01275)	198.0	-
-#	PR01275	IPR003087	137	155	\N	3.4e-06	42.11	EILNKLYSRTPEMVDDLKE
-24	17577011	17577758	N_gelatinase_(PR01275)	329.0	-
-#	PR01275	IPR003087	160	176	\N	3.4e-06	27.45	FCLDTGILEENIVMLPQ
-24	17576948	17576998	N_gelatinase_(PR01275)	186.0	-
-#	SSF50814	IPR011038	19	180	\N	2.9999999999999997e-47	0.0	SADVMPMTDFDLQKVEGKWYLVGFATNAKWFVSHKDDMKMGTAMLVPTQEGDLDLSYSNLKSDGSCWRMTYLAKKTETPGRFVFYSQRWGNDNDMRVVDAKFDEYAIFHTIKTKGGVSEILNKLYSRTPEMVDDLKEKFRQFCLDTGILEENIVMLPQNGEC
-24	17576841	17578362	Calycin-like_(SSF50814)	0.0	-
+24	17576945	17578226	Lipocln_cytosolic_FA-bd_dom	110.4	-	17576945	17578226	83,88,95	4	1148,-79,-113,1181	0,1066,905,100	PF00061	http://pfam.sanger.ac.uk/family?acc=PF00061
+24	17578185	17578344	PstgldnD_synth	552.0	-	17578185	17578344	83,88,95	2	136,112	0,47	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+24	17577990	17578127	PstgldnD_synth	165.0	-	17577990	17578127	83,88,95	2	103,116	0,21	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+24	17577786	17577938	PstgldnD_synth	534.0	-	17577786	17577938	83,88,95	2	146,88	0,64	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+24	17577017	17577752	PstgldnD_synth	194.0	-	17577017	17577752	83,88,95	2	720,707	0,28	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+24	17576954	17577010	PstgldnD_synth	389.0	-	17576954	17577010	83,88,95	1	56	0	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+24	17578215	17578344	A1-microglobln	373.0	-	17578215	17578344	83,88,95	2	106,112	0,17	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+24	17577951	17577998	A1-microglobln	251.0	-	17577951	17577998	83,88,95	1	47	0	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+24	17577792	17577851	A1-microglobln	402.0	-	17577792	17577851	83,88,95	1	59	0	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+24	17577002	17577758	A1-microglobln	457.0	-	17577002	17577758	83,88,95	2	735,713	0,43	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+24	17576829	17576983	A1-microglobln	402.0	-	17576829	17576983	83,88,95	2	115,135	0,19	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+24	17578200	17578326	Lipocalin	294.0	-	17578200	17578326	83,88,95	2	121,94	0,32	PR00179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00179
+24	17577786	17577824	Lipocalin	256.0	-	17577786	17577824	83,88,95	1	38	0	PR00179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00179
+24	17577005	17577743	Lipocalin	290.0	-	17577005	17577743	83,88,95	2	732,698	0,40	PR00179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00179
+24	17578173	17578229	Maj_urinary	210.0	-	17578173	17578229	83,88,95	1	56	0	PR01221	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01221&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01221
+24	17577777	17577824	Maj_urinary	293.0	-	17577777	17577824	83,88,95	1	47	0	PR01221	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01221&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01221
+24	17577005	17577761	Maj_urinary	449.0	-	17577005	17577761	83,88,95	2	732,716	0,40	PR01221	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01221&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01221
+24	17576838	17576986	Maj_urinary	324.0	-	17576838	17576986	83,88,95	2	106,138	0,10	PR01221	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01221&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01221
+24	17578218	17578347	Blactoglobulin	416.0	-	17578218	17578347	83,88,95	2	103,115	0,14	PR01172	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01172&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01172
+24	17578104	17578148	Blactoglobulin	236.0	-	17578104	17578148	83,88,95	1	44	0	PR01172	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01172&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01172
+24	17577939	17577983	Blactoglobulin	252.0	-	17577939	17577983	83,88,95	1	44	0	PR01172	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01172&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01172
+24	17577005	17577755	Blactoglobulin	265.0	-	17577005	17577755	83,88,95	2	732,710	0,40	PR01172	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01172&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01172
+24	17578200	17578232	N_gelatinase	409.0	-	17578200	17578232	83,88,95	1	32	0	PR01275	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01275&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01275
+24	17577783	17577839	N_gelatinase	198.0	-	17577783	17577839	83,88,95	1	56	0	PR01275	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01275&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01275
+24	17577011	17577758	N_gelatinase	329.0	-	17577011	17577758	83,88,95	2	726,713	0,34	PR01275	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01275&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01275
+24	17576948	17576998	N_gelatinase	186.0	-	17576948	17576998	83,88,95	1	50	0	PR01275	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01275&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01275
+24	17576841	17578362	Calycin-like	0.0	-	17576841	17578362	83,88,95	6	1480,-139,-79,-113,-101,1514	0,1391,1170,1009,204,7	SSF50814	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50814

@@ -1,13 +1,5 @@
-browser position chr18:15989139-15998685
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000057887	ENSDART00000080638	ENSDARP00000075084	15989139	15998685	###
-#	PF07421	IPR008055	10	175	\N	5.3e-27	0.0	NMQMQLTSFLLLFLLCNGLCSDIDQGKRAIEDEVLRSLLTSKVKASRHIAPLWQLPLQDVCRMVNGLGDSWLEAWANEEAAEDTEVHADYEQRVSGTLLQMLEEMHDIQNLCRVLQPRELQDEQEYLELEQNSDSPLKRKSPYILKRQLRTNKSRRPYILKRSVIY
-18	15989166	15998682	NeurotensiN_(PF07421)	80.7	+
-#	PR01668	IPR008055	10	33	\N	2.5e-15	38.33	NMQMQLTSFLLLFLLCNGLCSDID
-18	15989166	15989956	NeurotensiN_(PR01668)	382.0	+
-#	PR01668	IPR008055	61	87	\N	2.5e-15	28.15	LWQLPLQDVCRMVNGLGDSWLEAWANE
-18	15995835	15995915	NeurotensiN_(PR01668)	351.0	+
-#	PR01668	IPR008055	140	159	\N	2.5e-15	55.0	QNSDSPLKRKSPYILKRQLR
-18	15998575	15998634	NeurotensiN_(PR01668)	538.0	+
-#	PR01668	IPR008055	160	175	\N	2.5e-15	64.71	TNKSRRPYILKRSVIY
-18	15998635	15998682	NeurotensiN_(PR01668)	552.0	+
+18	15989166	15998682	NeurotensiN	80.7	+	15989166	15998682	83,88,95	4	63,61,230,140	0,783,6642,9376	PF07421	http://pfam.sanger.ac.uk/family?acc=PF07421
+18	15989166	15989956	NeurotensiN	382.0	+	15989166	15989956	83,88,95	2	63,7	0,783	PR01668	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01668&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01668
+18	15995835	15995915	NeurotensiN	351.0	+	15995835	15995915	83,88,95	1	80	0	PR01668	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01668&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01668
+18	15998575	15998634	NeurotensiN	538.0	+	15998575	15998634	83,88,95	1	59	0	PR01668	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01668&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01668
+18	15998635	15998682	NeurotensiN	552.0	+	15998635	15998682	83,88,95	1	47	0	PR01668	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01668&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01668

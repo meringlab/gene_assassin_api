@@ -1,23 +1,10 @@
-browser position chr14:567958-575589
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000087321	ENSDART00000124438	ENSDARP00000105343	567958	575589	###
-#	PR01356	IPR003293	115	133	\N	6.899999999999999e-72	59.65	QSRVCSAAARHGFSFHHAR
-14	574379	574435	Nudix_hydrolase6-like_(PR01356)	579.0	-
-#	PR01356	IPR003293	137	153	\N	6.899999999999999e-72	39.22	AVLSVWLAEGQNRLPAF
-14	574319	574369	Nudix_hydrolase6-like_(PR01356)	474.0	-
-#	PR01356	IPR003293	153	171	\N	6.899999999999999e-72	59.65	FATHQVGVADAVLQAHDGD
-14	573360	574321	Nudix_hydrolase6-like_(PR01356)	536.0	-
-#	PR01356	IPR003293	171	188	\N	6.899999999999999e-72	53.7	DIISVQCKDKTKNAWKFP
-14	570606	573362	Nudix_hydrolase6-like_(PR01356)	566.0	-
-#	PR01356	IPR003293	213	236	\N	6.899999999999999e-72	80.56	RSEFRSLLSLRQQHTHPGAFGMSD
-14	568246	568317	Nudix_hydrolase6-like_(PR01356)	1043.0	-
-#	PR01356	IPR003293	241	265	\N	6.899999999999999e-72	60.0	CRLQPLSHRIHICTHECLRCDWLDL
-14	568159	568233	Nudix_hydrolase6-like_(PR01356)	997.0	-
-#	PR01356	IPR003293	274	293	\N	6.899999999999999e-72	73.33	TTPITSRIAKLLLYGLENGF
-14	568075	568134	Nudix_hydrolase6-like_(PR01356)	723.0	-
-#	PR01356	IPR003293	293	317	\N	6.899999999999999e-72	69.33	FQHIDLHMEELPAVYSGLFYQLYHR
-14	568003	568077	Nudix_hydrolase6-like_(PR01356)	946.0	-
-#	PF00293	IPR000086	163	277	\N	4.5e-20	0.0	AVLQAHDGDIISVQCKDKTKNAWKFPGGLSDLGENIADTAVREVFEETGVRSEFRSLLSLRQQHTHPGAFGMSDLYLICRLQPLSHRIHICTHECLRCDWLDLRELAETSETTPI
-14	568123	573442	NUDIX_hydrolase_dom_(PF00293)	58.1	-
-#	SSF55811	IPR015797	120	320	\N	3.1e-28	0.0	SAAARHGFSFHHARGDQAVLSVWLAEGQNRLPAFATHQVGVADAVLQAHDGDIISVQCKDKTKNAWKFPGGLSDLGENIADTAVREVFEETGVRSEFRSLLSLRQQHTHPGAFGMSDLYLICRLQPLSHRIHICTHECLRCDWLDLRELAETSETTPITSRIAKLLLYGLENGFQHIDLHMEELPAVYSGLFYQLYHRPMP
-14	567994	574420	NUDIX_hydrolase_dom-like_(SSF55811)	0.0	-
+14	574379	574435	Nudix_hydrolase6-like	579.0	-	574379	574435	83,88,95	1	56	0	PR01356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01356
+14	574319	574369	Nudix_hydrolase6-like	474.0	-	574319	574369	83,88,95	1	50	0	PR01356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01356
+14	573360	574321	Nudix_hydrolase6-like	536.0	-	573360	574321	83,88,95	3	934,-25,959	0,84,2	PR01356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01356
+14	570606	573362	Nudix_hydrolase6-like	566.0	-	570606	573362	83,88,95	3	2737,-9,2733	0,686,23	PR01356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01356
+14	568246	568317	Nudix_hydrolase6-like	1043.0	-	568246	568317	83,88,95	1	71	0	PR01356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01356
+14	568159	568233	Nudix_hydrolase6-like	997.0	-	568159	568233	83,88,95	1	74	0	PR01356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01356
+14	568075	568134	Nudix_hydrolase6-like	723.0	-	568075	568134	83,88,95	1	59	0	PR01356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01356
+14	568003	568077	Nudix_hydrolase6-like	946.0	-	568003	568077	83,88,95	1	74	0	PR01356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01356
+14	568123	573442	NUDIX_hydrolase_dom	58.1	-	568123	573442	83,88,95	5	5296,-19,-9,-54,5084	0,5239,3169,2506,235	PF00293	http://pfam.sanger.ac.uk/family?acc=PF00293
+14	567994	574420	NUDIX_hydrolase_dom-like	0.0	-	567994	574420	83,88,95	6	6300,-25,-19,-9,-54,6062	0,5450,5368,3298,2635,364	SSF55811	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55811

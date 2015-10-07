@@ -1,15 +1,6 @@
-browser position chr14:9593656-9600394
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000087636	ENSDART00000123652	ENSDARP00000105574	9593656	9600394	###
-#	PR00925	IPR000079	12	26	\N	3.8e-15	83.08	KDEPQRRSARLSARP
-14	9594761	9596819	HMGN_fam_(PR00925)	636.0	+
-#	PR00925	IPR000079	28	40	\N	3.8e-15	54.44	PAKAEPKSKKTAK
-14	9596823	9596861	HMGN_fam_(PR00925)	337.0	+
-#	PR00925	IPR000079	47	57	\N	3.8e-15	38.46	KEDKKTKVKAK
-14	9596983	9597015	HMGN_fam_(PR00925)	111.0	+
-#	PR00925	IPR000079	70	80	\N	3.8e-15	51.75	SENGDAKTNAV
-14	9597052	9599657	HMGN_fam_(PR00925)	305.0	+
-#	SM00527	IPR000079	2	86	\N	2.5e-20	0.0	PKRKRADGEAKDEPQRRSARLSARPAPAKAEPKSKKTAKKDKAVKKEDKKTKVKAKETSESAANEENHSENGDAKTNAVAKTNKE
-14	9594096	9599675	HMGN_fam_(SM00527)	83.5	+
-#	PF01101	IPR000079	2	88	\N	6.7e-25	0.0	PKRKRADGEAKDEPQRRSARLSARPAPAKAEPKSKKTAKKDKAVKKEDKKTKVKAKETSESAANEENHSENGDAKTNAVAKTNKEAK
-14	9594096	9599681	HMGN_fam_(PF01101)	74.2	+
+14	9594761	9596819	HMGN_fam	636.0	+	9594761	9596819	83,88,95	3	8,29,5	0,116,2053	PR00925	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00925&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00925
+14	9596823	9596861	HMGN_fam	337.0	+	9596823	9596861	83,88,95	1	38	0	PR00925	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00925&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00925
+14	9596983	9597015	HMGN_fam	111.0	+	9596983	9597015	83,88,95	1	32	0	PR00925	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00925&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00925
+14	9597052	9599657	HMGN_fam	305.0	+	9597052	9599657	83,88,95	2	29,2	0,2603	PR00925	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00925&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00925
+14	9594096	9599675	HMGN_fam	83.5	+	9594096	9599675	83,88,95	6	11,26,29,47,116,20	0,647,781,2718,2869,5559	SM00527	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00527
+14	9594096	9599681	HMGN_fam	74.2	+	9594096	9599681	83,88,95	6	11,26,29,47,116,26	0,647,781,2718,2869,5559	PF01101	http://pfam.sanger.ac.uk/family?acc=PF01101

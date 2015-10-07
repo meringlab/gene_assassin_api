@@ -1,19 +1,8 @@
-browser position chr24:39080413-39081743
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000038559	ENSDART00000056286	ENSDARP00000056285	39080413	39081743	###
-#	PR00624	IPR005819	10	31	\N	1.1e-56	69.7	SKPKRAKSSKKGTSHPKYSEMI
-24	39081454	39081519	Histone_H5_(PR00624)	861.0	-
-#	PR00624	IPR005819	37	54	\N	1.1e-56	74.07	ADRSRGGASRQSIQKYVK
-24	39081385	39081438	Histone_H5_(PR00624)	723.0	-
-#	PR00624	IPR005819	57	75	\N	1.1e-56	77.19	YKVGDNADSQIKLALKRLV
-24	39081322	39081378	Histone_H5_(PR00624)	759.0	-
-#	PR00624	IPR005819	78	102	\N	1.1e-56	63.11	GDLRHTKGIGASGSFKLAKAEDIKK
-24	39081241	39081315	Histone_H5_(PR00624)	852.0	-
-#	PR00624	IPR005819	112	126	\N	1.1e-56	51.11	KARKPVKAAAKPKKA
-24	39081169	39081213	Histone_H5_(PR00624)	318.0	-
-#	PR00624	IPR005819	176	195	\N	1.1e-56	53.89	SKAKKVKTAKPKPKTAARKT
-24	39080962	39081021	Histone_H5_(PR00624)	562.0	-
-#	PF00538	IPR005818	23	96	\N	3.8999999999999997e-31	0.0	SHPKYSEMIKAAIAADRSRGGASRQSIQKYVKHHYKVGDNADSQIKLALKRLVAGGDLRHTKGIGASGSFKLAK
-24	39081259	39081480	Histone_H1/H5_H15_(PF00538)	93.6	-
-#	SM00526	IPR005818	21	86	\N	1.6e-24	0.0	GTSHPKYSEMIKAAIAADRSRGGASRQSIQKYVKHHYKVGDNADSQIKLALKRLVAGGDLRHTKGI
-24	39081289	39081486	Histone_H1/H5_H15_(SM00526)	97.4	-
+24	39081454	39081519	Histone_H5	861.0	-	39081454	39081519	83,88,95	1	65	0	PR00624	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00624&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00624
+24	39081385	39081438	Histone_H5	723.0	-	39081385	39081438	83,88,95	1	53	0	PR00624	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00624&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00624
+24	39081322	39081378	Histone_H5	759.0	-	39081322	39081378	83,88,95	1	56	0	PR00624	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00624&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00624
+24	39081241	39081315	Histone_H5	852.0	-	39081241	39081315	83,88,95	1	74	0	PR00624	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00624&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00624
+24	39081169	39081213	Histone_H5	318.0	-	39081169	39081213	83,88,95	1	44	0	PR00624	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00624&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00624
+24	39080962	39081021	Histone_H5	562.0	-	39080962	39081021	83,88,95	1	59	0	PR00624	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00624&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00624
+24	39081259	39081480	Histone_H1/H5_H15	93.6	-	39081259	39081480	83,88,95	1	221	0	PF00538	http://pfam.sanger.ac.uk/family?acc=PF00538
+24	39081289	39081486	Histone_H1/H5_H15	97.4	-	39081289	39081486	83,88,95	1	197	0	SM00526	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00526

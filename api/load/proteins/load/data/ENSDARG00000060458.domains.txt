@@ -1,45 +1,21 @@
-browser position chr22:1111647-1145152
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000060458	ENSDART00000085196	ENSDARP00000079631	1111647	1145152	###
-#	PF00001	IPR000276	19	367	\N	9.299999999999998e-67	0.0	GNALVILAFVVDKSLRNQCNYFFLNLAISDFLVGAFCIPLYMPYILTGRWMLGRGLCKLWLVMDYLLCTASVFNIVLISYDRFLSVTRAVRYRAQQGVTRLAVLKMLAVWVSAFLLYGPAIIFWELLVGESIVPEDECFAEFYCTWYFLLSASTFEFFSPFISVAFFNFSIYLNIQRRNRSRMAHVEAEKEDGWRVIDGQTSSVFFVKTRKVSSSEPAAVSAVIEDDEEVSPSSSGDPSSTHSVSLTMKTTIKKRGLFGGWVRTRIIRAQEVTNPCAPCRSGGHARLSRDKKIAKSLAVIVCVFGVCWAPYTLLMIIRAACSGSCVEHHWYEVTFWLLWLNSAINPFLY
-22	1111701	1145059	GPCR_Rhodpsn_(PF00001)	212.7	+
-#	PF10320	IPR019424	14	177	\N	8.3e-10	0.0	VVVVVGNALVILAFVVDKSLRNQCNYFFLNLAISDFLVGAFCIPLYMPYILTGRWMLGRGLCKLWLVMDYLLCTASVFNIVLISYDRFLSVTRAVRYRAQQGVTRLAVLKMLAVWVSAFLLYGPAIIFWELLVGESIVPEDECFAEFYCTWYFLLSASTFEFFS
-22	1111686	1144489	7TM_GPCR_olfarory/Srsx_(PF10320)	26.1	+
-#	PF10328	IPR019430	14	202	\N	6.7000000000000004e-09	0.0	VVVVVGNALVILAFVVDKSLRNQCNYFFLNLAISDFLVGAFCIPLYMPYILTGRWMLGRGLCKLWLVMDYLLCTASVFNIVLISYDRFLSVTRAVRYRAQQGVTRLAVLKMLAVWVSAFLLYGPAIIFWELLVGESIVPEDECFAEFYCTWYFLLSASTFEFFSPFISVAFFNFSIYLNIQRRNRSRMA
-22	1111686	1144564	7TM_GPCR_serpentine_rcpt_Srx_(PF10328)	23.1	+
-#	PR00237	IPR000276	4	28	\N	4.799999999999999e-38	29.62	ILAILMATLVVVVVVGNALVILAFV
-22	1111656	1111730	GPCR_Rhodpsn_(PR00237)	305.0	+
-#	PR00237	IPR000276	37	58	\N	4.799999999999999e-38	34.61	CNYFFLNLAISDFLVGAFCIPL
-22	1111755	1121806	GPCR_Rhodpsn_(PR00237)	315.0	+
-#	PR00237	IPR000276	82	104	\N	4.799999999999999e-38	29.88	DYLLCTASVFNIVLISYDRFLSV
-22	1121876	1121944	GPCR_Rhodpsn_(PR00237)	326.0	+
-#	PR00237	IPR000276	119	140	\N	4.799999999999999e-38	24.62	LAVLKMLAVWVSAFLLYGPAII
-22	1144313	1144378	GPCR_Rhodpsn_(PR00237)	205.0	+
-#	PR00237	IPR000276	311	335	\N	4.799999999999999e-38	30.31	IAKSLAVIVCVFGVCWAPYTLLMII
-22	1144889	1144963	GPCR_Rhodpsn_(PR00237)	462.0	+
-#	PR00237	IPR000276	349	375	\N	4.799999999999999e-38	30.3	YEVTFWLLWLNSAINPFLYPLCHSSFR
-22	1145003	1145083	GPCR_Rhodpsn_(PR00237)	391.0	+
-#	PR01471	IPR003980	135	155	\N	1.2e-16	57.14	YGPAIIFWELLVGESIVPEDE
-22	1144361	1144423	Histamine_H3_rcpt_(PR01471)	650.0	+
-#	PR01471	IPR003980	156	174	\N	1.2e-16	63.16	CFAEFYCTWYFLLSASTFE
-22	1144424	1144480	Histamine_H3_rcpt_(PR01471)	770.0	+
-#	PR01471	IPR003980	331	347	\N	1.2e-16	67.23	LLMIIRAACSGSCVEHH
-22	1144949	1144999	Histamine_H3_rcpt_(PR01471)	594.0	+
-#	PR00243	IPR000995	4	16	\N	7.1e-11	20.07	ILAILMATLVVVV
-22	1111656	1111694	Musac_Ach_rcpt_(PR00243)	115.0	+
-#	PR00243	IPR000995	25	33	\N	7.1e-11	35.27	LAFVVDKSL
-22	1111719	1111745	Musac_Ach_rcpt_(PR00243)	153.0	+
-#	PR00243	IPR000995	52	62	\N	7.1e-11	41.9	GAFCIPLYMPY
-22	1121786	1121818	Musac_Ach_rcpt_(PR00243)	229.0	+
-#	PR00243	IPR000995	83	92	\N	7.1e-11	50.43	YLLCTASVFN
-22	1121879	1121908	Musac_Ach_rcpt_(PR00243)	249.0	+
-#	PR00243	IPR000995	102	116	\N	7.1e-11	35.36	LSVTRAVRYRAQQGV
-22	1121936	1144306	Musac_Ach_rcpt_(PR00243)	251.0	+
-#	PR00243	IPR000995	140	150	\N	7.1e-11	39.53	IFWELLVGESI
-22	1144376	1144408	Musac_Ach_rcpt_(PR00243)	297.0	+
-#	PR00243	IPR000995	339	357	\N	7.1e-11	20.82	CSGSCVEHHWYEVTFWLLW
-22	1144973	1145029	Musac_Ach_rcpt_(PR00243)	253.0	+
-#	PR00243	IPR000995	370	384	\N	7.1e-11	31.01	CHSSFRRAFAKILCP
-22	1145066	1145110	Musac_Ach_rcpt_(PR00243)	274.0	+
-#	PS50262	IPR017452	19	367	\N	0.0	0.0	GNALVILAFVVDKSLRNQCNYFFLNLAISDFLVGAFCIPLYMPYILTGRWMLGRGLCKLWLVMDYLLCTASVFNIVLISYDRFLSVTRAVRYRAQQGVTRLAVLKMLAVWVSAFLLYGPAIIFWELLVGESIVPEDECFAEFYCTWYFLLSASTFEFFSPFISVAFFNFSIYLNIQRRNRSRMAHVEAEKEDGWRVIDGQTSSVFFVKTRKVSSSEPAAVSAVIEDDEEVSPSSSGDPSSTHSVSLTMKTTIKKRGLFGGWVRTRIIRAQEVTNPCAPCRSGGHARLSRDKKIAKSLAVIVCVFGVCWAPYTLLMIIRAACSGSCVEHHWYEVTFWLLWLNSAINPFLY
-22	1111701	1145059	GPCR_Rhodpsn_7TM_(PS50262)	40.994	+
+22	1111701	1145059	GPCR_Rhodpsn	212.7	+	1111701	1145059	83,88,95	3	99,166,779	0,10086,32579	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+22	1111686	1144489	7TM_GPCR_olfarory/Srsx	26.1	+	1111686	1144489	83,88,95	3	114,166,209	0,10101,32594	PF10320	http://pfam.sanger.ac.uk/family?acc=PF10320
+22	1111686	1144564	7TM_GPCR_serpentine_rcpt_Srx	23.1	+	1111686	1144564	83,88,95	3	114,166,284	0,10101,32594	PF10328	http://pfam.sanger.ac.uk/family?acc=PF10328
+22	1111656	1111730	GPCR_Rhodpsn	305.0	+	1111656	1111730	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+22	1111755	1121806	GPCR_Rhodpsn	315.0	+	1111755	1121806	83,88,95	2	45,19	0,10032	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+22	1121876	1121944	GPCR_Rhodpsn	326.0	+	1121876	1121944	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+22	1144313	1144378	GPCR_Rhodpsn	205.0	+	1144313	1144378	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+22	1144889	1144963	GPCR_Rhodpsn	462.0	+	1144889	1144963	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+22	1145003	1145083	GPCR_Rhodpsn	391.0	+	1145003	1145083	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+22	1144361	1144423	Histamine_H3_rcpt	650.0	+	1144361	1144423	83,88,95	1	62	0	PR01471	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01471&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01471
+22	1144424	1144480	Histamine_H3_rcpt	770.0	+	1144424	1144480	83,88,95	1	56	0	PR01471	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01471&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01471
+22	1144949	1144999	Histamine_H3_rcpt	594.0	+	1144949	1144999	83,88,95	1	50	0	PR01471	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01471&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01471
+22	1111656	1111694	Musac_Ach_rcpt	115.0	+	1111656	1111694	83,88,95	1	38	0	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+22	1111719	1111745	Musac_Ach_rcpt	153.0	+	1111719	1111745	83,88,95	1	26	0	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+22	1121786	1121818	Musac_Ach_rcpt	229.0	+	1121786	1121818	83,88,95	1	32	0	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+22	1121879	1121908	Musac_Ach_rcpt	249.0	+	1121879	1121908	83,88,95	1	29	0	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+22	1121936	1144306	Musac_Ach_rcpt	251.0	+	1121936	1144306	83,88,95	2	17,26	0,22344	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+22	1144376	1144408	Musac_Ach_rcpt	297.0	+	1144376	1144408	83,88,95	1	32	0	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+22	1144973	1145029	Musac_Ach_rcpt	253.0	+	1144973	1145029	83,88,95	1	56	0	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+22	1145066	1145110	Musac_Ach_rcpt	274.0	+	1145066	1145110	83,88,95	1	44	0	PR00243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00243
+22	1111701	1145059	GPCR_Rhodpsn_7TM	40.994	+	1111701	1145059	83,88,95	3	99,166,779	0,10086,32579	PS50262	http://www.expasy.ch/prosite/PS50262

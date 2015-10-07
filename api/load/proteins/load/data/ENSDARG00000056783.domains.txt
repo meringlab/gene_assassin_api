@@ -1,69 +1,33 @@
-browser position chr12:12186820-12263281
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000056783	ENSDART00000079336	ENSDARP00000073792	12186820	12263281	###
-#	PF00105	IPR001628	74	142	\N	7.399999999999999e-37	0.0	PCFVCQDKSSGYHYGVSACEGCKGFFRRSIQKNMVYTCHREKNCIINKVTRNRCQYCRLQKCLEVGMSK
-12	12231015	12235936	Znf_hrmn_rcpt_(PF00105)	113.0	+
-#	PF00104	IPR000536	243	400	\N	7.299999999999999e-34	0.0	DQITLLKAACLDILILRICTRYTPEQDTMTFSDGLTLNRTQMHNAGFGPLTDLVFAFANQLLPLEMDDAETGLLSAICLLCGDRQDLEQADKVDVLQEPLLEALKIYVRNRRPHKPHMFPKMLMKITDLRSISAKGAERVITLKMEIPGSMPPLIQEM
-12	12255414	12262626	Nucl_hrmn_rcpt_lig-bd_core_(PF00104)	103.8	+
-#	PR01292	IPR003078	47	64	\N	4.899999999999999e-101	87.82	SIETQSTSSEEIVPSPPS
-12	12230934	12230987	Retinoic_acid_rcpt_(PR01292)	790.0	+
-#	PR01292	IPR003078	141	154	\N	4.899999999999999e-101	96.98	SKESVRNDRNKKKK
-12	12235931	12251591	Retinoic_acid_rcpt_(PR01292)	686.0	+
-#	PR01292	IPR003078	163	187	\N	4.899999999999999e-101	59.08	ENYTLSPDTEQMIDRVRKAHQETFP
-12	12251616	12251690	Retinoic_acid_rcpt_(PR01292)	883.0	+
-#	PR01292	IPR003078	188	204	\N	4.899999999999999e-101	76.24	SLCQLGKYTTSNSSERR
-12	12251691	12255299	Retinoic_acid_rcpt_(PR01292)	713.0	+
-#	PR01292	IPR003078	210	227	\N	4.899999999999999e-101	91.24	DLWDKFSELSTKCIIKTV
-12	12255315	12255368	Retinoic_acid_rcpt_(PR01292)	870.0	+
-#	PR01292	IPR003078	261	285	\N	4.899999999999999e-101	99.08	CTRYTPEQDTMTFSDGLTLNRTQMH
-12	12257520	12257594	Retinoic_acid_rcpt_(PR01292)	1370.0	+
-#	PR01292	IPR003078	298	310	\N	4.899999999999999e-101	94.38	AFANQLLPLEMDD
-12	12257631	12257669	Retinoic_acid_rcpt_(PR01292)	623.0	+
-#	PR01292	IPR003078	328	349	\N	4.899999999999999e-101	81.99	DLEQADKVDVLQEPLLEALKIY
-12	12260724	12260789	Retinoic_acid_rcpt_(PR01292)	896.0	+
-#	PR01292	IPR003078	372	387	\N	4.899999999999999e-101	91.11	RSISAKGAERVITLKM
-12	12260856	12262587	Retinoic_acid_rcpt_(PR01292)	672.0	+
-#	PR01292	IPR003078	395	408	\N	4.899999999999999e-101	84.62	PLIQEMLENSEGLE
-12	12262609	12262650	Retinoic_acid_rcpt_(PR01292)	585.0	+
-#	PR00398	IPR001723	136	146	\N	9.7e-35	56.08	LEVGMSKESVR
-12	12235916	12251567	Str_hrmn_rcpt_(PR00398)	295.0	+
-#	PR00398	IPR001723	218	239	\N	9.7e-35	41.92	LSTKCIIKTVEFAKQLPGFTTL
-12	12255339	12255404	Str_hrmn_rcpt_(PR00398)	449.0	+
-#	PR00398	IPR001723	239	255	\N	9.7e-35	48.24	LTIADQITLLKAACLDI
-12	12255402	12255452	Str_hrmn_rcpt_(PR00398)	381.0	+
-#	PR00398	IPR001723	306	321	\N	9.7e-35	45.28	LEMDDAETGLLSAICL
-12	12257655	12257702	Str_hrmn_rcpt_(PR00398)	325.0	+
-#	PR00398	IPR001723	363	380	\N	9.7e-35	43.98	KMLMKITDLRSISAKGAE
-12	12260829	12262566	Str_hrmn_rcpt_(PR00398)	382.0	+
-#	PR00047	IPR001628	75	91	\N	2.9e-19	55.09	CFVCQDKSSGYHYGVSA
-12	12231018	12231068	Znf_hrmn_rcpt_(PR00047)	564.0	+
-#	PR00047	IPR001628	91	106	\N	2.9e-19	64.93	ACEGCKGFFRRSIQKN
-12	12231066	12235828	Znf_hrmn_rcpt_(PR00047)	628.0	+
-#	PR00047	IPR001628	124	132	\N	2.9e-19	67.83	RNRCQYCRL
-12	12235880	12235906	Znf_hrmn_rcpt_(PR00047)	376.0	+
-#	PR00047	IPR001628	132	140	\N	2.9e-19	67.53	LQKCLEVGM
-12	12235904	12235930	Znf_hrmn_rcpt_(PR00047)	341.0	+
-#	PR01284	IPR003070	171	187	\N	4.8e-08	19.79	TEQMIDRVRKAHQETFP
-12	12251640	12251690	Nuc_orph_rcpt_(PR01284)	153.0	+
-#	PR01284	IPR003070	263	283	\N	4.8e-08	36.8	RYTPEQDTMTFSDGLTLNRTQ
-12	12257526	12257588	Nuc_orph_rcpt_(PR01284)	377.0	+
-#	PR01284	IPR003070	332	349	\N	4.8e-08	26.77	ADKVDVLQEPLLEALKIY
-12	12260736	12260789	Nuc_orph_rcpt_(PR01284)	195.0	+
-#	PR01284	IPR003070	363	383	\N	4.8e-08	31.6	KMLMKITDLRSISAKGAERVI
-12	12260829	12262575	Nuc_orph_rcpt_(PR01284)	402.0	+
-#	PR01284	IPR003070	384	405	\N	4.8e-08	24.38	TLKMEIPGSMPPLIQEMLENSE
-12	12262576	12262641	Nuc_orph_rcpt_(PR01284)	176.0	+
-#	PR00545	IPR000003	143	156	\N	2.8e-06	26.06	ESVRNDRNKKKKEE
-12	12235937	12251597	Retinoid-X_rcpt/HNF4_(PR00545)	225.0	+
-#	PR00545	IPR000003	269	294	\N	2.8e-06	32.37	DTMTFSDGLTLNRTQMHNAGFGPLTD
-12	12257544	12257621	Retinoid-X_rcpt/HNF4_(PR00545)	420.0	+
-#	PR00545	IPR000003	335	354	\N	2.8e-06	27.56	VDVLQEPLLEALKIYVRNRR
-12	12260745	12260804	Retinoid-X_rcpt/HNF4_(PR00545)	265.0	+
-#	SM00430	IPR000536	217	375	\N	4.2999999999999996e-33	0.0	ELSTKCIIKTVEFAKQLPGFTTLTIADQITLLKAACLDILILRICTRYTPEQDTMTFSDGLTLNRTQMHNAGFGPLTDLVFAFANQLLPLEMDDAETGLLSAICLLCGDRQDLEQADKVDVLQEPLLEALKIYVRNRRPHKPHMFPKMLMKITDLRSIS
-12	12255336	12260867	Nucl_hrmn_rcpt_lig-bd_core_(SM00430)	126.0	+
-#	SM00399	IPR001628	72	143	\N	1.4e-40	0.0	YKPCFVCQDKSSGYHYGVSACEGCKGFFRRSIQKNMVYTCHREKNCIINKVTRNRCQYCRLQKCLEVGMSKE
-12	12231009	12235939	Znf_hrmn_rcpt_(SM00399)	150.8	+
-#	PS51030	IPR001628	72	147	\N	0.0	0.0	YKPCFVCQDKSSGYHYGVSACEGCKGFFRRSIQKNMVYTCHREKNCIINKVTRNRCQYCRLQKCLEVGMSKESVRN
-12	12231009	12251570	Znf_hrmn_rcpt_(PS51030)	20.805999999999997	+
-#	SSF48508	IPR008946	117	404	\N	5.0999999999999993e-79	0.0	CIINKVTRNRCQYCRLQKCLEVGMSKESVRNDRNKKKKEEKKPECTENYTLSPDTEQMIDRVRKAHQETFPSLCQLGKYTTSNSSERRVALDVDLWDKFSELSTKCIIKTVEFAKQLPGFTTLTIADQITLLKAACLDILILRICTRYTPEQDTMTFSDGLTLNRTQMHNAGFGPLTDLVFAFANQLLPLEMDDAETGLLSAICLLCGDRQDLEQADKVDVLQEPLLEALKIYVRNRRPHKPHMFPKMLMKITDLRSISAKGAERVITLKMEIPGSMPPLIQEMLENS
-12	12235859	12262638	Nucl_hormone_rcpt_ligand-bd_(SSF48508)	0.0	+
+12	12231015	12235936	Znf_hrmn_rcpt	113.0	+	12231015	12235936	83,88,95	2	68,137	0,4784	PF00105	http://pfam.sanger.ac.uk/family?acc=PF00105
+12	12255414	12262626	Nucl_hrmn_rcpt_lig-bd_core	103.8	+	12255414	12262626	83,88,95	4	41,204,158,67	0,2094,5302,7145	PF00104	http://pfam.sanger.ac.uk/family?acc=PF00104
+12	12230934	12230987	Retinoic_acid_rcpt	790.0	+	12230934	12230987	83,88,95	1	53	0	PR01292	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01292&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01292
+12	12235931	12251591	Retinoic_acid_rcpt	686.0	+	12235931	12251591	83,88,95	2	9,31	0,15629	PR01292	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01292&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01292
+12	12251616	12251690	Retinoic_acid_rcpt	883.0	+	12251616	12251690	83,88,95	1	74	0	PR01292	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01292&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01292
+12	12251691	12255299	Retinoic_acid_rcpt	713.0	+	12251691	12255299	83,88,95	2	29,20	0,3588	PR01292	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01292&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01292
+12	12255315	12255368	Retinoic_acid_rcpt	870.0	+	12255315	12255368	83,88,95	1	53	0	PR01292	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01292&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01292
+12	12257520	12257594	Retinoic_acid_rcpt	1370.0	+	12257520	12257594	83,88,95	1	74	0	PR01292	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01292&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01292
+12	12257631	12257669	Retinoic_acid_rcpt	623.0	+	12257631	12257669	83,88,95	1	38	0	PR01292	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01292&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01292
+12	12260724	12260789	Retinoic_acid_rcpt	896.0	+	12260724	12260789	83,88,95	1	65	0	PR01292	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01292&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01292
+12	12260856	12262587	Retinoic_acid_rcpt	672.0	+	12260856	12262587	83,88,95	2	18,28	0,1703	PR01292	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01292&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01292
+12	12262609	12262650	Retinoic_acid_rcpt	585.0	+	12262609	12262650	83,88,95	1	41	0	PR01292	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01292&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01292
+12	12235916	12251567	Str_hrmn_rcpt	295.0	+	12235916	12251567	83,88,95	2	24,7	0,15644	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
+12	12255339	12255404	Str_hrmn_rcpt	449.0	+	12255339	12255404	83,88,95	1	65	0	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
+12	12255402	12255452	Str_hrmn_rcpt	381.0	+	12255402	12255452	83,88,95	1	50	0	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
+12	12257655	12257702	Str_hrmn_rcpt	325.0	+	12257655	12257702	83,88,95	1	47	0	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
+12	12260829	12262566	Str_hrmn_rcpt	382.0	+	12260829	12262566	83,88,95	2	45,7	0,1730	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
+12	12231018	12231068	Znf_hrmn_rcpt	564.0	+	12231018	12231068	83,88,95	1	50	0	PR00047	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00047&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00047
+12	12231066	12235828	Znf_hrmn_rcpt	628.0	+	12231066	12235828	83,88,95	2	17,29	0,4733	PR00047	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00047&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00047
+12	12235880	12235906	Znf_hrmn_rcpt	376.0	+	12235880	12235906	83,88,95	1	26	0	PR00047	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00047&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00047
+12	12235904	12235930	Znf_hrmn_rcpt	341.0	+	12235904	12235930	83,88,95	1	26	0	PR00047	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00047&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00047
+12	12251640	12251690	Nuc_orph_rcpt	153.0	+	12251640	12251690	83,88,95	1	50	0	PR01284	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01284&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01284
+12	12257526	12257588	Nuc_orph_rcpt	377.0	+	12257526	12257588	83,88,95	1	62	0	PR01284	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01284&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01284
+12	12260736	12260789	Nuc_orph_rcpt	195.0	+	12260736	12260789	83,88,95	1	53	0	PR01284	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01284&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01284
+12	12260829	12262575	Nuc_orph_rcpt	402.0	+	12260829	12262575	83,88,95	2	45,16	0,1730	PR01284	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01284&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01284
+12	12262576	12262641	Nuc_orph_rcpt	176.0	+	12262576	12262641	83,88,95	1	65	0	PR01284	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01284&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01284
+12	12235937	12251597	Retinoid-X_rcpt/HNF4	225.0	+	12235937	12251597	83,88,95	2	3,37	0,15623	PR00545	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00545&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00545
+12	12257544	12257621	Retinoid-X_rcpt/HNF4	420.0	+	12257544	12257621	83,88,95	1	77	0	PR00545	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00545&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00545
+12	12260745	12260804	Retinoid-X_rcpt/HNF4	265.0	+	12260745	12260804	83,88,95	1	59	0	PR00545	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00545&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00545
+12	12255336	12260867	Nucl_hrmn_rcpt_lig-bd_core	126.0	+	12255336	12260867	83,88,95	3	119,204,151	0,2172,5380	SM00430	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00430
+12	12231009	12235939	Znf_hrmn_rcpt	150.8	+	12231009	12235939	83,88,95	2	74,140	0,4790	SM00399	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00399
+12	12231009	12251570	Znf_hrmn_rcpt	20.805999999999997	+	12231009	12251570	83,88,95	3	74,141,10	0,4790,20551	PS51030	http://www.expasy.ch/prosite/PS51030
+12	12235859	12262638	Nucl_hormone_rcpt_ligand-bd	0.0	+	12235859	12262638	83,88,95	6	81,160,176,204,158,79	0,15701,19420,21649,24857,26700	SSF48508	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48508

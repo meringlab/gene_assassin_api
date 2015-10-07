@@ -1,27 +1,12 @@
-browser position chr2:29691251-29694788
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000038868	ENSDART00000056748	ENSDARP00000056747	29691251	29694788	###
-#	PS50071	IPR001356	170	230	\N	0.0	0.0	KEDKRPRTAFTAEQLQRLKNEFQNNRYLTEQRRQALAQELGLNESQIKIWFQNKRAKIKKA
-2	29693819	29694001	Homeobox_dom_(PS50071)	22.204	+
-#	PR00024	IPR020479	219	228	\N	2.1000000000000002e-06	71.2	WFQNKRAKIK
-2	29693966	29693995	Homeobox_metazoa_(PR00024)	430.0	+
-#	PR00024	IPR020479	209	219	\N	2.1000000000000002e-06	60.0	LGLNESQIKIW
-2	29693936	29693968	Homeobox_metazoa_(PR00024)	381.0	+
-#	PR00026	IPR000747	171	188	\N	1.3e-17	82.89	EDKRPRTAFTAEQLQRLK
-2	29693822	29693875	Homeodomain_engrailed_(PR00026)	753.0	+
-#	PR00026	IPR000747	234	251	\N	1.3e-17	76.89	KNTLAVHLMAQGLYNHAT
-2	29694011	29694064	Homeodomain_engrailed_(PR00026)	729.0	+
-#	PR00031	IPR000047	201	210	\N	8.3e-07	51.07	RRQALAQELG
-2	29693912	29693941	HTH_motif_(PR00031)	227.0	+
-#	PR00031	IPR000047	210	226	\N	8.3e-07	61.28	GLNESQIKIWFQNKRAK
-2	29693939	29693989	HTH_motif_(PR00031)	614.0	+
-#	PR00024	IPR020479	194	205	\N	2.1000000000000002e-06	43.05	NRYLTEQRRQAL
-2	29693891	29693926	Homeobox_metazoa_(PR00024)	246.0	+
-#	PF10525	IPR019549	230	261	\N	2.8999999999999996e-23	0.0	ATGNKNTLAVHLMAQGLYNHATVTKDDKSDSD
-2	29693999	29694094	Homeobox-engrailed_C-terminal_(PF10525)	68.2	+
-#	PF00046	IPR001356	173	229	\N	1.1e-26	0.0	KRPRTAFTAEQLQRLKNEFQNNRYLTEQRRQALAQELGLNESQIKIWFQNKRAKIKK
-2	29693828	29693998	Homeobox_dom_(PF00046)	79.8	+
-#	SM00389	IPR001356	172	234	\N	3.4e-26	0.0	DKRPRTAFTAEQLQRLKNEFQNNRYLTEQRRQALAQELGLNESQIKIWFQNKRAKIKKATGNK
-2	29693825	29694013	Homeobox_dom_(SM00389)	103.0	+
-#	SSF46689	IPR009057	171	245	\N	7.3e-23	0.0	EDKRPRTAFTAEQLQRLKNEFQNNRYLTEQRRQALAQELGLNESQIKIWFQNKRAKIKKATGNKNTLAVHLMAQG
-2	29693822	29694046	Homeodomain-like_(SSF46689)	0.0	+
+2	29693819	29694001	Homeobox_dom	22.204	+	29693819	29694001	83,88,95	1	182	0	PS50071	http://www.expasy.ch/prosite/PS50071
+2	29693966	29693995	Homeobox_metazoa	430.0	+	29693966	29693995	83,88,95	1	29	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
+2	29693936	29693968	Homeobox_metazoa	381.0	+	29693936	29693968	83,88,95	1	32	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
+2	29693822	29693875	Homeodomain_engrailed	753.0	+	29693822	29693875	83,88,95	1	53	0	PR00026	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00026&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00026
+2	29694011	29694064	Homeodomain_engrailed	729.0	+	29694011	29694064	83,88,95	1	53	0	PR00026	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00026&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00026
+2	29693912	29693941	HTH_motif	227.0	+	29693912	29693941	83,88,95	1	29	0	PR00031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00031
+2	29693939	29693989	HTH_motif	614.0	+	29693939	29693989	83,88,95	1	50	0	PR00031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00031
+2	29693891	29693926	Homeobox_metazoa	246.0	+	29693891	29693926	83,88,95	1	35	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
+2	29693999	29694094	Homeobox-engrailed_C-terminal	68.2	+	29693999	29694094	83,88,95	1	95	0	PF10525	http://pfam.sanger.ac.uk/family?acc=PF10525
+2	29693828	29693998	Homeobox_dom	79.8	+	29693828	29693998	83,88,95	1	170	0	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
+2	29693825	29694013	Homeobox_dom	103.0	+	29693825	29694013	83,88,95	1	188	0	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
+2	29693822	29694046	Homeodomain-like	0.0	+	29693822	29694046	83,88,95	1	224	0	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

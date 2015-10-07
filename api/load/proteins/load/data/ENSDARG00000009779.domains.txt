@@ -1,23 +1,10 @@
-browser position chr19:358591-363093
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000009779	ENSDART00000114284	ENSDARP00000098601	358591	363093	###
-#	PF00452	IPR026298	117	217	\N	8.2e-28	0.0	MKRVVDNILVKHQIAYKGMIQRLQLDSQPASLDFIRCIASTMFKDGVTNWGRIASLVAFGAVVCSRLKELQQDQCVERVAEQISSYLTSEQQDWILKNKSW
-19	359117	361329	Blc2_fam_(PF00452)	83.1	+
-#	PR01862	IPR026298	194	218	\N	1.1e-09	24.39	RVAEQISSYLTSEQQDWILKNKSWH
-19	361258	362516	Blc2_fam_(PR01862)	350.0	+
-#	PR01862	IPR026298	165	193	\N	1.1e-09	31.82	NWGRIASLVAFGAVVCSRLKELQQDQCVE
-19	361171	361257	Blc2_fam_(PR01862)	498.0	+
-#	PR01862	IPR026298	151	163	\N	1.1e-09	29.1	IRCIASTMFKDGV
-19	361129	361167	Blc2_fam_(PR01862)	204.0	+
-#	PR01866	IPR013281	242	255	\N	9e-25	82.14	GCAGIGAGLAFLIR
-19	362586	362627	Apop_reg_Mc1_(PR01866)	602.0	+
-#	PR01866	IPR013281	227	240	\N	9e-25	55.95	EDVESVVRHGLLAL
-19	362541	362582	Apop_reg_Mc1_(PR01866)	366.0	+
-#	PR01866	IPR013281	173	188	\N	9e-25	53.12	VAFGAVVCSRLKELQQ
-19	361195	361242	Apop_reg_Mc1_(PR01866)	448.0	+
-#	PR01866	IPR013281	158	171	\N	9e-25	77.38	MFKDGVTNWGRIAS
-19	361150	361191	Apop_reg_Mc1_(PR01866)	642.0	+
-#	PR01866	IPR013281	140	156	\N	9e-25	23.53	QLDSQPASLDFIRCIAS
-19	361096	361146	Apop_reg_Mc1_(PR01866)	150.0	+
-#	PS50062	IPR002475	117	219	\N	0.0	0.0	MKRVVDNILVKHQIAYKGMIQRLQLDSQPASLDFIRCIASTMFKDGVTNWGRIASLVAFGAVVCSRLKELQQDQCVERVAEQISSYLTSEQQDWILKNKSWHG
-19	359117	362519	Bcl2-like_(PS50062)	20.213	+
+19	359117	361329	Blc2_fam	83.1	+	359117	361329	83,88,95	2	51,250	0,1962	PF00452	http://pfam.sanger.ac.uk/family?acc=PF00452
+19	361258	362516	Blc2_fam	350.0	+	361258	362516	83,88,95	2	71,2	0,1256	PR01862	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01862&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01862
+19	361171	361257	Blc2_fam	498.0	+	361171	361257	83,88,95	1	86	0	PR01862	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01862&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01862
+19	361129	361167	Blc2_fam	204.0	+	361129	361167	83,88,95	1	38	0	PR01862	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01862&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01862
+19	362586	362627	Apop_reg_Mc1	602.0	+	362586	362627	83,88,95	1	41	0	PR01866	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01866&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01866
+19	362541	362582	Apop_reg_Mc1	366.0	+	362541	362582	83,88,95	1	41	0	PR01866	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01866&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01866
+19	361195	361242	Apop_reg_Mc1	448.0	+	361195	361242	83,88,95	1	47	0	PR01866	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01866&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01866
+19	361150	361191	Apop_reg_Mc1	642.0	+	361150	361191	83,88,95	1	41	0	PR01866	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01866&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01866
+19	361096	361146	Apop_reg_Mc1	150.0	+	361096	361146	83,88,95	1	50	0	PR01866	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01866&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01866
+19	359117	362519	Bcl2-like	20.213	+	359117	362519	83,88,95	3	51,250,5	0,1962,3397	PS50062	http://www.expasy.ch/prosite/PS50062

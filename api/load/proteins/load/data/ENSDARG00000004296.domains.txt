@@ -1,55 +1,26 @@
-browser position chr10:10767460-10789768
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000004296	ENSDART00000027026	ENSDARP00000011426	10767460	10789768	###
-#	PR00179	IPR002345	118	130	\N	9.199999999999999e-08	38.98	VVHTNYNEYALVV
-10	10781558	10781596	Lipocalin_(PR00179)	286.0	+
-#	PR00179	IPR002345	146	161	\N	9.199999999999999e-08	33.19	LYGRTMELRPTLIEDF
-10	10781642	10782776	Lipocalin_(PR00179)	225.0	+
-#	PR00179	IPR002345	34	46	\N	9.199999999999999e-08	38.88	NRFMGKWYDIAVA
-10	10767714	10769052	Lipocalin_(PR00179)	339.0	+
-#	PR00759	IPR002223	316	331	\N	2.5e-09	48.27	GNGNRFYSKKECDEYC
-10	10789064	10789111	Prot_inh_Kunz-m_(PR00759)	449.0	+
-#	PF00061	IPR000566	37	179	\N	2.3e-30	0.0	MGKWYDIAVASTCPWMKRHKGDAAIGSLELQSSGSPQSLSMTRIGLRRGTCKSISGEYQLTKTPGRFHYHSAKWNSDVDAYVVHTNYNEYALVVMLKQKPGGEKSTSVKLYGRTMELRPTLIEDFKTLVAEQGMSEDTIIIKK
-10	10769023	10782830	Lipocln_cytosolic_FA-bd_dom_(PF00061)	92.9	+
-#	PF00014	IPR002223	224	276	\N	1.9e-20	0.0	ACKSEPDSGPCFGMLTRFHYNSSIMSCQMFTFGGCMGNQNNFPTEKDCLQSCR
-10	10788699	10788857	Prot_inh_Kunz-m_(PF00014)	60.3	+
-#	PF00014	IPR002223	280	332	\N	5.4e-22	0.0	ACRLPMDAGPCKAFVDLWAFDSSSGKCLSLKYGGCKGNGNRFYSKKECDEYCG
-10	10788956	10789114	Prot_inh_Kunz-m_(PF00014)	65.3	+
-#	SM00131	IPR002223	279	332	\N	9.2e-22	0.0	AACRLPMDAGPCKAFVDLWAFDSSSGKCLSLKYGGCKGNGNRFYSKKECDEYCG
-10	10788953	10789114	Prot_inh_Kunz-m_(SM00131)	88.3	+
-#	SM00131	IPR002223	223	276	\N	2.6e-21	0.0	DACKSEPDSGPCFGMLTRFHYNSSIMSCQMFTFGGCMGNQNNFPTEKDCLQSCR
-10	10788696	10788857	Prot_inh_Kunz-m_(SM00131)	86.8	+
-#	PR00759	IPR002223	306	316	\N	2.5e-09	51.9	CLSLKYGGCKG
-10	10789034	10789066	Prot_inh_Kunz-m_(PR00759)	361.0	+
-#	PR00759	IPR002223	278	292	\N	2.5e-09	40.24	EAACRLPMDAGPCKA
-10	10788861	10788994	Prot_inh_Kunz-m_(PR00759)	323.0	+
-#	PR01254	IPR002972	160	178	\N	5.8e-16	33.33	DFKTLVAEQGMSEDTIIIK
-10	10782771	10782827	PstgldnD_synth_(PR01254)	322.0	+
-#	PR01254	IPR002972	143	157	\N	5.8e-16	37.78	SVKLYGRTMELRPTL
-10	10781633	10782764	PstgldnD_synth_(PR01254)	240.0	+
-#	PR01254	IPR002972	107	130	\N	5.8e-16	42.71	SAKWNSDVDAYVVHTNYNEYALVV
-10	10781443	10781596	PstgldnD_synth_(PR01254)	476.0	+
-#	PR01254	IPR002972	28	51	\N	5.8e-16	38.19	QENFNVNRFMGKWYDIAVASTCPW
-10	10767696	10769067	PstgldnD_synth_(PR01254)	592.0	+
-#	PR01215	IPR002968	169	188	\N	5e-37	51.88	GMSEDTIIIKKNKGECVPGE
-10	10782798	10783295	A1-microglobln_(PR01215)	639.0	+
-#	PR01215	IPR002968	141	162	\N	5e-37	46.02	STSVKLYGRTMELRPTLIEDFK
-10	10781627	10782779	A1-microglobln_(PR01215)	583.0	+
-#	PR01215	IPR002968	109	128	\N	5e-37	62.5	KWNSDVDAYVVHTNYNEYAL
-10	10781531	10781590	A1-microglobln_(PR01215)	803.0	+
-#	PR01215	IPR002968	28	41	\N	5e-37	62.5	QENFNVNRFMGKWY
-10	10767696	10769037	A1-microglobln_(PR01215)	543.0	+
-#	PR01215	IPR002968	43	54	\N	5e-37	65.62	IAVASTCPWMKR
-10	10769041	10769076	A1-microglobln_(PR01215)	539.0	+
-#	PR01215	IPR002968	87	102	\N	5e-37	46.09	CKSISGEYQLTKTPGR
-10	10781383	10781430	A1-microglobln_(PR01215)	421.0	+
-#	PS50279	IPR002223	225	275	\N	0.0	0.0	CKSEPDSGPCFGMLTRFHYNSSIMSCQMFTFGGCMGNQNNFPTEKDCLQSC
-10	10788702	10788854	Prot_inh_Kunz-m_(PS50279)	14.392000000000001	+
-#	PS50279	IPR002223	281	331	\N	0.0	0.0	CRLPMDAGPCKAFVDLWAFDSSSGKCLSLKYGGCKGNGNRFYSKKECDEYC
-10	10788959	10789111	Prot_inh_Kunz-m_(PS50279)	14.630999999999998	+
-#	SSF50814	IPR011038	17	184	\N	8.9e-40	0.0	GPLPDEPVLQTQENFNVNRFMGKWYDIAVASTCPWMKRHKGDAAIGSLELQSSGSPQSLSMTRIGLRRGTCKSISGEYQLTKTPGRFHYHSAKWNSDVDAYVVHTNYNEYALVVMLKQKPGGEKSTSVKLYGRTMELRPTLIEDFKTLVAEQGMSEDTIIIKKNKGEC
-10	10767663	10783283	Calycin-like_(SSF50814)	0.0	+
-#	SSF57362	IPR002223	277	331	\N	2.5e-18	0.0	TEAACRLPMDAGPCKAFVDLWAFDSSSGKCLSLKYGGCKGNGNRFYSKKECDEYC
-10	10788858	10789111	Prot_inh_Kunz-m_(SSF57362)	0.0	+
-#	SSF57362	IPR002223	221	275	\N	1.9e-17	0.0	GPDACKSEPDSGPCFGMLTRFHYNSSIMSCQMFTFGGCMGNQNNFPTEKDCLQSC
-10	10786109	10788854	Prot_inh_Kunz-m_(SSF57362)	0.0	+
+10	10781558	10781596	Lipocalin	286.0	+	10781558	10781596	83,88,95	1	38	0	PR00179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00179
+10	10781642	10782776	Lipocalin	225.0	+	10781642	10782776	83,88,95	2	6,40	0,1094	PR00179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00179
+10	10767714	10769052	Lipocalin	339.0	+	10767714	10769052	83,88,95	2	5,32	0,1306	PR00179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00179
+10	10789064	10789111	Prot_inh_Kunz-m	449.0	+	10789064	10789111	83,88,95	1	47	0	PR00759	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00759&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00759
+10	10769023	10782830	Lipocln_cytosolic_FA-bd_dom	92.9	+	10769023	10782830	83,88,95	4	139,76,116,94	0,12350,12509,13713	PF00061	http://pfam.sanger.ac.uk/family?acc=PF00061
+10	10788699	10788857	Prot_inh_Kunz-m	60.3	+	10788699	10788857	83,88,95	1	158	0	PF00014	http://pfam.sanger.ac.uk/family?acc=PF00014
+10	10788956	10789114	Prot_inh_Kunz-m	65.3	+	10788956	10789114	83,88,95	1	158	0	PF00014	http://pfam.sanger.ac.uk/family?acc=PF00014
+10	10788953	10789114	Prot_inh_Kunz-m	88.3	+	10788953	10789114	83,88,95	1	161	0	SM00131	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00131
+10	10788696	10788857	Prot_inh_Kunz-m	86.8	+	10788696	10788857	83,88,95	1	161	0	SM00131	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00131
+10	10789034	10789066	Prot_inh_Kunz-m	361.0	+	10789034	10789066	83,88,95	1	32	0	PR00759	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00759&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00759
+10	10788861	10788994	Prot_inh_Kunz-m	323.0	+	10788861	10788994	83,88,95	2	3,40	0,93	PR00759	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00759&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00759
+10	10782771	10782827	PstgldnD_synth	322.0	+	10782771	10782827	83,88,95	1	56	0	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+10	10781633	10782764	PstgldnD_synth	240.0	+	10781633	10782764	83,88,95	2	15,28	0,1103	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+10	10781443	10781596	PstgldnD_synth	476.0	+	10781443	10781596	83,88,95	2	6,64	0,89	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+10	10767696	10769067	PstgldnD_synth	592.0	+	10767696	10769067	83,88,95	2	23,47	0,1324	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+10	10782798	10783295	A1-microglobln	639.0	+	10782798	10783295	83,88,95	2	39,19	0,478	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+10	10781627	10782779	A1-microglobln	583.0	+	10781627	10782779	83,88,95	2	21,43	0,1109	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+10	10781531	10781590	A1-microglobln	803.0	+	10781531	10781590	83,88,95	1	59	0	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+10	10767696	10769037	A1-microglobln	543.0	+	10767696	10769037	83,88,95	2	23,17	0,1324	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+10	10769041	10769076	A1-microglobln	539.0	+	10769041	10769076	83,88,95	1	35	0	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+10	10781383	10781430	A1-microglobln	421.0	+	10781383	10781430	83,88,95	1	47	0	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+10	10788702	10788854	Prot_inh_Kunz-m	14.392000000000001	+	10788702	10788854	83,88,95	1	152	0	PS50279	http://www.expasy.ch/prosite/PS50279
+10	10788959	10789111	Prot_inh_Kunz-m	14.630999999999998	+	10788959	10789111	83,88,95	1	152	0	PS50279	http://www.expasy.ch/prosite/PS50279
+10	10767663	10783283	Calycin-like	0.0	+	10767663	10783283	83,88,95	6	56,142,76,116,101,7	0,1357,13710,13869,15073,15613	SSF50814	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50814
+10	10788858	10789111	Prot_inh_Kunz-m	0.0	+	10788858	10789111	83,88,95	2	6,157	0,96	SSF57362	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57362
+10	10786109	10788854	Prot_inh_Kunz-m	0.0	+	10786109	10788854	83,88,95	2	6,157	0,2588	SSF57362	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57362

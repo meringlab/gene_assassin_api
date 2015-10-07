@@ -1,19 +1,8 @@
-browser position chr19:27215963-27222011
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000077776	ENSDART00000109258	ENSDARP00000098474	27215963	27222001	###
-#	PF01214	IPR000704	8	191	\N	4.399999999999999e-89	0.0	SWISWFCGLRGNEFFCEVDEDYIQDKFNLTGLNEQVPHYRQALDMILDLEPDEELEDNPNQSDLIEQAAEMLYGLIHARYILTNRGIAQMLEKYQQGDFGYCPRVYCENQPMLPIGLSDIPGEAMVKLYCPKCMDVYTPKSSRHHHTDGAYFGTGFPHMLFMVHPEYRPKRPANQFVPRLYGFK
-19	27217007	27221331	Casein_kinase_II_reg-sub_(PF01214)	283.2	-
-#	PR00472	IPR000704	80	101	\N	3.7e-71	77.84	YGLIHARYILTNRGIAQMLEKY
-19	27218203	27218355	Casein_kinase_II_reg-sub_(PR00472)	923.0	-
-#	PR00472	IPR000704	105	126	\N	3.7e-71	75.57	DFGYCPRVYCENQPMLPIGLSD
-19	27217284	27218193	Casein_kinase_II_reg-sub_(PR00472)	984.0	-
-#	PR00472	IPR000704	127	148	\N	3.7e-71	69.03	IPGEAMVKLYCPKCMDVYTPKS
-19	27217218	27217283	Casein_kinase_II_reg-sub_(PR00472)	893.0	-
-#	PR00472	IPR000704	155	172	\N	3.7e-71	73.96	DGAYFGTGFPHMLFMVHP
-19	27217146	27217199	Casein_kinase_II_reg-sub_(PR00472)	775.0	-
-#	PR00472	IPR000704	8	24	\N	3.7e-71	79.41	SWISWFCGLRGNEFFCE
-19	27221281	27221331	Casein_kinase_II_reg-sub_(PR00472)	876.0	-
-#	PR00472	IPR000704	25	39	\N	3.7e-71	82.08	VDEDYIQDKFNLTGL
-19	27218730	27218774	Casein_kinase_II_reg-sub_(PR00472)	655.0	-
-#	SSF57798	IPR000704	6	205	\N	2.4999999999999994e-91	0.0	EVSWISWFCGLRGNEFFCEVDEDYIQDKFNLTGLNEQVPHYRQALDMILDLEPDEELEDNPNQSDLIEQAAEMLYGLIHARYILTNRGIAQMLEKYQQGDFGYCPRVYCENQPMLPIGLSDIPGEAMVKLYCPKCMDVYTPKSSRHHHTDGAYFGTGFPHMLFMVHPEYRPKRPANQFVPRLYGFKIHPMAYQLQLQAAS
-19	27216965	27221337	Casein_kinase_II_reg-sub_(SSF57798)	0.0	-
+19	27217007	27221331	Casein_kinase_II_reg-sub	283.2	-	27217007	27221331	83,88,95	6	4274,-102,-115,-75,-189,4309	0,1767,1410,1207,287,15	PF01214	http://pfam.sanger.ac.uk/family?acc=PF01214
+19	27218203	27218355	Casein_kinase_II_reg-sub	923.0	-	27218203	27218355	83,88,95	2	99,141	0,11	PR00472	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00472&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00472
+19	27217284	27218193	Casein_kinase_II_reg-sub	984.0	-	27217284	27218193	83,88,95	2	855,899	0,10	PR00472	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00472&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00472
+19	27217218	27217283	Casein_kinase_II_reg-sub	893.0	-	27217218	27217283	83,88,95	1	65	0	PR00472	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00472&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00472
+19	27217146	27217199	Casein_kinase_II_reg-sub	775.0	-	27217146	27217199	83,88,95	1	53	0	PR00472	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00472&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00472
+19	27221281	27221331	Casein_kinase_II_reg-sub	876.0	-	27221281	27221331	83,88,95	1	50	0	PR00472	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00472&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00472
+19	27218730	27218774	Casein_kinase_II_reg-sub	655.0	-	27218730	27218774	83,88,95	1	44	0	PR00472	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00472&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00472
+19	27216965	27221337	Casein_kinase_II_reg-sub	0.0	-	27216965	27221337	83,88,95	6	4316,-102,-115,-75,-189,4315	0,1809,1452,1249,329,57	SSF57798	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57798

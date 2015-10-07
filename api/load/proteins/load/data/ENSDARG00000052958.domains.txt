@@ -1,15 +1,6 @@
-browser position chr8:50768418-50769006
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000052958	ENSDART00000060765	ENSDARP00000060764	50768418	50769006	###
-#	PR00712	IPR002408	100	110	\N	9.000000000000001e-07	77.92	SGCFGSKLDRI
-8	50768792	50768824	Natriuretic_peptide_brain_(PR00712)	491.0	+
-#	PR00712	IPR002408	110	123	\N	9.000000000000001e-07	56.12	IGSMSSLGCNTVGR
-8	50768822	50768863	Natriuretic_peptide_brain_(PR00712)	410.0	+
-#	PR00710	IPR000663	99	108	\N	6.3e-05	60.77	NSGCFGSKLD
-8	50768789	50768818	Natr_peptide_(PR00710)	378.0	+
-#	PR00710	IPR000663	108	117	\N	6.3e-05	75.64	DRIGSMSSLG
-8	50768816	50768845	Natr_peptide_(PR00710)	381.0	+
-#	PF00212	IPR000663	93	118	\N	5.1e-17	0.0	KDSKKKNSGCFGSKLDRIGSMSSLGC
-8	50768771	50768848	Natr_peptide_(PF00212)	48.3	+
-#	SM00183	IPR000663	95	118	\N	3.5000000000000004e-06	0.0	SKKKNSGCFGSKLDRIGSMSSLGC
-8	50768777	50768848	Natr_peptide_(SM00183)	36.6	+
+8	50768792	50768824	Natriuretic_peptide_brain	491.0	+	50768792	50768824	83,88,95	1	32	0	PR00712	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00712&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00712
+8	50768822	50768863	Natriuretic_peptide_brain	410.0	+	50768822	50768863	83,88,95	1	41	0	PR00712	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00712&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00712
+8	50768789	50768818	Natr_peptide	378.0	+	50768789	50768818	83,88,95	1	29	0	PR00710	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00710&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00710
+8	50768816	50768845	Natr_peptide	381.0	+	50768816	50768845	83,88,95	1	29	0	PR00710	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00710&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00710
+8	50768771	50768848	Natr_peptide	48.3	+	50768771	50768848	83,88,95	1	77	0	PF00212	http://pfam.sanger.ac.uk/family?acc=PF00212
+8	50768777	50768848	Natr_peptide	36.6	+	50768777	50768848	83,88,95	1	71	0	SM00183	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00183

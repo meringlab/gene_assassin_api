@@ -1,19 +1,8 @@
-browser position chr2:54597840-54609170
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000079719	ENSDART00000127232	ENSDARP00000109955	54597840	54609170	###
-#	PR00111	IPR000073	199	214	\N	6.2e-13	46.77	GYEVIAPDLAGHGAST
-2	54608529	54608576	AB_hydrolase_1_(PR00111)	342.0	-
-#	PR00111	IPR000073	245	258	\N	6.2e-13	27.34	LIGHSYGVSFCTFL
-2	54605340	54608438	AB_hydrolase_1_(PR00111)	163.0	-
-#	PR00111	IPR000073	259	272	\N	6.2e-13	32.76	AHEYPEQVHKVVMI
-2	54605298	54605339	AB_hydrolase_1_(PR00111)	278.0	-
-#	PR00111	IPR000073	359	373	\N	6.2e-13	37.93	ILLVHGMYDKFVPID
-2	54602122	54602166	AB_hydrolase_1_(PR00111)	331.0	-
-#	PR00412	IPR000639	199	214	\N	5e-08	50.57	GYEVIAPDLAGHGAST
-2	54608529	54608576	Epox_hydrolase-like_(PR00412)	438.0	-
-#	PR00412	IPR000639	245	258	\N	5e-08	25.97	LIGHSYGVSFCTFL
-2	54605340	54608438	Epox_hydrolase-like_(PR00412)	185.0	-
-#	PR00412	IPR000639	390	412	\N	5e-08	25.89	IEEGSHMVMMECPETVNTLLHEF
-2	54597963	54598031	Epox_hydrolase-like_(PR00412)	293.0	-
-#	PF00561	IPR000073	200	274	\N	9.8e-17	0.0	YEVIAPDLAGHGASTAPQIAAAYTFYALAEDLRAIFKRYARKRNILIGHSYGVSFCTFLAHEYPEQVHKVVMING
-2	54605292	54608573	AB_hydrolase_1_(PF00561)	48.5	-
+2	54608529	54608576	AB_hydrolase_1	342.0	-	54608529	54608576	83,88,95	1	47	0	PR00111	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00111&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00111
+2	54605340	54608438	AB_hydrolase_1	163.0	-	54605340	54608438	83,88,95	2	3079,3077	0,21	PR00111	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00111&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00111
+2	54605298	54605339	AB_hydrolase_1	278.0	-	54605298	54605339	83,88,95	1	41	0	PR00111	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00111&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00111
+2	54602122	54602166	AB_hydrolase_1	331.0	-	54602122	54602166	83,88,95	1	44	0	PR00111	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00111&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00111
+2	54608529	54608576	Epox_hydrolase-like	438.0	-	54608529	54608576	83,88,95	1	47	0	PR00412	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00412&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00412
+2	54605340	54608438	Epox_hydrolase-like	185.0	-	54605340	54608438	83,88,95	2	3079,3077	0,21	PR00412	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00412&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00412
+2	54597963	54598031	Epox_hydrolase-like	293.0	-	54597963	54598031	83,88,95	1	68	0	PR00412	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00412&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00412
+2	54605292	54608573	AB_hydrolase_1	48.5	-	54605292	54608573	83,88,95	2	3127,3212	0,69	PF00561	http://pfam.sanger.ac.uk/family?acc=PF00561

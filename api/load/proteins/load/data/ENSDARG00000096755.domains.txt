@@ -1,15 +1,6 @@
-browser position chr20:37500444-37505788
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000096755	ENSDART00000152959	ENSDARP00000127164	37500444	37505788	###
-#	PF00322	IPR001928	15	43	\N	2.3e-19	0.0	RERRCSCENLKDKECVYFCHIGIVWVDTP
-20	37505660	37505746	Endothln-like_toxin_(PF00322)	54.9	-
-#	PR00365	IPR020475	17	29	\N	1.4e-13	67.31	RRCSCENLKDKEC
-20	37505702	37505740	Bibrotoxin/Sarafotoxin-D_(PR00365)	548.0	-
-#	PR00365	IPR020475	29	39	\N	1.4e-13	70.25	CVYFCHIGIVW
-20	37505672	37505704	Bibrotoxin/Sarafotoxin-D_(PR00365)	611.0	-
-#	PR00365	IPR020475	40	52	\N	1.4e-13	53.5	VDTPSQVIPYGMG
-20	37501075	37505671	Bibrotoxin/Sarafotoxin-D_(PR00365)	468.0	-
-#	SM00272	IPR001928	18	39	\N	3.3e-07	0.0	RCSCENLKDKECVYFCHIGIVW
-20	37505672	37505737	Endothln-like_toxin_(SM00272)	39.9	-
-#	SM00272	IPR001928	61	82	\N	2.1	0.0	RCRCVDGKDSKCLRFCFNSTLQ
-20	37500985	37501050	Endothln-like_toxin_(SM00272)	12.4	-
+20	37505660	37505746	Endothln-like_toxin	54.9	-	37505660	37505746	83,88,95	1	86	0	PF00322	http://pfam.sanger.ac.uk/family?acc=PF00322
+20	37505702	37505740	Bibrotoxin/Sarafotoxin-D	548.0	-	37505702	37505740	83,88,95	1	38	0	PR00365	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00365&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00365
+20	37505672	37505704	Bibrotoxin/Sarafotoxin-D	611.0	-	37505672	37505704	83,88,95	1	32	0	PR00365	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00365&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00365
+20	37501075	37505671	Bibrotoxin/Sarafotoxin-D	468.0	-	37501075	37505671	83,88,95	2	4585,4570	0,26	PR00365	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00365&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00365
+20	37505672	37505737	Endothln-like_toxin	39.9	-	37505672	37505737	83,88,95	1	65	0	SM00272	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00272
+20	37500985	37501050	Endothln-like_toxin	12.4	-	37500985	37501050	83,88,95	1	65	0	SM00272	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00272

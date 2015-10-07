@@ -1,17 +1,7 @@
-browser position chr20:45839048-45863644
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000069101	ENSDART00000100290	ENSDARP00000091063	45839048	45863640	###
-#	PR00448	IPR000744	37	56	\N	1e-81	75.71	KVEEACEMYARAANMFKMAK
-20	45859427	45859486	NSF_attach_(PR00448)	804.0	-
-#	PR00448	IPR000744	100	117	\N	1e-81	72.22	AIKCLNAAIDIYTDMGRF
-20	45852018	45853951	NSF_attach_(PR00448)	678.0	-
-#	PR00448	IPR000744	129	146	\N	1e-81	73.81	EVYESELVDIEKAIAHYE
-20	45851063	45851984	NSF_attach_(PR00448)	710.0	-
-#	PR00448	IPR000744	162	185	\N	1e-81	79.17	NKCLLKVASYSAQLEQYQKAIEIY
-20	45850815	45850886	NSF_attach_(PR00448)	978.0	-
-#	PR00448	IPR000744	193	212	\N	1e-81	75.71	MDNPLLKYSAKEYFFKASLC
-20	45848160	45848219	NSF_attach_(PR00448)	838.0	-
-#	PR00448	IPR000744	233	253	\N	1e-81	79.59	PAFSDSRECKLLKKLLEAHEE
-20	45840017	45848016	NSF_attach_(PR00448)	856.0	-
-#	PR00448	IPR000744	264	284	\N	1e-81	85.71	KEFDSISRLDQWLTTMLLRIK
-20	45839465	45839527	NSF_attach_(PR00448)	928.0	-
+20	45859427	45859486	NSF_attach	804.0	-	45859427	45859486	83,88,95	1	59	0	PR00448	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00448&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00448
+20	45852018	45853951	NSF_attach	678.0	-	45852018	45853951	83,88,95	2	1889,1925	0,8	PR00448	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00448&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00448
+20	45851063	45851984	NSF_attach	710.0	-	45851063	45851984	83,88,95	2	886,904	0,17	PR00448	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00448&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00448
+20	45850815	45850886	NSF_attach	978.0	-	45850815	45850886	83,88,95	1	71	0	PR00448	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00448&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00448
+20	45848160	45848219	NSF_attach	838.0	-	45848160	45848219	83,88,95	1	59	0	PR00448	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00448&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00448
+20	45840017	45848016	NSF_attach	856.0	-	45840017	45848016	83,88,95	2	7961,7976	0,23	PR00448	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00448&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00448
+20	45839465	45839527	NSF_attach	928.0	-	45839465	45839527	83,88,95	1	62	0	PR00448	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00448&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00448

@@ -1,13 +1,5 @@
-browser position chr17:15951524-15974488
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000025024	ENSDART00000030919	ENSDARP00000035567	15951524	15974488	###
-#	PF01160	IPR006024	46	104	\N	1.1000000000000001e-20	0.0	PLWTLLLLGLCNPAWCDCQKDCLFCSQKLPNEYAFNNLVCLVECHGKLSPGDTWEMCRR
-17	15952673	15957740	Opioid_neupept_(PF01160)	59.5	-
-#	PR01028	IPR006024	62	73	\N	1.9e-10	43.14	DCQKDCLFCSQK
-17	15957657	15957692	Opioid_neupept_(PR01028)	362.0	-
-#	PR01028	IPR006024	81	89	\N	1.9e-10	50.98	NNLVCLVEC
-17	15952718	15957635	Opioid_neupept_(PR01028)	298.0	-
-#	PR01028	IPR006024	89	102	\N	1.9e-10	40.76	CHGKLSPGDTWEMC
-17	15952679	15952720	Opioid_neupept_(PR01028)	376.0	-
-#	PR01028	IPR006024	200	210	\N	1.9e-10	56.68	HLIKRFGGFLK
-17	15952355	15952387	Opioid_neupept_(PR01028)	348.0	-
+17	15952673	15957740	Opioid_neupept	59.5	-	15952673	15957740	83,88,95	2	4956,5003	0,64	PF01160	http://pfam.sanger.ac.uk/family?acc=PF01160
+17	15957657	15957692	Opioid_neupept	362.0	-	15957657	15957692	83,88,95	1	35	0	PR01028	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01028&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01028
+17	15952718	15957635	Opioid_neupept	298.0	-	15952718	15957635	83,88,95	2	4911,4898	0,19	PR01028	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01028&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01028
+17	15952679	15952720	Opioid_neupept	376.0	-	15952679	15952720	83,88,95	1	41	0	PR01028	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01028&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01028
+17	15952355	15952387	Opioid_neupept	348.0	-	15952355	15952387	83,88,95	1	32	0	PR01028	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01028&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01028

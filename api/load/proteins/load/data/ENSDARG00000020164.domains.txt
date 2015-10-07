@@ -1,17 +1,7 @@
-browser position chr9:27137159-27160650
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000020164	ENSDART00000026011	ENSDARP00000010432	27137159	27160650	###
-#	PF00812	IPR001799	26	163	\N	1.2e-57	0.0	ILDSIYWNTTNTKFVPGQGLVLYPQIGDKMDIVCPRVEGGSMEGVEYYKLYMVPLEQLKSCQVTKADTPLLNCVKPDQDVKFTLKFQEFSPNLWGLEFFRGKDYYIISTSNGTMEGLDNQEGGVCKTKSMKIIMKVGQ
-9	27137234	27154273	Ephrin_(PF00812)	179.9	+
-#	PR01347	IPR001799	119	130	\N	8.4e-24	54.76	WGLEFFRGKDYY
-9	27145125	27145160	Ephrin_(PR01347)	359.0	+
-#	PR01347	IPR001799	46	63	\N	8.4e-24	49.6	VLYPQIGDKMDIVCPRVE
-9	27144906	27144959	Ephrin_(PR01347)	516.0	+
-#	PR01347	IPR001799	71	86	\N	8.4e-24	51.56	EYYKLYMVPLEQLKSC
-9	27144981	27145028	Ephrin_(PR01347)	416.0	+
-#	PR01347	IPR001799	106	118	\N	8.4e-24	60.71	KFTLKFQEFSPNL
-9	27145086	27145124	Ephrin_(PR01347)	404.0	+
-#	PR01347	IPR001799	30	44	\N	8.4e-24	42.62	IYWNTTNTKFVPGQG
-9	27137246	27144902	Ephrin_(PR01347)	428.0	+
-#	SSF49503	IPR008972	24	164	\N	9.5e-56	0.0	ALILDSIYWNTTNTKFVPGQGLVLYPQIGDKMDIVCPRVEGGSMEGVEYYKLYMVPLEQLKSCQVTKADTPLLNCVKPDQDVKFTLKFQEFSPNLWGLEFFRGKDYYIISTSNGTMEGLDNQEGGVCKTKSMKIIMKVGQN
-9	27137228	27154720	Cupredoxin_(SSF49503)	0.0	+
+9	27137234	27154273	Ephrin	179.9	+	27137234	27154273	83,88,95	3	37,283,91	0,7650,16948	PF00812	http://pfam.sanger.ac.uk/family?acc=PF00812
+9	27145125	27145160	Ephrin	359.0	+	27145125	27145160	83,88,95	1	35	0	PR01347	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01347&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01347
+9	27144906	27144959	Ephrin	516.0	+	27144906	27144959	83,88,95	1	53	0	PR01347	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01347&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01347
+9	27144981	27145028	Ephrin	416.0	+	27144981	27145028	83,88,95	1	47	0	PR01347	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01347&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01347
+9	27145086	27145124	Ephrin	404.0	+	27145086	27145124	83,88,95	1	38	0	PR01347	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01347&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01347
+9	27137246	27144902	Ephrin	428.0	+	27137246	27144902	83,88,95	2	25,18	0,7638	PR01347	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01347&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01347
+9	27137228	27154720	Cupredoxin	0.0	+	27137228	27154720	83,88,95	4	43,283,92,1	0,7656,16954,17491	SSF49503	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49503

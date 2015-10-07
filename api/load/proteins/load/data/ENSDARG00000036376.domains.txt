@@ -1,17 +1,7 @@
-browser position chr7:23783303-23793944
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000036376	ENSDART00000052844	ENSDARP00000052843	23783303	23793944	###
-#	PR01077	IPR006187	82	104	\N	1.9999999999999999e-22	36.62	ALMIVGIIVSIAGLGVASIGMKC
-7	23787464	23787532	Claudin_(PR01077)	429.0	+
-#	PR01077	IPR006187	116	137	\N	1.9999999999999999e-22	26.18	TRTAMTGGIILLVGALCAVVAC
-7	23787566	23791895	Claudin_(PR01077)	316.0	+
-#	PR01077	IPR006187	158	182	\N	1.9999999999999999e-22	41.41	KFEFGAAIFIAWGGSFLDVLGGAML
-7	23791956	23793134	Claudin_(PR01077)	587.0	+
-#	PR01385	IPR003556	10	26	\N	8.1e-06	47.06	GFGLSLIGIIGLIVGTI
-7	23783580	23783630	Claudin14_(PR01385)	450.0	+
-#	PR01385	IPR003556	28	39	\N	8.1e-06	41.67	PQWKMSAYVGDS
-7	23783634	23783669	Claudin14_(PR01385)	360.0	+
-#	PR01385	IPR003556	64	70	\N	8.1e-06	57.14	CKIYDSI
-7	23783742	23783762	Claudin14_(PR01385)	250.0	+
-#	PF00822	IPR004031	5	182	\N	7.7e-51	0.0	GVQLLGFGLSLIGIIGLIVGTILPQWKMSAYVGDSIITAVATYQGLWMSCAFQSTGQLQCKIYDSILQLDSDLQATRALMIVGIIVSIAGLGVASIGMKCTTCGADDKVRKTRTAMTGGIILLVGALCAVVACSWFAHNVIRAFYNPFTPVNTKFEFGAAIFIAWGGSFLDVLGGAML
-7	23783565	23793134	PMP22/EMP/MP20/Claudin_(PF00822)	158.4	+
+7	23787464	23787532	Claudin	429.0	+	23787464	23787532	83,88,95	1	68	0	PR01077	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01077&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01077
+7	23787566	23791895	Claudin	316.0	+	23787566	23791895	83,88,95	2	42,22	0,4307	PR01077	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01077&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01077
+7	23791956	23793134	Claudin	587.0	+	23791956	23793134	83,88,95	2	1,72	0,1106	PR01077	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01077&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01077
+7	23783580	23783630	Claudin14	450.0	+	23783580	23783630	83,88,95	1	50	0	PR01385	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01385&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01385
+7	23783634	23783669	Claudin14	360.0	+	23783634	23783669	83,88,95	1	35	0	PR01385	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01385&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01385
+7	23783742	23783762	Claudin14	250.0	+	23783742	23783762	83,88,95	1	20	0	PR01385	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01385&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01385
+7	23783565	23793134	PMP22/EMP/MP20/Claudin	158.4	+	23783565	23793134	83,88,95	4	210,164,84,72	0,3879,8308,9497	PF00822	http://pfam.sanger.ac.uk/family?acc=PF00822

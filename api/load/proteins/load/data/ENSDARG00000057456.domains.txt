@@ -1,21 +1,9 @@
-browser position chr10:20214096-20268316
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000057456	ENSDART00000080016	ENSDARP00000074466	20214096	20268316	###
-#	SM00156	IPR006186	53	344	\N	1.9999999999999996e-154	0.0	LEEDVALRIINDGANILRHEKCMLEVEAPITVCGDVHGQFFDLMKLFEVGGSPHNTRYLFLGDYVDRGYFSIECVLYLWALKINHPTTLFLLRGNHECRHLTEYFTFKQECKIKYTERVYDACMEAFDCLPLAALLNQQFLCVHGGLSPEVTCLDDIRKLDRFKEPPAFGPMCDLLWSDPGEDYGSEKTSEHFCHNSVRGCSYFYSYPAVCDFLTNNNLLSVIRAHEAQDAGYRMYRKSQTTGFPSLITIFSAPNYLDVYNNKAAVLKYENNVMNIRQFNCSPHPYWLPNFM
-10	20230068	20255283	Ser/Thr-sp_prot-phosphatase_(SM00156)	529.0	+
-#	PR00114	IPR006186	81	108	\N	1.9999999999999994e-79	58.1	PITVCGDVHGQFFDLMKLFEVGGSPHNT
-10	20230152	20231272	Ser/Thr-sp_prot-phosphatase_(PR00114)	987.0	+
-#	PR00114	IPR006186	110	137	\N	1.9999999999999994e-79	61.9	YLFLGDYVDRGYFSIECVLYLWALKINH
-10	20231276	20244485	Ser/Thr-sp_prot-phosphatase_(PR00114)	906.0	+
-#	PR00114	IPR006186	143	167	\N	1.9999999999999994e-79	54.4	LLRGNHECRHLTEYFTFKQECKIKY
-10	20244501	20248988	Ser/Thr-sp_prot-phosphatase_(PR00114)	762.0	+
-#	PR00114	IPR006186	177	203	\N	1.9999999999999994e-79	53.73	EAFDCLPLAALLNQQFLCVHGGLSPEV
-10	20249016	20249096	Ser/Thr-sp_prot-phosphatase_(PR00114)	875.0	+
-#	PR00114	IPR006186	206	233	\N	1.9999999999999994e-79	54.84	LDDIRKLDRFKEPPAFGPMCDLLWSDPG
-10	20249103	20252308	Ser/Thr-sp_prot-phosphatase_(PR00114)	792.0	+
-#	PR00114	IPR006186	270	290	\N	1.9999999999999994e-79	37.35	NLLSVIRAHEAQDAGYRMYRK
-10	20252647	20252800	Ser/Thr-sp_prot-phosphatase_(PR00114)	389.0	+
-#	PR00114	IPR006186	298	314	\N	1.9999999999999994e-79	57.46	SLITIFSAPNYLDVYNN
-10	20252822	20252872	Ser/Thr-sp_prot-phosphatase_(PR00114)	526.0	+
-#	PF00149	IPR004843	81	281	\N	1.6e-44	0.0	PITVCGDVHGQFFDLMKLFEVGGSPHNTRYLFLGDYVDRGYFSIECVLYLWALKINHPTTLFLLRGNHECRHLTEYFTFKQECKIKYTERVYDACMEAFDCLPLAALLNQQFLCVHGGLSPEVTCLDDIRKLDRFKEPPAFGPMCDLLWSDPGEDYGSEKTSEHFCHNSVRGCSYFYSYPAVCDFLTNNNLLSVIRAHEAQ
-10	20230152	20252682	PEstase_dom_(PF00149)	138.0	+
+10	20230068	20255283	Ser/Thr-sp_prot-phosphatase	529.0	+	20230068	20255283	83,88,95	8	93,124,111,145,139,77,94,85	0,1131,14382,18907,22175,22545,22714,25130	SM00156	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00156
+10	20230152	20231272	Ser/Thr-sp_prot-phosphatase	987.0	+	20230152	20231272	83,88,95	2	9,73	0,1047	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	20231276	20244485	Ser/Thr-sp_prot-phosphatase	906.0	+	20231276	20244485	83,88,95	2	47,35	0,13174	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	20244501	20248988	Ser/Thr-sp_prot-phosphatase	762.0	+	20244501	20248988	83,88,95	2	60,13	0,4474	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	20249016	20249096	Ser/Thr-sp_prot-phosphatase	875.0	+	20249016	20249096	83,88,95	1	80	0	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	20249103	20252308	Ser/Thr-sp_prot-phosphatase	792.0	+	20249103	20252308	83,88,95	2	17,65	0,3140	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	20252647	20252800	Ser/Thr-sp_prot-phosphatase	389.0	+	20252647	20252800	83,88,95	2	43,18	0,135	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	20252822	20252872	Ser/Thr-sp_prot-phosphatase	526.0	+	20252822	20252872	83,88,95	1	50	0	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	20230152	20252682	PEstase_dom	138.0	+	20230152	20252682	83,88,95	6	9,124,111,145,139,69	0,1047,14298,18823,22091,22461	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149

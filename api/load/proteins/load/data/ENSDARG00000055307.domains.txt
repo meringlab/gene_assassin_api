@@ -1,13 +1,5 @@
-browser position chr11:37196137-37216862
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000055307	ENSDART00000145427	ENSDARP00000115067	37196137	37216862	###
-#	PF01284	IPR008253	18	211	\N	1.5e-41	0.0	VKEPLGFIRLLEWVFTICAFATTGGYVGSTVFTLKCPDKDDVDVTANFGYPFRLPSHPYLINHCNGSKNTTYLQGDFSSSAEFFVSIGVLGFLYCTFTLILYLGYQQVYRESNRGPIIDLVVTGIFAFLWLVCSSAWGKGLTDVKYATDPSRLIILCLPEDKCEIKSYPSVGRLNASVLFGFLNLILWAGNCWF
-11	37196445	37213032	Marvel_(PF01284)	128.0	+
-#	PR00220	IPR001285	25	47	\N	1.1e-35	51.81	IRLLEWVFTICAFATTGGYVGST
-11	37196466	37206188	Synaptophysin/porin_(PR00220)	654.0	+
-#	PR00220	IPR001285	100	124	\N	1.1e-35	40.33	FFVSIGVLGFLYCTFTLILYLGYQQ
-11	37208495	37208569	Synaptophysin/porin_(PR00220)	543.0	+
-#	PR00220	IPR001285	132	155	\N	1.1e-35	59.38	GPIIDLVVTGIFAFLWLVCSSAWG
-11	37208591	37209992	Synaptophysin/porin_(PR00220)	846.0	+
-#	PR00220	IPR001285	195	213	\N	1.1e-35	71.05	VLFGFLNLILWAGNCWFIY
-11	37210110	37213038	Synaptophysin/porin_(PR00220)	899.0	+
+11	37196445	37213032	Marvel	128.0	+	37196445	37213032	83,88,95	5	38,118,195,179,47	0,9693,11962,13488,16540	PF01284	http://pfam.sanger.ac.uk/family?acc=PF01284
+11	37196466	37206188	Synaptophysin/porin	654.0	+	37196466	37206188	83,88,95	2	17,50	0,9672	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+11	37208495	37208569	Synaptophysin/porin	543.0	+	37208495	37208569	83,88,95	1	74	0	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+11	37208591	37209992	Synaptophysin/porin	846.0	+	37208591	37209992	83,88,95	2	11,59	0,1342	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220
+11	37210110	37213038	Synaptophysin/porin	899.0	+	37210110	37213038	83,88,95	2	2,53	0,2875	PR00220	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00220&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00220

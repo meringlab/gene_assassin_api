@@ -1,23 +1,10 @@
-browser position chr2:5590924-5642026
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000034940	ENSDART00000124324	ENSDARP00000105593	5590924	5642026	###
-#	PF00375	IPR001991	20	478	\N	2.499999999999999e-131	0.0	LILSVLAVVIGCLLGFFLRSKHLSEQEVKYFQFPGELLMRMLKMLILPLVVSSLMSGLAALDAKCSSRLGIMTISYYLWTTFVAVVVGIVMVIIIHPGGAAQKEDSEDSGKAIMSSADALLDLIRNMFPANLVQATFQQYRTRSIPIMKPKPTISQDILETTTKRVFIYGIQDDNGTDIQNFSLDLTPPPDVVFRTLPGTSEGMNVLGIVIFSATMGIMLGRMGPNGSALVNFCQSLNEAVLKIVAIVIWYFPFGIVFLVAGKILEMDDPSAMGKKLGFYAITVVMGLVLHGLFILPSMYFFITKKSPIVYIRGILQALLISLATSSSSATLPITFKCLLENNHIDRRIIRFVLPVGATINMDGTALYEAVAAIFIAQVNNYELDFGQIITISITATAASIGAAGIPQAGLVTMVIVLTSVGLPTDDITLIIAVDWALDRFRTMVNVMGDALATGIMAH
-2	5591167	5639625	Na-dicarboxylate_symporter_(PF00375)	424.2	+
-#	PR00173	IPR001991	17	37	\N	1.1999999999999998e-112	47.75	NGLLILSVLAVVIGCLLGFFL
-2	5591158	5591220	Na-dicarboxylate_symporter_(PR00173)	472.0	+
-#	PR00173	IPR001991	60	80	\N	1.1999999999999998e-112	67.7	MLKMLILPLVVSSLMSGLAAL
-2	5600841	5618437	Na-dicarboxylate_symporter_(PR00173)	716.0	+
-#	PR00173	IPR001991	89	114	\N	1.1999999999999998e-112	45.11	GIMTISYYLWTTFVAVVVGIVMVIII
-2	5618462	5618539	Na-dicarboxylate_symporter_(PR00173)	641.0	+
-#	PR00173	IPR001991	220	242	\N	1.1999999999999998e-112	48.53	SEGMNVLGIVIFSATMGIMLGRM
-2	5630096	5630247	Na-dicarboxylate_symporter_(PR00173)	640.0	+
-#	PR00173	IPR001991	267	286	\N	1.1999999999999998e-112	58.65	VIWYFPFGIVFLVAGKILEM
-2	5630320	5633203	Na-dicarboxylate_symporter_(PR00173)	693.0	+
-#	PR00173	IPR001991	304	323	\N	1.1999999999999998e-112	43.78	VMGLVLHGLFILPSMYFFIT
-2	5633255	5633314	Na-dicarboxylate_symporter_(PR00173)	533.0	+
-#	PR00173	IPR001991	371	397	\N	1.1999999999999998e-112	91.29	FVLPVGATINMDGTALYEAVAAIFIAQ
-2	5636088	5636168	Na-dicarboxylate_symporter_(PR00173)	1238.0	+
-#	PR00173	IPR001991	406	425	\N	1.1999999999999998e-112	79.73	GQIITISITATAASIGAAGI
-2	5636193	5639376	Na-dicarboxylate_symporter_(PR00173)	763.0	+
-#	PR00173	IPR001991	433	453	\N	1.1999999999999998e-112	71.17	MVIVLTSVGLPTDDITLIIAV
-2	5639398	5639460	Na-dicarboxylate_symporter_(PR00173)	749.0	+
+2	5591167	5639625	Na-dicarboxylate_symporter	424.2	+	5591167	5639625	83,88,95	10	77,79,215,42,231,99,233,194,134,63	0,9632,27246,35711,38746,39061,41985,44851,48170,48395	PF00375	http://pfam.sanger.ac.uk/family?acc=PF00375
+2	5591158	5591220	Na-dicarboxylate_symporter	472.0	+	5591158	5591220	83,88,95	1	62	0	PR00173	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00173&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00173
+2	5600841	5618437	Na-dicarboxylate_symporter	716.0	+	5600841	5618437	83,88,95	2	37,24	0,17572	PR00173	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00173&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00173
+2	5618462	5618539	Na-dicarboxylate_symporter	641.0	+	5618462	5618539	83,88,95	1	77	0	PR00173	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00173&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00173
+2	5630096	5630247	Na-dicarboxylate_symporter	640.0	+	5630096	5630247	83,88,95	2	48,19	0,132	PR00173	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00173&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00173
+2	5630320	5633203	Na-dicarboxylate_symporter	693.0	+	5630320	5633203	83,88,95	2	7,51	0,2832	PR00173	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00173&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00173
+2	5633255	5633314	Na-dicarboxylate_symporter	533.0	+	5633255	5633314	83,88,95	1	59	0	PR00173	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00173&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00173
+2	5636088	5636168	Na-dicarboxylate_symporter	1238.0	+	5636088	5636168	83,88,95	1	80	0	PR00173	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00173&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00173
+2	5636193	5639376	Na-dicarboxylate_symporter	763.0	+	5636193	5639376	83,88,95	2	19,39	0,3144	PR00173	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00173&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00173
+2	5639398	5639460	Na-dicarboxylate_symporter	749.0	+	5639398	5639460	83,88,95	1	62	0	PR00173	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00173&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00173

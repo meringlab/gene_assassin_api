@@ -1,27 +1,12 @@
-browser position chr3:47321878-47324041
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000052223	ENSDART00000074036	ENSDARP00000068525	47321878	47324041	###
-#	PR00450	IPR001125	167	187	\N	2.6e-56	38.46	IGEGEFIQGVMENKDILRLIQ
-3	47323870	47323932	Recoverin_like_(PR00450)	378.0	+
-#	PR00450	IPR001125	23	42	\N	2.6e-56	57.88	YTEEELCAWYTSFLKECPSG
-3	47322117	47322176	Recoverin_like_(PR00450)	738.0	+
-#	PR00450	IPR001125	9	23	\N	2.6e-56	48.46	LSKELLEDLKLNTKY
-3	47322075	47322119	Recoverin_like_(PR00450)	368.0	+
-#	SM00054	IPR002048	101	129	\N	3.6000000000000003e-06	0.0	KLEWAFALYDVDGNGTISKNEVQEIVRSI
-3	47322351	47322939	EF_hand_dom_(SM00054)	36.5	+
-#	SM00054	IPR002048	65	93	\N	0.004	0.0	YARHVFRSFDTNADGTLDFKEYIVALHLT
-3	47322243	47322329	EF_hand_dom_(SM00054)	26.4	+
-#	PF00036	IPR002048	102	128	\N	4.3e-11	0.0	LEWAFALYDVDGNGTISKNEVQEIVRS
-3	47322354	47322936	EF_hand_dom_(PF00036)	28.2	+
-#	PR00450	IPR001125	141	156	\N	2.6e-56	66.59	LPDDENTPEKRADKIW
-3	47322973	47323020	Recoverin_like_(PR00450)	623.0	+
-#	PR00450	IPR001125	115	133	\N	2.6e-56	51.82	GTISKNEVQEIVRSIFNMV
-3	47322393	47322951	Recoverin_like_(PR00450)	482.0	+
-#	PR00450	IPR001125	93	112	\N	2.6e-56	62.88	TSSGKTLRKLEWAFALYDVD
-3	47322327	47322386	Recoverin_like_(PR00450)	687.0	+
-#	PR00450	IPR001125	69	90	\N	2.6e-56	66.61	VFRSFDTNADGTLDFKEYIVAL
-3	47322255	47322320	Recoverin_like_(PR00450)	821.0	+
-#	PS50222	IPR002048	61	96	\N	0.0	0.0	DPTAYARHVFRSFDTNADGTLDFKEYIVALHLTSSG
-3	47322231	47322338	EF_hand_dom_(PS50222)	12.589	+
-#	PS50222	IPR002048	97	132	\N	0.0	0.0	KTLRKLEWAFALYDVDGNGTISKNEVQEIVRSIFNM
-3	47322339	47322948	EF_hand_dom_(PS50222)	13.481	+
+3	47323870	47323932	Recoverin_like	378.0	+	47323870	47323932	83,88,95	1	62	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+3	47322117	47322176	Recoverin_like	738.0	+	47322117	47322176	83,88,95	1	59	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+3	47322075	47322119	Recoverin_like	368.0	+	47322075	47322119	83,88,95	1	44	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+3	47322351	47322939	EF_hand_dom	36.5	+	47322351	47322939	83,88,95	2	80,5	0,583	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+3	47322243	47322329	EF_hand_dom	26.4	+	47322243	47322329	83,88,95	1	86	0	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+3	47322354	47322936	EF_hand_dom	28.2	+	47322354	47322936	83,88,95	2	77,2	0,580	PF00036	http://pfam.sanger.ac.uk/family?acc=PF00036
+3	47322973	47323020	Recoverin_like	623.0	+	47322973	47323020	83,88,95	1	47	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+3	47322393	47322951	Recoverin_like	482.0	+	47322393	47322951	83,88,95	2	38,17	0,541	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+3	47322327	47322386	Recoverin_like	687.0	+	47322327	47322386	83,88,95	1	59	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+3	47322255	47322320	Recoverin_like	821.0	+	47322255	47322320	83,88,95	1	65	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+3	47322231	47322338	EF_hand_dom	12.589	+	47322231	47322338	83,88,95	1	107	0	PS50222	http://www.expasy.ch/prosite/PS50222
+3	47322339	47322948	EF_hand_dom	13.481	+	47322339	47322948	83,88,95	2	92,14	0,595	PS50222	http://www.expasy.ch/prosite/PS50222

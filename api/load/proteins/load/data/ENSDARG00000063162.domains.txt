@@ -1,13 +1,5 @@
-browser position chr16:7550542-7648716
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000063162	ENSDART00000148855	ENSDARP00000124453	7550542	7560777	###
-#	PF01284	IPR008253	39	165	\N	7.5e-16	0.0	FIRSASGALMVGEIVFGLFVWTLIGGTEYLHVPALRWVMFVSVFYWVLTVILFLLYLITLHIRITWIPWNILGMCFHGSATVLYLSAAVMGTLSLNVANRGRYYFICWVASTIFASLATLCYAGNTA
-16	7550735	7558974	Marvel_(PF01284)	44.7	+
-#	PR01884	IPR013295	143	160	\N	6.3e-15	36.36	FICWVASTIFASLATLCY
-16	7558706	7558959	MAL_(PR01884)	296.0	+
-#	PR01884	IPR013295	53	65	\N	6.3e-15	53.15	VFGLFVWTLIGGT
-16	7555634	7555672	MAL_(PR01884)	391.0	+
-#	PR01884	IPR013295	74	87	\N	6.3e-15	60.39	RWVMFVSVFYWVLT
-16	7555697	7555738	MAL_(PR01884)	470.0	+
-#	PR01884	IPR013295	107	122	\N	6.3e-15	40.34	WNILGMCFHGSATVLY
-16	7555796	7558645	MAL_(PR01884)	375.0	+
+16	7550735	7558974	Marvel	44.7	+	7550735	7558974	83,88,95	4	41,173,119,44	0,4899,7875,8195	PF01284	http://pfam.sanger.ac.uk/family?acc=PF01284
+16	7558706	7558959	MAL	296.0	+	7558706	7558959	83,88,95	2	23,29	0,224	PR01884	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01884&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01884
+16	7555634	7555672	MAL	391.0	+	7555634	7555672	83,88,95	1	38	0	PR01884	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01884&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01884
+16	7555697	7555738	MAL	470.0	+	7555697	7555738	83,88,95	1	41	0	PR01884	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01884&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01884
+16	7555796	7558645	MAL	375.0	+	7555796	7558645	83,88,95	2	11,35	0,2814	PR01884	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01884&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01884

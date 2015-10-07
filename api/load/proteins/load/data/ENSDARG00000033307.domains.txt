@@ -1,27 +1,12 @@
-browser position chr25:24762703-24770209
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000033307	ENSDART00000047569	ENSDARP00000047568	24762703	24770209	###
-#	PR02006	IPR022334	73	83	\N	9e-18	67.92	FSRPTSRSNSR
-25	24766741	24768654	IGF2_(PR02006)	388.0	-
-#	PR02006	IPR022334	101	119	\N	9e-18	92.33	LALLEQYCAKPAKSERDVS
-25	24766633	24766689	IGF2_(PR02006)	866.0	-
-#	PR02006	IPR022334	153	161	\N	9e-18	85.87	RKAAQRLRR
-25	24765516	24765542	IGF2_(PR02006)	366.0	-
-#	PR00276	IPR022352	52	68	\N	2.1e-12	61.52	TLCGGELVDALQFVCED
-25	24768667	24768717	Insulin_family_(PR00276)	539.0	-
-#	PR00276	IPR022352	89	108	\N	2.1e-12	58.28	GIVEECCFSSCNLALLEQYC
-25	24766666	24766725	Insulin_family_(PR00276)	689.0	-
-#	PR02002	IPR022350	55	65	\N	2.8e-11	90.19	GGELVDALQFV
-25	24768676	24768708	Insulin-like_growth_factor_(PR02002)	484.0	-
-#	PR02002	IPR022350	96	105	\N	2.8e-11	65.82	FSSCNLALLE
-25	24766675	24766704	Insulin-like_growth_factor_(PR02002)	318.0	-
-#	PR02002	IPR022350	109	119	\N	2.8e-11	68.3	AKPAKSERDVS
-25	24766633	24766665	Insulin-like_growth_factor_(PR02002)	348.0	-
-#	SM00078	IPR016179	51	108	\N	6.8e-24	0.0	ETLCGGELVDALQFVCEDRGFYFSRPTSRSNSRRSQNRGIVEECCFSSCNLALLEQYC
-25	24766666	24768720	Insulin-like_(SM00078)	95.4	-
-#	PF00049	IPR016179	52	108	\N	6.3e-16	0.0	TLCGGELVDALQFVCEDRGFYFSRPTSRSNSRRSQNRGIVEECCFSSCNLALLEQYC
-25	24766666	24768717	Insulin-like_(PF00049)	46.5	-
-#	PF08365	IPR013576	144	199	\N	1.7999999999999998e-31	0.0	KYSKYDVWQRKAAQRLRRGIPAILRAKKFRRQAERIKAQEQLLHHRPLITLPSKLP
-25	24765402	24765569	IGF2_C_(PF08365)	95.2	-
-#	SSF56994	IPR016179	36	117	\N	8.5e-23	0.0	CILFLTLSAFEVASAETLCGGELVDALQFVCEDRGFYFSRPTSRSNSRRSQNRGIVEECCFSSCNLALLEQYCAKPAKSERD
-25	24766639	24768765	Insulin-like_(SSF56994)	0.0	-
+25	24766741	24768654	IGF2	388.0	-	24766741	24768654	83,88,95	2	1910,1885	0,28	PR02006	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02006&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02006
+25	24766633	24766689	IGF2	866.0	-	24766633	24766689	83,88,95	1	56	0	PR02006	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02006&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02006
+25	24765516	24765542	IGF2	366.0	-	24765516	24765542	83,88,95	1	26	0	PR02006	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02006&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02006
+25	24768667	24768717	Insulin_family	539.0	-	24768667	24768717	83,88,95	1	50	0	PR00276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00276
+25	24766666	24766725	Insulin_family	689.0	-	24766666	24766725	83,88,95	1	59	0	PR00276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00276
+25	24768676	24768708	Insulin-like_growth_factor	484.0	-	24768676	24768708	83,88,95	1	32	0	PR02002	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02002&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02002
+25	24766675	24766704	Insulin-like_growth_factor	318.0	-	24766675	24766704	83,88,95	1	29	0	PR02002	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02002&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02002
+25	24766633	24766665	Insulin-like_growth_factor	348.0	-	24766633	24766665	83,88,95	1	32	0	PR02002	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02002&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02002
+25	24766666	24768720	Insulin-like	95.4	-	24766666	24768720	83,88,95	2	1985,1951	0,103	SM00078	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00078
+25	24766666	24768717	Insulin-like	46.5	-	24766666	24768717	83,88,95	2	1985,1948	0,103	PF00049	http://pfam.sanger.ac.uk/family?acc=PF00049
+25	24765402	24765569	IGF2_C	95.2	-	24765402	24765569	83,88,95	1	167	0	PF08365	http://pfam.sanger.ac.uk/family?acc=PF08365
+25	24766639	24768765	Insulin-like	0.0	-	24766639	24768765	83,88,95	2	2012,1996	0,130	SSF56994	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56994

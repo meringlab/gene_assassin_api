@@ -1,13 +1,5 @@
-browser position chr19:20594043-20596446
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000036222	ENSDART00000052620	ENSDARP00000052619	20594043	20596446	###
-#	PR00278	IPR001955	30	46	\N	6.2e-15	60.59	PTKPDNPGEDAPAEELA
-19	20595856	20595906	Pancreatic_hormone-like_(PR00278)	582.0	-
-#	PR00278	IPR001955	47	63	\N	6.2e-15	71.18	KYYSALRHYINLITRQR
-19	20595805	20595855	Pancreatic_hormone-like_(PR00278)	663.0	-
-#	PS50276	IPR001955	29	64	\N	0.0	0.0	YPTKPDNPGEDAPAEELAKYYSALRHYINLITRQRY
-19	20594806	20595909	Pancreatic_hormone-like_(PS50276)	21.599	-
-#	SM00309	IPR001955	29	64	\N	4.5e-19	0.0	YPTKPDNPGEDAPAEELAKYYSALRHYINLITRQRY
-19	20594806	20595909	Pancreatic_hormone-like_(SM00309)	79.4	-
-#	PF00159	IPR001955	29	64	\N	1.1e-24	0.0	YPTKPDNPGEDAPAEELAKYYSALRHYINLITRQRY
-19	20594806	20595909	Pancreatic_hormone-like_(PF00159)	72.7	-
+19	20595856	20595906	Pancreatic_hormone-like	582.0	-	20595856	20595906	83,88,95	1	50	0	PR00278	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00278&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00278
+19	20595805	20595855	Pancreatic_hormone-like	663.0	-	20595805	20595855	83,88,95	1	50	0	PR00278	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00278&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00278
+19	20594806	20595909	Pancreatic_hormone-like	21.599	-	20594806	20595909	83,88,95	2	1000,1100	0,3	PS50276	http://www.expasy.ch/prosite/PS50276
+19	20594806	20595909	Pancreatic_hormone-like	79.4	-	20594806	20595909	83,88,95	2	1000,1100	0,3	SM00309	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00309
+19	20594806	20595909	Pancreatic_hormone-like	72.7	-	20594806	20595909	83,88,95	2	1000,1100	0,3	PF00159	http://pfam.sanger.ac.uk/family?acc=PF00159

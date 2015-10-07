@@ -1,35 +1,16 @@
-browser position chr19:12917572-12946640
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000011334	ENSDART00000151372	ENSDARP00000125940	12917572	12926487	###
-#	PR00450	IPR001125	92	111	\N	4.499999999999999e-74	74.23	TSRGRLDQKLKWAFSMYDLD
-19	12926155	12926214	Recoverin_like_(PR00450)	843.0	-
-#	PR00450	IPR001125	164	184	\N	4.499999999999999e-74	64.29	LSLEEFVEGAKNDPSIVRLLQ
-19	12920209	12920271	Recoverin_like_(PR00450)	668.0	-
-#	PR00450	IPR001125	68	89	\N	4.499999999999999e-74	77.62	VFRTFDANGDGTIDFREFIIAL
-19	12926221	12926286	Recoverin_like_(PR00450)	890.0	-
-#	PR00450	IPR001125	22	41	\N	4.499999999999999e-74	69.23	FTEHEILEWYKGFLRDCPSG
-19	12926365	12926424	Recoverin_like_(PR00450)	890.0	-
-#	PR00450	IPR001125	8	22	\N	4.499999999999999e-74	51.03	LRPEVIQDLLDNTDF
-19	12926422	12926466	Recoverin_like_(PR00450)	399.0	-
-#	PR00450	IPR001125	114	132	\N	4.499999999999999e-74	72.87	GYISKAEMLEIVQAIYKMV
-19	12922993	12926148	Recoverin_like_(PR00450)	688.0	-
-#	PR00450	IPR001125	138	153	\N	4.499999999999999e-74	75.24	MPEDESTPEKRTDKIF
-19	12922930	12922977	Recoverin_like_(PR00450)	667.0	-
-#	PF00036	IPR002048	66	90	\N	8.4e-11	0.0	EHVFRTFDANGDGTIDFREFIIALS
-19	12926218	12926292	EF_hand_dom_(PF00036)	28.2	-
-#	PF00036	IPR002048	101	126	\N	5.6e-11	0.0	LKWAFSMYDLDGNGYISKAEMLEIVQ
-19	12926110	12926187	EF_hand_dom_(PF00036)	28.8	-
-#	PF00036	IPR002048	150	174	\N	6.4e-11	0.0	DKIFRQMDTNRDGKLSLEEFVEGAK
-19	12920239	12922941	EF_hand_dom_(PF00036)	28.6	-
-#	SM00054	IPR002048	64	92	\N	0.00056	0.0	FAEHVFRTFDANGDGTIDFREFIIALSVT
-19	12926212	12926298	EF_hand_dom_(SM00054)	29.2	-
-#	SM00054	IPR002048	100	128	\N	6.5e-07	0.0	KLKWAFSMYDLDGNGYISKAEMLEIVQAI
-19	12923005	12926190	EF_hand_dom_(SM00054)	39.0	-
-#	SM00054	IPR002048	148	176	\N	0.00021	0.0	RTDKIFRQMDTNRDGKLSLEEFVEGAKND
-19	12920233	12922947	EF_hand_dom_(SM00054)	30.7	-
-#	PS50222	IPR002048	60	95	\N	0.0	0.0	DASKFAEHVFRTFDANGDGTIDFREFIIALSVTSRG
-19	12926203	12926310	EF_hand_dom_(PS50222)	13.286	-
-#	PS50222	IPR002048	96	131	\N	0.0	0.0	RLDQKLKWAFSMYDLDGNGYISKAEMLEIVQAIYKM
-19	12922996	12926202	EF_hand_dom_(PS50222)	13.76	-
-#	PS50222	IPR002048	144	179	\N	0.0	0.0	TPEKRTDKIFRQMDTNRDGKLSLEEFVEGAKNDPSI
-19	12920224	12922959	EF_hand_dom_(PS50222)	13.035	-
+19	12926155	12926214	Recoverin_like	843.0	-	12926155	12926214	83,88,95	1	59	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	12920209	12920271	Recoverin_like	668.0	-	12920209	12920271	83,88,95	1	62	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	12926221	12926286	Recoverin_like	890.0	-	12926221	12926286	83,88,95	1	65	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	12926365	12926424	Recoverin_like	890.0	-	12926365	12926424	83,88,95	1	59	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	12926422	12926466	Recoverin_like	399.0	-	12926422	12926466	83,88,95	1	44	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	12922993	12926148	Recoverin_like	688.0	-	12922993	12926148	83,88,95	2	3117,3138	0,17	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	12922930	12922977	Recoverin_like	667.0	-	12922930	12922977	83,88,95	1	47	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	12926218	12926292	EF_hand_dom	28.2	-	12926218	12926292	83,88,95	1	74	0	PF00036	http://pfam.sanger.ac.uk/family?acc=PF00036
+19	12926110	12926187	EF_hand_dom	28.8	-	12926110	12926187	83,88,95	1	77	0	PF00036	http://pfam.sanger.ac.uk/family?acc=PF00036
+19	12920239	12922941	EF_hand_dom	28.6	-	12920239	12922941	83,88,95	2	2666,2665	0,37	PF00036	http://pfam.sanger.ac.uk/family?acc=PF00036
+19	12926212	12926298	EF_hand_dom	29.2	-	12926212	12926298	83,88,95	1	86	0	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+19	12923005	12926190	EF_hand_dom	39.0	-	12923005	12926190	83,88,95	2	3105,3180	0,5	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+19	12920233	12922947	EF_hand_dom	30.7	-	12920233	12922947	83,88,95	2	2672,2671	0,43	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+19	12926203	12926310	EF_hand_dom	13.286	-	12926203	12926310	83,88,95	1	107	0	PS50222	http://www.expasy.ch/prosite/PS50222
+19	12922996	12926202	EF_hand_dom	13.76	-	12922996	12926202	83,88,95	2	3114,3192	0,14	PS50222	http://www.expasy.ch/prosite/PS50222
+19	12920224	12922959	EF_hand_dom	13.035	-	12920224	12922959	83,88,95	2	2681,2683	0,52	PS50222	http://www.expasy.ch/prosite/PS50222

@@ -1,13 +1,5 @@
-browser position chr2:22309476-22318822
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000061948	ENSDART00000145944	ENSDARP00000114222	22309476	22318822	###
-#	PF12240	IPR024646	424	619	\N	2.0999999999999996e-92	0.0	YVEKVERLQGALTQLQATCEKREGLEMRLRTRLEQELRSLRNQQRQPQPVGGTSHVSVYTLQENLREKEERILSLEADKIRWEQKYLEEKTMREFAMDAAATAAAQRDTTIINHSPCHSFIEELPSTEYRNQEVENRIRSLYAQILEKDTVISILKQKLQHEQKGQLGALQPATADSSIISSHSTPAHTAQGKERS
-2	22314985	22316939	Angiomotin_C_(PF12240)	294.6	+
-#	PR01807	IPR009114	320	338	\N	3.3000000000000003e-25	57.89	CAKREALEQALRNKLMAEI
-2	22313454	22313510	Angiomotin_(PR01807)	551.0	+
-#	PR01807	IPR009114	495	512	\N	3.3000000000000003e-25	77.78	ILSLEADKIRWEQKYLEE
-2	22315310	22315363	Angiomotin_(PR01807)	750.0	+
-#	PR01807	IPR009114	516	533	\N	3.3000000000000003e-25	87.04	REFAMDAAATAAAQRDTT
-2	22315373	22315509	Angiomotin_(PR01807)	765.0	+
-#	PR01807	IPR009114	570	585	\N	3.3000000000000003e-25	41.67	EKDTVISILKQKLQHE
-2	22316247	22316294	Angiomotin_(PR01807)	377.0	+
+2	22314985	22316939	Angiomotin_C	294.6	+	22314985	22316939	83,88,95	5	131,187,89,169,7	0,244,515,1234,1947	PF12240	http://pfam.sanger.ac.uk/family?acc=PF12240
+2	22313454	22313510	Angiomotin	551.0	+	22313454	22313510	83,88,95	1	56	0	PR01807	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01807&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01807
+2	22315310	22315363	Angiomotin	750.0	+	22315310	22315363	83,88,95	1	53	0	PR01807	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01807&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01807
+2	22315373	22315509	Angiomotin	765.0	+	22315373	22315509	83,88,95	2	43,9	0,127	PR01807	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01807&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01807
+2	22316247	22316294	Angiomotin	377.0	+	22316247	22316294	83,88,95	1	47	0	PR01807	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01807&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01807

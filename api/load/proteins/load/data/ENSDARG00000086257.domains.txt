@@ -1,101 +1,49 @@
-browser position chr2:1691997-1695667
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000086257	ENSDART00000127071	ENSDARP00000110851	1691997	1695667	###
-#	PR01163	IPR002453	90	101	\N	2.099999999999999e-111	94.76	DNFVFGQSGAGN
-2	1692264	1694380	Beta_tubulin_(PR01163)	622.0	+
-#	PR01163	IPR002453	110	128	\N	2.099999999999999e-111	83.88	EGAELVDSVLDVVRKESEN
-2	1694405	1694461	Beta_tubulin_(PR01163)	786.0	+
-#	PR01163	IPR002453	154	166	\N	2.099999999999999e-111	90.86	ISKIREEYPDRIM
-2	1694537	1694575	Beta_tubulin_(PR01163)	615.0	+
-#	PR01163	IPR002453	214	226	\N	2.099999999999999e-111	85.45	FRTLKLTTPTYGD
-2	1694717	1694755	Beta_tubulin_(PR01163)	602.0	+
-#	PR01163	IPR002453	232	241	\N	2.099999999999999e-111	83.43	SATMSGVTTC
-2	1694771	1694800	Beta_tubulin_(PR01163)	416.0	+
-#	PR01163	IPR002453	247	260	\N	2.099999999999999e-111	89.06	QLNADLRKLAVNMV
-2	1694816	1694857	Beta_tubulin_(PR01163)	616.0	+
-#	PR01163	IPR002453	267	283	\N	2.099999999999999e-111	85.71	FFMPGFAPLTSRGSQQY
-2	1694876	1694926	Beta_tubulin_(PR01163)	774.0	+
-#	PR01163	IPR002453	313	331	\N	2.099999999999999e-111	79.49	LTVAAIFRGRMSMKEVDEQ
-2	1695014	1695070	Beta_tubulin_(PR01163)	758.0	+
-#	PR01163	IPR002453	331	345	\N	2.099999999999999e-111	84.72	QMLSVQNKNSSYFVE
-2	1695068	1695112	Beta_tubulin_(PR01163)	654.0	+
-#	PR01163	IPR002453	349	372	\N	2.099999999999999e-111	81.98	NNVKTAVCDIPPRGLKMSATFIGN
-2	1695122	1695193	Beta_tubulin_(PR01163)	1102.0	+
-#	PR01163	IPR002453	379	390	\N	2.099999999999999e-111	77.38	LFRRISEQFTAM
-2	1695212	1695247	Beta_tubulin_(PR01163)	499.0	+
-#	PR01163	IPR002453	414	432	\N	2.099999999999999e-111	93.14	ESNMNDLVSEYQQYQDATA
-2	1695317	1695373	Beta_tubulin_(PR01163)	904.0	+
-#	PR01161	IPR000217	53	72	\N	5.899999999999999e-88	52.9	VLSLTGNKFVPRAILVDLEP
-2	1692153	1692212	Tubulin_(PR01161)	526.0	+
-#	PR01161	IPR000217	95	106	\N	5.899999999999999e-88	76.26	GQSGAGNNWAKG
-2	1694360	1694395	Tubulin_(PR01161)	525.0	+
-#	PR01161	IPR000217	108	132	\N	5.899999999999999e-88	67.56	YTEGAELVDSVLDVVRKESENCDCL
-2	1694399	1694473	Tubulin_(PR01161)	889.0	+
-#	PR01161	IPR000217	134	152	\N	5.899999999999999e-88	79.22	GFQLTHSLGGGTGSGMGTL
-2	1694477	1694533	Tubulin_(PR01161)	815.0	+
-#	PR01161	IPR000217	153	174	\N	5.899999999999999e-88	56.96	LISKIREEYPDRIMNTFSVMPS
-2	1694534	1694599	Tubulin_(PR01161)	644.0	+
-#	PR01161	IPR000217	178	191	\N	5.899999999999999e-88	79.11	SDTVVEPYNATLSV
-2	1694609	1694650	Tubulin_(PR01161)	552.0	+
-#	PR01161	IPR000217	192	212	\N	5.899999999999999e-88	68.11	HQLVENTDETFSIDNEALYDI
-2	1694651	1694713	Tubulin_(PR01161)	757.0	+
-#	PR01161	IPR000217	372	400	\N	5.899999999999999e-88	66.85	NSTAIQELFRRISEQFTAMFRRKAFLHWY
-2	1695191	1695277	Tubulin_(PR01161)	1097.0	+
-#	PR01519	IPR004057	69	82	\N	2.6e-21	35.71	DLEPGTMDSVRSGP
-2	1692201	1692242	Epsilon_tubulin_(PR01519)	320.0	+
-#	PR01519	IPR004057	82	100	\N	2.6e-21	36.84	PFGQIFRPDNFVFGQSGAG
-2	1692240	1694377	Epsilon_tubulin_(PR01519)	315.0	+
-#	PR01519	IPR004057	103	121	\N	2.6e-21	36.84	WAKGHYTEGAELVDSVLDV
-2	1694384	1694440	Epsilon_tubulin_(PR01519)	400.0	+
-#	PR01519	IPR004057	124	143	\N	2.6e-21	52.5	KESENCDCLQGFQLTHSLGG
-2	1694447	1694506	Epsilon_tubulin_(PR01519)	630.0	+
-#	PR01519	IPR004057	150	172	\N	2.6e-21	26.09	GTLLISKIREEYPDRIMNTFSVM
-2	1694525	1694593	Epsilon_tubulin_(PR01519)	280.0	+
-#	PR01519	IPR004057	381	400	\N	2.6e-21	27.5	RRISEQFTAMFRRKAFLHWY
-2	1695218	1695277	Epsilon_tubulin_(PR01519)	350.0	+
-#	PR01224	IPR002967	186	206	\N	2.1e-08	23.81	NATLSVHQLVENTDETFSIDN
-2	1694633	1694695	Delta_tubulin_(PR01224)	235.0	+
-#	PR01224	IPR002967	208	228	\N	2.1e-08	28.57	ALYDICFRTLKLTTPTYGDLN
-2	1694699	1694761	Delta_tubulin_(PR01224)	350.0	+
-#	PR01224	IPR002967	392	410	\N	2.1e-08	44.74	RRKAFLHWYTGEGMDEMEF
-2	1695251	1695307	Delta_tubulin_(PR01224)	440.0	+
-#	PR01224	IPR002967	410	424	\N	2.1e-08	20.0	FTEAESNMNDLVSEY
-2	1695305	1695349	Delta_tubulin_(PR01224)	195.0	+
-#	PR01162	IPR002452	88	101	\N	2.1e-07	28.57	RPDNFVFGQSGAGN
-2	1692258	1694380	Alpha_tubulin_(PR01162)	256.0	+
-#	PR01162	IPR002452	120	128	\N	2.1e-07	40.99	DVVRKESEN
-2	1694435	1694461	Alpha_tubulin_(PR01162)	192.0	+
-#	PR01162	IPR002452	148	160	\N	2.1e-07	28.38	GMGTLLISKIREE
-2	1694519	1694557	Alpha_tubulin_(PR01162)	233.0	+
-#	PR01162	IPR002452	214	226	\N	2.1e-07	35.68	FRTLKLTTPTYGD
-2	1694717	1694755	Alpha_tubulin_(PR01162)	217.0	+
-#	PR01162	IPR002452	274	289	\N	2.1e-07	30.67	PLTSRGSQQYRALSVP
-2	1694897	1694944	Alpha_tubulin_(PR01162)	186.0	+
-#	PR01162	IPR002452	321	342	\N	2.1e-07	18.95	GRMSMKEVDEQMLSVQNKNSSY
-2	1695038	1695103	Alpha_tubulin_(PR01162)	185.0	+
-#	PR01162	IPR002452	347	360	\N	2.1e-07	28.93	IPNNVKTAVCDIPP
-2	1695116	1695157	Alpha_tubulin_(PR01162)	183.0	+
-#	PR01162	IPR002452	417	433	\N	2.1e-07	22.0	MNDLVSEYQQYQDATAD
-2	1695326	1695376	Alpha_tubulin_(PR01162)	194.0	+
-#	PR01164	IPR002454	116	131	\N	4.6e-07	23.05	DSVLDVVRKESENCDC
-2	1694423	1694470	Gamma_tubulin_(PR01164)	295.0	+
-#	PR01164	IPR002454	192	205	\N	4.6e-07	27.9	HQLVENTDETFSID
-2	1694651	1694692	Gamma_tubulin_(PR01164)	166.0	+
-#	PR01164	IPR002454	250	261	\N	4.6e-07	31.25	ADLRKLAVNMVP
-2	1694825	1694860	Gamma_tubulin_(PR01164)	178.0	+
-#	PR01164	IPR002454	334	357	\N	4.6e-07	17.97	SVQNKNSSYFVEWIPNNVKTAVCD
-2	1695077	1695148	Gamma_tubulin_(PR01164)	305.0	+
-#	PR01164	IPR002454	409	432	\N	4.6e-07	26.69	EFTEAESNMNDLVSEYQQYQDATA
-2	1695302	1695373	Gamma_tubulin_(PR01164)	277.0	+
-#	PF00091	IPR003008	59	224	\N	1.7e-58	0.0	NKFVPRAILVDLEPGTMDSVRSGPFGQIFRPDNFVFGQSGAGNNWAKGHYTEGAELVDSVLDVVRKESENCDCLQGFQLTHSLGGGTGSGMGTLLISKIREEYPDRIMNTFSVMPSPKVSDTVVEPYNATLSVHQLVENTDETFSIDNEALYDICFRTLKLTTPTY
-2	1692171	1694749	Tubulin_FtsZ_GTPase_(PF00091)	185.3	+
-#	PF03953	IPR018316	263	384	\N	1.9e-54	0.0	PRLHFFMPGFAPLTSRGSQQYRALSVPELTQQMFDAKNMMAACDPRHGRYLTVAAIFRGRMSMKEVDEQMLSVQNKNSSYFVEWIPNNVKTAVCDIPPRGLKMSATFIGNSTAIQELFRRIS
-2	1694864	1695229	Tubulin/FtsZ_2-layer-sand-dom_(PF03953)	170.6	+
-#	SM00865	IPR018316	248	385	\N	9.7e-51	0.0	LNADLRKLAVNMVPFPRLHFFMPGFAPLTSRGSQQYRALSVPELTQQMFDAKNMMAACDPRHGRYLTVAAIFRGRMSMKEVDEQMLSVQNKNSSYFVEWIPNNVKTAVCDIPPRGLKMSATFIGNSTAIQELFRRISE
-2	1694819	1695232	Tubulin/FtsZ_2-layer-sand-dom_(SM00865)	184.6	+
-#	SM00864	IPR003008	50	246	\N	1.6999999999999997e-66	0.0	ITSVLSLTGNKFVPRAILVDLEPGTMDSVRSGPFGQIFRPDNFVFGQSGAGNNWAKGHYTEGAELVDSVLDVVRKESENCDCLQGFQLTHSLGGGTGSGMGTLLISKIREEYPDRIMNTFSVMPSPKVSDTVVEPYNATLSVHQLVENTDETFSIDNEALYDICFRTLKLTTPTYGDLNHLVSATMSGVTTCLRFPG
-2	1692144	1694815	Tubulin_FtsZ_GTPase_(SM00864)	236.9	+
-#	SSF55307	IPR008280	246	432	\N	2.5999999999999994e-83	0.0	GQLNADLRKLAVNMVPFPRLHFFMPGFAPLTSRGSQQYRALSVPELTQQMFDAKNMMAACDPRHGRYLTVAAIFRGRMSMKEVDEQMLSVQNKNSSYFVEWIPNNVKTAVCDIPPRGLKMSATFIGNSTAIQELFRRISEQFTAMFRRKAFLHWYTGEGMDEMEFTEAESNMNDLVSEYQQYQDATA
-2	1694813	1695373	Tub_FtsZ_C_(SSF55307)	0.0	+
-#	SSF52490	IPR003008	58	245	\N	1.0999999999999998e-76	0.0	GNKFVPRAILVDLEPGTMDSVRSGPFGQIFRPDNFVFGQSGAGNNWAKGHYTEGAELVDSVLDVVRKESENCDCLQGFQLTHSLGGGTGSGMGTLLISKIREEYPDRIMNTFSVMPSPKVSDTVVEPYNATLSVHQLVENTDETFSIDNEALYDICFRTLKLTTPTYGDLNHLVSATMSGVTTCLRFP
-2	1692168	1694812	Tubulin_FtsZ_GTPase_(SSF52490)	0.0	+
+2	1692264	1694380	Beta_tubulin	622.0	+	1692264	1694380	83,88,95	2	15,19	0,2097	PR01163	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01163&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01163
+2	1694405	1694461	Beta_tubulin	786.0	+	1694405	1694461	83,88,95	1	56	0	PR01163	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01163&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01163
+2	1694537	1694575	Beta_tubulin	615.0	+	1694537	1694575	83,88,95	1	38	0	PR01163	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01163&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01163
+2	1694717	1694755	Beta_tubulin	602.0	+	1694717	1694755	83,88,95	1	38	0	PR01163	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01163&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01163
+2	1694771	1694800	Beta_tubulin	416.0	+	1694771	1694800	83,88,95	1	29	0	PR01163	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01163&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01163
+2	1694816	1694857	Beta_tubulin	616.0	+	1694816	1694857	83,88,95	1	41	0	PR01163	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01163&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01163
+2	1694876	1694926	Beta_tubulin	774.0	+	1694876	1694926	83,88,95	1	50	0	PR01163	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01163&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01163
+2	1695014	1695070	Beta_tubulin	758.0	+	1695014	1695070	83,88,95	1	56	0	PR01163	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01163&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01163
+2	1695068	1695112	Beta_tubulin	654.0	+	1695068	1695112	83,88,95	1	44	0	PR01163	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01163&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01163
+2	1695122	1695193	Beta_tubulin	1102.0	+	1695122	1695193	83,88,95	1	71	0	PR01163	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01163&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01163
+2	1695212	1695247	Beta_tubulin	499.0	+	1695212	1695247	83,88,95	1	35	0	PR01163	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01163&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01163
+2	1695317	1695373	Beta_tubulin	904.0	+	1695317	1695373	83,88,95	1	56	0	PR01163	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01163&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01163
+2	1692153	1692212	Tubulin	526.0	+	1692153	1692212	83,88,95	1	59	0	PR01161	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01161&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01161
+2	1694360	1694395	Tubulin	525.0	+	1694360	1694395	83,88,95	1	35	0	PR01161	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01161&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01161
+2	1694399	1694473	Tubulin	889.0	+	1694399	1694473	83,88,95	1	74	0	PR01161	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01161&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01161
+2	1694477	1694533	Tubulin	815.0	+	1694477	1694533	83,88,95	1	56	0	PR01161	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01161&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01161
+2	1694534	1694599	Tubulin	644.0	+	1694534	1694599	83,88,95	1	65	0	PR01161	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01161&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01161
+2	1694609	1694650	Tubulin	552.0	+	1694609	1694650	83,88,95	1	41	0	PR01161	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01161&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01161
+2	1694651	1694713	Tubulin	757.0	+	1694651	1694713	83,88,95	1	62	0	PR01161	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01161&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01161
+2	1695191	1695277	Tubulin	1097.0	+	1695191	1695277	83,88,95	1	86	0	PR01161	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01161&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01161
+2	1692201	1692242	Epsilon_tubulin	320.0	+	1692201	1692242	83,88,95	1	41	0	PR01519	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01519&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01519
+2	1692240	1694377	Epsilon_tubulin	315.0	+	1692240	1694377	83,88,95	2	39,16	0,2121	PR01519	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01519&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01519
+2	1694384	1694440	Epsilon_tubulin	400.0	+	1694384	1694440	83,88,95	1	56	0	PR01519	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01519&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01519
+2	1694447	1694506	Epsilon_tubulin	630.0	+	1694447	1694506	83,88,95	1	59	0	PR01519	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01519&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01519
+2	1694525	1694593	Epsilon_tubulin	280.0	+	1694525	1694593	83,88,95	1	68	0	PR01519	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01519&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01519
+2	1695218	1695277	Epsilon_tubulin	350.0	+	1695218	1695277	83,88,95	1	59	0	PR01519	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01519&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01519
+2	1694633	1694695	Delta_tubulin	235.0	+	1694633	1694695	83,88,95	1	62	0	PR01224	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01224&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01224
+2	1694699	1694761	Delta_tubulin	350.0	+	1694699	1694761	83,88,95	1	62	0	PR01224	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01224&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01224
+2	1695251	1695307	Delta_tubulin	440.0	+	1695251	1695307	83,88,95	1	56	0	PR01224	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01224&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01224
+2	1695305	1695349	Delta_tubulin	195.0	+	1695305	1695349	83,88,95	1	44	0	PR01224	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01224&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01224
+2	1692258	1694380	Alpha_tubulin	256.0	+	1692258	1694380	83,88,95	2	21,19	0,2103	PR01162	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01162&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01162
+2	1694435	1694461	Alpha_tubulin	192.0	+	1694435	1694461	83,88,95	1	26	0	PR01162	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01162&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01162
+2	1694519	1694557	Alpha_tubulin	233.0	+	1694519	1694557	83,88,95	1	38	0	PR01162	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01162&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01162
+2	1694717	1694755	Alpha_tubulin	217.0	+	1694717	1694755	83,88,95	1	38	0	PR01162	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01162&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01162
+2	1694897	1694944	Alpha_tubulin	186.0	+	1694897	1694944	83,88,95	1	47	0	PR01162	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01162&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01162
+2	1695038	1695103	Alpha_tubulin	185.0	+	1695038	1695103	83,88,95	1	65	0	PR01162	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01162&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01162
+2	1695116	1695157	Alpha_tubulin	183.0	+	1695116	1695157	83,88,95	1	41	0	PR01162	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01162&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01162
+2	1695326	1695376	Alpha_tubulin	194.0	+	1695326	1695376	83,88,95	1	50	0	PR01162	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01162&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01162
+2	1694423	1694470	Gamma_tubulin	295.0	+	1694423	1694470	83,88,95	1	47	0	PR01164	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01164&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01164
+2	1694651	1694692	Gamma_tubulin	166.0	+	1694651	1694692	83,88,95	1	41	0	PR01164	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01164&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01164
+2	1694825	1694860	Gamma_tubulin	178.0	+	1694825	1694860	83,88,95	1	35	0	PR01164	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01164&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01164
+2	1695077	1695148	Gamma_tubulin	305.0	+	1695077	1695148	83,88,95	1	71	0	PR01164	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01164&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01164
+2	1695302	1695373	Gamma_tubulin	277.0	+	1695302	1695373	83,88,95	1	71	0	PR01164	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01164&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01164
+2	1692171	1694749	Tubulin_FtsZ_GTPase	185.3	+	1692171	1694749	83,88,95	2	108,388	0,2190	PF00091	http://pfam.sanger.ac.uk/family?acc=PF00091
+2	1694864	1695229	Tubulin/FtsZ_2-layer-sand-dom	170.6	+	1694864	1695229	83,88,95	1	365	0	PF03953	http://pfam.sanger.ac.uk/family?acc=PF03953
+2	1694819	1695232	Tubulin/FtsZ_2-layer-sand-dom	184.6	+	1694819	1695232	83,88,95	1	413	0	SM00865	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00865
+2	1692144	1694815	Tubulin_FtsZ_GTPase	236.9	+	1692144	1694815	83,88,95	2	135,454	0,2217	SM00864	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00864
+2	1694813	1695373	Tub_FtsZ_C	0.0	+	1694813	1695373	83,88,95	1	560	0	SSF55307	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55307
+2	1692168	1694812	Tubulin_FtsZ_GTPase	0.0	+	1692168	1694812	83,88,95	2	111,451	0,2193	SSF52490	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52490

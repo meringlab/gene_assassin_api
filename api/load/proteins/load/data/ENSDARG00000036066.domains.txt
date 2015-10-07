@@ -1,23 +1,10 @@
-browser position chr7:39641960-39649371
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000036066	ENSDART00000150158	ENSDARP00000124562	39641960	39649371	###
-#	PF00797	IPR001447	20	276	\N	3.1999999999999996e-88	0.0	DLDSLFTIHKLHVMSVPFENLSVHNGEKNSMDLRVIYNKIVESNRGGWCCENNLLFSWALKEMGYKSTILSGRVFNSLEQDFLPNDSHLINLVEIDGKQYIADVSFGVSCQIWYPLELISGKDQPQPPGVFRLTNNGEKWILEKTGRKQIIVDNGFADSGLVDKRLIKTIYCFTLTPRVVEYFLKMSVMLQTNPSSLFMLKTICSLQTATGFRALIGWTYSEVTFKEDSDSVEMKKIPDDEIEAVLKEKFNMVLINK
-7	39647581	39648351	Arylamine_N-AcTrfase_(PF00797)	281.6	+
-#	PR01543	IPR001447	245	266	\N	4.9e-56	48.05	KEDSDSVEMKKIPDDEIEAVLK
-7	39648256	39648321	Arylamine_N-AcTrfase_(PR01543)	539.0	+
-#	PR01543	IPR001447	266	279	\N	4.9e-56	41.84	KEKFNMVLINKFTP
-7	39648319	39648360	Arylamine_N-AcTrfase_(PR01543)	255.0	+
-#	PR01543	IPR001447	188	210	\N	4.9e-56	47.83	TIYCFTLTPRVVEYFLKMSVMLQ
-7	39648085	39648153	Arylamine_N-AcTrfase_(PR01543)	530.0	+
-#	PR01543	IPR001447	152	171	\N	4.9e-56	33.57	LTNNGEKWILEKTGRKQIIV
-7	39647977	39648036	Arylamine_N-AcTrfase_(PR01543)	325.0	+
-#	PR01543	IPR001447	130	150	\N	4.9e-56	72.11	QIWYPLELISGKDQPQPPGVF
-7	39647911	39647973	Arylamine_N-AcTrfase_(PR01543)	879.0	+
-#	PR01543	IPR001447	101	126	\N	4.9e-56	37.36	FLPNDSHLINLVEIDGKQYIADVSFG
-7	39647824	39647901	Arylamine_N-AcTrfase_(PR01543)	454.0	+
-#	PR01543	IPR001447	68	90	\N	4.9e-56	44.1	CCENNLLFSWALKEMGYKSTILS
-7	39647725	39647793	Arylamine_N-AcTrfase_(PR01543)	571.0	+
-#	PR01543	IPR001447	44	67	\N	4.9e-56	44.05	NGEKNSMDLRVIYNKIVESNRGGW
-7	39647653	39647724	Arylamine_N-AcTrfase_(PR01543)	588.0	+
-#	PR01543	IPR001447	20	43	\N	4.9e-56	45.83	DLDSLFTIHKLHVMSVPFENLSVH
-7	39647581	39647652	Arylamine_N-AcTrfase_(PR01543)	601.0	+
+7	39647581	39648351	Arylamine_N-AcTrfase	281.6	+	39647581	39648351	83,88,95	1	770	0	PF00797	http://pfam.sanger.ac.uk/family?acc=PF00797
+7	39648256	39648321	Arylamine_N-AcTrfase	539.0	+	39648256	39648321	83,88,95	1	65	0	PR01543	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01543&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01543
+7	39648319	39648360	Arylamine_N-AcTrfase	255.0	+	39648319	39648360	83,88,95	1	41	0	PR01543	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01543&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01543
+7	39648085	39648153	Arylamine_N-AcTrfase	530.0	+	39648085	39648153	83,88,95	1	68	0	PR01543	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01543&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01543
+7	39647977	39648036	Arylamine_N-AcTrfase	325.0	+	39647977	39648036	83,88,95	1	59	0	PR01543	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01543&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01543
+7	39647911	39647973	Arylamine_N-AcTrfase	879.0	+	39647911	39647973	83,88,95	1	62	0	PR01543	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01543&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01543
+7	39647824	39647901	Arylamine_N-AcTrfase	454.0	+	39647824	39647901	83,88,95	1	77	0	PR01543	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01543&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01543
+7	39647725	39647793	Arylamine_N-AcTrfase	571.0	+	39647725	39647793	83,88,95	1	68	0	PR01543	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01543&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01543
+7	39647653	39647724	Arylamine_N-AcTrfase	588.0	+	39647653	39647724	83,88,95	1	71	0	PR01543	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01543&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01543
+7	39647581	39647652	Arylamine_N-AcTrfase	601.0	+	39647581	39647652	83,88,95	1	71	0	PR01543	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01543&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01543

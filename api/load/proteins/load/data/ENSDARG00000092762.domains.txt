@@ -1,3 +1,1 @@
-browser position chr18:8402321-8407765
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000092762	ENSDART00000138115	ENSDARP00000120628	8402321	8407765	###
+18	8407460	8407745	Man6P_isomerase_rcpt-bd_dom	0.0	+	8407460	8407745	83,88,95	2	174,31	0,254	SSF50911	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50911

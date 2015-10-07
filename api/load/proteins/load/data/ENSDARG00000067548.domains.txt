@@ -1,23 +1,10 @@
-browser position chr5:9162918-9210932
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000067548	ENSDART00000097220	ENSDARP00000087991	9162918	9210932	###
-#	PF00167	IPR002209	59	183	\N	2.7e-45	0.0	RQRRLFSFQKFFLRIGKDGKVNGTKSEDDPYSILEITSVDVGVVAIRGLGSNLYLAISKKGELFGVRNYGTNCRLKERIEENGYNTYASAKWKNNKRQIFVSLSAHGRPLRGRKNRRKNTATHFL
-5	9162933	9210758	Fibroblast_GF_fam_(PF00167)	139.5	-
-#	PR00263	IPR002209	61	73	\N	7.7e-18	31.62	RRLFSFQKFFLRI
-5	9210714	9210752	Fibroblast_GF_fam_(PR00263)	148.0	-
-#	PR00263	IPR002209	92	106	\N	7.7e-18	54.96	LEITSVDVGVVAIRG
-5	9167748	9167792	Fibroblast_GF_fam_(PR00263)	406.0	-
-#	PR00263	IPR002209	112	124	\N	7.7e-18	45.64	YLAISKKGELFGV
-5	9167694	9167732	Fibroblast_GF_fam_(PR00263)	327.0	-
-#	PR00263	IPR002209	128	147	\N	7.7e-18	53.89	GTNCRLKERIEENGYNTYAS
-5	9163041	9163100	Fibroblast_GF_fam_(PR00263)	573.0	-
-#	PR00262	IPR028142	99	126	\N	8.100000000000001e-17	36.65	VGVVAIRGLGSNLYLAISKKGELFGVRN
-5	9163104	9167771	IL-1_fam/FGF_fam_(PR00262)	418.0	-
-#	PR00262	IPR028142	130	150	\N	8.100000000000001e-17	35.9	NCRLKERIEENGYNTYASAKW
-5	9163032	9163094	IL-1_fam/FGF_fam_(PR00262)	309.0	-
-#	PR00262	IPR028142	175	184	\N	8.100000000000001e-17	36.92	RKNTATHFLP
-5	9162930	9162959	IL-1_fam/FGF_fam_(PR00262)	142.0	-
-#	SM00442	IPR002209	57	186	\N	8.6e-55	0.0	DVRQRRLFSFQKFFLRIGKDGKVNGTKSEDDPYSILEITSVDVGVVAIRGLGSNLYLAISKKGELFGVRNYGTNCRLKERIEENGYNTYASAKWKNNKRQIFVSLSAHGRPLRGRKNRRKNTATHFLPMV
-5	9162924	9210764	Fibroblast_GF_fam_(SM00442)	198.0	-
-#	SSF50353	IPR008996	50	187	\N	4.3e-45	0.0	SYVHLQGDVRQRRLFSFQKFFLRIGKDGKVNGTKSEDDPYSILEITSVDVGVVAIRGLGSNLYLAISKKGELFGVRNYGTNCRLKERIEENGYNTYASAKWKNNKRQIFVSLSAHGRPLRGRKNRRKNTATHFLPMVV
-5	9162921	9210785	Cytokine_IL1-like_(SSF50353)	0.0	-
+5	9162933	9210758	Fibroblast_GF_fam	139.5	-	9162933	9210758	83,88,95	3	47732,-103,47649	0,4864,176	PF00167	http://pfam.sanger.ac.uk/family?acc=PF00167
+5	9210714	9210752	Fibroblast_GF_fam	148.0	-	9210714	9210752	83,88,95	1	38	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+5	9167748	9167792	Fibroblast_GF_fam	406.0	-	9167748	9167792	83,88,95	1	44	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+5	9167694	9167732	Fibroblast_GF_fam	327.0	-	9167694	9167732	83,88,95	1	38	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+5	9163041	9163100	Fibroblast_GF_fam	573.0	-	9163041	9163100	83,88,95	1	59	0	PR00263	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00263&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00263
+5	9163104	9167771	IL-1_fam/FGF_fam	418.0	-	9163104	9167771	83,88,95	2	4590,4662	0,5	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
+5	9163032	9163094	IL-1_fam/FGF_fam	309.0	-	9163032	9163094	83,88,95	1	62	0	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
+5	9162930	9162959	IL-1_fam/FGF_fam	142.0	-	9162930	9162959	83,88,95	1	29	0	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
+5	9162924	9210764	Fibroblast_GF_fam	198.0	-	9162924	9210764	83,88,95	3	47741,-103,47655	0,4873,185	SM00442	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00442
+5	9162921	9210785	Cytokine_IL1-like	0.0	-	9162921	9210785	83,88,95	3	47744,-103,47676	0,4876,188	SSF50353	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50353

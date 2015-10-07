@@ -1,49 +1,23 @@
-browser position chr10:317530-322148
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000040621	ENSDART00000059478	ENSDARP00000059477	317530	322148	###
-#	PF00560	IPR001611	75	96	\N	1.1e-05	0.0	SLRRLDLHHNQIQFLQPGLFRD
-10	320391	320456	Leu-rich_rpt_(PF00560)	12.0	+
-#	PF00560	IPR001611	126	143	\N	4.9e-05	0.0	LRRLDLSGNGLFTDMSDY
-10	320544	320597	Leu-rich_rpt_(PF00560)	10.0	+
-#	PF00560	IPR001611	219	235	\N	2.6000000000000002e-05	0.0	QLRTLNLSRNSLTNFQS
-10	320823	320873	Leu-rich_rpt_(PF00560)	10.9	+
-#	PF00560	IPR001611	319	339	\N	5.7999999999999995e-06	0.0	LLYLDLSFNQLKTLSSSFFSS
-10	321123	321185	Leu-rich_rpt_(PF00560)	12.8	+
-#	PF00560	IPR001611	343	364	\N	2.9999999999999997e-05	0.0	LESLNISNNCLQSFSVDSLRSL
-10	321195	321260	Leu-rich_rpt_(PF00560)	10.7	+
-#	PF00560	IPR001611	363	379	\N	2e-05	0.0	SLKTLDLSFNNLQNLSF
-10	321255	321305	Leu-rich_rpt_(PF00560)	11.2	+
-#	PF00560	IPR001611	441	462	\N	5.9e-07	0.0	SLTYLYLSENSLSSIPDGAFKG
-10	321489	321554	Leu-rich_rpt_(PF00560)	15.9	+
-#	PF00560	IPR001611	489	507	\N	3.5e-05	0.0	SLTHLSLRGNQLHSLSIDF
-10	321633	321689	Leu-rich_rpt_(PF00560)	10.5	+
-#	SM00369	IPR003591	74	96	\N	0.028999999999999998	0.0	SSLRRLDLHHNQIQFLQPGLFRD
-10	320388	320456	Leu-rich_rpt_typical-subtyp_(SM00369)	23.5	+
-#	SM00369	IPR003591	123	147	\N	22.0	0.0	LPALRRLDLSGNGLFTDMSDYFLSD
-10	320535	320609	Leu-rich_rpt_typical-subtyp_(SM00369)	10.4	+
-#	SM00369	IPR003591	149	171	\N	16.0	0.0	PALTNLSLDGNSITKISRTTFNG
-10	320613	320681	Leu-rich_rpt_typical-subtyp_(SM00369)	11.6	+
-#	SM00369	IPR003591	173	195	\N	170.0	0.0	QALQNIDLHNNVIIEIEEGAFEF
-10	320685	320753	Leu-rich_rpt_typical-subtyp_(SM00369)	3.1	+
-#	SM00369	IPR003591	196	216	\N	290.0	0.0	LTELSELDLSVNSISCITDFN
-10	320754	320816	Leu-rich_rpt_typical-subtyp_(SM00369)	1.3	+
-#	SM00369	IPR003591	217	244	\N	30.0	0.0	LVQLRTLNLSRNSLTNFQSLDMEDEFQL
-10	320817	320900	Leu-rich_rpt_typical-subtyp_(SM00369)	9.4	+
-#	SM00369	IPR003591	316	339	\N	0.06	0.0	LGRLLYLDLSFNQLKTLSSSFFSS
-10	321114	321185	Leu-rich_rpt_typical-subtyp_(SM00369)	22.5	+
-#	SM00369	IPR003591	340	360	\N	370.0	0.0	MAALESLNISNNCLQSFSVDS
-10	321186	321248	Leu-rich_rpt_typical-subtyp_(SM00369)	0.4	+
-#	SM00369	IPR003591	361	381	\N	4.9	0.0	LRSLKTLDLSFNNLQNLSFSG
-10	321249	321311	Leu-rich_rpt_typical-subtyp_(SM00369)	15.8	+
-#	SM00369	IPR003591	384	407	\N	0.62	0.0	LPALEVLLLQGNALHLLDAHIFSS
-10	321318	321389	Leu-rich_rpt_typical-subtyp_(SM00369)	19.1	+
-#	SM00369	IPR003591	408	432	\N	110.0	0.0	LPSIRSLHLQQNLLSICADPQISSG
-10	321390	321464	Leu-rich_rpt_typical-subtyp_(SM00369)	4.6	+
-#	SM00369	IPR003591	439	462	\N	0.00029	0.0	IPSLTYLYLSENSLSSIPDGAFKG
-10	321483	321554	Leu-rich_rpt_typical-subtyp_(SM00369)	30.2	+
-#	SM00369	IPR003591	488	509	\N	100.0	0.0	TSLTHLSLRGNQLHSLSIDFRV
-10	321630	321695	Leu-rich_rpt_typical-subtyp_(SM00369)	4.9	+
-#	SM00369	IPR003591	510	533	\N	83.0	0.0	FQKLRSLDVSVNRLSGVSPWSEDS
-10	321696	321767	Leu-rich_rpt_typical-subtyp_(SM00369)	5.7	+
-#	SM00369	IPR003591	534	555	\N	120.0	0.0	SVEILNLQNNRVEALGSALLQG
-10	321768	321833	Leu-rich_rpt_typical-subtyp_(SM00369)	4.3	+
+10	320391	320456	Leu-rich_rpt	12.0	+	320391	320456	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+10	320544	320597	Leu-rich_rpt	10.0	+	320544	320597	83,88,95	1	53	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+10	320823	320873	Leu-rich_rpt	10.9	+	320823	320873	83,88,95	1	50	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+10	321123	321185	Leu-rich_rpt	12.8	+	321123	321185	83,88,95	1	62	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+10	321195	321260	Leu-rich_rpt	10.7	+	321195	321260	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+10	321255	321305	Leu-rich_rpt	11.2	+	321255	321305	83,88,95	1	50	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+10	321489	321554	Leu-rich_rpt	15.9	+	321489	321554	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+10	321633	321689	Leu-rich_rpt	10.5	+	321633	321689	83,88,95	1	56	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+10	320388	320456	Leu-rich_rpt_typical-subtyp	23.5	+	320388	320456	83,88,95	1	68	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	320535	320609	Leu-rich_rpt_typical-subtyp	10.4	+	320535	320609	83,88,95	1	74	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	320613	320681	Leu-rich_rpt_typical-subtyp	11.6	+	320613	320681	83,88,95	1	68	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	320685	320753	Leu-rich_rpt_typical-subtyp	3.1	+	320685	320753	83,88,95	1	68	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	320754	320816	Leu-rich_rpt_typical-subtyp	1.3	+	320754	320816	83,88,95	1	62	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	320817	320900	Leu-rich_rpt_typical-subtyp	9.4	+	320817	320900	83,88,95	1	83	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	321114	321185	Leu-rich_rpt_typical-subtyp	22.5	+	321114	321185	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	321186	321248	Leu-rich_rpt_typical-subtyp	0.4	+	321186	321248	83,88,95	1	62	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	321249	321311	Leu-rich_rpt_typical-subtyp	15.8	+	321249	321311	83,88,95	1	62	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	321318	321389	Leu-rich_rpt_typical-subtyp	19.1	+	321318	321389	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	321390	321464	Leu-rich_rpt_typical-subtyp	4.6	+	321390	321464	83,88,95	1	74	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	321483	321554	Leu-rich_rpt_typical-subtyp	30.2	+	321483	321554	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	321630	321695	Leu-rich_rpt_typical-subtyp	4.9	+	321630	321695	83,88,95	1	65	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	321696	321767	Leu-rich_rpt_typical-subtyp	5.7	+	321696	321767	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+10	321768	321833	Leu-rich_rpt_typical-subtyp	4.3	+	321768	321833	83,88,95	1	65	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369

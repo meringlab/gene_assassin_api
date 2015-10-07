@@ -1,13 +1,5 @@
-browser position chr19:7737759-7741992
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000031885	ENSDART00000001359	ENSDARP00000001845	7737759	7741992	###
-#	PR00141	IPR000243	24	39	\N	2.5000000000000002e-21	58.81	FNGGVIIGSDSRASMG
-19	7739858	7739905	Pept_T1A_subB_(PR00141)	511.0	+
-#	PR00141	IPR000243	146	157	\N	2.5000000000000002e-21	74.05	GSGSTYIYGYVD
-19	7741541	7741576	Pept_T1A_subB_(PR00141)	502.0	+
-#	PR00141	IPR000243	157	168	\N	2.5000000000000002e-21	47.35	DAKFKPDMTLEE
-19	7741574	7741609	Pept_T1A_subB_(PR00141)	306.0	+
-#	PR00141	IPR000243	182	193	\N	2.5000000000000002e-21	55.68	GRDNVSGGVVHL
-19	7741750	7741785	Pept_T1A_subB_(PR00141)	322.0	+
-#	PF00227	IPR001353	13	196	\N	7.7e-55	0.0	VSTGTTILAVKFNGGVIIGSDSRASMGESYVSSKTINKLIQVHDRIFCCIAGSLADAQAVTKMAKFQLSFHSIQMESPPLVKAAASIMRELCYSNKEELRAGFITAGWDRKKGPQIYVVSLGGMLLSQPFTIGGSGSTYIYGYVDAKFKPDMTLEEATQFSTNALALAMGRDNVSGGVVHLVVI
-19	7737882	7741794	Proteasome_sua/b_(PF00227)	171.5	+
+19	7739858	7739905	Pept_T1A_subB	511.0	+	7739858	7739905	83,88,95	1	47	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+19	7741541	7741576	Pept_T1A_subB	502.0	+	7741541	7741576	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+19	7741574	7741609	Pept_T1A_subB	306.0	+	7741574	7741609	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+19	7741750	7741785	Pept_T1A_subB	322.0	+	7741750	7741785	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+19	7737882	7741794	Proteasome_sua/b	171.5	+	7737882	7741794	83,88,95	6	11,70,131,129,144,61	0,1955,2114,2338,3605,3851	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227

@@ -1,13 +1,5 @@
-browser position chr19:7728374-7767084
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000001303	ENSDART00000104838	ENSDARP00000095608	7728374	7733153	###
-#	PF00227	IPR001353	65	245	\N	1.6e-55	0.0	NHGTTTLAFKFRHGVIVAVDSRASAGKYIASKEANKVIEINPYLLGTMSGSAADCQYWERLLAKECRLYKLRNKQRISVSAASKLLSNMMLGYRGMGLSMGSMICGWDKQGPGLYYVDDNGTRLSGRMFSTGCGNSYAYGVVDSGYREDMTVEEAYELGRRGIAHATHRDAYSGGVVNLYH
-19	7728542	7732285	Proteasome_sua/b_(PF00227)	173.7	-
-#	PR00141	IPR000243	75	90	\N	9.999999999999999e-23	63.78	FRHGVIVAVDSRASAG
-19	7732208	7732255	Pept_T1A_subB_(PR00141)	510.0	-
-#	PR00141	IPR000243	196	207	\N	9.999999999999999e-23	62.69	GCGNSYAYGVVD
-19	7728894	7728929	Pept_T1A_subB_(PR00141)	430.0	-
-#	PR00141	IPR000243	207	218	\N	9.999999999999999e-23	57.77	DSGYREDMTVEE
-19	7728861	7728896	Pept_T1A_subB_(PR00141)	366.0	-
-#	PR00141	IPR000243	232	243	\N	9.999999999999999e-23	65.72	HRDAYSGGVVNL
-19	7728548	7728821	Pept_T1A_subB_(PR00141)	407.0	-
+19	7728542	7732285	Proteasome_sua/b	173.7	-	7728542	7732285	83,88,95	5	3656,-111,-129,-204,3736	0,3508,971,450,7	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227
+19	7732208	7732255	Pept_T1A_subB	510.0	-	7732208	7732255	83,88,95	1	47	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+19	7728894	7728929	Pept_T1A_subB	430.0	-	7728894	7728929	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+19	7728861	7728896	Pept_T1A_subB	366.0	-	7728861	7728896	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+19	7728548	7728821	Pept_T1A_subB	407.0	-	7728548	7728821	83,88,95	2	240,272	0,1	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141

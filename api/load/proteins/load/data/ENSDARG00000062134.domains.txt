@@ -1,41 +1,19 @@
-browser position chr23:21318507-21408874
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000062134	ENSDART00000125074	ENSDARP00000110542	21318507	21408632	###
-#	PR01577	IPR005399	219	229	\N	1.3e-39	96.02	RLQLEYVDVVF
-23	21394331	21394363	K_chnl_volt-dep_bsu_KCNAB-rel_(PR01577)	528.0	+
-#	PR01577	IPR005399	270	289	\N	1.3e-39	95.31	EAYSVARQFNLIPPVCEQAE
-23	21401021	21401080	K_chnl_volt-dep_bsu_KCNAB-rel_(PR01577)	1018.0	+
-#	PR01577	IPR005399	315	321	\N	1.3e-39	99.11	TWSPLAC
-23	21402407	21402427	K_chnl_volt-dep_bsu_KCNAB-rel_(PR01577)	436.0	+
-#	PR01577	IPR005399	343	355	\N	1.3e-39	75.48	YQWMKDKILSEEG
-23	21405263	21405301	K_chnl_volt-dep_bsu_KCNAB-rel_(PR01577)	613.0	+
-#	PR01577	IPR005399	369	381	\N	1.3e-39	88.94	AERLGCTLPQLAI
-23	21405341	21405379	K_chnl_volt-dep_bsu_KCNAB-rel_(PR01577)	602.0	+
-#	PR01577	IPR005399	382	395	\N	1.3e-39	91.07	AWCLRNEGVSCVLL
-23	21407856	21407897	K_chnl_volt-dep_bsu_KCNAB-rel_(PR01577)	677.0	+
-#	PR01578	IPR005400	329	342	\N	6.400000000000001e-10	63.27	DSGVPPCSRASLKG
-23	21402449	21405262	K_chnl_volt-dep_bsu_KCNAB1_(PR01578)	375.0	+
-#	PR01578	IPR005400	356	371	\N	6.400000000000001e-10	68.75	RRQQAKLKELQAIAER
-23	21405302	21405349	K_chnl_volt-dep_bsu_KCNAB1_(PR01578)	523.0	+
-#	PR01578	IPR005400	396	406	\N	6.400000000000001e-10	54.55	GASSTDQLMEN
-23	21407898	21407930	K_chnl_volt-dep_bsu_KCNAB1_(PR01578)	340.0	+
-#	PR01578	IPR005400	416	426	\N	6.400000000000001e-10	28.57	LSSSIIHEVDS
-23	21408555	21408587	K_chnl_volt-dep_bsu_KCNAB1_(PR01578)	281.0	+
-#	PR01579	IPR005401	330	342	\N	2e-07	83.08	SGVPPCSRASLKG
-23	21402452	21405262	K_chnl_volt-dep_bsu_KCNAB2_(PR01579)	562.0	+
-#	PR01579	IPR005401	416	426	\N	2e-07	87.27	LSSSIIHEVDS
-23	21408555	21408587	K_chnl_volt-dep_bsu_KCNAB2_(PR01579)	489.0	+
-#	PR01580	IPR005402	330	342	\N	6.6e-05	43.59	SGVPPCSRASLKG
-23	21402452	21405262	K_chnl_volt-dep_bsu_KCNAB3_(PR01580)	277.0	+
-#	PR01580	IPR005402	356	371	\N	6.6e-05	35.42	RRQQAKLKELQAIAER
-23	21405302	21405349	K_chnl_volt-dep_bsu_KCNAB3_(PR01580)	310.0	+
-#	PR01580	IPR005402	396	406	\N	6.6e-05	60.61	GASSTDQLMEN
-23	21407898	21407930	K_chnl_volt-dep_bsu_KCNAB3_(PR01580)	346.0	+
-#	PR01580	IPR005402	416	426	\N	6.6e-05	27.27	LSSSIIHEVDS
-23	21408555	21408587	K_chnl_volt-dep_bsu_KCNAB3_(PR01580)	183.0	+
-#	PF00248	IPR023210	125	427	\N	1.1999999999999998e-78	0.0	LGLGTWVTFGGQITDEIAEQLMTLAYENGINLFDTAEVYAAGKAEMVLGSIIKKKGWRRSSLVITTKIYWGGKAETERGLSRKHIIEGLRASLERLQLEYVDVVFANRPDPNTPMEETVRAMTHVINQGMAMYWGTSRWSSMEIMEAYSVARQFNLIPPVCEQAEYHMFQREKVEVQLPELFHKIGVGAMTWSPLACGIISGKYDSGVPPCSRASLKGYQWMKDKILSEEGRRQQAKLKELQAIAERLGCTLPQLAIAWCLRNEGVSCVLLGASSTDQLMENIGAIQVLPKLSSSIIHEVDSI
-23	21381910	21408590	NADP_OxRdtase_dom_(PF00248)	250.2	+
-#	TIGR01293	IPR005983	110	428	\N	1.5999999999999995e-196	0.0	MRYRNLGKSGLRVSCLGLGTWVTFGGQITDEIAEQLMTLAYENGINLFDTAEVYAAGKAEMVLGSIIKKKGWRRSSLVITTKIYWGGKAETERGLSRKHIIEGLRASLERLQLEYVDVVFANRPDPNTPMEETVRAMTHVINQGMAMYWGTSRWSSMEIMEAYSVARQFNLIPPVCEQAEYHMFQREKVEVQLPELFHKIGVGAMTWSPLACGIISGKYDSGVPPCSRASLKGYQWMKDKILSEEGRRQQAKLKELQAIAERLGCTLPQLAIAWCLRNEGVSCVLLGASSTDQLMENIGAIQVLPKLSSSIIHEVDSIL
-23	21322254	21408593	K_chnl_volt-dep_bsu_KCNAB_(TIGR01293)	637.6	+
-#	SSF51430	IPR023210	109	434	\N	5.999999999999999e-94	0.0	GMRYRNLGKSGLRVSCLGLGTWVTFGGQITDEIAEQLMTLAYENGINLFDTAEVYAAGKAEMVLGSIIKKKGWRRSSLVITTKIYWGGKAETERGLSRKHIIEGLRASLERLQLEYVDVVFANRPDPNTPMEETVRAMTHVINQGMAMYWGTSRWSSMEIMEAYSVARQFNLIPPVCEQAEYHMFQREKVEVQLPELFHKIGVGAMTWSPLACGIISGKYDSGVPPCSRASLKGYQWMKDKILSEEGRRQQAKLKELQAIAERLGCTLPQLAIAWCLRNEGVSCVLLGASSTDQLMENIGAIQVLPKLSSSIIHEVDSILGNKPYS
-23	21322251	21408611	NADP_OxRdtase_dom_(SSF51430)	0.0	+
+23	21394331	21394363	K_chnl_volt-dep_bsu_KCNAB-rel	528.0	+	21394331	21394363	83,88,95	1	32	0	PR01577	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01577&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01577
+23	21401021	21401080	K_chnl_volt-dep_bsu_KCNAB-rel	1018.0	+	21401021	21401080	83,88,95	1	59	0	PR01577	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01577&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01577
+23	21402407	21402427	K_chnl_volt-dep_bsu_KCNAB-rel	436.0	+	21402407	21402427	83,88,95	1	20	0	PR01577	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01577&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01577
+23	21405263	21405301	K_chnl_volt-dep_bsu_KCNAB-rel	613.0	+	21405263	21405301	83,88,95	1	38	0	PR01577	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01577&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01577
+23	21405341	21405379	K_chnl_volt-dep_bsu_KCNAB-rel	602.0	+	21405341	21405379	83,88,95	1	38	0	PR01577	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01577&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01577
+23	21407856	21407897	K_chnl_volt-dep_bsu_KCNAB-rel	677.0	+	21407856	21407897	83,88,95	1	41	0	PR01577	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01577&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01577
+23	21402449	21405262	K_chnl_volt-dep_bsu_KCNAB1	375.0	+	21402449	21405262	83,88,95	2	38,2	0,2811	PR01578	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01578&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01578
+23	21405302	21405349	K_chnl_volt-dep_bsu_KCNAB1	523.0	+	21405302	21405349	83,88,95	1	47	0	PR01578	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01578&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01578
+23	21407898	21407930	K_chnl_volt-dep_bsu_KCNAB1	340.0	+	21407898	21407930	83,88,95	1	32	0	PR01578	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01578&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01578
+23	21408555	21408587	K_chnl_volt-dep_bsu_KCNAB1	281.0	+	21408555	21408587	83,88,95	1	32	0	PR01578	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01578&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01578
+23	21402452	21405262	K_chnl_volt-dep_bsu_KCNAB2	562.0	+	21402452	21405262	83,88,95	2	35,2	0,2808	PR01579	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01579&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01579
+23	21408555	21408587	K_chnl_volt-dep_bsu_KCNAB2	489.0	+	21408555	21408587	83,88,95	1	32	0	PR01579	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01579&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01579
+23	21402452	21405262	K_chnl_volt-dep_bsu_KCNAB3	277.0	+	21402452	21405262	83,88,95	2	35,2	0,2808	PR01580	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01580&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01580
+23	21405302	21405349	K_chnl_volt-dep_bsu_KCNAB3	310.0	+	21405302	21405349	83,88,95	1	47	0	PR01580	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01580&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01580
+23	21407898	21407930	K_chnl_volt-dep_bsu_KCNAB3	346.0	+	21407898	21407930	83,88,95	1	32	0	PR01580	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01580&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01580
+23	21408555	21408587	K_chnl_volt-dep_bsu_KCNAB3	183.0	+	21408555	21408587	83,88,95	1	32	0	PR01580	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01580&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01580
+23	21381910	21408590	NADP_OxRdtase_dom	250.2	+	21381910	21408590	83,88,95	13	9,37,79,44,44,43,86,85,120,94,120,88,47	0,679,2016,7359,9519,10225,12401,18423,19111,20483,23350,25947,26633	PF00248	http://pfam.sanger.ac.uk/family?acc=PF00248
+23	21322254	21408593	K_chnl_volt-dep_bsu_KCNAB	637.6	+	21322254	21408593	83,88,95	14	10,43,37,79,44,44,43,86,85,120,94,120,88,50	0,59622,60335,61672,67015,69175,69881,72057,78079,78767,80139,83006,85603,86289	TIGR01293	http://www.ebi.ac.uk/interpro/signature/TIGR01293
+23	21322251	21408611	NADP_OxRdtase_dom	0.0	+	21322251	21408611	83,88,95	14	13,43,37,79,44,44,43,86,85,120,94,120,88,68	0,59625,60338,61675,67018,69178,69884,72060,78082,78770,80142,83009,85606,86292	SSF51430	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51430

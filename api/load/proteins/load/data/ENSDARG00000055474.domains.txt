@@ -1,11 +1,4 @@
-browser position chr3:26111492-26112819
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000055474	ENSDART00000077835	ENSDARP00000072301	26111492	26112819	###
-#	PR02032	IPR023259	19	36	\N	1e-41	88.89	LPYMYYLGLFFVNVLILY
-3	26112322	26112375	Dexamethasone-induced_(PR02032)	853.0	-
-#	PR02032	IPR023259	37	53	\N	1e-41	96.08	YAFLMEYIVLNVGIVFL
-3	26112271	26112321	Dexamethasone-induced_(PR02032)	826.0	-
-#	PR02032	IPR023259	54	72	\N	1e-41	94.74	PEDMDQALVDLGVLSDPAS
-3	26112214	26112270	Dexamethasone-induced_(PR02032)	913.0	-
-#	PR02032	IPR023259	75	89	\N	1e-41	84.44	YDTDTELDVFEGYLE
-3	26112163	26112207	Dexamethasone-induced_(PR02032)	709.0	-
+3	26112322	26112375	Dexamethasone-induced	853.0	-	26112322	26112375	83,88,95	1	53	0	PR02032	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02032&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02032
+3	26112271	26112321	Dexamethasone-induced	826.0	-	26112271	26112321	83,88,95	1	50	0	PR02032	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02032&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02032
+3	26112214	26112270	Dexamethasone-induced	913.0	-	26112214	26112270	83,88,95	1	56	0	PR02032	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02032&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02032
+3	26112163	26112207	Dexamethasone-induced	709.0	-	26112163	26112207	83,88,95	1	44	0	PR02032	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02032&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02032

@@ -1,23 +1,10 @@
-browser position chr15:5029963-5030910
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000042809	ENSDART00000062830	ENSDARP00000062829	5029963	5030910	###
-#	PF00001	IPR000276	44	291	\N	1.1e-28	0.0	NVTVMFTIMSNKKLHEPMYMFICNLCVNGLFGTSGFYPKFLYDLLAHDHVISYVGCLIQIFVIYSSALCDFSTLTVMAYDRYVAICRPLEYHSIMTSRMILKCILFCWLAPFVCMSVLIVLIARLTLCASTIEKLYCEIWAVAKLSCFSTTINNVFGYIVILTYFGHAVLIFCSYIHLIKKCMKSIEVRHKFIQTCVPHLLSLINVTAALLFDVLYSRYGSRNLPQSVRNFMALEFLLVPPILNPLIY
-15	5030038	5030781	GPCR_Rhodpsn_(PF00001)	86.3	-
-#	PR00245	IPR000725	94	105	\N	6.7e-15	48.79	ISYVGCLIQIFV
-15	5030596	5030631	Olfact_rcpt_(PR00245)	337.0	-
-#	PR00245	IPR000725	131	143	\N	6.7e-15	39.99	PLEYHSIMTSRMI
-15	5030482	5030520	Olfact_rcpt_(PR00245)	262.0	-
-#	PR00245	IPR000725	177	193	\N	6.7e-15	31.97	KLYCEIWAVAKLSCFST
-15	5030332	5030382	Olfact_rcpt_(PR00245)	303.0	-
-#	PR00245	IPR000725	234	243	\N	6.7e-15	49.68	KFIQTCVPHL
-15	5030182	5030211	Olfact_rcpt_(PR00245)	274.0	-
-#	PR00245	IPR000725	284	295	\N	6.7e-15	57.89	PILNPLIYGLNL
-15	5030026	5030061	Olfact_rcpt_(PR00245)	370.0	-
-#	PR00534	IPR001671	53	65	\N	8.2e-05	60.34	SNKKLHEPMYMFI
-15	5030716	5030754	Melcrt_ACTH_rcpt_(PR00534)	467.0	-
-#	PR00534	IPR001671	128	139	\N	8.2e-05	56.77	ICRPLEYHSIMT
-15	5030494	5030529	Melcrt_ACTH_rcpt_(PR00534)	321.0	-
-#	PR00534	IPR001671	279	290	\N	8.2e-05	27.34	FLLVPPILNPLI
-15	5030041	5030076	Melcrt_ACTH_rcpt_(PR00534)	201.0	-
-#	PS50262	IPR017452	43	291	\N	0.0	0.0	CNVTVMFTIMSNKKLHEPMYMFICNLCVNGLFGTSGFYPKFLYDLLAHDHVISYVGCLIQIFVIYSSALCDFSTLTVMAYDRYVAICRPLEYHSIMTSRMILKCILFCWLAPFVCMSVLIVLIARLTLCASTIEKLYCEIWAVAKLSCFSTTINNVFGYIVILTYFGHAVLIFCSYIHLIKKCMKSIEVRHKFIQTCVPHLLSLINVTAALLFDVLYSRYGSRNLPQSVRNFMALEFLLVPPILNPLIY
-15	5030038	5030784	GPCR_Rhodpsn_7TM_(PS50262)	22.116999999999997	-
+15	5030038	5030781	GPCR_Rhodpsn	86.3	-	5030038	5030781	83,88,95	1	743	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+15	5030596	5030631	Olfact_rcpt	337.0	-	5030596	5030631	83,88,95	1	35	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	5030482	5030520	Olfact_rcpt	262.0	-	5030482	5030520	83,88,95	1	38	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	5030332	5030382	Olfact_rcpt	303.0	-	5030332	5030382	83,88,95	1	50	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	5030182	5030211	Olfact_rcpt	274.0	-	5030182	5030211	83,88,95	1	29	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	5030026	5030061	Olfact_rcpt	370.0	-	5030026	5030061	83,88,95	1	35	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	5030716	5030754	Melcrt_ACTH_rcpt	467.0	-	5030716	5030754	83,88,95	1	38	0	PR00534	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00534&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00534
+15	5030494	5030529	Melcrt_ACTH_rcpt	321.0	-	5030494	5030529	83,88,95	1	35	0	PR00534	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00534&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00534
+15	5030041	5030076	Melcrt_ACTH_rcpt	201.0	-	5030041	5030076	83,88,95	1	35	0	PR00534	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00534&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00534
+15	5030038	5030784	GPCR_Rhodpsn_7TM	22.116999999999997	-	5030038	5030784	83,88,95	1	746	0	PS50262	http://www.expasy.ch/prosite/PS50262

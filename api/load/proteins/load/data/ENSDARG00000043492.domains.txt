@@ -1,15 +1,6 @@
-browser position chr13:185547-192994
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000043492	ENSDART00000075646	ENSDARP00000070128	185547	192994	###
-#	PF00605	IPR001346	5	113	\N	1.5e-51	0.0	RLRLRPWLEEQIQSGRYPGVQWLDQSARVFQIPWKHAARHGWNIDKDATLFRNWAIHTGRYKPGIDKPDPKTWKANFRCALNSLTDVKELQDRSIKKGHNAFRVYALLP
-13	191130	192859	Interferon_reg_fact_DNA-bd_dom_(PF00605)	159.3	-
-#	PR00267	IPR001346	7	26	\N	1.6999999999999998e-28	55.86	RLRPWLEEQIQSGRYPGVQW
-13	192794	192853	Interferon_reg_fact_DNA-bd_dom_(PR00267)	667.0	-
-#	PR00267	IPR001346	33	46	\N	1.6999999999999998e-28	61.82	VFQIPWKHAARHGW
-13	191734	191775	Interferon_reg_fact_DNA-bd_dom_(PR00267)	558.0	-
-#	PR00267	IPR001346	51	68	\N	1.6999999999999998e-28	53.64	DATLFRNWAIHTGRYKPG
-13	191265	191721	Interferon_reg_fact_DNA-bd_dom_(PR00267)	590.0	-
-#	PR00267	IPR001346	74	96	\N	1.6999999999999998e-28	54.42	PKTWKANFRCALNSLTDVKELQD
-13	191181	191249	Interferon_reg_fact_DNA-bd_dom_(PR00267)	690.0	-
-#	SM00348	IPR001346	1	114	\N	4.5999999999999995e-57	0.0	MHQGRLRLRPWLEEQIQSGRYPGVQWLDQSARVFQIPWKHAARHGWNIDKDATLFRNWAIHTGRYKPGIDKPDPKTWKANFRCALNSLTDVKELQDRSIKKGHNAFRVYALLPH
-13	191127	192871	Interferon_reg_fact_DNA-bd_dom_(SM00348)	205.6	-
+13	191130	192859	Interferon_reg_fact_DNA-bd_dom	159.3	-	191130	192859	83,88,95	3	1655,-99,1578	0,654,151	PF00605	http://pfam.sanger.ac.uk/family?acc=PF00605
+13	192794	192853	Interferon_reg_fact_DNA-bd_dom	667.0	-	192794	192853	83,88,95	1	59	0	PR00267	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00267&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00267
+13	191734	191775	Interferon_reg_fact_DNA-bd_dom	558.0	-	191734	191775	83,88,95	1	41	0	PR00267	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00267&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00267
+13	191265	191721	Interferon_reg_fact_DNA-bd_dom	590.0	-	191265	191721	83,88,95	2	420,440	0,16	PR00267	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00267&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00267
+13	191181	191249	Interferon_reg_fact_DNA-bd_dom	690.0	-	191181	191249	83,88,95	1	68	0	PR00267	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00267&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00267
+13	191127	192871	Interferon_reg_fact_DNA-bd_dom	205.6	-	191127	192871	83,88,95	3	1658,-99,1590	0,657,154	SM00348	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00348

@@ -1,15 +1,6 @@
-browser position chr9:52611548-52617862
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000040907	ENSDART00000137426	ENSDARP00000112837	52611548	52617862	###
-#	PF00123	IPR000532	91	117	\N	3.8e-18	0.0	HADGTYTSDVSSYLQDQAAKEFVSWLK
-9	52617645	52617725	Glucagon_GIP_secretin_VIP_(PF00123)	51.6	+
-#	PF00123	IPR000532	53	80	\N	2.9999999999999997e-20	0.0	HSEGTFSNDYSKYLETRRAQDFVQWLMN
-9	52615972	52616055	Glucagon_GIP_secretin_VIP_(PF00123)	58.3	+
-#	PR00275	IPR000532	53	63	\N	1.4000000000000001e-05	58.26	HSEGTFSNDYS
-9	52615972	52616004	Glucagon_GIP_secretin_VIP_(PR00275)	403.0	+
-#	PR00275	IPR000532	64	75	\N	1.4000000000000001e-05	42.55	KYLETRRAQDFV
-9	52616005	52616040	Glucagon_GIP_secretin_VIP_(PR00275)	259.0	+
-#	SM00070	IPR000532	53	79	\N	6.4e-13	0.0	HSEGTFSNDYSKYLETRRAQDFVQWLM
-9	52615972	52616052	Glucagon_GIP_secretin_VIP_(SM00070)	58.9	+
-#	SM00070	IPR000532	91	117	\N	5.1000000000000005e-11	0.0	HADGTYTSDVSSYLQDQAAKEFVSWLK
-9	52617645	52617725	Glucagon_GIP_secretin_VIP_(SM00070)	52.6	+
+9	52617645	52617725	Glucagon_GIP_secretin_VIP	51.6	+	52617645	52617725	83,88,95	1	80	0	PF00123	http://pfam.sanger.ac.uk/family?acc=PF00123
+9	52615972	52616055	Glucagon_GIP_secretin_VIP	58.3	+	52615972	52616055	83,88,95	1	83	0	PF00123	http://pfam.sanger.ac.uk/family?acc=PF00123
+9	52615972	52616004	Glucagon_GIP_secretin_VIP	403.0	+	52615972	52616004	83,88,95	1	32	0	PR00275	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00275&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00275
+9	52616005	52616040	Glucagon_GIP_secretin_VIP	259.0	+	52616005	52616040	83,88,95	1	35	0	PR00275	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00275&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00275
+9	52615972	52616052	Glucagon_GIP_secretin_VIP	58.9	+	52615972	52616052	83,88,95	1	80	0	SM00070	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00070
+9	52617645	52617725	Glucagon_GIP_secretin_VIP	52.6	+	52617645	52617725	83,88,95	1	80	0	SM00070	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00070

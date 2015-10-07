@@ -1,17 +1,7 @@
-browser position chr17:31680898-31682332
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000073910	ENSDART00000111629	ENSDARP00000099471	31680898	31682332	###
-#	PR02040	IPR023250	16	34	\N	8.9e-47	72.51	ARKLKDDAADWHNLTLRWE
-17	31681231	31681287	Cyclin-dep_Kinase_2_interact_(PR02040)	846.0	+
-#	PR02040	IPR023250	36	52	\N	8.9e-47	47.71	LNDEGSATATNIVNLGL
-17	31681291	31681341	Cyclin-dep_Kinase_2_interact_(PR02040)	382.0	+
-#	PR02040	IPR023250	84	99	\N	8.9e-47	40.28	ELEEECGKLKDVVDKM
-17	31681528	31681575	Cyclin-dep_Kinase_2_interact_(PR02040)	306.0	+
-#	PR02040	IPR023250	132	146	\N	8.9e-47	65.93	PLFHSWPTKQFAEVS
-17	31681754	31682108	Cyclin-dep_Kinase_2_interact_(PR02040)	560.0	+
-#	PR02040	IPR023250	153	169	\N	8.9e-47	61.44	YKQELALKKTILQELAH
-17	31682127	31682177	Cyclin-dep_Kinase_2_interact_(PR02040)	534.0	+
-#	PR02040	IPR023250	179	190	\N	8.9e-47	74.07	YLSSWLYQPYIE
-17	31682205	31682240	Cyclin-dep_Kinase_2_interact_(PR02040)	552.0	+
-#	PR02040	IPR023250	193	207	\N	8.9e-47	71.11	GKLLLESLLLETGHR
-17	31682247	31682291	Cyclin-dep_Kinase_2_interact_(PR02040)	504.0	+
+17	31681231	31681287	Cyclin-dep_Kinase_2_interact	846.0	+	31681231	31681287	83,88,95	1	56	0	PR02040	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02040&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02040
+17	31681291	31681341	Cyclin-dep_Kinase_2_interact	382.0	+	31681291	31681341	83,88,95	1	50	0	PR02040	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02040&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02040
+17	31681528	31681575	Cyclin-dep_Kinase_2_interact	306.0	+	31681528	31681575	83,88,95	1	47	0	PR02040	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02040&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02040
+17	31681754	31682108	Cyclin-dep_Kinase_2_interact	560.0	+	31681754	31682108	83,88,95	2	33,10	0,344	PR02040	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02040&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02040
+17	31682127	31682177	Cyclin-dep_Kinase_2_interact	534.0	+	31682127	31682177	83,88,95	1	50	0	PR02040	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02040&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02040
+17	31682205	31682240	Cyclin-dep_Kinase_2_interact	552.0	+	31682205	31682240	83,88,95	1	35	0	PR02040	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02040&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02040
+17	31682247	31682291	Cyclin-dep_Kinase_2_interact	504.0	+	31682247	31682291	83,88,95	1	44	0	PR02040	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02040&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02040

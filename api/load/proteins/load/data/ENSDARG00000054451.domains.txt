@@ -1,25 +1,11 @@
-browser position chr18:48978530-49006206
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000054451	ENSDART00000006078	ENSDARP00000018477	48983074	49006206	###
-#	PF01186	IPR001695	324	527	\N	4.899999999999999e-120	0.0	PDLVPDPNYVQASTYVQRAHMYSLRCAAEEKCLASSAYNAETTDYSVRVLLRFPQRVKNQGTADFMPNRPRHTWEWHSCHQHYHSMDEFSHYDLLEVSSGRKVAEGHKASFCLEDTTCDFGHLKRYACTAHTQGLSPGCFDTYNADIDCQWIDITDVQPGNYILKLQVNPKYLVLESDFTNNIVRCNIHYTGRYAKTTNCKISQ
-18	48983075	48991069	Lysyl_oxidase_(PF01186)	385.0	-
-#	PR00074	IPR001695	510	527	\N	7.399999999999997e-97	42.11	NIHYTGRYAKTTNCKISQ
-18	48983075	48983128	Lysyl_oxidase_(PR00074)	427.0	-
-#	PR00074	IPR001695	492	509	\N	7.399999999999997e-97	76.39	NPKYLVLESDFTNNIVRC
-18	48983129	48983182	Lysyl_oxidase_(PR00074)	792.0	-
-#	PR00074	IPR001695	472	491	\N	7.399999999999997e-97	87.5	CQWIDITDVQPGNYILKLQV
-18	48983183	48985938	Lysyl_oxidase_(PR00074)	1010.0	-
-#	PR00074	IPR001695	449	471	\N	7.399999999999997e-97	89.13	YACTAHTQGLSPGCFDTYNADID
-18	48985939	48986373	Lysyl_oxidase_(PR00074)	1215.0	-
-#	PR00074	IPR001695	426	447	\N	7.399999999999997e-97	77.27	VAEGHKASFCLEDTTCDFGHLK
-18	48986377	48986442	Lysyl_oxidase_(PR00074)	1015.0	-
-#	PR00074	IPR001695	311	332	\N	7.399999999999997e-97	53.41	NVGSVYRPQQRGLPDLVPDPNY
-18	48991043	49003871	Lysyl_oxidase_(PR00074)	460.0	-
-#	PR00074	IPR001695	333	357	\N	7.399999999999997e-97	77.0	VQASTYVQRAHMYSLRCAAEEKCLA
-18	48990968	48991042	Lysyl_oxidase_(PR00074)	1037.0	-
-#	PR00074	IPR001695	358	378	\N	7.399999999999997e-97	70.24	SSAYNAETTDYSVRVLLRFPQ
-18	48990301	48990363	Lysyl_oxidase_(PR00074)	732.0	-
-#	PR00074	IPR001695	379	400	\N	7.399999999999997e-97	77.27	RVKNQGTADFMPNRPRHTWEWH
-18	48990235	48990300	Lysyl_oxidase_(PR00074)	1140.0	-
-#	PR00074	IPR001695	401	421	\N	7.399999999999997e-97	88.1	SCHQHYHSMDEFSHYDLLEVS
-18	48986455	48990234	Lysyl_oxidase_(PR00074)	1125.0	-
+18	48983075	48991069	Lysyl_oxidase	385.0	-	48983075	48991069	83,88,95	5	7893,-137,-156,-95,7876	0,7288,3433,2910,118	PF01186	http://pfam.sanger.ac.uk/family?acc=PF01186
+18	48983075	48983128	Lysyl_oxidase	427.0	-	48983075	48983128	83,88,95	1	53	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+18	48983129	48983182	Lysyl_oxidase	792.0	-	48983129	48983182	83,88,95	1	53	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+18	48983183	48985938	Lysyl_oxidase	1010.0	-	48983183	48985938	83,88,95	2	2707,2745	0,10	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+18	48985939	48986373	Lysyl_oxidase	1215.0	-	48985939	48986373	83,88,95	2	413,388	0,46	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+18	48986377	48986442	Lysyl_oxidase	1015.0	-	48986377	48986442	83,88,95	1	65	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+18	48991043	49003871	Lysyl_oxidase	460.0	-	48991043	49003871	83,88,95	2	12797,12795	0,33	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+18	48990968	48991042	Lysyl_oxidase	1037.0	-	48990968	48991042	83,88,95	1	74	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+18	48990301	48990363	Lysyl_oxidase	732.0	-	48990301	48990363	83,88,95	1	62	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+18	48990235	48990300	Lysyl_oxidase	1140.0	-	48990235	48990300	83,88,95	1	65	0	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074
+18	48986455	48990234	Lysyl_oxidase	1125.0	-	48986455	48990234	83,88,95	2	3771,3726	0,53	PR00074	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00074&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00074

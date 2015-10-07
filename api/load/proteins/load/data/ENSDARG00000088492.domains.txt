@@ -1,13 +1,5 @@
-browser position chr5:66607020-66622632
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000088492	ENSDART00000131064	ENSDARP00000111923	66607020	66622632	###
-#	PR00194	IPR000533	137	154	\N	3.8e-05	28.64	TVRTLQRHTWLIRSGLES
-5	66620227	66620660	Tropomyosin_(PR00194)	185.0	-
-#	PR00194	IPR000533	194	222	\N	3.8e-05	26.55	DAQLKNTQTKTEENIHHYNEAKKRMEETE
-5	66619017	66620109	Tropomyosin_(PR00194)	312.0	-
-#	PR00194	IPR000533	224	247	\N	3.8e-05	26.42	ELAEIEKRAQDSGKLLVQSKQQLR
-5	66618942	66619013	Tropomyosin_(PR00194)	263.0	-
-#	PR00194	IPR000533	287	312	\N	3.8e-05	30.69	KLERANDRLEIAEKELRETQSMEVKL
-5	66616771	66617797	Tropomyosin_(PR00194)	310.0	-
-#	SSF46579	IPR009053	518	650	\N	0.001	0.0	QKSLHLQQQTEAAVQERSSLQEQCRNLEARRTHAQRCLEAAETRTSEAETELLRVQAELNKLQQELKQTQDLHLEISRDNVAVQKRHEGIQTLVDEVREVRDSFHSESDEGKSARKQWEELVKKQKELKAELK
-5	66610134	66612349	Prefoldin_(SSF46579)	0.0	-
+5	66620227	66620660	Tropomyosin	185.0	-	66620227	66620660	83,88,95	2	408,406	0,27	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+5	66619017	66620109	Tropomyosin	312.0	-	66619017	66620109	83,88,95	2	1063,1036	0,56	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+5	66618942	66619013	Tropomyosin	263.0	-	66618942	66619013	83,88,95	1	71	0	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+5	66616771	66617797	Tropomyosin	310.0	-	66616771	66617797	83,88,95	2	1004,972	0,54	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+5	66610134	66612349	Prefoldin	0.0	-	66610134	66612349	83,88,95	5	2109,-165,-42,-10,2144	0,857,567,207,71	SSF46579	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46579

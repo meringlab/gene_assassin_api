@@ -1,15 +1,6 @@
-browser position chr22:21635106-21636634
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000071410	ENSDART00000105546	ENSDARP00000096323	21635106	21636595	###
-#	PR00296	IPR000789	59	73	\N	3.3e-29	85.13	YMIHKPEPHILLFRR
-22	21635566	21636051	Cyclin-dep_kinase_reg-sub_(PR00296)	739.0	-
-#	PR00296	IPR000789	7	21	\N	3.3e-29	69.23	QIYYSDKYSDEEYEY
-22	21636459	21636503	Cyclin-dep_kinase_reg-sub_(PR00296)	618.0	-
-#	PR00296	IPR000789	44	58	\N	3.3e-29	78.97	EWRGLGVQQSQGWIH
-22	21636052	21636096	Cyclin-dep_kinase_reg-sub_(PR00296)	740.0	-
-#	PR00296	IPR000789	22	36	\N	3.3e-29	63.59	RHVMLPKQLSKLVPS
-22	21636118	21636458	Cyclin-dep_kinase_reg-sub_(PR00296)	533.0	-
-#	PF01111	IPR000789	7	75	\N	3.5e-44	0.0	QIYYSDKYSDEEYEYRHVMLPKQLSKLVPSSHLMSEEEWRGLGVQQSQGWIHYMIHKPEPHILLFRRPL
-22	21635560	21636503	Cyclin-dep_kinase_reg-sub_(PF01111)	135.1	-
-#	SSF55637	IPR000789	6	76	\N	8.9e-36	0.0	KQIYYSDKYSDEEYEYRHVMLPKQLSKLVPSSHLMSEEEWRGLGVQQSQGWIHYMIHKPEPHILLFRRPLP
-22	21635557	21636506	Cyclin-dep_kinase_reg-sub_(SSF55637)	0.0	-
+22	21635566	21636051	Cyclin-dep_kinase_reg-sub	739.0	-	21635566	21636051	83,88,95	2	467,460	0,25	PR00296	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00296&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00296
+22	21636459	21636503	Cyclin-dep_kinase_reg-sub	618.0	-	21636459	21636503	83,88,95	1	44	0	PR00296	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00296&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00296
+22	21636052	21636096	Cyclin-dep_kinase_reg-sub	740.0	-	21636052	21636096	83,88,95	1	44	0	PR00296	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00296&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00296
+22	21636118	21636458	Cyclin-dep_kinase_reg-sub	533.0	-	21636118	21636458	83,88,95	2	339,298	0,42	PR00296	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00296&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00296
+22	21635560	21636503	Cyclin-dep_kinase_reg-sub	135.1	-	21635560	21636503	83,88,95	3	897,-127,912	0,600,31	PF01111	http://pfam.sanger.ac.uk/family?acc=PF01111
+22	21635557	21636506	Cyclin-dep_kinase_reg-sub	0.0	-	21635557	21636506	83,88,95	3	900,-127,915	0,603,34	SSF55637	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55637

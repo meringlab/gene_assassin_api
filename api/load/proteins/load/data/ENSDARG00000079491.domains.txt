@@ -1,51 +1,24 @@
-browser position chr6:49307801-49309252
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000079491	ENSDART00000109628	ENSDARP00000097504	49307801	49309252	###
-#	PR01491	IPR003968	75	85	\N	9.8e-24	73.26	EYFFDRNRPSF
-6	49308023	49308055	K_chnl_volt-dep_Kv_(PR01491)	446.0	+
-#	PR01496	IPR003972	176	187	\N	3.2e-34	92.28	SIVIFCLETLPE
-6	49308326	49308361	K_chnl_volt-dep_Kv1_(PR01496)	568.0	+
-#	PR01496	IPR003972	153	169	\N	3.2e-34	88.81	FEYPESSGPARGIAIVS
-6	49308257	49308307	K_chnl_volt-dep_Kv1_(PR01496)	735.0	+
-#	PF07885	IPR013099	327	401	\N	5.5000000000000006e-17	0.0	FIGVILFSSAVYFAEADDPTSSFSSIPDAFWWAVVTMTTVGYGDMHPVTIGGKIVGSLCAIAGVLTIALPVPVIV
-6	49308779	49309003	2pore_dom_K_chnl_dom_(PF07885)	49.7	+
-#	PF02214	IPR003131	35	125	\N	1.4e-31	0.0	VVINISGLRFETQLKTFNQFPDTLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRIRRPVNVPIDIFSEEIRFYQLGEEAMEK
-6	49307903	49308175	T1-type_BTB_(PF02214)	97.0	+
-#	PR01496	IPR003972	76	86	\N	3.2e-34	98.0	YFFDRNRPSFD
-6	49308026	49308058	K_chnl_volt-dep_Kv1_(PR01496)	624.0	+
-#	PR01496	IPR003972	62	73	\N	3.2e-34	81.91	PKKRMRYFDPLR
-6	49307984	49308019	K_chnl_volt-dep_Kv1_(PR01496)	565.0	+
-#	PR00169	IPR003091	289	315	\N	5.599999999999999e-111	73.84	LVRVFRIFKLSRHSKGLQILGQTLKAS
-6	49308665	49308745	K_chnl_(PR00169)	976.0	+
-#	PR00169	IPR003091	244	264	\N	5.599999999999999e-111	61.9	FSKNIMNIIDIVAIIPYFITL
-6	49308530	49308592	K_chnl_(PR00169)	715.0	+
-#	PR00169	IPR003091	378	404	\N	5.599999999999999e-111	78.66	GKIVGSLCAIAGVLTIALPVPVIVSNF
-6	49308932	49309012	K_chnl_(PR00169)	1089.0	+
-#	PR00169	IPR003091	349	371	\N	5.599999999999999e-111	80.59	FSSIPDAFWWAVVTMTTVGYGDM
-6	49308845	49308913	K_chnl_(PR00169)	1085.0	+
-#	PR01510	IPR004050	51	65	\N	8e-05	73.33	FNQFPDTLLGDPKKR
-6	49307951	49307995	K_chnl_volt-dep_Kv1.3_(PR01510)	610.0	+
-#	PR01510	IPR004050	1	11	\N	8e-05	36.84	MTVVACDNMLE
-6	49307801	49307833	K_chnl_volt-dep_Kv1.3_(PR01510)	320.0	+
-#	PR01491	IPR003968	389	400	\N	9.8e-24	86.18	GVLTIALPVPVI
-6	49308965	49309000	K_chnl_volt-dep_Kv_(PR01491)	510.0	+
-#	PR01491	IPR003968	318	332	\N	9.8e-24	66.39	ELGLLIFFLFIGVIL
-6	49308752	49308796	K_chnl_volt-dep_Kv_(PR01491)	498.0	+
-#	PR01491	IPR003968	294	302	\N	9.8e-24	85.28	RIFKLSRHS
-6	49308680	49308706	K_chnl_volt-dep_Kv_(PR01491)	393.0	+
-#	PR00169	IPR003091	156	184	\N	5.599999999999999e-111	57.7	PESSGPARGIAIVSVLVILISIVIFCLET
-6	49308266	49308352	K_chnl_(PR00169)	742.0	+
-#	PR00169	IPR003091	75	94	\N	5.599999999999999e-111	65.82	EYFFDRNRPSFDAILYYYQS
-6	49308023	49308082	K_chnl_(PR00169)	725.0	+
-#	PR01496	IPR003972	119	130	\N	3.2e-34	82.52	GEEAMEKFREDE
-6	49308155	49308190	K_chnl_volt-dep_Kv1_(PR01496)	524.0	+
-#	PR00169	IPR003091	318	341	\N	5.599999999999999e-111	68.3	ELGLLIFFLFIGVILFSSAVYFAE
-6	49308752	49308823	K_chnl_(PR00169)	839.0	+
-#	PF00520	IPR005821	219	400	\N	1.4999999999999997e-36	0.0	IETLCIIWFSFELLVRFFACPSKATFSKNIMNIIDIVAIIPYFITLGTELAERQGNGQQAMSLAILRVIRLVRVFRIFKLSRHSKGLQILGQTLKASMRELGLLIFFLFIGVILFSSAVYFAEADDPTSSFSSIPDAFWWAVVTMTTVGYGDMHPVTIGGKIVGSLCAIAGVLTIALPVPVI
-6	49308455	49309000	Ion_trans_dom_(PF00520)	113.9	+
-#	PR00169	IPR003091	218	241	\N	5.599999999999999e-111	57.0	VIETLCIIWFSFELLVRFFACPSK
-6	49308452	49308523	K_chnl_(PR00169)	815.0	+
-#	SM00225	IPR000210	33	133	\N	2e-06	0.0	ERVVINISGLRFETQLKTFNQFPDTLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRIRRPVNVPIDIFSEEIRFYQLGEEAMEKFREDEGFI
-6	49307897	49308199	BTB/POZ-like_(SM00225)	37.3	+
-#	SSF54695	IPR011333	33	132	\N	9.099999999999999e-29	0.0	ERVVINISGLRFETQLKTFNQFPDTLLGDPKKRMRYFDPLRNEYFFDRNRPSFDAILYYYQSGGRIRRPVNVPIDIFSEEIRFYQLGEEAMEKFREDEGF
-6	49307897	49308196	BTB/POZ_fold_(SSF54695)	0.0	+
+6	49308023	49308055	K_chnl_volt-dep_Kv	446.0	+	49308023	49308055	83,88,95	1	32	0	PR01491	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01491&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01491
+6	49308326	49308361	K_chnl_volt-dep_Kv1	568.0	+	49308326	49308361	83,88,95	1	35	0	PR01496	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01496&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01496
+6	49308257	49308307	K_chnl_volt-dep_Kv1	735.0	+	49308257	49308307	83,88,95	1	50	0	PR01496	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01496&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01496
+6	49308779	49309003	2pore_dom_K_chnl_dom	49.7	+	49308779	49309003	83,88,95	1	224	0	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
+6	49307903	49308175	T1-type_BTB	97.0	+	49307903	49308175	83,88,95	1	272	0	PF02214	http://pfam.sanger.ac.uk/family?acc=PF02214
+6	49308026	49308058	K_chnl_volt-dep_Kv1	624.0	+	49308026	49308058	83,88,95	1	32	0	PR01496	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01496&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01496
+6	49307984	49308019	K_chnl_volt-dep_Kv1	565.0	+	49307984	49308019	83,88,95	1	35	0	PR01496	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01496&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01496
+6	49308665	49308745	K_chnl	976.0	+	49308665	49308745	83,88,95	1	80	0	PR00169	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00169&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00169
+6	49308530	49308592	K_chnl	715.0	+	49308530	49308592	83,88,95	1	62	0	PR00169	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00169&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00169
+6	49308932	49309012	K_chnl	1089.0	+	49308932	49309012	83,88,95	1	80	0	PR00169	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00169&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00169
+6	49308845	49308913	K_chnl	1085.0	+	49308845	49308913	83,88,95	1	68	0	PR00169	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00169&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00169
+6	49307951	49307995	K_chnl_volt-dep_Kv1.3	610.0	+	49307951	49307995	83,88,95	1	44	0	PR01510	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01510&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01510
+6	49307801	49307833	K_chnl_volt-dep_Kv1.3	320.0	+	49307801	49307833	83,88,95	1	32	0	PR01510	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01510&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01510
+6	49308965	49309000	K_chnl_volt-dep_Kv	510.0	+	49308965	49309000	83,88,95	1	35	0	PR01491	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01491&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01491
+6	49308752	49308796	K_chnl_volt-dep_Kv	498.0	+	49308752	49308796	83,88,95	1	44	0	PR01491	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01491&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01491
+6	49308680	49308706	K_chnl_volt-dep_Kv	393.0	+	49308680	49308706	83,88,95	1	26	0	PR01491	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01491&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01491
+6	49308266	49308352	K_chnl	742.0	+	49308266	49308352	83,88,95	1	86	0	PR00169	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00169&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00169
+6	49308023	49308082	K_chnl	725.0	+	49308023	49308082	83,88,95	1	59	0	PR00169	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00169&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00169
+6	49308155	49308190	K_chnl_volt-dep_Kv1	524.0	+	49308155	49308190	83,88,95	1	35	0	PR01496	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01496&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01496
+6	49308752	49308823	K_chnl	839.0	+	49308752	49308823	83,88,95	1	71	0	PR00169	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00169&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00169
+6	49308455	49309000	Ion_trans_dom	113.9	+	49308455	49309000	83,88,95	1	545	0	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
+6	49308452	49308523	K_chnl	815.0	+	49308452	49308523	83,88,95	1	71	0	PR00169	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00169&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00169
+6	49307897	49308199	BTB/POZ-like	37.3	+	49307897	49308199	83,88,95	1	302	0	SM00225	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00225
+6	49307897	49308196	BTB/POZ_fold	0.0	+	49307897	49308196	83,88,95	1	299	0	SSF54695	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54695

@@ -1,19 +1,8 @@
-browser position chr10:17282949-17288957
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000044097	ENSDART00000064747	ENSDARP00000064746	17282949	17288957	###
-#	SM00244	IPR001107	41	199	\N	3.7e-58	0.0	TVVLFVPQQEAWVVERMGRFHRILEPGLNFLIPILDRIRYVQSLKEIVIDVPEQSAVSLDNVTLQIDGVLYLRILDPFKASYGVEDPEYAVTQLAQTTMRSELGKLTLDKVFRERESLNSNIVHSINQASDEWGIRCLRYEIKDIHVPPRVKESMQMQV
-10	17283711	17288813	Band_7_(SM00244)	209.2	+
-#	PF01145	IPR001107	45	214	\N	1e-36	0.0	FVPQQEAWVVERMGRFHRILEPGLNFLIPILDRIRYVQSLKEIVIDVPEQSAVSLDNVTLQIDGVLYLRILDPFKASYGVEDPEYAVTQLAQTTMRSELGKLTLDKVFRERESLNSNIVHSINQASDEWGIRCLRYEIKDIHVPPRVKESMQMQVEAERRKRATVLESEG
-10	17283723	17288858	Band_7_(PF01145)	112.9	+
-#	PR00721	IPR001972	48	70	\N	2.6e-30	29.19	QQEAWVVERMGRFHRILEPGLNF
-10	17283732	17283885	Stomatin_fam_(PR00721)	192.0	+
-#	PR00721	IPR001972	96	117	\N	2.6e-30	38.96	AVSLDNVTLQIDGVLYLRILDP
-10	17283961	17284395	Stomatin_fam_(PR00721)	524.0	+
-#	PR00721	IPR001972	131	148	\N	2.6e-30	50.79	VTQLAQTTMRSELGKLTL
-10	17284508	17284561	Stomatin_fam_(PR00721)	409.0	+
-#	PR00721	IPR001972	151	174	\N	2.6e-30	26.79	VFRERESLNSNIVHSINQASDEWG
-10	17284568	17288642	Stomatin_fam_(PR00721)	415.0	+
-#	PR00721	IPR001972	175	193	\N	2.6e-30	33.46	IRCLRYEIKDIHVPPRVKE
-10	17288643	17288699	Stomatin_fam_(PR00721)	342.0	+
-#	PR00721	IPR001972	194	215	\N	2.6e-30	40.26	SMQMQVEAERRKRATVLESEGT
-10	17288700	17288861	Stomatin_fam_(PR00721)	426.0	+
+10	17283711	17288813	Band_7	209.2	+	17283711	17288813	83,88,95	6	77,99,58,101,134,2	0,163,632,764,4869,5100	SM00244	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00244
+10	17283723	17288858	Band_7	112.9	+	17283723	17288858	83,88,95	6	65,99,58,101,134,47	0,151,620,752,4857,5088	PF01145	http://pfam.sanger.ac.uk/family?acc=PF01145
+10	17283732	17283885	Stomatin_fam	192.0	+	17283732	17283885	83,88,95	2	56,11	0,142	PR00721	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00721&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00721
+10	17283961	17284395	Stomatin_fam	524.0	+	17283961	17284395	83,88,95	2	12,52	0,382	PR00721	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00721&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00721
+10	17284508	17284561	Stomatin_fam	409.0	+	17284508	17284561	83,88,95	1	53	0	PR00721	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00721&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00721
+10	17284568	17288642	Stomatin_fam	415.0	+	17284568	17288642	83,88,95	2	8,62	0,4012	PR00721	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00721&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00721
+10	17288643	17288699	Stomatin_fam	342.0	+	17288643	17288699	83,88,95	1	56	0	PR00721	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00721&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00721
+10	17288700	17288861	Stomatin_fam	426.0	+	17288700	17288861	83,88,95	2	14,50	0,111	PR00721	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00721&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00721

@@ -1,37 +1,17 @@
-browser position chr25:1407567-1408790
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000059348	ENSDART00000155229	ENSDARP00000129162	1407567	1408778	###
-#	PR00526	IPR000826	128	145	\N	4e-06	28.89	KVVVTVTVMNVYASAFFL
-25	1408344	1408397	Formyl_pep_rcpt_(PR00526)	296.0	-
-#	PR00526	IPR000826	240	257	\N	4e-06	18.33	LLLRLIRRRSMNNNLPKR
-25	1408008	1408061	Formyl_pep_rcpt_(PR00526)	186.0	-
-#	PR00237	IPR000276	89	110	\N	9.300000000000001e-48	34.3	INYFIMNLAITDFQFVLTLPFW
-25	1408449	1408514	GPCR_Rhodpsn_(PR00237)	332.0	-
-#	PR00237	IPR000276	55	79	\N	9.300000000000001e-48	28.63	TISIVYSVVCAVGLVGNLLVFFLIR
-25	1408542	1408616	GPCR_Rhodpsn_(PR00237)	291.0	-
-#	PR00237	IPR000276	170	191	\N	9.300000000000001e-48	25.49	SARLLSALLWLLAAAASVPTAI
-25	1408206	1408271	GPCR_Rhodpsn_(PR00237)	251.0	-
-#	PR00237	IPR000276	134	156	\N	9.300000000000001e-48	31.24	TVMNVYASAFFLTAMSVTRYWSV
-25	1408311	1408379	GPCR_Rhodpsn_(PR00237)	311.0	-
-#	PR00526	IPR000826	101	117	\N	4e-06	41.76	FQFVLTLPFWAVDTALD
-25	1408428	1408478	Formyl_pep_rcpt_(PR00526)	346.0	-
-#	PR00241	IPR000248	278	288	\N	1.8e-07	44.95	PNHAITFWGVL
-25	1407915	1407947	ATII_rcpt_(PR00241)	232.0	-
-#	PR00241	IPR000248	143	150	\N	1.8e-07	54.17	FFLTAMSV
-25	1408329	1408352	ATII_rcpt_(PR00241)	252.0	-
-#	PR00241	IPR000248	184	195	\N	1.8e-07	39.81	AASVPTAIVTSV
-25	1408194	1408229	ATII_rcpt_(PR00241)	198.0	-
-#	PF00001	IPR000276	70	326	\N	6.999999999999999e-61	0.0	GNLLVFFLIRVRQGRKKSTINYFIMNLAITDFQFVLTLPFWAVDTALDFHWPFGNVMCKVVVTVTVMNVYASAFFLTAMSVTRYWSVASALKDRTRYKRCSARLLSALLWLLAAAASVPTAIVTSVKTINGVKLCLQRFPNDQNWHAIYHLQKILVGFVIPMLITVVCYALLLRLIRRRSMNNNLPKRRSRVTKSVTIVVLSFFICWLPNHAITFWGVLVKLNVIHWDKVFYMLHTYVFPVTVCLAHSNSCLNPVLY
-25	1407801	1408571	GPCR_Rhodpsn_(PF00001)	191.9	-
-#	PR00241	IPR000248	108	120	\N	1.8e-07	49.57	PFWAVDTALDFHW
-25	1408419	1408457	ATII_rcpt_(PR00241)	460.0	-
-#	PR00241	IPR000248	59	67	\N	1.8e-07	40.74	VYSVVCAVG
-25	1408578	1408604	ATII_rcpt_(PR00241)	245.0	-
-#	PR00237	IPR000276	308	334	\N	9.300000000000001e-48	34.95	FPVTVCLAHSNSCLNPVLYCLMRREFR
-25	1407777	1407857	GPCR_Rhodpsn_(PR00237)	499.0	-
-#	PR00237	IPR000276	261	285	\N	9.300000000000001e-48	30.11	VTKSVTIVVLSFFICWLPNHAITFW
-25	1407924	1407998	GPCR_Rhodpsn_(PR00237)	417.0	-
-#	PR00237	IPR000276	219	242	\N	9.300000000000001e-48	26.45	HLQKILVGFVIPMLITVVCYALLL
-25	1408053	1408124	GPCR_Rhodpsn_(PR00237)	316.0	-
-#	PS50262	IPR017452	70	326	\N	0.0	0.0	GNLLVFFLIRVRQGRKKSTINYFIMNLAITDFQFVLTLPFWAVDTALDFHWPFGNVMCKVVVTVTVMNVYASAFFLTAMSVTRYWSVASALKDRTRYKRCSARLLSALLWLLAAAASVPTAIVTSVKTINGVKLCLQRFPNDQNWHAIYHLQKILVGFVIPMLITVVCYALLLRLIRRRSMNNNLPKRRSRVTKSVTIVVLSFFICWLPNHAITFWGVLVKLNVIHWDKVFYMLHTYVFPVTVCLAHSNSCLNPVLY
-25	1407801	1408571	GPCR_Rhodpsn_7TM_(PS50262)	43.542	-
+25	1408344	1408397	Formyl_pep_rcpt	296.0	-	1408344	1408397	83,88,95	1	53	0	PR00526	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00526&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00526
+25	1408008	1408061	Formyl_pep_rcpt	186.0	-	1408008	1408061	83,88,95	1	53	0	PR00526	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00526&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00526
+25	1408449	1408514	GPCR_Rhodpsn	332.0	-	1408449	1408514	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+25	1408542	1408616	GPCR_Rhodpsn	291.0	-	1408542	1408616	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+25	1408206	1408271	GPCR_Rhodpsn	251.0	-	1408206	1408271	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+25	1408311	1408379	GPCR_Rhodpsn	311.0	-	1408311	1408379	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+25	1408428	1408478	Formyl_pep_rcpt	346.0	-	1408428	1408478	83,88,95	1	50	0	PR00526	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00526&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00526
+25	1407915	1407947	ATII_rcpt	232.0	-	1407915	1407947	83,88,95	1	32	0	PR00241	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00241&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00241
+25	1408329	1408352	ATII_rcpt	252.0	-	1408329	1408352	83,88,95	1	23	0	PR00241	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00241&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00241
+25	1408194	1408229	ATII_rcpt	198.0	-	1408194	1408229	83,88,95	1	35	0	PR00241	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00241&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00241
+25	1407801	1408571	GPCR_Rhodpsn	191.9	-	1407801	1408571	83,88,95	1	770	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+25	1408419	1408457	ATII_rcpt	460.0	-	1408419	1408457	83,88,95	1	38	0	PR00241	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00241&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00241
+25	1408578	1408604	ATII_rcpt	245.0	-	1408578	1408604	83,88,95	1	26	0	PR00241	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00241&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00241
+25	1407777	1407857	GPCR_Rhodpsn	499.0	-	1407777	1407857	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+25	1407924	1407998	GPCR_Rhodpsn	417.0	-	1407924	1407998	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+25	1408053	1408124	GPCR_Rhodpsn	316.0	-	1408053	1408124	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+25	1407801	1408571	GPCR_Rhodpsn_7TM	43.542	-	1407801	1408571	83,88,95	1	770	0	PS50262	http://www.expasy.ch/prosite/PS50262

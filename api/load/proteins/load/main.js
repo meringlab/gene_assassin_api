@@ -1,5 +1,6 @@
 
-const URL = 'mongodb://mongodb:27017/drerio';
+//const URL = 'mongodb://mongodb:27017/drerio';
+const URL = 'mongodb://172.16.75.133:32769/drerio';
 
 var MongoClient = require('mongodb').MongoClient
 var assert = require('assert');
@@ -16,8 +17,9 @@ function parseRecord(line) {
 	console.log("ERROR, another browser position! " + line)
 	return
     }
+    // 13: domain Id, 14: URL
     var records = line.split('\t')
-    return {chromosome : records[0],start: parseInt(records[1]), end:   parseInt(records[2]),  bed:   line + '\t-\t-\t83,88,95'/*color*/}
+    return {chromosome : records[0],start: parseInt(records[1]), end:   parseInt(records[2]),  bed:   line}
 }
 
 var domains = []

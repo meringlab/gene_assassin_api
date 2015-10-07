@@ -1,3 +1,1 @@
-browser position chr21:41207207-41208215
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000091137	ENSDART00000124187	ENSDARP00000112384	41207207	41208215	###
+21	41207213	41207789	Pectin_lyase_fold/virulence	0.0	-	41207213	41207789	83,88,95	2	454,205	0,371	SSF51126	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51126

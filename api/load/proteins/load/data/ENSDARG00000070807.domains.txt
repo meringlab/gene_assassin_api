@@ -1,17 +1,7 @@
-browser position chr3:18285032-18385927
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000070807	ENSDART00000122836	ENSDARP00000104762	18285231	18385927	###
-#	PF00385	IPR023780	12	60	\N	2e-18	0.0	AVEGIEKKRLRKGRMEYLVKWRGWSPKYNTWEPEENILDPRLLVAFQNR
-3	18285264	18285831	Chromo_domain_(PF00385)	52.4	+
-#	PR00504	IPR017984	8	16	\N	5.5e-06	43.33	EHVFAVEGI
-3	18285252	18285278	Chromo_dom_subgr_(PR00504)	169.0	+
-#	PR00504	IPR017984	21	35	\N	5.5e-06	42.67	LRKGRMEYLVKWRGW
-3	18285291	18285429	Chromo_dom_subgr_(PR00504)	436.0	+
-#	PR00504	IPR017984	36	48	\N	5.5e-06	53.08	SPKYNTWEPEENI
-3	18285430	18285795	Chromo_dom_subgr_(PR00504)	424.0	+
-#	SM00298	IPR000953	10	62	\N	3.1e-17	0.0	VFAVEGIEKKRLRKGRMEYLVKWRGWSPKYNTWEPEENILDPRLLVAFQNRER
-3	18285258	18382352	Chromo_domain/shadow_(SM00298)	73.3	+
-#	PS50013	IPR000953	11	61	\N	0.0	0.0	FAVEGIEKKRLRKGRMEYLVKWRGWSPKYNTWEPEENILDPRLLVAFQNRE
-3	18285261	18382349	Chromo_domain/shadow_(PS50013)	17.698	+
-#	SSF54160	IPR016197	6	67	\N	1.5e-18	0.0	VGEHVFAVEGIEKKRLRKGRMEYLVKWRGWSPKYNTWEPEENILDPRLLVAFQNRERQEQMV
-3	18285246	18382367	Chromodomain-like_(SSF54160)	0.0	+
+3	18285264	18285831	Chromo_domain	52.4	+	18285264	18285831	83,88,95	3	35,43,66	0,130,501	PF00385	http://pfam.sanger.ac.uk/family?acc=PF00385
+3	18285252	18285278	Chromo_dom_subgr	169.0	+	18285252	18285278	83,88,95	1	26	0	PR00504	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00504&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00504
+3	18285291	18285429	Chromo_dom_subgr	436.0	+	18285291	18285429	83,88,95	2	8,35	0,103	PR00504	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00504&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00504
+3	18285430	18285795	Chromo_dom_subgr	424.0	+	18285430	18285795	83,88,95	2	7,30	0,335	PR00504	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00504&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00504
+3	18285258	18382352	Chromo_domain/shadow	73.3	+	18285258	18382352	83,88,95	4	41,43,65,6	0,136,507,97088	SM00298	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00298
+3	18285261	18382349	Chromo_domain/shadow	17.698	+	18285261	18382349	83,88,95	4	38,43,65,3	0,133,504,97085	PS50013	http://www.expasy.ch/prosite/PS50013
+3	18285246	18382367	Chromodomain-like	0.0	+	18285246	18382367	83,88,95	4	53,43,65,21	0,148,519,97100	SSF54160	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54160

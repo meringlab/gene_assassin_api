@@ -1,23 +1,10 @@
-browser position chr9:49726841-49748125
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000017882	ENSDART00000026210	ENSDARP00000003828	49726841	49748125	###
-#	PF00106	IPR002198	40	203	\N	9.2e-27	0.0	KHVLITGCDSGFGNLVARQLDRQGFLVIAACLTETGASKLRATASPRLKTLQLNVTDSTSINRALEYVRRETGGKGLWGLVNNAGVSVPIGPMDWMQLHDFKKVLDVNLTGVIAVTLKFLPLLKKAQGRVVNVASILGRLSIIGGGYCLSKFGVEAFSDSLRRD
-9	49732293	49736497	DH_sc/Rdtase_SDR_(PF00106)	81.3	-
-#	PF08643	IPR013952	55	313	\N	4.5999999999999996e-11	0.0	VARQLDRQGFLVIAACLTETGASKLRATASPRLKTLQLNVTDSTSINRALEYVRRETGGKGLWGLVNNAGVSVPIGPMDWMQLHDFKKVLDVNLTGVIAVTLKFLPLLKKAQGRVVNVASILGRLSIIGGGYCLSKFGVEAFSDSLRRDMVHFGVKVSIIEPGFFKTQVTDLGLIEDDLKKRWSNLPEQVRRDYGDSYLQEYLKVQEFSMRMLASSDLSKVSSCMRHALSARHPRTRYAAGWDAKFLWIPLSYLPTCVV
-9	49727669	49736452	DUF1776_fun_(PF08643)	29.6	-
-#	PR00081	IPR002347	41	58	\N	2.1e-18	35.79	HVLITGCDSGFGNLVARQ
-9	49736441	49736494	Glc/ribitol_DH_(PR00081)	280.0	-
-#	PR00081	IPR002347	114	125	\N	2.1e-18	46.7	KGLWGLVNNAGV
-9	49734941	49736275	Glc/ribitol_DH_(PR00081)	193.0	-
-#	PR00081	IPR002347	161	177	\N	2.1e-18	33.08	LLKKAQGRVVNVASILG
-9	49734785	49734835	Glc/ribitol_DH_(PR00081)	277.0	-
-#	PR00081	IPR002347	186	205	\N	2.1e-18	25.38	YCLSKFGVEAFSDSLRRDMV
-9	49732287	49734760	Glc/ribitol_DH_(PR00081)	198.0	-
-#	PR00081	IPR002347	207	224	\N	2.1e-18	28.14	FGVKVSIIEPGFFKTQVT
-9	49732230	49732283	Glc/ribitol_DH_(PR00081)	253.0	-
-#	PR00080	IPR002198	114	125	\N	4.8e-08	47.82	KGLWGLVNNAGV
-9	49734941	49736275	DH_sc/Rdtase_SDR_(PR00080)	227.0	-
-#	PR00080	IPR002198	167	175	\N	4.8e-08	47.1	GRVVNVASI
-9	49734791	49734817	DH_sc/Rdtase_SDR_(PR00080)	267.0	-
-#	PR00080	IPR002198	186	205	\N	4.8e-08	32.44	YCLSKFGVEAFSDSLRRDMV
-9	49732287	49734760	DH_sc/Rdtase_SDR_(PR00080)	269.0	-
+9	49732293	49736497	DH_sc/Rdtase_SDR	81.3	-	49732293	49736497	83,88,95	3	3979,-258,4198	0,2679,6	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106
+9	49727669	49736452	DUF1776_fun	29.6	-	49727669	49736452	83,88,95	4	8603,-258,-163,8611	0,7303,4630,172	PF08643	http://pfam.sanger.ac.uk/family?acc=PF08643
+9	49736441	49736494	Glc/ribitol_DH	280.0	-	49736441	49736494	83,88,95	1	53	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+9	49734941	49736275	Glc/ribitol_DH	193.0	-	49734941	49736275	83,88,95	2	1331,1303	0,31	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+9	49734785	49734835	Glc/ribitol_DH	277.0	-	49734785	49734835	83,88,95	1	50	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+9	49732287	49734760	Glc/ribitol_DH	198.0	-	49732287	49734760	83,88,95	2	2427,2461	0,12	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+9	49732230	49732283	Glc/ribitol_DH	253.0	-	49732230	49732283	83,88,95	1	53	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+9	49734941	49736275	DH_sc/Rdtase_SDR	227.0	-	49734941	49736275	83,88,95	2	1331,1303	0,31	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+9	49734791	49734817	DH_sc/Rdtase_SDR	267.0	-	49734791	49734817	83,88,95	1	26	0	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+9	49732287	49734760	DH_sc/Rdtase_SDR	269.0	-	49732287	49734760	83,88,95	2	2427,2461	0,12	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080

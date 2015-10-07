@@ -1,15 +1,6 @@
-browser position chr7:75235852-75244605
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000004015	ENSDART00000012070	ENSDARP00000008265	75235852	75244605	###
-#	PF00123	IPR000532	81	108	\N	2.7e-16	0.0	HADGMFNKAYRKALGQLSARKYLHTLMA
-7	75238510	75238593	Glucagon_GIP_secretin_VIP_(PF00123)	45.7	+
-#	PF00123	IPR000532	128	154	\N	1.3999999999999999e-14	0.0	HSDGVFTDSYSRYRKQMAVKKYLATVL
-7	75240740	75240820	Glucagon_GIP_secretin_VIP_(PF00123)	40.2	+
-#	PR00275	IPR000532	128	138	\N	5.1e-05	65.43	HSDGVFTDSYS
-7	75240740	75240772	Glucagon_GIP_secretin_VIP_(PR00275)	424.0	+
-#	PR00275	IPR000532	139	150	\N	5.1e-05	38.01	RYRKQMAVKKYL
-7	75240773	75240808	Glucagon_GIP_secretin_VIP_(PR00275)	237.0	+
-#	SM00070	IPR000532	81	107	\N	4.2999999999999996e-10	0.0	HADGMFNKAYRKALGQLSARKYLHTLM
-7	75238510	75238590	Glucagon_GIP_secretin_VIP_(SM00070)	49.5	+
-#	SM00070	IPR000532	128	154	\N	2.4e-09	0.0	HSDGVFTDSYSRYRKQMAVKKYLATVL
-7	75240740	75240820	Glucagon_GIP_secretin_VIP_(SM00070)	47.1	+
+7	75238510	75238593	Glucagon_GIP_secretin_VIP	45.7	+	75238510	75238593	83,88,95	1	83	0	PF00123	http://pfam.sanger.ac.uk/family?acc=PF00123
+7	75240740	75240820	Glucagon_GIP_secretin_VIP	40.2	+	75240740	75240820	83,88,95	1	80	0	PF00123	http://pfam.sanger.ac.uk/family?acc=PF00123
+7	75240740	75240772	Glucagon_GIP_secretin_VIP	424.0	+	75240740	75240772	83,88,95	1	32	0	PR00275	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00275&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00275
+7	75240773	75240808	Glucagon_GIP_secretin_VIP	237.0	+	75240773	75240808	83,88,95	1	35	0	PR00275	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00275&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00275
+7	75238510	75238590	Glucagon_GIP_secretin_VIP	49.5	+	75238510	75238590	83,88,95	1	80	0	SM00070	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00070
+7	75240740	75240820	Glucagon_GIP_secretin_VIP	47.1	+	75240740	75240820	83,88,95	1	80	0	SM00070	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00070

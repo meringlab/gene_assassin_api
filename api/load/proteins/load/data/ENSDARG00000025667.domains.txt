@@ -1,33 +1,15 @@
-browser position chr19:40315448-40421547
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000025667	ENSDART00000146641	ENSDARP00000117015	40315510	40421547	###
-#	PF00002	IPR000832	52	307	\N	5.999999999999999e-62	0.0	PSVPLMVGCGISCTALLILLLIYAAFWRYIRSERSIILVNFCLSILASNVLILVGQSQTLSKGLCTVTAAFLHFFFLASFCWVLTEAWQSYLAVIGKMRSRLIRKRFLCLGWALVVAVSVGFTRARGYGTPSYCWLSLEGGLLYAFVGPAAVIVLVNMLIGIVVFNKLMSRDGISDKSKKQRAGLLLKCSKCGVISSTALSSSTASSAMASLWSSCVVLPLLALTWMSAVLAITDRRSTLFQVLFAVFDSVQGFVI
-19	40342217	40379459	GPCR_2_secretin-like_(PF00002)	196.2	-
-#	PF01825	IPR000203	5	37	\N	1.3999999999999998e-10	0.0	EENWDAESCQTLPSPAVSHTKCLCSKLSTFAVL
-19	40421437	40421535	GPS_dom_(PF01825)	28.7	-
-#	PR01694	IPR008077	78	88	\N	1.4e-37	90.91	WRYIRSERSII
-19	40376916	40379381	GPCR_2_brain-spec_angio_inhib_(PR01694)	552.0	-
-#	PR01694	IPR008077	178	195	\N	1.4e-37	88.89	GYGTPSYCWLSLEGGLLY
-19	40359939	40362647	GPCR_2_brain-spec_angio_inhib_(PR01694)	930.0	-
-#	PR01694	IPR008077	283	293	\N	1.4e-37	78.79	AITDRRSTLFQ
-19	40342259	40342291	GPCR_2_brain-spec_angio_inhib_(PR01694)	443.0	-
-#	PR01694	IPR008077	342	355	\N	1.4e-37	73.81	NGQTDFEKDVDLAC
-19	40327629	40332200	GPCR_2_brain-spec_angio_inhib_(PR01694)	533.0	-
-#	PR01694	IPR008077	604	618	\N	1.4e-37	75.56	SLERKRVRYSELDFE
-19	40315560	40325719	GPCR_2_brain-spec_angio_inhib_(PR01694)	610.0	-
-#	PR01694	IPR008077	621	635	\N	1.4e-37	80.0	MHTRKRHSELYHEL
-19	40315509	40315553	GPCR_2_brain-spec_angio_inhib_(PR01694)	702.0	-
-#	PR00249	IPR000832	54	78	\N	2e-10	28.34	VPLMVGCGISCTALLILLLIYAAFW
-19	40379379	40379453	GPCR_2_secretin-like_(PR00249)	219.0	-
-#	PR00249	IPR000832	118	141	\N	2e-10	21.61	VTAAFLHFFFLASFCWVLTEAWQS
-19	40372805	40372876	GPCR_2_secretin-like_(PR00249)	282.0	-
-#	PR00249	IPR000832	195	220	\N	2e-10	22.75	YAFVGPAAVIVLVNMLIGIVVFNKLM
-19	40354492	40359941	GPCR_2_secretin-like_(PR00249)	256.0	-
-#	PR00249	IPR000832	262	282	\N	2e-10	20.34	SLWSSCVVLPLLALTWMSAVL
-19	40342292	40342354	GPCR_2_secretin-like_(PR00249)	160.0	-
-#	PR00249	IPR000832	293	314	\N	2e-10	25.42	QVLFAVFDSVQGFVIITVHCAM
-19	40342196	40342261	GPCR_2_secretin-like_(PR00249)	267.0	-
-#	PS50221	IPR000203	1	43	\N	0.0	0.0	XEAGEENWDAESCQTLPSPAVSHTKCLCSKLSTFAVLAQKAKE
-19	40421419	40421547	GPS_dom_(PS50221)	9.78	-
-#	PS50261	IPR017981	52	315	\N	0.0	0.0	PSVPLMVGCGISCTALLILLLIYAAFWRYIRSERSIILVNFCLSILASNVLILVGQSQTLSKGLCTVTAAFLHFFFLASFCWVLTEAWQSYLAVIGKMRSRLIRKRFLCLGWALVVAVSVGFTRARGYGTPSYCWLSLEGGLLYAFVGPAAVIVLVNMLIGIVVFNKLMSRDGISDKSKKQRAGLLLKCSKCGVISSTALSSSTASSAMASLWSSCVVLPLLALTWMSAVLAITDRRSTLFQVLFAVFDSVQGFVIITVHCAMR
-19	40342193	40379459	GPCR_2-like_(PS50261)	26.963	-
+19	40342217	40379459	GPCR_2_secretin-like	196.2	-	40342217	40379459	83,88,95	8	37162,-102,-150,-60,-66,-85,-74,37099	0,34728,30673,20473,17757,12318,4726,143	PF00002	http://pfam.sanger.ac.uk/family?acc=PF00002
+19	40421437	40421535	GPS_dom	28.7	-	40421437	40421535	83,88,95	1	98	0	PF01825	http://pfam.sanger.ac.uk/family?acc=PF01825
+19	40376916	40379381	GPCR_2_brain-spec_angio_inhib	552.0	-	40376916	40379381	83,88,95	2	2463,2436	0,29	PR01694	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01694&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01694
+19	40359939	40362647	GPCR_2_brain-spec_angio_inhib	930.0	-	40359939	40362647	83,88,95	2	2691,2673	0,35	PR01694	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01694&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01694
+19	40342259	40342291	GPCR_2_brain-spec_angio_inhib	443.0	-	40342259	40342291	83,88,95	1	32	0	PR01694	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01694&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01694
+19	40327629	40332200	GPCR_2_brain-spec_angio_inhib	533.0	-	40327629	40332200	83,88,95	2	4565,4537	0,34	PR01694	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01694&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01694
+19	40315560	40325719	GPCR_2_brain-spec_angio_inhib	610.0	-	40315560	40325719	83,88,95	3	10153,-35,10158	0,5350,1	PR01694	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01694&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01694
+19	40315509	40315553	GPCR_2_brain-spec_angio_inhib	702.0	-	40315509	40315553	83,88,95	1	44	0	PR01694	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01694&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01694
+19	40379379	40379453	GPCR_2_secretin-like	219.0	-	40379379	40379453	83,88,95	1	74	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+19	40372805	40372876	GPCR_2_secretin-like	282.0	-	40372805	40372876	83,88,95	1	71	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+19	40354492	40359941	GPCR_2_secretin-like	256.0	-	40354492	40359941	83,88,95	2	5416,5406	0,43	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+19	40342292	40342354	GPCR_2_secretin-like	160.0	-	40342292	40342354	83,88,95	1	62	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+19	40342196	40342261	GPCR_2_secretin-like	267.0	-	40342196	40342261	83,88,95	1	65	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
+19	40421419	40421547	GPS_dom	9.78	-	40421419	40421547	83,88,95	1	128	0	PS50221	http://www.expasy.ch/prosite/PS50221
+19	40342193	40379459	GPCR_2-like	26.963	-	40342193	40379459	83,88,95	8	37186,-102,-150,-60,-66,-85,-74,37099	0,34752,30697,20497,17781,12342,4750,167	PS50261	http://www.expasy.ch/prosite/PS50261

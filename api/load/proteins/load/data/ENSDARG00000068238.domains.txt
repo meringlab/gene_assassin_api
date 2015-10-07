@@ -1,21 +1,9 @@
-browser position chrZv9_NA931:1608-2790
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000068238	ENSDART00000098580	ENSDARP00000089351	1608	2790	###
-#	PF00782	IPR000340	41	116	\N	1.7e-11	0.0	VYIGNEETARDRYKLQTLGITHILNAAEGEWNSVDTGAEYYKDMQIHYYGVTAEDTPTFNISQYFYSAAEYIQQTL
-Zv9_NA931	1641	2670	Dual-sp_phosphatase_cat-dom_(PF00782)	30.3	-
-#	PR01908	IPR020417	38	50	\N	6.8e-16	35.52	WPGVYIGNEETAR
-Zv9_NA931	1839	2679	Atypical_DUSP_(PR01908)	285.0	-
-#	PR01908	IPR020417	55	66	\N	6.8e-16	61.35	LQTLGITHILNA
-Zv9_NA931	1791	1826	Atypical_DUSP_(PR01908)	362.0	-
-#	PR01908	IPR020417	88	97	\N	6.8e-16	50.64	YYGVTAEDTP
-Zv9_NA931	1698	1727	Atypical_DUSP_(PR01908)	272.0	-
-#	PR01908	IPR020417	104	115	\N	6.8e-16	38.3	YFYSAAEYIQQT
-Zv9_NA931	1644	1679	Atypical_DUSP_(PR01908)	244.0	-
-#	PR01909	IPR020405	35	46	\N	1.8e-15	56.0	NEVWPGVYIGNE
-Zv9_NA931	2653	2688	Atypical_DUSP_famA_(PR01909)	458.0	-
-#	PR01909	IPR020405	55	64	\N	1.8e-15	68.0	LQTLGITHIL
-Zv9_NA931	1797	1826	Atypical_DUSP_famA_(PR01909)	358.0	-
-#	PR01909	IPR020405	88	99	\N	1.8e-15	56.0	YYGVTAEDTPTF
-Zv9_NA931	1692	1727	Atypical_DUSP_famA_(PR01909)	389.0	-
-#	PR01909	IPR020405	108	117	\N	1.8e-15	45.2	AAEYIQQTLS
-Zv9_NA931	1638	1667	Atypical_DUSP_famA_(PR01909)	233.0	-
+Zv9_NA931	1641	2670	Dual-sp_phosphatase_cat-dom	30.3	-	1641	2670	83,88,95	2	1013,819	0,210	PF00782	http://pfam.sanger.ac.uk/family?acc=PF00782
+Zv9_NA931	1839	2679	Atypical_DUSP	285.0	-	1839	2679	83,88,95	2	815,828	0,12	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
+Zv9_NA931	1791	1826	Atypical_DUSP	362.0	-	1791	1826	83,88,95	1	35	0	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
+Zv9_NA931	1698	1727	Atypical_DUSP	272.0	-	1698	1727	83,88,95	1	29	0	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
+Zv9_NA931	1644	1679	Atypical_DUSP	244.0	-	1644	1679	83,88,95	1	35	0	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
+Zv9_NA931	2653	2688	Atypical_DUSP_famA	458.0	-	2653	2688	83,88,95	1	35	0	PR01909	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01909&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01909
+Zv9_NA931	1797	1826	Atypical_DUSP_famA	358.0	-	1797	1826	83,88,95	1	29	0	PR01909	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01909&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01909
+Zv9_NA931	1692	1727	Atypical_DUSP_famA	389.0	-	1692	1727	83,88,95	1	35	0	PR01909	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01909&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01909
+Zv9_NA931	1638	1667	Atypical_DUSP_famA	233.0	-	1638	1667	83,88,95	1	29	0	PR01909	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01909&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01909

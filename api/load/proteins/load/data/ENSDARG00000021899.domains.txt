@@ -1,13 +1,5 @@
-browser position chr14:27391038-27401244
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000021899	ENSDART00000037999	ENSDARP00000030294	27391038	27401244	###
-#	PR02050	IPR003859	206	224	\N	1.2e-31	64.06	GMSNRFWGWGREDDEFFRR
-14	27394393	27394449	Galactosyl_T_(PR02050)	774.0	-
-#	PR02050	IPR003859	184	205	\N	1.2e-31	39.82	YHYKTYVGGILLLTKKHYLACN
-14	27394450	27394599	Galactosyl_T_(PR02050)	469.0	-
-#	PR02050	IPR003859	148	167	\N	1.2e-31	48.02	YIAMHDVDLLPQNEDLNYGF
-14	27394648	27394707	Galactosyl_T_(PR02050)	481.0	-
-#	PR02050	IPR003859	119	138	\N	1.2e-31	57.08	FIINQVDHFRFNRASLINVG
-14	27394735	27395066	Galactosyl_T_(PR02050)	601.0	-
-#	PF02709	IPR027791	82	302	\N	9.399999999999999e-67	0.0	PHKMALIVPFRERFEELLVFVPYMHAFLNKKKIRHKIFIINQVDHFRFNRASLINVGFMESGNDTDYIAMHDVDLLPQNEDLNYGFPVDGPFHVASPELHPLYHYKTYVGGILLLTKKHYLACNGMSNRFWGWGREDDEFFRRLKAANLELFRPTGITTGTKTFRHIHDPAWRKRDQKRIAAQKQEQFKVDPEGGLSNLRYKVESRKEVSISGAPCTVINT
-14	27391219	27395177	Galactosyl_T_C_(PF02709)	211.1	-
+14	27394393	27394449	Galactosyl_T	774.0	-	27394393	27394449	83,88,95	1	56	0	PR02050	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02050&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02050
+14	27394450	27394599	Galactosyl_T	469.0	-	27394450	27394599	83,88,95	2	90,144	0,5	PR02050	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02050&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02050
+14	27394648	27394707	Galactosyl_T	481.0	-	27394648	27394707	83,88,95	1	59	0	PR02050	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02050&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02050
+14	27394735	27395066	Galactosyl_T	601.0	-	27394735	27395066	83,88,95	2	303,301	0,30	PR02050	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02050&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02050
+14	27391219	27395177	Galactosyl_T_C	211.1	-	27391219	27395177	83,88,95	5	3819,-225,-83,-104,3851	0,3546,3236,3037,107	PF02709	http://pfam.sanger.ac.uk/family?acc=PF02709

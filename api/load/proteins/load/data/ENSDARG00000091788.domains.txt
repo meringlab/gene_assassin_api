@@ -1,33 +1,15 @@
-browser position chr12:49465176-49475020
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000091788	ENSDART00000122364	ENSDARP00000106142	49465176	49475020	###
-#	PF00001	IPR000276	8	230	\N	3.4999999999999993e-39	0.0	GWPFDAVVCKMSGLVQGASVSASVFTLVVIAVERFRCIVYPFQQKLTRRQAIITIAFIWALAIAIMCPSAVTLTVSQDVLHFMVDRDNITYPLFTCWEAWPDQSMRKIYTTVLFSHIYLAPVTLIAIMYTRIALKLVRSPASIRDAQAEDESRRVFRRKLRVVNMLLMVALLFTVSWLPLWILMMLTDYGNLTEAQLDFVAVYVFPFAHWLAFFNSSVNPIVY
-12	49468869	49474999	GPCR_Rhodpsn_(PF00001)	120.8	-
-#	PR01570	IPR005395	42	56	\N	2.7e-16	68.33	FRCIVYPFQQKLTRR
-12	49469391	49469435	NPFF_rcpt_(PR01570)	605.0	-
-#	PR00237	IPR000276	212	238	\N	1.4000000000000002e-25	33.97	FPFAHWLAFFNSSVNPIVYGYFNENFR
-12	49468845	49468925	GPCR_Rhodpsn_(PR00237)	489.0	-
-#	PR00237	IPR000276	169	193	\N	1.4000000000000002e-25	26.07	VVNMLLMVALLFTVSWLPLWILMML
-12	49468980	49469054	GPCR_Rhodpsn_(PR00237)	352.0	-
-#	PR00237	IPR000276	117	140	\N	1.4000000000000002e-25	21.75	TTVLFSHIYLAPVTLIAIMYTRIA
-12	49469139	49469210	GPCR_Rhodpsn_(PR00237)	194.0	-
-#	PR00237	IPR000276	57	78	\N	1.4000000000000002e-25	25.62	QAIITIAFIWALAIAIMCPSAV
-12	49469325	49469390	GPCR_Rhodpsn_(PR00237)	254.0	-
-#	PR00237	IPR000276	23	45	\N	1.4000000000000002e-25	29.29	QGASVSASVFTLVVIAVERFRCI
-12	49469424	49474954	GPCR_Rhodpsn_(PR00237)	291.0	-
-#	PS50262	IPR017452	1	230	\N	0.0	0.0	MCVFSPSGWPFDAVVCKMSGLVQGASVSASVFTLVVIAVERFRCIVYPFQQKLTRRQAIITIAFIWALAIAIMCPSAVTLTVSQDVLHFMVDRDNITYPLFTCWEAWPDQSMRKIYTTVLFSHIYLAPVTLIAIMYTRIALKLVRSPASIRDAQAEDESRRVFRRKLRVVNMLLMVALLFTVSWLPLWILMMLTDYGNLTEAQLDFVAVYVFPFAHWLAFFNSSVNPIVY
-12	49468869	49475020	GPCR_Rhodpsn_7TM_(PS50262)	31.425	-
-#	PR01012	IPR000611	23	38	\N	2.5e-06	50.57	QGASVSASVFTLVVIA
-12	49474907	49474954	NPY_rcpt_(PR01012)	360.0	-
-#	PR01012	IPR000611	228	241	\N	2.5e-06	39.61	IVYGYFNENFRRGF
-12	49468836	49468877	NPY_rcpt_(PR01012)	384.0	-
-#	PR01571	IPR005396	161	171	\N	1.4e-07	54.55	RVFRRKLRVVN
-12	49469046	49469078	NPFF_rcpt_1_(PR01571)	280.0	-
-#	PR01571	IPR005396	140	156	\N	1.4e-07	29.41	ALKLVRSPASIRDAQAE
-12	49469091	49469141	NPFF_rcpt_1_(PR01571)	210.0	-
-#	PR01571	IPR005396	78	101	\N	1.4e-07	56.25	VTLTVSQDVLHFMVDRDNITYPLF
-12	49469256	49469327	NPFF_rcpt_1_(PR01571)	705.0	-
-#	PR01570	IPR005395	235	245	\N	2.7e-16	93.18	ENFRRGFQAAF
-12	49468824	49468856	NPFF_rcpt_(PR01570)	537.0	-
-#	PR01570	IPR005395	208	220	\N	2.7e-16	76.92	AVYVFPFAHWLAF
-12	49468899	49468937	NPFF_rcpt_(PR01570)	645.0	-
+12	49468869	49474999	GPCR_Rhodpsn	120.8	-	49468869	49474999	83,88,95	2	6030,5563	0,567	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+12	49469391	49469435	NPFF_rcpt	605.0	-	49469391	49469435	83,88,95	1	44	0	PR01570	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01570&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01570
+12	49468845	49468925	GPCR_Rhodpsn	489.0	-	49468845	49468925	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+12	49468980	49469054	GPCR_Rhodpsn	352.0	-	49468980	49469054	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+12	49469139	49469210	GPCR_Rhodpsn	194.0	-	49469139	49469210	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+12	49469325	49469390	GPCR_Rhodpsn	254.0	-	49469325	49469390	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+12	49469424	49474954	GPCR_Rhodpsn	291.0	-	49469424	49474954	83,88,95	2	5475,5518	0,12	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+12	49468869	49475020	GPCR_Rhodpsn_7TM	31.425	-	49468869	49475020	83,88,95	2	6030,5584	0,567	PS50262	http://www.expasy.ch/prosite/PS50262
+12	49474907	49474954	NPY_rcpt	360.0	-	49474907	49474954	83,88,95	1	47	0	PR01012	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01012&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01012
+12	49468836	49468877	NPY_rcpt	384.0	-	49468836	49468877	83,88,95	1	41	0	PR01012	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01012&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01012
+12	49469046	49469078	NPFF_rcpt_1	280.0	-	49469046	49469078	83,88,95	1	32	0	PR01571	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01571&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01571
+12	49469091	49469141	NPFF_rcpt_1	210.0	-	49469091	49469141	83,88,95	1	50	0	PR01571	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01571&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01571
+12	49469256	49469327	NPFF_rcpt_1	705.0	-	49469256	49469327	83,88,95	1	71	0	PR01571	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01571&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01571
+12	49468824	49468856	NPFF_rcpt	537.0	-	49468824	49468856	83,88,95	1	32	0	PR01570	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01570&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01570
+12	49468899	49468937	NPFF_rcpt	645.0	-	49468899	49468937	83,88,95	1	38	0	PR01570	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01570&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01570

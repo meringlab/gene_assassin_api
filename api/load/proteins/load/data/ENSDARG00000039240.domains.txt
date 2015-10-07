@@ -1,17 +1,7 @@
-browser position chr3:56777869-56805492
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000039240	ENSDART00000154367	ENSDARP00000128562	56777869	56805492	###
-#	PF00822	IPR004031	11	195	\N	3.3e-27	0.0	LLSSVFAVCSLGLLGIAVSTDYWLYLEEGVILPLNQSTDIRMSIHSGLWRVCFLAGEERGRCFTIEYVMPMSVQLTSESTVSVLKMIRSATPFPLVSLFFMFIGFVLNNIGHIRPHRTILAFVSGIFFILSGLSLVVGLVLYISSINDEMFNRTKSNEAYFSYKYGWSFAFAAISFLLTESAGVM
-3	56789368	56804830	PMP22/EMP/MP20/Claudin_(PF00822)	81.6	+
-#	PR01793	IPR008369	77	88	\N	2.9e-12	79.17	YVMPMSVQLTSE
-3	56795390	56795425	VDCC_g5su_(PR01793)	500.0	+
-#	PR01793	IPR008369	16	25	\N	2.9e-12	90.0	FAVCSLGLLG
-3	56789383	56789412	VDCC_g5su_(PR01793)	470.0	+
-#	PR01793	IPR008369	2	11	\N	2.9e-12	97.5	SACGRKALTL
-3	56789341	56789370	VDCC_g5su_(PR01793)	490.0	+
-#	PR01792	IPR008368	173	194	\N	2.1e-24	59.74	YKYGWSFAFAAISFLLTESAGV
-3	56801656	56804827	VDCC_gsu_(PR01792)	718.0	+
-#	PR01792	IPR008368	141	160	\N	2.1e-24	48.21	SGLSLVVGLVLYISSINDEM
-3	56801494	56801619	VDCC_gsu_(PR01792)	462.0	+
-#	PR01792	IPR008368	17	35	\N	2.1e-24	56.2	AVCSLGLLGIAVSTDYWLY
-3	56789386	56789442	VDCC_gsu_(PR01792)	576.0	+
+3	56789368	56804830	PMP22/EMP/MP20/Claudin	81.6	+	56789368	56804830	83,88,95	5	165,86,140,145,14	0,5990,11989,12196,15448	PF00822	http://pfam.sanger.ac.uk/family?acc=PF00822
+3	56795390	56795425	VDCC_g5su	500.0	+	56795390	56795425	83,88,95	1	35	0	PR01793	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01793&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01793
+3	56789383	56789412	VDCC_g5su	470.0	+	56789383	56789412	83,88,95	1	29	0	PR01793	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01793&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01793
+3	56789341	56789370	VDCC_g5su	490.0	+	56789341	56789370	83,88,95	1	29	0	PR01793	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01793&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01793
+3	56801656	56804827	VDCC_gsu	718.0	+	56801656	56804827	83,88,95	2	53,11	0,3160	PR01792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01792
+3	56801494	56801619	VDCC_gsu	462.0	+	56801494	56801619	83,88,95	2	3,55	0,70	PR01792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01792
+3	56789386	56789442	VDCC_gsu	576.0	+	56789386	56789442	83,88,95	1	56	0	PR01792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01792

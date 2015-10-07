@@ -1,21 +1,9 @@
-browser position chr10:6191318-6215881
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000053020	ENSDART00000062146	ENSDARP00000062145	6191318	6215881	###
-#	PR00114	IPR006186	51	78	\N	1.6999999999999996e-91	59.93	PVTVCGDVHGQFHDLMELFRIGGKSPDT
-10	6199566	6199649	Ser/Thr-sp_prot-phosphatase_(PR00114)	1009.0	+
-#	PR00114	IPR006186	80	107	\N	1.6999999999999996e-91	67.88	YLFMGDYVDRGYYSVETVTLLVALKVRY
-10	6199653	6199827	Ser/Thr-sp_prot-phosphatase_(PR00114)	1032.0	+
-#	PR00114	IPR006186	113	137	\N	1.6999999999999996e-91	68.45	ILRGNHESRQITQVYGFYDECLRKY
-10	6199843	6199917	Ser/Thr-sp_prot-phosphatase_(PR00114)	990.0	+
-#	PR00114	IPR006186	148	174	\N	1.6999999999999996e-91	58.87	DLFDYLPLTALVDGQIFCLHGGLSPSI
-10	6199948	6200845	Ser/Thr-sp_prot-phosphatase_(PR00114)	917.0	+
-#	PR00114	IPR006186	177	204	\N	1.6999999999999996e-91	58.71	LDHIRALDRLQEVPHEGPMCDLLWSDPD
-10	6200852	6205233	Ser/Thr-sp_prot-phosphatase_(PR00114)	890.0	+
-#	PR00114	IPR006186	233	253	\N	1.6999999999999996e-91	47.83	GLTLVSRAHQLVMEGYNWCHD
-10	6205318	6205485	Ser/Thr-sp_prot-phosphatase_(PR00114)	520.0	+
-#	PR00114	IPR006186	255	271	\N	1.6999999999999996e-91	66.21	NVVTIFSAPNYCYRCGN
-10	6205489	6205539	Ser/Thr-sp_prot-phosphatase_(PR00114)	617.0	+
-#	PF00149	IPR004843	51	243	\N	3.8e-47	0.0	PVTVCGDVHGQFHDLMELFRIGGKSPDTNYLFMGDYVDRGYYSVETVTLLVALKVRYPERITILRGNHESRQITQVYGFYDECLRKYGNANVWKYFTDLFDYLPLTALVDGQIFCLHGGLSPSIDTLDHIRALDRLQEVPHEGPMCDLLWSDPDDRGGWGISPRGAGYTFGQDISETFNHANGLTLVSRAHQL
-10	6199566	6205350	PEstase_dom_(PF00149)	146.6	+
-#	SM00156	IPR006186	23	293	\N	2.6999999999999996e-156	0.0	LTENQVRTLCEKAKEILTKESNVQEVRCPVTVCGDVHGQFHDLMELFRIGGKSPDTNYLFMGDYVDRGYYSVETVTLLVALKVRYPERITILRGNHESRQITQVYGFYDECLRKYGNANVWKYFTDLFDYLPLTALVDGQIFCLHGGLSPSIDTLDHIRALDRLQEVPHEGPMCDLLWSDPDDRGGWGISPRGAGYTFGQDISETFNHANGLTLVSRAHQLVMEGYNWCHDRNVVTIFSAPNYCYRCGNQAAIMELDDTLKYSFLQFDPAP
-10	6191739	6215095	Ser/Thr-sp_prot-phosphatase_(SM00156)	535.2	+
+10	6199566	6199649	Ser/Thr-sp_prot-phosphatase	1009.0	+	6199566	6199649	83,88,95	1	83	0	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	6199653	6199827	Ser/Thr-sp_prot-phosphatase	1032.0	+	6199653	6199827	83,88,95	2	74,8	0,166	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	6199843	6199917	Ser/Thr-sp_prot-phosphatase	990.0	+	6199843	6199917	83,88,95	1	74	0	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	6199948	6200845	Ser/Thr-sp_prot-phosphatase	917.0	+	6199948	6200845	83,88,95	2	44,35	0,862	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	6200852	6205233	Ser/Thr-sp_prot-phosphatase	890.0	+	6200852	6205233	83,88,95	2	47,35	0,4346	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	6205318	6205485	Ser/Thr-sp_prot-phosphatase	520.0	+	6205318	6205485	83,88,95	2	41,20	0,147	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	6205489	6205539	Ser/Thr-sp_prot-phosphatase	617.0	+	6205489	6205539	83,88,95	1	50	0	PR00114	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00114&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00114
+10	6199566	6205350	PEstase_dom	146.6	+	6199566	6205350	83,88,95	4	161,173,89,152	0,253,1244,5632	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149
+10	6191739	6215095	Ser/Thr-sp_prot-phosphatase	535.2	+	6191739	6215095	83,88,95	7	35,209,173,89,161,118,21	0,7779,8080,9071,13459,13726,23335	SM00156	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00156

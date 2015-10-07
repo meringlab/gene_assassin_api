@@ -1,29 +1,13 @@
-browser position chr23:3765200-3773434
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000028335	ENSDART00000028885	ENSDARP00000036107	3765200	3773434	###
-#	PF02178	IPR017956	19	30	\N	7.1e-07	0.0	KRGRGRPRKHPQ
-23	3772099	3772134	AT_hook_DNA-bd_motif_(PF02178)	15.4	-
-#	PF02178	IPR017956	72	83	\N	1.5e-06	0.0	TKRRGRPKKAEK
-23	3767201	3770093	AT_hook_DNA-bd_motif_(PF02178)	14.4	-
-#	PR00930	IPR000116	17	29	\N	5.3e-21	78.02	AEKRGRGRPRKHP
-23	3772102	3772140	HMGI/HMGY_(PR00930)	564.0	-
-#	PR00930	IPR000116	31	42	\N	5.3e-21	64.29	QEASGSPTPKRP
-23	3770969	3771004	HMGI/HMGY_(PR00930)	423.0	-
-#	PR00930	IPR000116	42	53	\N	5.3e-21	91.67	PRGRPKGSKNKP
-23	3770936	3770971	HMGI/HMGY_(PR00930)	596.0	-
-#	PR00930	IPR000116	56	75	\N	5.3e-21	17.14	TVSRGKKAAAASAPAGTKRR
-23	3770082	3770929	HMGI/HMGY_(PR00930)	145.0	-
-#	PR00930	IPR000116	82	94	\N	5.3e-21	53.85	EKEEQPSKSSEEE
-23	3767168	3767206	HMGI/HMGY_(PR00930)	302.0	-
-#	PR00929	IPR020478	19	29	\N	5.9e-14	73.48	KRGRGRPRKHP
-23	3772102	3772134	AT_hook-like_(PR00929)	416.0	-
-#	PR00929	IPR020478	38	49	\N	5.9e-14	64.24	TPKRPRGRPKGS
-23	3770948	3770983	AT_hook-like_(PR00929)	405.0	-
-#	PR00929	IPR020478	70	80	\N	5.9e-14	55.68	AGTKRRGRPKK
-23	3770067	3770099	AT_hook-like_(PR00929)	303.0	-
-#	SM00384	IPR017956	72	84	\N	1.1	0.0	TKRRGRPKKAEKE
-23	3767198	3770093	AT_hook_DNA-bd_motif_(SM00384)	14.9	-
-#	SM00384	IPR017956	40	52	\N	3.1	0.0	KRPRGRPKGSKNK
-23	3770939	3770977	AT_hook_DNA-bd_motif_(SM00384)	12.5	-
-#	SM00384	IPR017956	19	31	\N	0.23	0.0	KRGRGRPRKHPQQ
-23	3771002	3772134	AT_hook_DNA-bd_motif_(SM00384)	18.8	-
+23	3772099	3772134	AT_hook_DNA-bd_motif	15.4	-	3772099	3772134	83,88,95	1	35	0	PF02178	http://pfam.sanger.ac.uk/family?acc=PF02178
+23	3767201	3770093	AT_hook_DNA-bd_motif	14.4	-	3767201	3770093	83,88,95	2	2863,2887	0,5	PF02178	http://pfam.sanger.ac.uk/family?acc=PF02178
+23	3772102	3772140	HMGI/HMGY	564.0	-	3772102	3772140	83,88,95	1	38	0	PR00930	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00930&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00930
+23	3770969	3771004	HMGI/HMGY	423.0	-	3770969	3771004	83,88,95	1	35	0	PR00930	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00930&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00930
+23	3770936	3770971	HMGI/HMGY	596.0	-	3770936	3770971	83,88,95	1	35	0	PR00930	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00930&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00930
+23	3770082	3770929	HMGI/HMGY	145.0	-	3770082	3770929	83,88,95	2	830,806	0,41	PR00930	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00930&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00930
+23	3767168	3767206	HMGI/HMGY	302.0	-	3767168	3767206	83,88,95	1	38	0	PR00930	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00930&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00930
+23	3772102	3772134	AT_hook-like	416.0	-	3772102	3772134	83,88,95	1	32	0	PR00929	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00929&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00929
+23	3770948	3770983	AT_hook-like	405.0	-	3770948	3770983	83,88,95	1	35	0	PR00929	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00929&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00929
+23	3770067	3770099	AT_hook-like	303.0	-	3770067	3770099	83,88,95	1	32	0	PR00929	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00929&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00929
+23	3767198	3770093	AT_hook_DNA-bd_motif	14.9	-	3767198	3770093	83,88,95	2	2866,2887	0,8	SM00384	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00384
+23	3770939	3770977	AT_hook_DNA-bd_motif	12.5	-	3770939	3770977	83,88,95	1	38	0	SM00384	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00384
+23	3771002	3772134	AT_hook_DNA-bd_motif	18.8	-	3771002	3772134	83,88,95	2	1097,1130	0,2	SM00384	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00384

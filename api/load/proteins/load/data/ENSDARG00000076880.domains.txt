@@ -1,11 +1,4 @@
-browser position chrZv9_NA905:7188-13850
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000076880	ENSDART00000111427	ENSDARP00000102882	7188	13850	###
-#	PR00449	IPR001806	176	197	\N	8.1e-09	45.85	FKVMLLGDSAVGKTCVLVRFKD
-Zv9_NA905	7293	13325	Small_GTPase_(PR00449)	563.0	-
-#	PR00449	IPR001806	200	216	\N	8.1e-09	21.92	FLGGNFIATVGIDFRVS
-Zv9_NA905	7236	7286	Small_GTPase_(PR00449)	145.0	-
-#	PF00071	IPR001806	177	217	\N	2.2999999999999998e-11	0.0	KVMLLGDSAVGKTCVLVRFKDGAFLGGNFIATVGIDFRVSQ
-Zv9_NA905	7233	13322	Small_GTPase_(PF00071)	29.7	-
-#	SSF52540	IPR027417	171	215	\N	9.6e-10	0.0	YFDIAFKVMLLGDSAVGKTCVLVRFKDGAFLGGNFIATVGIDFRV
-Zv9_NA905	7239	13340	P-loop_NTPase_(SSF52540)	0.0	-
+Zv9_NA905	7293	13325	Small_GTPase	563.0	-	7293	13325	83,88,95	2	6027,5973	0,59	PR00449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00449
+Zv9_NA905	7236	7286	Small_GTPase	145.0	-	7236	7286	83,88,95	1	50	0	PR00449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00449
+Zv9_NA905	7233	13322	Small_GTPase	29.7	-	7233	13322	83,88,95	2	6087,5970	0,119	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071
+Zv9_NA905	7239	13340	P-loop_NTPase	0.0	-	7239	13340	83,88,95	2	6081,5988	0,113	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

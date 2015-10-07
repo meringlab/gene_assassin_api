@@ -1,9 +1,3 @@
-browser position chr2:24059007-24073398
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000031426	ENSDART00000041877	ENSDARP00000041876	24059007	24073398	###
-#	PR02031	IPR023260	249	265	\N	8.4e-18	77.53	CEPETCSCSQAGIKCQM
-2	24061154	24063330	Cys/Ser-rich_nuc_prot_(PR02031)	828.0	-
-#	PR02031	IPR023260	209	222	\N	8.4e-18	62.09	KRRRAMLRAAGVLR
-2	24063409	24063450	Cys/Ser-rich_nuc_prot_(PR02031)	428.0	-
-#	PR02031	IPR023260	234	245	\N	8.4e-18	71.15	LRRSREDCGCHC
-2	24063340	24063375	Cys/Ser-rich_nuc_prot_(PR02031)	539.0	-
+2	24061154	24063330	Cys/Ser-rich_nuc_prot	828.0	-	24061154	24063330	83,88,95	2	2129,2174	0,2	PR02031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02031
+2	24063409	24063450	Cys/Ser-rich_nuc_prot	428.0	-	24063409	24063450	83,88,95	1	41	0	PR02031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02031
+2	24063340	24063375	Cys/Ser-rich_nuc_prot	539.0	-	24063340	24063375	83,88,95	1	35	0	PR02031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02031

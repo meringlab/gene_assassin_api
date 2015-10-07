@@ -1,15 +1,6 @@
-browser position chr25:33891094-33948552
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000087402	ENSDART00000014851	ENSDARP00000002483	33891838	33948478	###
-#	PF00261	IPR000533	90	327	\N	9.699999999999996e-98	0.0	KKLKGTEDELDKYSEALKDAQEKLELAEKKATDAEGDVASLNRRIQLVEEELDRAQERLATALQKLEEAEKAADESESRGMKVIENRALKDEEKMEIQEIQLKEAKHIAEEADRKYEEVARKLVIVEGELERTEERAELNESKCSELEEELKTVTNNLKSLEAQAEKYSQKEDKYEEEIKVLTDKLKEAETRAEFAERSVAKLEKTIDDLEEKLSHAKEENLDMNQMLEQTLLELNNM
-25	33891841	33946559	Tropomyosin_(PF00261)	312.3	-
-#	PR00194	IPR000533	274	299	\N	1e-59	85.1	KLKEAETRAEFAERSVAKLEKTIDDL
-25	33906907	33907613	Tropomyosin_(PR00194)	1045.0	-
-#	PR00194	IPR000533	218	241	\N	1e-59	71.08	ELERTEERAELNESKCSELEEELK
-25	33911429	33914450	Tropomyosin_(PR00194)	838.0	-
-#	PR00194	IPR000533	188	216	\N	1e-59	85.47	EIQLKEAKHIAEEADRKYEEVARKLVIVE
-25	33914454	33916141	Tropomyosin_(PR00194)	1209.0	-
-#	PR00194	IPR000533	163	183	\N	1e-59	61.35	DESESRGMKVIENRALKDEEK
-25	33916154	33926999	Tropomyosin_(PR00194)	637.0	-
-#	PR00194	IPR000533	126	143	\N	1e-59	85.22	DVASLNRRIQLVEEELDR
-25	33927057	33927110	Tropomyosin_(PR00194)	739.0	-
+25	33891841	33946559	Tropomyosin	312.3	-	33891841	33946559	83,88,95	8	54620,-133,-120,-70,-75,-62,-69,54639	0,35278,24361,22639,19618,15823,15131,79	PF00261	http://pfam.sanger.ac.uk/family?acc=PF00261
+25	33906907	33907613	Tropomyosin	1045.0	-	33906907	33907613	83,88,95	2	695,641	0,65	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+25	33911429	33914450	Tropomyosin	838.0	-	33911429	33914450	83,88,95	2	2981,2991	0,30	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+25	33914454	33916141	Tropomyosin	1209.0	-	33914454	33916141	83,88,95	2	1628,1661	0,26	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+25	33916154	33926999	Tropomyosin	637.0	-	33916154	33926999	83,88,95	2	10832,10797	0,48	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
+25	33927057	33927110	Tropomyosin	739.0	-	33927057	33927110	83,88,95	1	53	0	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194

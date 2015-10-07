@@ -1,47 +1,22 @@
-browser position chr5:4406639-4417553
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000045979	ENSDART00000067593	ENSDARP00000067592	4406639	4417553	###
-#	PF00061	IPR000566	37	180	\N	1.9999999999999998e-32	0.0	TGKWHLIGFATNAEWFVSRKANMKMGIAMVTPTEEGDLDMAYSSLNPDGTCWRMNYLAQKTDIPGKFSFHTERSGTDNDMRIADVKYDEFALIHTIKMKDGSSTLLNKLYGRTTDLSQDVLDKFTEFSLEQGILPENIAILPKN
-5	4406934	4412281	Lipocln_cytosolic_FA-bd_dom_(PF00061)	98.6	-
-#	PR01254	IPR002972	28	51	\N	1.8000000000000002e-14	31.6	PADFDIKGMTGKWHLIGFATNAEW
-5	4412237	4417441	PstgldnD_synth_(PR01254)	443.0	-
-#	PR01254	IPR002972	107	130	\N	1.8000000000000002e-14	27.43	TERSGTDNDMRIADVKYDEFALIH
-5	4409220	4409736	PstgldnD_synth_(PR01254)	429.0	-
-#	PR01254	IPR002972	142	156	\N	1.8000000000000002e-14	30.0	LNKLYGRTTDLSQDV
-5	4407006	4409186	PstgldnD_synth_(PR01254)	201.0	-
-#	PR01254	IPR002972	159	177	\N	1.8000000000000002e-14	43.86	KFTEFSLEQGILPENIAIL
-5	4406943	4406999	PstgldnD_synth_(PR01254)	395.0	-
-#	PR01215	IPR002968	28	41	\N	2e-10	33.04	PADFDIKGMTGKWH
-5	4412267	4417441	A1-microglobln_(PR01215)	262.0	-
-#	PR01215	IPR002968	87	102	\N	2e-10	42.19	CWRMNYLAQKTDIPGK
-5	4409749	4409796	A1-microglobln_(PR01215)	316.0	-
-#	PR01215	IPR002968	109	128	\N	2e-10	21.25	RSGTDNDMRIADVKYDEFAL
-5	4409226	4409285	A1-microglobln_(PR01215)	223.0	-
-#	PR01215	IPR002968	140	161	\N	2e-10	41.48	TLLNKLYGRTTDLSQDVLDKFT
-5	4406991	4409192	A1-microglobln_(PR01215)	428.0	-
-#	PR01215	IPR002968	168	184	\N	2e-10	28.12	GILPENIAILPKNDECP
-5	4406812	4406972	A1-microglobln_(PR01215)	260.0	-
-#	PR01221	IPR002971	37	55	\N	9.1e-10	23.92	TGKWHLIGFATNAEWFVSR
-5	4412225	4412281	Maj_urinary_(PR01221)	192.0	-
-#	PR01221	IPR002971	118	133	\N	9.1e-10	33.52	IADVKYDEFALIHTIK
-5	4409211	4409258	Maj_urinary_(PR01221)	303.0	-
-#	PR01221	IPR002971	139	160	\N	9.1e-10	47.93	STLLNKLYGRTTDLSQDVLDKF
-5	4406994	4409195	Maj_urinary_(PR01221)	509.0	-
-#	PR01221	IPR002971	167	184	\N	9.1e-10	43.43	QGILPENIAILPKNDECP
-5	4406812	4406975	Maj_urinary_(PR01221)	324.0	-
-#	PR00179	IPR002345	34	46	\N	7.6e-07	28.69	KGMTGKWHLIGFA
-5	4412252	4417423	Lipocalin_(PR00179)	216.0	-
-#	PR00179	IPR002345	118	130	\N	7.6e-07	28.9	IADVKYDEFALIH
-5	4409220	4409258	Lipocalin_(PR00179)	237.0	-
-#	PR00179	IPR002345	145	160	\N	7.6e-07	34.63	LYGRTTDLSQDVLDKF
-5	4406994	4409177	Lipocalin_(PR00179)	269.0	-
-#	PR01172	IPR002447	27	40	\N	8.1e-07	27.73	PPADFDIKGMTGKW
-5	4412270	4417444	Blactoglobulin_(PR01172)	237.0	-
-#	PR01172	IPR002447	64	78	\N	8.1e-07	29.8	AMVTPTEEGDLDMAY
-5	4412156	4412200	Blactoglobulin_(PR01172)	222.0	-
-#	PR01172	IPR002447	92	106	\N	8.1e-07	39.22	YLAQKTDIPGKFSFH
-5	4409737	4409781	Blactoglobulin_(PR01172)	309.0	-
-#	PR01172	IPR002447	141	160	\N	8.1e-07	26.76	LLNKLYGRTTDLSQDVLDKF
-5	4406994	4409189	Blactoglobulin_(PR01172)	269.0	-
-#	SSF50814	IPR011038	31	184	\N	1.0999999999999999e-44	0.0	FDIKGMTGKWHLIGFATNAEWFVSRKANMKMGIAMVTPTEEGDLDMAYSSLNPDGTCWRMNYLAQKTDIPGKFSFHTERSGTDNDMRIADVKYDEFALIHTIKMKDGSSTLLNKLYGRTTDLSQDVLDKFTEFSLEQGILPENIAILPKNDECP
-5	4406812	4417432	Calycin-like_(SSF50814)	0.0	-
+5	4406934	4412281	Lipocln_cytosolic_FA-bd_dom	98.6	-	4406934	4412281	83,88,95	4	5211,-79,-113,5247	0,2875,2350,100	PF00061	http://pfam.sanger.ac.uk/family?acc=PF00061
+5	4412237	4417441	PstgldnD_synth	443.0	-	4412237	4417441	83,88,95	2	5181,5157	0,47	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+5	4409220	4409736	PstgldnD_synth	429.0	-	4409220	4409736	83,88,95	2	510,452	0,64	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+5	4407006	4409186	PstgldnD_synth	201.0	-	4407006	4409186	83,88,95	2	2165,2152	0,28	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+5	4406943	4406999	PstgldnD_synth	395.0	-	4406943	4406999	83,88,95	1	56	0	PR01254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01254
+5	4412267	4417441	A1-microglobln	262.0	-	4412267	4417441	83,88,95	2	5151,5157	0,17	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+5	4409749	4409796	A1-microglobln	316.0	-	4409749	4409796	83,88,95	1	47	0	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+5	4409226	4409285	A1-microglobln	223.0	-	4409226	4409285	83,88,95	1	59	0	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+5	4406991	4409192	A1-microglobln	428.0	-	4406991	4409192	83,88,95	2	2180,2158	0,43	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+5	4406812	4406972	A1-microglobln	260.0	-	4406812	4406972	83,88,95	2	121,150	0,10	PR01215	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01215&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01215
+5	4412225	4412281	Maj_urinary	192.0	-	4412225	4412281	83,88,95	1	56	0	PR01221	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01221&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01221
+5	4409211	4409258	Maj_urinary	303.0	-	4409211	4409258	83,88,95	1	47	0	PR01221	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01221&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01221
+5	4406994	4409195	Maj_urinary	509.0	-	4406994	4409195	83,88,95	2	2177,2161	0,40	PR01221	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01221&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01221
+5	4406812	4406975	Maj_urinary	324.0	-	4406812	4406975	83,88,95	2	121,153	0,10	PR01221	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01221&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01221
+5	4412252	4417423	Lipocalin	216.0	-	4412252	4417423	83,88,95	2	5166,5139	0,32	PR00179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00179
+5	4409220	4409258	Lipocalin	237.0	-	4409220	4409258	83,88,95	1	38	0	PR00179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00179
+5	4406994	4409177	Lipocalin	269.0	-	4406994	4409177	83,88,95	2	2177,2143	0,40	PR00179	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00179&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00179
+5	4412270	4417444	Blactoglobulin	237.0	-	4412270	4417444	83,88,95	2	5148,5160	0,14	PR01172	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01172&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01172
+5	4412156	4412200	Blactoglobulin	222.0	-	4412156	4412200	83,88,95	1	44	0	PR01172	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01172&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01172
+5	4409737	4409781	Blactoglobulin	309.0	-	4409737	4409781	83,88,95	1	44	0	PR01172	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01172&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01172
+5	4406994	4409189	Blactoglobulin	269.0	-	4406994	4409189	83,88,95	2	2177,2155	0,40	PR01172	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01172&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01172
+5	4406812	4417432	Calycin-like	0.0	-	4406812	4417432	83,88,95	6	10606,-139,-79,-113,-101,10610	0,5472,2997,2472,222,10	SSF50814	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50814

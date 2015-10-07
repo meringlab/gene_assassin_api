@@ -1,49 +1,23 @@
-browser position chr16:3348964-3411485
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000027087	ENSDART00000148927	ENSDARP00000123937	3348964	3411485	###
-#	PF00688	IPR001111	20	226	\N	3.6999999999999997e-41	0.0	AVSLSTCSTLDMDQFKKKRIEAIRGQILSKLKLSSPPEIYPEPEEVSRDIIAIYNSTRDLLQEKANERAATCERQRSEEEYYAKEVHKIDMQPFYPSENVILSQHYYPYFRRLMFDVSSMEKNASNLVKAELRIFRLQNPKARVSEQRIELYQVLGHKDLTSPTQRYINSKVVRTRTEGEWLSFDVTEAVSEWLLHRDRNKGFKISL
-16	3358818	3411428	TGF-b_N_(PF00688)	128.3	-
-#	PF00019	IPR001839	314	413	\N	9.6e-34	0.0	DNCCLRSLYIDFKKDLGWRWIHEPKGYNANFCAGACPYLWSADTQHSNILGLYNTINPEASASPCCVSQDLEPLTILYYIGKTPKIEQLSNMIVKSCKCS
-16	3348967	3351010	TGF-b_C_(PF00019)	103.3	-
-#	PR01425	IPR003940	4	25	\N	9.2e-50	57.73	NLYVLSLLLLLDLAAVAVSLST
-16	3411411	3411476	TGFb2_(PR01425)	495.0	-
-#	PR01425	IPR003940	52	71	\N	9.2e-50	62.5	LSSPPEIYPEPEEVSRDIIA
-16	3411273	3411332	TGFb2_(PR01425)	708.0	-
-#	PR01425	IPR003940	78	100	\N	9.2e-50	79.57	DLLQEKANERAATCERQRSEEEY
-16	3411186	3411254	TGFb2_(PR01425)	976.0	-
-#	PR01425	IPR003940	118	133	\N	9.2e-50	41.88	NVILSQHYYPYFRRLM
-16	3366246	3366293	TGFb2_(PR01425)	292.0	-
-#	PR01425	IPR003940	154	165	\N	9.2e-50	90.83	FRLQNPKARVSE
-16	3366150	3366185	TGFb2_(PR01425)	551.0	-
-#	PR01425	IPR003940	174	186	\N	9.2e-50	81.54	LGHKDLTSPTQRY
-16	3360767	3360805	TGFb2_(PR01425)	517.0	-
-#	PR01425	IPR003940	235	251	\N	9.2e-50	91.76	PSNNYIIPNKSEELETR
-16	3358743	3358793	TGFb2_(PR01425)	824.0	-
-#	PR01423	IPR016319	10	29	\N	1.6e-27	57.31	LLLLLDLAAVAVSLSTCSTL
-16	3411399	3411458	TGF-beta_(PR01423)	508.0	-
-#	PR01423	IPR016319	64	76	\N	1.6e-27	49.7	EVSRDIIAIYNST
-16	3411258	3411296	TGF-beta_(PR01423)	354.0	-
-#	PR01423	IPR016319	163	177	\N	1.6e-27	56.15	VSEQRIELYQVLGHK
-16	3360794	3366158	TGF-beta_(PR01423)	390.0	-
-#	PR01423	IPR016319	183	198	\N	1.6e-27	45.19	TQRYINSKVVRTRTEG
-16	3360731	3360778	TGF-beta_(PR01423)	359.0	-
-#	PR01423	IPR016319	200	214	\N	1.6e-27	74.87	WLSFDVTEAVSEWLL
-16	3360683	3360727	TGF-beta_(PR01423)	628.0	-
-#	PR01426	IPR015618	5	24	\N	4.2e-16	45.0	LYVLSLLLLLDLAAVAVSLS
-16	3411414	3411473	Transform_grow_fac_b3_(PR01426)	336.0	-
-#	PR01426	IPR015618	78	95	\N	4.2e-16	32.22	DLLQEKANERAATCERQR
-16	3411201	3411254	Transform_grow_fac_b3_(PR01426)	310.0	-
-#	PR01426	IPR015618	153	165	\N	4.2e-16	33.85	IFRLQNPKARVSE
-16	3366150	3366188	Transform_grow_fac_b3_(PR01426)	284.0	-
-#	PR01426	IPR015618	177	196	\N	4.2e-16	39.0	KDLTSPTQRYINSKVVRTRT
-16	3360737	3360796	Transform_grow_fac_b3_(PR01426)	267.0	-
-#	PR01426	IPR015618	213	227	\N	4.2e-16	54.67	LLHRDRNKGFKISLH
-16	3358815	3360688	Transform_grow_fac_b3_(PR01426)	446.0	-
-#	PR01426	IPR015618	255	272	\N	4.2e-16	27.78	IDDSFVNGGDLKMFKKRR
-16	3355000	3355053	Transform_grow_fac_b3_(PR01426)	184.0	-
-#	PR01426	IPR015618	286	300	\N	4.2e-16	32.0	PSYRLESQHKSHRQK
-16	3354916	3354960	Transform_grow_fac_b3_(PR01426)	235.0	-
-#	SM00204	IPR001839	316	413	\N	2.0999999999999997e-35	0.0	CCLRSLYIDFKKDLGWRWIHEPKGYNANFCAGACPYLWSADTQHSNILGLYNTINPEASASPCCVSQDLEPLTILYYIGKTPKIEQLSNMIVKSCKCS
-16	3348967	3351004	TGF-b_C_(SM00204)	133.6	-
-#	PIRSF001787	IPR016319	2	413	\N	8.899999999999996e-284	0.0	NMNLYVLSLLLLLDLAAVAVSLSTCSTLDMDQFKKKRIEAIRGQILSKLKLSSPPEIYPEPEEVSRDIIAIYNSTRDLLQEKANERAATCERQRSEEEYYAKEVHKIDMQPFYPSENVILSQHYYPYFRRLMFDVSSMEKNASNLVKAELRIFRLQNPKARVSEQRIELYQVLGHKDLTSPTQRYINSKVVRTRTEGEWLSFDVTEAVSEWLLHRDRNKGFKISLHCPCCTFVPSNNYIIPNKSEELETRFAGIDDSFVNGGDLKMFKKRRHSGQSPHLLLMLLPSYRLESQHKSHRQKRALDTAFCSRNVQDNCCLRSLYIDFKKDLGWRWIHEPKGYNANFCAGACPYLWSADTQHSNILGLYNTINPEASASPCCVSQDLEPLTILYYIGKTPKIEQLSNMIVKSCKCS
-16	3348967	3411482	TGF-beta_(PIRSF001787)	951.7	-
+16	3358818	3411428	TGF-b_N	128.3	-	3358818	3411428	83,88,95	4	52316,-163,-132,52582	0,7474,1990,28	PF00688	http://pfam.sanger.ac.uk/family?acc=PF00688
+16	3348967	3351010	TGF-b_C	103.3	-	3348967	3351010	83,88,95	2	1900,1888	0,155	PF00019	http://pfam.sanger.ac.uk/family?acc=PF00019
+16	3411411	3411476	TGFb2	495.0	-	3411411	3411476	83,88,95	1	65	0	PR01425	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01425&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01425
+16	3411273	3411332	TGFb2	708.0	-	3411273	3411332	83,88,95	1	59	0	PR01425	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01425&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01425
+16	3411186	3411254	TGFb2	976.0	-	3411186	3411254	83,88,95	1	68	0	PR01425	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01425&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01425
+16	3366246	3366293	TGFb2	292.0	-	3366246	3366293	83,88,95	1	47	0	PR01425	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01425&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01425
+16	3366150	3366185	TGFb2	551.0	-	3366150	3366185	83,88,95	1	35	0	PR01425	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01425&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01425
+16	3360767	3360805	TGFb2	517.0	-	3360767	3360805	83,88,95	1	38	0	PR01425	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01425&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01425
+16	3358743	3358793	TGFb2	824.0	-	3358743	3358793	83,88,95	1	50	0	PR01425	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01425&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01425
+16	3411399	3411458	TGF-beta	508.0	-	3411399	3411458	83,88,95	1	59	0	PR01423	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01423&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01423
+16	3411258	3411296	TGF-beta	354.0	-	3411258	3411296	83,88,95	1	38	0	PR01423	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01423&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01423
+16	3360794	3366158	TGF-beta	390.0	-	3360794	3366158	83,88,95	2	5335,5350	0,14	PR01423	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01423&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01423
+16	3360731	3360778	TGF-beta	359.0	-	3360731	3360778	83,88,95	1	47	0	PR01423	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01423&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01423
+16	3360683	3360727	TGF-beta	628.0	-	3360683	3360727	83,88,95	1	44	0	PR01423	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01423&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01423
+16	3411414	3411473	Transform_grow_fac_b3	336.0	-	3411414	3411473	83,88,95	1	59	0	PR01426	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01426&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01426
+16	3411201	3411254	Transform_grow_fac_b3	310.0	-	3411201	3411254	83,88,95	1	53	0	PR01426	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01426&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01426
+16	3366150	3366188	Transform_grow_fac_b3	284.0	-	3366150	3366188	83,88,95	1	38	0	PR01426	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01426&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01426
+16	3360737	3360796	Transform_grow_fac_b3	267.0	-	3360737	3360796	83,88,95	1	59	0	PR01426	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01426&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01426
+16	3358815	3360688	Transform_grow_fac_b3	446.0	-	3358815	3360688	83,88,95	2	1861,1842	0,31	PR01426	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01426&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01426
+16	3355000	3355053	Transform_grow_fac_b3	184.0	-	3355000	3355053	83,88,95	1	53	0	PR01426	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01426&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01426
+16	3354916	3354960	Transform_grow_fac_b3	235.0	-	3354916	3354960	83,88,95	1	44	0	PR01426	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01426&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01426
+16	3348967	3351004	TGF-b_C	133.6	-	3348967	3351004	83,88,95	2	1900,1882	0,155	SM00204	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00204
+16	3348967	3411482	TGF-beta	951.7	-	3348967	3411482	83,88,95	7	62167,-163,-132,-110,-168,-153,62360	0,17325,11841,9879,6088,2053,155	PIRSF001787	None

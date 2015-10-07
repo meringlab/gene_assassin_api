@@ -1,51 +1,24 @@
-browser position chr20:5296273-5307600
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000039492	ENSDART00000099258	ENSDARP00000090030	5296273	5307600	###
-#	PR00463	IPR002401	16	35	\N	3.9e-28	25.48	AEKYGPVYRINSLHYIAIVV
-20	5307013	5307072	Cyt_P450_E_grp-I_(PR00463)	230.0	-
-#	PR00463	IPR002401	135	153	\N	3.9e-28	20.62	VTLDVICKVAFGVDLNFLA
-20	5301748	5301895	Cyt_P450_E_grp-I_(PR00463)	124.0	-
-#	PR00463	IPR002401	245	262	\N	3.9e-28	29.45	QMLDNFVTFFIAGQETTA
-20	5299316	5299578	Cyt_P450_E_grp-I_(PR00463)	207.0	-
-#	PR00463	IPR002401	265	291	\N	3.9e-28	31.96	LSFAIMALGRNPEIYKRAKAEVDEVLG
-20	5299147	5299309	Cyt_P450_E_grp-I_(PR00463)	463.0	-
-#	PR00463	IPR002401	308	326	\N	3.9e-28	26.66	SQVLKETLRLYPTAPGTNR
-20	5298862	5299098	Cyt_P450_E_grp-I_(PR00463)	123.0	-
-#	PR00463	IPR002401	348	372	\N	3.9e-28	28.81	SSYVSQRLEKFFKDPLKFDPERFDV
-20	5298525	5298599	Cyt_P450_E_grp-I_(PR00463)	227.0	-
-#	PR00463	IPR002401	381	391	\N	3.9e-28	45.19	YFPFALGPRTC
-20	5297358	5297390	Cyt_P450_E_grp-I_(PR00463)	306.0	-
-#	PR00463	IPR002401	391	414	\N	3.9e-28	34.44	CLGQVFSQMEAKVVLAKLLQRFEF
-20	5296655	5297360	Cyt_P450_E_grp-I_(PR00463)	419.0	-
-#	PR00385	IPR001128	256	273	\N	4.8e-12	37.9	AGQETTANQLSFAIMALG
-20	5299283	5299545	Cyt_P450_(PR00385)	292.0	-
-#	PR00385	IPR001128	309	320	\N	4.8e-12	43.98	QVLKETLRLYPT
-20	5298880	5299095	Cyt_P450_(PR00385)	233.0	-
-#	PR00385	IPR001128	382	391	\N	4.8e-12	51.51	FPFALGPRTC
-20	5297358	5297387	Cyt_P450_(PR00385)	312.0	-
-#	PR00465	IPR002403	304	320	\N	3.9e-09	40.27	FTYLSQVLKETLRLYPT
-20	5298880	5299110	Cyt_P450_E_grp-IV_(PR00465)	295.0	-
-#	PR00465	IPR002403	353	371	\N	3.9e-09	31.38	QRLEKFFKDPLKFDPERFD
-20	5298528	5298584	Cyt_P450_E_grp-IV_(PR00465)	265.0	-
-#	PR00465	IPR002403	391	409	\N	3.9e-09	30.36	CLGQVFSQMEAKVVLAKLL
-20	5296670	5297360	Cyt_P450_E_grp-IV_(PR00465)	310.0	-
-#	PR00464	IPR002402	79	99	\N	3.9e-06	30.8	HDIWYRQRRIMDPAFSSSYLR
-20	5302001	5302880	Cyt_P450_E_grp-II_(PR00464)	320.0	-
-#	PR00464	IPR002402	134	152	\N	3.9e-06	34.84	CVTLDVICKVAFGVDLNFL
-20	5301751	5301898	Cyt_P450_E_grp-II_(PR00464)	278.0	-
-#	PR00464	IPR002402	262	277	\N	3.9e-06	19.47	ANQLSFAIMALGRNPE
-20	5299271	5299318	Cyt_P450_E_grp-II_(PR00464)	116.0	-
-#	PR00359	IPR002397	309	320	\N	1e-05	27.78	QVLKETLRLYPT
-20	5298880	5299095	Cyt_P450_B_(PR00359)	127.0	-
-#	PR00359	IPR002397	326	353	\N	1e-05	24.13	RWLHEDMVINGIKIPGGCSVMFSSYVSQ
-20	5298582	5298864	Cyt_P450_B_(PR00359)	195.0	-
-#	PR00359	IPR002397	354	369	\N	1e-05	37.08	RLEKFFKDPLKFDPER
-20	5298534	5298581	Cyt_P450_B_(PR00359)	212.0	-
-#	PR00359	IPR002397	391	402	\N	1e-05	35.0	CLGQVFSQMEAK
-20	5296691	5297360	Cyt_P450_B_(PR00359)	256.0	-
-#	PR00385	IPR001128	391	402	\N	4.8e-12	35.33	CLGQVFSQMEAK
-20	5296691	5297360	Cyt_P450_(PR00385)	233.0	-
-#	PF00067	IPR001128	7	433	\N	1.3e-93	0.0	LIHDLFLQWAEKYGPVYRINSLHYIAIVVHCPEATKTILMSPKYTKDPFVYRRLFNLFGKRFLGYGLITAVDHDIWYRQRRIMDPAFSSSYLRSLISTFDEMSERLMDKLEEMANNKTPAVMHDLVNCVTLDVICKVAFGVDLNFLAQKDSPFQNAVELCLNGMTVDLRDPFFRLFPKNWKLIHQIRDAAELLRKTGEKWIQNRKTAVKNGEDVPKDILTQILKSAEEENVNNTDDLEQMLDNFVTFFIAGQETTANQLSFAIMALGRNPEIYKRAKAEVDEVLGTKREISNEDLGKFTYLSQVLKETLRLYPTAPGTNRWLHEDMVINGIKIPGGCSVMFSSYVSQRLEKFFKDPLKFDPERFDVNAPKPYYCYFPFALGPRTCLGQVFSQMEAKVVLAKLLQRFEFSLVPGQSFDIKDTGTLRPK
-20	5296598	5307233	Cyt_P450_(PF00067)	300.3	-
-#	SSF48264	IPR001128	6	442	\N	5.099999999999999e-111	0.0	SLIHDLFLQWAEKYGPVYRINSLHYIAIVVHCPEATKTILMSPKYTKDPFVYRRLFNLFGKRFLGYGLITAVDHDIWYRQRRIMDPAFSSSYLRSLISTFDEMSERLMDKLEEMANNKTPAVMHDLVNCVTLDVICKVAFGVDLNFLAQKDSPFQNAVELCLNGMTVDLRDPFFRLFPKNWKLIHQIRDAAELLRKTGEKWIQNRKTAVKNGEDVPKDILTQILKSAEEENVNNTDDLEQMLDNFVTFFIAGQETTANQLSFAIMALGRNPEIYKRAKAEVDEVLGTKREISNEDLGKFTYLSQVLKETLRLYPTAPGTNRWLHEDMVINGIKIPGGCSVMFSSYVSQRLEKFFKDPLKFDPERFDVNAPKPYYCYFPFALGPRTCLGQVFSQMEAKVVLAKLLQRFEFSLVPGQSFDIKDTGTLRPKSGVICNIKQ
-20	5296571	5307236	Cyt_P450_(SSF48264)	0.0	-
+20	5307013	5307072	Cyt_P450_E_grp-I	230.0	-	5307013	5307072	83,88,95	1	59	0	PR00463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00463
+20	5301748	5301895	Cyt_P450_E_grp-I	124.0	-	5301748	5301895	83,88,95	2	124,115	0,32	PR00463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00463
+20	5299316	5299578	Cyt_P450_E_grp-I	207.0	-	5299316	5299578	83,88,95	2	226,246	0,16	PR00463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00463
+20	5299147	5299309	Cyt_P450_E_grp-I	463.0	-	5299147	5299309	83,88,95	2	113,132	0,30	PR00463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00463
+20	5298862	5299098	Cyt_P450_E_grp-I	123.0	-	5298862	5299098	83,88,95	2	231,186	0,50	PR00463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00463
+20	5298525	5298599	Cyt_P450_E_grp-I	227.0	-	5298525	5298599	83,88,95	1	74	0	PR00463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00463
+20	5297358	5297390	Cyt_P450_E_grp-I	306.0	-	5297358	5297390	83,88,95	1	32	0	PR00463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00463
+20	5296655	5297360	Cyt_P450_E_grp-I	419.0	-	5296655	5297360	83,88,95	2	682,658	0,47	PR00463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00463
+20	5299283	5299545	Cyt_P450	292.0	-	5299283	5299545	83,88,95	2	259,213	0,49	PR00385	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00385&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00385
+20	5298880	5299095	Cyt_P450	233.0	-	5298880	5299095	83,88,95	2	213,183	0,32	PR00385	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00385&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00385
+20	5297358	5297387	Cyt_P450	312.0	-	5297358	5297387	83,88,95	1	29	0	PR00385	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00385&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00385
+20	5298880	5299110	Cyt_P450_E_grp-IV	295.0	-	5298880	5299110	83,88,95	2	213,198	0,32	PR00465	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00465&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00465
+20	5298528	5298584	Cyt_P450_E_grp-IV	265.0	-	5298528	5298584	83,88,95	1	56	0	PR00465	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00465&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00465
+20	5296670	5297360	Cyt_P450_E_grp-IV	310.0	-	5296670	5297360	83,88,95	2	667,658	0,32	PR00465	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00465&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00465
+20	5302001	5302880	Cyt_P450_E_grp-II	320.0	-	5302001	5302880	83,88,95	2	827,870	0,9	PR00464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00464
+20	5301751	5301898	Cyt_P450_E_grp-II	278.0	-	5301751	5301898	83,88,95	2	121,118	0,29	PR00464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00464
+20	5299271	5299318	Cyt_P450_E_grp-II	116.0	-	5299271	5299318	83,88,95	1	47	0	PR00464	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00464&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00464
+20	5298880	5299095	Cyt_P450_B	127.0	-	5298880	5299095	83,88,95	2	213,183	0,32	PR00359	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00359&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00359
+20	5298582	5298864	Cyt_P450_B	195.0	-	5298582	5298864	83,88,95	2	220,262	0,20	PR00359	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00359&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00359
+20	5298534	5298581	Cyt_P450_B	212.0	-	5298534	5298581	83,88,95	1	47	0	PR00359	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00359&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00359
+20	5296691	5297360	Cyt_P450_B	256.0	-	5296691	5297360	83,88,95	2	646,658	0,11	PR00359	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00359&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00359
+20	5296691	5297360	Cyt_P450	233.0	-	5296691	5297360	83,88,95	2	646,658	0,11	PR00385	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00385&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00385
+20	5296598	5307233	Cyt_P450	300.3	-	5296598	5307233	83,88,95	14	10610,-81,-73,-86,-138,-113,-156,-71,-72,-84,-110,-88,-66,10531	0,10475,8463,6316,5412,5182,4972,3015,2734,2579,2314,2004,805,104	PF00067	http://pfam.sanger.ac.uk/family?acc=PF00067
+20	5296571	5307236	Cyt_P450	0.0	-	5296571	5307236	83,88,95	14	10637,-81,-73,-86,-138,-113,-156,-71,-72,-84,-110,-88,-66,10534	0,10502,8490,6343,5439,5209,4999,3042,2761,2606,2341,2031,832,131	SSF48264	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48264

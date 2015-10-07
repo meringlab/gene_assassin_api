@@ -1,29 +1,13 @@
-browser position chr25:16403674-16414595
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000051925	ENSDART00000090388	ENSDARP00000084821	16403674	16414595	###
-#	PF00970	IPR008333	53	158	\N	1.6e-36	0.0	LPLIEKEEINHDTKRFRFGLPSSSHVLGLPIGQHIYLSAKVNGSLVVRAYTPVSSDQDQGYVDLVVKVYYKNTHPSYPDGGKMSQYLDNMKIGDTIDFRGPNGLLV
-25	16410384	16413015	OxRdtase_FAD-bd_dom_(PF00970)	112.5	-
-#	PF00175	IPR001433	185	292	\N	1.3999999999999998e-34	0.0	MIAGGTGITPMLQLIRSITADSFDETVCSLIFANQTEKDILLRNELDEVHRNHPSKLKLWYTLDRPSEGWKYSEGFVNAAMMKDHLPPADSDVLVVMCGPPAMIEKAC
-25	16403994	16409246	OxRdtase_FAD/NAD-bd_(PF00175)	107.0	-
-#	PR00406	IPR001834	79	90	\N	1.4e-31	62.5	LGLPIGQHIYLS
-25	16410673	16410810	NADH-Cyt_B5_reductase_(PR00406)	460.0	-
-#	PR00406	IPR001834	100	107	\N	1.4e-31	75.26	RAYTPVSS
-25	16410622	16410645	NADH-Cyt_B5_reductase_(PR00406)	325.0	-
-#	PR00406	IPR001834	145	159	\N	1.4e-31	46.81	GDTIDFRGPNGLLVY
-25	16410381	16410425	NADH-Cyt_B5_reductase_(PR00406)	388.0	-
-#	PR00406	IPR001834	184	203	\N	1.4e-31	60.62	AMIAGGTGITPMLQLIRSIT
-25	16409077	16409249	NADH-Cyt_B5_reductase_(PR00406)	652.0	-
-#	PR00406	IPR001834	222	233	\N	1.4e-31	60.76	KDILLRNELDEV
-25	16406372	16406407	NADH-Cyt_B5_reductase_(PR00406)	335.0	-
-#	PR00406	IPR001834	278	286	\N	1.4e-31	57.18	LVVMCGPPA
-25	16404012	16404038	NADH-Cyt_B5_reductase_(PR00406)	332.0	-
-#	PR00371	IPR001709	100	107	\N	1.2e-08	55.75	RAYTPVSS
-25	16410622	16410645	Flavoprot_Pyr_Nucl_cyt_Rdtase_(PR00371)	199.0	-
-#	PR00371	IPR001709	184	203	\N	1.2e-08	40.17	AMIAGGTGITPMLQLIRSIT
-25	16409077	16409249	Flavoprot_Pyr_Nucl_cyt_Rdtase_(PR00371)	389.0	-
-#	PR00371	IPR001709	222	233	\N	1.2e-08	38.7	KDILLRNELDEV
-25	16406372	16406407	Flavoprot_Pyr_Nucl_cyt_Rdtase_(PR00371)	209.0	-
-#	PR00371	IPR001709	278	286	\N	1.2e-08	34.1	LVVMCGPPA
-25	16404012	16404038	Flavoprot_Pyr_Nucl_cyt_Rdtase_(PR00371)	178.0	-
-#	SSF63380	IPR017938	38	162	\N	1.6e-40	0.0	NKIPKALQDPSVKYPLPLIEKEEINHDTKRFRFGLPSSSHVLGLPIGQHIYLSAKVNGSLVVRAYTPVSSDQDQGYVDLVVKVYYKNTHPSYPDGGKMSQYLDNMKIGDTIDFRGPNGLLVYNGK
-25	16410372	16413060	Riboflavin_synthase-like_b-brl_(SSF63380)	0.0	-
+25	16410384	16413015	OxRdtase_FAD-bd_dom	112.5	-	16410384	16413015	83,88,95	4	2611,-72,-106,2515	0,483,308,116	PF00970	http://pfam.sanger.ac.uk/family?acc=PF00970
+25	16403994	16409246	OxRdtase_FAD/NAD-bd	107.0	-	16403994	16409246	83,88,95	4	5234,-85,-99,5134	0,5120,2419,118	PF00175	http://pfam.sanger.ac.uk/family?acc=PF00175
+25	16410673	16410810	NADH-Cyt_B5_reductase	460.0	-	16410673	16410810	83,88,95	2	122,118	0,19	PR00406	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00406&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00406
+25	16410622	16410645	NADH-Cyt_B5_reductase	325.0	-	16410622	16410645	83,88,95	1	23	0	PR00406	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00406&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00406
+25	16410381	16410425	NADH-Cyt_B5_reductase	388.0	-	16410381	16410425	83,88,95	1	44	0	PR00406	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00406&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00406
+25	16409077	16409249	NADH-Cyt_B5_reductase	652.0	-	16409077	16409249	83,88,95	2	151,135	0,37	PR00406	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00406&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00406
+25	16406372	16406407	NADH-Cyt_B5_reductase	335.0	-	16406372	16406407	83,88,95	1	35	0	PR00406	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00406&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00406
+25	16404012	16404038	NADH-Cyt_B5_reductase	332.0	-	16404012	16404038	83,88,95	1	26	0	PR00406	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00406&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00406
+25	16410622	16410645	Flavoprot_Pyr_Nucl_cyt_Rdtase	199.0	-	16410622	16410645	83,88,95	1	23	0	PR00371	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00371&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00371
+25	16409077	16409249	Flavoprot_Pyr_Nucl_cyt_Rdtase	389.0	-	16409077	16409249	83,88,95	2	151,135	0,37	PR00371	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00371&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00371
+25	16406372	16406407	Flavoprot_Pyr_Nucl_cyt_Rdtase	209.0	-	16406372	16406407	83,88,95	1	35	0	PR00371	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00371&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00371
+25	16404012	16404038	Flavoprot_Pyr_Nucl_cyt_Rdtase	178.0	-	16404012	16404038	83,88,95	1	26	0	PR00371	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00371&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00371
+25	16410372	16413060	Riboflavin_synthase-like_b-brl	0.0	-	16410372	16413060	83,88,95	4	2623,-72,-106,2560	0,495,320,128	SSF63380	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF63380

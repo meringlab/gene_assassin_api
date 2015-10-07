@@ -1,47 +1,22 @@
-browser position chr9:56503627-56505795
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000038918	ENSDART00000056810	ENSDARP00000056809	56503627	56505795	###
-#	PR00237	IPR000276	23	47	\N	4.6e-49	28.57	LTGCFLSLLILTTLLGNTLVCAAVT
-9	56504076	56504150	GPCR_Rhodpsn_(PR00237)	249.0	+
-#	PR00237	IPR000276	57	78	\N	4.6e-49	38.9	TNFFVISLAISDLLVAILVMPW
-9	56504178	56504243	GPCR_Rhodpsn_(PR00237)	424.0	+
-#	PR00237	IPR000276	101	123	\N	4.6e-49	40.16	DIMCSTASILNLCVISVDRYWAI
-9	56504310	56504378	GPCR_Rhodpsn_(PR00237)	407.0	+
-#	PR00237	IPR000276	137	158	\N	4.6e-49	23.42	VAFIMISVAWTLSILISFIPVQ
-9	56504418	56504483	GPCR_Rhodpsn_(PR00237)	186.0	+
-#	PR00237	IPR000276	193	216	\N	4.6e-49	28.63	AISSSLISFYIPVAIMLVTYTRIY
-9	56504586	56504657	GPCR_Rhodpsn_(PR00237)	345.0	+
-#	PR00237	IPR000276	265	289	\N	4.6e-49	32.7	VLKTLSVIMGVFVCCWLPFFVLNCM
-9	56504802	56504876	GPCR_Rhodpsn_(PR00237)	483.0	+
-#	PR00237	IPR000276	309	335	\N	4.6e-49	31.03	FDVFVWFGWANSSLNPIIYAFNADFRK
-9	56504934	56505014	GPCR_Rhodpsn_(PR00237)	359.0	+
-#	PR00242	IPR000929	43	53	\N	6.7000000000000005e-21	66.34	CAAVTKFRHLR
-9	56504136	56504168	Dopamine_rcpt_(PR00242)	382.0	+
-#	PR00242	IPR000929	78	87	\N	6.7000000000000005e-21	51.62	WKAATEIVGF
-9	56504241	56504270	Dopamine_rcpt_(PR00242)	299.0	+
-#	PR00242	IPR000929	122	130	\N	6.7000000000000005e-21	70.27	AISSPFRYE
-9	56504373	56504399	Dopamine_rcpt_(PR00242)	338.0	+
-#	PR00242	IPR000929	304	315	\N	6.7000000000000005e-21	55.41	ISSTTFDVFVWF
-9	56504919	56504954	Dopamine_rcpt_(PR00242)	400.0	+
-#	PR00242	IPR000929	328	342	\N	6.7000000000000005e-21	72.43	AFNADFRKAFSILLG
-9	56504991	56505035	Dopamine_rcpt_(PR00242)	530.0	+
-#	PR00565	IPR001413	7	23	\N	4.900000000000001e-16	35.29	TVLDSSVSQRDSSKRVL
-9	56504028	56504078	Dopamine_D1_rcpt_(PR00565)	167.0	+
-#	PR00565	IPR001413	231	242	\N	4.900000000000001e-16	51.39	RAAESAKNRHSS
-9	56504700	56504735	Dopamine_D1_rcpt_(PR00565)	245.0	+
-#	PR00565	IPR001413	346	364	\N	4.900000000000001e-16	46.49	LCPGSSAIEIVSINNNCGP
-9	56505045	56505101	Dopamine_D1_rcpt_(PR00565)	325.0	+
-#	PR00565	IPR001413	366	387	\N	4.900000000000001e-16	30.3	STSQYQPKGHIPKEGNNSNYEI
-9	56505105	56505170	Dopamine_D1_rcpt_(PR00565)	218.0	+
-#	PR00565	IPR001413	407	423	\N	4.900000000000001e-16	43.14	IKTFDKLSPSMSGTLDS
-9	56505228	56505278	Dopamine_D1_rcpt_(PR00565)	341.0	+
-#	PR00565	IPR001413	423	440	\N	4.900000000000001e-16	81.48	SDADVSLEKINPITQNGQ
-9	56505276	56505329	Dopamine_D1_rcpt_(PR00565)	734.0	+
-#	PF00001	IPR000276	38	327	\N	9.999999999999999e-85	0.0	GNTLVCAAVTKFRHLRSKVTNFFVISLAISDLLVAILVMPWKAATEIVGFWPFGAFCDVWVAFDIMCSTASILNLCVISVDRYWAISSPFRYERKMTPKVAFIMISVAWTLSILISFIPVQLNWHKAQTTSYTELNGTYGELPPDNCDSSLNRTYAISSSLISFYIPVAIMLVTYTRIYRIAQKQIRRISALERAAESAKNRHSSMGNNASMESESSFKMSFKRETKVLKTLSVIMGVFVCCWLPFFVLNCMVPFCNPNESTDFLCISSTTFDVFVWFGWANSSLNPIIY
-9	56504121	56504990	GPCR_Rhodpsn_(PF00001)	271.5	+
-#	PF10328	IPR019430	33	238	\N	7.200000000000001e-14	0.0	LTTLLGNTLVCAAVTKFRHLRSKVTNFFVISLAISDLLVAILVMPWKAATEIVGFWPFGAFCDVWVAFDIMCSTASILNLCVISVDRYWAISSPFRYERKMTPKVAFIMISVAWTLSILISFIPVQLNWHKAQTTSYTELNGTYGELPPDNCDSSLNRTYAISSSLISFYIPVAIMLVTYTRIYRIAQKQIRRISALERAAESAKN
-9	56504106	56504723	7TM_GPCR_serpentine_rcpt_Srx_(PF10328)	39.4	+
-#	PF10320	IPR019424	36	338	\N	3.5e-12	0.0	LLGNTLVCAAVTKFRHLRSKVTNFFVISLAISDLLVAILVMPWKAATEIVGFWPFGAFCDVWVAFDIMCSTASILNLCVISVDRYWAISSPFRYERKMTPKVAFIMISVAWTLSILISFIPVQLNWHKAQTTSYTELNGTYGELPPDNCDSSLNRTYAISSSLISFYIPVAIMLVTYTRIYRIAQKQIRRISALERAAESAKNRHSSMGNNASMESESSFKMSFKRETKVLKTLSVIMGVFVCCWLPFFVLNCMVPFCNPNESTDFLCISSTTFDVFVWFGWANSSLNPIIYAFNADFRKAFS
-9	56504115	56505023	7TM_GPCR_olfarory/Srsx_(PF10320)	33.9	+
-#	PS50262	IPR017452	38	327	\N	0.0	0.0	GNTLVCAAVTKFRHLRSKVTNFFVISLAISDLLVAILVMPWKAATEIVGFWPFGAFCDVWVAFDIMCSTASILNLCVISVDRYWAISSPFRYERKMTPKVAFIMISVAWTLSILISFIPVQLNWHKAQTTSYTELNGTYGELPPDNCDSSLNRTYAISSSLISFYIPVAIMLVTYTRIYRIAQKQIRRISALERAAESAKNRHSSMGNNASMESESSFKMSFKRETKVLKTLSVIMGVFVCCWLPFFVLNCMVPFCNPNESTDFLCISSTTFDVFVWFGWANSSLNPIIY
-9	56504121	56504990	GPCR_Rhodpsn_7TM_(PS50262)	45.146	+
+9	56504076	56504150	GPCR_Rhodpsn	249.0	+	56504076	56504150	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	56504178	56504243	GPCR_Rhodpsn	424.0	+	56504178	56504243	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	56504310	56504378	GPCR_Rhodpsn	407.0	+	56504310	56504378	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	56504418	56504483	GPCR_Rhodpsn	186.0	+	56504418	56504483	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	56504586	56504657	GPCR_Rhodpsn	345.0	+	56504586	56504657	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	56504802	56504876	GPCR_Rhodpsn	483.0	+	56504802	56504876	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	56504934	56505014	GPCR_Rhodpsn	359.0	+	56504934	56505014	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+9	56504136	56504168	Dopamine_rcpt	382.0	+	56504136	56504168	83,88,95	1	32	0	PR00242	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00242&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00242
+9	56504241	56504270	Dopamine_rcpt	299.0	+	56504241	56504270	83,88,95	1	29	0	PR00242	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00242&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00242
+9	56504373	56504399	Dopamine_rcpt	338.0	+	56504373	56504399	83,88,95	1	26	0	PR00242	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00242&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00242
+9	56504919	56504954	Dopamine_rcpt	400.0	+	56504919	56504954	83,88,95	1	35	0	PR00242	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00242&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00242
+9	56504991	56505035	Dopamine_rcpt	530.0	+	56504991	56505035	83,88,95	1	44	0	PR00242	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00242&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00242
+9	56504028	56504078	Dopamine_D1_rcpt	167.0	+	56504028	56504078	83,88,95	1	50	0	PR00565	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00565&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00565
+9	56504700	56504735	Dopamine_D1_rcpt	245.0	+	56504700	56504735	83,88,95	1	35	0	PR00565	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00565&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00565
+9	56505045	56505101	Dopamine_D1_rcpt	325.0	+	56505045	56505101	83,88,95	1	56	0	PR00565	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00565&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00565
+9	56505105	56505170	Dopamine_D1_rcpt	218.0	+	56505105	56505170	83,88,95	1	65	0	PR00565	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00565&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00565
+9	56505228	56505278	Dopamine_D1_rcpt	341.0	+	56505228	56505278	83,88,95	1	50	0	PR00565	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00565&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00565
+9	56505276	56505329	Dopamine_D1_rcpt	734.0	+	56505276	56505329	83,88,95	1	53	0	PR00565	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00565&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00565
+9	56504121	56504990	GPCR_Rhodpsn	271.5	+	56504121	56504990	83,88,95	1	869	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+9	56504106	56504723	7TM_GPCR_serpentine_rcpt_Srx	39.4	+	56504106	56504723	83,88,95	1	617	0	PF10328	http://pfam.sanger.ac.uk/family?acc=PF10328
+9	56504115	56505023	7TM_GPCR_olfarory/Srsx	33.9	+	56504115	56505023	83,88,95	1	908	0	PF10320	http://pfam.sanger.ac.uk/family?acc=PF10320
+9	56504121	56504990	GPCR_Rhodpsn_7TM	45.146	+	56504121	56504990	83,88,95	1	869	0	PS50262	http://www.expasy.ch/prosite/PS50262

@@ -1,15 +1,6 @@
-browser position chr19:8457561-8460768
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000007971	ENSDART00000026276	ENSDARP00000003357	8457561	8460768	###
-#	PF01111	IPR000789	5	73	\N	3.3e-45	0.0	QIYYSDKYDDDKFEYRHVMLPKDIAKRVPKTHLMSETEWRNLGVQQSQGWVHYMIHQPEPHILLFRRPL
-19	8458014	8460248	Cyclin-dep_kinase_reg-sub_(PF01111)	138.4	+
-#	PR00296	IPR000789	5	19	\N	7.499999999999999e-30	70.26	QIYYSDKYDDDKFEY
-19	8458014	8458058	Cyclin-dep_kinase_reg-sub_(PR00296)	610.0	+
-#	PR00296	IPR000789	20	34	\N	7.499999999999999e-30	68.72	RHVMLPKDIAKRVPK
-19	8458059	8458280	Cyclin-dep_kinase_reg-sub_(PR00296)	579.0	+
-#	PR00296	IPR000789	42	56	\N	7.499999999999999e-30	80.0	EWRNLGVQQSQGWVH
-19	8458302	8458346	Cyclin-dep_kinase_reg-sub_(PR00296)	739.0	+
-#	PR00296	IPR000789	57	71	\N	7.499999999999999e-30	84.1	YMIHQPEPHILLFRR
-19	8458347	8460242	Cyclin-dep_kinase_reg-sub_(PR00296)	735.0	+
-#	SSF55637	IPR000789	1	74	\N	1.4999999999999997e-36	0.0	MSHKQIYYSDKYDDDKFEYRHVMLPKDIAKRVPKTHLMSETEWRNLGVQQSQGWVHYMIHQPEPHILLFRRPLP
-19	8458002	8460251	Cyclin-dep_kinase_reg-sub_(SSF55637)	0.0	+
+19	8458014	8460248	Cyclin-dep_kinase_reg-sub	138.4	+	8458014	8460248	83,88,95	3	46,127,31	0,224,2203	PF01111	http://pfam.sanger.ac.uk/family?acc=PF01111
+19	8458014	8458058	Cyclin-dep_kinase_reg-sub	610.0	+	8458014	8458058	83,88,95	1	44	0	PR00296	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00296&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00296
+19	8458059	8458280	Cyclin-dep_kinase_reg-sub	579.0	+	8458059	8458280	83,88,95	2	1,42	0,179	PR00296	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00296&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00296
+19	8458302	8458346	Cyclin-dep_kinase_reg-sub	739.0	+	8458302	8458346	83,88,95	1	44	0	PR00296	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00296&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00296
+19	8458347	8460242	Cyclin-dep_kinase_reg-sub	735.0	+	8458347	8460242	83,88,95	2	18,25	0,1870	PR00296	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00296&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00296
+19	8458002	8460251	Cyclin-dep_kinase_reg-sub	0.0	+	8458002	8460251	83,88,95	3	58,127,34	0,236,2215	SSF55637	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55637

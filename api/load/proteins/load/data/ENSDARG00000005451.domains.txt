@@ -1,37 +1,17 @@
-browser position chr4:10528779-10542154
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000005451	ENSDART00000008584	ENSDARP00000009258	10528779	10542154	###
-#	PF00996	IPR018203	1	437	\N	9.999999999999996e-228	0.0	MNEEYDVIVLGTGLTECILSGIMSVKGKKVLHMDRNSYYGGESASITPLEDLFKRFSLPGSPPESMGKGRDWNVDLIPKFLMANGQLVRMLLITQVTRYLDFKVIEGSFVYKKGSIYKVPSTETEALASSLMGLFEKRRFRKFLVFVANFDENDPKTMEGVDPKKTTMRDVYKKFDLGQDVIDFTGHALALYRTDDYLDQPCIETINRIKLYSESLARYGKSPYLYPLYGLGELPQGFARLSAIYGGTYMLNKPIEEIVIENGKVVGVKSEGEIARCKQLICDPSYIKDRVNKVGQVIRVICILSHPIKNTSDANSCQIIIPQNQVNRKHDIYVCMISYAHNVAAQGKYIAIVSTTVETNDPEKEIKPALDLLEPVEQKFVSISDLYSPTDVGSDSQIFISRSYDATTHFETTCDDIKDIYKRMTGTEFDFAEMERK
-4	10528882	10541026	GDP_dissociation_inhibitor_(PF00996)	741.9	+
-#	PR00892	IPR000806	347	365	\N	4.5999999999999994e-82	71.62	GKYIAIVSTTVETNDPEKE
-4	10539091	10539147	RabGDI_(PR00892)	690.0	+
-#	PR00892	IPR000806	380	399	\N	4.5999999999999994e-82	50.22	FVSISDLYSPTDVGSDSQIF
-4	10539279	10540912	RabGDI_(PR00892)	499.0	+
-#	PR00892	IPR000806	401	421	\N	4.5999999999999994e-82	76.4	SRSYDATTHFETTCDDIKDIY
-4	10540916	10540978	RabGDI_(PR00892)	895.0	+
-#	PR00891	IPR018203	6	24	\N	9.499999999999998e-78	81.02	DVIVLGTGLTECILSGIMS
-4	10528897	10535212	GDP_dissociation_inhibitor_(PR00891)	777.0	+
-#	PR00891	IPR018203	24	41	\N	9.499999999999998e-78	78.77	SVKGKKVLHMDRNSYYGG
-4	10535210	10535263	GDP_dissociation_inhibitor_(PR00891)	774.0	+
-#	PR00891	IPR018203	70	87	\N	9.499999999999998e-78	79.37	RDWNVDLIPKFLMANGQL
-4	10535424	10535640	GDP_dissociation_inhibitor_(PR00891)	791.0	+
-#	PR00891	IPR018203	87	103	\N	9.499999999999998e-78	63.87	LVRMLLITQVTRYLDFK
-4	10535638	10535688	GDP_dissociation_inhibitor_(PR00891)	550.0	+
-#	PR00891	IPR018203	136	151	\N	9.499999999999998e-78	64.51	EKRRFRKFLVFVANFD
-4	10537049	10537096	GDP_dissociation_inhibitor_(PR00891)	545.0	+
-#	PR00891	IPR018203	212	229	\N	9.499999999999998e-78	68.25	YSESLARYGKSPYLYPLY
-4	10537369	10537422	GDP_dissociation_inhibitor_(PR00891)	659.0	+
-#	PR00891	IPR018203	230	251	\N	9.499999999999998e-78	88.31	GLGELPQGFARLSAIYGGTYML
-4	10537423	10537593	GDP_dissociation_inhibitor_(PR00891)	1010.0	+
-#	PR00892	IPR000806	322	338	\N	4.5999999999999994e-82	71.1	PQNQVNRKHDIYVCMIS
-4	10537890	10539066	RabGDI_(PR00892)	633.0	+
-#	PR00892	IPR000806	279	293	\N	4.5999999999999994e-82	62.03	QLICDPSYIKDRVNK
-4	10537761	10537805	RabGDI_(PR00892)	555.0	+
-#	PR00892	IPR000806	183	197	\N	4.5999999999999994e-82	80.0	DFTGHALALYRTDDY
-4	10537190	10537326	RabGDI_(PR00892)	664.0	+
-#	PR00892	IPR000806	126	141	\N	4.5999999999999994e-82	81.79	ALASSLMGLFEKRRFR
-4	10535755	10537066	RabGDI_(PR00892)	616.0	+
-#	PR00892	IPR000806	76	89	\N	4.5999999999999994e-82	81.68	LIPKFLMANGQLVR
-4	10535442	10535646	RabGDI_(PR00892)	602.0	+
-#	PR00892	IPR000806	16	28	\N	4.5999999999999994e-82	78.26	ECILSGIMSVKGK
-4	10535186	10535224	RabGDI_(PR00892)	521.0	+
+4	10528882	10541026	GDP_dissociation_inhibitor	741.9	+	10528882	10541026	83,88,95	11	44,107,99,134,198,131,99,171,144,54,119	0,6304,6488,6751,8150,8441,8678,8864,10162,10396,12025	PF00996	http://pfam.sanger.ac.uk/family?acc=PF00996
+4	10539091	10539147	RabGDI	690.0	+	10539091	10539147	83,88,95	1	56	0	PR00892	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00892&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00892
+4	10539279	10540912	RabGDI	499.0	+	10539279	10540912	83,88,95	2	53,5	0,1628	PR00892	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00892&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00892
+4	10540916	10540978	RabGDI	895.0	+	10540916	10540978	83,88,95	1	62	0	PR00892	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00892&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00892
+4	10528897	10535212	GDP_dissociation_inhibitor	777.0	+	10528897	10535212	83,88,95	2	29,26	0,6289	PR00891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00891
+4	10535210	10535263	GDP_dissociation_inhibitor	774.0	+	10535210	10535263	83,88,95	1	53	0	PR00891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00891
+4	10535424	10535640	GDP_dissociation_inhibitor	791.0	+	10535424	10535640	83,88,95	2	45,7	0,209	PR00891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00891
+4	10535638	10535688	GDP_dissociation_inhibitor	550.0	+	10535638	10535688	83,88,95	1	50	0	PR00891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00891
+4	10537049	10537096	GDP_dissociation_inhibitor	545.0	+	10537049	10537096	83,88,95	1	47	0	PR00891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00891
+4	10537369	10537422	GDP_dissociation_inhibitor	659.0	+	10537369	10537422	83,88,95	1	53	0	PR00891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00891
+4	10537423	10537593	GDP_dissociation_inhibitor	1010.0	+	10537423	10537593	83,88,95	2	31,33	0,137	PR00891	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00891&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00891
+4	10537890	10539066	RabGDI	633.0	+	10537890	10539066	83,88,95	2	27,22	0,1154	PR00892	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00892&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00892
+4	10537761	10537805	RabGDI	555.0	+	10537761	10537805	83,88,95	1	44	0	PR00892	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00892&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00892
+4	10537190	10537326	RabGDI	664.0	+	10537190	10537326	83,88,95	2	40,3	0,133	PR00892	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00892&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00892
+4	10535755	10537066	RabGDI	616.0	+	10535755	10537066	83,88,95	2	12,34	0,1277	PR00892	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00892&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00892
+4	10535442	10535646	RabGDI	602.0	+	10535442	10535646	83,88,95	2	27,13	0,191	PR00892	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00892&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00892
+4	10535186	10535224	RabGDI	521.0	+	10535186	10535224	83,88,95	1	38	0	PR00892	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00892&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00892

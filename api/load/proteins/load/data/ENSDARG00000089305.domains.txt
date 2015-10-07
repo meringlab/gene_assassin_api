@@ -1,13 +1,5 @@
-browser position chr2:41845658-41874524
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000089305	ENSDART00000110942	ENSDARP00000098980	41845658	41874524	###
-#	SM00667	IPR006594	16	48	\N	0.0018	0.0	AREKLALYVYEYLLHVGAQKSAQTFLSEIRWEK
-2	41845709	41874479	LisH_dimerisation_(SM00667)	27.5	-
-#	PS50896	IPR006594	16	48	\N	0.0	0.0	AREKLALYVYEYLLHVGAQKSAQTFLSEIRWEK
-2	41845709	41874479	LisH_dimerisation_(PS50896)	9.397	-
-#	PR01743	IPR008116	29	44	\N	4.8e-30	98.96	LHVGAQKSAQTFLSEI
-2	41845721	41850831	SSDP_DNA-bd_(PR01743)	766.0	-
-#	PR01743	IPR008116	45	62	\N	4.8e-30	99.69	RWEKNITLGEPPGFLHSW
-2	41845667	41845720	SSDP_DNA-bd_(PR01743)	1088.0	-
-#	PR01743	IPR008116	8	27	\N	4.8e-30	87.22	AVVPSDSQAREKLALYVYEY
-2	41850835	41874503	SSDP_DNA-bd_(PR01743)	896.0	-
+2	41845709	41874479	LisH_dimerisation	27.5	-	41845709	41874479	83,88,95	3	28760,-72,28756	0,5150,14	SM00667	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00667
+2	41845709	41874479	LisH_dimerisation	9.397	-	41845709	41874479	83,88,95	3	28760,-72,28756	0,5150,14	PS50896	http://www.expasy.ch/prosite/PS50896
+2	41845721	41850831	SSDP_DNA-bd	766.0	-	41845721	41850831	83,88,95	2	5066,5108	0,2	PR01743	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01743&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01743
+2	41845667	41845720	SSDP_DNA-bd	1088.0	-	41845667	41845720	83,88,95	1	53	0	PR01743	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01743&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01743
+2	41850835	41874503	SSDP_DNA-bd	896.0	-	41850835	41874503	83,88,95	2	23634,23644	0,24	PR01743	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01743&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01743

@@ -1,13 +1,5 @@
-browser position chr2:38076030-38095333
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000075445	ENSDART00000113111	ENSDARP00000099755	38076030	38095333	###
-#	PF00227	IPR001353	64	242	\N	5.5e-53	0.0	HGTTTLAFKFQHGVIVAVDSRATAGAYIASQTVKKVIEINPYLLGTMAGGAADCSFWERLLARQCRIYELRNKERISVAAASKLLANMVYQYKGMGLSMGTMVCGWDKRGPGLYYVDSEGNRVCGDLFAVGSGSMYAYGVVDSGLRYDLTIDEACDLGRRAIYQATYRDAYSGGQVNLY
-2	38076231	38094763	Proteasome_sua/b_(PF00227)	165.4	+
-#	PR00141	IPR000243	73	88	\N	4.7e-20	64.35	FQHGVIVAVDSRATAG
-2	38081629	38081676	Pept_T1A_subB_(PR00141)	524.0	+
-#	PR00141	IPR000243	194	205	\N	4.7e-20	72.35	GSGSMYAYGVVD
-2	38094617	38094652	Pept_T1A_subB_(PR00141)	464.0	+
-#	PR00141	IPR000243	205	216	\N	4.7e-20	39.58	DSGLRYDLTIDE
-2	38094650	38094685	Pept_T1A_subB_(PR00141)	251.0	+
-#	PR00141	IPR000243	230	241	\N	4.7e-20	58.33	YRDAYSGGQVNL
-2	38094725	38094760	Pept_T1A_subB_(PR00141)	345.0	+
+2	38076231	38094763	Proteasome_sua/b	165.4	+	38076231	38094763	83,88,95	3	26,306,202	0,5398,18330	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227
+2	38081629	38081676	Pept_T1A_subB	524.0	+	38081629	38081676	83,88,95	1	47	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+2	38094617	38094652	Pept_T1A_subB	464.0	+	38094617	38094652	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+2	38094650	38094685	Pept_T1A_subB	251.0	+	38094650	38094685	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141
+2	38094725	38094760	Pept_T1A_subB	345.0	+	38094725	38094760	83,88,95	1	35	0	PR00141	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00141&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00141

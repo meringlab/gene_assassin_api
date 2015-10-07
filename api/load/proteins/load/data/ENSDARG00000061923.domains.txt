@@ -1,21 +1,9 @@
-browser position chr6:27700171-27709318
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000061923	ENSDART00000088914	ENSDARP00000083347	27700229	27709318	###
-#	PF12240	IPR024646	439	644	\N	1.5999999999999995e-102	0.0	YVEKVERMQSALAQLQAACEKREALELRLRTRLEQELKSLRAQQWQAQTQHASPGSYLDLNVSSLQQQLREREEQVLALEADITRWEQKYLEESTMRQFAMDAAATAAAQRDTTIINHSPRNSPNSSFNEDLPSPNHRHQEMENRIRALYAQLLEKDAIIKVMQQRSRREQGRPELQGLRPARSVPSINTVATASTTRAKGKSLSD
-6	27705667	27707030	Angiomotin_C_(PF12240)	327.6	+
-#	PR01807	IPR009114	593	608	\N	3.3999999999999995e-60	79.17	EKDAIIKVMQQRSRRE
-6	27706424	27706471	Angiomotin_(PR01807)	663.0	+
-#	PR01807	IPR009114	535	552	\N	3.3999999999999995e-60	89.81	RQFAMDAAATAAAQRDTT
-6	27706037	27706189	Angiomotin_(PR01807)	780.0	+
-#	PR01807	IPR009114	514	531	\N	3.3999999999999995e-60	83.33	VLALEADITRWEQKYLEE
-6	27705974	27706027	Angiomotin_(PR01807)	850.0	+
-#	PR01807	IPR009114	452	469	\N	3.3999999999999995e-60	88.89	QLQAACEKREALELRLRT
-6	27705706	27705759	Angiomotin_(PR01807)	765.0	+
-#	PR01807	IPR009114	325	343	\N	3.3999999999999995e-60	77.19	SAKREALEKTMRNKLESEI
-6	27703794	27703850	Angiomotin_(PR01807)	741.0	+
-#	PR01807	IPR009114	348	363	\N	3.3999999999999995e-60	85.42	DFNRDLRDRLETANKQ
-6	27703863	27704004	Angiomotin_(PR01807)	741.0	+
-#	PR01807	IPR009114	436	450	\N	3.3999999999999995e-60	73.33	KRAYVEKVERMQSAL
-6	27705658	27705702	Angiomotin_(PR01807)	566.0	+
-#	SSF46579	IPR009053	278	365	\N	0.0097	0.0	FQMEQLIKENERLKREVDSYSEKAARLQKLEQEIQRISEAYETLMKGSAKREALEKTMRNKLESEIKRLHDFNRDLRDRLETANKQRA
-6	27702033	27704010	Prefoldin_(SSF46579)	0.0	+
+6	27705667	27707030	Angiomotin_C	327.6	+	27705667	27707030	83,88,95	5	131,199,101,166,16	0,214,513,729,1347	PF12240	http://pfam.sanger.ac.uk/family?acc=PF12240
+6	27706424	27706471	Angiomotin	663.0	+	27706424	27706471	83,88,95	1	47	0	PR01807	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01807&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01807
+6	27706037	27706189	Angiomotin	780.0	+	27706037	27706189	83,88,95	2	43,9	0,143	PR01807	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01807&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01807
+6	27705974	27706027	Angiomotin	850.0	+	27705974	27706027	83,88,95	1	53	0	PR01807	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01807&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01807
+6	27705706	27705759	Angiomotin	765.0	+	27705706	27705759	83,88,95	1	53	0	PR01807	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01807&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01807
+6	27703794	27703850	Angiomotin	741.0	+	27703794	27703850	83,88,95	1	56	0	PR01807	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01807&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01807
+6	27703863	27704004	Angiomotin	741.0	+	27703863	27704004	83,88,95	2	21,25	0,116	PR01807	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01807&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01807
+6	27705658	27705702	Angiomotin	566.0	+	27705658	27705702	83,88,95	1	44	0	PR01807	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01807&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01807
+6	27702033	27704010	Prefoldin	0.0	+	27702033	27704010	83,88,95	3	86,144,31	0,1707,1946	SSF46579	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46579

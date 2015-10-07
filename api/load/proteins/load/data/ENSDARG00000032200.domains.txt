@@ -1,25 +1,11 @@
-browser position chr6:8655840-8664836
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000032200	ENSDART00000151807	ENSDARP00000126252	8655840	8664836	###
-#	PF08450	IPR013658	16	259	\N	3.899999999999999e-90	0.0	VGESPVWEEKDSSLLYVDITGQKVSRWSSLTKQIESMNTEKLVGCVVPRQAGGYVIAEGTRFAFVDWVKRSITAVAEVNEKPNTRFNDGKVDPAGRFFAGTMSMDMKPDVVDAALYNLQPDHSVVRHFDQVHLSNGLDWSLDHRVFYYIDSLAFMVEAFDYDIQTGGLSNRRTVYKMEKDEGIPDGMCIDTEGKLWVACFNGGRVLRIDPQTGKRLQTVKLPAERITSCCFGGKDYSDLYITSA
-6	8656496	8662121	SGL_(PF08450)	287.8	-
-#	PR01791	IPR008367	185	203	\N	5.9e-29	83.04	NRRTVYKMEKDEGIPDGMC
-6	8658634	8658690	Regucalcin_(PR01791)	913.0	-
-#	PR01791	IPR008367	124	137	\N	5.9e-29	42.06	DVVDAALYNLQPDH
-6	8659442	8659483	Regucalcin_(PR01791)	302.0	-
-#	PR01790	IPR005511	241	259	\N	8.399999999999998e-56	55.17	ITSCCFGGKDYSDLYITSA
-6	8656496	8656552	SMP-30_(PR01790)	576.0	-
-#	PR01790	IPR005511	198	215	\N	8.399999999999998e-56	66.87	IPDGMCIDTEGKLWVACF
-6	8658598	8658651	SMP-30_(PR01790)	698.0	-
-#	PR01790	IPR005511	158	178	\N	8.399999999999998e-56	44.8	HRVFYYIDSLAFMVEAFDYDI
-6	8659319	8659381	SMP-30_(PR01790)	525.0	-
-#	PR01790	IPR005511	135	157	\N	8.399999999999998e-56	44.93	PDHSVVRHFDQVHLSNGLDWSLD
-6	8659382	8659450	SMP-30_(PR01790)	513.0	-
-#	PR01790	IPR005511	92	113	\N	8.399999999999998e-56	51.68	EVNEKPNTRFNDGKVDPAGRFF
-6	8661202	8661267	SMP-30_(PR01790)	585.0	-
-#	PR01790	IPR005511	17	34	\N	8.399999999999998e-56	54.12	GESPVWEEKDSSLLYVDI
-6	8662065	8662118	SMP-30_(PR01790)	535.0	-
-#	PR01791	IPR008367	271	287	\N	5.9e-29	75.16	QPEAGCTFKVTGLGVKG
-6	8656332	8656462	Regucalcin_(PR01791)	693.0	-
-#	PR01791	IPR008367	224	237	\N	5.9e-29	88.89	DPQTGKRLQTVKLP
-6	8656562	8658573	Regucalcin_(PR01791)	679.0	-
+6	8656496	8662121	SGL	287.8	-	8656496	8662121	83,88,95	5	5508,-179,-206,-131,5531	0,4881,3013,2196,94	PF08450	http://pfam.sanger.ac.uk/family?acc=PF08450
+6	8658634	8658690	Regucalcin	913.0	-	8658634	8658690	83,88,95	1	56	0	PR01791	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01791&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01791
+6	8659442	8659483	Regucalcin	302.0	-	8659442	8659483	83,88,95	1	41	0	PR01791	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01791&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01791
+6	8656496	8656552	SMP-30	576.0	-	8656496	8656552	83,88,95	1	56	0	PR01790	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01790&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01790
+6	8658598	8658651	SMP-30	698.0	-	8658598	8658651	83,88,95	1	53	0	PR01790	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01790&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01790
+6	8659319	8659381	SMP-30	525.0	-	8659319	8659381	83,88,95	1	62	0	PR01790	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01790&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01790
+6	8659382	8659450	SMP-30	513.0	-	8659382	8659450	83,88,95	1	68	0	PR01790	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01790&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01790
+6	8661202	8661267	SMP-30	585.0	-	8661202	8661267	83,88,95	1	65	0	PR01790	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01790&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01790
+6	8662065	8662118	SMP-30	535.0	-	8662065	8662118	83,88,95	1	53	0	PR01790	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01790&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01790
+6	8656332	8656462	Regucalcin	693.0	-	8656332	8656462	83,88,95	2	104,107	0,23	PR01791	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01791&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01791
+6	8656562	8658573	Regucalcin	679.0	-	8656562	8658573	83,88,95	2	1999,1983	0,28	PR01791	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01791&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01791

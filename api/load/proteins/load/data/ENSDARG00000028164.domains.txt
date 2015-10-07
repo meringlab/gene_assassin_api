@@ -1,15 +1,6 @@
-browser position chr24:21525203-21526864
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000028164	ENSDART00000043193	ENSDARP00000043192	21525203	21526357	###
-#	PF00031	IPR000010	6	92	\N	1.9e-20	0.0	GGTSEAKDANEEVQKICDKMKADAEEKAGRKFDVFTAKSFKTQVVAGTNYFVKVHVGDEDYVHLRVYKTLPHAGETLQLTSIQTAKA
-24	21525312	21526067	Prot_inh_cystat_(PF00031)	59.4	+
-#	PR00295	IPR001713	6	25	\N	4.4e-26	45.0	GGTSEAKDANEEVQKICDKM
-24	21525312	21525457	Prot_inh_stefinA_(PR00295)	461.0	+
-#	PR00295	IPR001713	29	48	\N	4.4e-26	43.61	AEEKAGRKFDVFTAKSFKTQ
-24	21525467	21525526	Prot_inh_stefinA_(PR00295)	436.0	+
-#	PR00295	IPR001713	49	68	\N	4.4e-26	63.33	VVAGTNYFVKVHVGDEDYVH
-24	21525527	21525995	Prot_inh_stefinA_(PR00295)	715.0	+
-#	PR00295	IPR001713	82	99	\N	4.4e-26	38.58	LQLTSIQTAKAHHDAIEY
-24	21526035	21526088	Prot_inh_stefinA_(PR00295)	302.0	+
-#	SM00043	IPR000010	3	90	\N	1.9e-10	0.0	LVRGGTSEAKDANEEVQKICDKMKADAEEKAGRKFDVFTAKSFKTQVVAGTNYFVKVHVGDEDYVHLRVYKTLPHAGETLQLTSIQTA
-24	21525303	21526061	Prot_inh_cystat_(SM00043)	50.7	+
+24	21525312	21526067	Prot_inh_cystat	59.4	+	21525312	21526067	83,88,95	3	56,101,101	0,143,654	PF00031	http://pfam.sanger.ac.uk/family?acc=PF00031
+24	21525312	21525457	Prot_inh_stefinA	461.0	+	21525312	21525457	83,88,95	2	56,2	0,143	PR00295	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00295&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00295
+24	21525467	21525526	Prot_inh_stefinA	436.0	+	21525467	21525526	83,88,95	1	59	0	PR00295	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00295&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00295
+24	21525527	21525995	Prot_inh_stefinA	715.0	+	21525527	21525995	83,88,95	2	29,29	0,439	PR00295	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00295&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00295
+24	21526035	21526088	Prot_inh_stefinA	302.0	+	21526035	21526088	83,88,95	1	53	0	PR00295	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00295&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00295
+24	21525303	21526061	Prot_inh_cystat	50.7	+	21525303	21526061	83,88,95	3	65,101,95	0,152,663	SM00043	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00043

@@ -1,23 +1,10 @@
-browser position chr3:55951717-55952608
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000097011	ENSDART00000113098	ENSDARP00000101541	55951717	55952608	###
-#	PS01033	IPR000971	3	143	\N	0.0	0.0	LSDTDKAVVKAIWAKISPKADEIGAEALARMLTVYPQTKTYFSHWADLSPGSGPVKKHGKTIMGAVGEAISKIDDLVGGLAALSELHAFKLRVDPANFKILSHNVIVVIAMLFPADFTPEVHVSVDKFFNNLALALSEKYR
-3	55951838	55952501	Globin_(PS01033)	34.961999999999996	+
-#	PF00042	IPR000971	7	105	\N	7.699999999999999e-31	0.0	DKAVVKAIWAKISPKADEIGAEALARMLTVYPQTKTYFSHWADLSPGSGPVKKHGKTIMGAVGEAISKIDDLVGGLAALSELHAFKLRVDPANFKILSH
-3	55951850	55952387	Globin_(PF00042)	93.2	+
-#	PR00612	IPR002338	16	28	\N	1.3000000000000001e-20	47.33	AKISPKADEIGAE
-3	55951877	55951915	Haemoglobin_a_(PR00612)	274.0	+
-#	PR00612	IPR002338	33	43	\N	1.3000000000000001e-20	62.43	MLTVYPQTKTY
-3	55952077	55952109	Haemoglobin_a_(PR00612)	380.0	+
-#	PR00612	IPR002338	49	58	\N	1.3000000000000001e-20	64.3	DLSPGSGPVK
-3	55952125	55952154	Haemoglobin_a_(PR00612)	299.0	+
-#	PR00612	IPR002338	76	89	\N	1.3000000000000001e-20	61.89	DDLVGGLAALSELH
-3	55952206	55952247	Haemoglobin_a_(PR00612)	441.0	+
-#	PR00612	IPR002338	124	140	\N	1.3000000000000001e-20	41.23	HVSVDKFFNNLALALSE
-3	55952442	55952492	Haemoglobin_a_(PR00612)	374.0	+
-#	PR00815	IPR002339	4	29	\N	1.4000000000000001e-05	42.31	SDTDKAVVKAIWAKISPKADEIGAEA
-3	55951841	55951918	Haemoglobin_pi_(PR00815)	625.0	+
-#	PR00815	IPR002339	74	84	\N	1.4000000000000001e-05	54.55	KIDDLVGGLAA
-3	55952200	55952232	Haemoglobin_pi_(PR00815)	280.0	+
-#	SSF46458	IPR009050	2	143	\N	1.8e-50	0.0	SLSDTDKAVVKAIWAKISPKADEIGAEALARMLTVYPQTKTYFSHWADLSPGSGPVKKHGKTIMGAVGEAISKIDDLVGGLAALSELHAFKLRVDPANFKILSHNVIVVIAMLFPADFTPEVHVSVDKFFNNLALALSEKYR
-3	55951835	55952501	Globin-like_(SSF46458)	0.0	+
+3	55951838	55952501	Globin	34.961999999999996	+	55951838	55952501	83,88,95	3	88,207,125	0,238,538	PS01033	http://www.expasy.ch/prosite/PS01033
+3	55951850	55952387	Globin	93.2	+	55951850	55952387	83,88,95	3	76,207,11	0,226,526	PF00042	http://pfam.sanger.ac.uk/family?acc=PF00042
+3	55951877	55951915	Haemoglobin_a	274.0	+	55951877	55951915	83,88,95	1	38	0	PR00612	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00612&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00612
+3	55952077	55952109	Haemoglobin_a	380.0	+	55952077	55952109	83,88,95	1	32	0	PR00612	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00612&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00612
+3	55952125	55952154	Haemoglobin_a	299.0	+	55952125	55952154	83,88,95	1	29	0	PR00612	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00612&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00612
+3	55952206	55952247	Haemoglobin_a	441.0	+	55952206	55952247	83,88,95	1	41	0	PR00612	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00612&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00612
+3	55952442	55952492	Haemoglobin_a	374.0	+	55952442	55952492	83,88,95	1	50	0	PR00612	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00612&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00612
+3	55951841	55951918	Haemoglobin_pi	625.0	+	55951841	55951918	83,88,95	1	77	0	PR00815	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00815&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00815
+3	55952200	55952232	Haemoglobin_pi	280.0	+	55952200	55952232	83,88,95	1	32	0	PR00815	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00815&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00815
+3	55951835	55952501	Globin-like	0.0	+	55951835	55952501	83,88,95	3	91,207,125	0,241,541	SSF46458	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46458

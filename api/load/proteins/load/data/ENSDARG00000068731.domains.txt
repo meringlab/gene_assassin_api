@@ -1,77 +1,37 @@
-browser position chr5:37492983-37571370
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000068731	ENSDART00000143448	ENSDARP00000120443	37492983	37571370	###
-#	PF00001	IPR000276	412	669	\N	1.7000000000000001e-29	0.0	GNIFVICLRSCIASENQHHTMAIKSLCCADCLMGVYLLFIGAFDIKYCGEYNRHAQIWMESLSCQLIGSLAMLSTEVSVMMLTYMTLEKYLCIVFPFQHYRAGRKQTLCSLTFIWLLGFIIAVIPFWDKQTFGNFYGRNGVCFPLHSDQTEKPGARCYSTAIFLGLNLLAFVMIVFSYSSMFYSVQKTAKTARQTVYDREVTIAKRFFFIVFTDALCWIPIFLLKILSLLRVQIAGTIILWVVIFILPINSALNPILY
-5	37493055	37506190	GPCR_Rhodpsn_(PF00001)	91.0	-
-#	PF00560	IPR001611	141	163	\N	0.00023999999999999998	0.0	HLERLHLESNSIETISKRAFSGL
-5	37524870	37530834	Leu-rich_rpt_(PF00560)	9.8	-
-#	PF00560	IPR001611	287	308	\N	0.00016999999999999999	0.0	LIDLDVSVNQIKDLPPSLFQNL
-5	37515436	37516559	Leu-rich_rpt_(PF00560)	10.2	-
-#	PF00560	IPR001611	310	332	\N	3.8e-05	0.0	NLKQLNISNNPLVNIYSNQFDSL
-5	37515012	37515432	Leu-rich_rpt_(PF00560)	12.2	-
-#	PF00057	IPR002172	26	61	\N	1.7e-11	0.0	CPLGQFPCGNLSVCLPQPQHCNGQQDCPNGADEENC
-5	37558499	37558606	LDrepeatLR_classA_rpt_(PF00057)	32.4	-
-#	PF01462	IPR000372	94	113	\N	3.2e-08	0.0	CHCEGRKVNCNGKNLLHVPA
-5	37531167	37531226	LRR-contain_N_(PF01462)	21.4	-
-#	PR01739	IPR008112	29	41	\N	4.1e-40	74.36	GQFPCGNLSVCLP
-5	37558559	37558597	Relaxin_rcpt_(PR01739)	613.0	-
-#	PR01739	IPR008112	169	184	\N	4.1e-40	56.25	LFLSQNKISSLKAGIF
-5	37522792	37524854	Relaxin_rcpt_(PR01739)	463.0	-
-#	PR01739	IPR008112	358	370	\N	4.1e-40	66.67	NLTHIYFKRFEFC
-5	37506314	37511818	Relaxin_rcpt_(PR01739)	579.0	-
-#	PR01739	IPR008112	374	388	\N	4.1e-40	80.0	PNVRSCKPNTDGISS
-5	37506260	37506304	Relaxin_rcpt_(PR01739)	643.0	-
-#	PR01739	IPR008112	452	462	\N	4.1e-40	69.7	GAFDIKYCGEY
-5	37498175	37498207	Relaxin_rcpt_(PR01739)	446.0	-
-#	PR01739	IPR008112	543	556	\N	4.1e-40	88.1	FGNFYGRNGVCFPL
-5	37497893	37497934	Relaxin_rcpt_(PR01739)	763.0	-
-#	PR01739	IPR008112	638	652	\N	4.1e-40	62.22	LSLLRVQIAGTIILW
-5	37493106	37495400	Relaxin_rcpt_(PR01739)	455.0	-
-#	PR00237	IPR000276	397	421	\N	1.5999999999999998e-14	19.08	ILRVFVWVVAFIICFGNIFVICLRS
-5	37506161	37506235	GPCR_Rhodpsn_(PR00237)	108.0	-
-#	PR00237	IPR000276	430	451	\N	1.5999999999999998e-14	22.97	HTMAIKSLCCADCLMGVYLLFI
-5	37498208	37506136	GPCR_Rhodpsn_(PR00237)	109.0	-
-#	PR00237	IPR000276	482	504	\N	1.5999999999999998e-14	22.77	AMLSTEVSVMMLTYMTLEKYLCI
-5	37498049	37498117	GPCR_Rhodpsn_(PR00237)	255.0	-
-#	PR00237	IPR000276	517	538	\N	1.5999999999999998e-14	15.56	QTLCSLTFIWLLGFIIAVIPFW
-5	37497947	37498012	GPCR_Rhodpsn_(PR00237)	142.0	-
-#	PR00237	IPR000276	614	638	\N	1.5999999999999998e-14	24.33	IAKRFFFIVFTDALCWIPIFLLKIL
-5	37495398	37495472	GPCR_Rhodpsn_(PR00237)	300.0	-
-#	PR00237	IPR000276	651	677	\N	1.5999999999999998e-14	25.14	LWVVIFILPINSALNPILYTITTSAFQ
-5	37493031	37493111	GPCR_Rhodpsn_(PR00237)	307.0	-
-#	PR00373	IPR002131	386	403	\N	2.8e-06	29.49	ISSFENLLANIILRVFVW
-5	37506215	37506268	Gphrmn_rcpt_fam_(PR00373)	304.0	-
-#	PR00373	IPR002131	462	475	\N	2.8e-06	32.69	YNRHAQIWMESLSC
-5	37498136	37498177	Gphrmn_rcpt_fam_(PR00373)	269.0	-
-#	PR00373	IPR002131	475	489	\N	2.8e-06	27.44	CQLIGSLAMLSTEVS
-5	37498094	37498138	Gphrmn_rcpt_fam_(PR00373)	247.0	-
-#	PR00373	IPR002131	610	628	\N	2.8e-06	42.51	REVTIAKRFFFIVFTDALC
-5	37495428	37495484	Gphrmn_rcpt_fam_(PR00373)	469.0	-
-#	SM00192	IPR002172	25	63	\N	8.3e-10	0.0	MCPLGQFPCGNLSVCLPQPQHCNGQQDCPNGADEENCVD
-5	37552878	37558609	LDrepeatLR_classA_rpt_(SM00192)	48.6	-
-#	SM00369	IPR003591	116	138	\N	110.0	0.0	SNVTALELNSNRIESLSRDLFIR
-5	37530841	37531160	Leu-rich_rpt_typical-subtyp_(SM00369)	4.7	-
-#	SM00369	IPR003591	139	162	\N	4.3	0.0	YRHLERLHLESNSIETISKRAFSG
-5	37524873	37530840	Leu-rich_rpt_typical-subtyp_(SM00369)	16.3	-
-#	SM00369	IPR003591	163	186	\N	0.0033	0.0	LVALRKLFLSQNKISSLKAGIFSD
-5	37522786	37524872	Leu-rich_rpt_typical-subtyp_(SM00369)	26.7	-
-#	SM00369	IPR003591	187	210	\N	0.013000000000000001	0.0	LSSLEWLILDENRISSLRQKSFEG
-5	37522271	37522785	Leu-rich_rpt_typical-subtyp_(SM00369)	24.7	-
-#	SM00369	IPR003591	211	234	\N	340.0	0.0	LKSLFFLSLLNNSVEQFPKTSICH
-5	37522028	37522270	Leu-rich_rpt_typical-subtyp_(SM00369)	0.7	-
-#	SM00369	IPR003591	236	259	\N	77.0	0.0	MPRLNWLEMEGNIISSLWASSFKN
-5	37520012	37522024	Leu-rich_rpt_typical-subtyp_(SM00369)	6.0	-
-#	SM00369	IPR003591	260	283	\N	4.8	0.0	CSSLTVLALRRNRISTIEEGTFAD
-5	37516569	37520011	Leu-rich_rpt_typical-subtyp_(SM00369)	15.9	-
-#	SM00369	IPR003591	284	307	\N	0.33	0.0	MQRLIDLDVSVNQIKDLPPSLFQN
-5	37515439	37516568	Leu-rich_rpt_typical-subtyp_(SM00369)	20.0	-
-#	SM00369	IPR003591	308	331	\N	24.0	0.0	LQNLKQLNISNNPLVNIYSNQFDS
-5	37515015	37515438	Leu-rich_rpt_typical-subtyp_(SM00369)	10.1	-
-#	SM00369	IPR003591	332	355	\N	190.0	0.0	LVNLQSLSMEEVEIPNISIRMFRP
-5	37511825	37515014	Leu-rich_rpt_typical-subtyp_(SM00369)	2.8	-
-#	PS50068	IPR002172	25	62	\N	0.0	0.0	MCPLGQFPCGNLSVCLPQPQHCNGQQDCPNGADEENCV
-5	37552881	37558609	LDrepeatLR_classA_rpt_(PS50068)	12.137	-
-#	PS50262	IPR017452	412	669	\N	0.0	0.0	GNIFVICLRSCIASENQHHTMAIKSLCCADCLMGVYLLFIGAFDIKYCGEYNRHAQIWMESLSCQLIGSLAMLSTEVSVMMLTYMTLEKYLCIVFPFQHYRAGRKQTLCSLTFIWLLGFIIAVIPFWDKQTFGNFYGRNGVCFPLHSDQTEKPGARCYSTAIFLGLNLLAFVMIVFSYSSMFYSVQKTAKTARQTVYDREVTIAKRFFFIVFTDALCWIPIFLLKILSLLRVQIAGTIILWVVIFILPINSALNPILY
-5	37493055	37506190	GPCR_Rhodpsn_7TM_(PS50262)	25.908	-
-#	SSF57424	IPR002172	23	61	\N	2.3e-09	0.0	SDMCPLGQFPCGNLSVCLPQPQHCNGQQDCPNGADEENC
-5	37558499	37558615	LDrepeatLR_classA_rpt_(SSF57424)	0.0	-
+5	37493055	37506190	GPCR_Rhodpsn	91.0	-	37493055	37506190	83,88,95	4	13054,-410,-212,13068	0,5190,2530,67	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+5	37524870	37530834	Leu-rich_rpt	9.8	-	37524870	37530834	83,88,95	2	5951,5910	0,54	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+5	37515436	37516559	Leu-rich_rpt	10.2	-	37515436	37516559	83,88,95	2	1113,1069	0,54	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+5	37515012	37515432	Leu-rich_rpt	12.2	-	37515012	37515432	83,88,95	2	407,366	0,54	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+5	37558499	37558606	LDrepeatLR_classA_rpt	32.4	-	37558499	37558606	83,88,95	1	107	0	PF00057	http://pfam.sanger.ac.uk/family?acc=PF00057
+5	37531167	37531226	LRR-contain_N	21.4	-	37531167	37531226	83,88,95	1	59	0	PF01462	http://pfam.sanger.ac.uk/family?acc=PF01462
+5	37558559	37558597	Relaxin_rcpt	613.0	-	37558559	37558597	83,88,95	1	38	0	PR01739	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01739&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01739
+5	37522792	37524854	Relaxin_rcpt	463.0	-	37522792	37524854	83,88,95	2	2061,2017	0,45	PR01739	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01739&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01739
+5	37506314	37511818	Relaxin_rcpt	579.0	-	37506314	37511818	83,88,95	2	5491,5480	0,24	PR01739	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01739&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01739
+5	37506260	37506304	Relaxin_rcpt	643.0	-	37506260	37506304	83,88,95	1	44	0	PR01739	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01739&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01739
+5	37498175	37498207	Relaxin_rcpt	446.0	-	37498175	37498207	83,88,95	1	32	0	PR01739	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01739&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01739
+5	37497893	37497934	Relaxin_rcpt	763.0	-	37497893	37497934	83,88,95	1	41	0	PR01739	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01739&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01739
+5	37493106	37495400	Relaxin_rcpt	455.0	-	37493106	37495400	83,88,95	2	2267,2278	0,16	PR01739	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01739&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01739
+5	37506161	37506235	GPCR_Rhodpsn	108.0	-	37506161	37506235	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+5	37498208	37506136	GPCR_Rhodpsn	109.0	-	37498208	37506136	83,88,95	2	7901,7891	0,37	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+5	37498049	37498117	GPCR_Rhodpsn	255.0	-	37498049	37498117	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+5	37497947	37498012	GPCR_Rhodpsn	142.0	-	37497947	37498012	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+5	37495398	37495472	GPCR_Rhodpsn	300.0	-	37495398	37495472	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+5	37493031	37493111	GPCR_Rhodpsn	307.0	-	37493031	37493111	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+5	37506215	37506268	Gphrmn_rcpt_fam	304.0	-	37506215	37506268	83,88,95	1	53	0	PR00373	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00373&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00373
+5	37498136	37498177	Gphrmn_rcpt_fam	269.0	-	37498136	37498177	83,88,95	1	41	0	PR00373	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00373&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00373
+5	37498094	37498138	Gphrmn_rcpt_fam	247.0	-	37498094	37498138	83,88,95	1	44	0	PR00373	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00373&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00373
+5	37495428	37495484	Gphrmn_rcpt_fam	469.0	-	37495428	37495484	83,88,95	1	56	0	PR00373	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00373&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00373
+5	37552878	37558609	LDrepeatLR_classA_rpt	48.6	-	37552878	37558609	83,88,95	2	5620,5727	0,4	SM00192	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00192
+5	37530841	37531160	Leu-rich_rpt_typical-subtyp	4.7	-	37530841	37531160	83,88,95	2	303,268	0,51	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	37524873	37530840	Leu-rich_rpt_typical-subtyp	16.3	-	37524873	37530840	83,88,95	2	5948,5916	0,51	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	37522786	37524872	Leu-rich_rpt_typical-subtyp	26.7	-	37522786	37524872	83,88,95	2	2067,2035	0,51	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	37522271	37522785	Leu-rich_rpt_typical-subtyp	24.7	-	37522271	37522785	83,88,95	2	495,463	0,51	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	37522028	37522270	Leu-rich_rpt_typical-subtyp	0.7	-	37522028	37522270	83,88,95	2	223,191	0,51	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	37520012	37522024	Leu-rich_rpt_typical-subtyp	6.0	-	37520012	37522024	83,88,95	2	1993,1961	0,51	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	37516569	37520011	Leu-rich_rpt_typical-subtyp	15.9	-	37516569	37520011	83,88,95	2	3423,3391	0,51	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	37515439	37516568	Leu-rich_rpt_typical-subtyp	20.0	-	37515439	37516568	83,88,95	2	1110,1078	0,51	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	37515015	37515438	Leu-rich_rpt_typical-subtyp	10.1	-	37515015	37515438	83,88,95	2	404,372	0,51	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	37511825	37515014	Leu-rich_rpt_typical-subtyp	2.8	-	37511825	37515014	83,88,95	2	3170,3138	0,51	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
+5	37552881	37558609	LDrepeatLR_classA_rpt	12.137	-	37552881	37558609	83,88,95	2	5617,5727	0,1	PS50068	http://www.expasy.ch/prosite/PS50068
+5	37493055	37506190	GPCR_Rhodpsn_7TM	25.908	-	37493055	37506190	83,88,95	4	13054,-410,-212,13068	0,5190,2530,67	PS50262	http://www.expasy.ch/prosite/PS50262
+5	37558499	37558615	LDrepeatLR_classA_rpt	0.0	-	37558499	37558615	83,88,95	1	116	0	SSF57424	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57424

@@ -1,15 +1,6 @@
-browser position chr10:36176366-36187050
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000043209	ENSDART00000063425	ENSDARP00000063424	36176441	36187049	###
-#	PF01189	IPR001678	201	380	\N	2.1e-31	0.0	YKAGHIILQGKASCLPAFLLNPPVGSHVIDACAAPGNKTSHLAAIMKNKGKLFAFDLDAKRLSTMSTLLLRAGVTCHKLANQDFLKVDPQNSEYKEVKYILLDPSCSGSGMVCLRDELPETQEDGRLQALAAFQLHCLNHALQFPQLERIVYSTCSIHSQENEEVVTACLQRNPGFRLVH
-10	36179725	36184355	Fmu/NOL1/Nop2p_(PF01189)	95.6	+
-#	PR02008	IPR023267	200	214	\N	8.1e-15	25.6	LYKAGHIILQGKASC
-10	36179722	36179857	RCMT_(PR02008)	130.0	+
-#	PR02008	IPR023267	229	239	\N	8.1e-15	67.84	IDACAAPGNKT
-10	36179900	36179932	RCMT_(PR02008)	428.0	+
-#	PR02008	IPR023267	298	310	\N	8.1e-15	50.8	KYILLDPSCSGSG
-10	36181110	36183799	RCMT_(PR02008)	330.0	+
-#	PR02008	IPR023267	347	363	\N	8.1e-15	46.91	LERIVYSTCSIHSQENE
-10	36183908	36183958	RCMT_(PR02008)	393.0	+
-#	PR02008	IPR023267	399	416	\N	8.1e-15	29.34	ASTAKTRTHGFFVAMLER
-10	36184410	36184463	RCMT_(PR02008)	207.0	+
+10	36179725	36184355	Fmu/NOL1/Nop2p	95.6	+	36179725	36184355	83,88,95	5	32,115,178,201,9	0,124,1243,4073,4621	PF01189	http://pfam.sanger.ac.uk/family?acc=PF01189
+10	36179722	36179857	RCMT	130.0	+	36179722	36179857	83,88,95	2	35,8	0,127	PR02008	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02008&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02008
+10	36179900	36179932	RCMT	428.0	+	36179900	36179932	83,88,95	1	32	0	PR02008	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02008&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02008
+10	36181110	36183799	RCMT	330.0	+	36181110	36183799	83,88,95	2	36,1	0,2688	PR02008	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02008&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02008
+10	36183908	36183958	RCMT	393.0	+	36183908	36183958	83,88,95	1	50	0	PR02008	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02008&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02008
+10	36184410	36184463	RCMT	207.0	+	36184410	36184463	83,88,95	1	53	0	PR02008	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02008&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02008

@@ -1,13 +1,5 @@
-browser position chr3:747703-751763
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000090135	ENSDART00000125150	ENSDARP00000104775	747703	751763	###
-#	PR00660	IPR000133	57	77	\N	2.0999999999999997e-35	80.61	WTFSIYLESVAILPQLFMITK
-3	751401	751463	ER_ret_rcpt_(PR00660)	923.0	-
-#	PR00660	IPR000133	79	93	\N	2.0999999999999997e-35	64.76	GEAESITAHYLLFLG
-3	751353	751397	ER_ret_rcpt_(PR00660)	528.0	-
-#	PR00660	IPR000133	93	111	\N	2.0999999999999997e-35	63.53	GLYRALYLANWLWRFHTEG
-3	751299	751355	ER_ret_rcpt_(PR00660)	767.0	-
-#	PR00660	IPR000133	121	136	\N	2.0999999999999997e-35	70.09	GVVQTIFYCDFFYLYF
-3	751224	751271	ER_ret_rcpt_(PR00660)	686.0	-
-#	PF00810	IPR000133	2	106	\N	4e-42	0.0	VVYLLLAYSTVGLIFFRFRNSYDSESDSFRVEFLLVPVAGLSFLENYAFTPLEILWTFSIYLESVAILPQLFMITKTGEAESITAHYLLFLGLYRALYLANWLWR
-3	751314	751760	ER_ret_rcpt_(PF00810)	130.6	-
+3	751401	751463	ER_ret_rcpt	923.0	-	751401	751463	83,88,95	1	62	0	PR00660	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00660&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00660
+3	751353	751397	ER_ret_rcpt	528.0	-	751353	751397	83,88,95	1	44	0	PR00660	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00660&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00660
+3	751299	751355	ER_ret_rcpt	767.0	-	751299	751355	83,88,95	1	56	0	PR00660	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00660&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00660
+3	751224	751271	ER_ret_rcpt	686.0	-	751224	751271	83,88,95	1	47	0	PR00660	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00660&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00660
+3	751314	751760	ER_ret_rcpt	130.6	-	751314	751760	83,88,95	2	288,291	0,155	PF00810	http://pfam.sanger.ac.uk/family?acc=PF00810

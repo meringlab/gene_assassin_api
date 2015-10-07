@@ -1,17 +1,7 @@
-browser position chr20:48367977-48386887
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000012667	ENSDART00000132105	ENSDARP00000117791	48367977	48386887	###
-#	PF03299	IPR013854	215	419	\N	4.699999999999999e-102	0.0	NEVFCSVPGRLSLLSSTSKYKVTVGEVQRRLSPPECLNASLLGGVLRRAKSKNGGRSLREKLEKIGLNLPAGRRKAANVTLLTSLVEGEAVHLARDFGYICETEFPTKAVSEYLNRQHTDPNELHSRKNMLLATKQLCKEFTDLLAQDRTPLGNSRPSPILEPGIQSCLSHFSFITHGFGSPAICAALTALQNYLTEALKGLDKM
-20	48369650	48380682	TF_AP2_C_(PF03299)	326.2	-
-#	PR01748	IPR013854	256	270	\N	2.3e-27	98.33	LGGVLRRAKSKNGGR
-20	48380062	48380559	TF_AP2_C_(PR01748)	741.0	-
-#	PR01748	IPR013854	271	286	\N	2.3e-27	91.25	SLREKLEKIGLNLPAG
-20	48380014	48380061	TF_AP2_C_(PR01748)	729.0	-
-#	PR01748	IPR013854	287	301	\N	2.3e-27	97.67	RRKAANVTLLTSLVE
-20	48379969	48380013	TF_AP2_C_(PR01748)	661.0	-
-#	PR01750	IPR008122	21	39	\N	4.3e-17	100.0	GVPSHSSRLSQLGSVSQGP
-20	48383797	48383853	TF_AP2_beta_(PR01750)	950.0	-
-#	PR01750	IPR008122	154	166	\N	4.3e-17	58.97	DGLSLHGLAHGMD
-20	48383416	48383454	TF_AP2_beta_(PR01750)	353.0	-
-#	PR01750	IPR008122	204	216	\N	4.3e-17	64.1	DGLIGGISVNVNE
-20	48380677	48380715	TF_AP2_beta_(PR01750)	470.0	-
+20	48369650	48380682	TF_AP2_C	326.2	-	48369650	48380682	83,88,95	4	10890,-118,-141,10822	0,10436,9781,210	PF03299	http://pfam.sanger.ac.uk/family?acc=PF03299
+20	48380062	48380559	TF_AP2_C	741.0	-	48380062	48380559	83,88,95	2	478,473	0,24	PR01748	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01748&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01748
+20	48380014	48380061	TF_AP2_C	729.0	-	48380014	48380061	83,88,95	1	47	0	PR01748	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01748&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01748
+20	48379969	48380013	TF_AP2_C	661.0	-	48379969	48380013	83,88,95	1	44	0	PR01748	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01748&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01748
+20	48383797	48383853	TF_AP2_beta	950.0	-	48383797	48383853	83,88,95	1	56	0	PR01750	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01750&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01750
+20	48383416	48383454	TF_AP2_beta	353.0	-	48383416	48383454	83,88,95	1	38	0	PR01750	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01750&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01750
+20	48380677	48380715	TF_AP2_beta	470.0	-	48380677	48380715	83,88,95	1	38	0	PR01750	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01750&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01750

@@ -1,15 +1,6 @@
-browser position chr1:21421850-21426118
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000026871	ENSDART00000036797	ENSDARP00000034536	21421851	21426118	###
-#	PF01088	IPR001578	2	203	\N	4.499999999999999e-73	0.0	EWKPMEINPEMLNKVLSKLGVGSKWRFVDVLGLEDESLSGVPSPCCAMMLLFPLTQQHEDFRSKQSVGDCKDVYFLKQTVVNSCGTVGLVHAVANNQDSIDFDNNSALKKFLEATSGMSPAERAKELEQNKAIQETHDAVADEGQCRPEADKVNFHFITFVNVNGRLYELDGRIDGPVSHGPTKPDSFVMDAARVCREFMER
-1	21422270	21426054	Peptidase_C12_(PF01088)	231.3	-
-#	PR00707	IPR001578	5	22	\N	3.6999999999999995e-33	62.7	PMEINPEMLNKVLSKLGV
-1	21425544	21426045	Peptidase_C12_(PR00707)	598.0	-
-#	PR00707	IPR001578	42	54	\N	3.6999999999999995e-33	60.44	VPSPCCAMMLLFP
-1	21425448	21425486	Peptidase_C12_(PR00707)	460.0	-
-#	PR00707	IPR001578	79	96	\N	3.6999999999999995e-33	65.08	QTVVNSCGTVGLVHAVAN
-1	21424289	21424342	Peptidase_C12_(PR00707)	704.0	-
-#	PR00707	IPR001578	152	163	\N	3.6999999999999995e-33	55.95	DKVNFHFITFVN
-1	21422676	21422711	Peptidase_C12_(PR00707)	362.0	-
-#	PR00707	IPR001578	168	178	\N	3.6999999999999995e-33	68.83	LYELDGRIDGP
-1	21422525	21422663	Peptidase_C12_(PR00707)	382.0	-
+1	21422270	21426054	Peptidase_C12	231.3	-	21422270	21426054	83,88,95	9	3755,-11,-128,-135,-85,-47,-69,-58,3749	0,3644,3294,2132,933,591,450,274,35	PF01088	http://pfam.sanger.ac.uk/family?acc=PF01088
+1	21425544	21426045	Peptidase_C12	598.0	-	21425544	21426045	83,88,95	3	481,-11,481	0,370,20	PR00707	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00707&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00707
+1	21425448	21425486	Peptidase_C12	460.0	-	21425448	21425486	83,88,95	1	38	0	PR00707	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00707&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00707
+1	21424289	21424342	Peptidase_C12	704.0	-	21424289	21424342	83,88,95	1	53	0	PR00707	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00707&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00707
+1	21422676	21422711	Peptidase_C12	362.0	-	21422676	21422711	83,88,95	1	35	0	PR00707	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00707&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00707
+1	21422525	21422663	Peptidase_C12	382.0	-	21422525	21422663	83,88,95	2	126,119	0,19	PR00707	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00707&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00707

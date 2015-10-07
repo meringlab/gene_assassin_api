@@ -1,23 +1,10 @@
-browser position chr15:30605541-30606527
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000090892	ENSDART00000127284	ENSDARP00000105837	30605547	30606527	###
-#	PR00245	IPR000725	131	143	\N	1.1e-11	43.22	PLRYNSIMTPSRI
-15	30605937	30605975	Olfact_rcpt_(PR00245)	264.0	+
-#	PR00245	IPR000725	177	193	\N	1.1e-11	30.17	NVYCDNPSLVLLSCGGD
-15	30606075	30606125	Olfact_rcpt_(PR00245)	289.0	+
-#	PR00245	IPR000725	94	105	\N	1.1e-11	27.73	VYYPTCVLQAFL
-15	30605826	30605861	Olfact_rcpt_(PR00245)	211.0	+
-#	PS50262	IPR017452	43	293	\N	0.0	0.0	CNTTILGLIISQKSLHKPMFYILFSLPLIDLIGITAGLPRVLVDIVTETNDVYYPTCVLQAFLIHLYGGGTLFLLAAMSLDRYIAICNPLRYNSIMTPSRIFGLIAFAWGLDFAVITVLFSLQARLVKCKSFITNVYCDNPSLVLLSCGGDLSVNNIYGLFLTAFIQITSVFIQMFSYGCIVITCVKQTHADSRVKALNTCVAQFTTFILFEMVTAVAIISYRIPDFPPTAQRVCGLMIYAVLPVVNPVIY
-15	30605673	30606425	GPCR_Rhodpsn_7TM_(PS50262)	23.561	+
-#	PR00237	IPR000276	275	301	\N	4.7e-05	21.06	RVCGLMIYAVLPVVNPVIYGLKMKDIR
-15	30606369	30606449	GPCR_Rhodpsn_(PR00237)	159.0	+
-#	PR00237	IPR000276	61	82	\N	4.7e-05	22.73	MFYILFSLPLIDLIGITAGLPR
-15	30605727	30605792	GPCR_Rhodpsn_(PR00237)	101.0	+
-#	PR00237	IPR000276	106	128	\N	4.7e-05	31.43	IHLYGGGTLFLLAAMSLDRYIAI
-15	30605862	30605930	GPCR_Rhodpsn_(PR00237)	290.0	+
-#	PR00245	IPR000725	286	297	\N	1.1e-11	49.51	PVVNPVIYGLKM
-15	30606402	30606437	Olfact_rcpt_(PR00245)	360.0	+
-#	PR00245	IPR000725	238	247	\N	1.1e-11	44.73	KALNTCVAQF
-15	30606258	30606287	Olfact_rcpt_(PR00245)	249.0	+
-#	PF00001	IPR000276	44	293	\N	3.2000000000000003e-28	0.0	NTTILGLIISQKSLHKPMFYILFSLPLIDLIGITAGLPRVLVDIVTETNDVYYPTCVLQAFLIHLYGGGTLFLLAAMSLDRYIAICNPLRYNSIMTPSRIFGLIAFAWGLDFAVITVLFSLQARLVKCKSFITNVYCDNPSLVLLSCGGDLSVNNIYGLFLTAFIQITSVFIQMFSYGCIVITCVKQTHADSRVKALNTCVAQFTTFILFEMVTAVAIISYRIPDFPPTAQRVCGLMIYAVLPVVNPVIY
-15	30605676	30606425	GPCR_Rhodpsn_(PF00001)	84.9	+
+15	30605937	30605975	Olfact_rcpt	264.0	+	30605937	30605975	83,88,95	1	38	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	30606075	30606125	Olfact_rcpt	289.0	+	30606075	30606125	83,88,95	1	50	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	30605826	30605861	Olfact_rcpt	211.0	+	30605826	30605861	83,88,95	1	35	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	30605673	30606425	GPCR_Rhodpsn_7TM	23.561	+	30605673	30606425	83,88,95	1	752	0	PS50262	http://www.expasy.ch/prosite/PS50262
+15	30606369	30606449	GPCR_Rhodpsn	159.0	+	30606369	30606449	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	30605727	30605792	GPCR_Rhodpsn	101.0	+	30605727	30605792	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	30605862	30605930	GPCR_Rhodpsn	290.0	+	30605862	30605930	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
+15	30606402	30606437	Olfact_rcpt	360.0	+	30606402	30606437	83,88,95	1	35	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	30606258	30606287	Olfact_rcpt	249.0	+	30606258	30606287	83,88,95	1	29	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
+15	30605676	30606425	GPCR_Rhodpsn	84.9	+	30605676	30606425	83,88,95	1	749	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001

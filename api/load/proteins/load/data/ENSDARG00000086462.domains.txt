@@ -1,23 +1,10 @@
-browser position chr4:59603883-59639641
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000086462	ENSDART00000123045	ENSDARP00000110554	59603883	59639641	###
-#	PR01778	IPR008356	130	144	\N	1.1e-21	90.56	LQERRGSNVSLVLDM
-4	59615307	59620462	Tyr_Pase_KIM-con_(PR01778)	654.0	-
-#	PR01778	IPR008356	152	165	\N	1.1e-21	33.93	PLNCGVVTPRERAT
-4	59615244	59615285	Tyr_Pase_KIM-con_(PR01778)	169.0	-
-#	PR01778	IPR008356	168	176	\N	1.1e-21	84.26	YLQSASRVL
-4	59615211	59615237	Tyr_Pase_KIM-con_(PR01778)	350.0	-
-#	PR01778	IPR008356	222	232	\N	1.1e-21	83.33	ILPNPHSRVIL
-4	59605411	59610829	Tyr_Pase_KIM-con_(PR01778)	431.0	-
-#	PR01778	IPR008356	249	260	\N	1.1e-21	69.44	YIRGYLGVERAF
-4	59604889	59605362	Tyr_Pase_KIM-con_(PR01778)	452.0	-
-#	PR00700	IPR000242	243	250	\N	8.399999999999999e-09	70.51	SYINANYI
-4	59605357	59605380	Tyr_Pase_rcpt/non-rcpt_(PR00700)	318.0	-
-#	PR00700	IPR000242	260	280	\N	8.399999999999999e-09	63.14	FIATQGPMINTVNDFWQMVWQ
-4	59604829	59604891	Tyr_Pase_rcpt/non-rcpt_(PR00700)	803.0	-
-#	PF00102	IPR000242	215	334	\N	1.4e-41	0.0	SKNRYKTILPNPHSRVILKTKNSNDPLSSYINANYIRGYLGVERAFIATQGPMINTVNDFWQMVWQEDCPVIVMITKLKEKNEKCVLYWPEKRGIYGKVEVSVNNVKECDHYIIRTLNL
-4	59603883	59610850	Tyr_Pase_rcpt/non-rcpt_(PF00102)	128.7	-
-#	SM00194	IPR000242	190	334	\N	3.5e-09	0.0	VLHAEFAEIPMNFVDQKELDVPNHGSKNRYKTILPNPHSRVILKTKNSNDPLSSYINANYIRGYLGVERAFIATQGPMINTVNDFWQMVWQEDCPVIVMITKLKEKNEKCVLYWPEKRGIYGKVEVSVNNVKECDHYIIRTLNL
-4	59603883	59615171	Tyr_Pase_rcpt/non-rcpt_(SM00194)	44.9	-
-#	PS50055	IPR000242	191	334	\N	0.0	0.0	LHAEFAEIPMNFVDQKELDVPNHGSKNRYKTILPNPHSRVILKTKNSNDPLSSYINANYIRGYLGVERAFIATQGPMINTVNDFWQMVWQEDCPVIVMITKLKEKNEKCVLYWPEKRGIYGKVEVSVNNVKECDHYIIRTLNL
-4	59603883	59615168	Tyr_Pase_rcpt/non-rcpt_(PS50055)	27.706999999999997	-
+4	59615307	59620462	Tyr_Pase_KIM-con	654.0	-	59615307	59620462	83,88,95	2	5145,5122	0,33	PR01778	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01778&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01778
+4	59615244	59615285	Tyr_Pase_KIM-con	169.0	-	59615244	59615285	83,88,95	1	41	0	PR01778	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01778&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01778
+4	59615211	59615237	Tyr_Pase_KIM-con	350.0	-	59615211	59615237	83,88,95	1	26	0	PR01778	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01778&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01778
+4	59605411	59610829	Tyr_Pase_KIM-con	431.0	-	59605411	59610829	83,88,95	2	5409,5396	0,22	PR01778	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01778&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01778
+4	59604889	59605362	Tyr_Pase_KIM-con	452.0	-	59604889	59605362	83,88,95	2	465,447	0,26	PR01778	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01778&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01778
+4	59605357	59605380	Tyr_Pase_rcpt/non-rcpt	318.0	-	59605357	59605380	83,88,95	1	23	0	PR00700	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00700&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00700
+4	59604829	59604891	Tyr_Pase_rcpt/non-rcpt	803.0	-	59604829	59604891	83,88,95	1	62	0	PR00700	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00700&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00700
+4	59603883	59610850	Tyr_Pase_rcpt/non-rcpt	128.7	-	59603883	59610850	83,88,95	4	6937,-79,-137,6857	0,1550,1032,110	PF00102	http://pfam.sanger.ac.uk/family?acc=PF00102
+4	59603883	59615171	Tyr_Pase_rcpt/non-rcpt	44.9	-	59603883	59615171	83,88,95	5	11268,-84,-79,-137,11178	0,7021,1550,1032,110	SM00194	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00194
+4	59603883	59615168	Tyr_Pase_rcpt/non-rcpt	27.706999999999997	-	59603883	59615168	83,88,95	5	11268,-84,-79,-137,11175	0,7021,1550,1032,110	PS50055	http://www.expasy.ch/prosite/PS50055

@@ -1,33 +1,15 @@
-browser position chr18:47106512-47122032
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000091232	ENSDART00000058987	ENSDARP00000058986	47106512	47122032	###
-#	SSF81296	IPR014756	148	349	\N	2.7999999999999994e-67	0.0	GLFINIFWCGIVMTKISLPKKRAKTITFSESAVICPKKGTLCLQIRVANLRKTLMIGSQIYGKLLRTTVTGGETVILDQVSIDFMVDAGKDNLFFVCPLTLYHIIDKSSPFFNMAVDTMHQQDFELVVFLDGMAESTSSACQVRTSYIPQEIMWGYDFLPIISRSKEGRYRVDFSNFAKVVPVPTAHCTHCYHNEPGNHLHL
-18	47107109	47107714	Ig_E-set_(SSF81296)	0.0	-
-#	PF01007	IPR016449	24	342	\N	3.899999999999999e-127	0.0	VTKDGRCNIEFGNVMHRNRFAYVLDFWTTFVETRWRFILLYFVASFTLSWFIFGLIWYWLARNNGDLLWQNPPPGHKPCAFSVNDMTYAFLFSLETQSTIGFGNIYVTDQCPGGVALIVIQTIIGLFINIFWCGIVMTKISLPKKRAKTITFSESAVICPKKGTLCLQIRVANLRKTLMIGSQIYGKLLRTTVTGGETVILDQVSIDFMVDAGKDNLFFVCPLTLYHIIDKSSPFFNMAVDTMHQQDFELVVFLDGMAESTSSACQVRTSYIPQEIMWGYDFLPIISRSKEGRYRVDFSNFAKVVPVPTAHCTHCYHNE
-18	47107130	47108086	K_chnl_inward-rec_Kir_(PF01007)	409.9	-
-#	PR01321	IPR003268	334	351	\N	3.9e-22	33.33	HCTHCYHNEPGNHLHLKG
-18	47107103	47107156	K_chnl_inward-rec_Kir1.1_(PR01321)	357.0	-
-#	PR01321	IPR003268	303	316	\N	3.9e-22	57.14	YDFLPIISRSKEGR
-18	47107208	47107249	K_chnl_inward-rec_Kir1.1_(PR01321)	503.0	-
-#	PR01321	IPR003268	257	270	\N	3.9e-22	64.29	PFFNMAVDTMHQQD
-18	47107346	47107387	K_chnl_inward-rec_Kir1.1_(PR01321)	524.0	-
-#	PR01321	IPR003268	221	236	\N	3.9e-22	68.75	TVILDQVSIDFMVDAG
-18	47107448	47107495	K_chnl_inward-rec_Kir1.1_(PR01321)	610.0	-
-#	PR01321	IPR003268	132	143	\N	3.9e-22	25.0	DQCPGGVALIVI
-18	47107727	47107762	K_chnl_inward-rec_Kir1.1_(PR01321)	230.0	-
-#	PR01321	IPR003268	1	9	\N	3.9e-22	24.56	MTRSLREWF
-18	47108129	47108155	K_chnl_inward-rec_Kir1.1_(PR01321)	279.0	-
-#	PR01320	IPR016449	317	331	\N	4.2999999999999994e-48	43.22	YRVDFSNFAKVVPVP
-18	47107163	47107207	K_chnl_inward-rec_Kir_(PR01320)	337.0	-
-#	PR01320	IPR016449	292	309	\N	4.2999999999999994e-48	48.08	TSYIPQEIMWGYDFLPII
-18	47107229	47107282	K_chnl_inward-rec_Kir_(PR01320)	597.0	-
-#	PR01320	IPR016449	271	291	\N	4.2999999999999994e-48	53.12	FELVVFLDGMAESTSSACQVR
-18	47107283	47107345	K_chnl_inward-rec_Kir_(PR01320)	586.0	-
-#	PR01320	IPR016449	240	258	\N	4.2999999999999994e-48	50.91	LFFVCPLTLYHIIDKSSPF
-18	47107382	47107438	K_chnl_inward-rec_Kir_(PR01320)	551.0	-
-#	PR01320	IPR016449	112	134	\N	4.2999999999999994e-48	63.49	AFLFSLETQSTIGFGNIYVTDQC
-18	47107754	47107822	K_chnl_inward-rec_Kir_(PR01320)	792.0	-
-#	PR01320	IPR016449	58	84	\N	4.2999999999999994e-48	44.51	WRFILLYFVASFTLSWFIFGLIWYWLA
-18	47107904	47107984	K_chnl_inward-rec_Kir_(PR01320)	780.0	-
-#	PIRSF005465	IPR016449	5	370	\N	5.299999999999997e-211	0.0	LREWFKEYMSERRGRKNRLVTKDGRCNIEFGNVMHRNRFAYVLDFWTTFVETRWRFILLYFVASFTLSWFIFGLIWYWLARNNGDLLWQNPPPGHKPCAFSVNDMTYAFLFSLETQSTIGFGNIYVTDQCPGGVALIVIQTIIGLFINIFWCGIVMTKISLPKKRAKTITFSESAVICPKKGTLCLQIRVANLRKTLMIGSQIYGKLLRTTVTGGETVILDQVSIDFMVDAGKDNLFFVCPLTLYHIIDKSSPFFNMAVDTMHQQDFELVVFLDGMAESTSSACQVRTSYIPQEIMWGYDFLPIISRSKEGRYRVDFSNFAKVVPVPTAHCTHCYHNEPGNHLHLKGIDNKGFEVIDIEPPNGTKM
-18	47107046	47108143	K_chnl_inward-rec_Kir_(PIRSF005465)	710.0	-
+18	47107109	47107714	Ig_E-set	0.0	-	47107109	47107714	83,88,95	1	605	0	SSF81296	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81296
+18	47107130	47108086	K_chnl_inward-rec_Kir	409.9	-	47107130	47108086	83,88,95	1	956	0	PF01007	http://pfam.sanger.ac.uk/family?acc=PF01007
+18	47107103	47107156	K_chnl_inward-rec_Kir1.1	357.0	-	47107103	47107156	83,88,95	1	53	0	PR01321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01321
+18	47107208	47107249	K_chnl_inward-rec_Kir1.1	503.0	-	47107208	47107249	83,88,95	1	41	0	PR01321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01321
+18	47107346	47107387	K_chnl_inward-rec_Kir1.1	524.0	-	47107346	47107387	83,88,95	1	41	0	PR01321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01321
+18	47107448	47107495	K_chnl_inward-rec_Kir1.1	610.0	-	47107448	47107495	83,88,95	1	47	0	PR01321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01321
+18	47107727	47107762	K_chnl_inward-rec_Kir1.1	230.0	-	47107727	47107762	83,88,95	1	35	0	PR01321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01321
+18	47108129	47108155	K_chnl_inward-rec_Kir1.1	279.0	-	47108129	47108155	83,88,95	1	26	0	PR01321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01321
+18	47107163	47107207	K_chnl_inward-rec_Kir	337.0	-	47107163	47107207	83,88,95	1	44	0	PR01320	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01320&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01320
+18	47107229	47107282	K_chnl_inward-rec_Kir	597.0	-	47107229	47107282	83,88,95	1	53	0	PR01320	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01320&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01320
+18	47107283	47107345	K_chnl_inward-rec_Kir	586.0	-	47107283	47107345	83,88,95	1	62	0	PR01320	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01320&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01320
+18	47107382	47107438	K_chnl_inward-rec_Kir	551.0	-	47107382	47107438	83,88,95	1	56	0	PR01320	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01320&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01320
+18	47107754	47107822	K_chnl_inward-rec_Kir	792.0	-	47107754	47107822	83,88,95	1	68	0	PR01320	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01320&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01320
+18	47107904	47107984	K_chnl_inward-rec_Kir	780.0	-	47107904	47107984	83,88,95	1	80	0	PR01320	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01320&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01320
+18	47107046	47108143	K_chnl_inward-rec_Kir	710.0	-	47107046	47108143	83,88,95	1	1097	0	PIRSF005465	None

@@ -1,19 +1,8 @@
-browser position chr23:4971682-4981357
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000041421	ENSDART00000140861	ENSDARP00000120241	4971682	4981357	###
-#	SM00563	IPR002123	63	187	\N	2.0999999999999998e-27	0.0	LITVCNHQSCMDDPHIWGVLKFRQLWNLNKMRWTPTASDICFTREFHSSFFSRGKCVPVVRGDGVYQKGMDFLLERLNQGEWIHIFPEGRVNMSGEFMRIKWGIGRLIAECSLHPIILPMWHIGM
-23	4973032	4979918	Plipid/glycerol_acylTrfase_(SM00563)	107.1	-
-#	PR00979	IPR000872	63	82	\N	1.1999999999999998e-44	66.67	LITVCNHQSCMDDPHIWGVL
-23	4979710	4979918	Tafazzin_(PR00979)	785.0	-
-#	PR00979	IPR000872	94	105	\N	1.1999999999999998e-44	63.89	RWTPTASDICFT
-23	4979557	4979676	Tafazzin_(PR00979)	446.0	-
-#	PR00979	IPR000872	108	123	\N	1.1999999999999998e-44	58.33	FHSSFFSRGKCVPVVR
-23	4979503	4979550	Tafazzin_(PR00979)	504.0	-
-#	PR00979	IPR000872	140	154	\N	1.1999999999999998e-44	57.78	NQGEWIHIFPEGRVN
-23	4974364	4974584	Tafazzin_(PR00979)	598.0	-
-#	PR00979	IPR000872	162	183	\N	1.1999999999999998e-44	60.61	IKWGIGRLIAECSLHPIILPMW
-23	4974185	4974342	Tafazzin_(PR00979)	816.0	-
-#	PR00979	IPR000872	200	213	\N	1.1999999999999998e-44	52.38	RVGQRITVLVGKPF
-23	4972872	4972995	Tafazzin_(PR00979)	417.0	-
-#	PF01553	IPR002123	56	184	\N	8.8e-40	0.0	ERPQDTPLITVCNHQSCMDDPHIWGVLKFRQLWNLNKMRWTPTASDICFTREFHSSFFSRGKCVPVVRGDGVYQKGMDFLLERLNQGEWIHIFPEGRVNMSGEFMRIKWGIGRLIAECSLHPIILPMWH
-23	4974182	4979939	Plipid/glycerol_acylTrfase_(PF01553)	121.8	-
+23	4973032	4979918	Plipid/glycerol_acylTrfase	107.1	-	4973032	4979918	83,88,95	7	6835,-45,-85,-80,-41,-62,6882	0,6685,6555,1599,1342,1208,4	SM00563	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00563
+23	4979710	4979918	Tafazzin	785.0	-	4979710	4979918	83,88,95	2	157,201	0,7	PR00979	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00979&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00979
+23	4979557	4979676	Tafazzin	446.0	-	4979557	4979676	83,88,95	2	115,89	0,30	PR00979	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00979&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00979
+23	4979503	4979550	Tafazzin	504.0	-	4979503	4979550	83,88,95	1	47	0	PR00979	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00979&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00979
+23	4974364	4974584	Tafazzin	598.0	-	4974364	4974584	83,88,95	2	187,210	0,10	PR00979	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00979&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00979
+23	4974185	4974342	Tafazzin	816.0	-	4974185	4974342	83,88,95	2	148,102	0,55	PR00979	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00979&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00979
+23	4972872	4972995	Tafazzin	417.0	-	4972872	4972995	83,88,95	2	112,94	0,29	PR00979	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00979&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00979
+23	4974182	4979939	Plipid/glycerol_acylTrfase	121.8	-	4974182	4979939	83,88,95	6	5685,-45,-85,-80,-41,5699	0,5535,5405,449,192,58	PF01553	http://pfam.sanger.ac.uk/family?acc=PF01553

@@ -1,15 +1,6 @@
-browser position chr4:15061626-15066607
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000032319	ENSDART00000041070	ENSDARP00000041069	15061626	15066510	###
-#	PR00412	IPR000639	318	340	\N	1.1e-07	22.13	DEHVSHYPQLEDPTGFFNAYLSF
-4	15061908	15061976	Epox_hydrolase-like_(PR00412)	156.0	-
-#	PF06342	IPR010463	71	185	\N	1.1e-11	0.0	SVGVVGSSDVLVLLHGFPTSSYDWYKIWDSLTQRFNRVIALDFLGFGFSDKPRPHRYSIFEQASVVEALVAHLGLSEQRINILSHDYGDTVALELLYRSDHNRSGHIIVNSLCLS
-4	15065301	15065899	DUF1057_(PF06342)	31.4	-
-#	PF00561	IPR000073	107	202	\N	1.9e-10	0.0	RVIALDFLGFGFSDKPRPHRYSIFEQASVVEALVAHLGLSEQRINILSHDYGDTVALELLYRSDHNRSGHIIVNSLCLSNGGIFPETHHPRFLQKV
-4	15065068	15065714	AB_hydrolase_1_(PF00561)	28.0	-
-#	PR00412	IPR000639	152	165	\N	1.1e-07	27.27	ILSHDYGDTVALEL
-4	15065452	15065493	Epox_hydrolase-like_(PR00412)	228.0	-
-#	PR00412	IPR000639	85	103	\N	1.1e-07	42.11	HGFPTSSYDWYKIWDSLTQ
-4	15065724	15065857	Epox_hydrolase-like_(PR00412)	384.0	-
-#	PR00412	IPR000639	105	120	\N	1.1e-07	39.49	FNRVIALDFLGFGFSD
-4	15065673	15065720	Epox_hydrolase-like_(PR00412)	264.0	-
+4	15061908	15061976	Epox_hydrolase-like	156.0	-	15061908	15061976	83,88,95	1	68	0	PR00412	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00412&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00412
+4	15065301	15065899	DUF1057	31.4	-	15065301	15065899	83,88,95	4	521,-77,-136,547	0,443,279,51	PF06342	http://pfam.sanger.ac.uk/family?acc=PF06342
+4	15065068	15065714	AB_hydrolase_1	28.0	-	15065068	15065714	83,88,95	5	599,-136,-58,-40,644	0,512,284,117,2	PF00561	http://pfam.sanger.ac.uk/family?acc=PF00561
+4	15065452	15065493	Epox_hydrolase-like	228.0	-	15065452	15065493	83,88,95	1	41	0	PR00412	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00412&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00412
+4	15065724	15065857	Epox_hydrolase-like	384.0	-	15065724	15065857	83,88,95	2	98,113	0,20	PR00412	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00412&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00412
+4	15065673	15065720	Epox_hydrolase-like	264.0	-	15065673	15065720	83,88,95	1	47	0	PR00412	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00412&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00412

@@ -1,29 +1,13 @@
-browser position chr23:35556318-35589221
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000076486	ENSDART00000082647	ENSDARP00000077082	35556318	35589221	###
-#	PF01451	IPR023485	7	155	\N	1.8999999999999997e-48	0.0	KSVLFVCLGNICRSPIAEAVFRKMATDSGVVDKWVIDSGATSDWNTGSTPDARGLACLRKHGIETDHRARQVTKDDFMSFDYILCMDESNLRDLNKKASSVKNSKAKIELLGSYDPEKQLIIQDPYYGSDKDFETVYEQCARCCKAFLE
-23	35556357	35588464	Ptyr_pPase_SF_(PF01451)	150.3	+
-#	PR00719	IPR000106	9	26	\N	1.2e-40	84.52	VLFVCLGNICRSPIAEAV
-23	35556363	35559054	Tyr_phospatase/Ars_reductase_(PR00719)	815.0	+
-#	PR00719	IPR000106	52	68	\N	1.2e-40	39.5	TGSTPDARGLACLRKHG
-23	35563264	35563314	Tyr_phospatase/Ars_reductase_(PR00719)	373.0	+
-#	PR00719	IPR000106	85	100	\N	1.2e-40	61.16	SFDYILCMDESNLRDL
-23	35570755	35577610	Tyr_phospatase/Ars_reductase_(PR00719)	534.0	+
-#	PR00719	IPR000106	110	123	\N	1.2e-40	55.1	SKAKIELLGSYDPE
-23	35577638	35577679	Tyr_phospatase/Ars_reductase_(PR00719)	379.0	+
-#	PR00719	IPR000106	128	143	\N	1.2e-40	60.71	IQDPYYGSDKDFETVY
-23	35577692	35588428	Tyr_phospatase/Ars_reductase_(PR00719)	543.0	+
-#	PR00720	IPR002115	28	40	\N	2.2999999999999998e-38	47.44	RKMATDSGVVDKW
-23	35559058	35563230	Tyr_Pase_low_mol_wt_mml_(PR00720)	395.0	+
-#	PR00720	IPR002115	71	86	\N	2.2999999999999998e-38	59.38	TDHRARQVTKDDFMSF
-23	35563321	35570760	Tyr_Pase_low_mol_wt_mml_(PR00720)	555.0	+
-#	PR00720	IPR002115	88	108	\N	2.2999999999999998e-38	80.95	YILCMDESNLRDLNKKASSVK
-23	35570764	35577634	Tyr_Pase_low_mol_wt_mml_(PR00720)	930.0	+
-#	PR00720	IPR002115	110	126	\N	2.2999999999999998e-38	87.25	SKAKIELLGSYDPEKQL
-23	35577638	35577688	Tyr_Pase_low_mol_wt_mml_(PR00720)	755.0	+
-#	PR00720	IPR002115	135	156	\N	2.2999999999999998e-38	72.73	SDKDFETVYEQCARCCKAFLEQ
-23	35588402	35588467	Tyr_Pase_low_mol_wt_mml_(PR00720)	994.0	+
-#	SM00226	IPR023485	7	156	\N	1.3999999999999997e-64	0.0	KSVLFVCLGNICRSPIAEAVFRKMATDSGVVDKWVIDSGATSDWNTGSTPDARGLACLRKHGIETDHRARQVTKDDFMSFDYILCMDESNLRDLNKKASSVKNSKAKIELLGSYDPEKQLIIQDPYYGSDKDFETVYEQCARCCKAFLEQ
-23	35556357	35588467	Ptyr_pPase_SF_(SM00226)	230.5	+
-#	SSF52788	IPR023485	2	158	\N	2.5e-47	0.0	AASSGKSVLFVCLGNICRSPIAEAVFRKMATDSGVVDKWVIDSGATSDWNTGSTPDARGLACLRKHGIETDHRARQVTKDDFMSFDYILCMDESNLRDLNKKASSVKNSKAKIELLGSYDPEKQLIIQDPYYGSDKDFETVYEQCARCCKAFLEQHS
-23	35556342	35588473	Ptyr_pPase_SF_(SSF52788)	0.0	+
+23	35556357	35588464	Ptyr_pPase_SF	150.3	+	35556357	35588464	83,88,95	6	24,73,113,61,105,65	0,2663,6871,14377,21247,32042	PF01451	http://pfam.sanger.ac.uk/family?acc=PF01451
+23	35556363	35559054	Tyr_phospatase/Ars_reductase	815.0	+	35556363	35559054	83,88,95	2	18,34	0,2657	PR00719	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00719&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00719
+23	35563264	35563314	Tyr_phospatase/Ars_reductase	373.0	+	35563264	35563314	83,88,95	1	50	0	PR00719	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00719&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00719
+23	35570755	35577610	Tyr_phospatase/Ars_reductase	534.0	+	35570755	35577610	83,88,95	2	40,6	0,6849	PR00719	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00719&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00719
+23	35577638	35577679	Tyr_phospatase/Ars_reductase	379.0	+	35577638	35577679	83,88,95	1	41	0	PR00719	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00719&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00719
+23	35577692	35588428	Tyr_phospatase/Ars_reductase	543.0	+	35577692	35588428	83,88,95	2	17,29	0,10707	PR00719	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00719&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00719
+23	35559058	35563230	Tyr_Pase_low_mol_wt_mml	395.0	+	35559058	35563230	83,88,95	2	35,2	0,4170	PR00720	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00720&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00720
+23	35563321	35570760	Tyr_Pase_low_mol_wt_mml	555.0	+	35563321	35570760	83,88,95	2	20,26	0,7413	PR00720	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00720&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00720
+23	35570764	35577634	Tyr_Pase_low_mol_wt_mml	930.0	+	35570764	35577634	83,88,95	2	31,30	0,6840	PR00720	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00720&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00720
+23	35577638	35577688	Tyr_Pase_low_mol_wt_mml	755.0	+	35577638	35577688	83,88,95	1	50	0	PR00720	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00720&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00720
+23	35588402	35588467	Tyr_Pase_low_mol_wt_mml	994.0	+	35588402	35588467	83,88,95	1	65	0	PR00720	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00720&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00720
+23	35556357	35588467	Ptyr_pPase_SF	230.5	+	35556357	35588467	83,88,95	6	24,73,113,61,105,68	0,2663,6871,14377,21247,32042	SM00226	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00226
+23	35556342	35588473	Ptyr_pPase_SF	0.0	+	35556342	35588473	83,88,95	6	39,73,113,61,105,74	0,2678,6886,14392,21262,32057	SSF52788	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52788

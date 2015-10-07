@@ -1,15 +1,6 @@
-browser position chr13:4749364-4756147
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000077828	ENSDART00000110248	ENSDARP00000098767	4749364	4756147	###
-#	PR01130	IPR002259	48	70	\N	7.400000000000001e-22	28.26	VSGASNIFTGSVFGISGHFPMRI
-13	4755938	4756006	Eqnu_transpt_(PR01130)	309.0	-
-#	PR01130	IPR002259	239	256	\N	7.400000000000001e-22	56.48	LPLLVISRTILVPLFVFC
-13	4749602	4749655	Eqnu_transpt_(PR01130)	543.0	-
-#	PR01130	IPR002259	272	288	\N	7.400000000000001e-22	38.24	DLFPVVFICVLGVSNGY
-13	4749506	4749556	Eqnu_transpt_(PR01130)	387.0	-
-#	PR01130	IPR002259	291	307	\N	7.400000000000001e-22	35.29	TLPMIYGPKVVPRELAE
-13	4749449	4749499	Eqnu_transpt_(PR01130)	197.0	-
-#	PR01130	IPR002259	309	333	\N	7.400000000000001e-22	48.67	AGVIMSFFLTLGLAVGSAFSVGLVH
-13	4749371	4749445	Eqnu_transpt_(PR01130)	539.0	-
-#	PF01733	IPR002259	43	331	\N	1.1e-70	0.0	ASVALVSGASNIFTGSVFGISGHFPMRISQAYISGQAMGGTLSAVSSIVDLAVSGDVTSSALVFFLSAVIFTVVCIIMYLMLPKLEYSRYYMELAALPSTESNGSSDASANSVPPLKPILKKTWVLGFCVFYVFFISIMIFPALSSGIQSMNQDSGNPWSTTYFVPLTSFLLYNVADFSGRQMTAWLQIPGPTSGLLPLLVISRTILVPLFVFCNYQPRYHLHNVFFAHDLFPVVFICVLGVSNGYLGTLPMIYGPKVVPRELAEPAGVIMSFFLTLGLAVGSAFSVGL
-13	4749377	4756021	Eqnu_transpt_(PF01733)	224.5	-
+13	4755938	4756006	Eqnu_transpt	309.0	-	4755938	4756006	83,88,95	1	68	0	PR01130	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01130&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01130
+13	4749602	4749655	Eqnu_transpt	543.0	-	4749602	4749655	83,88,95	1	53	0	PR01130	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01130&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01130
+13	4749506	4749556	Eqnu_transpt	387.0	-	4749506	4749556	83,88,95	1	50	0	PR01130	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01130&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01130
+13	4749449	4749499	Eqnu_transpt	197.0	-	4749449	4749499	83,88,95	1	50	0	PR01130	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01130&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01130
+13	4749371	4749445	Eqnu_transpt	539.0	-	4749371	4749445	83,88,95	1	74	0	PR01130	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01130&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01130
+13	4749377	4756021	Eqnu_transpt	224.5	-	4749377	4756021	83,88,95	3	6544,-162,6042	0,4323,602	PF01733	http://pfam.sanger.ac.uk/family?acc=PF01733

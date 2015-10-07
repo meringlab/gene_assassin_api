@@ -1,23 +1,10 @@
-browser position chr13:31760311-31767967
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000003444	ENSDART00000005670	ENSDARP00000004163	31760311	31767967	###
-#	PR00081	IPR002347	51	68	\N	3.9e-22	40.24	VVWITGASSGIGEELSLQ
-13	31764170	31764223	Glc/ribitol_DH_(PR00081)	333.0	-
-#	PR00081	IPR002347	129	140	\N	3.9e-22	49.53	GEIDVLINNGGR
-13	31763364	31763791	Glc/ribitol_DH_(PR00081)	335.0	-
-#	PR00081	IPR002347	176	192	\N	3.9e-22	32.67	MIRRGTGIIATVSSVAG
-13	31763208	31763258	Glc/ribitol_DH_(PR00081)	209.0	-
-#	PR00081	IPR002347	202	221	\N	3.9e-22	36.07	YAASKHALQGFFNSLRTELS
-13	31763011	31763180	Glc/ribitol_DH_(PR00081)	294.0	-
-#	PR00081	IPR002347	224	241	\N	3.9e-22	23.07	PNILISNICPGPVISSIV
-13	31762951	31763004	Glc/ribitol_DH_(PR00081)	207.0	-
-#	PR00080	IPR002198	129	140	\N	2.9e-09	49.23	GEIDVLINNGGR
-13	31763364	31763791	DH_sc/Rdtase_SDR_(PR00080)	307.0	-
-#	PR00080	IPR002198	182	190	\N	2.9e-09	46.85	GIIATVSSV
-13	31763214	31763240	DH_sc/Rdtase_SDR_(PR00080)	201.0	-
-#	PR00080	IPR002198	202	221	\N	2.9e-09	37.56	YAASKHALQGFFNSLRTELS
-13	31763011	31763180	DH_sc/Rdtase_SDR_(PR00080)	301.0	-
-#	PF00106	IPR002198	50	220	\N	1.3e-31	0.0	KVVWITGASSGIGEELSLQLAAIGARLVLSARRENELERVKRLCLERSSLKAEDILVLPLDLMDRASHPEKTTAALEHFGEIDVLINNGGRSQRALCVDADVDVYQALMELNYLGTVSITKQVLPHMIRRGTGIIATVSSVAGFVGAPLATGYAASKHALQGFFNSLRTEL
-13	31763014	31764226	DH_sc/Rdtase_SDR_(PF00106)	97.1	-
-#	PF08659	IPR013968	51	218	\N	9.5e-16	0.0	VVWITGASSGIGEELSLQLAAIGARLVLSARRENELERVKRLCLERSSLKAEDILVLPLDLMDRASHPEKTTAALEHFGEIDVLINNGGRSQRALCVDADVDVYQALMELNYLGTVSITKQVLPHMIRRGTGIIATVSSVAGFVGAPLATGYAASKHALQGFFNSLRT
-13	31763020	31764223	PKS_KR_(PF08659)	45.3	-
+13	31764170	31764223	Glc/ribitol_DH	333.0	-	31764170	31764223	83,88,95	1	53	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+13	31763364	31763791	Glc/ribitol_DH	335.0	-	31763364	31763791	83,88,95	2	422,398	0,29	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+13	31763208	31763258	Glc/ribitol_DH	209.0	-	31763208	31763258	83,88,95	1	50	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+13	31763011	31763180	Glc/ribitol_DH	294.0	-	31763011	31763180	83,88,95	2	143,137	0,32	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+13	31762951	31763004	Glc/ribitol_DH	207.0	-	31762951	31763004	83,88,95	1	53	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
+13	31763364	31763791	DH_sc/Rdtase_SDR	307.0	-	31763364	31763791	83,88,95	2	422,398	0,29	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+13	31763214	31763240	DH_sc/Rdtase_SDR	201.0	-	31763214	31763240	83,88,95	1	26	0	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+13	31763011	31763180	DH_sc/Rdtase_SDR	301.0	-	31763011	31763180	83,88,95	2	143,137	0,32	PR00080	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00080&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00080
+13	31763014	31764226	DH_sc/Rdtase_SDR	97.1	-	31763014	31764226	83,88,95	4	1077,-106,-239,1183	0,878,379,29	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106
+13	31763020	31764223	PKS_KR	45.3	-	31763020	31764223	83,88,95	4	1071,-106,-239,1180	0,872,373,23	PF08659	http://pfam.sanger.ac.uk/family?acc=PF08659

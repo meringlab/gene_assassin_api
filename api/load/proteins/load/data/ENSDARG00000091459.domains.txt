@@ -1,29 +1,13 @@
-browser position chr13:11896005-11908892
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000091459	ENSDART00000130007	ENSDARP00000110973	11896005	11908892	###
-#	PF02932	IPR006029	167	214	\N	9.100000000000001e-11	0.0	SKSATPEPSKAQPVAKETKKTFNSVSKIDRMSRIIFPVLFGSFNLVYW
-13	11904842	11904985	Neurotrans-gated_channel_TM_(PF02932)	28.4	+
-#	PF02932	IPR006029	37	178	\N	3.2999999999999996e-42	0.0	TYLPCIMTVILSQVSFWLNRESVPARTVFGVTTVLTMTTLSISARNSLPKVAYATAMDWFIAVCYAFVFSALIEFATVNYFTKRGWAWDGKSIVNDKKKETSVMKKNNAYAVAVANYAPHIAKDSALPTVSKSATPEPSKAQ
-13	11896190	11904877	Neurotrans-gated_channel_TM_(PF02932)	131.3	+
-#	PR00253	IPR006028	33	53	\N	7.8e-43	62.03	FVIQTYLPCIMTVILSQVSFW
-13	11896178	11896240	GABAA_rcpt_(PR00253)	741.0	+
-#	PR00253	IPR006028	59	80	\N	7.8e-43	63.56	VPARTVFGVTTVLTMTTLSISA
-13	11896256	11899345	GABAA_rcpt_(PR00253)	650.0	+
-#	PR00253	IPR006028	93	114	\N	7.8e-43	55.75	MDWFIAVCYAFVFSALIEFATV
-13	11899382	11899447	GABAA_rcpt_(PR00253)	674.0	+
-#	PR00253	IPR006028	197	217	\N	7.8e-43	55.96	MSRIIFPVLFGSFNLVYWATY
-13	11904932	11904994	GABAA_rcpt_(PR00253)	678.0	+
-#	PR01079	IPR001390	86	99	\N	2.5e-16	96.43	KVAYATAMDWFIAV
-13	11899361	11899402	GABAAa_rcpt_(PR01079)	713.0	+
-#	PR01079	IPR001390	187	199	\N	2.5e-16	70.28	TFNSVSKIDRMSR
-13	11904902	11904940	GABAAa_rcpt_(PR01079)	458.0	+
-#	PR01079	IPR001390	212	223	\N	2.5e-16	72.73	VYWATYLNREPV
-13	11904977	11905012	GABAAa_rcpt_(PR01079)	534.0	+
-#	PR01615	IPR005432	126	141	\N	9.6e-08	31.25	GKSIVNDKKKETSVMK
-13	11899481	11904766	GABBAa2_rcpt_(PR01615)	170.0	+
-#	PR01615	IPR005432	145	159	\N	9.6e-08	80.0	AYAVAVANYAPHIAK
-13	11904776	11904820	GABBAa2_rcpt_(PR01615)	640.0	+
-#	PR01615	IPR005432	163	187	\N	9.6e-08	36.0	LPTVSKSATPEPSKAQPVAKETKKT
-13	11904830	11904904	GABBAa2_rcpt_(PR01615)	350.0	+
-#	SSF90112	IPR006029	30	229	\N	8.6e-51	0.0	IGYFVIQTYLPCIMTVILSQVSFWLNRESVPARTVFGVTTVLTMTTLSISARNSLPKVAYATAMDWFIAVCYAFVFSALIEFATVNYFTKRGWAWDGKSIVNDKKKETSVMKKNNAYAVAVANYAPHIAKDSALPTVSKSATPEPSKAQPVAKETKKTFNSVSKIDRMSRIIFPVLFGSFNLVYWATYLNREPVIKNMVP
-13	11896169	11905030	Neurotrans-gated_channel_TM_(SSF90112)	0.0	+
+13	11904842	11904985	Neurotrans-gated_channel_TM	28.4	+	11904842	11904985	83,88,95	1	143	0	PF02932	http://pfam.sanger.ac.uk/family?acc=PF02932
+13	11896190	11904877	Neurotrans-gated_channel_TM	131.3	+	11896190	11904877	83,88,95	3	87,202,134	0,3112,8553	PF02932	http://pfam.sanger.ac.uk/family?acc=PF02932
+13	11896178	11896240	GABAA_rcpt	741.0	+	11896178	11896240	83,88,95	1	62	0	PR00253	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00253&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00253
+13	11896256	11899345	GABAA_rcpt	650.0	+	11896256	11899345	83,88,95	2	21,43	0,3046	PR00253	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00253&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00253
+13	11899382	11899447	GABAA_rcpt	674.0	+	11899382	11899447	83,88,95	1	65	0	PR00253	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00253&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00253
+13	11904932	11904994	GABAA_rcpt	678.0	+	11904932	11904994	83,88,95	1	62	0	PR00253	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00253&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00253
+13	11899361	11899402	GABAAa_rcpt	713.0	+	11899361	11899402	83,88,95	1	41	0	PR01079	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01079&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01079
+13	11904902	11904940	GABAAa_rcpt	458.0	+	11904902	11904940	83,88,95	1	38	0	PR01079	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01079&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01079
+13	11904977	11905012	GABAAa_rcpt	534.0	+	11904977	11905012	83,88,95	1	35	0	PR01079	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01079&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01079
+13	11899481	11904766	GABBAa2_rcpt	170.0	+	11899481	11904766	83,88,95	2	23,23	0,5262	PR01615	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01615&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01615
+13	11904776	11904820	GABBAa2_rcpt	640.0	+	11904776	11904820	83,88,95	1	44	0	PR01615	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01615&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01615
+13	11904830	11904904	GABBAa2_rcpt	350.0	+	11904830	11904904	83,88,95	1	74	0	PR01615	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01615&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01615
+13	11896169	11905030	Neurotrans-gated_channel_TM	0.0	+	11896169	11905030	83,88,95	3	108,202,287	0,3133,8574	SSF90112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF90112

@@ -1,35 +1,16 @@
-browser position chr17:6479409-6502372
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000044053	ENSDART00000157125	ENSDARP00000129664	6479409	6502372	###
-#	PF00036	IPR002048	66	90	\N	3.9e-11	0.0	QHAFRTFDKNSDGTIDFREFICALS
-17	6484156	6484230	EF_hand_dom_(PF00036)	29.2	-
-#	PF00036	IPR002048	101	126	\N	4.7e-10	0.0	LNWAFNMYDLDGDGKITRVEMLEIIE
-17	6484048	6484125	EF_hand_dom_(PF00036)	25.9	-
-#	PF00036	IPR002048	151	177	\N	2.4e-10	0.0	VDRIFSKMDKNNDDQITLDEFKEAAKS
-17	6480240	6480320	EF_hand_dom_(PF00036)	26.8	-
-#	PR00450	IPR001125	8	22	\N	4.2999999999999996e-67	54.1	LTPEVMEDLVKNTEF
-17	6494005	6494049	Recoverin_like_(PR00450)	421.0	-
-#	PR00450	IPR001125	22	41	\N	4.2999999999999996e-67	72.12	FNEHELKQWYKGFLKDCPSG
-17	6493948	6494007	Recoverin_like_(PR00450)	918.0	-
-#	PR00450	IPR001125	68	89	\N	4.2999999999999996e-67	71.85	AFRTFDKNSDGTIDFREFICAL
-17	6484159	6484224	Recoverin_like_(PR00450)	847.0	-
-#	PR00450	IPR001125	92	111	\N	4.2999999999999996e-67	70.96	TSRGSFEQKLNWAFNMYDLD
-17	6484093	6484152	Recoverin_like_(PR00450)	805.0	-
-#	PR00450	IPR001125	114	132	\N	4.2999999999999996e-67	67.81	GKITRVEMLEIIEAIYKMV
-17	6480375	6484086	Recoverin_like_(PR00450)	636.0	-
-#	PR00450	IPR001125	140	155	\N	4.2999999999999996e-67	56.97	MNEDGLTPEQRVDRIF
-17	6480306	6480353	Recoverin_like_(PR00450)	477.0	-
-#	PR00450	IPR001125	166	186	\N	4.2999999999999996e-67	57.88	ITLDEFKEAAKSDPSIVLLLQ
-17	6480213	6480275	Recoverin_like_(PR00450)	569.0	-
-#	SM00054	IPR002048	64	92	\N	0.00025	0.0	FAQHAFRTFDKNSDGTIDFREFICALSIT
-17	6484150	6484236	EF_hand_dom_(SM00054)	30.4	-
-#	SM00054	IPR002048	100	128	\N	6.9e-05	0.0	KLNWAFNMYDLDGDGKITRVEMLEIIEAI
-17	6480387	6484128	EF_hand_dom_(SM00054)	32.2	-
-#	SM00054	IPR002048	150	178	\N	0.00027	0.0	RVDRIFSKMDKNNDDQITLDEFKEAAKSD
-17	6480237	6480323	EF_hand_dom_(SM00054)	30.3	-
-#	PS50222	IPR002048	60	95	\N	0.0	0.0	DASKFAQHAFRTFDKNSDGTIDFREFICALSITSRG
-17	6484141	6484248	EF_hand_dom_(PS50222)	13.286	-
-#	PS50222	IPR002048	96	131	\N	0.0	0.0	SFEQKLNWAFNMYDLDGDGKITRVEMLEIIEAIYKM
-17	6480378	6484140	EF_hand_dom_(PS50222)	13.23	-
-#	PS50222	IPR002048	146	181	\N	0.0	0.0	TPEQRVDRIFSKMDKNNDDQITLDEFKEAAKSDPSI
-17	6480228	6480335	EF_hand_dom_(PS50222)	12.784	-
+17	6484156	6484230	EF_hand_dom	29.2	-	6484156	6484230	83,88,95	1	74	0	PF00036	http://pfam.sanger.ac.uk/family?acc=PF00036
+17	6484048	6484125	EF_hand_dom	25.9	-	6484048	6484125	83,88,95	1	77	0	PF00036	http://pfam.sanger.ac.uk/family?acc=PF00036
+17	6480240	6480320	EF_hand_dom	26.8	-	6480240	6480320	83,88,95	1	80	0	PF00036	http://pfam.sanger.ac.uk/family?acc=PF00036
+17	6494005	6494049	Recoverin_like	421.0	-	6494005	6494049	83,88,95	1	44	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+17	6493948	6494007	Recoverin_like	918.0	-	6493948	6494007	83,88,95	1	59	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+17	6484159	6484224	Recoverin_like	847.0	-	6484159	6484224	83,88,95	1	65	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+17	6484093	6484152	Recoverin_like	805.0	-	6484093	6484152	83,88,95	1	59	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+17	6480375	6484086	Recoverin_like	636.0	-	6480375	6484086	83,88,95	2	3673,3694	0,17	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+17	6480306	6480353	Recoverin_like	477.0	-	6480306	6480353	83,88,95	1	47	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+17	6480213	6480275	Recoverin_like	569.0	-	6480213	6480275	83,88,95	1	62	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+17	6484150	6484236	EF_hand_dom	30.4	-	6484150	6484236	83,88,95	1	86	0	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+17	6480387	6484128	EF_hand_dom	32.2	-	6480387	6484128	83,88,95	2	3661,3736	0,5	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+17	6480237	6480323	EF_hand_dom	30.3	-	6480237	6480323	83,88,95	1	86	0	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+17	6484141	6484248	EF_hand_dom	13.286	-	6484141	6484248	83,88,95	1	107	0	PS50222	http://www.expasy.ch/prosite/PS50222
+17	6480378	6484140	EF_hand_dom	13.23	-	6480378	6484140	83,88,95	2	3670,3748	0,14	PS50222	http://www.expasy.ch/prosite/PS50222
+17	6480228	6480335	EF_hand_dom	12.784	-	6480228	6480335	83,88,95	1	107	0	PS50222	http://www.expasy.ch/prosite/PS50222

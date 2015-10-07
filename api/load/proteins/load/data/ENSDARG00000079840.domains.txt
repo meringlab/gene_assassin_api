@@ -1,35 +1,16 @@
-browser position chr13:16571581-16938070
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000079840	ENSDART00000122557	ENSDARP00000105964	16571581	16938070	###
-#	PF03493	IPR003929	508	605	\N	3.7e-32	0.0	IPSWNWKEGDDAICLAELKAGFIAQSCLAQGLSTMLANLFSMRSYIKIEEDTWQKYYLEGVANEMYTEYLSSAFVGLSFPTVCELCYVKLKLLLIAIE
-13	16850551	16860172	K_chnl_Ca-activ_BK_asu_(PF03493)	98.8	+
-#	PF00520	IPR005821	188	355	\N	9.1e-20	0.0	IDMAFNVFFLLYFGLRFIAANDKLWFWLEVNSVVDFFTVPPVFVSVYLNRSWLGLRFLRALRLIQFSEILQFLNILKTSNSIKLVNLCSIFISTWLTAAGFIHLVENSGDPWENFQNSQPLSYWECVYLLMVTMSTVGYGDVYARTTLGRLFMVFFILGGLAMFASYV
-13	16781715	16815038	Ion_trans_dom_(PF00520)	59.1	+
-#	PF07885	IPR013099	279	361	\N	8.4e-18	0.0	ISTWLTAAGFIHLVENSGDPWENFQNSQPLSYWECVYLLMVTMSTVGYGDVYARTTLGRLFMVFFILGGLAMFASYVPEIIEL
-13	16808647	16815056	2pore_dom_K_chnl_dom_(PF07885)	52.4	+
-#	PF02254	IPR003148	428	505	\N	2.5e-08	0.0	KRHFTQVEFYQGSVLNPHDLARVKIESADACLILANKYCADPDAEDASNIMRVISIKNYHPKIRIITQMLQYHNKAHL
-13	16831969	16850544	RCK_N_(PF02254)	22.4	+
-#	PR01449	IPR003929	410	430	\N	2.2999999999999995e-79	98.81	EIVFLHNISPNLELEALFKRH
-13	16831667	16831977	K_chnl_Ca-activ_BK_asu_(PR01449)	1067.0	+
-#	PR01449	IPR003929	453	473	\N	2.2999999999999995e-79	99.8	ESADACLILANKYCADPDAED
-13	16846666	16846728	K_chnl_Ca-activ_BK_asu_(PR01449)	1127.0	+
-#	PR01449	IPR003929	486	499	\N	2.2999999999999995e-79	100.0	YHPKIRIITQMLQY
-13	16849846	16849887	K_chnl_Ca-activ_BK_asu_(PR01449)	750.0	+
-#	PR01449	IPR003929	532	547	\N	2.2999999999999995e-79	97.66	QSCLAQGLSTMLANLF
-13	16850623	16850670	K_chnl_Ca-activ_BK_asu_(PR01449)	765.0	+
-#	PR01449	IPR003929	581	598	\N	2.2999999999999995e-79	88.89	FVGLSFPTVCELCYVKLK
-13	16858590	16860151	K_chnl_Ca-activ_BK_asu_(PR01449)	875.0	+
-#	PR01449	IPR003929	678	692	\N	2.2999999999999995e-79	100.0	SPKKKQRNGGMRNSP
-13	16891337	16891381	K_chnl_Ca-activ_BK_asu_(PR01449)	810.0	+
-#	PR01449	IPR003929	954	969	\N	2.2999999999999995e-79	100.0	FLDQDDDDDPDTELYL
-13	16920729	16920776	K_chnl_Ca-activ_BK_asu_(PR01449)	890.0	+
-#	PR01449	IPR003929	1131	1146	\N	2.2999999999999995e-79	93.75	SHSSHSSHSSSKKSSS
-13	16927806	16927853	K_chnl_Ca-activ_BK_asu_(PR01449)	706.0	+
-#	PR00169	IPR003091	187	210	\N	1.1e-05	24.57	QIDMAFNVFFLLYFGLRFIAANDK
-13	16781712	16781983	K_chnl_(PR00169)	205.0	+
-#	PR00169	IPR003091	213	233	\N	1.1e-05	21.11	FWLEVNSVVDFFTVPPVFVSV
-13	16781990	16782052	K_chnl_(PR00169)	294.0	+
-#	PR00169	IPR003091	307	329	\N	1.1e-05	40.61	PLSYWECVYLLMVTMSTVGYGDV
-13	16809133	16809201	K_chnl_(PR00169)	396.0	+
-#	PR00169	IPR003091	336	362	\N	1.1e-05	23.83	GRLFMVFFILGGLAMFASYVPEIIELI
-13	16809220	16815059	K_chnl_(PR00169)	206.0	+
+13	16850551	16860172	K_chnl_Ca-activ_BK_asu	98.8	+	16850551	16860172	83,88,95	3	140,109,42	0,7961,9579	PF03493	http://pfam.sanger.ac.uk/family?acc=PF03493
+13	16781715	16815038	Ion_trans_dom	59.1	+	16781715	16815038	83,88,95	6	47,111,75,75,170,20	0,248,24702,26895,27373,33303	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
+13	16808647	16815056	2pore_dom_K_chnl_dom	52.4	+	16808647	16815056	83,88,95	3	38,170,38	0,441,6371	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
+13	16831969	16850544	RCK_N	22.4	+	16831969	16850544	83,88,95	4	71,82,69,8	0,14694,17858,18567	PF02254	http://pfam.sanger.ac.uk/family?acc=PF02254
+13	16831667	16831977	K_chnl_Ca-activ_BK_asu	1067.0	+	16831667	16831977	83,88,95	2	19,42	0,268	PR01449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01449
+13	16846666	16846728	K_chnl_Ca-activ_BK_asu	1127.0	+	16846666	16846728	83,88,95	1	62	0	PR01449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01449
+13	16849846	16849887	K_chnl_Ca-activ_BK_asu	750.0	+	16849846	16849887	83,88,95	1	41	0	PR01449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01449
+13	16850623	16850670	K_chnl_Ca-activ_BK_asu	765.0	+	16850623	16850670	83,88,95	1	47	0	PR01449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01449
+13	16858590	16860151	K_chnl_Ca-activ_BK_asu	875.0	+	16858590	16860151	83,88,95	2	31,21	0,1540	PR01449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01449
+13	16891337	16891381	K_chnl_Ca-activ_BK_asu	810.0	+	16891337	16891381	83,88,95	1	44	0	PR01449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01449
+13	16920729	16920776	K_chnl_Ca-activ_BK_asu	890.0	+	16920729	16920776	83,88,95	1	47	0	PR01449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01449
+13	16927806	16927853	K_chnl_Ca-activ_BK_asu	706.0	+	16927806	16927853	83,88,95	1	47	0	PR01449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01449
+13	16781712	16781983	K_chnl	205.0	+	16781712	16781983	83,88,95	2	50,20	0,251	PR00169	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00169&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00169
+13	16781990	16782052	K_chnl	294.0	+	16781990	16782052	83,88,95	1	62	0	PR00169	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00169&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00169
+13	16809133	16809201	K_chnl	396.0	+	16809133	16809201	83,88,95	1	68	0	PR00169	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00169&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00169
+13	16809220	16815059	K_chnl	206.0	+	16809220	16815059	83,88,95	2	38,41	0,5798	PR00169	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00169&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00169

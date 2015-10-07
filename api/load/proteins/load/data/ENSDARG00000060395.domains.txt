@@ -1,19 +1,8 @@
-browser position chr2:37170127-37182556
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000060395	ENSDART00000085046	ENSDARP00000079481	37170128	37182556	###
-#	PR00929	IPR020478	263	273	\N	1.9e-05	43.56	QRARGRPKGNN
-2	37181659	37181691	AT_hook-like_(PR00929)	244.0	-
-#	PR00929	IPR020478	346	357	\N	1.9e-05	52.43	SPQRARGRPKRN
-2	37181318	37181353	AT_hook-like_(PR00929)	349.0	-
-#	PR00929	IPR020478	431	441	\N	1.9e-05	45.83	SPQRARGRPKG
-2	37180977	37181009	AT_hook-like_(PR00929)	244.0	-
-#	SM00384	IPR017956	263	275	\N	2.8	0.0	QRARGRPKGNNNK
-2	37181653	37181691	AT_hook_DNA-bd_motif_(SM00384)	12.7	-
-#	SM00384	IPR017956	711	723	\N	46.0	0.0	QRTRGRSKGSTNK
-2	37178767	37178805	AT_hook_DNA-bd_motif_(SM00384)	5.9	-
-#	SM00384	IPR017956	617	629	\N	2.0	0.0	QRPRGRPKGSMNK
-2	37179135	37179173	AT_hook_DNA-bd_motif_(SM00384)	13.5	-
-#	SM00384	IPR017956	433	445	\N	4.3	0.0	QRARGRPKGSKNK
-2	37180965	37181003	AT_hook_DNA-bd_motif_(SM00384)	11.7	-
-#	SM00384	IPR017956	348	360	\N	6.6	0.0	QRARGRPKRNNNK
-2	37181309	37181347	AT_hook_DNA-bd_motif_(SM00384)	10.6	-
+2	37181659	37181691	AT_hook-like	244.0	-	37181659	37181691	83,88,95	1	32	0	PR00929	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00929&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00929
+2	37181318	37181353	AT_hook-like	349.0	-	37181318	37181353	83,88,95	1	35	0	PR00929	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00929&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00929
+2	37180977	37181009	AT_hook-like	244.0	-	37180977	37181009	83,88,95	1	32	0	PR00929	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00929&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00929
+2	37181653	37181691	AT_hook_DNA-bd_motif	12.7	-	37181653	37181691	83,88,95	1	38	0	SM00384	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00384
+2	37178767	37178805	AT_hook_DNA-bd_motif	5.9	-	37178767	37178805	83,88,95	1	38	0	SM00384	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00384
+2	37179135	37179173	AT_hook_DNA-bd_motif	13.5	-	37179135	37179173	83,88,95	1	38	0	SM00384	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00384
+2	37180965	37181003	AT_hook_DNA-bd_motif	11.7	-	37180965	37181003	83,88,95	1	38	0	SM00384	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00384
+2	37181309	37181347	AT_hook_DNA-bd_motif	10.6	-	37181309	37181347	83,88,95	1	38	0	SM00384	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00384

@@ -1,3 +1,15 @@
-browser position chrMT:6425-7975
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000063905	ENSDART00000093606	ENSDARP00000087871	6425	7975	###
+MT	6458	7804	Cyt_c_Oxase_su1	558.0	+	6458	7804	83,88,95	1	1346	0	PF00115	http://pfam.sanger.ac.uk/family?acc=PF00115
+MT	6425	7957	Cyt_c_Oxase_su1_dom	115.065	+	6425	7957	83,88,95	1	1532	0	PS50855	http://www.expasy.ch/prosite/PS50855
+MT	6437	6514	Cyt_c_Oxase_su1	1097.0	+	6437	6514	83,88,95	1	77	0	PR01165	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01165&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01165
+MT	6578	6649	Cyt_c_Oxase_su1	966.0	+	6578	6649	83,88,95	1	71	0	PR01165	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01165&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01165
+MT	6662	6736	Cyt_c_Oxase_su1	1235.0	+	6662	6736	83,88,95	1	74	0	PR01165	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01165&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01165
+MT	6788	6826	Cyt_c_Oxase_su1	632.0	+	6788	6826	83,88,95	1	38	0	PR01165	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01165&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01165
+MT	6884	6940	Cyt_c_Oxase_su1	700.0	+	6884	6940	83,88,95	1	56	0	PR01165	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01165&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01165
+MT	6971	7030	Cyt_c_Oxase_su1	770.0	+	6971	7030	83,88,95	1	59	0	PR01165	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01165&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01165
+MT	7124	7189	Cyt_c_Oxase_su1	1149.0	+	7124	7189	83,88,95	1	65	0	PR01165	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01165&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01165
+MT	7265	7312	Cyt_c_Oxase_su1	807.0	+	7265	7312	83,88,95	1	47	0	PR01165	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01165&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01165
+MT	7337	7402	Cyt_c_Oxase_su1	985.0	+	7337	7402	83,88,95	1	65	0	PR01165	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01165&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01165
+MT	7442	7498	Cyt_c_Oxase_su1	832.0	+	7442	7498	83,88,95	1	56	0	PR01165	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01165&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01165
+MT	7526	7585	Cyt_c_Oxase_su1	1025.0	+	7526	7585	83,88,95	1	59	0	PR01165	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01165&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01165
+MT	7676	7741	Cyt_c_Oxase_su1	1035.0	+	7676	7741	83,88,95	1	65	0	PR01165	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01165&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01165
+MT	6425	7957	Cyt_c_Oxase_su1_dom	0.0	+	6425	7957	83,88,95	1	1532	0	SSF81442	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81442

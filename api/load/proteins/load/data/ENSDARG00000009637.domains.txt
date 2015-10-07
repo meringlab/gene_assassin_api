@@ -1,27 +1,12 @@
-browser position chr19:10962074-10975115
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000009637	ENSDART00000128721	ENSDARP00000105300	10964274	10975115	###
-#	SM00054	IPR002048	151	179	\N	60.0	0.0	RAEKLWAIFDKKDNERVAEGEFIEAIQSS
-19	10971995	10972162	EF_hand_dom_(SM00054)	3.4	+
-#	SM00054	IPR002048	65	93	\N	0.0038	0.0	YAQHVFRSFDANDDGTLDFKEYVVALHMT
-19	10964483	10964569	EF_hand_dom_(SM00054)	26.4	+
-#	SM00054	IPR002048	101	129	\N	0.001	0.0	KLEWAFSLFDVDKNGYVTKPEVIELSQAI
-19	10964591	10971931	EF_hand_dom_(SM00054)	28.4	+
-#	PR00450	IPR001125	141	156	\N	1.5999999999999998e-50	58.65	LPNDESTPEKRAEKLW
-19	10971965	10972012	Recoverin_like_(PR00450)	564.0	+
-#	PR00450	IPR001125	167	187	\N	1.5999999999999998e-50	31.68	VAEGEFIEAIQSSDDGLRLIQ
-19	10972124	10972186	Recoverin_like_(PR00450)	264.0	+
-#	PR00450	IPR001125	115	133	\N	1.5999999999999998e-50	40.08	GYVTKPEVIELSQAIFKLI
-19	10964633	10971943	Recoverin_like_(PR00450)	491.0	+
-#	PR00450	IPR001125	93	112	\N	1.5999999999999998e-50	61.15	TSSGKSTLKLEWAFSLFDVD
-19	10964567	10964626	Recoverin_like_(PR00450)	664.0	+
-#	PR00450	IPR001125	69	90	\N	1.5999999999999998e-50	63.81	VFRSFDANDDGTLDFKEYVVAL
-19	10964495	10964560	Recoverin_like_(PR00450)	812.0	+
-#	PR00450	IPR001125	23	42	\N	1.5999999999999998e-50	52.88	FSESEITQWYENFQKQCPTG
-19	10964357	10964416	Recoverin_like_(PR00450)	714.0	+
-#	PR00450	IPR001125	9	23	\N	1.5999999999999998e-50	37.95	IPREILDDLKLTTRF
-19	10964315	10964359	Recoverin_like_(PR00450)	290.0	+
-#	PS50222	IPR002048	61	96	\N	0.0	0.0	DATTYAQHVFRSFDANDDGTLDFKEYVVALHMTSSG
-19	10964471	10964578	EF_hand_dom_(PS50222)	12.225999999999999	+
-#	PS50222	IPR002048	97	132	\N	0.0	0.0	KSTLKLEWAFSLFDVDKNGYVTKPEVIELSQAIFKL
-19	10964579	10971940	EF_hand_dom_(PS50222)	10.413	+
+19	10971995	10972162	EF_hand_dom	3.4	+	10971995	10972162	83,88,95	2	42,43	0,124	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+19	10964483	10964569	EF_hand_dom	26.4	+	10964483	10964569	83,88,95	1	86	0	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+19	10964591	10971931	EF_hand_dom	28.4	+	10964591	10971931	83,88,95	2	80,5	0,7335	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
+19	10971965	10972012	Recoverin_like	564.0	+	10971965	10972012	83,88,95	1	47	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	10972124	10972186	Recoverin_like	264.0	+	10972124	10972186	83,88,95	1	62	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	10964633	10971943	Recoverin_like	491.0	+	10964633	10971943	83,88,95	2	38,17	0,7293	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	10964567	10964626	Recoverin_like	664.0	+	10964567	10964626	83,88,95	1	59	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	10964495	10964560	Recoverin_like	812.0	+	10964495	10964560	83,88,95	1	65	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	10964357	10964416	Recoverin_like	714.0	+	10964357	10964416	83,88,95	1	59	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	10964315	10964359	Recoverin_like	290.0	+	10964315	10964359	83,88,95	1	44	0	PR00450	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00450&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00450
+19	10964471	10964578	EF_hand_dom	12.225999999999999	+	10964471	10964578	83,88,95	1	107	0	PS50222	http://www.expasy.ch/prosite/PS50222
+19	10964579	10971940	EF_hand_dom	10.413	+	10964579	10971940	83,88,95	2	92,14	0,7347	PS50222	http://www.expasy.ch/prosite/PS50222

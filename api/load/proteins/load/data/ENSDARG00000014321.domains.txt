@@ -1,27 +1,12 @@
-browser position chr9:767583-771313
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000014321	ENSDART00000012506	ENSDARP00000023487	767583	771313	###
-#	PR00026	IPR000747	142	159	\N	8.599999999999999e-18	81.11	DDKRPRTAFTAEQLQRLK
-9	768140	768193	Homeodomain_engrailed_(PR00026)	745.0	-
-#	PR00026	IPR000747	205	222	\N	8.599999999999999e-18	79.56	KNALAMQLMAQGLYNHST
-9	767951	768004	Homeodomain_engrailed_(PR00026)	742.0	-
-#	PR00031	IPR000047	172	181	\N	7.7e-07	50.87	RRQALARELG
-9	768074	768103	HTH_motif_(PR00031)	225.0	-
-#	PR00031	IPR000047	181	197	\N	7.7e-07	61.28	GLNESQIKIWFQNKRAK
-9	768026	768076	HTH_motif_(PR00031)	614.0	-
-#	PR00024	IPR020479	165	176	\N	8.7e-06	34.17	SRYITEQRRQAL
-9	768089	768124	Homeobox_metazoa_(PR00024)	213.0	-
-#	PR00024	IPR020479	180	190	\N	8.7e-06	60.0	LGLNESQIKIW
-9	768047	768079	Homeobox_metazoa_(PR00024)	381.0	-
-#	PR00024	IPR020479	190	199	\N	8.7e-06	71.2	WFQNKRAKIK
-9	768020	768049	Homeobox_metazoa_(PR00024)	430.0	-
-#	PF00046	IPR001356	144	200	\N	6.6e-26	0.0	KRPRTAFTAEQLQRLKAEFQTSRYITEQRRQALARELGLNESQIKIWFQNKRAKIKK
-9	768017	768187	Homeobox_dom_(PF00046)	77.3	-
-#	PF10525	IPR019549	201	230	\N	4.4e-21	0.0	SSGFKNALAMQLMAQGLYNHSTTTIQEEED
-9	767927	768016	Homeobox-engrailed_C-terminal_(PF10525)	61.3	-
-#	SM00389	IPR001356	143	205	\N	1.8e-25	0.0	DKRPRTAFTAEQLQRLKAEFQTSRYITEQRRQALARELGLNESQIKIWFQNKRAKIKKSSGFK
-9	768002	768190	Homeobox_dom_(SM00389)	100.6	-
-#	PS50071	IPR001356	141	201	\N	0.0	0.0	SDDKRPRTAFTAEQLQRLKAEFQTSRYITEQRRQALARELGLNESQIKIWFQNKRAKIKKS
-9	768014	768196	Homeobox_dom_(PS50071)	21.848000000000003	-
-#	SSF46689	IPR009057	142	216	\N	7.299999999999999e-22	0.0	DDKRPRTAFTAEQLQRLKAEFQTSRYITEQRRQALARELGLNESQIKIWFQNKRAKIKKSSGFKNALAMQLMAQG
-9	767969	768193	Homeodomain-like_(SSF46689)	0.0	-
+9	768140	768193	Homeodomain_engrailed	745.0	-	768140	768193	83,88,95	1	53	0	PR00026	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00026&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00026
+9	767951	768004	Homeodomain_engrailed	742.0	-	767951	768004	83,88,95	1	53	0	PR00026	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00026&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00026
+9	768074	768103	HTH_motif	225.0	-	768074	768103	83,88,95	1	29	0	PR00031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00031
+9	768026	768076	HTH_motif	614.0	-	768026	768076	83,88,95	1	50	0	PR00031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00031
+9	768089	768124	Homeobox_metazoa	213.0	-	768089	768124	83,88,95	1	35	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
+9	768047	768079	Homeobox_metazoa	381.0	-	768047	768079	83,88,95	1	32	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
+9	768020	768049	Homeobox_metazoa	430.0	-	768020	768049	83,88,95	1	29	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
+9	768017	768187	Homeobox_dom	77.3	-	768017	768187	83,88,95	1	170	0	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
+9	767927	768016	Homeobox-engrailed_C-terminal	61.3	-	767927	768016	83,88,95	1	89	0	PF10525	http://pfam.sanger.ac.uk/family?acc=PF10525
+9	768002	768190	Homeobox_dom	100.6	-	768002	768190	83,88,95	1	188	0	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
+9	768014	768196	Homeobox_dom	21.848000000000003	-	768014	768196	83,88,95	1	182	0	PS50071	http://www.expasy.ch/prosite/PS50071
+9	767969	768193	Homeodomain-like	0.0	-	767969	768193	83,88,95	1	224	0	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

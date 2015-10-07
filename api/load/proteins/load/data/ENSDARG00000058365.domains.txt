@@ -1,21 +1,9 @@
-browser position chr5:17593474-17614308
-track name=Domains useScore=1 visibility=2
-###	ENSDARG00000058365	ENSDART00000134206	ENSDARP00000113545	17593528	17614308	###
-#	PR00299	IPR001436	186	201	\N	2.2e-15	22.99	SNEMPAESMEEPEARP
-5	17610572	17610619	Alpha-crystallin/HSP_(PR00299)	204.0	+
-#	PR00299	IPR001436	157	178	\N	2.2e-15	34.82	VDPVTVFASLSPEGVLIIEARQ
-5	17610485	17610550	Alpha-crystallin/HSP_(PR00299)	331.0	+
-#	PR00299	IPR001436	135	154	\N	2.2e-15	33.48	EKQDEGGIVTKNFTKKIQIP
-5	17603992	17610478	Alpha-crystallin/HSP_(PR00299)	476.0	+
-#	PF00011	IPR002068	99	181	\N	6.999999999999999e-21	0.0	DSDEPWKVCVNVHSFKPEELNVKTKDGFVEVSGKHEEKQDEGGIVTKNFTKKIQIPLDVDPVTVFASLSPEGVLIIEARQTPP
-5	17594021	17610559	a-crystallin/Hsp20_dom_(PF00011)	60.5	+
-#	PR00299	IPR001436	25	37	\N	2.2e-15	37.91	LASRFMDDDFGLP
-5	17593799	17593837	Alpha-crystallin/HSP_(PR00299)	169.0	+
-#	PR00299	IPR001436	98	118	\N	2.2e-15	26.28	TDSDEPWKVCVNVHSFKPEEL
-5	17594018	17594080	Alpha-crystallin/HSP_(PR00299)	267.0	+
-#	PR00299	IPR001436	120	133	\N	2.2e-15	56.63	VKTKDGFVEVSGKH
-5	17594084	17603988	Alpha-crystallin/HSP_(PR00299)	430.0	+
-#	PS01031	IPR002068	96	178	\N	0.0	0.0	PPTDSDEPWKVCVNVHSFKPEELNVKTKDGFVEVSGKHEEKQDEGGIVTKNFTKKIQIPLDVDPVTVFASLSPEGVLIIEARQ
-5	17594012	17610550	a-crystallin/Hsp20_dom_(PS01031)	13.809000000000001	+
-#	SSF49764	IPR008978	86	190	\N	1.8e-09	0.0	YTESPRRATAPPTDSDEPWKVCVNVHSFKPEELNVKTKDGFVEVSGKHEEKQDEGGIVTKNFTKKIQIPLDVDPVTVFASLSPEGVLIIEARQTPPYYLYSNEMP
-5	17593982	17610586	HSP20-like_chaperone_(SSF49764)	0.0	+
+5	17610572	17610619	Alpha-crystallin/HSP	204.0	+	17610572	17610619	83,88,95	1	47	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+5	17610485	17610550	Alpha-crystallin/HSP	331.0	+	17610485	17610550	83,88,95	1	65	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+5	17603992	17610478	Alpha-crystallin/HSP	476.0	+	17603992	17610478	83,88,95	2	52,6	0,6480	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+5	17594021	17610559	a-crystallin/Hsp20_dom	60.5	+	17594021	17610559	83,88,95	3	96,63,87	0,9960,16451	PF00011	http://pfam.sanger.ac.uk/family?acc=PF00011
+5	17593799	17593837	Alpha-crystallin/HSP	169.0	+	17593799	17593837	83,88,95	1	38	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+5	17594018	17594080	Alpha-crystallin/HSP	267.0	+	17594018	17594080	83,88,95	1	62	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+5	17594084	17603988	Alpha-crystallin/HSP	430.0	+	17594084	17603988	83,88,95	2	33,7	0,9897	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
+5	17594012	17610550	a-crystallin/Hsp20_dom	13.809000000000001	+	17594012	17610550	83,88,95	3	105,63,78	0,9969,16460	PS01031	http://www.expasy.ch/prosite/PS01031
+5	17593982	17610586	HSP20-like_chaperone	0.0	+	17593982	17610586	83,88,95	3	135,63,114	0,9999,16490	SSF49764	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49764
