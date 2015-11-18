@@ -20,9 +20,11 @@ app.use(logger('dev')); // or app.use(morgan('combined'))
 
 var index = require('./routes/index');
 var domains = require('./routes/domains');
+var proteins = require('./routes/proteins');
 var guides = require('./routes/guides');
 var primers = require('./routes/primers');
 
+app.use('/proteins', proteins);
 app.use('/domains', domains);
 app.use('/guides', guides);
 app.use('/primers', primers);

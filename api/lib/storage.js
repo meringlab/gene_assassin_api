@@ -44,6 +44,33 @@ function Storage(_db) {
         return d.promise
     }
 
+    this.proteinsInGenomicRegion = function proteinsInGenomicRegion(species, chromosome, start, end) {
+        var startingTime = process.hrtime()
+        var d = when.defer()
+        queryGenomicRegion('proteins', species, chromosome, start, end, 100, function (docs) {
+            var diff = process.hrtime(startingTime)
+            var elapsed = diff[1] / 1000000; // divide by a million to get from nano to milli
+            var elapsedTimeInMilliSeconds = Math.round(diff[0] * 1000 + elapsed)
+            docs.forEach(function (el) {
+                delete el._id
+            })
+
+            d.resolve({
+                'id': chromosome + ':' + start + '-' + end,
+                'resultType': 'proteins',
+                'numResults': docs.length,
+                'numTotalResults': docs.length,
+                'dbTime': elapsedTimeInMilliSeconds + 'ms',
+                'queryOptions' : {'species': species, chromosome: chromosome, start: start, end: end},
+                'result': docs
+                })
+        }, function (err) {
+            deferredImport.reject(err);
+        });
+
+        return d.promise
+    }
+
     this.domainsInGenomicRegion = function domainsInGenomicRegion(species, chromosome, start, end) {
         var d = when.defer()
         queryGenomicRegion('domains', species, chromosome, start, end, 100, function (docs) {
