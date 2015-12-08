@@ -1,8 +1,8 @@
 const when = require('when');
 var sequence = require('when/sequence');
 
-const URL = 'mongodb://mongodb:27017/drerio';
-//const URL = 'mongodb://192.168.1.120:32769/drerio';
+//const URL = 'mongodb://mongodb:27017/drerio';
+const URL = 'mongodb://172.16.75.133:32769/drerio';
 
 var MongoClient = require('mongodb').MongoClient
 var assert = require('assert');
@@ -24,7 +24,7 @@ function parseRecord(line) {
         bed: line
     }
 }
-
+console.log("reading data from disk")
 var data = []
 files.forEach(function(file) {
     var gene = file.substring(0, file.length - '.guides.txt'.length)
@@ -51,7 +51,8 @@ var insertDocuments = function (db, callback) {
         var close = function (slice) {
             return function () {
                 return when.promise(function (resolve, reject) {
-                    collection.insertMany(slice, {j: true}, function (err, result) {
+                    //collection.insertMany(slice, {j: true}, function (err, result) {
+                    collection.insertMany(slice, {w: 1}, function (err, result) {
                         if (err) {
                             reject(err)
                             return;
