@@ -9,6 +9,5 @@ RUN pip install pymongo
 
 COPY . /var/domains
 WORKDIR /var/domains
-RUN npm install
 
 CMD ["python", "main.py"]
