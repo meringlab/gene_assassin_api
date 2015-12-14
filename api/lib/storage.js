@@ -44,31 +44,39 @@ function Storage(_db) {
         return d.promise
     }
 
-    this.proteinsInGenomicRegion = function proteinsInGenomicRegion(species, chromosome, start, end) {
+  function query(resultType, species, chromosome, start, end){
         var startingTime = process.hrtime()
         var d = when.defer()
-        queryGenomicRegion('proteins', species, chromosome, start, end, 100, function (docs) {
+        queryGenomicRegion(resultType, species, chromosome, start, end, 1000, function (docs) {
             var diff = process.hrtime(startingTime)
             var elapsed = diff[1] / 1000000; // divide by a million to get from nano to milli
             var elapsedTimeInMilliSeconds = Math.round(diff[0] * 1000 + elapsed)
             docs.forEach(function (el) {
                 delete el._id
-            })
+            });
 
             d.resolve({
                 'id': chromosome + ':' + start + '-' + end,
-                'resultType': 'proteins',
+                'resultType': resultType,
                 'numResults': docs.length,
                 'numTotalResults': docs.length,
                 'dbTime': elapsedTimeInMilliSeconds + 'ms',
                 'queryOptions' : {'species': species, chromosome: chromosome, start: start, end: end},
                 'result': docs
-                })
+            })
         }, function (err) {
             deferredImport.reject(err);
         });
 
         return d.promise
+    }
+
+    this.proteinsInGenomicRegion = function proteinsInGenomicRegion(species, chromosome, start, end) {
+        return query('proteins', species, chromosome, start, end);
+    };
+
+    this.guidesInGenomicRegion = function guidesInGenomicRegion(species, chromosome, start, end) {
+        return query('guides', species, chromosome, start, end);
     }
 
     this.domainsInGenomicRegion = function domainsInGenomicRegion(species, chromosome, start, end) {
@@ -82,20 +90,6 @@ function Storage(_db) {
             deferredImport.reject(err);
         });
 
-        return d.promise
-    }
-
-    this.guidesInGenomicRegion = function guidesInGenomicRegion(species, chromosome, start, end) {
-        var d = when.defer()
-        queryGenomicRegion('guides', species, chromosome, start, end, 500, function (docs) {
-            var allGuides = []
-            docs.forEach(function (el) {
-                allGuides.push(el.bed)
-            })
-            d.resolve({species: species, chromosome: chromosome, start: start, end: end, guides: allGuides})
-        }, function (err) {
-            deferredImport.reject(err);
-        });
         return d.promise
     }
 
