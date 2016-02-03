@@ -38,6 +38,7 @@ docs = []
 print('loading guides from files')
 for n in os.listdir('data'):
     with open('data/' +n) as f:
+        gene_guides = []
         for line in f.readlines():
             line = line.strip()
             if (len(line) < 1 or line[0] == '#' or line.startswith('Zv9_scaff')):
@@ -46,8 +47,13 @@ for n in os.listdir('data'):
                 rec = parseRecord(line)
                 rec['gene'] = n.split('.')[0]
                 docs.append(rec)
+                gene_guides.append(rec)
             except:
                 print('error parsing: ' + line + ' from ' + n)
+        gene_guides.sort(key=lambda r: -r['score'])
+        outof = ' out of ' + str(len(gene_guides))
+        for idx, guide in enumerate(gene_guides):
+            guide['rank'] = str(idx+1) + outof
 
 print("{0} total guides".format(len(docs)))
 
