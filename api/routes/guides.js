@@ -3,6 +3,34 @@ const router = express.Router(),
     negotiate = require('express-negotiate');
 const _und = require('underscore')
 
+router.param('gene', function (req, res, next, gene) {
+    req.gene = gene;
+    next();
+})
+
+router.get('/gene/:gene', function (req, res, next) {
+    req.app.get('storage').geneGuides('drerio', req.gene).then(
+      function (data) {
+          req.negotiate({
+              'application/ld+json': function () {
+                  render(res, "application/ld+json", data);
+              },
+              'application/json': function () {
+                  //TODO add Link header to @context
+                  render(res, "application/json", data);
+              },
+              'default': function () {
+                  render(res, "application/json", data);
+              }
+          })
+      },
+      function (err) {
+          //TODO handle error!
+          log.error(err, 'failed to load guides for %s - %s', 'drerio', req.gene)
+          return next(new Error('failed to load guides: ' + err.message));
+      });
+});
+
 
 router.param('chromosome', function (req, res, next, chromosome) {
     // once validation is done save the new item in the req

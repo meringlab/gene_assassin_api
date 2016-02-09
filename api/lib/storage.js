@@ -14,6 +14,43 @@ function Storage(_db) {
         , server: db.serverConfig.host
     });
 
+    this.geneGuides = function geneGuides(species, gene) {
+        //TODO check if species exists
+        //var db = client.db(species)
+
+        var d = when.defer()
+        //expects index on db.guides({gene:1})
+        db.collection('guides').find({gene: gene}, {limit: 2000}).toArray(function (err, docs) {
+            if (err) {
+                log.error(err, 'failed to get guides for %s', gene)
+                var e = Error("geneGuides FAILED: " + err.message);
+                d.reject(e);
+                return
+            }
+            docs.forEach(function (el) {
+                delete el._id
+            })
+            docs.sort(function(g1, g2) { return g2.score - g1.score});
+            d.resolve({
+                "apiVersion": "v1",
+                "warning": "",
+                "error": "",
+                "queryOptions": {gene : gene /*TODO species*/},
+                "response": [{
+                    "time": 0,
+                    "dbTime": 5,
+                    "numResults": docs.length,
+                    "numTotalResults": docs.length, //fixme - not true!
+                    "warningMsg": "",
+                    "errorMsg": "",
+                    "resultType": "guides",
+                    "result": docs
+                }]
+            });
+        });
+        return d.promise;
+    }
+
     this.primersInGenomicRegion = function primersInGenomicRegion(species, chromosome, start, end) {
         var d = when.defer()
         queryGenomicRegion('primers', species, chromosome, start, end, 1000, function (docs) {
@@ -38,7 +75,7 @@ function Storage(_db) {
                 }]
             })
         }, function (err) {
-            deferredImport.reject(err);
+            d.reject(err);
         });
 
         return d.promise
