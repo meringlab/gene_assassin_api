@@ -19,9 +19,16 @@ def parseRecord(line):
     7  offtarget_score
     8  combined_score
     9  RGB_of_score
-   10  offtarget_profile
+   10  offtarget_profile: 
+   10.1 #seed region patterns
+   10.2 #guide patterns
+   10.3 #1nt mismatch regions
+   10.4 #2nt mismatch regions
+   10.5 #3nt mismatch regions
+
     '''
     rec = line.split('\t')
+    mismatch = '[' + ','.join(rec[10].split(',')[2:]) + ']'
     return {"chromosome" : rec[0],
             "start" : int(rec[1]),
             "end":    int(rec[2]),
@@ -31,7 +38,8 @@ def parseRecord(line):
             "application_score": float(rec[6]),
             "offtarget_score": float(rec[7]),
             "score": float(rec[8]),
-            "color": rec[9]
+            "color": rec[9],
+            "mismatches": mismatch 
             }
 docs = []
 
@@ -69,4 +77,6 @@ print('creating index')
 from pymongo import ASCENDING
 collection.create_index([('chromosome', ASCENDING), ('start', ASCENDING), ('end', ASCENDING)],
             name= "chr_region_idx", unique=False, background= False, j= True)
+collection.create_index([('gene', ASCENDING)],
+            name= "gene_idx", unique=False, background= False, j= True)
 print('import done')
