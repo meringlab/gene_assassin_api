@@ -4,6 +4,7 @@
 
 const when = require('when');
 const bunyan = require('bunyan');
+const _und = require('underscore')
 const MongoClient = require('mongodb').MongoClient
 
 function Storage(_db) {
@@ -13,6 +14,107 @@ function Storage(_db) {
         module: "storage/mongodb"
         , server: db.serverConfig.host
     });
+
+
+  /**
+   * Note: expects index on db.guides({chromosome+start+end})
+   * @param species
+   * @param regions
+   * @param interval
+   * @return {Promise}
+   */
+    this.guidesFrequencies = function guidesFrequencies(species, regions, interval) {
+        //TODO check if species exists
+        //var db = client.db(species)
+
+        var d = when.defer();
+
+        // regions is either a single region: "12:34900000-34999999",
+        // or multiple: "23:27946750-27946874,23:27946875-27946999,23:27947000-27947124"
+        var tasks = _und.map(regions.split(','), function(region) {
+            const chr = region.split(":")[0]
+            const range = region.split(":")[1].split('-')
+            const start = parseInt(range[0], 10);
+            const end = parseInt(range[1], 10);
+            const promised = when.defer();
+
+            db.collection('guides').aggregate([
+                {"$match": {"$and": [{"chromosome": chr}, {"start": {"$gt": start, "$lt": end}}]}},
+                {
+                    "$group": {
+                        "_id": {
+                            "$subtract": [
+                                {"$divide": ["$start", interval]},
+                                {"$divide": [{"$mod": ["$start", interval]}, interval]}
+                            ]
+                        }, "features_count": {"$sum": 1}
+                    }
+                },
+                {"$sort": {"_id": 1}}
+            ], function(err, docs) {
+                if (err) {
+                    //TODO check if this makes promise reject result
+                    log.error(err, 'failed to get aggregate guide frequencies for %s', region);
+                    promised.reject(err);
+                    return;
+                }
+                _und.each(docs, function(d) {
+                    d.features_count = Math.log10(d.features_count);
+                    d.start = start;
+                    d.end = end;
+                    d.chromosome = chr;
+                });
+                if (docs.length === 0) {
+                    docs.push({
+                        features_count: 0,
+                        start: start,
+                        end: end,
+                        chromosome: chr
+                    });
+                }
+                var ex = {
+                    "id": region,
+                    //"time": 0,
+                    //"dbTime": -1,
+                    //"numResults": -1,
+                    //"numTotalResults": -1,
+                    //"warningMsg": "",
+                    //"errorMsg": "",
+                    "resultType": "frequencies",
+                    "result": docs
+                };
+                promised.resolve(ex);
+            });
+            return promised.promise;
+        });
+
+        when.all(tasks).then(function(results) {
+            var queryOptions = {
+                species: species,
+                "assembly": "Zv9", //TODO
+                type: 'guideFrequencies',
+                "interval": interval,
+                //limit: 1000,
+                "histogram": "true",
+                "skip": -1,
+                "count": false,
+                "histogramLogarithm": "true"
+            };
+
+            d.resolve({
+                "apiVersion": "v1",
+                "warning": "",
+                "error": "",
+                "queryOptions": queryOptions,
+                "response": results
+            });
+        }).catch(function(err) {
+            log.error(err, 'failed to get guide frequencies for %s - %s', 'drerio', region)
+            var e = Error("guidesFrequencies FAILED: " + err.message);
+            d.reject(e);
+        });
+        return d.promise;
+    };
 
     this.geneGuides = function geneGuides(species, gene) {
         //TODO check if species exists

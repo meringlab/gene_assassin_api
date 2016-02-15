@@ -3,6 +3,22 @@ const router = express.Router(),
     negotiate = require('express-negotiate');
 const _und = require('underscore')
 
+// /guides/frequencies?regions=23:28008620-28008716&interval=97
+router.get('/frequencies', function (req, res, next) {
+    //"23:27946750-27946874,23:27946875-27946999,23:27947000-27947124"
+  //TODO check if interval is valid
+    req.app.get('storage').guidesFrequencies('drerio', req.param('regions'), parseInt(req.param('interval'))).then(
+      function (data) {
+          render(res, "application/json", data);
+      },
+      function (err) {
+          //TODO handle error!
+          log.error(err, 'failed to load guide frequencies %s - %s', 'drerio', regions);
+          return next(new Error('failed to load guides: ' + err.message));
+      });
+});
+
+
 router.param('gene', function (req, res, next, gene) {
     req.gene = gene;
     next();
