@@ -7,7 +7,7 @@ ENV REFRESHED_AT 2015-09-02
 RUN apt-get update && apt-get install -y build-essential python-dev  python-pip
 RUN pip install pymongo
 
-COPY . /var/domains
-WORKDIR /var/domains
+COPY . /var/guides
+WORKDIR /var/guides
 
 CMD ["python", "main.py"]
