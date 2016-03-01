@@ -1,7 +1,0 @@
-22	22286925	22290135	Gprotein_alpha_su	183.8	+	22286925	22290135	83,88,95	4	97,128,111,155	0,236,2321,3055	PF00503	http://pfam.sanger.ac.uk/family?acc=PF00503
-22	22287222	22290081	Small_GTPase_ARF/SAR	23.7	+	22287222	22290081	83,88,95	3	67,111,101	0,2024,2758	PF00025	http://pfam.sanger.ac.uk/family?acc=PF00025
-22	22286922	22290138	Gprotein_alpha_su	-40.8	+	22286922	22290138	83,88,95	4	100,128,111,158	0,239,2324,3058	SM00275	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00275
-22	22287198	22287266	Gprotein_alpha_su	425.0	+	22287198	22287266	83,88,95	1	68	0	PR00318	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00318&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00318
-22	22290049	22290078	Gprotein_alpha_su	333.0	+	22290049	22290078	83,88,95	1	29	0	PR00318	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00318&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00318
-22	22287195	22290126	P-loop_NTPase	0.0	+	22287195	22290126	83,88,95	3	94,111,146	0,2051,2785	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-22	22286925	22287242	GproteinA_insert	0.0	+	22286925	22287242	83,88,95	2	97,81	0,236	SSF47895	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47895

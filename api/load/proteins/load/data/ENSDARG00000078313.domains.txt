@@ -1,9 +1,0 @@
-22	5063004	5063063	Myosin_head_motor_dom	681.0	+	5063004	5063063	83,88,95	1	59	0	PR00193	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00193&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00193
-22	5063172	5063249	Myosin_head_motor_dom	665.0	+	5063172	5063249	83,88,95	1	77	0	PR00193	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00193&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00193
-22	5063307	5063330	Myosin_head_motor_dom	174.0	+	5063307	5063330	83,88,95	1	23	0	PR00193	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00193&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00193
-22	5062923	5063321	Myosin_head_motor_dom	141.3	+	5062923	5063321	83,88,95	1	398	0	PF00063	http://pfam.sanger.ac.uk/family?acc=PF00063
-22	5062533	5062817	Ras-assoc	52.3	+	5062533	5062817	83,88,95	1	284	0	PF00788	http://pfam.sanger.ac.uk/family?acc=PF00788
-22	5062896	5063330	Myosin_head_motor_dom	-494.3	+	5062896	5063330	83,88,95	1	434	0	SM00242	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00242
-22	5062524	5062820	Ras-assoc	81.8	+	5062524	5062820	83,88,95	1	296	0	SM00314	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00314
-22	5062524	5062820	Ras-assoc	20.485	+	5062524	5062820	83,88,95	1	296	0	PS50200	http://www.expasy.ch/prosite/PS50200
-22	5062902	5063321	P-loop_NTPase	0.0	+	5062902	5063321	83,88,95	1	419	0	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

@@ -1,6 +1,0 @@
-15	36505153	36505431	GPCR_Rhodpsn	57.3	-	36505153	36505431	83,88,95	1	278	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
-15	36505288	36505341	Formyl_pep_rcpt	383.0	-	36505288	36505341	83,88,95	1	53	0	PR00526	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00526&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00526
-15	36505150	36505215	GPCR_Rhodpsn	270.0	-	36505150	36505215	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
-15	36505255	36505323	GPCR_Rhodpsn	307.0	-	36505255	36505323	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
-15	36505216	36505266	Formyl_pep_rcpt	432.0	-	36505216	36505266	83,88,95	1	50	0	PR00526	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00526&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00526
-15	36504886	36505434	GPCR_Rhodpsn_7TM	10.982999999999999	-	36504886	36505434	83,88,95	2	212,523	0,25	PS50262	http://www.expasy.ch/prosite/PS50262

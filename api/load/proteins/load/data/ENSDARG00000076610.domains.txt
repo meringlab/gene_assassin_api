@@ -1,7 +1,0 @@
-3	2727298	2727498	Fe2_transport_prot_B_N	21.7	+	2727298	2727498	83,88,95	1	200	0	PF02421	http://pfam.sanger.ac.uk/family?acc=PF02421
-3	2727301	2727498	Ribosome_biogen_GTPase_RsgA	23.3	+	2727301	2727498	83,88,95	1	197	0	PF03193	http://pfam.sanger.ac.uk/family?acc=PF03193
-3	2727295	2727912	AIG1	207.7	+	2727295	2727912	83,88,95	1	617	0	PF04548	http://pfam.sanger.ac.uk/family?acc=PF04548
-3	2727328	2727510	GTP_binding_domain	25.3	+	2727328	2727510	83,88,95	1	182	0	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926
-3	2733585	2734193	AIG1	194.1	+	2733585	2734193	83,88,95	1	608	0	PF04548	http://pfam.sanger.ac.uk/family?acc=PF04548
-3	2727289	2728116	P-loop_NTPase	0.0	+	2727289	2728116	83,88,95	1	827	0	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-3	2728252	2734136	P-loop_NTPase	0.0	+	2728252	2734136	83,88,95	2	3,628	0,5256	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

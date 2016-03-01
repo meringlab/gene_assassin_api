@@ -1,9 +1,0 @@
-13	30263708	30267012	DUF1977_DnaJ-like	145.6	+	30263708	30267012	83,88,95	3	52,172,100	0,1394,3204	PF09320	http://pfam.sanger.ac.uk/family?acc=PF09320
-13	30259906	30262555	DnaJ_domain	90.6	+	30259906	30262555	83,88,95	2	129,55	0,2594	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226
-13	30259912	30259968	DnaJ_domain	582.0	+	30259912	30259968	83,88,95	1	56	0	PR00625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00625
-13	30259966	30260013	DnaJ_domain	522.0	+	30259966	30260013	83,88,95	1	47	0	PR00625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00625
-13	30260014	30262540	DnaJ_domain	454.0	+	30260014	30262540	83,88,95	2	21,40	0,2486	PR00625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00625
-13	30262538	30262597	DnaJ_domain	207.0	+	30262538	30262597	83,88,95	1	59	0	PR00625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00625
-13	30259903	30262540	DnaJ_domain	110.0	+	30259903	30262540	83,88,95	2	132,40	0,2597	SM00271	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00271
-13	30259906	30262564	DnaJ_domain	22.533	+	30259906	30262564	83,88,95	2	129,64	0,2594	PS50076	http://www.expasy.ch/prosite/PS50076
-13	30259763	30262588	DnaJ_domain	0.0	+	30259763	30262588	83,88,95	3	31,145,88	0,127,2737	SSF46565	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46565

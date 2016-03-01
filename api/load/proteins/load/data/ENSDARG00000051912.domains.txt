@@ -1,8 +1,0 @@
-16	3661566	3664078	Hemopexin-like_repeat	27.1	+	3661566	3664078	83,88,95	2	68,86	0,2426	PF00045	http://pfam.sanger.ac.uk/family?acc=PF00045
-16	3661566	3664078	Hemopexin-like_repeat	47.7	+	3661566	3664078	83,88,95	2	68,86	0,2426	SM00120	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00120
-16	3664082	3664958	Hemopexin-like_repeat	5.9	+	3664082	3664958	83,88,95	2	63,70	0,806	SM00120	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00120
-16	3664959	3665090	Hemopexin-like_repeat	20.5	+	3664959	3665090	83,88,95	1	131	0	SM00120	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00120
-16	3666896	3669673	Hemopexin-like_repeat	21.0	+	3666896	3669673	83,88,95	2	48,82	0,2695	SM00120	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00120
-16	3669677	3671783	Hemopexin-like_repeat	22.2	+	3669677	3671783	83,88,95	2	44,92	0,2014	SM00120	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00120
-16	3661049	3665096	Hemopexin-like_dom	0.0	+	3661049	3665096	83,88,95	4	75,160,153,208	0,425,2943,3839	SSF50923	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50923
-16	3666860	3672451	Hemopexin-like_dom	0.0	+	3666860	3672451	83,88,95	4	84,130,147,217	0,2731,4831,5374	SSF50923	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50923

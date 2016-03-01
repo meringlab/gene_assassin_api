@@ -1,8 +1,0 @@
-5	75550421	75551160	Paired_dom	215.3	-	75550421	75551160	83,88,95	3	609,-197,730	0,350,9	PF00292	http://pfam.sanger.ac.uk/family?acc=PF00292
-5	75545973	75548731	Pax2_C	148.0	-	75545973	75548731	83,88,95	4	2677,-98,-86,2697	0,2596,493,61	PF12403	http://pfam.sanger.ac.uk/family?acc=PF12403
-5	75551074	75551130	Paired_dom	814.0	-	75551074	75551130	83,88,95	1	56	0	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-5	75550759	75551070	Paired_dom	848.0	-	75550759	75551070	83,88,95	2	271,299	0,12	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-5	75550705	75550758	Paired_dom	776.0	-	75550705	75550758	83,88,95	1	53	0	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-5	75550421	75551160	Paired_dom	278.0	-	75550421	75551160	83,88,95	3	609,-197,730	0,350,9	SM00351	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00351
-5	75550415	75551160	Paired_dom	58.511	-	75550415	75551160	83,88,95	3	615,-197,730	0,356,15	PS51057	http://www.expasy.ch/prosite/PS51057
-5	75550418	75551157	Homeodomain-like	0.0	-	75550418	75551157	83,88,95	3	612,-197,727	0,353,12	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

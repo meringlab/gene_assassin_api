@@ -1,6 +1,0 @@
-9	30556876	30559951	2Fe-2S_ferredoxin-type	30.1	+	30556876	30559951	83,88,95	3	90,129,24	0,457,3051	PF00111	http://pfam.sanger.ac.uk/family?acc=PF00111
-9	30559928	30559954	Adrenodoxin	353.0	+	30559928	30559954	83,88,95	1	26	0	PR00355	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00355&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00355
-9	30557395	30557439	Adrenodoxin	335.0	+	30557395	30557439	83,88,95	1	44	0	PR00355	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00355&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00355
-9	30557338	30557370	Adrenodoxin	545.0	+	30557338	30557370	83,88,95	1	32	0	PR00355	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00355&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00355
-9	30556855	30559999	2Fe-2S_ferredoxin-type	8.836	+	30556855	30559999	83,88,95	3	111,129,72	0,478,3072	PS51085	http://www.expasy.ch/prosite/PS51085
-9	30556852	30559990	2Fe-2S_ferredoxin-type	0.0	+	30556852	30559990	83,88,95	3	114,129,63	0,481,3075	SSF54292	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54292

@@ -1,5 +1,0 @@
-1	9129336	9131180	Fibrinogen_a/b/g_coil_dom	151.1	+	9129336	9131180	83,88,95	3	35,183,211	0,1069,1633	PF08702	http://pfam.sanger.ac.uk/family?acc=PF08702
-1	9131190	9135261	Fibrinogen_a/b/g_C_dom	333.0	+	9131190	9135261	83,88,95	4	120,122,285,216	0,1140,2665,3855	PF00147	http://pfam.sanger.ac.uk/family?acc=PF00147
-1	9131184	9135261	Fibrinogen_a/b/g_C_dom	430.3	+	9131184	9135261	83,88,95	4	126,122,285,216	0,1146,2671,3861	SM00186	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00186
-1	9131151	9135270	Fibrinogen_a/b/g_C_dom	0.0	+	9131151	9135270	83,88,95	4	159,122,285,225	0,1179,2704,3894	SSF56496	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56496
-1	9130450	9131129	Prefoldin	0.0	+	9130450	9131129	83,88,95	2	138,160	0,519	SSF46579	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46579

@@ -1,7 +1,0 @@
-18	4405091	4405726	ZP_dom	255.0	+	4405091	4405726	83,88,95	2	5,41	0,594	PR00023	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00023&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00023
-18	4399231	4401653	ZP_dom	195.0	+	4399231	4401653	83,88,95	2	32,5	0,2417	PR00023	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00023&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00023
-18	4401960	4402007	ZP_dom	258.0	+	4401960	4402007	83,88,95	1	47	0	PR00023	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00023&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00023
-18	4402017	4405021	ZP_dom	181.0	+	4402017	4405021	83,88,95	2	31,21	0,2983	PR00023	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00023&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00023
-18	4399231	4405756	ZP_dom	136.0	+	4399231	4405756	83,88,95	4	32,400,96,71	0,2417,5769,6454	PF00100	http://pfam.sanger.ac.uk/family?acc=PF00100
-18	4399225	4405762	ZP_dom	32.8	+	4399225	4405762	83,88,95	4	38,400,96,77	0,2423,5775,6460	SM00241	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00241
-18	4399225	4405762	ZP_dom	31.763	+	4399225	4405762	83,88,95	4	38,400,96,77	0,2423,5775,6460	PS51034	http://www.expasy.ch/prosite/PS51034

@@ -1,8 +1,0 @@
-Zv9_NA164	7695	7721	Ser-Thr/Tyr_kinase_cat_dom	205.0	-	7695	7721	83,88,95	1	26	0	PR00109	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00109&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00109
-Zv9_NA164	7560	7616	Ser-Thr/Tyr_kinase_cat_dom	346.0	-	7560	7616	83,88,95	1	56	0	PR00109	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00109&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00109
-Zv9_NA164	3951	4109	Ser-Thr/Tyr_kinase_cat_dom	290.0	-	3951	4109	83,88,95	2	113,136	0,22	PR00109	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00109&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00109
-Zv9_NA164	2020	7721	Prot_kinase_dom	144.1	-	2020	7721	83,88,95	4	5483,-144,-138,5647	0,2188,1953,54	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
-Zv9_NA164	3888	7721	Ser-Thr/Tyr_kinase_cat_dom	60.1	-	3888	7721	83,88,95	3	3615,-144,3748	0,320,85	PF07714	http://pfam.sanger.ac.uk/family?acc=PF07714
-Zv9_NA164	2020	7721	Ser/Thr_dual-sp_kinase_dom	114.4	-	2020	7721	83,88,95	4	5483,-144,-138,5647	0,2188,1953,54	SM00220	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00220
-Zv9_NA164	2020	7721	Prot_kinase_dom	34.181	-	2020	7721	83,88,95	4	5483,-144,-138,5647	0,2188,1953,54	PS50011	http://www.expasy.ch/prosite/PS50011
-Zv9_NA164	1984	7721	Kinase-like_dom	0.0	-	1984	7721	83,88,95	4	5519,-144,-138,5647	0,2224,1989,90	SSF56112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56112

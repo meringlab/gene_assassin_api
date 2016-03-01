@@ -1,8 +1,0 @@
-6	30377622	30379956	aa-tRNA-synt_IIb_cons-dom	122.6	-	30377622	30379956	83,88,95	2	2080,2092	0,242	PF00587	http://pfam.sanger.ac.uk/family?acc=PF00587
-6	30377004	30377300	Anticodon-bd	42.7	-	30377004	30377300	83,88,95	1	296	0	PF03129	http://pfam.sanger.ac.uk/family?acc=PF03129
-6	30379849	30379905	Pro-tRNA-ligase_IIa	319.0	-	30379849	30379905	83,88,95	1	56	0	PR01046	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01046&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01046
-6	30379762	30379797	Pro-tRNA-ligase_IIa	294.0	-	30379762	30379797	83,88,95	1	35	0	PR01046	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01046&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01046
-6	30377841	30379704	Pro-tRNA-ligase_IIa	229.0	-	30377841	30379704	83,88,95	2	1861,1840	0,23	PR01046	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01046&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01046
-6	30377802	30377837	Pro-tRNA-ligase_IIa	343.0	-	30377802	30377837	83,88,95	1	35	0	PR01046	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01046&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01046
-6	30377319	30379956	aa-tRNA-synth_II	17.098	-	30377319	30379956	83,88,95	2	2383,2092	0,545	PS50862	http://www.expasy.ch/prosite/PS50862
-6	30376995	30377336	Anticodon-bd	0.0	-	30376995	30377336	83,88,95	1	341	0	SSF52954	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52954

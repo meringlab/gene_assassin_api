@@ -1,4 +1,0 @@
-13	21818531	21821089	GTP_binding_domain	33.8	+	21818531	21821089	83,88,95	3	48,61,71	0,136,2487	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926
-13	21821042	21821089	GTP_binding_domain	138.0	+	21821042	21821089	83,88,95	1	47	0	PR00326	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00326&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00326
-13	21818504	21818566	GTP_binding_domain	496.0	+	21818504	21818566	83,88,95	1	62	0	PR00326	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00326&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00326
-13	21818231	21821433	P-loop_NTPase	0.0	+	21818231	21821433	83,88,95	7	20,86,90,61,96,81,48	0,98,258,436,2787,2958,3154	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

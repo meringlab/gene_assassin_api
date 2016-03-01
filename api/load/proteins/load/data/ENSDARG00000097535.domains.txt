@@ -1,6 +1,0 @@
-2	9642993	9643112	TNFR/NGFR_Cys_rich_reg	27.0	-	9642993	9643112	83,88,95	1	119	0	PF00020	http://pfam.sanger.ac.uk/family?acc=PF00020
-2	9639282	9639517	EGF-like_Ca-bd_dom	24.8	-	9639282	9639517	83,88,95	2	169,144	0,91	PF07645	http://pfam.sanger.ac.uk/family?acc=PF07645
-2	9639213	9639323	TNFR/NGFR_Cys_rich_reg	28.6	-	9639213	9639323	83,88,95	1	110	0	SM00208	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00208
-2	9642993	9643112	TNFR/NGFR_Cys_rich_reg	37.2	-	9642993	9643112	83,88,95	1	119	0	SM00208	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00208
-2	9642993	9643115	TNFR/NGFR_Cys_rich_reg	11.949000000000002	-	9642993	9643115	83,88,95	1	122	0	PS50050	http://www.expasy.ch/prosite/PS50050
-2	9639213	9639326	TNFR/NGFR_Cys_rich_reg	9.231	-	9639213	9639326	83,88,95	1	113	0	PS50050	http://www.expasy.ch/prosite/PS50050

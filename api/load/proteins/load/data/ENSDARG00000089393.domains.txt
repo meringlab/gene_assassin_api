@@ -1,4 +1,0 @@
-16	3576287	3596456	V/L/I-tRNA-synth_anticodon-bd	46.9	-	3576287	3596456	83,88,95	5	20131,-77,-111,-127,20143	0,15088,14937,9626,26	PF08264	http://pfam.sanger.ac.uk/family?acc=PF08264
-16	3598185	3598301	aa-tRNA-synth_Ia	25.0	-	3598185	3598301	83,88,95	1	116	0	PF00133	http://pfam.sanger.ac.uk/family?acc=PF00133
-16	3598188	3598301	Methionyl/Leucyl_tRNA_Synth	21.8	-	3598188	3598301	83,88,95	1	113	0	PF09334	http://pfam.sanger.ac.uk/family?acc=PF09334
-16	3585813	3596561	tRNAsynth_1a_anticodon-bd	0.0	-	3585813	3596561	83,88,95	4	10605,-77,-111,10648	0,5562,5411,100	SSF47323	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47323

@@ -1,8 +1,0 @@
-23	7788539	7789567	Kinesin_motor_dom	621.3	+	7788539	7789567	83,88,95	1	1028	0	SM00129	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00129
-23	7788563	7789543	Kinesin_motor_dom	390.9	+	7788563	7789543	83,88,95	1	980	0	PF00225	http://pfam.sanger.ac.uk/family?acc=PF00225
-23	7788782	7788847	Kinesin_motor_dom	910.0	+	7788782	7788847	83,88,95	1	65	0	PR00380	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00380&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00380
-23	7789139	7789192	Kinesin_motor_dom	585.0	+	7789139	7789192	83,88,95	1	53	0	PR00380	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00380&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00380
-23	7789241	7789297	Kinesin_motor_dom	574.0	+	7789241	7789297	83,88,95	1	56	0	PR00380	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00380&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00380
-23	7789391	7789456	Kinesin_motor_dom	822.0	+	7789391	7789456	83,88,95	1	65	0	PR00380	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00380&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00380
-23	7788536	7789333	Kinesin_motor_dom	58.923	+	7788536	7789333	83,88,95	1	797	0	PS50067	http://www.expasy.ch/prosite/PS50067
-23	7788545	7789675	P-loop_NTPase	0.0	+	7788545	7789675	83,88,95	1	1130	0	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

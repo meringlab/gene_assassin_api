@@ -1,6 +1,0 @@
-3	44042291	44042593	DNA_helicase_Pif1	57.1	-	44042291	44042593	83,88,95	1	302	0	PF05970	http://pfam.sanger.ac.uk/family?acc=PF05970
-3	44041499	44041885	DNA_helicase_Pif1	50.0	-	44041499	44041885	83,88,95	1	386	0	PF05970	http://pfam.sanger.ac.uk/family?acc=PF05970
-3	44040680	44041261	Endo/exonuclease/phosphatase	24.4	-	44040680	44041261	83,88,95	1	581	0	PF03372	http://pfam.sanger.ac.uk/family?acc=PF03372
-3	44041391	44042365	P-loop_NTPase	0.0	-	44041391	44042365	83,88,95	1	974	0	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-3	44042198	44043358	P-loop_NTPase	0.0	-	44042198	44043358	83,88,95	1	1160	0	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-3	44040680	44041336	Endo/exonuclease/phosphatase	0.0	-	44040680	44041336	83,88,95	1	656	0	SSF56219	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56219

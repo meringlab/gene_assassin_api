@@ -1,6 +1,0 @@
-22	21776196	21776240	SH2	438.0	+	21776196	21776240	83,88,95	1	44	0	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-22	21776253	21776285	SH2	229.0	+	21776253	21776285	83,88,95	1	32	0	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-22	21786703	21786747	SH2	261.0	+	21786703	21786747	83,88,95	1	44	0	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-22	21776196	21786738	SH2	56.1	+	21776196	21786738	83,88,95	2	118,111	0,10431	PF00017	http://pfam.sanger.ac.uk/family?acc=PF00017
-22	21776196	21786795	SH2	18.146	+	21776196	21786795	83,88,95	2	118,168	0,10431	PS50001	http://www.expasy.ch/prosite/PS50001
-22	21768288	21786756	SH2	101.2	+	21768288	21786756	83,88,95	3	4,119,129	0,7907,18339	SM00252	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00252

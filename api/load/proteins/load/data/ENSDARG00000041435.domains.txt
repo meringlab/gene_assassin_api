@@ -1,8 +1,0 @@
-2	56558027	56558089	Ubiquitin	846.0	-	56558027	56558089	83,88,95	1	62	0	PR00348	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00348&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00348
-2	56557878	56558026	Ubiquitin	1037.0	-	56557878	56558026	83,88,95	2	139,96	0,52	PR00348	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00348&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00348
-2	56555970	56557877	Ubiquitin	993.0	-	56555970	56557877	83,88,95	2	1874,1876	0,31	PR00348	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00348&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00348
-2	56555976	56558119	Ubiquitin_dom	136.5	-	56555976	56558119	83,88,95	3	2041,-86,2118	0,1954,25	SM00213	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00213
-2	56555970	56558104	Ubiquitin_dom	119.2	-	56555970	56558104	83,88,95	3	2047,-86,2103	0,1960,31	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240
-2	56552218	56555960	Ribosomal_L40e	103.0	-	56552218	56555960	83,88,95	2	3681,3652	0,90	PF01020	http://pfam.sanger.ac.uk/family?acc=PF01020
-2	56555979	56558119	Rad60/SUMO_like	72.0	-	56555979	56558119	83,88,95	3	2038,-86,2118	0,1951,22	PF11976	http://pfam.sanger.ac.uk/family?acc=PF11976
-2	56555964	56558119	Ubiquitin_dom	31.018	-	56555964	56558119	83,88,95	3	2053,-86,2118	0,1966,37	PS50053	http://www.expasy.ch/prosite/PS50053

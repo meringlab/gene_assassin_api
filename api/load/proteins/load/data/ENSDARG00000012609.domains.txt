@@ -1,8 +1,0 @@
-9	33876890	33879969	Hemopexin-like_dom	0.0	-	33876890	33879969	83,88,95	5	3004,-157,-153,-212,3069	0,834,573,328,10	SSF50923	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50923
-9	33874576	33876886	Hemopexin-like_dom	0.0	-	33874576	33876886	83,88,95	4	2223,-124,-147,2090	0,687,459,220	SSF50923	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50923
-9	33877148	33877373	Hemopexin-like_repeat	4.0	-	33877148	33877373	83,88,95	2	162,155	0,70	SM00120	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00120
-9	33877377	33877635	Hemopexin-like_repeat	32.9	-	33877377	33877635	83,88,95	2	190,172	0,86	SM00120	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00120
-9	33874943	33875183	Hemopexin-like_repeat	22.6	-	33874943	33875183	83,88,95	2	196,148	0,92	SM00120	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00120
-9	33875187	33876847	Hemopexin-like_repeat	16.2	-	33875187	33876847	83,88,95	2	1612,1584	0,76	SM00120	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00120
-9	33877016	33877147	Hemopexin-like_repeat	22.6	-	33877016	33877147	83,88,95	1	131	0	SM00120	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00120
-9	33874570	33880748	Hemopexin_chordata	961.1	-	33874570	33880748	83,88,95	10	6117,-28,-122,-157,-153,-212,-101,-124,-147,5952	0,5564,5446,3154,2893,2648,2330,693,465,226	PIRSF002551	None

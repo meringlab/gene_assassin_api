@@ -1,8 +1,0 @@
-13	20624592	20624843	GDNF/GAS1	56.1	+	20624592	20624843	83,88,95	1	251	0	PF02351	http://pfam.sanger.ac.uk/family?acc=PF02351
-13	20624871	20630312	GDNF/GAS1	31.6	+	20624871	20630312	83,88,95	2	43,108	0,5333	PF02351	http://pfam.sanger.ac.uk/family?acc=PF02351
-13	20624691	20624744	GDNF_rcpt	810.0	+	20624691	20624744	83,88,95	1	53	0	PR01316	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01316&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01316
-13	20624805	20624843	GDNF_rcpt	611.0	+	20624805	20624843	83,88,95	1	38	0	PR01316	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01316&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01316
-13	20624907	20630222	GDNF_rcpt	443.0	+	20624907	20630222	83,88,95	2	7,18	0,5297	PR01316	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01316&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01316
-13	20630286	20630315	GDNF_rcpt	432.0	+	20630286	20630315	83,88,95	1	29	0	PR01316	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01316&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01316
-13	20624592	20624843	GDNF/GAS1	86.1	+	20624592	20624843	83,88,95	1	251	0	SM00907	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00907
-13	20624871	20630312	GDNF/GAS1	0.6	+	20624871	20630312	83,88,95	2	43,108	0,5333	SM00907	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00907

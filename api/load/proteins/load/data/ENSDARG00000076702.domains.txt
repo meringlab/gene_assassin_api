@@ -1,6 +1,0 @@
-12	46264437	46267453	PH_dom-spectrin-type	191.0	-	46264437	46267453	83,88,95	2	2965,3009	0,7	PR00683	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00683&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00683
-12	46261359	46261412	PH_dom-spectrin-type	274.0	-	46261359	46261412	83,88,95	1	53	0	PR00683	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00683&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00683
-12	46255453	46261352	PH_dom-spectrin-type	410.0	-	46255453	46261352	83,88,95	2	5874,5869	0,30	PR00683	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00683&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00683
-12	46255438	46267456	Pleckstrin_homology	45.8	-	46255438	46267456	83,88,95	4	11964,-70,-157,11973	0,9006,6046,45	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169
-12	46255426	46267459	Pleckstrin_homology	65.2	-	46255426	46267459	83,88,95	4	11976,-70,-157,11976	0,9018,6058,57	SM00233	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00233
-12	46255432	46267462	Pleckstrin_homology	12.507	-	46255432	46267462	83,88,95	4	11970,-70,-157,11979	0,9012,6052,51	PS50003	http://www.expasy.ch/prosite/PS50003

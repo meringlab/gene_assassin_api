@@ -1,7 +1,0 @@
-11	43194139	43194186	AB_hydrolase_1	187.0	-	43194139	43194186	83,88,95	1	47	0	PR00111	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00111&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00111
-11	43190827	43190868	AB_hydrolase_1	282.0	-	43190827	43190868	83,88,95	1	41	0	PR00111	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00111&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00111
-11	43190785	43190826	AB_hydrolase_1	154.0	-	43190785	43190826	83,88,95	1	41	0	PR00111	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00111&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00111
-11	43183594	43187940	AB_hydrolase_1	248.0	-	43183594	43187940	83,88,95	2	4317,4332	0,14	PR00111	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00111&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00111
-11	43183483	43194177	AB_hydrolase_1	61.8	-	43183483	43194177	83,88,95	6	10602,-132,-157,-54,-100,10569	0,7424,5646,5050,4528,125	PF00561	http://pfam.sanger.ac.uk/family?acc=PF00561
-11	43189071	43195838	DUF1057	25.9	-	43189071	43195838	83,88,95	4	6708,-113,-132,6709	0,5127,1836,58	PF06342	http://pfam.sanger.ac.uk/family?acc=PF06342
-11	43189119	43195826	Lipase_N	22.4	-	43189119	43195826	83,88,95	4	6660,-113,-132,6697	0,5079,1788,10	PF00151	http://pfam.sanger.ac.uk/family?acc=PF00151

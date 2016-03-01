@@ -1,0 +1,4 @@
+#>P	ENSDARG00000091785	ENSDART00000122851	ENSDARP00000108290	7	48832100	48833647	-1	helentron 4 helitron-like transposon replicase/helicase/endonuclease [Source:ZFIN;Acc:ZDB-GENE-031113-28]
+#>E	ENSDARE00000917562	1.0	48832097-48833647
+7	48832298	48832759	-1.0	Endo/exonuclease/phosphatase	30.0	48832298-48832759	PF03372	http://pfam.sanger.ac.uk/family?acc=PF03372
+7	48832919	48833308	-1.0	DNA_helicase_Pif1	56.4	48832919-48833308	PF05970	http://pfam.sanger.ac.uk/family?acc=PF05970

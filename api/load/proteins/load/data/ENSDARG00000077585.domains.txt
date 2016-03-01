@@ -1,7 +1,0 @@
-10	33848666	33848722	DnaJ_domain	428.0	+	33848666	33848722	83,88,95	1	56	0	PR00625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00625
-10	33848720	33848767	DnaJ_domain	369.0	+	33848720	33848767	83,88,95	1	47	0	PR00625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00625
-10	33848771	33848833	DnaJ_domain	386.0	+	33848771	33848833	83,88,95	1	62	0	PR00625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00625
-10	33848663	33848848	DnaJ_domain	77.0	+	33848663	33848848	83,88,95	1	185	0	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226
-10	33848657	33848833	DnaJ_domain	87.0	+	33848657	33848833	83,88,95	1	176	0	SM00271	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00271
-10	33848660	33848845	DnaJ_domain	0.0	+	33848660	33848845	83,88,95	1	185	0	SSF46565	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46565
-10	33848660	33848857	DnaJ_domain	17.953	+	33848660	33848857	83,88,95	1	197	0	PS50076	http://www.expasy.ch/prosite/PS50076

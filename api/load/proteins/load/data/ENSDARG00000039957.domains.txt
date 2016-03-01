@@ -1,6 +1,0 @@
-16	36110084	36110242	Furin_repeat	33.3	-	36110084	36110242	83,88,95	1	158	0	SM00261	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00261
-16	36104185	36110068	Furin_repeat	30.9	-	36104185	36110068	83,88,95	2	5868,5765	0,118	SM00261	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00261
-16	36100416	36100607	Thrombospondin_1_rpt	30.3	-	36100416	36100607	83,88,95	1	191	0	SM00209	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00209
-16	36100410	36100616	Thrombospondin_1_rpt	9.024	-	36100410	36100616	83,88,95	1	206	0	PS50092	http://www.expasy.ch/prosite/PS50092
-16	36100602	36110221	Growth_fac_rcpt_N_dom	0.0	-	36100602	36110221	83,88,95	3	9451,-140,9603	0,3701,16	SSF57184	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57184
-16	36100413	36104172	Thrombospondin_1_rpt	0.0	-	36100413	36104172	83,88,95	2	3750,3554	0,205	SSF82895	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF82895

@@ -1,8 +1,0 @@
-1	28707104	28707148	Peptidase_M14	284.0	+	28707104	28707148	83,88,95	1	44	0	PR00765	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00765&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00765
-1	28706832	28706870	Peptidase_M14	294.0	+	28706832	28706870	83,88,95	1	38	0	PR00765	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00765&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00765
-1	28706775	28708928	Peptidase_M14	272.9	+	28706775	28708928	83,88,95	7	98,107,110,90,202,84,139	0,299,917,1313,1516,1832,2014	PF00246	http://pfam.sanger.ac.uk/family?acc=PF00246
-1	28706006	28706603	Prot_inh_M14A	40.6	+	28706006	28706603	83,88,95	3	62,124,33	0,286,564	PF02244	http://pfam.sanger.ac.uk/family?acc=PF02244
-1	28706661	28708922	Peptidase_M14	429.3	+	28706661	28708922	83,88,95	8	17,101,107,110,90,202,84,133	0,111,413,1031,1427,1630,1946,2128	SM00631	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00631
-1	28708413	28708454	Peptidase_M14	355.0	+	28708413	28708454	83,88,95	1	41	0	PR00765	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00765&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00765
-1	28708139	28708165	Peptidase_M14	355.0	+	28708139	28708165	83,88,95	1	26	0	PR00765	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00765&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00765
-1	28704997	28706627	Prot_inh_propept	0.0	+	28704997	28706627	83,88,95	4	19,75,124,57	0,996,1295,1573	SSF54897	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54897

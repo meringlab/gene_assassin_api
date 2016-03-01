@@ -1,9 +1,0 @@
-1	59432721	59433071	SPRY_rcpt	48.7	-	59432721	59433071	83,88,95	1	350	0	PF00622	http://pfam.sanger.ac.uk/family?acc=PF00622
-1	59433180	59433233	Butyrophylin	290.0	-	59433180	59433233	83,88,95	1	53	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
-1	59433129	59433182	Butyrophylin	169.0	-	59433129	59433182	83,88,95	1	53	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
-1	59432994	59433035	Butyrophylin	215.0	-	59432994	59433035	83,88,95	1	41	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
-1	59432820	59432894	Butyrophylin	454.0	-	59432820	59432894	83,88,95	1	74	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
-1	59432706	59433074	SPla/RYanodine_receptor_subgr	47.4	-	59432706	59433074	83,88,95	1	368	0	SM00449	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00449
-1	59433072	59433230	PRY	74.5	-	59433072	59433230	83,88,95	1	158	0	SM00589	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00589
-1	59432706	59433365	B30.2/SPRY	17.101	-	59432706	59433365	83,88,95	2	611,133	0,526	PS50188	http://www.expasy.ch/prosite/PS50188
-1	59432706	59433338	ConA-like_lec_gl_sf	0.0	-	59432706	59433338	83,88,95	2	611,106	0,526	SSF49899	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49899

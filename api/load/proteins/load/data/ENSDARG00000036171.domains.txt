@@ -1,6 +1,0 @@
-14	40044962	40045021	RNaseA	155.0	+	40044962	40045021	83,88,95	1	59	0	PR00794	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00794&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00794
-14	40045094	40045150	RNaseA	206.0	+	40045094	40045150	83,88,95	1	56	0	PR00794	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00794&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00794
-14	40045160	40045228	RNaseA	527.0	+	40045160	40045228	83,88,95	1	68	0	PR00794	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00794&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00794
-14	40044893	40045243	RNaseA_domain	106.9	+	40044893	40045243	83,88,95	1	350	0	PF00074	http://pfam.sanger.ac.uk/family?acc=PF00074
-14	40044887	40045249	RNaseA_domain	98.0	+	40044887	40045249	83,88,95	1	362	0	SM00092	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00092
-14	40044881	40045249	RNaseA_domain	0.0	+	40044881	40045249	83,88,95	1	368	0	SSF54076	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54076

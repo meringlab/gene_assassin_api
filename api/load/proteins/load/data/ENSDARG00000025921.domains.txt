@@ -1,9 +1,0 @@
-1	1075549	1075833	RunxI_C_dom	133.4	+	1075549	1075833	83,88,95	1	284	0	PF08504	http://pfam.sanger.ac.uk/family?acc=PF08504
-1	1063377	1064504	Runt_dom	58.8	+	1063377	1064504	83,88,95	2	105,13	0,1114	PF00853	http://pfam.sanger.ac.uk/family?acc=PF00853
-1	1063410	1063478	AML1_Runt	1149.0	+	1063410	1063478	83,88,95	1	68	0	PR00967	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00967&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00967
-1	1075522	1075581	AML1_Runt	314.0	+	1075522	1075581	83,88,95	1	59	0	PR00967	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00967&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00967
-1	1075603	1075647	AML1_Runt	551.0	+	1075603	1075647	83,88,95	1	44	0	PR00967	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00967&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00967
-1	1075663	1075707	AML1_Runt	169.0	+	1075663	1075707	83,88,95	1	44	0	PR00967	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00967&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00967
-1	1075753	1075806	AML1_Runt	568.0	+	1075753	1075806	83,88,95	1	53	0	PR00967	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00967&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00967
-1	1063377	1064492	Runt_dom	22.655	+	1063377	1064492	83,88,95	2	105,1	0,1114	PS51062	http://www.expasy.ch/prosite/PS51062
-1	1063377	1064492	p53-like_TF_DNA-bd	0.0	+	1063377	1064492	83,88,95	2	105,1	0,1114	SSF49417	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49417

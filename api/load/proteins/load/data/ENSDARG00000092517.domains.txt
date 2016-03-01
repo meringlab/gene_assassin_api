@@ -1,9 +1,0 @@
-5	67478386	67478451	GoLoco_motif	41.4	-	67478386	67478451	83,88,95	1	65	0	PF02188	http://pfam.sanger.ac.uk/family?acc=PF02188
-5	67476266	67478304	GoLoco_motif	37.8	-	67476266	67478304	83,88,95	2	2008,2004	0,34	PF02188	http://pfam.sanger.ac.uk/family?acc=PF02188
-5	67476179	67476247	GoLoco_motif	39.7	-	67476179	67476247	83,88,95	1	68	0	PF02188	http://pfam.sanger.ac.uk/family?acc=PF02188
-5	67476179	67476247	GoLoco_motif	43.4	-	67476179	67476247	83,88,95	1	68	0	SM00390	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00390
-5	67476266	67478307	GoLoco_motif	42.0	-	67476266	67478307	83,88,95	2	2008,2007	0,34	SM00390	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00390
-5	67478383	67478451	GoLoco_motif	43.5	-	67478383	67478451	83,88,95	1	68	0	SM00390	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00390
-5	67478383	67478451	GoLoco_motif	10.255999999999998	-	67478383	67478451	83,88,95	1	68	0	PS50877	http://www.expasy.ch/prosite/PS50877
-5	67476266	67478307	GoLoco_motif	10.651	-	67476266	67478307	83,88,95	2	2008,2007	0,34	PS50877	http://www.expasy.ch/prosite/PS50877
-5	67476179	67476247	GoLoco_motif	10.238	-	67476179	67476247	83,88,95	1	68	0	PS50877	http://www.expasy.ch/prosite/PS50877

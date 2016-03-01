@@ -1,8 +1,0 @@
-1	12845814	12845870	Ets_dom	498.0	-	12845814	12845870	83,88,95	1	56	0	PR00454	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00454&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00454
-1	12845871	12846036	Ets_dom	699.0	-	12845871	12846036	83,88,95	2	116,159	0,6	PR00454	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00454&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00454
-1	12846037	12846093	Ets_dom	478.0	-	12846037	12846093	83,88,95	1	56	0	PR00454	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00454&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00454
-1	12846130	12846171	Ets_dom	431.0	-	12846130	12846171	83,88,95	1	41	0	PR00454	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00454&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00454
-1	12845802	12846174	Ets_dom	186.2	-	12845802	12846174	83,88,95	2	185,297	0,75	SM00413	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00413
-1	12845814	12846171	Ets_dom	26.666	-	12845814	12846171	83,88,95	2	173,294	0,63	PS50061	http://www.expasy.ch/prosite/PS50061
-1	12845811	12846171	Ets_dom	118.8	-	12845811	12846171	83,88,95	2	176,294	0,66	PF00178	http://pfam.sanger.ac.uk/family?acc=PF00178
-1	12848724	12860829	TF_Elf_N	82.4	-	12848724	12860829	83,88,95	3	12040,-207,12026	0,8875,79	PF12310	http://pfam.sanger.ac.uk/family?acc=PF12310

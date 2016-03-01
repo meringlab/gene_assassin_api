@@ -1,8 +1,0 @@
-25	23006032	23006100	Stomatin_fam	525.0	+	23006032	23006100	83,88,95	1	68	0	PR00721	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00721&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00721
-25	23009586	23009651	Stomatin_fam	338.0	+	23009586	23009651	83,88,95	1	65	0	PR00721	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00721&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00721
-25	23009691	23009744	Stomatin_fam	254.0	+	23009691	23009744	83,88,95	1	53	0	PR00721	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00721&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00721
-25	23009751	23011772	Stomatin_fam	380.0	+	23009751	23011772	83,88,95	2	38,32	0,1989	PR00721	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00721&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00721
-25	23006023	23011796	Band_7	66.3	+	23006023	23011796	83,88,95	3	149,203,56	0,3563,5717	PF01145	http://pfam.sanger.ac.uk/family?acc=PF01145
-25	23014615	23015261	SCP2_sterol-bd_dom	65.4	+	23014615	23015261	83,88,95	2	129,181	0,465	PF02036	http://pfam.sanger.ac.uk/family?acc=PF02036
-25	23005932	23011865	Band_7	124.4	+	23005932	23011865	83,88,95	4	11,149,203,125	0,91,3654,5808	SM00244	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00244
-25	23014597	23015261	SCP2_sterol-bd_dom	0.0	+	23014597	23015261	83,88,95	2	147,181	0,483	SSF55718	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55718

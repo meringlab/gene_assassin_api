@@ -1,6 +1,0 @@
-16	42691544	42693599	Histidine_triad_HIT	31.7	+	42691544	42693599	83,88,95	4	26,117,69,60	0,1525,1832,1995	PF01230	http://pfam.sanger.ac.uk/family?acc=PF01230
-16	42693564	42693596	Histidine_triad_HIT	340.0	+	42693564	42693596	83,88,95	1	32	0	PR00332	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00332&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00332
-16	42693081	42693137	Histidine_triad_HIT	451.0	+	42693081	42693137	83,88,95	1	56	0	PR00332	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00332&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00332
-16	42691520	42691570	Histidine_triad_HIT	288.0	+	42691520	42691570	83,88,95	1	50	0	PR00332	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00332&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00332
-16	42691520	42693629	HIT-like	13.715	+	42691520	42693629	83,88,95	4	50,117,69,90	0,1549,1856,2019	PS51084	http://www.expasy.ch/prosite/PS51084
-16	42691505	42697983	HIT-like	0.0	+	42691505	42697983	83,88,95	5	65,117,69,126,23	0,1564,1871,2034,6455	SSF54197	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54197

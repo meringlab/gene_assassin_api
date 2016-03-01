@@ -1,8 +1,0 @@
-1	56435349	56435390	AntifreezeII	457.0	+	56435349	56435390	83,88,95	1	41	0	PR00356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00356
-1	56433430	56433480	AntifreezeII	360.0	+	56433430	56433480	83,88,95	1	50	0	PR00356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00356
-1	56433276	56433402	AntifreezeII	244.0	+	56433276	56433402	83,88,95	2	47,5	0,121	PR00356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00356
-1	56433222	56433275	AntifreezeII	190.0	+	56433222	56433275	83,88,95	1	53	0	PR00356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00356
-1	56433240	56435396	C-type_lectin	100.2	+	56433240	56435396	83,88,95	3	83,103,132	0,157,2024	PF00059	http://pfam.sanger.ac.uk/family?acc=PF00059
-1	56432919	56435393	C-type_lectin	96.5	+	56432919	56435393	83,88,95	4	18,127,103,129	0,277,478,2345	SM00034	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00034
-1	56433198	56435393	C-type_lectin	22.925	+	56433198	56435393	83,88,95	3	125,103,129	0,199,2066	PS50041	http://www.expasy.ch/prosite/PS50041
-1	56433219	56435396	C-type_lectin_fold	0.0	+	56433219	56435396	83,88,95	3	104,103,132	0,178,2045	SSF56436	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56436

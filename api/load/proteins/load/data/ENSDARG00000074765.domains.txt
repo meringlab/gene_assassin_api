@@ -1,8 +1,0 @@
-3	1115081	1115137	MHC_I_a	480.0	-	1115081	1115137	83,88,95	1	56	0	PR01638	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01638&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01638
-3	1115297	1115347	MHC_I_a	332.0	-	1115297	1115347	83,88,95	1	50	0	PR01638	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01638&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01638
-3	1122592	1122681	MHC_I_a	322.0	-	1122592	1122681	83,88,95	1	89	0	PR01638	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01638&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01638
-3	1115069	1122855	MHC_I_a_a1/a2	125.1	-	1115069	1122855	83,88,95	2	7516,7509	0,277	PF00129	http://pfam.sanger.ac.uk/family?acc=PF00129
-3	1114708	1114944	Ig_C1-set	54.4	-	1114708	1114944	83,88,95	1	236	0	PF07654	http://pfam.sanger.ac.uk/family?acc=PF07654
-3	1114711	1114929	Ig_C1-set	42.8	-	1114711	1114929	83,88,95	1	218	0	SM00407	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00407
-3	1114729	1114974	Ig-like_dom	6.56	-	1114729	1114974	83,88,95	1	245	0	PS50835	http://www.expasy.ch/prosite/PS50835
-3	1115063	1122858	MHC_I/II-like_Ag-recog	0.0	-	1115063	1122858	83,88,95	2	7522,7512	0,283	SSF54452	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54452

@@ -1,5 +1,0 @@
-1	9952030	9952404	cNMP-bd_dom	98.8	+	9952030	9952404	83,88,95	1	374	0	SM00100	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00100
-1	9949601	9951783	Ion_trans_dom	62.4	+	9949601	9951783	83,88,95	2	60,523	0,1659	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
-1	9952087	9952365	cNMP-bd_dom	64.5	+	9952087	9952365	83,88,95	1	278	0	PF00027	http://pfam.sanger.ac.uk/family?acc=PF00027
-1	9952030	9952374	cNMP-bd_dom	23.368000000000002	+	9952030	9952374	83,88,95	1	344	0	PS50042	http://www.expasy.ch/prosite/PS50042
-1	9951805	9952410	cNMP-bd-like	0.0	+	9951805	9952410	83,88,95	1	605	0	SSF51206	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51206

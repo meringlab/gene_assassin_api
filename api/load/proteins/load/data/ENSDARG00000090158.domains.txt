@@ -1,5 +1,0 @@
-Zv9_NA75	12001	13566	Prot_kinase_dom	68.2	+	12001	13566	83,88,95	3	39,106,170	0,1062,1395	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
-Zv9_NA75	11998	13563	Ser-Thr/Tyr_kinase_cat_dom	48.4	+	11998	13563	83,88,95	3	42,106,167	0,1065,1398	PF07714	http://pfam.sanger.ac.uk/family?acc=PF07714
-Zv9_NA75	11989	13650	Ser/Thr_dual-sp_kinase_dom	-56.5	+	11989	13650	83,88,95	3	51,106,254	0,1074,1407	SM00220	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00220
-Zv9_NA75	11989	13650	Prot_kinase_dom	16.188	+	11989	13650	83,88,95	3	51,106,254	0,1074,1407	PS50011	http://www.expasy.ch/prosite/PS50011
-Zv9_NA75	11829	13563	Kinase-like_dom	0.0	+	11829	13563	83,88,95	4	20,72,106,167	0,139,1234,1567	SSF56112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56112

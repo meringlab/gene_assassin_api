@@ -1,7 +1,0 @@
-5	23071564	23077388	SH2	64.5	+	23071564	23077388	83,88,95	3	127,60,77	0,1703,5747	SM00252	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00252
-5	23071573	23077364	SH2	51.1	+	23071573	23077364	83,88,95	3	118,60,53	0,1694,5738	PF00017	http://pfam.sanger.ac.uk/family?acc=PF00017
-5	23071570	23071614	SH2	268.0	+	23071570	23071614	83,88,95	1	44	0	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-5	23071630	23071662	SH2	274.0	+	23071630	23071662	83,88,95	1	32	0	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-5	23071666	23073276	SH2	131.0	+	23071666	23073276	83,88,95	2	25,9	0,1601	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-5	23077335	23077379	SH2	107.0	+	23077335	23077379	83,88,95	1	44	0	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-5	23071570	23077415	SH2	14.987	+	23071570	23077415	83,88,95	3	121,60,104	0,1697,5741	PS50001	http://www.expasy.ch/prosite/PS50001

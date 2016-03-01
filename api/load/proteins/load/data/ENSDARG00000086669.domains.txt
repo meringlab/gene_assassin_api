@@ -1,6 +1,0 @@
-23	12180190	12180279	Endothln-like_toxin	56.6	+	12180190	12180279	83,88,95	1	89	0	PF00322	http://pfam.sanger.ac.uk/family?acc=PF00322
-23	12180265	12208737	Bibrotoxin/Sarafotoxin-D	505.0	+	12180265	12208737	83,88,95	2	13,24	0,28448	PR00365	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00365&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00365
-23	12180232	12180264	Bibrotoxin/Sarafotoxin-D	627.0	+	12180232	12180264	83,88,95	1	32	0	PR00365	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00365&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00365
-23	12180196	12180234	Bibrotoxin/Sarafotoxin-D	542.0	+	12180196	12180234	83,88,95	1	38	0	PR00365	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00365&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00365
-23	12180199	12180264	Endothln-like_toxin	36.8	+	12180199	12180264	83,88,95	1	65	0	SM00272	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00272
-23	12208798	12212404	Endothln-like_toxin	12.6	+	12208798	12212404	83,88,95	2	55,9	0,3597	SM00272	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00272

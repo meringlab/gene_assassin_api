@@ -1,8 +1,0 @@
-21	20508236	20516756	TGF-beta	763.1	+	20508236	20516756	83,88,95	9	336,37,12,239,83,141,150,110,44	0,2042,2368,4230,5336,5496,6723,8289,8476	PIRSF001787	None
-21	20508263	20508322	TGF-beta	231.0	+	20508263	20508322	83,88,95	1	59	0	PR01423	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01423&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01423
-21	20508431	20508469	TGF-beta	394.0	+	20508431	20508469	83,88,95	1	38	0	PR01423	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01423&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01423
-21	20512561	20512605	TGF-beta	348.0	+	20512561	20512605	83,88,95	1	44	0	PR01423	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01423&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01423
-21	20512654	20512698	TGF-beta	557.0	+	20512654	20512698	83,88,95	1	44	0	PR01423	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01423&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01423
-21	20508296	20513636	TGF-b_N	107.8	+	20508296	20513636	83,88,95	5	276,37,12,239,64	0,1982,2308,4170,5276	PF00688	http://pfam.sanger.ac.uk/family?acc=PF00688
-21	20514966	20516753	TGF-b_C	99.4	+	20514966	20516753	83,88,95	3	143,110,41	0,1559,1746	PF00019	http://pfam.sanger.ac.uk/family?acc=PF00019
-21	20514972	20516756	TGF-b_C	126.8	+	20514972	20516756	83,88,95	3	137,110,44	0,1553,1740	SM00204	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00204

@@ -1,7 +1,0 @@
-1	46088508	46102182	Septin	535.1	-	46088508	46102182	83,88,95	9	13581,-128,-81,-137,-117,-95,-96,-51,13551	0,13497,9930,6446,4658,4463,4267,1965,123	PIRSF006698	None
-1	46102234	46102323	Septin3	404.0	-	46102234	46102323	83,88,95	1	89	0	PR01741	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01741&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01741
-1	46088538	46088588	Septin3	860.0	-	46088538	46088588	83,88,95	1	50	0	PR01741	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01741&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01741
-1	46088553	46102116	Cell_div_GTP-bd	383.8	-	46088553	46102116	83,88,95	9	13536,-128,-81,-137,-117,-95,-96,-51,13485	0,13452,9885,6401,4613,4418,4222,1920,78	PF00735	http://pfam.sanger.ac.uk/family?acc=PF00735
-1	46098374	46102101	Ribosome_biogen_GTPase_RsgA	28.8	-	46098374	46102101	83,88,95	3	3715,-128,3663	0,3631,64	PF03193	http://pfam.sanger.ac.uk/family?acc=PF03193
-1	46094933	46102104	AIG1	25.3	-	46094933	46102104	83,88,95	4	7156,-128,-81,7150	0,7072,3505,21	PF04548	http://pfam.sanger.ac.uk/family?acc=PF04548
-1	46088616	46102164	P-loop_NTPase	0.0	-	46088616	46102164	83,88,95	9	13473,-128,-81,-137,-117,-95,-96,-51,13533	0,13389,9822,6338,4550,4355,4159,1857,15	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

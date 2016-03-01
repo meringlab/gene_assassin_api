@@ -1,5 +1,0 @@
-2	57371760	57374574	Glutathione_peroxidase	85.0	-	57371760	57374574	83,88,95	2	2749,2695	0,119	PF00255	http://pfam.sanger.ac.uk/family?acc=PF00255
-2	57371871	57374550	Glutathione_peroxidase	736.0	-	57371871	57374550	83,88,95	2	2638,2671	0,8	PR01011	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01011&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01011
-2	57370273	57371636	Glutathione_peroxidase	479.0	-	57370273	57371636	83,88,95	2	1343,1355	0,8	PR01011	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01011&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01011
-2	57369195	57374565	Thioredoxin-like_fold	0.0	-	57369195	57374565	83,88,95	5	5314,-151,-24,-59,5341	0,2684,2445,1086,29	SSF52833	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52833
-2	57369195	57374577	Glutathione_peroxidase	73.8	-	57369195	57374577	83,88,95	5	5314,-151,-24,-59,5353	0,2684,2445,1086,29	PIRSF000303	None

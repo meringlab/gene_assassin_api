@@ -1,8 +1,0 @@
-6	34274170	34284481	RGS_dom	134.7	+	34274170	34284481	83,88,95	3	27,166,152	0,6614,10159	PF00615	http://pfam.sanger.ac.uk/family?acc=PF00615
-6	34274161	34280812	RGS_dom	498.0	+	34274161	34280812	83,88,95	2	36,28	0,6623	PR01301	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01301&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01301
-6	34280813	34280869	RGS_dom	717.0	+	34280813	34280869	83,88,95	1	56	0	PR01301	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01301&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01301
-6	34280900	34284349	RGS_dom	551.0	+	34280900	34284349	83,88,95	2	50,20	0,3429	PR01301	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01301&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01301
-6	34284404	34284463	RGS_dom	611.0	+	34284404	34284463	83,88,95	1	59	0	PR01301	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01301&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01301
-6	34274170	34284484	Regulat_G_prot_signal_superfam	179.4	+	34274170	34284484	83,88,95	3	27,166,155	0,6614,10159	SM00315	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00315
-6	34274170	34284484	Regulat_G_prot_signal_superfam	35.648	+	34274170	34284484	83,88,95	3	27,166,155	0,6614,10159	PS50132	http://www.expasy.ch/prosite/PS50132
-6	34274149	34284517	Regulat_G_prot_signal_superfam	0.0	+	34274149	34284517	83,88,95	3	48,166,188	0,6635,10180	SSF48097	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48097

@@ -1,8 +1,0 @@
-10	43522760	43522816	Pept_C14A_p45_core	245.0	+	43522760	43522816	83,88,95	1	56	0	PR00376	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00376&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00376
-10	43522814	43522870	Pept_C14A_p45_core	209.0	+	43522814	43522870	83,88,95	1	56	0	PR00376	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00376&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00376
-10	43524611	43524637	Pept_C14A_p45_core	198.0	+	43524611	43524637	83,88,95	1	26	0	PR00376	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00376&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00376
-10	43524707	43524963	Pept_C14A_p45_core	494.0	+	43524707	43524963	83,88,95	2	41,14	0,242	PR00376	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00376&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00376
-10	43522709	43527868	Pept_C14_caspase	80.2	+	43522709	43527868	83,88,95	4	168,169,132,205	0,1870,2240,4954	PF00656	http://pfam.sanger.ac.uk/family?acc=PF00656
-10	43522706	43524966	Pept_C14_ICE_p20	28.233	+	43522706	43524966	83,88,95	3	171,169,17	0,1873,2243	PS50208	http://www.expasy.ch/prosite/PS50208
-10	43525051	43527883	Pept_C14_p10	11.933	+	43525051	43527883	83,88,95	2	30,220	0,2612	PS50207	http://www.expasy.ch/prosite/PS50207
-10	43522706	43527883	Pept_C14A_p45_core	105.4	+	43522706	43527883	83,88,95	4	171,169,132,220	0,1873,2243,4957	SM00115	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00115

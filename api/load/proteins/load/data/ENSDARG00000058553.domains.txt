@@ -1,7 +1,0 @@
-8	1134197	1134250	Glc/ribitol_DH	352.0	+	1134197	1134250	83,88,95	1	53	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
-8	1135192	1135242	Glc/ribitol_DH	90.0	+	1135192	1135242	83,88,95	1	50	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
-8	1135270	1135329	Glc/ribitol_DH	145.0	+	1135270	1135329	83,88,95	1	59	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
-8	1135327	1138572	Glc/ribitol_DH	232.0	+	1135327	1138572	83,88,95	2	30,22	0,3223	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
-8	1134197	1135323	DH_sc/Rdtase_SDR	56.9	+	1134197	1135323	83,88,95	2	291,256	0,870	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106
-8	1134194	1135314	PKS_KR	27.2	+	1134194	1135314	83,88,95	2	294,247	0,873	PF08659	http://pfam.sanger.ac.uk/family?acc=PF08659
-8	1134194	1138734	Sepiapterin_red	247.1	+	1134194	1138734	83,88,95	3	294,290,184	0,873,4356	TIGR01500	http://www.ebi.ac.uk/interpro/signature/TIGR01500

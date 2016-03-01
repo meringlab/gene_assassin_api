@@ -1,9 +1,0 @@
-19	26826536	26861127	FERM_domain	56.67100000000001	+	26826536	26861127	83,88,95	6	86,190,185,197,164,9	0,3093,24387,28581,29810,34582	PS50057	http://www.expasy.ch/prosite/PS50057
-19	26826548	26829787	FERM_N	70.0	+	26826548	26829787	83,88,95	2	74,158	0,3081	PF09379	http://pfam.sanger.ac.uk/family?acc=PF09379
-19	26829791	26855222	FERM_central	60.1	+	26829791	26855222	83,88,95	3	28,185,105	0,21132,25326	PF00373	http://pfam.sanger.ac.uk/family?acc=PF00373
-19	26829641	26829679	Band_41_fam	354.0	+	26829641	26829679	83,88,95	1	38	0	PR00935	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00935&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00935
-19	26850975	26851037	Band_41_fam	313.0	+	26850975	26851037	83,88,95	1	62	0	PR00935	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00935&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00935
-19	26855160	26855210	Band_41_fam	237.0	+	26855160	26855210	83,88,95	1	50	0	PR00935	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00935&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00935
-19	26826536	26855222	Band_41_domain	134.6	+	26826536	26855222	83,88,95	4	86,190,185,105	0,3093,24387,28581	SM00295	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00295
-19	26861440	26863112	Znf_RING	10.984000000000002	+	26861440	26863112	83,88,95	2	89,17	0,1655	PS50089	http://www.expasy.ch/prosite/PS50089
-19	26829785	26855207	FERM_central	0.0	+	26829785	26855207	83,88,95	3	34,185,90	0,21138,25332	SSF47031	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47031

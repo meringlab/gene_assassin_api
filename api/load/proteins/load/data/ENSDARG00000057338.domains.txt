@@ -1,7 +1,0 @@
-4	29628336	29628395	GST_pi	504.0	+	29628336	29628395	83,88,95	1	59	0	PR01268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01268
-4	29627859	29628049	GST_pi	646.0	+	29627859	29628049	83,88,95	2	38,26	0,164	PR01268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01268
-4	29625253	29627140	GST_pi	643.0	+	29625253	29627140	83,88,95	2	2,47	0,1840	PR01268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01268
-4	29627892	29628329	GST_C	54.4	+	29627892	29628329	83,88,95	3	5,101,119	0,131,318	PF00043	http://pfam.sanger.ac.uk/family?acc=PF00043
-4	29622556	29627173	Glutathione_S-Trfase_N	56.0	+	29622556	29627173	83,88,95	3	27,106,80	0,2593,4537	PF02798	http://pfam.sanger.ac.uk/family?acc=PF02798
-4	29627799	29628395	Glutathione-S-Trfase_C-like	0.0	+	29627799	29628395	83,88,95	3	98,101,185	0,224,411	SSF47616	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47616
-4	29622550	29627179	Thioredoxin-like_fold	0.0	+	29622550	29627179	83,88,95	3	33,106,86	0,2599,4543	SSF52833	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52833

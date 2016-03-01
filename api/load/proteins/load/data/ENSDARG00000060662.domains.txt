@@ -1,9 +1,0 @@
-3	31120485	31124483	MACPF	150.6	+	31120485	31124483	83,88,95	4	85,138,217,201	0,380,2926,3797	PF01823	http://pfam.sanger.ac.uk/family?acc=PF01823
-3	31124634	31124879	C2_dom	41.1	+	31124634	31124879	83,88,95	1	245	0	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
-3	31120926	31120994	MAC_perforin	313.0	+	31120926	31120994	83,88,95	1	68	0	PR00764	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00764&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00764
-3	31124361	31124420	MAC_perforin	393.0	+	31124361	31124420	83,88,95	1	59	0	PR00764	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00764&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00764
-3	31124511	31124573	MAC_perforin	260.0	+	31124511	31124573	83,88,95	1	62	0	PR00764	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00764&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00764
-3	31120527	31124489	MACPF	124.4	+	31120527	31124489	83,88,95	4	43,138,217,207	0,338,2884,3755	SM00457	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00457
-3	31124628	31124927	C2_dom	39.5	+	31124628	31124927	83,88,95	1	299	0	SM00239	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00239
-3	31124628	31124882	C2_dom	9.731	+	31124628	31124882	83,88,95	1	254	0	PS50004	http://www.expasy.ch/prosite/PS50004
-3	31124577	31124960	C2_dom	0.0	+	31124577	31124960	83,88,95	1	383	0	SSF49562	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49562

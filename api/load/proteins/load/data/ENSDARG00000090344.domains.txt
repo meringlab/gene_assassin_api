@@ -1,6 +1,0 @@
-11	21929678	21932924	IL-10/19/20/24/26_fam	30.6	+	21929678	21932924	83,88,95	5	42,62,152,74,73	0,589,724,2995,3173	PF00726	http://pfam.sanger.ac.uk/family?acc=PF00726
-11	21929708	21930301	IL-24	155.0	+	21929708	21930301	83,88,95	2	12,34	0,559	PR01937	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01937&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01937
-11	21930407	21930460	IL-24	449.0	+	21930407	21930460	83,88,95	1	53	0	PR01937	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01937&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01937
-11	21932877	21932918	IL-24	447.0	+	21932877	21932918	83,88,95	1	41	0	PR01937	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01937&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01937
-11	21929666	21932930	IL-10/19/20/24/26_fam	18.2	+	21929666	21932930	83,88,95	5	54,62,152,74,79	0,601,736,3007,3185	SM00188	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00188
-11	21929642	21932933	4_helix_cytokine-like_core	0.0	+	21929642	21932933	83,88,95	5	78,62,152,74,82	0,625,760,3031,3209	SSF47266	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47266

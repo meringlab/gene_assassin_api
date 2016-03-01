@@ -1,9 +1,0 @@
-7	74445513	74449168	rRNA_MeTrfase_FtsJ_dom	23.6	+	74445513	74449168	83,88,95	4	80,147,154,62	0,1236,2333,3593	PF01728	http://pfam.sanger.ac.uk/family?acc=PF01728
-7	74443673	74449216	Fmu/NOL1/Nop2p	120.2	+	74443673	74449216	83,88,95	5	38,119,147,154,110	0,1801,3076,4173,5433	PF01189	http://pfam.sanger.ac.uk/family?acc=PF01189
-7	74442679	74443312	PUA	21.7	+	74442679	74443312	83,88,95	2	84,136	0,497	PF01472	http://pfam.sanger.ac.uk/family?acc=PF01472
-7	74445531	74445563	RCMT	495.0	+	74445531	74445563	83,88,95	1	32	0	PR02008	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02008&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02008
-7	74450791	74450844	RCMT	174.0	+	74450791	74450844	83,88,95	1	53	0	PR02008	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02008&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02008
-7	74449127	74449177	RCMT	540.0	+	74449127	74449177	83,88,95	1	50	0	PR02008	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02008&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02008
-7	74447881	74447919	RCMT	553.0	+	74447881	74447919	83,88,95	1	38	0	PR02008	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR02008&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR02008
-7	74442673	74443663	PUA	11.728	+	74442673	74443663	83,88,95	3	90,153,33	0,503,957	PS50890	http://www.expasy.ch/prosite/PS50890
-7	74442670	74443321	PUA-like_domain	0.0	+	74442670	74443321	83,88,95	2	93,145	0,506	SSF88697	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF88697

@@ -1,7 +1,0 @@
-3	34225882	34225929	Gprotein-gamma	338.0	+	34225882	34225929	83,88,95	1	47	0	PR00321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00321
-3	34225930	34229408	Gprotein-gamma	310.0	+	34225930	34229408	83,88,95	2	5,38	0,3440	PR00321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00321
-3	34229424	34229477	Gprotein-gamma	557.0	+	34229424	34229477	83,88,95	1	53	0	PR00321	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00321&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00321
-3	34225876	34229468	G-protein_gamma-like_dom	69.4	+	34225876	34229468	83,88,95	2	59,98	0,3494	PF00631	http://pfam.sanger.ac.uk/family?acc=PF00631
-3	34225870	34229486	G-protein_gamma-like_dom	0.0	+	34225870	34229486	83,88,95	2	65,116	0,3500	SSF48670	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48670
-3	34225873	34229492	G-protein_gamma-like_dom	84.8	+	34225873	34229492	83,88,95	2	62,122	0,3497	SM00224	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00224
-3	34225861	34229492	G-protein_gamma-like_dom	26.131	+	34225861	34229492	83,88,95	2	74,122	0,3509	PS50058	http://www.expasy.ch/prosite/PS50058

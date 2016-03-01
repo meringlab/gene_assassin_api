@@ -1,6 +1,0 @@
-1	8323098	8325881	Thioredoxin_domain	38.3	-	8323098	8325881	83,88,95	2	2714,2584	0,199	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085
-1	8311422	8314387	Thioredoxin_domain	53.3	-	8311422	8314387	83,88,95	3	2893,-181,2912	0,2309,53	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085
-1	8314394	8319961	Thioredoxin-like_fold	0.0	-	8314394	8319961	83,88,95	4	5526,-125,-197,5526	0,5442,3058,41	SSF52833	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52833
-1	8311422	8314402	Thioredoxin-like_fold	0.0	-	8311422	8314402	83,88,95	3	2893,-181,2927	0,2309,53	SSF52833	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52833
-1	8322371	8325890	Thioredoxin-like_fold	0.0	-	8322371	8325890	83,88,95	3	3441,-206,3458	0,926,61	SSF52833	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52833
-1	8319944	8322376	Thioredoxin-like_fold	0.0	-	8319944	8322376	83,88,95	3	2355,-137,2349	0,776,83	SSF52833	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52833

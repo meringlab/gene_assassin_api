@@ -1,9 +1,0 @@
-17	30664587	30664625	SH3_domain	264.0	-	30664587	30664625	83,88,95	1	38	0	PR00452	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00452&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00452
-17	30664668	30664715	SH3_domain	291.0	-	30664668	30664715	83,88,95	1	47	0	PR00452	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00452&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00452
-17	30664629	30664658	SH3_domain	224.0	-	30664629	30664658	83,88,95	1	29	0	PR00452	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00452&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00452
-17	30664593	30664733	SH3_2	39.1	-	30664593	30664733	83,88,95	1	140	0	PF07653	http://pfam.sanger.ac.uk/family?acc=PF07653
-17	30664605	30664745	SH3_domain	50.8	-	30664605	30664745	83,88,95	1	140	0	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
-17	30683828	30690080	Ysc84_actin-binding	147.5	-	30683828	30690080	83,88,95	4	6217,-112,-128,6159	0,3168,356,93	PF04366	http://pfam.sanger.ac.uk/family?acc=PF04366
-17	30664587	30664757	SH3_domain	70.1	-	30664587	30664757	83,88,95	1	170	0	SM00326	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00326
-17	30664587	30664766	SH3_domain	15.235	-	30664587	30664766	83,88,95	1	179	0	PS50002	http://www.expasy.ch/prosite/PS50002
-17	30664593	30672987	SH3_domain	0.0	-	30664593	30672987	83,88,95	2	8368,8215	0,179	SSF50044	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50044

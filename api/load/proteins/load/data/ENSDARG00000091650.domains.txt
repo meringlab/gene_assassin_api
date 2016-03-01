@@ -1,4 +1,0 @@
-15	36135663	36135779	TNFR/NGFR_Cys_rich_reg	27.0	+	36135663	36135779	83,88,95	1	116	0	SM00208	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00208
-15	36135660	36135779	TNFR/NGFR_Cys_rich_reg	9.509	+	36135660	36135779	83,88,95	1	119	0	PS50050	http://www.expasy.ch/prosite/PS50050
-15	36152079	36152357	DEATH-like_dom	0.0	+	36152079	36152357	83,88,95	1	278	0	SSF47986	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47986
-15	36140996	36141909	MFS_dom_general_subst_transpt	0.0	+	36140996	36141909	83,88,95	2	24,76	0,837	SSF103473	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF103473

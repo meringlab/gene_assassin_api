@@ -1,8 +1,0 @@
-1	58047484	58047795	Ig_sub	22.0	+	58047484	58047795	83,88,95	1	311	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-1	58047906	58048139	Ig_sub	57.1	+	58047906	58048139	83,88,95	1	233	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-1	58047924	58048109	Ig_sub2	40.4	+	58047924	58048109	83,88,95	1	185	0	SM00408	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00408
-1	58048610	58048828	Ig_sub	24.0	+	58048610	58048828	83,88,95	1	218	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-1	58048628	58048792	Ig_sub2	8.5	+	58048628	58048792	83,88,95	1	164	0	SM00408	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00408
-1	58047930	58048094	Immunoglobulin	34.5	+	58047930	58048094	83,88,95	1	164	0	PF00047	http://pfam.sanger.ac.uk/family?acc=PF00047
-1	58048586	58048822	Ig-like_dom	12.277000000000001	+	58048586	58048822	83,88,95	1	236	0	PS50835	http://www.expasy.ch/prosite/PS50835
-1	58047772	58048139	Ig-like_dom	12.658	+	58047772	58048139	83,88,95	2	24,244	0,123	PS50835	http://www.expasy.ch/prosite/PS50835

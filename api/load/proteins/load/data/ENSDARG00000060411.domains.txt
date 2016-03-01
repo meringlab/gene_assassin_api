@@ -1,9 +1,0 @@
-7	36419085	36419651	Helicase_ATP-bd	25.046	+	36419085	36419651	83,88,95	1	566	0	PS51192	http://www.expasy.ch/prosite/PS51192
-7	36419736	36420191	Helicase_C	19.691	+	36419736	36420191	83,88,95	1	455	0	PS51194	http://www.expasy.ch/prosite/PS51194
-7	36418992	36419078	RNA_helicase_DEAD_Q_motif	9.234	+	36418992	36419078	83,88,95	1	86	0	PS51195	http://www.expasy.ch/prosite/PS51195
-7	36419064	36419600	DNA/RNA_helicase_DEAD/DEAH_N	122.4	+	36419064	36419600	83,88,95	1	536	0	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
-7	36419832	36420059	Helicase_C	83.5	+	36419832	36420059	83,88,95	1	227	0	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
-7	36419082	36419264	Helicase/UvrB_dom	25.0	+	36419082	36419264	83,88,95	1	182	0	PF04851	http://pfam.sanger.ac.uk/family?acc=PF04851
-7	36419049	36419693	Helicase_ATP-bd	141.8	+	36419049	36419693	83,88,95	1	644	0	SM00487	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00487
-7	36419814	36420059	Helicase_C	103.5	+	36419814	36420059	83,88,95	1	245	0	SM00490	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00490
-7	36419085	36420125	P-loop_NTPase	0.0	+	36419085	36420125	83,88,95	1	1040	0	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

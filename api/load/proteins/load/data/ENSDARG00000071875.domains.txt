@@ -1,7 +1,0 @@
-12	3150248	3150331	Leu-rich_rpt_RNase_inh_sub-typ	35.5	+	3150248	3150331	83,88,95	1	83	0	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-12	3150540	3150623	Leu-rich_rpt_RNase_inh_sub-typ	40.2	+	3150540	3150623	83,88,95	1	83	0	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-12	3150627	3152299	Leu-rich_rpt_RNase_inh_sub-typ	14.2	+	3150627	3152299	83,88,95	2	22,60	0,1612	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-12	3152303	3152386	Leu-rich_rpt_RNase_inh_sub-typ	31.1	+	3152303	3152386	83,88,95	1	83	0	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-12	3150257	3150325	Leu-rich_rpt	10.5	+	3150257	3150325	83,88,95	1	68	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-12	3150549	3150614	Leu-rich_rpt	10.2	+	3150549	3150614	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-12	3147357	3147761	NACHT_NTPase	12.255999999999998	+	3147357	3147761	83,88,95	1	404	0	PS50837	http://www.expasy.ch/prosite/PS50837

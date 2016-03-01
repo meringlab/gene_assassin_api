@@ -1,7 +1,0 @@
-10	39940392	39940433	Pept_M10A	341.0	+	39940392	39940433	83,88,95	1	41	0	PR00138	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00138&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00138
-10	39942599	39942646	Pept_M10A	387.0	+	39942599	39942646	83,88,95	1	47	0	PR00138	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00138&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00138
-10	39942668	39943214	Pept_M10A	909.0	+	39942668	39943214	83,88,95	2	30,55	0,491	PR00138	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00138&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00138
-10	39940446	39943277	Pept_M10_metallopeptidase	110.6	+	39940446	39943277	83,88,95	3	28,148,118	0,2104,2713	PF00413	http://pfam.sanger.ac.uk/family?acc=PF00413
-10	39940332	39940394	Peptidoglycan-bd-like	22.7	+	39940332	39940394	83,88,95	1	62	0	PF01471	http://pfam.sanger.ac.uk/family?acc=PF01471
-10	39940437	39943301	Peptidase_Metallo	47.6	+	39940437	39943301	83,88,95	3	37,148,142	0,2113,2722	SM00235	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00235
-10	39940332	39940424	Peptidoglycan-bd-like	0.0	+	39940332	39940424	83,88,95	1	92	0	SSF47090	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47090

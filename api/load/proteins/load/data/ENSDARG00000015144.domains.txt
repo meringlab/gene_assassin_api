@@ -1,6 +1,0 @@
-12	30838262	30840435	SH2	162.0	-	30838262	30840435	83,88,95	2	2135,2168	0,5	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-12	30840538	30840570	SH2	299.0	-	30840538	30840570	83,88,95	1	32	0	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-12	30840583	30843171	SH2	384.0	-	30840583	30843171	83,88,95	2	2579,2554	0,34	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-12	30840400	30843171	SH2	53.1	-	30840400	30843171	83,88,95	2	2762,2554	0,217	PF00017	http://pfam.sanger.ac.uk/family?acc=PF00017
-12	30838253	30843177	SH2	88.5	-	30838253	30843177	83,88,95	3	4909,-220,4910	0,2364,14	SM00252	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00252
-12	30838220	30843171	SH2	16.855	-	30838220	30843171	83,88,95	3	4942,-220,4904	0,2397,47	PS50001	http://www.expasy.ch/prosite/PS50001

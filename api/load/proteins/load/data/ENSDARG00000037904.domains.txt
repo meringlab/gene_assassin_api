@@ -1,7 +1,0 @@
-8	55573615	55574135	PKD_2	510.0	-	55573615	55574135	83,88,95	2	485,491	0,29	PR01433	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01433&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01433
-8	55581263	55581325	PKD_2	402.0	-	55581263	55581325	83,88,95	1	62	0	PR01433	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01433&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01433
-8	55576519	55576557	VDCCAlpha1	565.0	-	55576519	55576557	83,88,95	1	38	0	PR00167	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00167&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00167
-8	55576737	55577310	VDCCAlpha1	764.0	-	55576737	55577310	83,88,95	2	544,559	0,14	PR00167	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00167&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00167
-8	55572574	55572663	VDCC_a1su_IQ	64.0	-	55572574	55572663	83,88,95	1	89	0	PF08763	http://pfam.sanger.ac.uk/family?acc=PF08763
-8	55573603	55577400	PKD1_2_channel	32.4	-	55573603	55577400	83,88,95	5	3678,-65,-91,-159,3756	0,3148,3002,656,41	PF08016	http://pfam.sanger.ac.uk/family?acc=PF08016
-8	55573618	55584266	Ion_trans_dom	208.9	-	55573618	55584266	83,88,95	7	10577,-83,-128,-65,-91,-159,10622	0,7725,3791,3133,2987,641,26	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520

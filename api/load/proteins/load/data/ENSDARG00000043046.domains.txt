@@ -1,9 +1,0 @@
-23	46147703	46147762	Leu-rich_rpt	11.1	-	46147703	46147762	83,88,95	1	59	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-23	46152237	46152362	F-box_dom	28.5	-	46152237	46152362	83,88,95	1	125	0	PF00646	http://pfam.sanger.ac.uk/family?acc=PF00646
-23	46152231	46152371	F-box_dom	14.399000000000001	-	46152231	46152371	83,88,95	1	140	0	PS50181	http://www.expasy.ch/prosite/PS50181
-23	46145061	46145138	Leu-rich_rpt_Cys-con_subtyp	27.1	-	46145061	46145138	83,88,95	1	77	0	SM00367	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00367
-23	46152231	46152353	F-box_dom	34.6	-	46152231	46152353	83,88,95	1	122	0	SM00256	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00256
-23	46147778	46148779	Leu-rich_rpt_Cys-con_subtyp	5.5	-	46147778	46148779	83,88,95	2	940,989	0,12	SM00367	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00367
-23	46147694	46147771	Leu-rich_rpt_Cys-con_subtyp	30.4	-	46147694	46147771	83,88,95	1	77	0	SM00367	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00367
-23	46145145	46147171	Leu-rich_rpt_Cys-con_subtyp	17.1	-	46145145	46147171	83,88,95	2	1965,2011	0,15	SM00367	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00367
-23	46149563	46153711	F-box_dom	0.0	-	46149563	46153711	83,88,95	3	4142,-176,4111	0,2822,37	SSF81383	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81383

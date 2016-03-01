@@ -1,6 +1,0 @@
-7	101167	101547	Laminin_G	56.6	+	101167	101547	83,88,95	1	380	0	PF00054	http://pfam.sanger.ac.uk/family?acc=PF00054
-7	101167	101550	Laminin_G	72.6	+	101167	101550	83,88,95	1	383	0	PF02210	http://pfam.sanger.ac.uk/family?acc=PF02210
-7	101140	101556	Laminin_G	103.6	+	101140	101556	83,88,95	1	416	0	SM00282	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00282
-7	101596	101712	EG-like_dom	12.592	+	101596	101712	83,88,95	1	116	0	PS50026	http://www.expasy.ch/prosite/PS50026
-7	101080	101610	Laminin_G	28.933000000000003	+	101080	101610	83,88,95	1	530	0	PS50025	http://www.expasy.ch/prosite/PS50025
-7	101104	101628	ConA-like_lec_gl_sf	0.0	+	101104	101628	83,88,95	1	524	0	SSF49899	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49899

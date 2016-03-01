@@ -1,7 +1,0 @@
-2	33403051	33403859	ATPase_proteolipid_c_like_dom	58.2	-	33403051	33403859	83,88,95	3	753,-77,751	0,451,57	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
-2	33400239	33402326	ATPase_proteolipid_csu	520.0	-	33400239	33402326	83,88,95	2	2022,2082	0,5	PR00122	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00122&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00122
-2	33403436	33403811	ATPase_proteolipid_csu	293.0	-	33403436	33403811	83,88,95	2	368,309	0,66	PR00122	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00122&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00122
-2	33402327	33402407	ATPase_proteolipid_csu	488.0	-	33402327	33402407	83,88,95	1	80	0	PR00122	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00122&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00122
-2	33402264	33402446	ATPase_proteolipid_c_like_dom	51.5	-	33402264	33402446	83,88,95	1	182	0	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
-2	33403039	33403880	ATPase_proteolipid_c_like_dom	0.0	-	33403039	33403880	83,88,95	3	765,-77,772	0,463,69	SSF81333	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81333
-2	33400230	33402560	ATPase_proteolipid_c_like_dom	0.0	-	33400230	33402560	83,88,95	3	2312,-190,2316	0,2221,14	SSF81333	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81333

@@ -1,5 +1,0 @@
-23	37887082	37887150	Ankyrin_rpt	10.686	+	37887082	37887150	83,88,95	1	68	0	PS50088	http://www.expasy.ch/prosite/PS50088
-23	37887082	37889236	Ankyrin_rpt-contain_dom	11.347000000000001	+	37887082	37889236	83,88,95	2	75,49	0,2105	PS50297	http://www.expasy.ch/prosite/PS50297
-23	37887085	37889209	Ankyrin_rpt	33.0	+	37887085	37889209	83,88,95	2	72,22	0,2102	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
-23	37887085	37889236	Ankyrin_rpt-contain_dom	0.0	+	37887085	37889236	83,88,95	2	72,49	0,2102	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403
-23	37887082	37889200	Ankyrin_rpt	27.4	+	37887082	37889200	83,88,95	2	75,13	0,2105	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248

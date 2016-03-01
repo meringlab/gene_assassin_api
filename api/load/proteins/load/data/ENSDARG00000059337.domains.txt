@@ -1,5 +1,0 @@
-24	9089700	9092285	Homeobox_KN_domain	33.4	-	9089700	9092285	83,88,95	2	2496,2529	0,56	PF05920	http://pfam.sanger.ac.uk/family?acc=PF05920
-24	9089724	9092333	Homeobox_dom	31.2	-	9089724	9092333	83,88,95	2	2472,2577	0,32	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
-24	9089700	9092336	Homeobox_dom	59.6	-	9089700	9092336	83,88,95	2	2496,2580	0,56	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-24	9089712	9092342	Homeobox_dom	13.167	-	9089712	9092342	83,88,95	2	2484,2586	0,44	PS50071	http://www.expasy.ch/prosite/PS50071
-24	9089667	9092339	Homeodomain-like	0.0	-	9089667	9092339	83,88,95	2	2529,2583	0,89	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

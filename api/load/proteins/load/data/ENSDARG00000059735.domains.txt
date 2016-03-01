@@ -1,9 +1,0 @@
-6	19529319	19534095	Diacylglycerol_kin_accessory	168.1	-	19529319	19534095	83,88,95	5	4672,-71,-127,-111,4729	0,4340,2141,1883,47	PF00609	http://pfam.sanger.ac.uk/family?acc=PF00609
-6	19534473	19535679	Diacylglycerol_kinase_cat_dom	84.7	-	19534473	19535679	83,88,95	4	1120,-143,-157,1203	0,966,265,3	PF00781	http://pfam.sanger.ac.uk/family?acc=PF00781
-6	19540548	19542231	Prot_Kinase_C-like_PE/DAG-bd	37.7	-	19540548	19542231	83,88,95	2	1592,1632	0,51	PF00130	http://pfam.sanger.ac.uk/family?acc=PF00130
-6	19540536	19542234	Prot_Kinase_C-like_PE/DAG-bd	9.318999999999999	-	19540536	19542234	83,88,95	2	1604,1635	0,63	PS50081	http://www.expasy.ch/prosite/PS50081
-6	19529319	19534098	Diacylglycerol_kin_accessory	292.7	-	19529319	19534098	83,88,95	5	4672,-71,-127,-111,4732	0,4340,2141,1883,47	SM00045	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00045
-6	19534473	19535682	Diacylglycerol_kinase_cat_dom	180.6	-	19534473	19535682	83,88,95	4	1120,-143,-157,1206	0,966,265,3	SM00046	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00046
-6	19540536	19542231	Prot_Kinase_C-like_PE/DAG-bd	48.3	-	19540536	19542231	83,88,95	2	1604,1632	0,63	SM00109	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00109
-6	19542274	19542420	Prot_Kinase_C-like_PE/DAG-bd	25.4	-	19542274	19542420	83,88,95	1	146	0	SM00109	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00109
-6	19542274	19542423	Prot_Kinase_C-like_PE/DAG-bd	8.786	-	19542274	19542423	83,88,95	1	149	0	PS50081	http://www.expasy.ch/prosite/PS50081

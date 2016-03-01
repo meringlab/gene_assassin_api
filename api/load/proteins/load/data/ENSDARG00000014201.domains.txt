@@ -1,8 +1,0 @@
-21	7522734	7522763	HTH_motif	201.0	+	7522734	7522763	83,88,95	1	29	0	PR00031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00031
-21	7522761	7525162	HTH_motif	602.0	+	7522761	7525162	83,88,95	2	23,26	0,2375	PR00031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00031
-21	7522650	7525171	Homeobox_dom	85.2	+	7522650	7525171	83,88,95	2	134,35	0,2486	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
-21	7525583	7525642	OAR_dom	30.4	+	7525583	7525642	83,88,95	1	59	0	PF03826	http://pfam.sanger.ac.uk/family?acc=PF03826
-21	7522641	7525174	Homeobox_dom	21.038	+	7522641	7525174	83,88,95	2	143,38	0,2495	PS50071	http://www.expasy.ch/prosite/PS50071
-21	7525595	7525636	OAR_dom	9.162	+	7525595	7525636	83,88,95	1	41	0	PS50803	http://www.expasy.ch/prosite/PS50803
-21	7522647	7525186	Homeobox_dom	111.4	+	7522647	7525186	83,88,95	2	137,50	0,2489	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-21	7522620	7525207	Homeodomain-like	0.0	+	7522620	7525207	83,88,95	2	164,71	0,2516	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

@@ -1,5 +1,0 @@
-19	20466496	20466609	Cyt_c_dom	25.8	+	20466496	20466609	83,88,95	1	113	0	PF00034	http://pfam.sanger.ac.uk/family?acc=PF00034
-19	20466523	20466546	Cyt_c_1A/1B	406.0	+	20466523	20466546	83,88,95	1	23	0	PR00604	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00604&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00604
-19	20466562	20466609	Cyt_c_1A/1B	651.0	+	20466562	20466609	83,88,95	1	47	0	PR00604	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00604&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00604
-19	20466487	20466818	Cyt_c-like_dom	9.792	+	20466487	20466818	83,88,95	2	167,47	0,284	PS51007	http://www.expasy.ch/prosite/PS51007
-19	20466487	20466812	Cyt_c-like_dom	0.0	+	20466487	20466812	83,88,95	2	167,41	0,284	SSF46626	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46626

@@ -1,5 +1,0 @@
-14	19497435	19497467	Prot_inh_Kazal-m	379.0	+	19497435	19497467	83,88,95	1	32	0	PR00290	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00290&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00290
-14	19497468	19497503	Prot_inh_Kazal-m	413.0	+	19497468	19497503	83,88,95	1	35	0	PR00290	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00290&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00290
-14	19497435	19497622	Kazal_dom	45.5	+	19497435	19497622	83,88,95	2	79,18	0,169	PF07648	http://pfam.sanger.ac.uk/family?acc=PF07648
-14	19497411	19497649	Kazal_dom	57.4	+	19497411	19497649	83,88,95	2	103,45	0,193	PF00050	http://pfam.sanger.ac.uk/family?acc=PF00050
-14	19497408	19497649	Kazal_dom	55.0	+	19497408	19497649	83,88,95	2	106,45	0,196	SM00280	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00280

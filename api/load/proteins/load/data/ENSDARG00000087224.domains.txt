@@ -1,5 +1,0 @@
-1	21057722	21057736	Nicotinic_acetylcholine_rcpt	186.0	-	21057722	21057736	83,88,95	1	14	0	PR00254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00254
-1	21057746	21057790	Nicotinic_acetylcholine_rcpt	422.0	-	21057746	21057790	83,88,95	1	44	0	PR00254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00254
-1	21078783	21112441	Nicotinic_acetylcholine_rcpt	443.0	-	21078783	21112441	83,88,95	2	33641,33626	0,32	PR00254	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00254&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00254
-1	21057722	21112540	Neur_chan_lig-bd	103.6	-	21057722	21112540	83,88,95	3	54702,-44,54711	0,21093,107	PF02931	http://pfam.sanger.ac.uk/family?acc=PF02931
-1	21057722	21112549	Neur_chan_lig-bd	0.0	-	21057722	21112549	83,88,95	3	54702,-44,54720	0,21093,107	SSF63712	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF63712

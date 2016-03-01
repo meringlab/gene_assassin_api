@@ -1,7 +1,0 @@
-20	55139076	55139597	PI-PLC_fam	735.0	-	55139076	55139597	83,88,95	2	473,514	0,7	PR00390	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00390&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00390
-20	55131859	55131912	PI-PLC_fam	505.0	-	55131859	55131912	83,88,95	1	53	0	PR00390	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00390&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00390
-20	55131859	55139603	PLipase_C_PInositol-sp_X_dom	147.3	-	55131859	55139603	83,88,95	5	7690,-25,-143,-122,7676	0,7224,7114,6597,68	PF00388	http://pfam.sanger.ac.uk/family?acc=PF00388
-20	55139616	55144000	PLipase_C_EF-hand-like	72.5	-	55139616	55144000	83,88,95	3	4344,-157,4305	0,3472,79	PF09279	http://pfam.sanger.ac.uk/family?acc=PF09279
-20	55131862	55139612	PLipase_C_PInositol-sp_X_dom	172.1	-	55131862	55139612	83,88,95	5	7687,-25,-143,-122,7685	0,7221,7111,6594,65	SM00148	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00148
-20	55131862	55139612	PLipase_C_PInositol-sp_X_dom	39.028	-	55131862	55139612	83,88,95	5	7687,-25,-143,-122,7685	0,7221,7111,6594,65	PS50007	http://www.expasy.ch/prosite/PS50007
-20	55131859	55139603	PLC-like_Pdiesterase_TIM-brl	0.0	-	55131859	55139603	83,88,95	5	7690,-25,-143,-122,7676	0,7224,7114,6597,68	SSF51695	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51695

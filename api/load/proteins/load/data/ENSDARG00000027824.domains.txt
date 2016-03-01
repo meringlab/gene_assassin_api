@@ -1,6 +1,0 @@
-24	43770909	43770959	TopoI	604.0	+	43770909	43770959	83,88,95	1	50	0	PR00416	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00416&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00416
-24	43773480	43773524	TopoI	529.0	+	43773480	43773524	83,88,95	1	44	0	PR00416	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00416&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00416
-24	43778086	43778121	TopoI	466.0	+	43778086	43778121	83,88,95	1	35	0	PR00416	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00416&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00416
-24	43770846	43775863	TopoI_cat_euk	200.9	+	43770846	43775863	83,88,95	5	128,68,114,127,50	0,1021,2595,3306,4967	PF01028	http://pfam.sanger.ac.uk/family?acc=PF01028
-24	43770846	43780173	TopoI_euk	212.7	+	43770846	43780173	83,88,95	7	128,68,114,127,94,149,15	0,1021,2595,3306,4967,7137,9312	SM00435	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00435
-24	43770846	43780257	DNA_brk_join_enz	0.0	+	43770846	43780257	83,88,95	7	128,68,114,127,94,149,99	0,1021,2595,3306,4967,7137,9312	SSF56349	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56349

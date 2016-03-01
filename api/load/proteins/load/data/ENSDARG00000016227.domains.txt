@@ -1,4 +1,0 @@
-8	47096036	47096311	Ig-like_dom	8.557	+	47096036	47096311	83,88,95	1	275	0	PS50835	http://www.expasy.ch/prosite/PS50835
-8	47096072	47096305	Ig_C1-set	51.4	+	47096072	47096305	83,88,95	1	233	0	PF07654	http://pfam.sanger.ac.uk/family?acc=PF07654
-8	47096078	47096305	Ig_C1-set	37.3	+	47096078	47096305	83,88,95	1	227	0	SM00407	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00407
-8	47095176	47095892	MHC_I/II-like_Ag-recog	0.0	+	47095176	47095892	83,88,95	2	258,271	0,445	SSF54452	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54452

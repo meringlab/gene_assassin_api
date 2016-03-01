@@ -1,6 +1,0 @@
-21	777733	817354	Ubiquitin_dom	43.1	-	777733	817354	83,88,95	2	39469,39553	0,68	SM00213	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00213
-21	777721	817354	Ubiquitin_dom	14.796	-	777721	817354	83,88,95	2	39481,39553	0,80	PS50053	http://www.expasy.ch/prosite/PS50053
-21	774397	774925	DUF3590	92.0	-	774397	774925	83,88,95	2	401,390	0,138	PF12148	http://pfam.sanger.ac.uk/family?acc=PF12148
-21	777730	817336	Ubiquitin_dom	51.5	-	777730	817336	83,88,95	2	39472,39535	0,71	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240
-21	777793	817255	Ubiquitin	578.0	-	777793	817255	83,88,95	2	39409,39454	0,8	PR00348	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00348&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00348
-21	777727	777792	Ubiquitin	392.0	-	777727	777792	83,88,95	1	65	0	PR00348	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00348&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00348

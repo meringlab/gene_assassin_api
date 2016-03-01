@@ -1,8 +1,0 @@
-7	5890713	5890994	C-type_lectin	18.035999999999998	+	5890713	5890994	83,88,95	1	281	0	PS50041	http://www.expasy.ch/prosite/PS50041
-7	5891774	5892101	C-type_lectin	15.655	+	5891774	5892101	83,88,95	2	320,2	0,325	PS50041	http://www.expasy.ch/prosite/PS50041
-7	5890713	5891021	C-type_lectin	69.8	+	5890713	5891021	83,88,95	1	308	0	PF00059	http://pfam.sanger.ac.uk/family?acc=PF00059
-7	5891771	5892094	C-type_lectin	49.0	+	5891771	5892094	83,88,95	1	323	0	PF00059	http://pfam.sanger.ac.uk/family?acc=PF00059
-7	5890716	5891021	C-type_lectin	63.3	+	5890716	5891021	83,88,95	1	305	0	SM00034	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00034
-7	5891022	5892101	C-type_lectin	33.5	+	5891022	5892101	83,88,95	3	3,349,2	0,723,1077	SM00034	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00034
-7	5890713	5891024	C-type_lectin_fold	0.0	+	5890713	5891024	83,88,95	1	311	0	SSF56436	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56436
-7	5891750	5892104	C-type_lectin_fold	0.0	+	5891750	5892104	83,88,95	2	344,5	0,349	SSF56436	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56436

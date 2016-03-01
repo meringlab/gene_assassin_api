@@ -1,0 +1,5 @@
+#>P	ENSDARG00000011468	ENSDART00000018348	ENSDARP00000019694	20	2890898	2892046	1	5-hydroxytryptamine (serotonin) receptor 1E, G protein-coupled [Source:HGNC Symbol;Acc:HGNC:5291]
+#>E	ENSDARE00000058108	1.0	2890898-2892049
+20	2891066	2891983	1.0	GPCR_Rhodpsn	260.9	2891066-2891983	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+20	2891057	2892025	1.0	7TM_GPCR_olfarory/Srsx	29.8	2891057-2892025	PF10320	http://pfam.sanger.ac.uk/family?acc=PF10320
+20	2891180	2891611	1.0	7TM_GPCR_serpentine_rcpt_Srv	24.5	2891180-2891611	PF10323	http://pfam.sanger.ac.uk/family?acc=PF10323

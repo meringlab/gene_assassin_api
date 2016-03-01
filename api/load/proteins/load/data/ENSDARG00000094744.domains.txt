@@ -1,9 +1,0 @@
-25	37370715	37370924	Histone_core_D	88.4	+	37370715	37370924	83,88,95	1	209	0	PF00125	http://pfam.sanger.ac.uk/family?acc=PF00125
-25	37370745	37370918	CBFA_NFYB_domain	27.4	+	37370745	37370918	83,88,95	1	173	0	PF00808	http://pfam.sanger.ac.uk/family?acc=PF00808
-25	37370733	37370789	Histone_H2B	894.0	+	37370733	37370789	83,88,95	1	56	0	PR00621	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00621&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00621
-25	37370790	37370852	Histone_H2B	900.0	+	37370790	37370852	83,88,95	1	62	0	PR00621	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00621&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00621
-25	37370856	37370909	Histone_H2B	754.0	+	37370856	37370909	83,88,95	1	53	0	PR00621	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00621&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00621
-25	37370907	37370948	Histone_H2B	633.0	+	37370907	37370948	83,88,95	1	41	0	PR00621	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00621&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00621
-25	37370946	37370987	Histone_H2B	680.0	+	37370946	37370987	83,88,95	1	41	0	PR00621	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00621&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00621
-25	37370703	37370993	Histone_H2B	258.7	+	37370703	37370993	83,88,95	1	290	0	SM00427	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00427
-25	37370634	37370999	Histone-fold	0.0	+	37370634	37370999	83,88,95	1	365	0	SSF47113	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47113

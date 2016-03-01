@@ -1,8 +1,0 @@
-5	20740131	20740226	LEM_dom	25.2	-	20740131	20740226	83,88,95	1	95	0	PF03020	http://pfam.sanger.ac.uk/family?acc=PF03020
-5	20740110	20740241	LEM_dom	33.6	-	20740110	20740241	83,88,95	1	131	0	SM00540	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00540
-5	20734342	20734431	Ankyrin_rpt	14.4	-	20734342	20734431	83,88,95	1	89	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-5	20732501	20732593	Ankyrin_rpt	22.1	-	20732501	20732593	83,88,95	1	92	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-5	20740110	20740244	LEM_dom	13.65	-	20740110	20740244	83,88,95	1	134	0	PS50954	http://www.expasy.ch/prosite/PS50954
-5	20732378	20736654	Ankyrin_rpt-contain_dom	0.0	-	20732378	20736654	83,88,95	4	4184,-188,-122,4274	0,2059,215,2	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403
-5	20740083	20740241	LEM/LEM-like_dom	0.0	-	20740083	20740241	83,88,95	1	158	0	SSF63451	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF63451
-5	20737038	20739881	Ribosomal_L9/RNase_H1_N	0.0	-	20737038	20739881	83,88,95	2	2792,2731	0,112	SSF55658	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55658

@@ -1,6 +1,0 @@
-19	11804784	11804843	Hlx-hairpin-Hlx_DNA-bd_motif	21.9	-	11804784	11804843	83,88,95	1	59	0	SM00278	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00278
-19	11804952	11805011	Hlx-hairpin-Hlx_DNA-bd_motif	9.1	-	11804952	11805011	83,88,95	1	59	0	SM00278	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00278
-19	11805042	11805101	Hlx-hairpin-Hlx_DNA-bd_motif	18.5	-	11805042	11805101	83,88,95	1	59	0	SM00278	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00278
-19	11761638	11804510	Endo/exonuclease/phosphatase	0.0	-	11761638	11804510	83,88,95	7	42775,-51,-110,-131,-135,-194,42757	0,21859,9497,4242,3927,3638,115	SSF56219	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56219
-19	11804958	11805155	RuvA_2-like	0.0	-	11804958	11805155	83,88,95	1	197	0	SSF47781	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47781
-19	11804736	11804864	RuvA_2-like	0.0	-	11804736	11804864	83,88,95	1	128	0	SSF47781	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47781

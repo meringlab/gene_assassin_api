@@ -1,7 +1,0 @@
-15	20224903	20228392	NTP_transferase	40.1	+	20224903	20228392	83,88,95	7	67,44,153,71,88,156,32	0,164,1434,2442,2691,3205,3457	PF00483	http://pfam.sanger.ac.uk/family?acc=PF00483
-15	20234700	20237080	GHMP_kinase_C_dom	30.6	+	20234700	20237080	83,88,95	4	67,63,71,29	0,1702,1915,2351	PF08544	http://pfam.sanger.ac.uk/family?acc=PF08544
-15	20231034	20231520	GHMP_kinase_N_dom	26.2	+	20231034	20231520	83,88,95	4	32,16,57,17	0,128,325,469	PF00288	http://pfam.sanger.ac.uk/family?acc=PF00288
-15	20228981	20229135	Mevalonate/galactokinase	211.0	+	20228981	20229135	83,88,95	2	10,63	0,91	PR00959	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00959&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00959
-15	20231046	20231389	Mevalonate/galactokinase	273.0	+	20231046	20231389	83,88,95	3	20,16,30	0,116,313	PR00959	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00959&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00959
-15	20236618	20236671	Mevalonate/galactokinase	209.0	+	20236618	20236671	83,88,95	1	53	0	PR00959	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00959&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00959
-15	20228966	20234208	Ribosomal_S5_D2-typ_fold	0.0	+	20228966	20234208	83,88,95	10	25,105,79,68,60,16,57,92,60,64	0,106,595,777,2040,2196,2393,2537,2707,5178	SSF54211	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54211

@@ -1,9 +1,0 @@
-Zv9_NA131	4577	8300	Prot_kinase_dom	130.5	+	4577	8300	83,88,95	3	218,144,25	0,3462,3698	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
-Zv9_NA131	4577	8294	Ser-Thr/Tyr_kinase_cat_dom	58.4	+	4577	8294	83,88,95	3	218,144,19	0,3462,3698	PF07714	http://pfam.sanger.ac.uk/family?acc=PF07714
-Zv9_NA131	4688	4792	Aminoglycoside_PTrfase	23.5	+	4688	4792	83,88,95	1	104	0	PF01636	http://pfam.sanger.ac.uk/family?acc=PF01636
-Zv9_NA131	4577	8336	Ser/Thr_dual-sp_kinase_dom	41.7	+	4577	8336	83,88,95	3	218,144,61	0,3462,3698	SM00220	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00220
-Zv9_NA131	4577	8348	Prot_kinase_dom	32.146	+	4577	8348	83,88,95	3	218,144,73	0,3462,3698	PS50011	http://www.expasy.ch/prosite/PS50011
-Zv9_NA131	4577	4603	Ser-Thr/Tyr_kinase_cat_dom	205.0	+	4577	4603	83,88,95	1	26	0	PR00109	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00109&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00109
-Zv9_NA131	4682	4738	Ser-Thr/Tyr_kinase_cat_dom	346.0	+	4682	4738	83,88,95	1	56	0	PR00109	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00109&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00109
-Zv9_NA131	8138	8297	Ser-Thr/Tyr_kinase_cat_dom	290.0	+	8138	8297	83,88,95	2	45,22	0,137	PR00109	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00109&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00109
-Zv9_NA131	4577	8321	Kinase-like_dom	0.0	+	4577	8321	83,88,95	3	218,144,46	0,3462,3698	SSF56112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56112

@@ -1,5 +1,0 @@
-22	355462	355536	GPCR_Rhodpsn	256.0	+	355462	355536	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
-22	355573	355638	GPCR_Rhodpsn	219.0	+	355573	355638	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
-22	357773	357838	GPCR_Rhodpsn	168.0	+	357773	357838	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
-22	355462	357709	TAS2_rcpt	30.2	+	355462	357709	83,88,95	2	203,101	0,2146	PF05296	http://pfam.sanger.ac.uk/family?acc=PF05296
-22	355507	357977	GPCR_Rhodpsn_7TM	11.104000000000001	+	355507	357977	83,88,95	3	158,263,26	0,2101,2444	PS50262	http://www.expasy.ch/prosite/PS50262

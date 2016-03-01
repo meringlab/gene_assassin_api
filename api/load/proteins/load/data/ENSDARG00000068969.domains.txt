@@ -1,9 +1,0 @@
-8	23057754	23060999	TNFR/NGFR_Cys_rich_reg	3.2	+	23057754	23060999	83,88,95	2	54,46	0,3199	SM00208	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00208
-8	23061972	23062182	TNFR/NGFR_Cys_rich_reg	27.8	+	23061972	23062182	83,88,95	2	55,60	0,150	SM00208	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00208
-8	23061241	23061965	TNFR/NGFR_Cys_rich_reg	11.0	+	23061241	23061965	83,88,95	2	99,25	0,699	SM00208	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00208
-8	23061006	23061237	TNFR/NGFR_Cys_rich_reg	38.8	+	23061006	23061237	83,88,95	2	72,52	0,179	SM00208	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00208
-8	23057796	23060984	Fas_rcpt	251.0	+	23057796	23060984	83,88,95	2	12,31	0,3157	PR01680	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01680&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01680
-8	23061006	23061237	TNFR/NGFR_Cys_rich_reg	29.8	+	23061006	23061237	83,88,95	2	72,52	0,179	PF00020	http://pfam.sanger.ac.uk/family?acc=PF00020
-8	23061048	23061204	Fas_rcpt	422.0	+	23061048	23061204	83,88,95	2	30,19	0,137	PR01680	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01680&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01680
-8	23061003	23061237	TNFR/NGFR_Cys_rich_reg	12.655	+	23061003	23061237	83,88,95	2	75,52	0,182	PS50050	http://www.expasy.ch/prosite/PS50050
-8	23061208	23061291	Fas_rcpt	405.0	+	23061208	23061291	83,88,95	1	83	0	PR01680	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01680&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01680

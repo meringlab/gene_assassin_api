@@ -1,5 +1,0 @@
-13	28722405	28724276	IL-1_fam/FGF_fam	258.0	+	28722405	28724276	83,88,95	2	77,5	0,1866	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
-13	28724289	28724351	IL-1_fam/FGF_fam	241.0	+	28724289	28724351	83,88,95	1	62	0	PR00262	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00262&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00262
-13	28720661	28724438	Fibroblast_GF_fam	130.3	+	28720661	28724438	83,88,95	3	96,106,167	0,1715,3610	PF00167	http://pfam.sanger.ac.uk/family?acc=PF00167
-13	28720655	28724447	Fibroblast_GF_fam	190.0	+	28720655	28724447	83,88,95	3	102,106,176	0,1721,3616	SM00442	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00442
-13	28720580	28724456	Cytokine_IL1-like	0.0	+	28720580	28724456	83,88,95	3	177,106,185	0,1796,3691	SSF50353	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50353

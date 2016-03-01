@@ -1,9 +1,0 @@
-23	36148548	36148718	Homeobox_dom	73.9	+	36148548	36148718	83,88,95	1	170	0	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
-23	36146913	36147449	Hox9_activation_N	207.3	+	36146913	36147449	83,88,95	1	536	0	PF04617	http://pfam.sanger.ac.uk/family?acc=PF04617
-23	36148545	36148733	Homeobox_dom	107.8	+	36148545	36148733	83,88,95	1	188	0	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-23	36148656	36148688	Homeobox_metazoa	427.0	+	36148656	36148688	83,88,95	1	32	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
-23	36148686	36148715	Homeobox_metazoa	475.0	+	36148686	36148715	83,88,95	1	29	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
-23	36148611	36148646	Homeobox_metazoa	252.0	+	36148611	36148646	83,88,95	1	35	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
-23	36148539	36148721	Homeobox_dom	20.747	+	36148539	36148721	83,88,95	1	182	0	PS50071	http://www.expasy.ch/prosite/PS50071
-23	36146913	36148751	Homeobox_Hox9	595.3	+	36146913	36148751	83,88,95	2	537,241	0,1597	PIRSF037109	None
-23	36147408	36148730	Homeodomain-like	0.0	+	36147408	36148730	83,88,95	2	42,220	0,1102	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

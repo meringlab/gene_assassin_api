@@ -1,7 +1,0 @@
-1	40659089	40659115	Thioredoxin	299.0	+	40659089	40659115	83,88,95	1	26	0	PR00421	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00421&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00421
-1	40659113	40659142	Thioredoxin	477.0	+	40659113	40659142	83,88,95	1	29	0	PR00421	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00421&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00421
-1	40662573	40662608	Thioredoxin	216.0	+	40662573	40662608	83,88,95	1	35	0	PR00421	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00421&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00421
-1	40656327	40662833	Thioredoxin_domain	104.3	+	40656327	40662833	83,88,95	5	5,104,65,65,56	0,2720,2914,6228,6450	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085
-1	40656327	40662590	AhpC/TSA	23.8	+	40656327	40662590	83,88,95	4	5,104,65,35	0,2720,2914,6228	PF00578	http://pfam.sanger.ac.uk/family?acc=PF00578
-1	40656324	40662833	mRNA_splic_U5	23.1	+	40656324	40662833	83,88,95	5	8,104,65,65,56	0,2723,2917,6231,6453	PF02966	http://pfam.sanger.ac.uk/family?acc=PF02966
-1	40656312	40662839	Thioredoxin-like_fold	0.0	+	40656312	40662839	83,88,95	5	20,104,65,65,62	0,2735,2929,6243,6465	SSF52833	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52833

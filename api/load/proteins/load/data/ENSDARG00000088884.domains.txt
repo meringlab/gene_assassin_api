@@ -1,8 +1,0 @@
-15	26039	27004	Ser-Thr/Tyr_kinase_cat_dom	148.4	-	26039	27004	83,88,95	3	822,-136,896	0,490,69	PF07714	http://pfam.sanger.ac.uk/family?acc=PF07714
-15	26045	27004	Prot_kinase_dom	50.5	-	26045	27004	83,88,95	3	816,-136,896	0,484,63	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
-15	26054	26406	Ser-Thr/Tyr_kinase_cat_dom	609.0	-	26054	26406	83,88,95	2	339,298	0,54	PR00109	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00109&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00109
-15	26470	26869	Ser-Thr/Tyr_kinase_cat_dom	871.0	-	26470	26869	83,88,95	2	391,340	0,59	PR00109	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00109&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00109
-15	26894	26926	Ser-Thr/Tyr_kinase_cat_dom	354.0	-	26894	26926	83,88,95	1	32	0	PR00109	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00109&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00109
-15	26033	27007	Tyr_kinase_cat_dom	28.6	-	26033	27007	83,88,95	3	828,-136,899	0,496,75	SM00219	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00219
-15	26021	27007	Prot_kinase_dom	16.542	-	26021	27007	83,88,95	3	840,-136,899	0,508,87	PS50011	http://www.expasy.ch/prosite/PS50011
-15	25964	27007	Kinase-like_dom	0.0	-	25964	27007	83,88,95	3	897,-136,899	0,565,144	SSF56112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56112

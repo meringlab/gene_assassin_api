@@ -1,7 +1,0 @@
-11	8368577	8370210	Prot_kinase_dom	108.4	-	8368577	8370210	83,88,95	4	1562,-50,-4,1291	0,1433,425,342	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
-11	8368577	8370210	Ser-Thr/Tyr_kinase_cat_dom	56.5	-	8368577	8370210	83,88,95	4	1562,-50,-4,1291	0,1433,425,342	PF07714	http://pfam.sanger.ac.uk/family?acc=PF07714
-11	8368601	8368813	LipoPS_kinase	24.2	-	8368601	8368813	83,88,95	1	212	0	PF06293	http://pfam.sanger.ac.uk/family?acc=PF06293
-11	8367449	8370216	Ser/Thr_dual-sp_kinase_dom	88.2	-	8367449	8370216	83,88,95	7	2690,-50,-4,-478,-8,-47,2691	0,2561,1553,1470,855,179,76	SM00220	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00220
-11	8367464	8370216	Tyr_kinase_cat_dom	-118.3	-	8367464	8370216	83,88,95	7	2675,-50,-4,-478,-8,-47,2691	0,2546,1538,1455,840,164,61	SM00219	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00219
-11	8367449	8370216	Prot_kinase_dom	22.365	-	8367449	8370216	83,88,95	7	2690,-50,-4,-478,-8,-47,2691	0,2561,1553,1470,855,179,76	PS50011	http://www.expasy.ch/prosite/PS50011
-11	8366240	8370216	Kinase-like_dom	0.0	-	8366240	8370216	83,88,95	9	3899,-50,-4,-478,-8,-47,-100,-13,3970	0,3770,2762,2679,2064,1388,1285,613,6	SSF56112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56112

@@ -1,5 +1,0 @@
-20	47677646	47707079	Cold_shock_prot	62.5	-	47677646	47707079	83,88,95	2	29326,29326	0,107	SM00357	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00357
-20	47707029	47707076	CSP_DNA-bd	571.0	-	47707029	47707076	83,88,95	1	47	0	PR00050	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00050&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00050
-20	47677673	47677729	CSP_DNA-bd	395.0	-	47677673	47677729	83,88,95	1	56	0	PR00050	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00050&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00050
-20	47677649	47707079	CSP_DNA-bd	62.9	-	47677649	47707079	83,88,95	2	29323,29326	0,104	PF00313	http://pfam.sanger.ac.uk/family?acc=PF00313
-20	47677643	47707106	NA-bd_OB-fold	0.0	-	47677643	47707106	83,88,95	2	29329,29353	0,110	SSF50249	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50249

@@ -1,8 +1,0 @@
-15	523267	523326	Peptidase_S8_subtilisin-rel	375.0	+	523267	523326	83,88,95	1	59	0	PR00723	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00723&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00723
-15	524276	524317	Peptidase_S8_subtilisin-rel	407.0	+	524276	524317	83,88,95	1	41	0	PR00723	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00723&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00723
-15	532823	532873	Peptidase_S8_subtilisin-rel	459.0	+	532823	532873	83,88,95	1	50	0	PR00723	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00723&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00723
-15	523225	533554	Peptidase_S8/S53_dom	229.2	+	523225	533554	83,88,95	8	113,165,90,54,138,100,167,68	0,985,3136,6239,6515,7761,9547,10261	PF00082	http://pfam.sanger.ac.uk/family?acc=PF00082
-15	537698	539812	PrprotnconvertsP	79.2	+	537698	539812	83,88,95	3	118,94,43	0,364,2071	PF01483	http://pfam.sanger.ac.uk/family?acc=PF01483
-15	521131	533764	Peptidase_S8/S53_dom	0.0	+	521131	533764	83,88,95	10	47,134,165,90,54,138,100,167,104,8	0,2073,3079,5230,8333,8609,9855,11641,12355,12625	SSF52743	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52743
-15	533576	539839	Galactose-bd-like	0.0	+	533576	539839	83,88,95	5	14,99,156,94,70	0,180,4084,4486,6193	SSF49785	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49785
-15	520879	521112	Prot_inh_propept	0.0	+	520879	521112	83,88,95	1	233	0	SSF54897	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54897

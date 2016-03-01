@@ -1,9 +1,0 @@
-10	26475459	26475647	TRP_dom	98.8	-	26475459	26475647	83,88,95	1	188	0	PF08344	http://pfam.sanger.ac.uk/family?acc=PF08344
-10	26468676	26471805	Ion_trans_dom	114.0	-	26468676	26471805	83,88,95	4	3111,-139,-322,2958	0,3017,581,171	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
-10	26468667	26468732	TRPC_channel	744.0	-	26468667	26468732	83,88,95	1	65	0	PR01097	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01097&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01097
-10	26466788	26468666	TRPC_channel	565.0	-	26466788	26468666	83,88,95	2	1864,1852	0,26	PR01097	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01097&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01097
-10	26466704	26466745	TRPC_channel	662.0	-	26466704	26466745	83,88,95	1	41	0	PR01097	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01097&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01097
-10	26475663	26475752	Ankyrin_rpt	21.1	-	26475663	26475752	83,88,95	1	89	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-10	26486639	26486728	Ankyrin_rpt	19.0	-	26486639	26486728	83,88,95	1	89	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-10	26465216	26486881	TRP_channel	930.1	-	26465216	26486881	83,88,95	10	21339,-518,-372,-139,-322,-195,-194,-41,-89,21630	0,10578,6943,6477,4041,3631,1598,1168,920,35	TIGR00870	http://www.ebi.ac.uk/interpro/signature/TIGR00870
-10	26475669	26486830	Ankyrin_rpt-contain_dom	0.0	-	26475669	26486830	83,88,95	2	10886,11036	0,125	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403

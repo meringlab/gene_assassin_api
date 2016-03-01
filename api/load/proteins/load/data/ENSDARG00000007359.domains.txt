@@ -1,7 +1,0 @@
-8	53222370	53228890	Ubiquitin_dom	64.7	+	53222370	53228890	83,88,95	3	26,105,64	0,2298,6456	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240
-8	53222355	53228863	Rad60/SUMO_like	38.0	+	53222355	53228863	83,88,95	3	41,105,37	0,2313,6471	PF11976	http://pfam.sanger.ac.uk/family?acc=PF11976
-8	53222379	53224712	Ubiquitin	234.0	+	53222379	53224712	83,88,95	2	17,44	0,2289	PR00348	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00348&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00348
-8	53224713	53228827	Ubiquitin	513.0	+	53224713	53228827	83,88,95	2	60,1	0,4113	PR00348	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00348&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00348
-8	53228828	53228893	Ubiquitin	364.0	+	53228828	53228893	83,88,95	1	65	0	PR00348	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00348&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00348
-8	53222349	53228887	Ubiquitin_dom	87.7	+	53222349	53228887	83,88,95	3	47,105,61	0,2319,6477	SM00213	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00213
-8	53222349	53228899	Ubiquitin_dom	20.871	+	53222349	53228899	83,88,95	3	47,105,73	0,2319,6477	PS50053	http://www.expasy.ch/prosite/PS50053

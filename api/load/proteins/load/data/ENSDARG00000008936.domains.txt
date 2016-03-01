@@ -1,5 +1,0 @@
-18	26738420	26741382	Peptidase_S26B	596.0	-	26738420	26741382	83,88,95	2	2955,2923	0,39	PR00728	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00728&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00728
-18	26734868	26734903	Peptidase_S26B	439.0	-	26734868	26734903	83,88,95	1	35	0	PR00728	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00728&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00728
-18	26732773	26741463	Peptidase_S26B	106.9	-	26732773	26741463	83,88,95	5	8602,-149,-119,-57,8652	0,5686,2149,173,38	TIGR02228	http://www.ebi.ac.uk/interpro/signature/TIGR02228
-18	26738312	26741382	Peptidase_S24_S26	38.3	-	26738312	26741382	83,88,95	2	3063,2923	0,147	PF00717	http://pfam.sanger.ac.uk/family?acc=PF00717
-18	26732934	26741436	Peptidase_S24_S26A/B/C	0.0	-	26732934	26741436	83,88,95	4	8441,-149,-119,8490	0,5525,1988,12	SSF51306	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51306

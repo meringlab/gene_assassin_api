@@ -1,8 +1,0 @@
-2	38630908	38680922	Small_GTPase_Ras	26.8	+	38630908	38680922	83,88,95	4	120,73,177,112	0,707,35362,49902	SM00173	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00173
-2	38630917	38680922	Small_GTPase_Rab_type	-27.3	+	38630917	38680922	83,88,95	4	111,73,177,112	0,698,35353,49893	SM00175	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00175
-2	38630917	38630982	Small_GTPase	392.0	+	38630917	38630982	83,88,95	1	65	0	PR00449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00449
-2	38666378	38666419	Small_GTPase	380.0	+	38666378	38666419	83,88,95	1	41	0	PR00449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00449
-2	38680845	38680913	Small_GTPase	134.0	+	38680845	38680913	83,88,95	1	68	0	PR00449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00449
-2	38630920	38680913	Small_GTPase	69.3	+	38630920	38680913	83,88,95	4	108,73,177,103	0,695,35350,49890	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071
-2	38630920	38666416	MIRO-like	42.8	+	38630920	38666416	83,88,95	3	108,73,146	0,695,35350	PF08477	http://pfam.sanger.ac.uk/family?acc=PF08477
-2	38630902	38680913	P-loop_NTPase	0.0	+	38630902	38680913	83,88,95	4	126,73,177,103	0,713,35368,49908	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

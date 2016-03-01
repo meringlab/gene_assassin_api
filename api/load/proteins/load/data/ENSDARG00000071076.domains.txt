@@ -1,7 +1,0 @@
-25	3384614	3386411	L-lactate/malate_DH	692.0	+	3384614	3386411	83,88,95	2	62,11	0,1786	PR00086	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00086&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00086
-25	3386412	3386486	L-lactate/malate_DH	793.0	+	3386412	3386486	83,88,95	1	74	0	PR00086	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00086&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00086
-25	3384611	3388561	Lactate/malate_DH_N	145.6	+	3384611	3388561	83,88,95	3	65,117,178	0,1789,3772	PF00056	http://pfam.sanger.ac.uk/family?acc=PF00056
-25	3388589	3389613	Lactate/malate_DH_N	43.0	+	3388589	3389613	83,88,95	2	66,64	0,960	PF00056	http://pfam.sanger.ac.uk/family?acc=PF00056
-25	3389617	3392179	Lactate/malate_DH_C	109.9	+	3389617	3392179	83,88,95	4	105,117,123,134	0,1382,1588,2428	PF02866	http://pfam.sanger.ac.uk/family?acc=PF02866
-25	3389611	3392206	Lactate_DH/Glyco_Ohase_4_C	0.0	+	3389611	3392206	83,88,95	4	111,117,123,161	0,1388,1594,2434	SSF56327	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56327
-25	3384608	3392209	L-lactate/malate_DH	439.7	+	3384608	3392209	83,88,95	7	68,117,272,173,117,123,164	0,1792,3775,4941,6391,6597,7437	PIRSF000102	None

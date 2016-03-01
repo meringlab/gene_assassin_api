@@ -1,9 +1,0 @@
-6	55205243	55205302	NFAT	675.0	-	55205243	55205302	83,88,95	1	59	0	PR01789	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01789&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01789
-6	55205498	55212573	NFAT	504.0	-	55205498	55212573	83,88,95	2	7021,7071	0,4	PR01789	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01789&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01789
-6	55212634	55214239	NFAT	684.0	-	55212634	55214239	83,88,95	2	1563,1580	0,25	PR01789	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01789&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01789
-6	55215670	55220410	NFAT	637.0	-	55215670	55220410	83,88,95	2	4708,4723	0,17	PR01789	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01789&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01789
-6	55212658	55220482	RHD	84.8	-	55212658	55220482	83,88,95	4	7720,-202,-172,7823	0,3029,1711,1	PF00554	http://pfam.sanger.ac.uk/family?acc=PF00554
-6	55205246	55212639	IPT	52.1	-	55205246	55212639	83,88,95	3	7273,-55,7271	0,256,122	SM00429	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00429
-6	55212646	55220536	RHD	46.346000000000004	-	55212646	55220536	83,88,95	4	7732,-202,-172,7877	0,3041,1723,13	PS50254	http://www.expasy.ch/prosite/PS50254
-6	55212640	55220515	p53-like_TF_DNA-bd	0.0	-	55212640	55220515	83,88,95	4	7738,-202,-172,7856	0,3047,1729,19	SSF49417	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49417
-6	55205240	55212639	Ig_E-set	0.0	-	55205240	55212639	83,88,95	3	7279,-55,7271	0,262,128	SSF81296	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81296

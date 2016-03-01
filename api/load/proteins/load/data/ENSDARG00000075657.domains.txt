@@ -1,8 +1,0 @@
-Zv9_NA89	25357	28407	Ankyrin_rpt	21.9	+	25357	28407	83,88,95	2	56,38	0,3012	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
-Zv9_NA89	22604	22696	Ankyrin_rpt	18.1	+	22604	22696	83,88,95	1	92	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-Zv9_NA89	22709	24747	Ankyrin_rpt	10.0	+	22709	24747	83,88,95	2	32,56	0,1982	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-Zv9_NA89	24763	25335	Ankyrin_rpt	11.8	+	24763	25335	83,88,95	2	41,47	0,525	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-Zv9_NA89	25357	28401	Ankyrin_rpt	30.5	+	25357	28401	83,88,95	2	56,32	0,3012	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-Zv9_NA89	25357	28410	Ankyrin_rpt	12.262	+	25357	28410	83,88,95	2	56,41	0,3012	PS50088	http://www.expasy.ch/prosite/PS50088
-Zv9_NA89	22604	28410	Ankyrin_rpt-contain_dom	22.145	+	22604	28410	83,88,95	4	137,113,125,41	0,2087,2684,5765	PS50297	http://www.expasy.ch/prosite/PS50297
-Zv9_NA89	19335	28476	Ankyrin_rpt-contain_dom	0.0	+	19335	28476	83,88,95	5	41,179,113,125,107	0,3227,5356,5953,9034	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403

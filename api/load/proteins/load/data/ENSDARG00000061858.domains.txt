@@ -1,8 +1,0 @@
-3	21440690	21443288	Peptidase_S1	218.6	+	21440690	21443288	83,88,95	4	139,262,139,137	0,215,2239,2461	PF00089	http://pfam.sanger.ac.uk/family?acc=PF00089
-3	21440720	21441112	Peptidase_S1A_nudel	37.9	+	21440720	21441112	83,88,95	2	109,207	0,185	PF09342	http://pfam.sanger.ac.uk/family?acc=PF09342
-3	21440774	21440821	Peptidase_S1A	510.0	+	21440774	21440821	83,88,95	1	47	0	PR00722	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00722&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00722
-3	21441017	21441061	Peptidase_S1A	293.0	+	21441017	21441061	83,88,95	1	44	0	PR00722	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00722&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00722
-3	21443054	21443174	Peptidase_S1A	409.0	+	21443054	21443174	83,88,95	2	14,23	0,97	PR00722	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00722&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00722
-3	21440687	21443288	Peptidase_S1	294.5	+	21440687	21443288	83,88,95	4	142,262,139,137	0,218,2242,2464	SM00020	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00020
-3	21440690	21443303	Peptidase_S1	35.867	+	21440690	21443303	83,88,95	4	139,262,139,152	0,215,2239,2461	PS50240	http://www.expasy.ch/prosite/PS50240
-3	21440663	21443312	Trypsin-like_Pept_dom	0.0	+	21440663	21443312	83,88,95	4	166,262,139,161	0,242,2266,2488	SSF50494	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50494

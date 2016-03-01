@@ -1,5 +1,0 @@
-9	2332296	2335748	ATPase_proteolipid_c_like_dom	62.2	+	2332296	2335748	83,88,95	2	94,108	0,3344	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
-9	2332302	2332361	ATPase_F0-cplx_csu	513.0	+	2332302	2332361	83,88,95	1	59	0	PR00124	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00124&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00124
-9	2332365	2335661	ATPase_F0-cplx_csu	386.0	+	2332365	2335661	83,88,95	2	25,21	0,3275	PR00124	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00124&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00124
-9	2335665	2335742	ATPase_F0-cplx_csu	729.0	+	2335665	2335742	83,88,95	1	77	0	PR00124	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00124&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00124
-9	2332272	2335748	ATPase_proteolipid_c_like_dom	0.0	+	2332272	2335748	83,88,95	2	118,108	0,3368	SSF81333	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81333

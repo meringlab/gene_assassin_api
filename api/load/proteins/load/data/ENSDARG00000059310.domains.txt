@@ -1,9 +1,0 @@
-21	2485775	2486083	Ig_V-set	39.4	+	2485775	2486083	83,88,95	1	308	0	PF07686	http://pfam.sanger.ac.uk/family?acc=PF07686
-21	2503008	2503082	P-loop_NTPase	0.0	+	2503008	2503082	83,88,95	1	74	0	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-21	2503020	2503346	P-loop_NTPase	0.0	+	2503020	2503346	83,88,95	1	326	0	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-21	2485787	2486113	Ig_sub	39.4	+	2485787	2486113	83,88,95	1	326	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-21	2485817	2486068	Ig_V-set_subgr	27.4	+	2485817	2486068	83,88,95	1	251	0	SM00406	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00406
-21	2486280	2486540	Ig_sub	8.9	+	2486280	2486540	83,88,95	1	260	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-21	2503014	2503418	AAA+_ATPase	25.9	+	2503014	2503418	83,88,95	1	404	0	SM00382	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00382
-21	2482799	2486101	Ig-like_dom	11.388	+	2482799	2486101	83,88,95	2	15,337	0,2965	PS50835	http://www.expasy.ch/prosite/PS50835
-21	2486265	2486534	Ig-like_dom	7.558	+	2486265	2486534	83,88,95	1	269	0	PS50835	http://www.expasy.ch/prosite/PS50835

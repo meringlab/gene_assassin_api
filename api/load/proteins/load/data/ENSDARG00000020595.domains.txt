@@ -1,7 +1,0 @@
-11	26424549	26432645	GTP_binding_domain	606.0	+	26424549	26432645	83,88,95	2	12,49	0,8047	PR00326	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00326&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00326
-11	26432822	26432869	GTP_binding_domain	227.0	+	26432822	26432869	83,88,95	1	47	0	PR00326	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00326&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00326
-11	26432610	26432881	GTP_binding_domain	38.1	+	26432610	26432881	83,88,95	2	73,96	0,175	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926
-11	26424543	26432893	Fe2_transport_prot_B_N	33.8	+	26424543	26432893	83,88,95	3	18,87,108	0,8053,8242	PF02421	http://pfam.sanger.ac.uk/family?acc=PF02421
-11	26423832	26424273	EF_GTP-bd_dom	21.7	+	26423832	26424273	83,88,95	3	26,135,88	0,130,353	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
-11	26419430	26421295	Gnl3_N_dom	26.2	+	26419430	26421295	83,88,95	4	3,40,107,59	0,105,1576,1806	PF08701	http://pfam.sanger.ac.uk/family?acc=PF08701
-11	26423826	26433142	P-loop_NTPase	0.0	+	26423826	26433142	83,88,95	7	32,135,103,144,87,177,104	0,136,359,591,8770,8959,9212	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

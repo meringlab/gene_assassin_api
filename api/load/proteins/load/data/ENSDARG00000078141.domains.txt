@@ -1,6 +1,0 @@
-3	43997094	43997231	Cys-rich_flank_reg_C	27.0	+	43997094	43997231	83,88,95	1	137	0	SM00082	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00082
-3	43996989	43997060	Leu-rich_rpt_typical-subtyp	1.7	+	43996989	43997060	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-3	43996917	43996988	Leu-rich_rpt_typical-subtyp	22.2	+	43996917	43996988	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-3	43996851	43996916	Leu-rich_rpt_typical-subtyp	8.6	+	43996851	43996916	83,88,95	1	65	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-3	43996773	43996844	Leu-rich_rpt_typical-subtyp	17.9	+	43996773	43996844	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-3	43997427	43997669	Fibronectin_type3	0.0	+	43997427	43997669	83,88,95	1	242	0	SSF49265	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49265

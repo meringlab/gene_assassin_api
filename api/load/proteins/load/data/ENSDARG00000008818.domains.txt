@@ -1,7 +1,0 @@
-19	3619304	3622994	HSF_DNA-bd	733.0	+	3619304	3622994	83,88,95	2	65,5	0,3685	PR00056	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00056&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00056
-19	3623037	3623075	HSF_DNA-bd	578.0	+	3623037	3623075	83,88,95	1	38	0	PR00056	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00056&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00056
-19	3623076	3624348	HSF_DNA-bd	614.0	+	3623076	3624348	83,88,95	2	21,16	0,1256	PR00056	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00056&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00056
-19	3634353	3644254	Vert_HSTF_C	314.7	+	3634353	3644254	83,88,95	8	121,233,77,105,47,63,181,2	0,549,6001,7897,8080,8273,8440,9899	PF06546	http://pfam.sanger.ac.uk/family?acc=PF06546
-19	3619301	3624465	HSF_DNA-bd	121.5	+	3619301	3624465	83,88,95	3	68,108,133	0,3688,5031	PF00447	http://pfam.sanger.ac.uk/family?acc=PF00447
-19	3619292	3624459	HSF_DNA-bd	239.6	+	3619292	3624459	83,88,95	3	77,108,127	0,3697,5040	SM00415	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00415
-19	3627006	3633365	STAT_TF_coiled-coil	0.0	+	3627006	3633365	83,88,95	3	88,75,14	0,4878,6345	SSF47655	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47655

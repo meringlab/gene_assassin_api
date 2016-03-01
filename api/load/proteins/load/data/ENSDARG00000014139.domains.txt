@@ -1,6 +1,0 @@
-14	1214182	1216588	Signal_recog_part_SRP72_RNA-bd	67.3	-	1214182	1216588	83,88,95	3	2348,-37,2321	0,603,85	PF08492	http://pfam.sanger.ac.uk/family?acc=PF08492
-14	1219025	1219501	TPR_repeat	6.6	-	1219025	1219501	83,88,95	2	468,384	0,92	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-14	1231962	1234902	TPR_repeat	16.9	-	1231962	1234902	83,88,95	2	2856,2924	0,16	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-14	1226632	1228893	TPR_repeat	21.6	-	1226632	1228893	83,88,95	2	2170,2252	0,9	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-14	1226632	1228893	TPR_repeat	9.204	-	1226632	1228893	83,88,95	2	2170,2252	0,9	PS50005	http://www.expasy.ch/prosite/PS50005
-14	1226632	1228893	TPR-contain_dom	10.002	-	1226632	1228893	83,88,95	2	2170,2252	0,9	PS50293	http://www.expasy.ch/prosite/PS50293

@@ -1,7 +1,0 @@
-11	11235488	11239985	Transthyretin/HIU_hydrolase_SF	131.5	-	11235488	11239985	83,88,95	3	4385,-135,4414	0,421,83	PF00576	http://pfam.sanger.ac.uk/family?acc=PF00576
-11	11239923	11239985	Transthyretin/HIU_hydrolase	366.0	-	11239923	11239985	83,88,95	1	62	0	PR00189	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00189&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00189
-11	11235843	11239883	Transthyretin/HIU_hydrolase	469.0	-	11235843	11239883	83,88,95	2	4030,3974	0,66	PR00189	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00189&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00189
-11	11235551	11235842	Transthyretin/HIU_hydrolase	691.0	-	11235551	11235842	83,88,95	2	223,271	0,20	PR00189	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00189&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00189
-11	11235485	11239988	Hydroxyisourate_hydrolase	136.9	-	11235485	11239988	83,88,95	3	4388,-135,4417	0,424,86	TIGR02962	http://www.ebi.ac.uk/interpro/signature/TIGR02962
-11	11235488	11239997	Transthyretin/HIU_hydrolase_SF	55.5	-	11235488	11239997	83,88,95	3	4385,-135,4426	0,421,83	SM00095	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00095
-11	11235485	11239991	Transthyretin/HIU_hydrolase_SF	0.0	-	11235485	11239991	83,88,95	3	4388,-135,4420	0,424,86	SSF49472	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49472

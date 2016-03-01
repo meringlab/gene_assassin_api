@@ -1,9 +1,0 @@
-3	39658817	39659188	Epsin_dom_N	173.1	+	39658817	39659188	83,88,95	1	371	0	PF01417	http://pfam.sanger.ac.uk/family?acc=PF01417
-3	39658829	39659143	ANTH_dom	23.9	+	39658829	39659143	83,88,95	1	314	0	PF07651	http://pfam.sanger.ac.uk/family?acc=PF07651
-3	39671904	39671963	Ubiquitin-int_motif	17.6	+	39671904	39671963	83,88,95	1	59	0	SM00726	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00726
-3	39667323	39671888	Ubiquitin-int_motif	17.9	+	39667323	39671888	83,88,95	2	56,2	0,4563	SM00726	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00726
-3	39658820	39659200	Epsin-like_N	231.0	+	39658820	39659200	83,88,95	1	380	0	SM00273	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00273
-3	39658802	39659200	Epsin-like_N	44.376999999999995	+	39658802	39659200	83,88,95	1	398	0	PS50942	http://www.expasy.ch/prosite/PS50942
-3	39667323	39671888	Ubiquitin-int_motif	10.724	+	39667323	39671888	83,88,95	2	56,2	0,4563	PS50330	http://www.expasy.ch/prosite/PS50330
-3	39671904	39671963	Ubiquitin-int_motif	9.208	+	39671904	39671963	83,88,95	1	59	0	PS50330	http://www.expasy.ch/prosite/PS50330
-3	39658787	39659200	ENTH_VHS	0.0	+	39658787	39659200	83,88,95	1	413	0	SSF48464	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48464

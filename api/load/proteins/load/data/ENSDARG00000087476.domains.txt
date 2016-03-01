@@ -1,7 +1,0 @@
-15	571222	571623	C1q	64.9	-	571222	571623	83,88,95	1	401	0	PF00386	http://pfam.sanger.ac.uk/family?acc=PF00386
-15	571441	571500	C1q	165.0	-	571441	571500	83,88,95	1	59	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-15	571219	571251	C1q	298.0	-	571219	571251	83,88,95	1	32	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-15	571501	571581	C1q	255.0	-	571501	571581	83,88,95	1	80	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-15	571213	571731	C1q	5.5	-	571213	571731	83,88,95	2	506,97	0,421	SM00110	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00110
-15	571210	571635	Tumour_necrosis_fac-like_dom	0.0	-	571210	571635	83,88,95	1	425	0	SSF49842	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49842
-15	571210	571725	C1q	14.687999999999999	-	571210	571725	83,88,95	2	509,91	0,424	PS50871	http://www.expasy.ch/prosite/PS50871

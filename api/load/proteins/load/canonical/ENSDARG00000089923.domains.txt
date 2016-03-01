@@ -1,0 +1,5 @@
+#>P	ENSDARG00000089923	ENSDART00000124670	ENSDARP00000107141	Zv9_scaffold3518	419703	421820	1	leucine rich repeat neuronal 3 [Source:HGNC Symbol;Acc:HGNC:17200]
+#>E	ENSDARE00000891457	1.0	419703-421823
+Zv9_scaffold3518	420984	421241	1.0	Ig_I-set	45.6	420984-421241	PF07679	http://pfam.sanger.ac.uk/family?acc=PF07679
+Zv9_scaffold3518	420123	420191	1.0	Leu-rich_rpt	11.5	420123-420191	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+Zv9_scaffold3518	421281	421499	1.0	Fibronectin_type3	23.3	421281-421499	PF00041	http://pfam.sanger.ac.uk/family?acc=PF00041

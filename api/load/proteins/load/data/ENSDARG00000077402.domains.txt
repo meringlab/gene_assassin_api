@@ -1,9 +1,0 @@
-7	46580394	46580561	Ubiqinol_cyt_c_Rdtase_N	112.7	+	46580394	46580561	83,88,95	1	167	0	PF09165	http://pfam.sanger.ac.uk/family?acc=PF09165
-7	46581984	46582184	Ubiquinol_cyt_Rdtase_TM	93.1	+	46581984	46582184	83,88,95	1	200	0	PF02921	http://pfam.sanger.ac.uk/family?acc=PF02921
-7	46582278	46582541	Rieske_2Fe-2S	56.4	+	46582278	46582541	83,88,95	1	263	0	PF00355	http://pfam.sanger.ac.uk/family?acc=PF00355
-7	46582383	46582418	Rieske_Fe-S_prot_C	516.0	+	46582383	46582418	83,88,95	1	35	0	PR00162	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00162&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00162
-7	46582449	46582487	Rieske_Fe-S_prot_C	626.0	+	46582449	46582487	83,88,95	1	38	0	PR00162	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00162&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00162
-7	46582485	46582523	Rieske_Fe-S_prot_C	496.0	+	46582485	46582523	83,88,95	1	38	0	PR00162	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00162&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00162
-7	46582077	46582571	Ubiquinol_cyt_c_Rdtase_Fe-S-su	184.6	+	46582077	46582571	83,88,95	1	494	0	TIGR01416	http://www.ebi.ac.uk/interpro/signature/TIGR01416
-7	46582146	46582568	Rieske_2Fe-2S	0.0	+	46582146	46582568	83,88,95	1	422	0	SSF50022	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50022
-7	46580394	46580561	Globular_prot_asu/bsu	0.0	+	46580394	46580561	83,88,95	1	167	0	SSF56568	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56568

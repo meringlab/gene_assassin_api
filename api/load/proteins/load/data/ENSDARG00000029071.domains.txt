@@ -1,9 +1,0 @@
-4	26394894	26395360	DUF3456	38.5	-	26394894	26395360	83,88,95	3	428,-82,424	0,277,42	PF11938	http://pfam.sanger.ac.uk/family?acc=PF11938
-4	26380711	26384776	EGF-like_Ca-bd_dom	21.5	-	26380711	26384776	83,88,95	2	3981,4058	0,7	PF07645	http://pfam.sanger.ac.uk/family?acc=PF07645
-4	26379876	26379959	EGF-like_Ca-bd_dom	34.9	-	26379876	26379959	83,88,95	1	83	0	PF07645	http://pfam.sanger.ac.uk/family?acc=PF07645
-4	26380666	26384776	EGF-like_Ca-bd_dom	21.4	-	26380666	26384776	83,88,95	2	4026,4058	0,52	SM00179	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00179
-4	26378704	26379959	EGF-like_Ca-bd_dom	13.2	-	26378704	26379959	83,88,95	2	1171,1212	0,43	SM00179	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00179
-4	26379906	26384707	Furin_repeat	19.0	-	26379906	26384707	83,88,95	3	4786,-95,4749	0,812,52	SM00261	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00261
-4	26384723	26387927	Furin_repeat	31.5	-	26384723	26387927	83,88,95	3	3189,-98,3152	0,2186,52	SM00261	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00261
-4	26387970	26388580	EG-like_dom	10.649000000000001	-	26387970	26388580	83,88,95	2	601,492	0,118	PS50026	http://www.expasy.ch/prosite/PS50026
-4	26379900	26388652	Growth_fac_rcpt_N_dom	0.0	-	26379900	26388652	83,88,95	6	8671,-176,-98,-83,-95,8694	0,8188,7009,4875,818,58	SSF57184	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57184

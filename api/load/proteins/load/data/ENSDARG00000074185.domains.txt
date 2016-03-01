@@ -1,7 +1,0 @@
-20	7575618	7594463	Peptidase_S8/S53_dom	122.6	+	7575618	7594463	83,88,95	6	15,133,141,196,183,52	0,3750,3981,6237,15165,18793	PF00082	http://pfam.sanger.ac.uk/family?acc=PF00082
-20	7575185	7575554	Inhibitor_I9	31.7	+	7575185	7575554	83,88,95	2	173,44	0,325	PF05922	http://pfam.sanger.ac.uk/family?acc=PF05922
-20	7579373	7579432	Peptidase_S8_subtilisin-rel	252.0	+	7579373	7579432	83,88,95	1	59	0	PR00723	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00723&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00723
-20	7579605	7579646	Peptidase_S8_subtilisin-rel	348.0	+	7579605	7579646	83,88,95	1	41	0	PR00723	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00723&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00723
-20	7590933	7594427	Peptidase_S8_subtilisin-rel	424.0	+	7590933	7594427	83,88,95	2	33,16	0,3478	PR00723	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00723&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00723
-20	7575555	7594562	Peptidase_S8/S53_dom	0.0	+	7575555	7594562	83,88,95	6	78,133,141,196,183,151	0,3813,4044,6300,15228,18856	SSF52743	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52743
-20	7575176	7575566	Prot_inh_propept	0.0	+	7575176	7575566	83,88,95	2	182,56	0,334	SSF54897	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54897

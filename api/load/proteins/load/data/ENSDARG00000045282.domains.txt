@@ -1,7 +1,0 @@
-10	8046458	8048042	Prot_kinase_dom	157.3	+	8046458	8048042	83,88,95	5	80,50,381,176,85	0,181,741,1206,1499	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
-10	8046464	8048030	Ser-Thr/Tyr_kinase_cat_dom	84.5	+	8046464	8048030	83,88,95	5	74,50,381,176,73	0,175,735,1200,1493	PF07714	http://pfam.sanger.ac.uk/family?acc=PF07714
-10	8047325	8047543	Aminoglycoside_PTrfase	27.8	+	8047325	8047543	83,88,95	1	218	0	PF01636	http://pfam.sanger.ac.uk/family?acc=PF01636
-10	8046458	8048042	Ser/Thr_dual-sp_kinase_dom	193.1	+	8046458	8048042	83,88,95	5	80,50,381,176,85	0,181,741,1206,1499	SM00220	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00220
-10	8046458	8048042	Tyr_kinase_cat_dom	-69.4	+	8046458	8048042	83,88,95	5	80,50,381,176,85	0,181,741,1206,1499	SM00219	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00219
-10	8046458	8048042	Prot_kinase_dom	37.163000000000004	+	8046458	8048042	83,88,95	5	80,50,381,176,85	0,181,741,1206,1499	PS50011	http://www.expasy.ch/prosite/PS50011
-10	8046458	8048042	Kinase-like_dom	0.0	+	8046458	8048042	83,88,95	5	80,50,381,176,85	0,181,741,1206,1499	SSF56112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56112

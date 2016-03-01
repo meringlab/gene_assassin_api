@@ -1,5 +1,0 @@
-10	2655625	2667193	Myosin_head_motor_dom	244.0	+	2655625	2667193	83,88,95	7	99,156,102,125,108,116,40	0,237,1661,3813,8479,9112,11528	PF00063	http://pfam.sanger.ac.uk/family?acc=PF00063
-10	2655628	2655711	Myosin_head_motor_dom	1095.0	+	2655628	2655711	83,88,95	1	83	0	PR00193	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00193&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00193
-10	2664847	2667196	Myosin_head_motor_dom	492.0	+	2664847	2667196	83,88,95	2	6,43	0,2306	PR00193	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00193&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00193
-10	2655622	2667196	Myosin_head_motor_dom	-329.5	+	2655622	2667196	83,88,95	7	102,156,102,125,108,116,43	0,240,1664,3816,8482,9115,11531	SM00242	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00242
-10	2655622	2667193	P-loop_NTPase	0.0	+	2655622	2667193	83,88,95	7	102,156,102,125,108,116,40	0,240,1664,3816,8482,9115,11531	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

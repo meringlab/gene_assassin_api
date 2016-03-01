@@ -1,8 +1,0 @@
-1	11640526	11640696	SAF	38.4	+	11640526	11640696	83,88,95	1	170	0	PF08666	http://pfam.sanger.ac.uk/family?acc=PF08666
-1	11632212	11638803	Neu5Ac_N	272.1	+	11632212	11638803	83,88,95	5	17,215,99,154,227	0,2572,4896,5540,6364	PF03102	http://pfam.sanger.ac.uk/family?acc=PF03102
-1	11640520	11640699	SAF	42.5	+	11640520	11640699	83,88,95	1	179	0	SM00858	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00858
-1	11640580	11640630	Antifreeze_III	224.0	+	11640580	11640630	83,88,95	1	50	0	PR00357	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00357&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00357
-1	11640631	11640678	Antifreeze_III	257.0	+	11640631	11640678	83,88,95	1	47	0	PR00357	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00357&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00357
-1	11640529	11640579	Antifreeze_III	320.0	+	11640529	11640579	83,88,95	1	50	0	PR00357	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00357&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00357
-1	11640526	11640705	AFP_Neu5c_C	19.622	+	11640526	11640705	83,88,95	1	179	0	PS50844	http://www.expasy.ch/prosite/PS50844
-1	11640517	11640723	AFP_Neu5c_C	0.0	+	11640517	11640723	83,88,95	1	206	0	SSF51269	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51269

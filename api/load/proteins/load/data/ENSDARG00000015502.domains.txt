@@ -1,7 +1,0 @@
-25	24803	27194	Peptidase_M12B	34.5	+	24803	27194	83,88,95	6	68,92,183,163,183,1	0,268,737,1533,1804,2390	PF01421	http://pfam.sanger.ac.uk/family?acc=PF01421
-25	22125	24313	Peptidase_M12B_N	54.6	+	22125	24313	83,88,95	3	76,118,142	0,844,2046	PF01562	http://pfam.sanger.ac.uk/family?acc=PF01562
-25	27228	27741	Blood-coag_inhib_Disintegrin	60.4	+	27228	27741	83,88,95	2	115,132	0,381	PF00200	http://pfam.sanger.ac.uk/family?acc=PF00200
-25	27228	27747	Blood-coag_inhib_Disintegrin	71.9	+	27228	27747	83,88,95	2	115,138	0,381	SM00050	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00050
-25	27201	27750	Blood-coag_inhib_Disintegrin	14.993	+	27201	27750	83,88,95	2	142,141	0,408	PS50214	http://www.expasy.ch/prosite/PS50214
-25	24794	27200	Peptidase_M12B	25.268	+	24794	27200	83,88,95	6	77,92,183,163,183,7	0,277,746,1542,1813,2399	PS50215	http://www.expasy.ch/prosite/PS50215
-25	27228	27747	Blood-coag_inhib_Disintegrin	0.0	+	27228	27747	83,88,95	2	115,138	0,381	SSF57552	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57552

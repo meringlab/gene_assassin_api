@@ -1,8 +1,0 @@
-3	58050721	58051056	Fascin-domain	108.6	+	58050721	58051056	83,88,95	1	335	0	PF06268	http://pfam.sanger.ac.uk/family?acc=PF06268
-3	58051078	58051419	Fascin-domain	91.5	+	58051078	58051419	83,88,95	1	341	0	PF06268	http://pfam.sanger.ac.uk/family?acc=PF06268
-3	58067795	58070275	Fascin-domain	85.5	+	58067795	58070275	83,88,95	3	154,121,22	0,2260,2458	PF06268	http://pfam.sanger.ac.uk/family?acc=PF06268
-3	58070312	58073543	Fascin-domain	64.6	+	58070312	58073543	83,88,95	2	108,199	0,3032	PF06268	http://pfam.sanger.ac.uk/family?acc=PF06268
-3	58070092	58070275	FRG1	24.3	+	58070092	58070275	83,88,95	2	84,22	0,161	PF06229	http://pfam.sanger.ac.uk/family?acc=PF06229
-3	58050685	58051074	Actin_cross-linking	0.0	+	58050685	58051074	83,88,95	1	389	0	SSF50405	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50405
-3	58067864	58073438	Actin_cross-linking	0.0	+	58067864	58073438	83,88,95	4	85,121,167,94	0,2191,2389,5480	SSF50405	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50405
-3	58051075	58051428	Actin_cross-linking	0.0	+	58051075	58051428	83,88,95	1	353	0	SSF50405	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50405

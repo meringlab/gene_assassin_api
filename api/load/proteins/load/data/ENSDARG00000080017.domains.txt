@@ -1,4 +1,0 @@
-3	1751560	1752139	C-type_lectin	89.0	+	1751560	1752139	83,88,95	3	77,115,126	0,147,453	PF00059	http://pfam.sanger.ac.uk/family?acc=PF00059
-3	1751275	1752139	C-type_lectin	81.1	+	1751275	1752139	83,88,95	4	19,147,115,126	0,215,432,738	SM00034	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00034
-3	1751539	1752139	C-type_lectin	20.519000000000002	+	1751539	1752139	83,88,95	3	98,115,126	0,168,474	PS50041	http://www.expasy.ch/prosite/PS50041
-3	1751524	1752253	C-type_lectin_fold	0.0	+	1751524	1752253	83,88,95	4	113,115,128,6	0,183,489,723	SSF56436	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56436

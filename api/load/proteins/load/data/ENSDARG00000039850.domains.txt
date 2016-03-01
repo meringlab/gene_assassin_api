@@ -1,9 +1,0 @@
-2	1067807	1081244	Dual-sp_phosphatase_cat-dom	111.3	-	1067807	1081244	83,88,95	5	13416,-82,-49,-74,13281	0,13335,11937,2898,156	PF00782	http://pfam.sanger.ac.uk/family?acc=PF00782
-2	1067903	1070701	Tyr_Pase_rcpt/non-rcpt	20.7	-	1067903	1070701	83,88,95	2	2728,2738	0,60	PF00102	http://pfam.sanger.ac.uk/family?acc=PF00102
-2	1081135	1081253	Atypical_DUSP	195.0	-	1081135	1081253	83,88,95	2	88,111	0,7	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
-2	1081087	1081122	Atypical_DUSP	223.0	-	1081087	1081122	83,88,95	1	35	0	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
-2	1079706	1079735	Atypical_DUSP	216.0	-	1079706	1079735	83,88,95	1	29	0	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
-2	1070663	1070698	Atypical_DUSP	152.0	-	1070663	1070698	83,88,95	1	35	0	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
-2	1067804	1082580	Dual-sp_phosphatase_subgr_cat	163.8	-	1067804	1082580	83,88,95	6	14765,-33,-82,-49,-74,14617	0,13452,13338,11940,2901,159	SM00195	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00195
-2	1067858	1070701	Tyr/Dual-sp_Pase	12.677999999999999	-	1067858	1070701	83,88,95	2	2773,2738	0,105	PS50056	http://www.expasy.ch/prosite/PS50056
-2	1067798	1082580	Dual-sp_phosphatase_subgr_cat	32.119	-	1067798	1082580	83,88,95	6	14771,-33,-82,-49,-74,14617	0,13458,13344,11946,2907,165	PS50054	http://www.expasy.ch/prosite/PS50054

@@ -1,8 +1,0 @@
-21	29050735	29056674	SAM_2	23.5	+	29050735	29056674	83,88,95	3	44,62,32	0,5051,5907	PF07647	http://pfam.sanger.ac.uk/family?acc=PF07647
-21	29090863	29091304	SH2	55.1	+	29090863	29091304	83,88,95	3	59,149,35	0,168,406	PF00017	http://pfam.sanger.ac.uk/family?acc=PF00017
-21	29091269	29091313	SH2	151.0	+	29091269	29091313	83,88,95	1	44	0	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-21	29091031	29091063	SH2	328.0	+	29091031	29091063	83,88,95	1	32	0	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-21	29090863	29090907	SH2	370.0	+	29090863	29090907	83,88,95	1	44	0	PR00401	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00401&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00401
-21	29090857	29091322	SH2	89.6	+	29090857	29091322	83,88,95	3	65,149,53	0,174,412	SM00252	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00252
-21	29050723	29059605	SAM/pointed	0.0	+	29050723	29059605	83,88,95	4	56,62,46,39	0,5063,5919,8843	SSF47769	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47769
-21	29090863	29091385	SH2	17.715999999999998	+	29090863	29091385	83,88,95	3	59,149,116	0,168,406	PS50001	http://www.expasy.ch/prosite/PS50001

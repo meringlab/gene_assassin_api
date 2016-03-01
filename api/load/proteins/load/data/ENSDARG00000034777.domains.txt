@@ -1,6 +1,0 @@
-3	5863962	5868333	Thioredoxin_domain	95.8	-	5863962	5868333	83,88,95	3	4298,-123,4270	0,1537,101	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085
-3	5863962	5868324	Thioredoxin	103.3	-	5863962	5868324	83,88,95	3	4298,-123,4261	0,1537,101	TIGR01068	http://www.ebi.ac.uk/interpro/signature/TIGR01068
-3	5865496	5868282	Thioredoxin	305.0	-	5865496	5868282	83,88,95	2	2764,2783	0,3	PR00421	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00421&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00421
-3	5865469	5865498	Thioredoxin	472.0	-	5865469	5865498	83,88,95	1	29	0	PR00421	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00421&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00421
-3	5864031	5865378	Thioredoxin	212.0	-	5864031	5865378	83,88,95	2	1345,1315	0,32	PR00421	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00421&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00421
-3	5863950	5868327	Thioredoxin-like_fold	0.0	-	5863950	5868327	83,88,95	3	4310,-123,4264	0,1549,113	SSF52833	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52833

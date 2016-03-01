@@ -1,4 +1,0 @@
-3	1692504	1705601	C-type_lectin	65.3	+	1692504	1705601	83,88,95	3	83,115,123	0,10515,12974	SM00034	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00034
-3	1692507	1705601	C-type_lectin	90.7	+	1692507	1705601	83,88,95	3	80,115,123	0,10512,12971	PF00059	http://pfam.sanger.ac.uk/family?acc=PF00059
-3	1692501	1705601	C-type_lectin	21.197	+	1692501	1705601	83,88,95	3	86,115,123	0,10518,12977	PS50041	http://www.expasy.ch/prosite/PS50041
-3	1692504	1705601	C-type_lectin_fold	0.0	+	1692504	1705601	83,88,95	3	83,115,123	0,10515,12974	SSF56436	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56436

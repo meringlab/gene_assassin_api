@@ -1,9 +1,0 @@
-8	8007888	8011411	Znf_GATA	80.0	-	8007888	8011411	83,88,95	2	3517,3378	0,145	SM00401	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00401
-8	8000897	8005678	Znf_GATA	94.6	-	8000897	8005678	83,88,95	2	4665,4746	0,35	SM00401	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00401
-8	8005673	8011411	Znf_GATA	27.853	-	8005673	8011411	83,88,95	3	5732,-145,5724	0,2360,14	PS50114	http://www.expasy.ch/prosite/PS50114
-8	8000888	8005678	Znf_GATA	27.945	-	8000888	8005678	83,88,95	2	4674,4746	0,44	PS50114	http://www.expasy.ch/prosite/PS50114
-8	8007981	8008034	Znf_GATA	727.0	-	8007981	8008034	83,88,95	1	53	0	PR00619	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00619&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00619
-8	8007927	8007980	Znf_GATA	834.0	-	8007927	8007980	83,88,95	1	53	0	PR00619	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00619&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00619
-8	8007921	8008022	Znf_GATA	56.0	-	8007921	8008022	83,88,95	1	101	0	PF00320	http://pfam.sanger.ac.uk/family?acc=PF00320
-8	8000930	8005660	Znf_GATA	56.9	-	8000930	8005660	83,88,95	2	4632,4728	0,2	PF00320	http://pfam.sanger.ac.uk/family?acc=PF00320
-8	8000672	8012549	TF_GATA-1/2/3	233.6	-	8000672	8012549	83,88,95	5	11682,-383,-145,-125,11617	0,11116,7361,5015,260	PIRSF003027	None

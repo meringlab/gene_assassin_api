@@ -1,9 +1,0 @@
-19	44541654	44547978	Prot_kinase_dom	228.7	-	44541654	44547978	83,88,95	4	5944,-132,-167,6248	0,3553,3095,76	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
-19	44541663	44547978	Ser-Thr/Tyr_kinase_cat_dom	106.1	-	44541663	44547978	83,88,95	4	5935,-132,-167,6248	0,3544,3086,67	PF07714	http://pfam.sanger.ac.uk/family?acc=PF07714
-19	44548507	44548695	Doublecortin_dom	30.7	-	44548507	44548695	83,88,95	1	188	0	PF03607	http://pfam.sanger.ac.uk/family?acc=PF03607
-19	44548471	44548764	Doublecortin_dom	21.4	-	44548471	44548764	83,88,95	1	293	0	SM00537	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00537
-19	44541657	44547984	Ser/Thr_dual-sp_kinase_dom	316.2	-	44541657	44547984	83,88,95	4	5941,-132,-167,6254	0,3550,3092,73	SM00220	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00220
-19	44541651	44547984	Tyr_kinase_cat_dom	20.5	-	44541651	44547984	83,88,95	4	5947,-132,-167,6254	0,3556,3098,79	SM00219	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00219
-19	44548513	44548722	Doublecortin_dom	11.704	-	44548513	44548722	83,88,95	1	209	0	PS50309	http://www.expasy.ch/prosite/PS50309
-19	44541651	44547984	Prot_kinase_dom	47.876999999999995	-	44541651	44547984	83,88,95	4	5947,-132,-167,6254	0,3556,3098,79	PS50011	http://www.expasy.ch/prosite/PS50011
-19	44541657	44548038	Kinase-like_dom	0.0	-	44541657	44548038	83,88,95	4	5941,-132,-167,6308	0,3550,3092,73	SSF56112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56112

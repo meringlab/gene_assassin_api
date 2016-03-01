@@ -1,8 +1,0 @@
-7	1063352	1063480	CAP-Gly_domain	16.27	-	1063352	1063480	83,88,95	1	128	0	PS50245	http://www.expasy.ch/prosite/PS50245
-7	1041306	1047584	Dynactin	277.9	-	1041306	1047584	83,88,95	7	6270,-116,-152,-160,-168,-68,6117	0,5947,2403,1951,1696,431,161	PF12455	http://pfam.sanger.ac.uk/family?acc=PF12455
-7	1063063	1063537	CAP-Gly_domain	77.4	-	1063063	1063537	83,88,95	2	280,472	0,2	PF01302	http://pfam.sanger.ac.uk/family?acc=PF01302
-7	1052195	1052248	Tropomyosin	240.0	-	1052195	1052248	83,88,95	1	53	0	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
-7	1048742	1052065	Tropomyosin	331.0	-	1048742	1052065	83,88,95	2	3309,3252	0,71	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
-7	1048658	1048729	Tropomyosin	438.0	-	1048658	1048729	83,88,95	1	71	0	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
-7	1063048	1063549	CAP-Gly_domain	0.0	-	1063048	1063549	83,88,95	2	295,484	0,17	SSF74924	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF74924
-7	1047720	1048271	UBA-like	0.0	-	1047720	1048271	83,88,95	2	321,504	0,47	SSF46934	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46934

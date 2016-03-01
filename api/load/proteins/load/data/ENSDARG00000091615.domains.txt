@@ -1,7 +1,0 @@
-14	43496273	43496931	Neurotrans-gated_channel_TM	96.4	-	43496273	43496931	83,88,95	3	573,-194,472	0,470,186	PF02932	http://pfam.sanger.ac.uk/family?acc=PF02932
-14	43496162	43496413	Neurotrans-gated_channel_TM	24.9	-	43496162	43496413	83,88,95	1	251	0	PF02932	http://pfam.sanger.ac.uk/family?acc=PF02932
-14	43496881	43496943	GABAA_rcpt	782.0	-	43496881	43496943	83,88,95	1	62	0	PR00253	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00253&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00253
-14	43496698	43496865	GABAA_rcpt	629.0	-	43496698	43496865	83,88,95	2	148,122	0,45	PR00253	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00253&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00253
-14	43496593	43496658	GABAA_rcpt	638.0	-	43496593	43496658	83,88,95	1	65	0	PR00253	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00253&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00253
-14	43496153	43496215	GABAA_rcpt	617.0	-	43496153	43496215	83,88,95	1	62	0	PR00253	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00253&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00253
-14	43496147	43496952	Neurotrans-gated_channel_TM	0.0	-	43496147	43496952	83,88,95	3	699,-194,493	0,596,312	SSF90112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF90112

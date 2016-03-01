@@ -1,9 +1,0 @@
-5	16087132	16087215	Clathrin_mu	1003.0	-	16087132	16087215	83,88,95	1	83	0	PR00314	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00314&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00314
-5	16091257	16093875	AP_mu_sigma_su	29.8	-	16091257	16093875	83,88,95	2	2346,2508	0,110	PF01217	http://pfam.sanger.ac.uk/family?acc=PF01217
-5	16080001	16090212	Clathrin_mu_C	247.2	-	16080001	16090212	83,88,95	6	10121,-85,-133,-207,-144,10114	0,10023,7226,6466,4587,97	PF00928	http://pfam.sanger.ac.uk/family?acc=PF00928
-5	16091263	16091346	Clathrin_mu	832.0	-	16091263	16091346	83,88,95	1	83	0	PR00314	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00314&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00314
-5	16093780	16093842	Clathrin_mu	240.0	-	16093780	16093842	83,88,95	1	62	0	PR00314	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00314&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00314
-5	16080001	16090188	MHD	81.01	-	16080001	16090188	83,88,95	6	10121,-85,-133,-207,-144,10090	0,10023,7226,6466,4587,97	PS51072	http://www.expasy.ch/prosite/PS51072
-5	16080001	16090212	MHD	0.0	-	16080001	16090212	83,88,95	6	10121,-85,-133,-207,-144,10114	0,10023,7226,6466,4587,97	SSF49447	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49447
-5	16091218	16093875	Longin-like_dom	0.0	-	16091218	16093875	83,88,95	2	2385,2508	0,149	SSF64356	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF64356
-5	16080001	16093875	Clathrin_mu	572.8	-	16080001	16093875	83,88,95	8	13602,-171,-137,-85,-133,-207,-144,13777	0,11366,10258,10023,7226,6466,4587,97	PIRSF005992	None

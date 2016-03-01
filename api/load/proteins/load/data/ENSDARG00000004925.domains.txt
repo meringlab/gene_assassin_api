@@ -1,6 +1,0 @@
-25	21979022	22162989	Peptidase_S24_S26	33.8	-	21979022	22162989	83,88,95	4	183944,-103,-65,183940	0,173206,5082,27	PF00717	http://pfam.sanger.ac.uk/family?acc=PF00717
-25	21968980	21979024	Peptidase_S26	21.3	-	21968980	21979024	83,88,95	2	9967,10006	0,38	PF10502	http://pfam.sanger.ac.uk/family?acc=PF10502
-25	22152220	22163007	Pept_S26A_signal_pept_1	183.0	-	22152220	22163007	83,88,95	2	10746,10779	0,8	PR00727	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00727&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00727
-25	21984041	21984079	Pept_S26A_signal_pept_1	349.0	-	21984041	21984079	83,88,95	1	38	0	PR00727	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00727&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00727
-25	21978959	21979018	Pept_S26A_signal_pept_1	451.0	-	21978959	21979018	83,88,95	1	59	0	PR00727	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00727&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00727
-25	21968950	22163013	Peptidase_S24_S26A/B/C	0.0	-	21968950	22163013	83,88,95	5	194016,-103,-65,-102,193995	0,183278,15154,10099,68	SSF51306	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51306

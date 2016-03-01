@@ -1,7 +1,0 @@
-8	2066992	2067141	Thrombospondin_1_rpt	35.7	-	2066992	2067141	83,88,95	1	149	0	PF00090	http://pfam.sanger.ac.uk/family?acc=PF00090
-8	2092067	2092195	Somatomedin_B_dom	30.1	-	2092067	2092195	83,88,95	1	128	0	PF01033	http://pfam.sanger.ac.uk/family?acc=PF01033
-8	2066989	2067147	Thrombospondin_1_rpt	39.2	-	2066989	2067147	83,88,95	1	158	0	SM00209	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00209
-8	2067160	2092198	Somatomedin_B_dom	24.3	-	2067160	2092198	83,88,95	2	24903,25037	0,1	SM00201	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00201
-8	2066989	2067156	Thrombospondin_1_rpt	11.113	-	2066989	2067156	83,88,95	1	167	0	PS50092	http://www.expasy.ch/prosite/PS50092
-8	2067142	2092198	Somatomedin_B_dom	7.949	-	2067142	2092198	83,88,95	2	24921,25037	0,19	PS50958	http://www.expasy.ch/prosite/PS50958
-8	2067004	2067159	Thrombospondin_1_rpt	0.0	-	2067004	2067159	83,88,95	1	155	0	SSF82895	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF82895

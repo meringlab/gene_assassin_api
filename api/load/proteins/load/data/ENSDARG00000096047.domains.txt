@@ -1,9 +1,0 @@
-4	10145975	10146277	SRCR	33.166	-	10145975	10146277	83,88,95	1	302	0	PS50287	http://www.expasy.ch/prosite/PS50287
-4	10145978	10146265	SRCR	103.9	-	10145978	10146265	83,88,95	1	287	0	PF00530	http://pfam.sanger.ac.uk/family?acc=PF00530
-4	10146227	10146277	SRCR	442.0	-	10146227	10146277	83,88,95	1	50	0	PR00258	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00258&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00258
-4	10146185	10146220	SRCR	519.0	-	10146185	10146220	83,88,95	1	35	0	PR00258	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00258&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00258
-4	10146143	10146175	SRCR	461.0	-	10146143	10146175	83,88,95	1	32	0	PR00258	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00258&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00258
-4	10146038	10146082	SRCR	425.0	-	10146038	10146082	83,88,95	1	44	0	PR00258	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00258&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00258
-4	10145975	10146013	SRCR	438.0	-	10145975	10146013	83,88,95	1	38	0	PR00258	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00258&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00258
-4	10145975	10146277	Srcr_rcpt-rel	171.0	-	10145975	10146277	83,88,95	1	302	0	SM00202	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00202
-4	10145854	10146458	Srcr_rcpt-rel	0.0	-	10145854	10146458	83,88,95	3	599,-314,578	0,435,26	SSF56487	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56487

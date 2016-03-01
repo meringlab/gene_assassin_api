@@ -1,7 +1,0 @@
-2	41721052	41722821	PLipase_A2_dom	70.3	-	41721052	41722821	83,88,95	3	1654,-106,1666	0,292,103	PF00068	http://pfam.sanger.ac.uk/family?acc=PF00068
-2	41722726	41722782	PLipase_A2	496.0	-	41722726	41722782	83,88,95	1	56	0	PR00389	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00389&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00389
-2	41721308	41722725	PLipase_A2	558.0	-	41721308	41722725	83,88,95	2	1398,1381	0,36	PR00389	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00389&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00389
-2	41721088	41721138	PLipase_A2	432.0	-	41721088	41721138	83,88,95	1	50	0	PR00389	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00389&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00389
-2	41721049	41722827	PLipase_A2_dom	55.3	-	41721049	41722827	83,88,95	3	1657,-106,1672	0,295,106	SM00085	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00085
-2	41721031	41722827	PLipase_A2_dom	0.0	-	41721031	41722827	83,88,95	3	1675,-106,1672	0,313,124	SSF48619	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48619
-2	41731714	41785805	PLipase_A2_dom	0.0	-	41731714	41785805	83,88,95	5	53955,-22,-80,-122,54075	0,53630,52920,275,16	SSF48619	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48619

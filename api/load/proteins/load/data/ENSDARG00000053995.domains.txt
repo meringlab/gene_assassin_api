@@ -1,5 +1,0 @@
-1	24919049	24919177	G_patch_dom	43.7	-	24919049	24919177	83,88,95	1	128	0	PF01585	http://pfam.sanger.ac.uk/family?acc=PF01585
-1	24919046	24919186	G_patch_dom	51.3	-	24919046	24919186	83,88,95	1	140	0	SM00443	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00443
-1	24922432	24925436	Ankyrin_rpt-contain_dom	14.212	-	24922432	24925436	83,88,95	2	2801,2945	0,59	PS50297	http://www.expasy.ch/prosite/PS50297
-1	24919040	24919180	G_patch_dom	13.057	-	24919040	24919180	83,88,95	1	140	0	PS50174	http://www.expasy.ch/prosite/PS50174
-1	24922429	24925421	Ankyrin_rpt-contain_dom	0.0	-	24922429	24925421	83,88,95	2	2804,2930	0,62	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403

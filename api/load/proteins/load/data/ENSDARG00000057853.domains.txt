@@ -1,9 +1,0 @@
-3	15665712	15675184	ATPase_proteolipid_su_C_euk	171.8	-	15665712	15675184	83,88,95	3	9430,-183,9382	0,3837,90	TIGR01100	http://www.ebi.ac.uk/interpro/signature/TIGR01100
-3	15665604	15665795	ATPase_proteolipid_c_like_dom	68.9	-	15665604	15665795	83,88,95	1	191	0	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
-3	15669395	15675181	ATPase_proteolipid_c_like_dom	57.3	-	15669395	15675181	83,88,95	2	5747,5632	0,154	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
-3	15665604	15665675	ATPase_proteolipid_csu	916.0	-	15665604	15665675	83,88,95	1	71	0	PR00122	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00122&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00122
-3	15665676	15665756	ATPase_proteolipid_csu	1159.0	-	15665676	15665756	83,88,95	1	80	0	PR00122	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00122&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00122
-3	15669389	15669463	ATPase_proteolipid_csu	917.0	-	15669389	15669463	83,88,95	1	74	0	PR00122	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00122&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00122
-3	15669467	15669541	ATPase_proteolipid_csu	1029.0	-	15669467	15669541	83,88,95	1	74	0	PR00122	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00122&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00122
-3	15665601	15669382	ATPase_proteolipid_c_like_dom	0.0	-	15665601	15669382	83,88,95	2	3765,3580	0,201	SSF81333	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81333
-3	15669386	15675202	ATPase_proteolipid_c_like_dom	0.0	-	15669386	15675202	83,88,95	2	5756,5653	0,163	SSF81333	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81333

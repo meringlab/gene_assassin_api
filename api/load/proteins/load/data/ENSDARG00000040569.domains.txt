@@ -1,8 +1,0 @@
-23	46363510	46364349	Transglutaminase_N	105.6	-	46363510	46364349	83,88,95	2	656,667	0,172	PF00868	http://pfam.sanger.ac.uk/family?acc=PF00868
-23	46355426	46355964	Transglutaminase_C	53.5	-	46355426	46355964	83,88,95	2	343,417	0,121	PF00927	http://pfam.sanger.ac.uk/family?acc=PF00927
-23	46354806	46355401	Transglutaminase_C	45.2	-	46354806	46355401	83,88,95	3	581,-136,460	0,496,135	PF00927	http://pfam.sanger.ac.uk/family?acc=PF00927
-23	46357103	46361430	Transglutaminase-like	47.3	-	46357103	46361430	83,88,95	3	4291,-138,4246	0,3587,81	PF01841	http://pfam.sanger.ac.uk/family?acc=PF01841
-23	46357097	46361448	Transglutaminase-like	150.4	-	46357097	46361448	83,88,95	3	4297,-138,4264	0,3593,87	SM00460	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00460
-23	46363354	46365792	Ig_E-set	0.0	-	46363354	46365792	83,88,95	4	2327,-191,-248,2437	0,1003,328,1	SSF81296	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81296
-23	46355411	46355973	Transglutaminase_C	0.0	-	46355411	46355973	83,88,95	2	358,426	0,136	SSF49309	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49309
-23	46354800	46355410	Transglutaminase_C	0.0	-	46354800	46355410	83,88,95	3	587,-136,469	0,502,141	SSF49309	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49309

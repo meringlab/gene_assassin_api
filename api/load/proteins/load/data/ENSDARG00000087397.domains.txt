@@ -1,7 +1,0 @@
-7	67161053	67161097	TEA/ATTS	703.0	-	67161053	67161097	83,88,95	1	44	0	PR00065	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00065&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00065
-7	67149892	67161052	TEA/ATTS	694.0	-	67149892	67161052	83,88,95	2	11140,11137	0,23	PR00065	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00065&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00065
-7	67119379	67149760	TEA/ATTS	418.5	-	67119379	67149760	83,88,95	10	30319,-11,-134,-46,-61,-124,-173,-140,-152,30295	0,18586,17193,16756,14114,9950,9189,4779,3224,86	PF01285	http://pfam.sanger.ac.uk/family?acc=PF01285
-7	67149853	67161097	TEA/ATTS	72.4	-	67149853	67161097	83,88,95	2	11179,11182	0,62	PF01285	http://pfam.sanger.ac.uk/family?acc=PF01285
-7	67149892	67161097	TEA/ATTS	23.8	-	67149892	67161097	83,88,95	2	11140,11182	0,23	SM00426	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00426
-7	67149892	67161097	TEA/ATTS	14.272	-	67149892	67161097	83,88,95	2	11140,11182	0,23	PS51088	http://www.expasy.ch/prosite/PS51088
-7	67119355	67161097	TEF	734.3	-	67119355	67161097	83,88,95	12	41677,-62,-62,-11,-134,-46,-61,-124,-173,-140,-152,41632	0,30560,30405,18610,17217,16780,14138,9974,9213,4803,3248,110	PIRSF002603	None

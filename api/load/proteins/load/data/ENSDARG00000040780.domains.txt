@@ -1,6 +1,0 @@
-1	30609441	30609494	Inhibin_betaC	310.0	+	30609441	30609494	83,88,95	1	53	0	PR00672	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00672&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00672
-1	30609495	30609554	Inhibin_betaC	600.0	+	30609495	30609554	83,88,95	1	59	0	PR00672	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00672&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00672
-1	30609564	30609614	Inhibin_betaC	395.0	+	30609564	30609614	83,88,95	1	50	0	PR00672	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00672&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00672
-1	30609486	30615030	TGF-b_N	67.8	+	30609486	30615030	83,88,95	2	228,358	0,5186	PF00688	http://pfam.sanger.ac.uk/family?acc=PF00688
-1	30615106	30615417	TGF-b_C	99.5	+	30615106	30615417	83,88,95	1	311	0	PF00019	http://pfam.sanger.ac.uk/family?acc=PF00019
-1	30615109	30615420	TGF-b_C	152.1	+	30615109	30615420	83,88,95	1	311	0	SM00204	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00204

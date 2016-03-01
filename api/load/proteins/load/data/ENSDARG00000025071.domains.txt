@@ -1,8 +1,0 @@
-14	7689878	7693328	Bromodomain	82.2	+	7689878	7693328	83,88,95	3	7,68,144	0,1875,3306	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439
-14	7689884	7691792	Bromodomain	142.0	+	7689884	7691792	83,88,95	2	1,39	0,1869	PR00503	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00503&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00503
-14	7691793	7693205	Bromodomain	448.0	+	7691793	7693205	83,88,95	2	28,21	0,1391	PR00503	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00503&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00503
-14	7693203	7693259	Bromodomain	270.0	+	7693203	7693259	83,88,95	1	56	0	PR00503	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00503&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00503
-14	7693257	7693316	Bromodomain	458.0	+	7693257	7693316	83,88,95	1	59	0	PR00503	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00503&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00503
-14	7689818	7693373	Bromodomain	142.7	+	7689818	7693373	83,88,95	3	67,68,189	0,1935,3366	SM00297	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00297
-14	7689875	7693316	Bromodomain	19.067999999999998	+	7689875	7693316	83,88,95	3	10,68,132	0,1878,3309	PS50014	http://www.expasy.ch/prosite/PS50014
-14	7689343	7693406	Bromodomain	0.0	+	7689343	7693406	83,88,95	4	31,92,68,222	0,450,2410,3841	SSF47370	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47370

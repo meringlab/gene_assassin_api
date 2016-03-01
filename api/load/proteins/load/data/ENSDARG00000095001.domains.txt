@@ -1,6 +1,0 @@
-23	41063301	41063906	Atypical_DUSP	247.0	-	41063301	41063906	83,88,95	2	581,592	0,13	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
-23	41063253	41063288	Atypical_DUSP	345.0	-	41063253	41063288	83,88,95	1	35	0	PR01908	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01908&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01908
-23	41062801	41063897	Dual-sp_phosphatase_cat-dom	64.6	-	41062801	41063897	83,88,95	3	1081,-256,926	0,513,170	PF00782	http://pfam.sanger.ac.uk/family?acc=PF00782
-23	41062795	41063921	Dual-sp_phosphatase_subgr_cat	72.2	-	41062795	41063921	83,88,95	3	1087,-256,950	0,519,176	SM00195	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00195
-23	41062849	41063111	Tyr/Dual-sp_Pase	9.496	-	41062849	41063111	83,88,95	2	209,140	0,122	PS50056	http://www.expasy.ch/prosite/PS50056
-23	41062789	41063921	Dual-sp_phosphatase_subgr_cat	20.926	-	41062789	41063921	83,88,95	3	1093,-256,950	0,525,182	PS50054	http://www.expasy.ch/prosite/PS50054

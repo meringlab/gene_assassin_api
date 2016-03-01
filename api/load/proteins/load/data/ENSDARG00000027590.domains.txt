@@ -1,7 +1,0 @@
-2	22060483	22065106	Septin2	500.0	+	22060483	22065106	83,88,95	2	20,11	0,4612	PR01740	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01740&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01740
-2	22060289	22060315	Septin2	382.0	+	22060289	22060315	83,88,95	1	26	0	PR01740	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01740&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01740
-2	22054998	22057398	Septin2	818.0	+	22054998	22057398	83,88,95	2	12,40	0,2360	PR01740	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01740&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01740
-2	22052554	22059948	AIG1	20.4	+	22052554	22059948	83,88,95	4	15,86,123,3	0,2370,4804,7391	PF04548	http://pfam.sanger.ac.uk/family?acc=PF04548
-2	22052539	22066012	Cell_div_GTP-bd	418.7	+	22052539	22066012	83,88,95	8	30,86,123,134,117,101,145,81	0,2385,4819,7406,7662,7863,12556,13392	PF00735	http://pfam.sanger.ac.uk/family?acc=PF00735
-2	22052476	22070312	Septin	576.4	+	22052476	22070312	83,88,95	10	93,86,123,134,117,101,145,122,60,68	0,2448,4882,7469,7725,7926,12619,13455,17630,17768	PIRSF006698	None
-2	22052461	22065967	P-loop_NTPase	0.0	+	22052461	22065967	83,88,95	8	108,86,123,134,117,101,145,36	0,2463,4897,7484,7740,7941,12634,13470	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

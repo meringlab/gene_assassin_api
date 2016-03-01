@@ -1,8 +1,0 @@
-17	42873142	42873195	Paired_dom	719.0	-	42873142	42873195	83,88,95	1	53	0	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-17	42873196	42873249	Paired_dom	756.0	-	42873196	42873249	83,88,95	1	53	0	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-17	42873253	42873309	Paired_dom	700.0	-	42873253	42873309	83,88,95	1	56	0	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-17	42873316	42873363	Paired_dom	795.0	-	42873316	42873363	83,88,95	1	47	0	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-17	42873001	42873375	Paired_dom	317.8	-	42873001	42873375	83,88,95	1	374	0	SM00351	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00351
-17	42873001	42873372	Paired_dom	238.5	-	42873001	42873372	83,88,95	1	371	0	PF00292	http://pfam.sanger.ac.uk/family?acc=PF00292
-17	42872995	42873375	Paired_dom	62.406000000000006	-	42872995	42873375	83,88,95	1	380	0	PS51057	http://www.expasy.ch/prosite/PS51057
-17	42872998	42873372	Homeodomain-like	0.0	-	42872998	42873372	83,88,95	1	374	0	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

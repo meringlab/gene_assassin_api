@@ -1,4 +1,0 @@
-25	13433507	13433929	Prot_kinase_dom	67.0	-	13433507	13433929	83,88,95	4	412,-39,-66,277	0,392,337,145	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
-25	13433477	13434067	Ser/Thr_dual-sp_kinase_dom	-61.6	-	13433477	13434067	83,88,95	4	442,-39,-66,415	0,422,367,175	SM00220	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00220
-25	13433477	13434067	Prot_kinase_dom	15.015	-	13433477	13434067	83,88,95	4	442,-39,-66,415	0,422,367,175	PS50011	http://www.expasy.ch/prosite/PS50011
-25	13433528	13434058	Kinase-like_dom	0.0	-	13433528	13434058	83,88,95	4	391,-39,-66,406	0,371,316,124	SSF56112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56112

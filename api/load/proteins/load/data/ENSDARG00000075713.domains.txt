@@ -1,8 +1,0 @@
-15	2171941	2172000	OAR_dom	34.3	-	2171941	2172000	83,88,95	1	59	0	PF03826	http://pfam.sanger.ac.uk/family?acc=PF03826
-15	2173578	2176073	Homeobox_dom	86.6	-	2173578	2176073	83,88,95	2	2361,2460	0,35	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
-15	2173587	2175962	HTH_motif	583.0	-	2173587	2175962	83,88,95	2	2352,2349	0,26	PR00031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00031
-15	2175960	2175989	HTH_motif	207.0	-	2175960	2175989	83,88,95	1	29	0	PR00031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00031
-15	2173563	2176076	Homeobox_dom	110.1	-	2173563	2176076	83,88,95	2	2376,2463	0,50	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-15	2171947	2171988	OAR_dom	9.583	-	2171947	2171988	83,88,95	1	41	0	PS50803	http://www.expasy.ch/prosite/PS50803
-15	2173575	2176082	Homeobox_dom	20.925	-	2173575	2176082	83,88,95	2	2364,2469	0,38	PS50071	http://www.expasy.ch/prosite/PS50071
-15	2173135	2176103	Homeodomain-like	0.0	-	2173135	2176103	83,88,95	3	2804,-57,2955	0,478,13	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

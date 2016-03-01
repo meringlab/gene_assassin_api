@@ -1,9 +1,0 @@
-10	46411848	46432162	PI_transfer	423.8	+	46411848	46432162	83,88,95	6	77,217,127,229,17,104	0,10031,12954,17544,18114,20210	PF02121	http://pfam.sanger.ac.uk/family?acc=PF02121
-10	46450585	46451495	LNS2	91.2	+	46450585	46451495	83,88,95	3	2,179,116	0,75,794	PF08235	http://pfam.sanger.ac.uk/family?acc=PF08235
-10	46441279	46446887	DDHD	72.8	+	46441279	46446887	83,88,95	9	30,67,158,189,10,84,135,58,13	0,1144,1678,3571,3822,3858,4630,5439,5595	PF02862	http://pfam.sanger.ac.uk/family?acc=PF02862
-10	46450660	46451468	HAD-like_dom	0.0	+	46450660	46451468	83,88,95	2	179,89	0,719	SSF56784	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56784
-10	46432058	46432117	PI_transfer	772.0	+	46432058	46432117	83,88,95	1	59	0	PR00391	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00391&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00391
-10	46424845	46424892	PI_transfer	507.0	+	46424845	46424892	83,88,95	1	47	0	PR00391	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00391&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00391
-10	46411893	46421905	PI_transfer	453.0	+	46411893	46421905	83,88,95	2	32,26	0,9986	PR00391	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00391&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00391
-10	46450319	46451498	LNS2	108.1	+	46450319	46451498	83,88,95	4	90,4,179,119	0,264,341,1060	SM00775	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00775
-10	46441279	46445979	DDHD	20.413	+	46441279	46445979	83,88,95	7	30,67,158,189,10,84,70	0,1144,1678,3571,3822,3858,4630	PS51043	http://www.expasy.ch/prosite/PS51043

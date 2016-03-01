@@ -1,9 +1,0 @@
-11	38608856	38611860	Ribosomal_S2	84.4	-	38608856	38611860	83,88,95	2	2955,2764	0,240	PF00318	http://pfam.sanger.ac.uk/family?acc=PF00318
-11	38608616	38608837	Ribosomal_S2	69.7	-	38608616	38608837	83,88,95	1	221	0	PF00318	http://pfam.sanger.ac.uk/family?acc=PF00318
-11	38611813	38611869	Ribosomal_S2	233.0	-	38611813	38611869	83,88,95	1	56	0	PR00395	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00395&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00395
-11	38609033	38609062	Ribosomal_S2	188.0	-	38609033	38609062	83,88,95	1	29	0	PR00395	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00395&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00395
-11	38608859	38608912	Ribosomal_S2	241.0	-	38608859	38608912	83,88,95	1	53	0	PR00395	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00395&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00395
-11	38608730	38608765	Ribosomal_S2	272.0	-	38608730	38608765	83,88,95	1	35	0	PR00395	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00395&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00395
-11	38608658	38608702	Ribosomal_S2	272.0	-	38608658	38608702	83,88,95	1	44	0	PR00395	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00395&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00395
-11	38608862	38611875	Ribosomal_S2_bac/mit/plastid	77.1	-	38608862	38611875	83,88,95	2	2949,2779	0,234	TIGR01011	http://www.ebi.ac.uk/interpro/signature/TIGR01011
-11	38608583	38611869	Ribosomal_S2_flav_dom	0.0	-	38608583	38611869	83,88,95	2	3228,2773	0,513	SSF52313	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52313

@@ -1,6 +1,0 @@
-9	35614318	35616910	Homeobox_dom	111.9	+	35614318	35616910	83,88,95	2	137,50	0,2542	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-9	35614405	35614434	HTH_motif	207.0	+	35614405	35614434	83,88,95	1	29	0	PR00031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00031
-9	35614321	35616895	Homeobox_dom	86.6	+	35614321	35616895	83,88,95	2	134,35	0,2539	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
-9	35614432	35616886	HTH_motif	583.0	+	35614432	35616886	83,88,95	2	23,26	0,2428	PR00031	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00031&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00031
-9	35614312	35616898	Homeobox_dom	20.941	+	35614312	35616898	83,88,95	2	143,38	0,2548	PS50071	http://www.expasy.ch/prosite/PS50071
-9	35614291	35617230	Homeodomain-like	0.0	+	35614291	35617230	83,88,95	3	164,57,13	0,2569,2926	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

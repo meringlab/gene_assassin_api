@@ -1,9 +1,0 @@
-18	12781936	12783935	PLipase_C_PInositol-sp_X_dom	211.5	+	12781936	12783935	83,88,95	4	44,85,117,170	0,133,1622,1829	PF00388	http://pfam.sanger.ac.uk/family?acc=PF00388
-18	12781146	12781923	PLipase_C_EF-hand-like	26.5	+	12781146	12781923	83,88,95	3	51,101,61	0,267,716	PF09279	http://pfam.sanger.ac.uk/family?acc=PF09279
-18	12781945	12782089	PI-PLC_fam	826.0	+	12781945	12782089	83,88,95	2	35,20	0,124	PR00390	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00390&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00390
-18	12782111	12783576	PI-PLC_fam	715.0	+	12782111	12783576	83,88,95	2	43,18	0,1447	PR00390	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00390&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00390
-18	12783891	12783935	PI-PLC_fam	447.0	+	12783891	12783935	83,88,95	1	44	0	PR00390	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00390&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00390
-18	12777537	12779517	Pleckstrin_homology	26.1	+	12777537	12779517	83,88,95	3	118,191,63	0,468,1917	SM00233	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00233
-18	12781930	12783935	PLipase_C_PInositol-sp_X_dom	273.7	+	12781930	12783935	83,88,95	4	50,85,117,170	0,139,1628,1835	SM00148	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00148
-18	12781933	12783935	PLipase_C_PInositol-sp_X_dom	56.957	+	12781933	12783935	83,88,95	4	47,85,117,170	0,136,1625,1832	PS50007	http://www.expasy.ch/prosite/PS50007
-18	12781939	12783935	PLC-like_Pdiesterase_TIM-brl	0.0	+	12781939	12783935	83,88,95	4	41,85,117,170	0,130,1619,1826	SSF51695	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51695

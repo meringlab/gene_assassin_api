@@ -1,6 +1,0 @@
-18	6809121	6816060	Allrgn_V5/Tpx1	90.7	+	6809121	6816060	83,88,95	4	80,239,115,15	0,3028,3347,6924	SM00198	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00198
-18	6809199	6812202	Allrgn_V5/Tpx1	293.0	+	6809199	6812202	83,88,95	2	2,53	0,2950	PR00837	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00837&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00837
-18	6812371	6812500	Allrgn_V5/Tpx1	579.0	+	6812371	6812500	83,88,95	2	17,32	0,97	PR00837	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00837&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00837
-18	6812558	6816060	Allrgn_V5/Tpx1	273.0	+	6812558	6816060	83,88,95	2	25,15	0,3487	PR00837	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00837&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00837
-18	6809142	6812575	CAP_domain	73.4	+	6809142	6812575	83,88,95	3	59,239,107	0,3007,3326	PF00188	http://pfam.sanger.ac.uk/family?acc=PF00188
-18	6809085	6816072	CAP_domain	0.0	+	6809085	6816072	83,88,95	4	116,239,115,27	0,3064,3383,6960	SSF55797	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55797

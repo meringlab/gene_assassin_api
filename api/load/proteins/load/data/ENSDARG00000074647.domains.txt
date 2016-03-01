@@ -1,9 +1,0 @@
-11	14268616	14295769	Iontro_glu_rcpt	100.2	+	14268616	14295769	83,88,95	5	328,145,115,151,60	0,2296,7171,20087,27093	PF00060	http://pfam.sanger.ac.uk/family?acc=PF00060
-11	14268322	14288816	SBP_bac_3	88.9	+	14268322	14288816	83,88,95	4	622,145,115,113	0,2590,7465,20381	PF00497	http://pfam.sanger.ac.uk/family?acc=PF00497
-11	14268310	14268456	Glu_rcpt_Glu/Gly-bd	67.4	+	14268310	14268456	83,88,95	1	146	0	PF10613	http://pfam.sanger.ac.uk/family?acc=PF10613
-11	14268622	14268699	NMDA_rcpt	545.0	+	14268622	14268699	83,88,95	1	77	0	PR00177	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00177&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00177
-11	14268823	14268906	NMDA_rcpt	671.0	+	14268823	14268906	83,88,95	1	83	0	PR00177	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00177&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00177
-11	14295734	14295808	NMDA_rcpt	325.0	+	14295734	14295808	83,88,95	1	74	0	PR00177	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00177&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00177
-11	14268289	14268459	Glu_rcpt_Glu/Gly-bd	91.3	+	14268289	14268459	83,88,95	1	170	0	SM00918	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00918
-11	14268238	14288819	Iontro_glu_rcpt	265.9	+	14268238	14288819	83,88,95	4	706,145,115,116	0,2674,7549,20465	SM00079	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00079
-11	14257888	14268048	Peripla_BP_I	0.0	+	14257888	14268048	83,88,95	2	342,196	0,9964	SSF53822	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF53822

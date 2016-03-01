@@ -1,9 +1,0 @@
-20	35100039	35100890	TGF-b_N	100.5	-	35100039	35100890	83,88,95	3	653,-243,752	0,446,99	PF00688	http://pfam.sanger.ac.uk/family?acc=PF00688
-20	35099007	35099147	TGF-b_C	32.8	-	35099007	35099147	83,88,95	1	140	0	PF00019	http://pfam.sanger.ac.uk/family?acc=PF00019
-20	35100822	35100887	LRDF	366.0	-	35100822	35100887	83,88,95	1	65	0	PR01427	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01427&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01427
-20	35100768	35100818	LRDF	470.0	-	35100768	35100818	83,88,95	1	50	0	PR01427	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01427&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01427
-20	35100114	35100282	LRDF	864.0	-	35100114	35100282	83,88,95	2	128,144	0,24	PR01427	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01427&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01427
-20	35100009	35100080	LRDF	265.0	-	35100009	35100080	83,88,95	1	71	0	PR01427	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01427&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01427
-20	35099070	35099135	LRDF	552.0	-	35099070	35099135	83,88,95	1	65	0	PR01427	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01427&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01427
-20	35098881	35099141	TGF-b_C	36.8	-	35098881	35099141	83,88,95	1	260	0	SM00204	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00204
-20	35098860	35100959	LRDF	916.0	-	35098860	35100959	83,88,95	4	1832,-243,-239,1778	0,1625,1278,321	PIRSF037402	None

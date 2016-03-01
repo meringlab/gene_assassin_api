@@ -1,6 +1,0 @@
-24	37773358	37781499	Depp_CoAkinase	130.2	-	37773358	37781499	83,88,95	5	7982,-64,-84,-97,8031	0,4145,4000,3841,110	TIGR00152	http://www.ebi.ac.uk/interpro/signature/TIGR00152
-24	37773358	37781502	Depp_CoAkinase	146.5	-	37773358	37781502	83,88,95	5	7982,-64,-84,-97,8034	0,4145,4000,3841,110	PF01121	http://pfam.sanger.ac.uk/family?acc=PF01121
-24	37784369	37792444	Cyt_trans-like	35.8	-	37784369	37792444	83,88,95	3	7958,-214,7974	0,2295,101	PF01467	http://pfam.sanger.ac.uk/family?acc=PF01467
-24	37781452	37781505	Uridine_kinase	530.0	-	37781452	37781505	83,88,95	1	53	0	PR00988	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00988&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00988
-24	37773442	37777107	Uridine_kinase	159.0	-	37773442	37777107	83,88,95	2	3660,3639	0,26	PR00988	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00988&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00988
-24	37773194	37781505	P-loop_NTPase	0.0	-	37773194	37781505	83,88,95	6	8146,-64,-84,-97,-146,8264	0,4309,4164,4005,274,47	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

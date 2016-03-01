@@ -1,9 +1,0 @@
-22	16401323	16401397	GPCR_Rhodpsn	243.0	-	16401323	16401397	83,88,95	1	74	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
-22	16401233	16401298	GPCR_Rhodpsn	223.0	-	16401233	16401298	83,88,95	1	65	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
-22	16401098	16401166	GPCR_Rhodpsn	246.0	-	16401098	16401166	83,88,95	1	68	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
-22	16400837	16400908	GPCR_Rhodpsn	113.0	-	16400837	16400908	83,88,95	1	71	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
-22	16400558	16400638	GPCR_Rhodpsn	198.0	-	16400558	16400638	83,88,95	1	80	0	PR00237	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00237&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00237
-22	16400582	16401349	GPCR_Rhodpsn	65.0	-	16400582	16401349	83,88,95	2	391,434	0,333	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
-22	16400990	16401373	7TM_GPCR_serpentine_rcpt_Srx	37.5	-	16400990	16401373	83,88,95	1	383	0	PF10328	http://pfam.sanger.ac.uk/family?acc=PF10328
-22	16401239	16401370	7TM_GPCR_olfarory/Srsx	20.6	-	16401239	16401370	83,88,95	1	131	0	PF10320	http://pfam.sanger.ac.uk/family?acc=PF10320
-22	16400582	16401352	GPCR_Rhodpsn_7TM	17.442999999999998	-	16400582	16401352	83,88,95	2	391,437	0,333	PS50262	http://www.expasy.ch/prosite/PS50262

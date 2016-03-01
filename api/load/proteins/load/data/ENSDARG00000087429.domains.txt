@@ -1,9 +1,0 @@
-3	974994	975194	Fe2_transport_prot_B_N	21.7	+	974994	975194	83,88,95	1	200	0	PF02421	http://pfam.sanger.ac.uk/family?acc=PF02421
-3	975024	975212	GTP_binding_domain	27.8	+	975024	975212	83,88,95	1	188	0	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926
-3	974994	975608	AIG1	215.9	+	974994	975608	83,88,95	1	614	0	PF04548	http://pfam.sanger.ac.uk/family?acc=PF04548
-3	969472	969951	AIG1	66.5	+	969472	969951	83,88,95	1	479	0	PF04548	http://pfam.sanger.ac.uk/family?acc=PF04548
-3	968782	969294	AIG1	85.6	+	968782	969294	83,88,95	1	512	0	PF04548	http://pfam.sanger.ac.uk/family?acc=PF04548
-3	969808	975770	P-loop_NTPase	0.0	+	969808	975770	83,88,95	2	201,805	0,5157	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-3	969295	969744	P-loop_NTPase	0.0	+	969295	969744	83,88,95	2	45,334	0,115	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-3	968598	969207	P-loop_NTPase	0.0	+	968598	969207	83,88,95	2	24,442	0,167	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-3	968947	969189	PLipase_C_PInositol-sp_X_dom	8.837	+	968947	969189	83,88,95	1	242	0	PS50007	http://www.expasy.ch/prosite/PS50007

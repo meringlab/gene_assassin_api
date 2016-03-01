@@ -1,9 +1,0 @@
-15	46862510	46862530	Otx_TF	406.0	-	46862510	46862530	83,88,95	1	20	0	PR01255	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01255&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01255
-15	46862666	46862692	Otx_TF	391.0	-	46862666	46862692	83,88,95	1	26	0	PR01255	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01255&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01255
-15	46863008	46864621	Homeobox_dom	76.7	-	46863008	46864621	83,88,95	2	1479,1578	0,35	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
-15	46862732	46862752	Otx_TF	336.0	-	46862732	46862752	83,88,95	1	20	0	PR01255	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01255&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01255
-15	46866934	46866963	Otx_TF	434.0	-	46866934	46866963	83,88,95	1	29	0	PR01255	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01255&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01255
-15	46862594	46862824	Otx_TF_C	108.0	-	46862594	46862824	83,88,95	1	230	0	PF03529	http://pfam.sanger.ac.uk/family?acc=PF03529
-15	46862993	46864624	Homeobox_dom	95.3	-	46862993	46864624	83,88,95	2	1494,1581	0,50	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-15	46863005	46864630	Homeobox_dom	19.435	-	46863005	46864630	83,88,95	2	1482,1587	0,38	PS50071	http://www.expasy.ch/prosite/PS50071
-15	46862996	46866930	Homeodomain-like	0.0	-	46862996	46866930	83,88,95	3	3871,-151,3887	0,1642,47	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

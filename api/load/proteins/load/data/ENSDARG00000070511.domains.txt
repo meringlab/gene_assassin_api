@@ -1,9 +1,0 @@
-11	26673725	26673811	NMDA_rcpt	516.0	+	26673725	26673811	83,88,95	1	86	0	PR00177	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00177&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00177
-11	26674110	26682594	Iontro_glu_rcpt	125.8	+	26674110	26682594	83,88,95	5	67,97,217,219,175	0,249,2462,2765,8309	PF00060	http://pfam.sanger.ac.uk/family?acc=PF00060
-11	26673647	26673817	Glu_rcpt_Glu/Gly-bd	83.4	+	26673647	26673817	83,88,95	1	170	0	PF10613	http://pfam.sanger.ac.uk/family?acc=PF10613
-11	26673172	26682501	SBP_bac_3	83.4	+	26673172	26682501	83,88,95	7	8,179,226,97,217,219,82	0,469,779,1187,3400,3703,9247	PF00497	http://pfam.sanger.ac.uk/family?acc=PF00497
-11	26682559	26682633	NMDA_rcpt	432.0	+	26682559	26682633	83,88,95	1	74	0	PR00177	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00177&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00177
-11	26676607	26676690	NMDA_rcpt	375.0	+	26676607	26676690	83,88,95	1	83	0	PR00177	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00177&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00177
-11	26674116	26674374	NMDA_rcpt	313.0	+	26674116	26674374	83,88,95	2	61,15	0,243	PR00177	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00177&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00177
-11	26673157	26682510	Iontro_glu_rcpt	391.3	+	26673157	26682510	83,88,95	7	23,179,226,97,217,219,91	0,484,794,1202,3415,3718,9262	SM00079	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00079
-11	26673647	26673817	Glu_rcpt_Glu/Gly-bd	110.7	+	26673647	26673817	83,88,95	1	170	0	SM00918	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00918

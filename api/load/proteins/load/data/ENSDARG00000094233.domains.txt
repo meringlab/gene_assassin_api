@@ -1,8 +1,0 @@
-19	2861492	2861602	Znf_B-box	37.8	-	2861492	2861602	83,88,95	1	110	0	PF00643	http://pfam.sanger.ac.uk/family?acc=PF00643
-19	2861861	2861980	Znf_C3HC4_RING-type	29.5	-	2861861	2861980	83,88,95	1	119	0	PF00097	http://pfam.sanger.ac.uk/family?acc=PF00097
-19	2861777	2861992	Ubox_domain	25.5	-	2861777	2861992	83,88,95	1	215	0	PF04564	http://pfam.sanger.ac.uk/family?acc=PF04564
-19	2861492	2861614	Znf_B-box	32.1	-	2861492	2861614	83,88,95	1	122	0	SM00336	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00336
-19	2861624	2861770	Znf_B-box	5.0	-	2861624	2861770	83,88,95	1	146	0	SM00336	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00336
-19	2861861	2861980	Znf_RING	40.3	-	2861861	2861980	83,88,95	1	119	0	SM00184	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00184
-19	2861492	2861602	Znf_B-box	10.152999999999999	-	2861492	2861602	83,88,95	1	110	0	PS50119	http://www.expasy.ch/prosite/PS50119
-19	2861858	2861980	Znf_RING	13.02	-	2861858	2861980	83,88,95	1	122	0	PS50089	http://www.expasy.ch/prosite/PS50089

@@ -1,6 +1,0 @@
-7	44019512	44024969	Kinesin_motor_dom	36.266	-	44019512	44024969	83,88,95	9	5371,-159,-106,-230,-83,-23,-65,-55,5433	0,4767,4512,4333,2419,2206,296,158,24	PS50067	http://www.expasy.ch/prosite/PS50067
-7	44019232	44024966	Kinesin_motor_dom	110.4	-	44019232	44024966	83,88,95	10	5651,-159,-106,-230,-83,-23,-65,-55,-90,5603	0,5047,4792,4613,2699,2486,576,438,304,131	SM00129	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00129
-7	44019794	44024942	Kinesin_motor_dom	180.2	-	44019794	44024942	83,88,95	7	5089,-159,-106,-230,-83,-23,5134	0,4485,4230,4051,2137,1924,14	PF00225	http://pfam.sanger.ac.uk/family?acc=PF00225
-7	44023969	44024129	Kinesin_motor_dom	793.0	-	44023969	44024129	83,88,95	2	151,105	0,55	PR00380	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00380&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00380
-7	44021851	44021904	Kinesin_motor_dom	445.0	-	44021851	44021904	83,88,95	1	53	0	PR00380	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00380&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00380
-7	44021704	44024960	P-loop_NTPase	0.0	-	44021704	44024960	83,88,95	6	3179,-159,-106,-230,-83,3242	0,2575,2320,2141,227,14	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

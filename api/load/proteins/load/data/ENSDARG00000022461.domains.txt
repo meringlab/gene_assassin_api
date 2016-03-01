@@ -1,4 +1,0 @@
-6	9943613	9944706	NUDIX_hydrolase_dom	56.9	-	9943613	9944706	83,88,95	2	969,985	0,108	PF00293	http://pfam.sanger.ac.uk/family?acc=PF00293
-6	9943709	9944613	Nudix_hydrolase	323.0	-	9943709	9944613	83,88,95	2	873,892	0,12	PR00502	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00502&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00502
-6	9943664	9943711	Nudix_hydrolase	318.0	-	9943664	9943711	83,88,95	1	47	0	PR00502	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00502&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00502
-6	9939984	9944709	NUDIX_hydrolase_dom-like	0.0	-	9939984	9944709	83,88,95	3	4598,-196,4691	0,3737,34	SSF55811	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55811

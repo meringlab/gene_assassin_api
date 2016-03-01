@@ -1,9 +1,0 @@
-24	40505950	40508310	Ankyrin_rpt	21.3	+	40505950	40508310	83,88,95	2	93,1	0,2359	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-24	40505839	40505934	Ankyrin_rpt	10.4	+	40505839	40505934	83,88,95	1	95	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-24	40505839	40506030	Ankyrin_rpt-contain_dom	0.0	+	40505839	40506030	83,88,95	1	191	0	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403
-24	40508482	40512402	Fibronectin_type3	0.0	+	40508482	40512402	83,88,95	4	24,113,97,56	0,104,3651,3864	SSF49265	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49265
-24	40508597	40512399	Fibronectin_type3	35.3	+	40508597	40512399	83,88,95	3	102,97,53	0,3536,3749	PF00041	http://pfam.sanger.ac.uk/family?acc=PF00041
-24	40508591	40512396	Fibronectin_type3	40.2	+	40508591	40512396	83,88,95	3	108,97,50	0,3542,3755	SM00060	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00060
-24	40505950	40506027	Ankyrin_rpt	8.816	+	40505950	40506027	83,88,95	1	77	0	PS50088	http://www.expasy.ch/prosite/PS50088
-24	40505839	40506027	Ankyrin_rpt-contain_dom	11.453	+	40505839	40506027	83,88,95	1	188	0	PS50297	http://www.expasy.ch/prosite/PS50297
-24	40508588	40512423	Fibronectin_type3	16.583	+	40508588	40512423	83,88,95	3	111,97,77	0,3545,3758	PS50853	http://www.expasy.ch/prosite/PS50853

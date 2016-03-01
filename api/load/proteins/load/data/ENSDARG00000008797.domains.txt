@@ -1,8 +1,0 @@
-12	5984823	5987631	Ion_trans_dom	236.4	-	5984823	5987631	83,88,95	7	2804,-128,-91,-254,-63,-141,2713	0,2244,1619,1339,562,316,95	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
-12	5972916	5981570	Ion_trans_dom	153.0	-	5972916	5981570	83,88,95	4	8649,-173,-356,8631	0,7961,7614,23	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
-12	5967186	5970799	Ion_trans_dom	182.9	-	5967186	5970799	83,88,95	5	3494,-122,-278,-53,3506	0,3394,1770,759,107	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
-12	5965373	5966719	Ion_trans_dom	148.5	-	5965373	5966719	83,88,95	2	1220,844	0,502	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
-12	5970962	5972870	Na_trans_assoc	186.4	-	5970962	5972870	83,88,95	3	1612,-132,1775	0,373,133	PF06512	http://pfam.sanger.ac.uk/family?acc=PF06512
-12	5965367	5965426	Na_channel_asu	822.0	-	5965367	5965426	83,88,95	1	59	0	PR00170	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00170&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00170
-12	5965280	5965321	Na_channel_asu	605.0	-	5965280	5965321	83,88,95	1	41	0	PR00170	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00170&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00170
-12	5964896	5964985	IQ_motif_EF-hand-BS	6.961	-	5964896	5964985	83,88,95	1	89	0	PS50096	http://www.expasy.ch/prosite/PS50096

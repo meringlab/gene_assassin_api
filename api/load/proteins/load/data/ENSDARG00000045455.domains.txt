@@ -1,5 +1,0 @@
-24	2754019	2754288	Phenylalanyl-tRNA_Synthase	54.3	+	2754019	2754288	83,88,95	1	269	0	PF01409	http://pfam.sanger.ac.uk/family?acc=PF01409
-24	2755373	2799319	Phenylalanyl-tRNA_Synthase	106.1	+	2755373	2799319	83,88,95	3	48,131,124	0,127,43822	PF01409	http://pfam.sanger.ac.uk/family?acc=PF01409
-24	2803837	2803983	PheS_beta_Fdx_antiC-bd	33.2	+	2803837	2803983	83,88,95	1	146	0	PF03147	http://pfam.sanger.ac.uk/family?acc=PF03147
-24	2753950	2799343	aa-tRNA-synth_II	11.549000000000001	+	2753950	2799343	83,88,95	4	353,162,131,148	0,1309,1550,45245	PS50862	http://www.expasy.ch/prosite/PS50862
-24	2799344	2803983	PheS_beta_Fdx_antiC-bd	0.0	+	2799344	2803983	83,88,95	2	11,152	0,4487	SSF54991	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54991

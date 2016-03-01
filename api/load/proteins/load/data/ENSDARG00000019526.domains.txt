@@ -1,6 +1,0 @@
-2	16281126	16281185	ArfGAP	461.0	+	16281126	16281185	83,88,95	1	59	0	PR00405	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00405&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00405
-2	16281183	16284397	ArfGAP	387.0	+	16281183	16284397	83,88,95	2	34,18	0,3196	PR00405	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00405&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00405
-2	16284404	16284469	ArfGAP	301.0	+	16284404	16284469	83,88,95	1	65	0	PR00405	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00405&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00405
-2	16281093	16286933	ArfGAP	93.6	+	16281093	16286933	83,88,95	4	124,93,115,3	0,3286,3472,5837	PF01412	http://pfam.sanger.ac.uk/family?acc=PF01412
-2	16281081	16286957	ArfGAP	168.7	+	16281081	16286957	83,88,95	4	136,93,115,27	0,3298,3484,5849	SM00105	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00105
-2	16281081	16286957	ArfGAP	21.554000000000002	+	16281081	16286957	83,88,95	4	136,93,115,27	0,3298,3484,5849	PS50115	http://www.expasy.ch/prosite/PS50115

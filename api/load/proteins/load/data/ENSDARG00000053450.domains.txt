@@ -1,8 +1,0 @@
-2	42396512	42396625	Znf_B-box	39.6	+	42396512	42396625	83,88,95	1	113	0	PF00643	http://pfam.sanger.ac.uk/family?acc=PF00643
-2	42405090	42405248	Chromo_domain/shadow	35.6	+	42405090	42405248	83,88,95	1	158	0	SM00298	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00298
-2	42396509	42396631	Znf_B-box	37.8	+	42396509	42396631	83,88,95	1	122	0	SM00336	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00336
-2	42405096	42405239	Chromo_domain	32.7	+	42405096	42405239	83,88,95	1	143	0	PF00385	http://pfam.sanger.ac.uk/family?acc=PF00385
-2	42396509	42396634	Znf_B-box	9.542	+	42396509	42396634	83,88,95	1	125	0	PS50119	http://www.expasy.ch/prosite/PS50119
-2	42405093	42405269	Chromo_domain/shadow	12.196	+	42405093	42405269	83,88,95	1	176	0	PS50013	http://www.expasy.ch/prosite/PS50013
-2	42405054	42405272	Chromodomain-like	0.0	+	42405054	42405272	83,88,95	1	218	0	SSF54160	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54160
-2	42400301	42400772	Cyt_c/b562	0.0	+	42400301	42400772	83,88,95	3	92,153,4	0,183,467	SSF47175	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47175

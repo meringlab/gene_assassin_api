@@ -1,8 +1,0 @@
-24	12818930	12819187	Ig-like_dom	13.475	+	12818930	12819187	83,88,95	1	257	0	PS50835	http://www.expasy.ch/prosite/PS50835
-24	12818523	12818813	Ig-like_dom	8.139	+	12818523	12818813	83,88,95	1	290	0	PS50835	http://www.expasy.ch/prosite/PS50835
-24	12818951	12819163	Ig_I-set	25.4	+	12818951	12819163	83,88,95	1	212	0	PF07679	http://pfam.sanger.ac.uk/family?acc=PF07679
-24	12818529	12818777	CD80_C2-set	23.0	+	12818529	12818777	83,88,95	1	248	0	PF08205	http://pfam.sanger.ac.uk/family?acc=PF08205
-24	12817733	12818504	Ig_sub	5.2	+	12817733	12818504	83,88,95	3	314,10,18	0,698,753	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-24	12818538	12818825	Ig_sub	21.0	+	12818538	12818825	83,88,95	1	287	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-24	12818954	12819187	Ig_sub	37.1	+	12818954	12819187	83,88,95	1	233	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-24	12818972	12819151	Ig_sub2	29.3	+	12818972	12819151	83,88,95	1	179	0	SM00408	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00408

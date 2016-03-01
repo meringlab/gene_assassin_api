@@ -1,6 +1,0 @@
-7	580735	609817	Laminin_G	57.4	+	580735	609817	83,88,95	4	104,171,89,106	0,8681,15381,28976	SM00282	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00282
-7	634824	634880	Neurexin-like	29.0	+	634824	634880	83,88,95	1	56	0	SM00294	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00294
-7	580759	609814	Laminin_G	71.3	+	580759	609814	83,88,95	4	80,171,89,103	0,8657,15357,28952	PF02210	http://pfam.sanger.ac.uk/family?acc=PF02210
-7	580759	589568	Laminin_G	31.0	+	580759	589568	83,88,95	2	80,152	0,8657	PF00054	http://pfam.sanger.ac.uk/family?acc=PF00054
-7	580663	609874	Laminin_G	19.896	+	580663	609874	83,88,95	4	176,171,89,163	0,8753,15453,29048	PS50025	http://www.expasy.ch/prosite/PS50025
-7	541688	609892	ConA-like_lec_gl_sf	0.0	+	541688	609892	83,88,95	5	3,181,171,89,181	0,38970,47728,54428,68023	SSF49899	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49899

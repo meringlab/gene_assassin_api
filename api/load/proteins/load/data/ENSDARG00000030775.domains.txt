@@ -1,7 +1,0 @@
-14	9126502	9134035	Synaptobrevin	97.1	-	9126502	9134035	83,88,95	4	7467,-67,-92,7498	0,7380,4019,35	PF00957	http://pfam.sanger.ac.uk/family?acc=PF00957
-14	9133869	9134014	Synaptobrevin	399.0	-	9133869	9134014	83,88,95	2	100,132	0,13	PR00219	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00219&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00219
-14	9130516	9133868	Synaptobrevin	348.0	-	9130516	9133868	83,88,95	2	3299,3347	0,5	PR00219	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00219&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00219
-14	9126517	9130467	Synaptobrevin	312.0	-	9126517	9130467	83,88,95	2	3912,3930	0,20	PR00219	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00219&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00219
-14	9139273	9139943	Longin_dom	29.480999999999998	-	9139273	9139943	83,88,95	3	543,-57,545	0,256,125	PS50859	http://www.expasy.ch/prosite/PS50859
-14	9130468	9134029	Synaptobrevin	15.445	-	9130468	9134029	83,88,95	3	3501,-67,3508	0,3414,53	PS50892	http://www.expasy.ch/prosite/PS50892
-14	9134048	9139958	Longin-like_dom	0.0	-	9134048	9139958	83,88,95	4	5768,-57,-137,5899	0,5481,5350,11	SSF64356	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF64356

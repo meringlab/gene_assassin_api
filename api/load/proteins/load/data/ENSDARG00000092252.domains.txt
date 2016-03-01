@@ -1,7 +1,0 @@
-22	33233115	33233273	PRY	66.0	+	33233115	33233273	83,88,95	1	158	0	SM00589	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00589
-22	33233271	33233612	SPRY_rcpt	30.8	+	33233271	33233612	83,88,95	1	341	0	PF00622	http://pfam.sanger.ac.uk/family?acc=PF00622
-22	33233112	33233165	Butyrophylin	348.0	+	33233112	33233165	83,88,95	1	53	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
-22	33233163	33233216	Butyrophylin	118.0	+	33233163	33233216	83,88,95	1	53	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
-22	33233457	33233531	Butyrophylin	307.0	+	33233457	33233531	83,88,95	1	74	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
-22	33233112	33233624	B30.2/SPRY	19.982	+	33233112	33233624	83,88,95	1	512	0	PS50188	http://www.expasy.ch/prosite/PS50188
-22	33233112	33233624	ConA-like_lec_gl_sf	0.0	+	33233112	33233624	83,88,95	1	512	0	SSF49899	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49899

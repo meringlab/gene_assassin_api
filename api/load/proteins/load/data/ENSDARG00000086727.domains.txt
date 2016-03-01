@@ -1,7 +1,0 @@
-Zv9_NA887	19236	20395	Prot_kinase_dom	169.2	+	19236	20395	83,88,95	6	65,50,372,103,72,85	0,180,307,805,911,1074	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
-Zv9_NA887	19239	20383	Ser-Thr/Tyr_kinase_cat_dom	78.3	+	19239	20383	83,88,95	6	62,50,372,103,72,73	0,177,304,802,908,1071	PF07714	http://pfam.sanger.ac.uk/family?acc=PF07714
-Zv9_NA887	19648	19872	LipoPS_kinase	25.3	+	19648	19872	83,88,95	1	224	0	PF06293	http://pfam.sanger.ac.uk/family?acc=PF06293
-Zv9_NA887	19224	20395	Ser/Thr_dual-sp_kinase_dom	210.5	+	19224	20395	83,88,95	6	77,50,372,103,72,85	0,192,319,817,923,1086	SM00220	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00220
-Zv9_NA887	19224	20395	Tyr_kinase_cat_dom	-44.9	+	19224	20395	83,88,95	6	77,50,372,103,72,85	0,192,319,817,923,1086	SM00219	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00219
-Zv9_NA887	19224	20395	Prot_kinase_dom	39.283	+	19224	20395	83,88,95	6	77,50,372,103,72,85	0,192,319,817,923,1086	PS50011	http://www.expasy.ch/prosite/PS50011
-Zv9_NA887	19224	20398	Kinase-like_dom	0.0	+	19224	20398	83,88,95	6	77,50,372,103,72,88	0,192,319,817,923,1086	SSF56112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56112

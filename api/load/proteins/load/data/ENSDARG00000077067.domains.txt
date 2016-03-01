@@ -1,4 +1,0 @@
-3	988852	989194	Helicase_C	71.9	-	988852	989194	83,88,95	2	289,211	0,131	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
-3	988846	989431	Helicase_C	15.588	-	988846	989431	83,88,95	3	544,-146,448	0,441,137	PS51194	http://www.expasy.ch/prosite/PS51194
-3	988846	989209	Helicase_C	66.5	-	988846	989209	83,88,95	2	295,226	0,137	SM00490	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00490
-3	988858	989446	P-loop_NTPase	0.0	-	988858	989446	83,88,95	3	532,-146,463	0,429,125	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

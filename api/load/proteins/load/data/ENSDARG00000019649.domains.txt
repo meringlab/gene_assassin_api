@@ -1,9 +1,0 @@
-25	13049444	13091702	Cell_div_GTP-bd	415.3	+	13049444	13091702	83,88,95	9	30,106,100,134,117,92,96,51,81	0,21164,29249,30088,34608,34809,36432,42028,42177	PF00735	http://pfam.sanger.ac.uk/family?acc=PF00735
-25	13049459	13078773	Ribosome_biogen_GTPase_RsgA	23.3	+	13049459	13078773	83,88,95	3	15,106,80	0,21149,29234	PF03193	http://pfam.sanger.ac.uk/family?acc=PF03193
-25	13049459	13078782	AIG1	20.5	+	13049459	13078782	83,88,95	3	15,106,89	0,21149,29234	PF04548	http://pfam.sanger.ac.uk/family?acc=PF04548
-25	13084319	13085887	Septin7	440.0	+	13084319	13085887	83,88,95	2	26,11	0,1557	PR01742	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01742&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01742
-25	13091730	13092948	Septin7	640.0	+	13091730	13092948	83,88,95	2	16,21	0,1197	PR01742	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01742&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01742
-25	13094299	13094334	Septin7	590.0	+	13094299	13094334	83,88,95	1	35	0	PR01742	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01742&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01742
-25	13094425	13096558	Septin7	660.0	+	13094425	13096558	83,88,95	2	7,36	0,2097	PR01742	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01742&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01742
-25	13049381	13094424	Septin	754.4	+	13049381	13094424	83,88,95	11	93,106,100,134,117,92,96,51,125,135,137	0,21227,29312,30151,34671,34872,36495,42091,42240,43546,44906	PIRSF006698	None
-25	13049438	13091494	P-loop_NTPase	0.0	+	13049438	13091494	83,88,95	8	36,106,100,134,117,92,96,22	0,21170,29255,30094,34614,34815,36438,42034	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

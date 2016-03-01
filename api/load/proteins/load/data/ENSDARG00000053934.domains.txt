@@ -1,8 +1,0 @@
-6	40949948	40952168	HAD-SF_hydro_IA_REG-2-like	246.4	-	40949948	40952168	83,88,95	2	1906,1927	0,293	TIGR02252	http://www.ebi.ac.uk/interpro/signature/TIGR02252
-6	40949963	40950199	HAD-SF_hydro_IA	40.2	-	40949963	40950199	83,88,95	1	236	0	TIGR01549	http://www.ebi.ac.uk/interpro/signature/TIGR01549
-6	40949999	40952168	HAD-like_dom	56.5	-	40949999	40952168	83,88,95	2	1855,1927	0,242	PF00702	http://pfam.sanger.ac.uk/family?acc=PF00702
-6	40950002	40950064	HAD-SF_hydro_IA	203.0	-	40950002	40950064	83,88,95	1	62	0	PR00413	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00413&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00413
-6	40950068	40950118	HAD-SF_hydro_IA	343.0	-	40950068	40950118	83,88,95	1	50	0	PR00413	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00413&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00413
-6	40950167	40950208	HAD-SF_hydro_IA	127.0	-	40950167	40950208	83,88,95	1	41	0	PR00413	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00413&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00413
-6	40952136	40952171	HAD-SF_hydro_IA	171.0	-	40952136	40952171	83,88,95	1	35	0	PR00413	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00413&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00413
-6	40949861	40952183	HAD-like_dom	0.0	-	40949861	40952183	83,88,95	2	1993,1942	0,380	SSF56784	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56784

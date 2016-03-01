@@ -1,7 +1,0 @@
-18	26209590	26214700	Peptidase_C1A_C	257.5	+	26209590	26214700	83,88,95	8	56,86,55,81,68,106,125,63	0,140,1882,2069,2231,2372,3283,5047	PF00112	http://pfam.sanger.ac.uk/family?acc=PF00112
-18	26209054	26209427	Prot_inhib_I29	63.9	+	26209054	26209427	83,88,95	3	20,105,40	0,145,333	PF08246	http://pfam.sanger.ac.uk/family?acc=PF08246
-18	26209587	26214700	Peptidase_C1A_C	354.1	+	26209587	26214700	83,88,95	8	59,86,55,81,68,106,125,63	0,143,1885,2072,2234,2375,3286,5050	SM00645	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00645
-18	26209054	26209427	Prot_inhib_I29	82.6	+	26209054	26209427	83,88,95	3	20,105,40	0,145,333	SM00848	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00848
-18	26209644	26209774	Peptidase_C1A_C	594.0	+	26209644	26209774	83,88,95	2	2,44	0,86	PR00705	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00705&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00705
-18	26212907	26212939	Peptidase_C1A_C	313.0	+	26212907	26212939	83,88,95	1	32	0	PR00705	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00705&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00705
-18	26212952	26212972	Peptidase_C1A_C	356.0	+	26212952	26212972	83,88,95	1	20	0	PR00705	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00705&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00705

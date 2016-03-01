@@ -1,5 +1,0 @@
-11	44256205	44258160	Acylphosphatase-like_dom	60.5	-	44256205	44258160	83,88,95	3	1919,-16,1845	0,1729,110	PF00708	http://pfam.sanger.ac.uk/family?acc=PF00708
-11	44257921	44258157	Acylphosphatase	718.0	-	44257921	44258157	83,88,95	2	203,223	0,13	PR00112	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00112&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00112
-11	44256226	44256303	Acylphosphatase	1065.0	-	44256226	44256303	83,88,95	1	77	0	PR00112	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00112&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00112
-11	44256205	44258157	Acylphosphatase-like_dom	23.935	-	44256205	44258157	83,88,95	3	1919,-16,1842	0,1729,110	PS51160	http://www.expasy.ch/prosite/PS51160
-11	44256205	44258178	Acylphosphatase-like_dom	0.0	-	44256205	44258178	83,88,95	3	1919,-16,1863	0,1729,110	SSF54975	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54975

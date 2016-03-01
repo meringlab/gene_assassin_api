@@ -1,7 +1,0 @@
-14	6224682	6227753	Homeobox_dom	11.9	-	6224682	6227753	83,88,95	2	2925,3021	0,50	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-14	6220149	6221138	Homeobox_dom	12.0	-	6220149	6221138	83,88,95	3	972,-146,939	0,865,50	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-14	6224706	6227744	Homeobox_dom	21.1	-	6224706	6227744	83,88,95	2	2901,3012	0,26	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
-14	6224694	6227753	Homeobox_dom	9.005	-	6224694	6227753	83,88,95	2	2913,3021	0,38	PS50071	http://www.expasy.ch/prosite/PS50071
-14	6220161	6221129	Homeobox_dom	9.312999999999999	-	6220161	6221129	83,88,95	3	960,-146,930	0,853,38	PS50071	http://www.expasy.ch/prosite/PS50071
-14	6224691	6227744	Homeodomain-like	0.0	-	6224691	6227744	83,88,95	2	2916,3012	0,41	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689
-14	6220158	6221330	Homeodomain-like	0.0	-	6220158	6221330	83,88,95	4	1167,-53,-146,1131	0,1016,856,41	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

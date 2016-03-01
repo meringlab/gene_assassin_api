@@ -1,9 +1,0 @@
-5	75206310	75207213	Neurhyp_horm	107.5	+	75206310	75207213	83,88,95	3	5,201,25	0,321,878	PF00184	http://pfam.sanger.ac.uk/family?acc=PF00184
-5	75206730	75206789	Neurhyp_horm	765.0	+	75206730	75206789	83,88,95	1	59	0	PR00831	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00831&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00831
-5	75206673	75206732	Neurhyp_horm	805.0	+	75206673	75206732	83,88,95	1	59	0	PR00831	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00831&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00831
-5	75206310	75206675	Neurhyp_horm	924.0	+	75206310	75206675	83,88,95	2	5,44	0,321	PR00831	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00831&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00831
-5	75206256	75206300	Neurhyp_horm	624.0	+	75206256	75206300	83,88,95	1	44	0	PR00831	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00831&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00831
-5	75206796	75207213	Neurhyp_horm	891.0	+	75206796	75207213	83,88,95	2	36,25	0,392	PR00831	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00831&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00831
-5	75206310	75207213	Neurhyp_horm	175.6	+	75206310	75207213	83,88,95	3	5,201,25	0,321,878	SM00003	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00003
-5	75206289	75207234	Neurhyp_horm	0.0	+	75206289	75207234	83,88,95	3	26,201,46	0,342,899	SSF49606	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49606
-5	75206193	75207315	Neurhyp_horm	311.0	+	75206193	75207315	83,88,95	3	122,201,127	0,438,995	PIRSF001815	None

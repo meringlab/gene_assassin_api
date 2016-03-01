@@ -1,5 +1,0 @@
-1	11605062	11621416	UDP-GlcNAc_Epase	360.8	+	11605062	11621416	83,88,95	6	133,454,152,212,87,51	0,5953,9427,13913,14280,16303	TIGR03568	http://www.ebi.ac.uk/interpro/signature/TIGR03568
-1	11605143	11621419	UDP_GlcNAc_Epimerase_2	243.7	+	11605143	11621419	83,88,95	6	52,454,152,212,87,54	0,5872,9346,13832,14199,16222	PF02350	http://pfam.sanger.ac.uk/family?acc=PF02350
-1	11621525	11625866	ROK	128.5	+	11621525	11625866	83,88,95	4	50,129,221,154	0,557,2155,4187	PF00480	http://pfam.sanger.ac.uk/family?acc=PF00480
-1	11621522	11621572	Hexokinase	499.0	+	11621522	11621572	83,88,95	1	50	0	PR00475	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00475&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00475
-1	11623880	11625734	Hexokinase	240.0	+	11623880	11625734	83,88,95	2	21,22	0,1832	PR00475	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00475&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00475

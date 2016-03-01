@@ -1,9 +1,0 @@
-2	2913012	2917435	MIP	209.1	+	2913012	2917435	83,88,95	4	320,164,80,50	0,3263,3556,4373	TIGR00861	http://www.ebi.ac.uk/interpro/signature/TIGR00861
-2	2912976	2917435	MIP	252.3	+	2912976	2917435	83,88,95	4	356,164,80,50	0,3299,3592,4409	PF00230	http://pfam.sanger.ac.uk/family?acc=PF00230
-2	2913000	2913059	MIP	384.0	+	2913000	2913059	83,88,95	1	59	0	PR00783	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00783&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00783
-2	2913117	2913191	MIP	654.0	+	2913117	2913191	83,88,95	1	74	0	PR00783	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00783&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00783
-2	2913228	2913287	MIP	424.0	+	2913228	2913287	83,88,95	1	59	0	PR00783	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00783&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00783
-2	2916311	2916367	MIP	312.0	+	2916311	2916367	83,88,95	1	56	0	PR00783	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00783&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00783
-2	2916407	2916603	MIP	483.0	+	2916407	2916603	83,88,95	2	32,35	0,161	PR00783	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00783&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00783
-2	2916646	2917444	MIP	532.0	+	2916646	2917444	83,88,95	2	2,59	0,739	PR00783	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00783&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00783
-2	2912967	2917495	Aquaporin-like	0.0	+	2912967	2917495	83,88,95	4	365,164,80,110	0,3308,3601,4418	SSF81338	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81338

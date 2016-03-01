@@ -1,7 +1,0 @@
-12	33460667	33466102	Neur_chan_lig-bd	101.1	+	33460667	33466102	83,88,95	5	5,118,169,160,17	0,515,803,4714,5418	PF02931	http://pfam.sanger.ac.uk/family?acc=PF02931
-12	33466133	33466267	Neurotrans-gated_channel_TM	26.1	+	33466133	33466267	83,88,95	1	134	0	PF02932	http://pfam.sanger.ac.uk/family?acc=PF02932
-12	33461266	33461301	Neur_channel	285.0	+	33461266	33461301	83,88,95	1	35	0	PR00252	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00252&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00252
-12	33461564	33461608	Neur_channel	468.0	+	33461564	33461608	83,88,95	1	44	0	PR00252	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00252&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00252
-12	33466085	33466123	Neur_channel	160.0	+	33466085	33466123	83,88,95	1	38	0	PR00252	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00252&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00252
-12	33460664	33466105	Neur_chan_lig-bd	0.0	+	33460664	33466105	83,88,95	5	8,118,169,160,20	0,518,806,4717,5421	SSF63712	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF63712
-12	33466103	33466267	Neurotrans-gated_channel_TM	0.0	+	33466103	33466267	83,88,95	1	164	0	SSF90112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF90112

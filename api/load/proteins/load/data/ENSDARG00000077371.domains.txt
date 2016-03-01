@@ -1,8 +1,0 @@
-23	587631	587660	2pore_dom_K_chnl	401.0	-	587631	587660	83,88,95	1	29	0	PR01333	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01333&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01333
-23	587901	590510	2pore_dom_K_chnl	866.0	-	587901	590510	83,88,95	2	2591,2542	0,67	PR01333	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01333&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01333
-23	587541	587585	2pore_dom_K_chnl_TASK	464.0	-	587541	587585	83,88,95	1	44	0	PR01095	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01095&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01095
-23	590676	590744	2pore_dom_K_chnl_TASK	713.0	-	590676	590744	83,88,95	1	68	0	PR01095	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01095&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01095
-23	587838	587888	2pore_dom_K_chnl_TASK	465.0	-	587838	587888	83,88,95	1	50	0	PR01095	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01095&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01095
-23	587514	587753	2pore_dom_K_chnl_dom	57.0	-	587514	587753	83,88,95	1	239	0	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
-23	587856	590546	2pore_dom_K_chnl_dom	66.7	-	587856	590546	83,88,95	2	2636,2578	0,112	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
-23	587262	590774	2pore_dom_K_chnl_TASK	492.6	-	587262	590774	83,88,95	2	3230,2806	0,706	PIRSF038061	None

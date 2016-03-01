@@ -1,8 +1,0 @@
-14	6925629	6925688	Nucleoside_diP_kinase	499.0	+	6925629	6925688	83,88,95	1	59	0	PR01243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01243
-14	6921703	6921756	Nucleoside_diP_kinase	249.0	+	6921703	6921756	83,88,95	1	53	0	PR01243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01243
-14	6921643	6921702	Nucleoside_diP_kinase	287.0	+	6921643	6921702	83,88,95	1	59	0	PR01243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01243
-14	6921029	6925792	Nucleoside_diP_kinase	199.6	+	6921029	6925792	83,88,95	4	95,205,100,13	0,575,4566,4750	SM00562	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00562
-14	6921032	6925780	Nucleoside_diP_kinase	135.4	+	6921032	6925780	83,88,95	4	92,205,100,1	0,572,4563,4747	PF00334	http://pfam.sanger.ac.uk/family?acc=PF00334
-14	6925811	6927886	Dpy-30_motif	54.0	+	6925811	6927886	83,88,95	2	86,35	0,2040	PF05186	http://pfam.sanger.ac.uk/family?acc=PF05186
-14	6921038	6921106	Nucleoside_diP_kinase	177.0	+	6921038	6921106	83,88,95	1	68	0	PR01243	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01243&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01243
-14	6921026	6925825	Nucleoside_diP_kinase	0.0	+	6921026	6925825	83,88,95	4	98,205,100,46	0,578,4569,4753	SSF54919	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54919

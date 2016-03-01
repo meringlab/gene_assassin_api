@@ -1,9 +1,0 @@
-4	19198940	19198999	Leu-rich_rpt	9.2	+	19198940	19198999	83,88,95	1	59	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-4	19199006	19199071	Leu-rich_rpt	15.3	+	19199006	19199071	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-4	19199075	19199143	Leu-rich_rpt	11.1	+	19199075	19199143	83,88,95	1	68	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-4	19199318	19201054	Cys-rich_flank_reg_C	31.1	+	19199318	19201054	83,88,95	2	65,95	0,1641	SM00082	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00082
-4	19199213	19199284	Leu-rich_rpt_typical-subtyp	22.3	+	19199213	19199284	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-4	19199141	19199212	Leu-rich_rpt_typical-subtyp	18.1	+	19199141	19199212	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-4	19199069	19199140	Leu-rich_rpt_typical-subtyp	26.7	+	19199069	19199140	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-4	19198997	19199068	Leu-rich_rpt_typical-subtyp	23.0	+	19198997	19199068	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-4	19198913	19198996	Leu-rich_rpt_typical-subtyp	7.5	+	19198913	19198996	83,88,95	1	83	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369

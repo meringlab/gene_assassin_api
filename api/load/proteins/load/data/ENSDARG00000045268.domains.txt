@@ -1,6 +1,0 @@
-12	33166295	33166342	ZP_dom	314.0	-	33166295	33166342	83,88,95	1	47	0	PR00023	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00023&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00023
-12	33166421	33166575	ZP_dom	137.0	-	33166421	33166575	83,88,95	2	123,133	0,21	PR00023	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00023&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00023
-12	33166184	33171304	ZP_dom	130.2	-	33166184	33171304	83,88,95	7	4947,-151,-72,-103,-83,-162,5106	0,2778,2516,621,443,258,14	PF00100	http://pfam.sanger.ac.uk/family?acc=PF00100
-12	33166585	33166706	ZP_dom	332.0	-	33166585	33166706	83,88,95	2	117,79	0,42	PR00023	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00023&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00023
-12	33166181	33171307	ZP_dom	124.4	-	33166181	33171307	83,88,95	7	4950,-151,-72,-103,-83,-162,5109	0,2781,2519,624,446,261,17	SM00241	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00241
-12	33166169	33171307	ZP_dom	27.623	-	33166169	33171307	83,88,95	7	4962,-151,-72,-103,-83,-162,5109	0,2793,2531,636,458,273,29	PS51034	http://www.expasy.ch/prosite/PS51034

@@ -1,7 +1,0 @@
-19	1497498	1501294	PKS_Beta-ketoAc_synthase_dom	-55.2	-	1497498	1501294	83,88,95	3	3156,-212,3397	0,724,399	SM00825	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00825
-19	1497507	1501300	3-oxoacyl-ACP_synth-2	512.3	-	1497507	1501300	83,88,95	3	3147,-212,3403	0,715,390	TIGR03150	http://www.ebi.ac.uk/interpro/signature/TIGR03150
-19	1498120	1501300	Ketoacyl_synth_N	172.4	-	1498120	1501300	83,88,95	2	2534,3078	0,102	PF00109	http://pfam.sanger.ac.uk/family?acc=PF00109
-19	1497633	1498092	Ketoacyl_synth_C	122.2	-	1497633	1498092	83,88,95	2	377,195	0,264	PF02801	http://pfam.sanger.ac.uk/family?acc=PF02801
-19	1500710	1500826	Thiolase_N	21.8	-	1500710	1500826	83,88,95	1	116	0	PF00108	http://pfam.sanger.ac.uk/family?acc=PF00108
-19	1497498	1498212	Thiolase-like	0.0	-	1497498	1498212	83,88,95	2	512,315	0,399	SSF53901	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF53901
-19	1498099	1501303	Thiolase-like	0.0	-	1498099	1501303	83,88,95	2	2555,3081	0,123	SSF53901	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF53901

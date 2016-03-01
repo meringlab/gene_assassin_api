@@ -1,6 +1,0 @@
-5	43689869	43689895	Chemokine_CXC	165.0	-	43689869	43689895	83,88,95	1	26	0	PR00437	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00437&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00437
-5	43689688	43689847	Chemokine_CXC	441.0	-	43689688	43689847	83,88,95	2	104,150	0,9	PR00437	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00437&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00437
-5	43689628	43689684	Chemokine_CXC	300.0	-	43689628	43689684	83,88,95	1	56	0	PR00437	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00437&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00437
-5	43689622	43689901	Chemokine_IL8-like_dom	47.7	-	43689622	43689901	83,88,95	2	170,204	0,75	PF00048	http://pfam.sanger.ac.uk/family?acc=PF00048
-5	43689619	43689901	Chemokine_IL8-like_dom	19.0	-	43689619	43689901	83,88,95	2	173,204	0,78	SM00199	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00199
-5	43689607	43690057	Chemokine_IL8-like_dom	0.0	-	43689607	43690057	83,88,95	3	402,-126,360	0,311,90	SSF54117	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54117

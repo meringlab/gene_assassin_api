@@ -1,4 +1,0 @@
-18	41176039	41176140	TPR_repeat	11.4	-	41176039	41176140	83,88,95	1	101	0	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-18	41173847	41176038	TPR_repeat	22.0	-	41173847	41176038	83,88,95	2	2137,2145	0,46	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-18	41173733	41173834	TPR_repeat	12.7	-	41173733	41173834	83,88,95	1	101	0	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-18	41173733	41176140	TPR-contain_dom	14.347000000000001	-	41173733	41176140	83,88,95	2	2251,2247	0,160	PS50293	http://www.expasy.ch/prosite/PS50293

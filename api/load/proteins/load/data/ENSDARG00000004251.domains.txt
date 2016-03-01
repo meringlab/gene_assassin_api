@@ -1,5 +1,0 @@
-5	27782957	27789944	DHFR_dom	120.7	+	27782957	27789944	83,88,95	6	79,49,105,126,115,66	0,837,1024,2002,4142,6921	PF00186	http://pfam.sanger.ac.uk/family?acc=PF00186
-5	27782990	27783022	DHFR	385.0	+	27782990	27783022	83,88,95	1	32	0	PR00070	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00070&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00070
-5	27783995	27784030	DHFR	430.0	+	27783995	27784030	83,88,95	1	35	0	PR00070	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00070&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00070
-5	27785050	27787107	DHFR	370.0	+	27785050	27787107	83,88,95	2	35,8	0,2049	PR00070	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00070&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00070
-5	27782948	27789953	DHFR-like_dom	0.0	+	27782948	27789953	83,88,95	6	88,49,105,126,115,75	0,846,1033,2011,4151,6930	SSF53597	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF53597

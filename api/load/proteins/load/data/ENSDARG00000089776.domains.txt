@@ -1,6 +1,0 @@
-15	41479111	41482569	Spectrin_repeat	36.8	+	41479111	41482569	83,88,95	2	146,62	0,3396	PF00435	http://pfam.sanger.ac.uk/family?acc=PF00435
-15	41493916	41495011	EF-hand_Ca_insen	30.7	+	41493916	41495011	83,88,95	3	56,7,9	0,736,1086	PF08726	http://pfam.sanger.ac.uk/family?acc=PF08726
-15	41482621	41488730	EF_hand_dom	24.6	+	41482621	41488730	83,88,95	2	32,53	0,6056	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
-15	41493823	41493909	EF_hand_dom	24.0	+	41493823	41493909	83,88,95	1	86	0	SM00054	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00054
-15	41482609	41488739	EF_hand_dom	12.979000000000001	+	41482609	41488739	83,88,95	2	44,62	0,6068	PS50222	http://www.expasy.ch/prosite/PS50222
-15	41488755	41493918	EF_hand_dom	9.13	+	41488755	41493918	83,88,95	2	2,104	0,5059	PS50222	http://www.expasy.ch/prosite/PS50222

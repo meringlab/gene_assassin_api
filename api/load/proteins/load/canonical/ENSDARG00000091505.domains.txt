@@ -1,0 +1,13 @@
+#>P	ENSDARG00000091505	ENSDART00000130889	ENSDARP00000110541	Zv9_scaffold3552	38477	87904	1	Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:H9GZ38]
+#>E	ENSDARE00000887301,ENSDARE00000927448,ENSDARE00000942636,ENSDARE00000814746	1,1,1,1	38477-38561,41681-41729,41742-42281,87172-87907
+Zv9_scaffold3552	41830	41898	1	Znf_C2H2	24.9	41830-41898	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3552	41914	41982	1	Znf_C2H2	25.6	41914-41982	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3552	41998	42066	1	Znf_C2H2	27.6	41998-42066	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3552	42082	42150	1	Znf_C2H2	26.9	42082-42150	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3552	42166	42234	1	Znf_C2H2	24.5	42166-42234	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3552	42250	87208	1	Znf_C2H2	25.2	42250-42281,87172-87208	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3552	87308	87376	1	Znf_C2H2	24.0	87308-87376	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3552	87392	87460	1	Znf_C2H2	25.6	87392-87460	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3552	87476	87544	1	Znf_C2H2	21.9	87476-87544	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3552	87560	87628	1	Znf_C2H2	30.4	87560-87628	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3552	87644	87712	1	Znf_C2H2	27.0	87644-87712	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

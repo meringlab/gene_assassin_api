@@ -1,6 +1,0 @@
-2	9976892	9977180	Homeobox_dom	77.2	-	9976892	9977180	83,88,95	2	154,253	0,35	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
-2	9975625	9975684	OAR_dom	25.6	-	9975625	9975684	83,88,95	1	59	0	PF03826	http://pfam.sanger.ac.uk/family?acc=PF03826
-2	9976877	9977183	Homeobox_dom	101.7	-	9976877	9977183	83,88,95	2	169,256	0,50	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-2	9975631	9975672	OAR_dom	8.587	-	9975631	9975672	83,88,95	1	41	0	PS50803	http://www.expasy.ch/prosite/PS50803
-2	9976889	9977189	Homeobox_dom	20.115	-	9976889	9977189	83,88,95	2	157,262	0,38	PS50071	http://www.expasy.ch/prosite/PS50071
-2	9976880	9977350	Homeodomain-like	0.0	-	9976880	9977350	83,88,95	3	449,-193,423	0,359,47	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

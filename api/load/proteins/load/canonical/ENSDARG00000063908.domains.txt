@@ -1,0 +1,4 @@
+#>P	ENSDARG00000063908	ENSDART00000093609	ENSDARP00000087872	MT	8130	8817	1	cytochrome c oxidase II, mitochondrial [Source:ZFIN;Acc:ZDB-GENE-011205-15]
+#>E	ENSDARE00000685752	1.0	8130-8820
+MT	8130	8378	1.0	Cyt_c_oxidase_su2_TM_dom	109.4	8130-8378	PF02790	http://pfam.sanger.ac.uk/family?acc=PF02790
+MT	8412	8771	1.0	Cyt_c_oxidase_su2_C	195.7	8412-8771	PF00116	http://pfam.sanger.ac.uk/family?acc=PF00116

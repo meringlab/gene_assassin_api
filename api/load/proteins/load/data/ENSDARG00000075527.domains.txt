@@ -1,7 +1,0 @@
-12	17826349	17826369	Peptidase_C1A_C	356.0	-	17826349	17826369	83,88,95	1	20	0	PR00705	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00705&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00705
-12	17826394	17826426	Peptidase_C1A_C	358.0	-	17826394	17826426	83,88,95	1	32	0	PR00705	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00705&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00705
-12	17827117	17827351	Peptidase_C1A_C	588.0	-	17827117	17827351	83,88,95	2	232,190	0,44	PR00705	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00705&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00705
-12	17826172	17827405	Peptidase_C1A_C	424.2	-	17826172	17827405	83,88,95	5	1177,-224,-168,-114,1140	0,989,575,292,93	SM00645	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00645
-12	17827487	17828104	Prot_inhib_I29	104.6	-	17827487	17828104	83,88,95	3	576,-122,603	0,455,14	SM00848	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00848
-12	17827487	17828104	Prot_inhib_I29	67.0	-	17827487	17828104	83,88,95	3	576,-122,603	0,455,14	PF08246	http://pfam.sanger.ac.uk/family?acc=PF08246
-12	17826175	17827402	Peptidase_C1A_C	284.7	-	17826175	17827402	83,88,95	5	1174,-224,-168,-114,1137	0,986,572,289,90	PF00112	http://pfam.sanger.ac.uk/family?acc=PF00112

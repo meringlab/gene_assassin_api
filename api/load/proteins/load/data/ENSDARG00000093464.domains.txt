@@ -1,9 +1,0 @@
-3	8084275	8084565	SPRY_rcpt	23.8	+	8084275	8084565	83,88,95	1	290	0	PF00622	http://pfam.sanger.ac.uk/family?acc=PF00622
-3	8079427	8084166	Butyrophylin	403.0	+	8079427	8084166	83,88,95	2	6,46	0,4693	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
-3	8084164	8084217	Butyrophylin	280.0	+	8084164	8084217	83,88,95	1	53	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
-3	8084230	8084304	Butyrophylin	739.0	+	8084230	8084304	83,88,95	1	74	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
-3	8084323	8084364	Butyrophylin	271.0	+	8084323	8084364	83,88,95	1	41	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
-3	8084551	8084607	Butyrophylin	139.0	+	8084551	8084607	83,88,95	1	56	0	PR01407	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01407&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01407
-3	8079430	8084274	PRY	101.6	+	8079430	8084274	83,88,95	2	3,154	0,4690	SM00589	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00589
-3	8079379	8084607	B30.2/SPRY	16.328	+	8079379	8084607	83,88,95	2	54,487	0,4741	PS50188	http://www.expasy.ch/prosite/PS50188
-3	8079400	8084604	ConA-like_lec_gl_sf	0.0	+	8079400	8084604	83,88,95	2	33,484	0,4720	SSF49899	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49899

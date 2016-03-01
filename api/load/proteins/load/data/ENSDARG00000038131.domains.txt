@@ -1,7 +1,0 @@
-13	53893853	53899591	TF_MADSbox	23.549	+	53893853	53899591	83,88,95	2	92,89	0,5649	PS50066	http://www.expasy.ch/prosite/PS50066
-13	53893853	53899588	TF_MADSbox	110.0	+	53893853	53899588	83,88,95	2	92,86	0,5649	SM00432	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00432
-13	53893859	53893921	TF_MADSbox	442.0	+	53893859	53893921	83,88,95	1	62	0	PR00404	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00404&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00404
-13	53893919	53899522	TF_MADSbox	567.0	+	53893919	53899522	83,88,95	2	26,20	0,5583	PR00404	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00404&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00404
-13	53899520	53899585	TF_MADSbox	343.0	+	53899520	53899585	83,88,95	1	65	0	PR00404	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00404&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00404
-13	53893877	53899585	TF_MADSbox	82.5	+	53893877	53899585	83,88,95	2	68,83	0,5625	PF00319	http://pfam.sanger.ac.uk/family?acc=PF00319
-13	53893850	53899657	TF_MADSbox	0.0	+	53893850	53899657	83,88,95	2	95,155	0,5652	SSF55455	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55455

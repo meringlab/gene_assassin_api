@@ -1,6 +1,0 @@
-10	7070089	7070178	Ankyrin_rpt	24.5	-	7070089	7070178	83,88,95	1	89	0	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
-10	7069898	7070085	Ankyrin_rpt	11.7	-	7069898	7070085	83,88,95	2	130,132	0,55	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-10	7070095	7070184	Ankyrin_rpt	29.1	-	7070095	7070184	83,88,95	1	89	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-10	7070086	7070184	Ankyrin_rpt	11.487	-	7070086	7070184	83,88,95	1	98	0	PS50088	http://www.expasy.ch/prosite/PS50088
-10	7070053	7070184	Ankyrin_rpt-contain_dom	17.051	-	7070053	7070184	83,88,95	1	131	0	PS50297	http://www.expasy.ch/prosite/PS50297
-10	7069865	7070193	Ankyrin_rpt-contain_dom	0.0	-	7069865	7070193	83,88,95	2	163,240	0,88	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403

@@ -1,9 +1,0 @@
-20	46871534	46877572	Leuzip_Fos	197.0	+	46871534	46877572	83,88,95	2	8,41	0,5997	PR00042	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00042&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00042
-20	46877573	46877623	Leuzip_Fos	334.0	+	46877573	46877623	83,88,95	1	50	0	PR00042	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00042&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00042
-20	46877627	46897310	Leuzip_Fos	450.0	+	46877627	46897310	83,88,95	2	8,56	0,19627	PR00042	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00042&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00042
-20	46897308	46897379	Leuzip_Fos	287.0	+	46897308	46897379	83,88,95	1	71	0	PR00042	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00042&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00042
-20	46877546	46877632	TF_DNA-bd	0.0	+	46877546	46877632	83,88,95	1	86	0	SSF47454	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47454
-20	46877537	46897349	bZIP	65.0	+	46877537	46897349	83,88,95	2	98,95	0,19717	SM00338	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00338
-20	46877543	46897352	bZIP	12.392000000000001	+	46877543	46897352	83,88,95	2	92,98	0,19711	PS50217	http://www.expasy.ch/prosite/PS50217
-20	46877546	46897334	bZIP	47.7	+	46877546	46897334	83,88,95	2	89,80	0,19708	PF00170	http://pfam.sanger.ac.uk/family?acc=PF00170
-20	46877543	46897319	bZIP	38.0	+	46877543	46897319	83,88,95	2	92,65	0,19711	PF07716	http://pfam.sanger.ac.uk/family?acc=PF07716

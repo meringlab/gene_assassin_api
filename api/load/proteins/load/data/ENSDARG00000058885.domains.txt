@@ -1,5 +1,0 @@
-16	5454165	5456529	TPR_1	25.0	+	5454165	5456529	83,88,95	2	38,47	0,2317	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
-16	5454162	5456541	TPR_repeat	15.9	+	5454162	5456541	83,88,95	2	41,59	0,2320	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-16	5449986	5450120	TPR_repeat	9.3	+	5449986	5450120	83,88,95	2	85,15	0,119	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-16	5450172	5454143	TPR_repeat	8.6	+	5450172	5454143	83,88,95	2	37,63	0,3908	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-16	5450172	5456541	TPR-contain_dom	9.631	+	5450172	5456541	83,88,95	3	37,123,59	0,3908,6310	PS50293	http://www.expasy.ch/prosite/PS50293

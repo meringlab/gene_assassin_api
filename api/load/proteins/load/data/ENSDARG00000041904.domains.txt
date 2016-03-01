@@ -1,6 +1,0 @@
-9	13148266	13148355	Ankyrin_rpt	1.6	-	13148266	13148355	83,88,95	1	89	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-9	13147923	13148190	Ankyrin_rpt	26.7	-	13147923	13148190	83,88,95	2	179,264	0,3	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
-9	13148104	13148193	Ankyrin_rpt	24.9	-	13148104	13148193	83,88,95	1	89	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-9	13147893	13148193	Ankyrin_rpt-contain_dom	13.177	-	13147893	13148193	83,88,95	2	209,267	0,33	PS50297	http://www.expasy.ch/prosite/PS50297
-9	13147920	13148193	Ankyrin_rpt	11.14	-	13147920	13148193	83,88,95	2	182,267	0,6	PS50088	http://www.expasy.ch/prosite/PS50088
-9	13147893	13148343	Ankyrin_rpt-contain_dom	0.0	-	13147893	13148343	83,88,95	2	209,417	0,33	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403

@@ -1,8 +1,0 @@
-3	53086062	53086154	EGF-like_Ca-bd_dom	27.0	+	53086062	53086154	83,88,95	1	92	0	PF07645	http://pfam.sanger.ac.uk/family?acc=PF07645
-3	53103316	53103426	EGF-like_Ca-bd_dom	39.2	+	53103316	53103426	83,88,95	1	110	0	PF07645	http://pfam.sanger.ac.uk/family?acc=PF07645
-3	53103316	53103468	EGF-like_Ca-bd_dom	40.5	+	53103316	53103468	83,88,95	1	152	0	SM00179	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00179
-3	53103325	53103468	EG-like_dom	24.2	+	53103325	53103468	83,88,95	1	143	0	SM00181	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00181
-3	53103316	53103432	EG-like_dom	11.575999999999999	+	53103316	53103432	83,88,95	1	116	0	PS50026	http://www.expasy.ch/prosite/PS50026
-3	53086056	53086160	EG-like_dom	9.248	+	53086056	53086160	83,88,95	1	104	0	PS50026	http://www.expasy.ch/prosite/PS50026
-3	53086059	53086211	EGF-like_Ca-bd_dom	23.0	+	53086059	53086211	83,88,95	1	152	0	SM00179	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00179
-3	53086065	53086211	EG-like_dom	19.9	+	53086065	53086211	83,88,95	1	146	0	SM00181	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00181

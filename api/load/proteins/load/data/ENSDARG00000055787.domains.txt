@@ -1,6 +1,0 @@
-22	25536131	25536223	Ankyrin_rpt	3.5	+	25536131	25536223	83,88,95	1	92	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-22	25535918	25536121	Ankyrin_rpt	7.1	+	25535918	25536121	83,88,95	2	73,21	0,182	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-22	25535741	25535830	Ankyrin_rpt	23.0	+	25535741	25535830	83,88,95	1	89	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-22	25533278	25536193	Ankyrin_rpt-contain_dom	23.1	+	25533278	25536193	83,88,95	4	35,127,74,93	0,2436,2639,2822	PS50297	http://www.expasy.ch/prosite/PS50297
-22	25535741	25535839	Ankyrin_rpt	9.725	+	25535741	25535839	83,88,95	1	98	0	PS50088	http://www.expasy.ch/prosite/PS50088
-22	25533275	25536199	Ankyrin_rpt-contain_dom	0.0	+	25533275	25536199	83,88,95	4	38,127,74,99	0,2439,2642,2825	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403

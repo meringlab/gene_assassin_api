@@ -1,8 +1,0 @@
-5	3973644	3978911	Myosin_head_motor_dom	102.4	-	3973644	3978911	83,88,95	6	5241,-140,-107,-70,-66,5094	0,4710,3784,2454,2054,173	PF00063	http://pfam.sanger.ac.uk/family?acc=PF00063
-5	3971413	3971460	IQ_motif_EF-hand-BS	12.1	-	3971413	3971460	83,88,95	1	47	0	PF00612	http://pfam.sanger.ac.uk/family?acc=PF00612
-5	3966179	3971406	IQ_motif_EF-hand-BS	19.2	-	3966179	3971406	83,88,95	2	5200,5193	0,34	PF00612	http://pfam.sanger.ac.uk/family?acc=PF00612
-5	3966158	3971409	IQ_motif_EF-hand-BS	7.693	-	3966158	3971409	83,88,95	2	5221,5196	0,55	PS50096	http://www.expasy.ch/prosite/PS50096
-5	3966179	3971409	IQ_motif_EF-hand-BS	13.9	-	3966179	3971409	83,88,95	2	5200,5196	0,34	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
-5	3961461	3966178	IQ_motif_EF-hand-BS	3.6	-	3961461	3966178	83,88,95	2	4667,4700	0,17	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
-5	3971410	3971478	IQ_motif_EF-hand-BS	13.4	-	3971410	3971478	83,88,95	1	68	0	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
-5	3966140	3978914	P-loop_NTPase	0.0	-	3966140	3978914	83,88,95	8	12745,-140,-107,-70,-66,-185,-129,12701	0,12214,11288,9958,9558,7677,5368,73	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

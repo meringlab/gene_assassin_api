@@ -1,4 +1,0 @@
-13	9594161	9594388	RNA-binding_domain_S1	61.2	+	9594161	9594388	83,88,95	1	227	0	SM00316	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00316
-13	9594167	9594388	Rbsml_prot_S1_RNA-bd_dom	16.736	+	9594167	9594388	83,88,95	1	221	0	PS50126	http://www.expasy.ch/prosite/PS50126
-13	9594161	9594379	Rbsml_prot_S1_RNA-bd_dom	47.6	+	9594161	9594379	83,88,95	1	218	0	PF00575	http://pfam.sanger.ac.uk/family?acc=PF00575
-13	9594101	9594379	NA-bd_OB-fold	0.0	+	9594101	9594379	83,88,95	1	278	0	SSF50249	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50249

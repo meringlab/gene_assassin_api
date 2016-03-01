@@ -1,9 +1,0 @@
-10	42682333	42682386	Tropomyosin	177.0	-	42682333	42682386	83,88,95	1	53	0	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
-10	42682189	42682251	Tropomyosin	297.0	-	42682189	42682251	83,88,95	1	62	0	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
-10	42681883	42682158	Tropomyosin	260.0	-	42681883	42682158	83,88,95	2	258,207	0,68	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
-10	42681781	42681852	Tropomyosin	344.0	-	42681781	42681852	83,88,95	1	71	0	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
-10	42681574	42681669	Tropomyosin	200.0	-	42681574	42681669	83,88,95	2	84,30	0,65	PR00194	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00194&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00194
-10	42716769	42717023	C2_dom	52.3	-	42716769	42717023	83,88,95	1	254	0	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
-10	42716721	42717029	C2_dom	53.1	-	42716721	42717029	83,88,95	1	308	0	SM00239	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00239
-10	42716766	42717038	C2_dom	11.448	-	42716766	42717038	83,88,95	1	272	0	PS50004	http://www.expasy.ch/prosite/PS50004
-10	42686840	42717032	C2_dom	0.0	-	42686840	42717032	83,88,95	2	29879,30072	0,120	SSF49562	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49562

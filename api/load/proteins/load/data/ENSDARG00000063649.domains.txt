@@ -1,7 +1,0 @@
-6	54580153	54626579	TEA/ATTS	590.7	+	54580153	54626579	83,88,95	11	120,64,62,128,43,61,136,173,143,152,86	0,15328,20734,28326,32407,36234,37025,39162,40591,43771,46340	PF01285	http://pfam.sanger.ac.uk/family?acc=PF01285
-6	54580174	54580218	TEA/ATTS	711.0	+	54580174	54580218	83,88,95	1	44	0	PR00065	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00065&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00065
-6	54595480	54595524	TEA/ATTS	703.0	+	54595480	54595524	83,88,95	1	44	0	PR00065	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00065&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00065
-6	54595525	54600910	TEA/ATTS	679.0	+	54595525	54600910	83,88,95	2	20,23	0,5362	PR00065	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00065&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00065
-6	54580150	54600910	TEA/ATTS	184.3	+	54580150	54600910	83,88,95	3	123,64,23	0,15331,20737	SM00426	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00426
-6	54580159	54600910	TEA/ATTS	18.831	+	54580159	54600910	83,88,95	3	114,64,23	0,15322,20728	PS51088	http://www.expasy.ch/prosite/PS51088
-6	54580150	54626603	TEF	874.4	+	54580150	54626603	83,88,95	11	123,64,62,128,43,61,136,173,143,152,110	0,15331,20737,28329,32410,36237,37028,39165,40594,43774,46343	PIRSF002603	None

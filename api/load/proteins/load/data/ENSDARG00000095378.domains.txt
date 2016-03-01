@@ -1,6 +1,0 @@
-13	31512049	31512743	TGF-b_C	187.4	+	31512049	31512743	83,88,95	2	119,188	0,506	SM00204	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00204
-13	31512043	31512743	TGF-b_C	117.3	+	31512043	31512743	83,88,95	2	125,188	0,512	PF00019	http://pfam.sanger.ac.uk/family?acc=PF00019
-13	31512049	31512102	Inhibin_asu	548.0	+	31512049	31512102	83,88,95	1	53	0	PR00669	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00669&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00669
-13	31512100	31512153	Inhibin_asu	521.0	+	31512100	31512153	83,88,95	1	53	0	PR00669	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00669&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00669
-13	31512675	31512740	Inhibin_asu	335.0	+	31512675	31512740	83,88,95	1	65	0	PR00669	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00669&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00669
-13	31509520	31512743	BMP3/GDF10	712.7	+	31509520	31512743	83,88,95	3	225,907,188	0,1741,3035	PIRSF037403	None

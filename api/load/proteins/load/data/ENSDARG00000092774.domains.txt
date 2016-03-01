@@ -1,4 +1,0 @@
-18	324194	324235	Thr-tRNA-ligase_IIa	549.0	+	324194	324235	83,88,95	1	41	0	PR01047	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01047&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01047
-18	324404	324442	Thr-tRNA-ligase_IIa	472.0	+	324404	324442	83,88,95	1	38	0	PR01047	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01047&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01047
-18	324425	327527	Anticodon-bd	68.7	+	324425	327527	83,88,95	3	50,114,100	0,675,3002	PF03129	http://pfam.sanger.ac.uk/family?acc=PF03129
-18	324272	327569	Anticodon-bd	0.0	+	324272	327569	83,88,95	4	1,72,114,142	0,131,828,3155	SSF52954	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52954

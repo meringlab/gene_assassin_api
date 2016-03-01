@@ -1,8 +1,0 @@
-15	40468964	40469047	Leu-rich_rpt_RNase_inh_sub-typ	14.6	+	40468964	40469047	83,88,95	1	83	0	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-15	40469260	40469451	Leu-rich_rpt_RNase_inh_sub-typ	19.1	+	40469260	40469451	83,88,95	2	22,60	0,131	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-15	40469455	40469538	Leu-rich_rpt_RNase_inh_sub-typ	31.1	+	40469455	40469538	83,88,95	1	83	0	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-15	40469542	40470973	Leu-rich_rpt_RNase_inh_sub-typ	16.4	+	40469542	40470973	83,88,95	2	22,60	0,1371	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-15	40470977	40471060	Leu-rich_rpt_RNase_inh_sub-typ	24.0	+	40470977	40471060	83,88,95	1	83	0	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-15	40471064	40471251	Leu-rich_rpt_RNase_inh_sub-typ	30.0	+	40471064	40471251	83,88,95	2	22,60	0,127	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-15	40463921	40464322	NACHT_NTPase	11.901	+	40463921	40464322	83,88,95	1	401	0	PS50837	http://www.expasy.ch/prosite/PS50837
-15	40463518	40464034	P-loop_NTPase	0.0	+	40463518	40464034	83,88,95	2	40,393	0,123	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

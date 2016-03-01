@@ -1,6 +1,0 @@
-3	37783420	37783918	Ribosomal_S17	105.4	+	37783420	37783918	83,88,95	2	130,81	0,417	PF00366	http://pfam.sanger.ac.uk/family?acc=PF00366
-3	37783154	37783918	Ribosomal_S17_arc-typ	112.4	+	37783154	37783918	83,88,95	3	57,129,81	0,267,683	TIGR03630	http://www.ebi.ac.uk/interpro/signature/TIGR03630
-3	37783462	37783533	Ribosomal_S17	411.0	+	37783462	37783533	83,88,95	1	71	0	PR00973	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00973&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00973
-3	37783850	37783882	Ribosomal_S17	394.0	+	37783850	37783882	83,88,95	1	32	0	PR00973	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00973&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00973
-3	37783880	37783903	Ribosomal_S17	284.0	+	37783880	37783903	83,88,95	1	23	0	PR00973	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00973&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00973
-3	37783193	37783933	NA-bd_OB-fold	0.0	+	37783193	37783933	83,88,95	3	18,129,96	0,228,644	SSF50249	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50249

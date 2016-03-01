@@ -1,0 +1,6 @@
+#>P	ENSDARG00000096519	ENSDART00000152235	ENSDARP00000126990	12	3239000	3241735	1	interphotoreceptor retinoid-binding protein like [Source:ZFIN;Acc:ZDB-GENE-070301-4]
+#>E	ENSDARE00001109690	1.0	3239000-3241738
+12	3239372	3239902	1.0	Interphotoreceptor_retinol-bd	95.6	3239372-3239902	PF03572	http://pfam.sanger.ac.uk/family?acc=PF03572
+12	3240248	3240766	1.0	Interphotoreceptor_retinol-bd	91.4	3240248-3240766	PF03572	http://pfam.sanger.ac.uk/family?acc=PF03572
+12	3241133	3241660	1.0	Interphotoreceptor_retinol-bd	106.6	3241133-3241660	PF03572	http://pfam.sanger.ac.uk/family?acc=PF03572
+12	3239204	3239362	1.0	Interphotorcpt_retinol-bd_N	67.7	3239204-3239362	PF11918	http://pfam.sanger.ac.uk/family?acc=PF11918

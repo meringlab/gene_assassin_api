@@ -1,7 +1,0 @@
-7	23060201	23068107	EPO_TPO	104.9	-	23060201	23068107	83,88,95	4	7787,-86,-164,7766	0,5728,5557,140	PF00758	http://pfam.sanger.ac.uk/family?acc=PF00758
-7	23068021	23068110	Erythroptn	491.0	-	23068021	23068110	83,88,95	1	89	0	PR00272	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00272&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00272
-7	23065873	23068020	Erythroptn	581.0	-	23065873	23068020	83,88,95	2	2115,2091	0,56	PR00272	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00272&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00272
-7	23065699	23065872	Erythroptn	690.0	-	23065699	23065872	83,88,95	2	144,114	0,59	PR00272	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00272&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00272
-7	23060201	23060272	Erythroptn	375.0	-	23060201	23060272	83,88,95	1	71	0	PR00272	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00272&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00272
-7	23060201	23068047	4_helix_cytokine-like_core	0.0	-	23060201	23068047	83,88,95	4	7787,-86,-164,7706	0,5728,5557,140	SSF47266	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47266
-7	23060192	23074028	Erythroptn	278.5	-	23060192	23074028	83,88,95	5	13821,-130,-86,-164,13687	0,7926,5737,5566,149	PIRSF001951	None

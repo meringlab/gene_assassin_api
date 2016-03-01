@@ -1,7 +1,0 @@
-23	5671451	5672652	TEA/ATTS	23.8	-	5671451	5672652	83,88,95	2	1136,1178	0,23	SM00426	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00426
-23	5671451	5672607	TEA/ATTS	694.0	-	5671451	5672607	83,88,95	2	1136,1133	0,23	PR00065	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00065&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00065
-23	5672608	5672652	TEA/ATTS	703.0	-	5672608	5672652	83,88,95	1	44	0	PR00065	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00065&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00065
-23	5671451	5672652	TEA/ATTS	14.272	-	5671451	5672652	83,88,95	2	1136,1178	0,23	PS51088	http://www.expasy.ch/prosite/PS51088
-23	5657665	5671319	TEA/ATTS	432.7	-	5657665	5671319	83,88,95	10	13592,-11,-128,-43,-55,-136,-173,-143,-152,13568	0,10265,7862,7644,7526,6024,4048,2229,1285,86	PF01285	http://pfam.sanger.ac.uk/family?acc=PF01285
-23	5671412	5672652	TEA/ATTS	69.4	-	5671412	5672652	83,88,95	2	1175,1178	0,62	PF01285	http://pfam.sanger.ac.uk/family?acc=PF01285
-23	5657641	5672652	TEF	682.4	-	5657641	5672652	83,88,95	12	14946,-62,-62,-11,-128,-43,-55,-136,-173,-143,-152,14901	0,13833,13678,10289,7886,7668,7550,6048,4072,2253,1309,110	PIRSF002603	None

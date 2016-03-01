@@ -1,8 +1,0 @@
-15	39928238	39928282	Leu-rich_rpt	11.0	-	39928238	39928282	83,88,95	1	44	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-15	39927035	39927106	Leu-rich_rpt	12.5	-	39927035	39927106	83,88,95	1	71	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-15	39932477	39932878	NACHT_NTPase	11.085	-	39932477	39932878	83,88,95	1	401	0	PS50837	http://www.expasy.ch/prosite/PS50837
-15	39927032	39927112	Leu-rich_rpt_RNase_inh_sub-typ	9.8	-	39927032	39927112	83,88,95	1	80	0	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-15	39927116	39928204	Leu-rich_rpt_RNase_inh_sub-typ	32.1	-	39927116	39928204	83,88,95	2	1068,1026	0,62	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-15	39928208	39928288	Leu-rich_rpt_RNase_inh_sub-typ	15.0	-	39928208	39928288	83,88,95	1	80	0	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-15	39928292	39931366	Leu-rich_rpt_RNase_inh_sub-typ	17.4	-	39928292	39931366	83,88,95	2	3054,3012	0,62	SM00368	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00368
-15	39932639	39933049	P-loop_NTPase	0.0	-	39932639	39933049	83,88,95	1	410	0	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

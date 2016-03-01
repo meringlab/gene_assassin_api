@@ -1,8 +1,0 @@
-25	14046399	14046437	Cyt_B5-like_heme/steroid-bd	321.0	-	14046399	14046437	83,88,95	1	38	0	PR00363	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00363&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00363
-25	13996307	13998374	Fatty_acid_hydroxylase	52.7	-	13996307	13998374	83,88,95	2	1936,1831	0,236	PF04116	http://pfam.sanger.ac.uk/family?acc=PF04116
-25	14046396	14046623	Cyt_B5-like_heme/steroid-bd	61.7	-	14046396	14046623	83,88,95	1	227	0	PF00173	http://pfam.sanger.ac.uk/family?acc=PF00173
-25	14046483	14046527	Cyt_B5-like_heme/steroid-bd	413.0	-	14046483	14046527	83,88,95	1	44	0	PR00363	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00363&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00363
-25	14046525	14046557	Cyt_B5-like_heme/steroid-bd	353.0	-	14046525	14046557	83,88,95	1	32	0	PR00363	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00363&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00363
-25	14046396	14046632	Cyt_B5-like_heme/steroid-bd	24.349	-	14046396	14046632	83,88,95	1	236	0	PS50255	http://www.expasy.ch/prosite/PS50255
-25	14046399	14046635	Cyt_B5-like_heme/steroid-bd	0.0	-	14046399	14046635	83,88,95	1	236	0	SSF55856	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55856
-25	13994743	14046662	Ino-phos-ceramide-B_Hydrxlase	539.8	-	13994743	14046662	83,88,95	7	51623,-98,-142,-100,-172,-252,51861	0,17382,6504,6281,3672,1800,58	PIRSF005149	None

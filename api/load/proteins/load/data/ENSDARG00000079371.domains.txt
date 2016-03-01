@@ -1,8 +1,0 @@
-12	11687923	11688042	LRR-contain_N	32.1	+	11687923	11688042	83,88,95	1	119	0	SM00013	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00013
-12	11688037	11688096	Leu-rich_rpt_typical-subtyp	12.3	+	11688037	11688096	83,88,95	1	59	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-12	11688097	11688168	Leu-rich_rpt_typical-subtyp	28.4	+	11688097	11688168	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-12	11688172	11688243	Leu-rich_rpt_typical-subtyp	19.6	+	11688172	11688243	83,88,95	1	71	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-12	11688037	11688099	Leu-rich_rpt	10.4	+	11688037	11688099	83,88,95	1	62	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-12	11688106	11688171	Leu-rich_rpt	11.0	+	11688106	11688171	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-12	11688178	11688243	Leu-rich_rpt	14.5	+	11688178	11688243	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-12	11687926	11688027	LRR-contain_N	22.9	+	11687926	11688027	83,88,95	1	101	0	PF01462	http://pfam.sanger.ac.uk/family?acc=PF01462

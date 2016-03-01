@@ -1,8 +1,0 @@
-18	19479257	19479763	SMAD_dom_Dwarfin-type	188.1	+	19479257	19479763	83,88,95	1	506	0	PF03166	http://pfam.sanger.ac.uk/family?acc=PF03166
-18	19430115	19430414	MAD_homology1_Dwarfin-type	97.1	+	19430115	19430414	83,88,95	1	299	0	PF03165	http://pfam.sanger.ac.uk/family?acc=PF03165
-18	19479263	19479760	SMAD_dom_Dwarfin-type	291.6	+	19479263	19479760	83,88,95	1	497	0	SM00524	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00524
-18	19430109	19434558	MAD_homology1_Dwarfin-type	154.6	+	19430109	19434558	83,88,95	2	312,1	0,4448	SM00523	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00523
-18	19430037	19434564	MAD_homology_MH1	28.127	+	19430037	19434564	83,88,95	2	384,7	0,4520	PS51075	http://www.expasy.ch/prosite/PS51075
-18	19479269	19479769	SMAD_dom_Dwarfin-type	47.354	+	19479269	19479769	83,88,95	1	500	0	PS51076	http://www.expasy.ch/prosite/PS51076
-18	19430412	19479763	SMAD_FHA_domain	0.0	+	19430412	19479763	83,88,95	4	9,56,77,532	0,4145,5840,48819	SSF49879	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49879
-18	19430115	19430417	MAD_homology_MH1	0.0	+	19430115	19430417	83,88,95	1	302	0	SSF56366	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56366

@@ -1,4 +1,0 @@
-4	17914876	17919167	PKS_acyl_transferase	35.1	-	17914876	17919167	83,88,95	4	4064,-87,-217,3896	0,3963,2421,395	SM00827	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00827
-4	17914987	17919167	Acyl_transferase	98.0	-	17914987	17919167	83,88,95	4	3953,-87,-217,3896	0,3852,2310,284	PF00698	http://pfam.sanger.ac.uk/family?acc=PF00698
-4	17914906	17919182	Acyl_Trfase/lysoPLipase	0.0	-	17914906	17919182	83,88,95	4	4034,-87,-217,3911	0,3933,2391,365	SSF52151	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52151
-4	17915203	17917244	Malonyl_transacylase_ACP-bd	0.0	-	17915203	17917244	83,88,95	2	1877,1973	0,68	SSF55048	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55048

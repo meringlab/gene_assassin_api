@@ -1,6 +1,0 @@
-7	13776850	13782322	Serum_amyloid_A	169.6	+	13776850	13782322	83,88,95	3	30,138,135	0,3664,5337	PF00277	http://pfam.sanger.ac.uk/family?acc=PF00277
-7	13776859	13780551	Serum_amyloid_A	629.0	+	13776859	13780551	83,88,95	2	21,37	0,3655	PR00306	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00306&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00306
-7	13780552	13780611	Serum_amyloid_A	947.0	+	13780552	13780611	83,88,95	1	59	0	PR00306	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00306&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00306
-7	13780612	13782208	Serum_amyloid_A	832.0	+	13780612	13782208	83,88,95	2	40,21	0,1575	PR00306	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00306&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00306
-7	13776850	13782322	Serum_amyloid_A	220.9	+	13776850	13782322	83,88,95	3	30,138,135	0,3664,5337	SM00197	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00197
-7	13776793	13782322	Serum_amyloid_A	285.5	+	13776793	13782322	83,88,95	3	87,138,135	0,3721,5394	PIRSF002472	None

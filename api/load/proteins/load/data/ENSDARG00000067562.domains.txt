@@ -1,6 +1,0 @@
-8	2259964	2260074	Clathrin_H-chain_propeller_rpt	23.2	+	2259964	2260074	83,88,95	1	110	0	PF01394	http://pfam.sanger.ac.uk/family?acc=PF01394
-8	2266760	2268536	Clathrin_H-chain_propeller_rpt	30.1	+	2266760	2268536	83,88,95	2	74,44	0,1732	PF01394	http://pfam.sanger.ac.uk/family?acc=PF01394
-8	2274025	2275144	Clathrin_H-chain_propeller_rpt	22.3	+	2274025	2275144	83,88,95	3	87,13,2	0,1063,1117	PF01394	http://pfam.sanger.ac.uk/family?acc=PF01394
-8	2275145	2275216	Clathrin_H-chain_linker_core	43.4	+	2275145	2275216	83,88,95	1	71	0	PF09268	http://pfam.sanger.ac.uk/family?acc=PF09268
-8	2259952	2275144	Clathrin_H-chain_propeller_N	0.0	+	2259952	2275144	83,88,95	7	207,271,164,113,177,13,2	0,6611,8540,11866,13983,15136,15190	SSF50989	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50989
-8	2275145	2275548	ARM-type_fold	0.0	+	2275145	2275548	83,88,95	2	176,8	0,395	SSF48371	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48371

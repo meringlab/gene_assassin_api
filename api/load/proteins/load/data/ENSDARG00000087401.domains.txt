@@ -1,7 +1,0 @@
-22	125605	125886	Mitochondrial_sb/sol_carrier	21.076	+	125605	125886	83,88,95	1	281	0	PS50920	http://www.expasy.ch/prosite/PS50920
-22	125896	131760	Mitochondrial_sb/sol_carrier	11.443	+	125896	131760	83,88,95	6	77,26,58,3,57,55	0,505,787,5372,5726,5809	PS50920	http://www.expasy.ch/prosite/PS50920
-22	131791	133201	Mitochondrial_sb/sol_carrier	11.700999999999999	+	131791	133201	83,88,95	3	63,27,183	0,86,1227	PS50920	http://www.expasy.ch/prosite/PS50920
-22	125620	125880	Mitochondrial_sb/sol_carrier	53.4	+	125620	125880	83,88,95	1	260	0	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-22	125899	131678	Mitochondrial_sb/sol_carrier	40.5	+	125899	131678	83,88,95	5	74,26,58,3,56	0,502,784,5369,5723	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-22	133046	133198	Mitochondrial_sb/sol_carrier	30.8	+	133046	133198	83,88,95	1	152	0	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-22	125596	133192	Mt_carrier_dom	0.0	+	125596	133192	83,88,95	8	377,26,58,3,57,149,27,174	0,805,1087,5672,6026,6109,6281,7422	SSF103506	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF103506

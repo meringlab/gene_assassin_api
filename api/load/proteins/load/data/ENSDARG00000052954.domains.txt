@@ -1,7 +1,0 @@
-16	49878673	49880349	Small_GTPase	93.6	+	49878673	49880349	83,88,95	3	192,80,7	0,1426,1669	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071
-16	49878778	49878819	Small_GTPase	363.0	+	49878778	49878819	83,88,95	1	41	0	PR00449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00449
-16	49880116	49880346	Small_GTPase	432.0	+	49880116	49880346	83,88,95	2	63,4	0,226	PR00449	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00449&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00449
-16	49878673	49880175	Small_GTP-bd_dom	46.2	+	49878673	49880175	83,88,95	2	192,76	0,1426	TIGR00231	http://www.ebi.ac.uk/interpro/signature/TIGR00231
-16	49878673	49880355	Small_GTPase_Rab_type	85.6	+	49878673	49880355	83,88,95	3	192,80,13	0,1426,1669	SM00175	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00175
-16	49878673	49880355	Small_GTPase_Ras	-26.2	+	49878673	49880355	83,88,95	3	192,80,13	0,1426,1669	SM00173	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00173
-16	49878673	49880454	P-loop_NTPase	0.0	+	49878673	49880454	83,88,95	3	192,80,112	0,1426,1669	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

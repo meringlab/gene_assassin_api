@@ -1,8 +1,0 @@
-16	43194292	43194381	EG-like_dom	11.7	+	43194292	43194381	83,88,95	1	89	0	SM00181	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00181
-16	43196551	43196649	EG-like_dom	18.9	+	43196551	43196649	83,88,95	1	98	0	SM00181	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00181
-16	43194388	43196310	EG-like_dom	8.3	+	43194388	43196310	83,88,95	2	42,43	0,1879	SM00181	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00181
-16	43196560	43196646	EGF_extracell	14.6	+	43196560	43196646	83,88,95	1	86	0	PF07974	http://pfam.sanger.ac.uk/family?acc=PF07974
-16	43194391	43196307	EGF_extracell	19.8	+	43194391	43196307	83,88,95	2	39,40	0,1876	PF07974	http://pfam.sanger.ac.uk/family?acc=PF07974
-16	43194295	43194378	EGF_extracell	17.1	+	43194295	43194378	83,88,95	1	83	0	PF07974	http://pfam.sanger.ac.uk/family?acc=PF07974
-16	43184094	43194121	DUF2233	40.0	+	43184094	43194121	83,88,95	4	172,139,108,93	0,6203,6486,9934	PF09992	http://pfam.sanger.ac.uk/family?acc=PF09992
-16	43196542	43196649	EG-like_dom	11.373	+	43196542	43196649	83,88,95	1	107	0	PS50026	http://www.expasy.ch/prosite/PS50026

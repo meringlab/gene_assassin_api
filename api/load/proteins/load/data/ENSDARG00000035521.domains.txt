@@ -1,8 +1,0 @@
-5	29170354	29170698	Frizzled_dom	206.2	+	29170354	29170698	83,88,95	1	344	0	SM00063	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00063
-5	29175515	29182771	Netrin_module_non-TIMP	68.2	+	29175515	29182771	83,88,95	2	24,274	0,6982	PF01759	http://pfam.sanger.ac.uk/family?acc=PF01759
-5	29170369	29170683	Frizzled_dom	105.2	+	29170369	29170683	83,88,95	1	314	0	PF01392	http://pfam.sanger.ac.uk/family?acc=PF01392
-5	29175512	29182777	Netrin_module_non-TIMP	60.3	+	29175512	29182777	83,88,95	2	27,280	0,6985	SM00643	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00643
-5	29170348	29170677	Frizzled_dom	0.0	+	29170348	29170677	83,88,95	1	329	0	SSF63501	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF63501
-5	29170720	29182810	TIMP-like_OB-fold	0.0	+	29170720	29182810	83,88,95	3	3,80,313	0,4739,11777	SSF50242	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50242
-5	29170342	29170692	Frizzled_dom	23.035999999999998	+	29170342	29170692	83,88,95	1	350	0	PS50038	http://www.expasy.ch/prosite/PS50038
-5	29175473	29182795	Netrin_domain	20.012	+	29175473	29182795	83,88,95	2	66,298	0,7024	PS50189	http://www.expasy.ch/prosite/PS50189

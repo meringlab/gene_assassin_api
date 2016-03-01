@@ -1,5 +1,0 @@
-2	24222277	24234496	Crotonase_core_superfam	109.9	+	24222277	24234496	83,88,95	4	41,172,210,77	0,859,8847,12142	PF00378	http://pfam.sanger.ac.uk/family?acc=PF00378
-2	24187319	24219874	Chromo_domain	56.8	+	24187319	24219874	83,88,95	2	5,143	0,32412	PF00385	http://pfam.sanger.ac.uk/family?acc=PF00385
-2	24187319	24219907	Chromo_domain/shadow	18.73	+	24187319	24219907	83,88,95	2	5,176	0,32412	PS50013	http://www.expasy.ch/prosite/PS50013
-2	24187316	24219886	Chromo_domain/shadow	67.1	+	24187316	24219886	83,88,95	2	8,155	0,32415	SM00298	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00298
-2	24187301	24219892	Chromodomain-like	0.0	+	24187301	24219892	83,88,95	2	23,161	0,32430	SSF54160	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54160

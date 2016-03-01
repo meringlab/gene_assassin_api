@@ -1,6 +1,0 @@
-5	75248598	75250853	DH_sc/Rdtase_SDR	75.0	-	75248598	75250853	83,88,95	2	1985,1999	0,256	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106
-5	75248601	75250856	PKS_KR	31.1	-	75248601	75250856	83,88,95	2	1982,2002	0,253	PF08659	http://pfam.sanger.ac.uk/family?acc=PF08659
-5	75250803	75250856	Glc/ribitol_DH	387.0	-	75250803	75250856	83,88,95	1	53	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
-5	75248592	75248651	Glc/ribitol_DH	151.0	-	75248592	75248651	83,88,95	1	59	0	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
-5	75246007	75248594	Glc/ribitol_DH	214.0	-	75246007	75248594	83,88,95	2	2557,2565	0,22	PR00081	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00081&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00081
-5	75245845	75250856	Sepiapterin_red	277.2	-	75245845	75250856	83,88,95	3	4738,-290,4827	0,3009,184	TIGR01500	http://www.ebi.ac.uk/interpro/signature/TIGR01500

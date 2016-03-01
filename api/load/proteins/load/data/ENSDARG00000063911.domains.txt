@@ -1,7 +1,0 @@
-MT	9100	9726	ATPase_F0-cplx_asu	188.5	+	9100	9726	83,88,95	1	626	0	PF00119	http://pfam.sanger.ac.uk/family?acc=PF00119
-MT	9067	9732	ATPase_F0-cplx_asu	202.2	+	9067	9732	83,88,95	1	665	0	TIGR01131	http://www.ebi.ac.uk/interpro/signature/TIGR01131
-MT	9265	9315	ATPase_F0-cplx_asu	342.0	+	9265	9315	83,88,95	1	50	0	PR00123	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00123&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00123
-MT	9448	9495	ATPase_F0-cplx_asu	459.0	+	9448	9495	83,88,95	1	47	0	PR00123	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00123&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00123
-MT	9508	9576	ATPase_F0-cplx_asu	746.0	+	9508	9576	83,88,95	1	68	0	PR00123	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00123&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00123
-MT	9679	9726	ATPase_F0-cplx_asu	505.0	+	9679	9726	83,88,95	1	47	0	PR00123	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00123&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00123
-MT	9238	9723	ATPase_F0-cplx_asu	0.0	+	9238	9723	83,88,95	1	485	0	SSF81336	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81336

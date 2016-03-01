@@ -1,8 +1,0 @@
-2	37666215	37666632	C1q	99.5	-	37666215	37666632	83,88,95	2	354,140	0,277	PF00386	http://pfam.sanger.ac.uk/family?acc=PF00386
-2	37666488	37666644	C1q	237.0	-	37666488	37666644	83,88,95	2	81,152	0,4	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-2	37666428	37666487	C1q	265.0	-	37666428	37666487	83,88,95	1	59	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-2	37666275	37666340	C1q	338.0	-	37666275	37666340	83,88,95	1	65	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-2	37666212	37666244	C1q	251.0	-	37666212	37666244	83,88,95	1	32	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-2	37666212	37666704	Tumour_necrosis_fac-like_dom	0.0	-	37666212	37666704	83,88,95	2	357,212	0,280	SSF49842	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49842
-2	37666206	37669921	C1q	20.859	-	37666206	37669921	83,88,95	3	3711,-136,3429	0,499,286	PS50871	http://www.expasy.ch/prosite/PS50871
-2	37666206	37669927	C1q	48.7	-	37666206	37669927	83,88,95	3	3711,-136,3435	0,499,286	SM00110	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00110

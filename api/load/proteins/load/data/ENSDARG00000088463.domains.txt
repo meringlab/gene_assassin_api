@@ -1,6 +1,0 @@
-15	46396999	46400025	ATPase_AAA-2	123.6	+	46396999	46400025	83,88,95	6	11,44,161,156,73,44	0,100,1040,1496,1771,2982	PF07724	http://pfam.sanger.ac.uk/family?acc=PF07724
-15	46398093	46398572	ATPase_dyneun-rel_AAA	27.2	+	46398093	46398572	83,88,95	2	107,77	0,402	PF07728	http://pfam.sanger.ac.uk/family?acc=PF07728
-15	46398528	46398572	ClpA/B	320.0	+	46398528	46398572	83,88,95	1	44	0	PR00300	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00300&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00300
-15	46398135	46398191	ClpA/B	711.0	+	46398135	46398191	83,88,95	1	56	0	PR00300	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00300&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00300
-15	46398048	46398104	ClpA/B	768.0	+	46398048	46398104	83,88,95	1	56	0	PR00300	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00300&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00300
-15	46396990	46400109	P-loop_NTPase	0.0	+	46396990	46400109	83,88,95	6	20,44,161,156,73,128	0,109,1049,1505,1780,2991	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

@@ -1,9 +1,0 @@
-6	164080	164112	C1q	184.0	-	164080	164112	83,88,95	1	32	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-6	164155	164220	C1q	231.0	-	164155	164220	83,88,95	1	65	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-6	164356	164608	C1q	222.0	-	164356	164608	83,88,95	2	177,248	0,4	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-6	164083	164638	C1q	109.1	-	164083	164638	83,88,95	2	450,278	0,277	PF00386	http://pfam.sanger.ac.uk/family?acc=PF00386
-6	164663	164785	Collagen	29.9	-	164663	164785	83,88,95	1	122	0	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
-6	164074	164665	C1q	36.0	-	164074	164665	83,88,95	2	459,305	0,286	SM00110	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00110
-6	164296	164355	C1q	398.0	-	164296	164355	83,88,95	1	59	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-6	164071	164659	C1q	22.316999999999997	-	164071	164659	83,88,95	2	462,299	0,289	PS50871	http://www.expasy.ch/prosite/PS50871
-6	164074	164653	Tumour_necrosis_fac-like_dom	0.0	-	164074	164653	83,88,95	2	459,293	0,286	SSF49842	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49842

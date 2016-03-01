@@ -1,7 +1,0 @@
-20	5346611	5346730	Thrombospondin_1_rpt	34.1	-	5346611	5346730	83,88,95	1	119	0	PF00090	http://pfam.sanger.ac.uk/family?acc=PF00090
-20	5342228	5342704	AMOP	150.5	-	5342228	5342704	83,88,95	1	476	0	PF03782	http://pfam.sanger.ac.uk/family?acc=PF03782
-20	5342225	5346466	AMOP	218.4	-	5342225	5346466	83,88,95	2	4229,3763	0,478	SM00723	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00723
-20	5346608	5346736	Thrombospondin_1_rpt	46.0	-	5346608	5346736	83,88,95	1	128	0	SM00209	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00209
-20	5342225	5346466	AMOP	26.816	-	5342225	5346466	83,88,95	2	4229,3763	0,478	PS50856	http://www.expasy.ch/prosite/PS50856
-20	5346608	5346745	Thrombospondin_1_rpt	11.567	-	5346608	5346745	83,88,95	1	137	0	PS50092	http://www.expasy.ch/prosite/PS50092
-20	5346611	5353491	Thrombospondin_1_rpt	0.0	-	5346611	5353491	83,88,95	2	6868,6747	0,133	SSF82895	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF82895

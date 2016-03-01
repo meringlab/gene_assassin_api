@@ -1,8 +1,0 @@
-18	48807231	48811188	Dual-sp_phosphatase_subgr_cat	244.3	+	48807231	48811188	83,88,95	4	59,159,123,75	0,644,3580,3882	SM00195	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00195
-18	48807255	48811185	Dual-sp_phosphatase_cat-dom	148.3	+	48807255	48811185	83,88,95	4	35,159,123,72	0,620,3556,3858	PF00782	http://pfam.sanger.ac.uk/family?acc=PF00782
-18	48808007	48810821	MKP	316.0	+	48808007	48810821	83,88,95	2	27,10	0,2804	PR01764	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01764&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01764
-18	48807959	48807988	MKP	304.0	+	48807959	48807988	83,88,95	1	29	0	PR01764	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01764&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01764
-18	48807896	48807928	MKP	316.0	+	48807896	48807928	83,88,95	1	32	0	PR01764	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01764&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01764
-18	48808001	48811140	Tyr/Dual-sp_Pase	14.467	+	48808001	48811140	83,88,95	3	33,123,27	0,2810,3112	PS50056	http://www.expasy.ch/prosite/PS50056
-18	48807231	48811194	Dual-sp_phosphatase_subgr_cat	44.983000000000004	+	48807231	48811194	83,88,95	4	59,159,123,81	0,644,3580,3882	PS50054	http://www.expasy.ch/prosite/PS50054
-18	48807114	48807176	Rhodanese-like_dom	0.0	+	48807114	48807176	83,88,95	1	62	0	SSF52821	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52821

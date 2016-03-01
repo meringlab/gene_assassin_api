@@ -1,8 +1,0 @@
-14	29583347	29585691	Insulin-like	77.0	-	29583347	29585691	83,88,95	2	2239,2208	0,136	PF00049	http://pfam.sanger.ac.uk/family?acc=PF00049
-14	29585638	29585688	Insulin_family	500.0	-	29585638	29585688	83,88,95	1	50	0	PR00276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00276
-14	29583347	29583406	Insulin_family	648.0	-	29583347	29583406	83,88,95	1	59	0	PR00276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00276
-14	29585665	29585700	Insulin	413.0	-	29585665	29585700	83,88,95	1	35	0	PR00277	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00277&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00277
-14	29585644	29585664	Insulin	341.0	-	29585644	29585664	83,88,95	1	20	0	PR00277	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00277&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00277
-14	29583344	29583373	Insulin	341.0	-	29583344	29583373	83,88,95	1	29	0	PR00277	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00277&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00277
-14	29583347	29585691	Insulin-like	112.9	-	29583347	29585691	83,88,95	2	2239,2208	0,136	SM00078	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00078
-14	29583347	29585736	Insulin-like	0.0	-	29583347	29585736	83,88,95	2	2239,2253	0,136	SSF56994	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56994

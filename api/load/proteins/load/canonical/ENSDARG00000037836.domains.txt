@@ -1,0 +1,7 @@
+#>P	ENSDARG00000037836	ENSDART00000147198	ENSDARP00000122885	3	45884315	45886156	-1	insulin-like growth factor binding protein, acid labile subunit [Source:HGNC Symbol;Acc:HGNC:5468]
+#>E	ENSDARE00000984816	0	45884312-45886156
+3	45885266	45885334	-1	Leu-rich_rpt	14.8	45885266-45885334	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+3	45885194	45885262	-1	Leu-rich_rpt	9.4	45885194-45885262	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+3	45884984	45885118	-1	Leu-rich_rpt	10.5	45884984-45885118	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+3	45884762	45884830	-1	Leu-rich_rpt	12.6	45884762-45884830	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+3	45885914	45886015	-1	LRR-contain_N	21.2	45885914-45886015	PF01462	http://pfam.sanger.ac.uk/family?acc=PF01462

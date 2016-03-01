@@ -1,7 +1,0 @@
-11	30560313	30562304	Nucl_hrmn_rcpt_lig-bd_core	110.7	-	30560313	30562304	83,88,95	2	1716,1764	0,227	PF00104	http://pfam.sanger.ac.uk/family?acc=PF00104
-11	30560373	30560426	Str_hrmn_rcpt	195.0	-	30560373	30560426	83,88,95	1	53	0	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
-11	30562038	30562085	Str_hrmn_rcpt	201.0	-	30562038	30562085	83,88,95	1	47	0	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
-11	30562266	30562316	Str_hrmn_rcpt	255.0	-	30562266	30562316	83,88,95	1	50	0	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
-11	30562314	30562379	Str_hrmn_rcpt	284.0	-	30562314	30562379	83,88,95	1	65	0	PR00398	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00398&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00398
-11	30560388	30562382	Nucl_hrmn_rcpt_lig-bd_core	97.4	-	30560388	30562382	83,88,95	2	1641,1842	0,152	SM00430	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00430
-11	30560301	30562463	Nucl_hormone_rcpt_ligand-bd	0.0	-	30560301	30562463	83,88,95	2	1728,1923	0,239	SSF48508	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48508

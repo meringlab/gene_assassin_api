@@ -1,0 +1,8 @@
+#>P	ENSDARG00000087718	ENSDART00000122759	ENSDARP00000105511	Zv9_scaffold3536	520	6251	-1	Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:H9GYB7]
+#>E	ENSDARE00000933779,ENSDARE00000943802	1,1	517-1361,6167-6251
+Zv9_scaffold3536	1183	1251	-1	Znf_C2H2	21.3	1183-1251	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3536	1099	1167	-1	Znf_C2H2	22.1	1099-1167	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3536	1015	1083	-1	Znf_C2H2	24.3	1015-1083	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3536	763	831	-1	Znf_C2H2	25.8	763-831	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3536	679	747	-1	Znf_C2H2	26.0	679-747	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+Zv9_scaffold3536	520	579	-1	Znf_C2H2	22.8	520-579	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

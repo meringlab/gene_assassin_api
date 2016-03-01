@@ -1,7 +1,0 @@
-5	10804583	10807297	AAA+_ATPase	33.5	-	10804583	10807297	83,88,95	2	2526,2367	0,347	SM00382	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00382
-5	10804766	10804810	ClpA/B	268.0	-	10804766	10804810	83,88,95	1	44	0	PR00300	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00300&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00300
-5	10807229	10807285	ClpA/B	423.0	-	10807229	10807285	83,88,95	1	56	0	PR00300	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00300&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00300
-5	10804832	10804888	ClpA/B	243.0	-	10804832	10804888	83,88,95	1	56	0	PR00300	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00300&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00300
-5	10804919	10807429	Torsin	53.6	-	10804919	10807429	83,88,95	2	2190,2499	0,11	PF06309	http://pfam.sanger.ac.uk/family?acc=PF06309
-5	10804814	10807279	ATPase_AAA_core	27.1	-	10804814	10807279	83,88,95	2	2295,2349	0,116	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
-5	10804544	10807444	P-loop_NTPase	0.0	-	10804544	10807444	83,88,95	2	2565,2514	0,386	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

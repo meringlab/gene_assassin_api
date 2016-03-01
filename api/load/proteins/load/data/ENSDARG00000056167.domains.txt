@@ -1,7 +1,0 @@
-9	33336666	33336713	Chaperonin_Cpn10	347.0	+	33336666	33336713	83,88,95	1	47	0	PR00297	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00297&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00297
-9	33336732	33336797	Chaperonin_Cpn10	453.0	+	33336732	33336797	83,88,95	1	65	0	PR00297	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00297&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00297
-9	33336920	33336958	Chaperonin_Cpn10	374.0	+	33336920	33336958	83,88,95	1	38	0	PR00297	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00297&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00297
-9	33337688	33337729	Chaperonin_Cpn10	240.0	+	33337688	33337729	83,88,95	1	41	0	PR00297	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00297&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00297
-9	33336666	33337729	Chaperonin_Cpn10	105.9	+	33336666	33337729	83,88,95	3	143,89,41	0,227,1022	PF00166	http://pfam.sanger.ac.uk/family?acc=PF00166
-9	33336654	33337735	GroES-like	0.0	+	33336654	33337735	83,88,95	3	155,89,47	0,239,1034	SSF50129	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50129
-9	33336663	33337729	Chaperonin_Cpn10	151.4	+	33336663	33337729	83,88,95	3	146,89,41	0,230,1025	SM00883	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00883

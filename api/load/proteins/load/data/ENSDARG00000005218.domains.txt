@@ -1,8 +1,0 @@
-2	395366	397876	MgsA_C	204.5	-	395366	397876	83,88,95	3	2402,-79,2244	0,483,266	PF12002	http://pfam.sanger.ac.uk/family?acc=PF12002
-2	404645	409853	DNA_helicase_Holl-junc_RuvB_N	56.8	-	404645	409853	83,88,95	3	5056,-194,5185	0,3414,23	PF05496	http://pfam.sanger.ac.uk/family?acc=PF05496
-2	404561	409733	ATPase_AAA_core	60.6	-	404561	409733	83,88,95	3	5140,-194,5065	0,3498,107	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
-2	404624	409733	ATPase_dyneun-rel_AAA	32.0	-	404624	409733	83,88,95	3	5077,-194,5065	0,3435,44	PF07728	http://pfam.sanger.ac.uk/family?acc=PF07728
-2	404663	409736	IstB_ATP-bd	23.7	-	404663	409736	83,88,95	3	5038,-194,5068	0,3396,5	PF01695	http://pfam.sanger.ac.uk/family?acc=PF01695
-2	404540	409745	AAA+_ATPase	63.4	-	404540	409745	83,88,95	3	5161,-194,5077	0,3519,128	SM00382	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00382
-2	410097	410168	Znf_Rad18_put	28.4	-	410097	410168	83,88,95	1	71	0	SM00734	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00734
-2	398141	409880	P-loop_NTPase	0.0	-	398141	409880	83,88,95	4	11560,-194,-226,11583	0,9918,6527,156	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

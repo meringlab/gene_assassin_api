@@ -1,5 +1,0 @@
-20	40401208	40402389	Lipocln_cytosolic_FA-bd_dom	93.3	-	40401208	40402389	83,88,95	4	1127,-172,-101,1137	0,518,240,44	PF00061	http://pfam.sanger.ac.uk/family?acc=PF00061
-20	40401208	40401364	Fatty_acid-bd	348.0	-	40401208	40401364	83,88,95	2	139,112	0,44	PR00178	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00178&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00178
-20	40401560	40401610	Fatty_acid-bd	466.0	-	40401560	40401610	83,88,95	1	50	0	PR00178	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00178&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00178
-20	40401719	40402395	Fatty_acid-bd	762.0	-	40401719	40402395	83,88,95	2	616,669	0,7	PR00178	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00178&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00178
-20	40401208	40402401	Calycin-like	0.0	-	40401208	40402401	83,88,95	4	1127,-172,-101,1149	0,518,240,44	SSF50814	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50814

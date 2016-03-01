@@ -1,8 +1,0 @@
-19	3837911	3838835	C-type_lectin	74.7	-	3837911	3838835	83,88,95	3	844,-109,768	0,357,156	PF00059	http://pfam.sanger.ac.uk/family?acc=PF00059
-19	3838854	3838892	AntifreezeII	263.0	-	3838854	3838892	83,88,95	1	38	0	PR00356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00356
-19	3838803	3838856	AntifreezeII	434.0	-	3838803	3838856	83,88,95	1	53	0	PR00356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00356
-19	3838263	3838802	AntifreezeII	264.0	-	3838263	3838802	83,88,95	2	492,534	0,5	PR00356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00356
-19	3838185	3838235	AntifreezeII	495.0	-	3838185	3838235	83,88,95	1	50	0	PR00356	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00356&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00356
-19	3837911	3838868	C-type_lectin	22.81	-	3837911	3838868	83,88,95	3	844,-109,801	0,357,156	PS50041	http://www.expasy.ch/prosite/PS50041
-19	3837911	3838889	C-type_lectin	119.3	-	3837911	3838889	83,88,95	3	844,-109,822	0,357,156	SM00034	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00034
-19	3837902	3838889	C-type_lectin_fold	0.0	-	3837902	3838889	83,88,95	3	853,-109,822	0,366,165	SSF56436	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56436

@@ -1,5 +1,0 @@
-20	43145454	43149624	Dual-sp_phosphatase_cat-dom	54.1	+	43145454	43149624	83,88,95	2	176,167	0,4003	PF00782	http://pfam.sanger.ac.uk/family?acc=PF00782
-20	43145562	43149621	Tyr_Pase_rcpt/non-rcpt	36.1	+	43145562	43149621	83,88,95	2	68,164	0,3895	PF00102	http://pfam.sanger.ac.uk/family?acc=PF00102
-20	43145523	43149633	Tyr_Pase_cat	38.5	+	43145523	43149633	83,88,95	2	107,176	0,3934	SM00404	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00404
-20	43145424	43149633	Dual-sp_phosphatase_subgr_cat	14.0	+	43145424	43149633	83,88,95	2	206,176	0,4033	SM00195	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00195
-20	43145586	43149609	Tyr/Dual-sp_Pase	17.881	+	43145586	43149609	83,88,95	2	44,152	0,3871	PS50056	http://www.expasy.ch/prosite/PS50056

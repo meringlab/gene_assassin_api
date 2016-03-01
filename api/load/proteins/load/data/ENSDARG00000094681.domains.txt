@@ -1,5 +1,0 @@
-2	37631149	37631463	C-type_lectin	73.2	-	37631149	37631463	83,88,95	1	314	0	PF00059	http://pfam.sanger.ac.uk/family?acc=PF00059
-2	37631608	37632210	Collagen	32.9	-	37631608	37632210	83,88,95	3	503,-77,598	0,410,4	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
-2	37631149	37631523	C-type_lectin	77.4	-	37631149	37631523	83,88,95	1	374	0	SM00034	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00034
-2	37631149	37631505	C-type_lectin	16.436	-	37631149	37631505	83,88,95	1	356	0	PS50041	http://www.expasy.ch/prosite/PS50041
-2	37631146	37631517	C-type_lectin_fold	0.0	-	37631146	37631517	83,88,95	1	371	0	SSF56436	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56436

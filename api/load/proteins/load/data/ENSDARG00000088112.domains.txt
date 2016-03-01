@@ -1,9 +1,0 @@
-7	66783080	66783157	GPCR_2_secretin-like	146.0	+	66783080	66783157	83,88,95	1	77	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
-7	66783323	66792020	GPCR_2_secretin-like	288.0	+	66783323	66792020	83,88,95	2	33,31	0,8666	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
-7	66774447	66774518	GPCR_2_secretin-like	386.0	+	66774447	66774518	83,88,95	1	71	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
-7	66774564	66782219	GPCR_2_secretin-like	211.0	+	66774564	66782219	83,88,95	2	27,49	0,7606	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
-7	66771421	66771632	GPS_dom	31.4	+	66771421	66771632	83,88,95	2	30,97	0,114	PF01825	http://pfam.sanger.ac.uk/family?acc=PF01825
-7	66771770	66791999	GPCR_2_secretin-like	114.7	+	66771770	66791999	83,88,95	5	82,268,105,280,10	0,2553,10400,11306,20219	PF00002	http://pfam.sanger.ac.uk/family?acc=PF00002
-7	66771421	66771751	GPS_dom	10.7	+	66771421	66771751	83,88,95	3	30,100,14	0,114,316	PS50221	http://www.expasy.ch/prosite/PS50221
-7	66771773	66792023	GPCR_2-like	26.628	+	66771773	66792023	83,88,95	5	79,268,105,280,34	0,2550,10397,11303,20216	PS50261	http://www.expasy.ch/prosite/PS50261
-7	66771048	66771272	NA-bd_OB-fold	0.0	+	66771048	66771272	83,88,95	2	29,77	0,147	SSF50249	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50249

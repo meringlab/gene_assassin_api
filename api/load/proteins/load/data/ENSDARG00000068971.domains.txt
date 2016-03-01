@@ -1,6 +1,0 @@
-5	7179886	7180089	KH_dom	67.7	+	7179886	7180089	83,88,95	1	203	0	SM00322	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00322
-5	7176120	7179810	KH_dom	45.7	+	7176120	7179810	83,88,95	2	66,139	0,3551	SM00322	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00322
-5	7176135	7179795	KH_dom_type_1	33.0	+	7176135	7179795	83,88,95	2	51,124	0,3536	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013
-5	7179895	7180074	KH_dom_type_1	51.0	+	7179895	7180074	83,88,95	1	179	0	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013
-5	7179889	7180074	KH_dom_type_1	15.765999999999998	+	7179889	7180074	83,88,95	1	185	0	PS50084	http://www.expasy.ch/prosite/PS50084
-5	7176153	7179795	KH_dom_type_1	10.337	+	7176153	7179795	83,88,95	2	33,124	0,3518	PS50084	http://www.expasy.ch/prosite/PS50084

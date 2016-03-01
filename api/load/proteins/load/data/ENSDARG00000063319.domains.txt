@@ -1,8 +1,0 @@
-19	7922786	7922854	Rng_hydrolase-like	381.0	+	7922786	7922854	83,88,95	1	68	0	PR00420	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00420&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00420
-19	7925321	7925368	Rng_hydrolase-like	141.0	+	7925321	7925368	83,88,95	1	47	0	PR00420	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00420&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00420
-19	7926294	7928069	Rng_hydrolase-like	221.0	+	7926294	7928069	83,88,95	2	4,42	0,1733	PR00420	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00420&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00420
-19	7928067	7928117	Rng_hydrolase-like	169.0	+	7928067	7928117	83,88,95	1	50	0	PR00420	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00420&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00420
-19	7925321	7929586	Squalene_epoxidase	331.7	+	7925321	7929586	83,88,95	7	105,171,95,142,96,87,83	0,202,882,2706,2969,4012,4182	PF08491	http://pfam.sanger.ac.uk/family?acc=PF08491
-19	7922786	7928111	mOase_FAD-bd	62.8	+	7922786	7928111	83,88,95	7	169,171,96,113,171,95,84	0,243,499,2527,2737,3417,5241	PF01494	http://pfam.sanger.ac.uk/family?acc=PF01494
-19	7923141	7925386	FAD-dep_OxRdtase	25.2	+	7923141	7925386	83,88,95	3	59,96,73	0,144,2172	PF01266	http://pfam.sanger.ac.uk/family?acc=PF01266
-19	7922789	7922878	Pyr_OxRdtase_NAD-bd_dom	22.4	+	7922789	7922878	83,88,95	1	89	0	PF00070	http://pfam.sanger.ac.uk/family?acc=PF00070

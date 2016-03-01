@@ -1,8 +1,0 @@
-25	34748	34813	Lipase	279.0	-	34748	34813	83,88,95	1	65	0	PR00821	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00821&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00821
-25	35907	35960	Lipase	490.0	-	35907	35960	83,88,95	1	53	0	PR00821	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00821&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00821
-25	36006	36053	Lipase	533.0	-	36006	36053	83,88,95	1	47	0	PR00821	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00821&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00821
-25	38238	38694	Lipase	328.0	-	38238	38694	83,88,95	2	403,451	0,5	PR00821	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00821&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00821
-25	34616	35717	PLAT/LH2_dom	25.8	-	34616	35717	83,88,95	2	987,881	0,220	PF01477	http://pfam.sanger.ac.uk/family?acc=PF01477
-25	35724	37366	Lipase_N	159.4	-	35724	37366	83,88,95	5	1639,-10,-228,-226,1640	0,1378,1224,352,2	PF00151	http://pfam.sanger.ac.uk/family?acc=PF00151
-25	34616	35717	PLAT/LH2_dom	10.322000000000001	-	34616	35717	83,88,95	2	987,881	0,220	PS50095	http://www.expasy.ch/prosite/PS50095
-25	34619	35723	Lipase_LipOase	0.0	-	34619	35723	83,88,95	2	984,887	0,217	SSF49723	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49723

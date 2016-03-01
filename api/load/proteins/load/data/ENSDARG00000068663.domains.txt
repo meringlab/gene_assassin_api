@@ -1,6 +1,0 @@
-9	19966723	19970296	DUF547	123.4	-	19966723	19970296	83,88,95	4	3451,-137,-89,3532	0,3368,240,41	PF04784	http://pfam.sanger.ac.uk/family?acc=PF04784
-9	19981975	19982151	Glutaredoxin	64.0	-	19981975	19982151	83,88,95	1	176	0	PF00462	http://pfam.sanger.ac.uk/family?acc=PF00462
-9	19982095	19982151	Glutaredoxin_subgr	412.0	-	19982095	19982151	83,88,95	1	56	0	PR00160	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00160&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00160
-9	19981984	19982025	Glutaredoxin_subgr	332.0	-	19981984	19982025	83,88,95	1	41	0	PR00160	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00160&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00160
-9	19981825	19981983	Glutaredoxin_subgr	159.0	-	19981825	19981983	83,88,95	2	120,156	0,2	PR00160	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00160&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00160
-9	19981795	19982157	Thioredoxin-like_fold	0.0	-	19981795	19982157	83,88,95	2	150,330	0,32	SSF52833	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52833

@@ -1,7 +1,0 @@
-10	430590	430682	Ankyrin_rpt	19.8	+	430590	430682	83,88,95	1	92	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-10	430162	430251	Ankyrin_rpt	15.6	+	430162	430251	83,88,95	1	89	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-10	428709	428840	LEM_dom	44.8	+	428709	428840	83,88,95	1	131	0	SM00540	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00540
-10	428715	428822	LEM_dom	32.4	+	428715	428822	83,88,95	1	107	0	PF03020	http://pfam.sanger.ac.uk/family?acc=PF03020
-10	428706	428840	LEM_dom	15.37	+	428706	428840	83,88,95	1	134	0	PS50954	http://www.expasy.ch/prosite/PS50954
-10	428709	428867	LEM/LEM-like_dom	0.0	+	428709	428867	83,88,95	1	158	0	SSF63451	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF63451
-10	429793	432531	Ankyrin_rpt-contain_dom	0.0	+	429793	432531	83,88,95	4	107,188,122,20	0,363,797,2718	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403

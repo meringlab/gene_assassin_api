@@ -1,6 +1,0 @@
-8	49303589	49305831	CSP_DNA-bd	95.4	-	49303589	49305831	83,88,95	4	2187,-33,-89,2216	0,1974,1858,26	PF00313	http://pfam.sanger.ac.uk/family?acc=PF00313
-8	49305778	49305825	CSP_DNA-bd	700.0	-	49305778	49305825	83,88,95	1	47	0	PR00050	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00050&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00050
-8	49305439	49305550	CSP_DNA-bd	389.0	-	49305439	49305550	83,88,95	2	91,103	0,8	PR00050	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00050&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00050
-8	49303613	49305411	CSP_DNA-bd	595.0	-	49303613	49305411	83,88,95	2	1745,1796	0,2	PR00050	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00050&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00050
-8	49303586	49305828	Cold_shock_prot	94.3	-	49303586	49305828	83,88,95	4	2190,-33,-89,2213	0,1977,1861,29	SM00357	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00357
-8	49303583	49307929	NA-bd_OB-fold	0.0	-	49303583	49307929	83,88,95	5	4331,-63,-33,-89,4314	0,2256,1980,1864,32	SSF50249	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50249

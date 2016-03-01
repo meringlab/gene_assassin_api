@@ -1,8 +1,0 @@
-16	58136831	58137721	Fibronectin_type3	45.9	-	58136831	58137721	83,88,95	2	767,760	0,130	PF00041	http://pfam.sanger.ac.uk/family?acc=PF00041
-16	58133812	58135544	Fibronectin_type3	36.3	-	58133812	58135544	83,88,95	2	1570,1680	0,52	PF00041	http://pfam.sanger.ac.uk/family?acc=PF00041
-16	58136837	58137727	Fibronectin_type3	44.4	-	58136837	58137727	83,88,95	2	761,766	0,124	SM00060	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00060
-16	58133809	58135568	Fibronectin_type3	32.7	-	58133809	58135568	83,88,95	2	1573,1704	0,55	SM00060	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00060
-16	58136807	58137727	Fibronectin_type3	16.817	-	58136807	58137727	83,88,95	2	791,766	0,154	PS50853	http://www.expasy.ch/prosite/PS50853
-16	58133782	58135568	Fibronectin_type3	14.966	-	58133782	58135568	83,88,95	2	1600,1704	0,82	PS50853	http://www.expasy.ch/prosite/PS50853
-16	58135545	58137778	Fibronectin_type3	0.0	-	58135545	58137778	83,88,95	3	2053,-164,2208	0,1416,25	SSF49265	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49265
-16	58133809	58136824	Fibronectin_type3	0.0	-	58133809	58136824	83,88,95	3	2988,-188,2960	0,1761,55	SSF49265	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49265

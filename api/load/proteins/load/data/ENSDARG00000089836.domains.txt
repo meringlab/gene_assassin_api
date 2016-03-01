@@ -1,9 +1,0 @@
-21	24941485	24941817	Ribosomal_S12_bac	126.8	-	24941485	24941817	83,88,95	1	332	0	TIGR00981	http://www.ebi.ac.uk/interpro/signature/TIGR00981
-21	24941488	24941811	Ribosomal_S12/S23	117.9	-	24941488	24941811	83,88,95	1	323	0	PF00164	http://pfam.sanger.ac.uk/family?acc=PF00164
-21	24941491	24941541	Ribosomal_S12_bac	225.0	-	24941491	24941541	83,88,95	1	50	0	PR01034	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01034&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01034
-21	24941539	24941592	Ribosomal_S12_bac	693.0	-	24941539	24941592	83,88,95	1	53	0	PR01034	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01034&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01034
-21	24941590	24941649	Ribosomal_S12_bac	724.0	-	24941590	24941649	83,88,95	1	59	0	PR01034	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01034&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01034
-21	24941650	24941697	Ribosomal_S12_bac	606.0	-	24941650	24941697	83,88,95	1	47	0	PR01034	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01034&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01034
-21	24941695	24941742	Ribosomal_S12_bac	181.0	-	24941695	24941742	83,88,95	1	47	0	PR01034	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01034&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01034
-21	24941488	24941817	NA-bd_OB-fold	0.0	-	24941488	24941817	83,88,95	1	329	0	SSF50249	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50249
-21	24941485	24941841	Ribosomal_S12/S23	166.4	-	24941485	24941841	83,88,95	1	356	0	PIRSF002133	None

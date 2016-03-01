@@ -1,5 +1,0 @@
-10	36283545	36285642	Dual-sp_phosphatase_cat-dom	83.2	+	36283545	36285642	83,88,95	4	97,97,112,80	0,194,377,2017	PF00782	http://pfam.sanger.ac.uk/family?acc=PF00782
-10	36281419	36283369	Rhodanese-like_dom	28.0	+	36281419	36283369	83,88,95	4	12,61,99,88	0,266,1672,1862	PF00581	http://pfam.sanger.ac.uk/family?acc=PF00581
-10	36283545	36285654	Dual-sp_phosphatase_subgr_cat	26.239	+	36283545	36285654	83,88,95	4	97,97,112,92	0,194,377,2017	PS50054	http://www.expasy.ch/prosite/PS50054
-10	36283518	36285648	Dual-sp_phosphatase_subgr_cat	85.5	+	36283518	36285648	83,88,95	4	124,97,112,86	0,221,404,2044	SM00195	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00195
-10	36281329	36283502	Rhodanese-like_dom	0.0	+	36281329	36283502	83,88,95	5	102,61,99,133,5	0,356,1762,1952,2168	SSF52821	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52821

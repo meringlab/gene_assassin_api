@@ -1,7 +1,0 @@
-5	72980875	72984783	DnaJ_domain	70.8	+	72980875	72984783	83,88,95	2	174,28	0,3880	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226
-5	72980878	72980934	DnaJ_domain	458.0	+	72980878	72980934	83,88,95	1	56	0	PR00625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00625
-5	72980932	72980979	DnaJ_domain	412.0	+	72980932	72980979	83,88,95	1	47	0	PR00625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00625
-5	72981001	72984768	DnaJ_domain	365.0	+	72981001	72984768	83,88,95	2	48,13	0,3754	PR00625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00625
-5	72980869	72984768	DnaJ_domain	80.5	+	72980869	72984768	83,88,95	2	180,13	0,3886	SM00271	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00271
-5	72980872	72984792	DnaJ_domain	18.03	+	72980872	72984792	83,88,95	2	177,37	0,3883	PS50076	http://www.expasy.ch/prosite/PS50076
-5	72980824	72984810	DnaJ_domain	0.0	+	72980824	72984810	83,88,95	2	225,55	0,3931	SSF46565	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46565

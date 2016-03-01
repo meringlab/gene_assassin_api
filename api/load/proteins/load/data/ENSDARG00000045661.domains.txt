@@ -1,7 +1,0 @@
-25	26412716	26413794	Interferon_reg_factor-3	175.6	-	26412716	26413794	83,88,95	3	718,-115,1037	0,240,41	PF10401	http://pfam.sanger.ac.uk/family?acc=PF10401
-25	26415008	26415583	Interferon_reg_fact_DNA-bd_dom	110.7	-	26415008	26415583	83,88,95	2	435,414	0,161	PF00605	http://pfam.sanger.ac.uk/family?acc=PF00605
-25	26415005	26416325	Interferon_reg_fact_DNA-bd_dom	114.7	-	26415005	26416325	83,88,95	3	1319,-156,1156	0,594,164	SM00348	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00348
-25	26415056	26415124	Interferon_reg_fact_DNA-bd_dom	636.0	-	26415056	26415124	83,88,95	1	68	0	PR00267	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00267&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00267
-25	26415134	26415460	Interferon_reg_fact_DNA-bd_dom	388.0	-	26415134	26415460	83,88,95	2	309,291	0,35	PR00267	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00267&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00267
-25	26415524	26415583	Interferon_reg_fact_DNA-bd_dom	503.0	-	26415524	26415583	83,88,95	1	59	0	PR00267	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00267&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00267
-25	26412635	26414128	SMAD_FHA_domain	0.0	-	26412635	26414128	83,88,95	4	1463,-377,-115,1371	0,1176,321,122	SSF49879	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49879

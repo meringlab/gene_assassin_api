@@ -1,4 +1,0 @@
-15	14503	17491	Aspartic_peptidase	493.0	+	14503	17491	83,88,95	2	20,41	0,2947	PR00792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00792
-15	18696	18743	Aspartic_peptidase	265.0	+	18696	18743	83,88,95	1	47	0	PR00792	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00792&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00792
-15	14485	18319	Aspartic_peptidase	52.8	+	14485	18319	83,88,95	4	38,78,208,77	0,2965,3416,3757	PF00026	http://pfam.sanger.ac.uk/family?acc=PF00026
-15	14248	18782	Peptidase_aspartic_dom	0.0	+	14248	18782	83,88,95	7	108,118,78,208,78,154,173	0,157,3202,3653,3994,4174,4361	SSF50630	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50630

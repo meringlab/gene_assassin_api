@@ -1,8 +1,0 @@
-9	6979101	6997921	MFS	143.6	+	6979101	6997921	83,88,95	6	17,87,43,129,209,703	0,989,8537,15183,15407,18117	PF07690	http://pfam.sanger.ac.uk/family?acc=PF07690
-9	6980126	6997243	Sub_transporter	34.6	+	6980126	6997243	83,88,95	5	51,43,129,209,25	0,7512,14158,14382,17092	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083
-9	6979116	6980137	Tet-R_TetA/multi-R_MdtG	287.0	+	6979116	6980137	83,88,95	2	2,47	0,974	PR01035	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01035&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01035
-9	6994320	6994394	Tet-R_TetA/multi-R_MdtG	214.0	+	6994320	6994394	83,88,95	1	74	0	PR01035	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01035&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01035
-9	6994401	6994560	Tet-R_TetA/multi-R_MdtG	183.0	+	6994401	6994560	83,88,95	2	12,52	0,107	PR01035	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01035&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01035
-9	6994585	6994653	Tet-R_TetA/multi-R_MdtG	438.0	+	6994585	6994653	83,88,95	1	68	0	PR01035	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01035&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01035
-9	6979035	6998059	MFS_dom_general_subst_transpt	0.0	+	6979035	6998059	83,88,95	6	83,87,43,129,209,841	0,1055,8603,15249,15473,18183	SSF103473	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF103473
-9	6979086	6998038	MFS_dom	16.12	+	6979086	6998038	83,88,95	6	32,87,43,129,209,820	0,1004,8552,15198,15422,18132	PS50850	http://www.expasy.ch/prosite/PS50850

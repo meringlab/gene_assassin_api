@@ -1,0 +1,9 @@
+#>P	ENSDARG00000091256	ENSDART00000126482	ENSDARP00000106404	Zv9_NA876	3713	7802	1	Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:H9GYG0]
+#>E	ENSDARE00000933745,ENSDARE00000976354,ENSDARE00000979086	1,1,1	3713-4930,5000-5293,7749-7805
+Zv9_NA876	3824	4054	1	SRP_receptor_beta_su	20.8	3824-4054	PF09439	http://pfam.sanger.ac.uk/family?acc=PF09439
+Zv9_NA876	3821	3904	1	T2SS_protein-E	22.4	3821-3904	PF00437	http://pfam.sanger.ac.uk/family?acc=PF00437
+Zv9_NA876	3836	4402	1	AIG1	55.4	3836-4402	PF04548	http://pfam.sanger.ac.uk/family?acc=PF04548
+Zv9_NA876	3836	4075	1	Cell_div_GTP-bd	41.4	3836-4075	PF00735	http://pfam.sanger.ac.uk/family?acc=PF00735
+Zv9_NA876	3863	4213	1	GTP_binding_domain	29.0	3863-4213	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926
+Zv9_NA876	3824	4099	1	Ribosome_biogen_GTPase_RsgA	26.5	3824-4099	PF03193	http://pfam.sanger.ac.uk/family?acc=PF03193
+Zv9_NA876	3830	4054	1	EF_GTP-bd_dom	24.3	3830-4054	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009

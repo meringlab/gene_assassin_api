@@ -1,9 +1,0 @@
-6	8566320	8566960	P-loop_NTPase	0.0	+	8566320	8566960	83,88,95	2	100,66	0,574	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-6	8568601	8569363	P-loop_NTPase	0.0	+	8568601	8569363	83,88,95	2	149,62	0,700	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-6	8566320	8566379	IQ_motif_EF-hand-BS	22.5	+	8566320	8566379	83,88,95	1	59	0	PF00612	http://pfam.sanger.ac.uk/family?acc=PF00612
-6	8568634	8568696	IQ_motif_EF-hand-BS	24.7	+	8568634	8568696	83,88,95	1	62	0	PF00612	http://pfam.sanger.ac.uk/family?acc=PF00612
-6	8566311	8566379	IQ_motif_EF-hand-BS	20.9	+	8566311	8566379	83,88,95	1	68	0	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
-6	8568628	8568696	IQ_motif_EF-hand-BS	33.1	+	8568628	8568696	83,88,95	1	68	0	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
-6	8568715	8569333	IQ_motif_EF-hand-BS	7.2	+	8568715	8569333	83,88,95	2	35,32	0,586	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
-6	8566320	8566403	IQ_motif_EF-hand-BS	9.029	+	8566320	8566403	83,88,95	1	83	0	PS50096	http://www.expasy.ch/prosite/PS50096
-6	8568631	8568720	IQ_motif_EF-hand-BS	9.578	+	8568631	8568720	83,88,95	1	89	0	PS50096	http://www.expasy.ch/prosite/PS50096

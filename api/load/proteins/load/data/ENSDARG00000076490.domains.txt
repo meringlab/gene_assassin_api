@@ -1,6 +1,0 @@
-3	17792244	17794973	Ankyrin_rpt	11.728	+	17792244	17794973	83,88,95	2	7,90	0,2639	PS50088	http://www.expasy.ch/prosite/PS50088
-3	17792244	17794970	Ankyrin_rpt	39.5	+	17792244	17794970	83,88,95	2	7,87	0,2639	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
-3	17792244	17794964	Ankyrin_rpt	41.7	+	17792244	17794964	83,88,95	2	7,81	0,2639	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-3	17792142	17792231	Ankyrin_rpt	7.0	+	17792142	17792231	83,88,95	1	89	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-3	17792118	17794973	Ankyrin_rpt-contain_dom	17.767	+	17792118	17794973	83,88,95	2	133,90	0,2765	PS50297	http://www.expasy.ch/prosite/PS50297
-3	17792157	17794997	Ankyrin_rpt-contain_dom	0.0	+	17792157	17794997	83,88,95	2	94,114	0,2726	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403

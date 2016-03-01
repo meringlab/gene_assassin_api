@@ -1,0 +1,5 @@
+#>P	ENSDARG00000079429	ENSDART00000114900	ENSDARP00000103908	14	4359917	4360825	1	Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:E7F6D2]
+#>E	ENSDARE00000946943	1.0	4359917-4360828
+14	4360016	4360255	1.0	Mitochondrial_sb/sol_carrier	40.7	4360016-4360255	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+14	4360283	4360543	1.0	Mitochondrial_sb/sol_carrier	52.8	4360283-4360543	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+14	4360562	4360822	1.0	Mitochondrial_sb/sol_carrier	34.0	4360562-4360822	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

@@ -1,6 +1,0 @@
-15	42363740	42372304	Peptidase_C1A_C	275.2	-	42363740	42372304	83,88,95	3	8498,-131,8083	0,2181,481	SM00645	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00645
-15	42378150	42383408	CathepsinC_exc	196.6	-	42378150	42383408	83,88,95	3	5159,-145,5151	0,3820,107	PF08773	http://pfam.sanger.ac.uk/family?acc=PF08773
-15	42363743	42372304	Peptidase_C1A_C	216.1	-	42363743	42372304	83,88,95	3	8495,-131,8083	0,2178,478	PF00112	http://pfam.sanger.ac.uk/family?acc=PF00112
-15	42363830	42363850	Peptidase_C1A_C	356.0	-	42363830	42363850	83,88,95	1	20	0	PR00705	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00705&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00705
-15	42363869	42363901	Peptidase_C1A_C	331.0	-	42363869	42363901	83,88,95	1	32	0	PR00705	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00705&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00705
-15	42365878	42372241	Peptidase_C1A_C	474.0	-	42365878	42372241	83,88,95	2	6360,6320	0,43	PR00705	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00705&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00705

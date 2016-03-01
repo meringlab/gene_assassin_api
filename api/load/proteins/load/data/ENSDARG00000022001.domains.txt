@@ -1,8 +1,0 @@
-14	52645148	52656113	Endo/exonuclease/phosphatase	164.9	+	52645148	52656113	83,88,95	6	152,154,154,233,202,152	0,2493,2754,5621,7938,10813	PF03372	http://pfam.sanger.ac.uk/family?acc=PF03372
-14	52638592	52638657	Leu-rich_rpt	11.4	+	52638592	52638657	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-14	52638661	52638726	Leu-rich_rpt	11.8	+	52638661	52638726	83,88,95	1	65	0	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-14	52638730	52640631	Leu-rich_rpt	9.6	+	52638730	52640631	83,88,95	2	7,57	0,1844	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-14	52638655	52638723	Leu-rich_rpt_typical-subtyp	19.6	+	52638655	52638723	83,88,95	1	68	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-14	52638586	52638654	Leu-rich_rpt_typical-subtyp	19.1	+	52638586	52638654	83,88,95	1	68	0	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-14	52638724	52640631	Leu-rich_rpt_typical-subtyp	21.5	+	52638724	52640631	83,88,95	2	13,57	0,1850	SM00369	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00369
-14	52645148	52656119	Endo/exonuclease/phosphatase	0.0	+	52645148	52656119	83,88,95	6	152,154,154,233,202,158	0,2493,2754,5621,7938,10813	SSF56219	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56219

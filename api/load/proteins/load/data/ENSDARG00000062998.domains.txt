@@ -1,4 +1,0 @@
-6	9300808	9302810	Amidase_domain	59.9	+	9300808	9302810	83,88,95	2	136,261	0,1741	PF01510	http://pfam.sanger.ac.uk/family?acc=PF01510
-6	9300775	9302804	Amidase_domain	30.9	+	9300775	9302804	83,88,95	2	169,255	0,1774	SM00644	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00644
-6	9300739	9302783	PGRP_domain_met/bac	185.7	+	9300739	9302783	83,88,95	2	205,234	0,1810	SM00701	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00701
-6	9300736	9304671	Amidase_domain	0.0	+	9300736	9304671	83,88,95	3	208,297,17	0,1813,3918	SSF55846	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55846

@@ -1,9 +1,0 @@
-22	4521536	4521799	Ig_V-set	27.6	-	4521536	4521799	83,88,95	1	263	0	PF07686	http://pfam.sanger.ac.uk/family?acc=PF07686
-22	4521042	4521320	Ig_V-set	23.7	-	4521042	4521320	83,88,95	1	278	0	PF07686	http://pfam.sanger.ac.uk/family?acc=PF07686
-22	4520536	4520799	Ig_V-set	28.9	-	4520536	4520799	83,88,95	1	263	0	PF07686	http://pfam.sanger.ac.uk/family?acc=PF07686
-22	4518720	4519161	Ig_V-set	44.0	-	4518720	4519161	83,88,95	2	144,437	0,4	PF07686	http://pfam.sanger.ac.uk/family?acc=PF07686
-22	4518723	4519164	Ig_sub	22.6	-	4518723	4519164	83,88,95	2	141,440	0,1	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-22	4520506	4521014	Ig_sub	24.6	-	4520506	4521014	83,88,95	2	499,216	0,292	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-22	4521021	4521320	Ig_sub	19.6	-	4521021	4521320	83,88,95	1	299	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-22	4521509	4521811	Ig_sub	24.3	-	4521509	4521811	83,88,95	1	302	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-22	4518450	4518713	Ig-like_dom	10.245	-	4518450	4518713	83,88,95	1	263	0	PS50835	http://www.expasy.ch/prosite/PS50835

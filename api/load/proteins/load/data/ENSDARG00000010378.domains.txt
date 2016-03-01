@@ -1,8 +1,0 @@
-Zv9_scaffold3455	30594	30641	Peptidase_S1A	611.0	-	30594	30641	83,88,95	1	47	0	PR00722	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00722&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00722
-Zv9_scaffold3455	29506	29550	Peptidase_S1A	329.0	-	29506	29550	83,88,95	1	44	0	PR00722	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00722&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00722
-Zv9_scaffold3455	23998	25823	Peptidase_S1A	484.0	-	23998	25823	83,88,95	2	1811,1802	0,23	PR00722	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00722&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00722
-Zv9_scaffold3455	23884	30813	Peptidase_S1	314.8	-	23884	30813	83,88,95	6	6870,-79,-81,-180,-130,6792	0,6781,6586,5696,2055,137	SM00020	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00020
-Zv9_scaffold3455	23884	30810	Peptidase_S1	231.1	-	23884	30810	83,88,95	6	6870,-79,-81,-180,-130,6789	0,6781,6586,5696,2055,137	PF00089	http://pfam.sanger.ac.uk/family?acc=PF00089
-Zv9_scaffold3455	25932	30780	Peptidase_S1A_nudel	37.6	-	25932	30780	83,88,95	5	4822,-79,-81,-180,4841	0,4733,4538,3648,7	PF09342	http://pfam.sanger.ac.uk/family?acc=PF09342
-Zv9_scaffold3455	23869	30810	Peptidase_S1	36.578	-	23869	30810	83,88,95	6	6885,-79,-81,-180,-130,6789	0,6796,6601,5711,2070,152	PS50240	http://www.expasy.ch/prosite/PS50240
-Zv9_scaffold3455	23863	30852	Trypsin-like_Pept_dom	0.0	-	23863	30852	83,88,95	6	6891,-79,-81,-180,-130,6831	0,6802,6607,5717,2076,158	SSF50494	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50494

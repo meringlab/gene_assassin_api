@@ -1,6 +1,0 @@
-14	36112410	36112457	IL-12_beta	524.0	+	36112410	36112457	83,88,95	1	47	0	PR01928	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01928&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01928
-14	36112900	36112935	IL-12_beta	320.0	+	36112900	36112935	83,88,95	1	35	0	PR01928	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01928&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01928
-14	36114165	36114197	IL-12_beta	484.0	+	36114165	36114197	83,88,95	1	32	0	PR01928	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01928&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01928
-14	36111735	36112953	IL-12_beta_cen-dom	99.3	+	36111735	36112953	83,88,95	3	3,102,129	0,670,1089	PF10420	http://pfam.sanger.ac.uk/family?acc=PF10420
-14	36111250	36117012	IL-12_beta	555.1	+	36111250	36117012	83,88,95	7	87,266,102,178,169,109,24	0,222,1155,1574,2850,5010,5738	PIRSF038007	None
-14	36111687	36114101	Fibronectin_type3	0.0	+	36111687	36114101	83,88,95	4	51,102,178,1	0,718,1137,2413	SSF49265	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49265

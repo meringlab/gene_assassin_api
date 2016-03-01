@@ -1,7 +1,0 @@
-8	19109141	19111865	GLA_domain	56.3	+	19109141	19111865	83,88,95	2	98,23	0,2701	PF00594	http://pfam.sanger.ac.uk/family?acc=PF00594
-8	19109222	19111868	GLA_domain	341.0	+	19109222	19111868	83,88,95	2	17,26	0,2620	PR00001	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00001&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00001
-8	19109180	19109221	GLA_domain	485.0	+	19109180	19109221	83,88,95	1	41	0	PR00001	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00001&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00001
-8	19109138	19109179	GLA_domain	516.0	+	19109138	19109179	83,88,95	1	41	0	PR00001	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00001&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00001
-8	19108643	19111865	GLA_domain	109.6	+	19108643	19111865	83,88,95	3	6,160,23	0,436,3199	SM00069	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00069
-8	19109126	19111868	GLA_domain	17.500999999999998	+	19109126	19111868	83,88,95	2	113,26	0,2716	PS50998	http://www.expasy.ch/prosite/PS50998
-8	19109126	19111922	GLA_domain	0.0	+	19109126	19111922	83,88,95	2	113,80	0,2716	SSF57630	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57630

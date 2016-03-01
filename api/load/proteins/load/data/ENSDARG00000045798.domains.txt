@@ -1,8 +1,0 @@
-4	1237031	1241763	Midkine_heparin-bd_GF	161.9	-	1237031	1241763	83,88,95	2	4582,4629	0,103	SM00193	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00193
-4	1223134	1241616	PTN/MK_C_dom	95.1	-	1223134	1241616	83,88,95	3	18479,-158,18451	0,14000,31	PF01091	http://pfam.sanger.ac.uk/family?acc=PF01091
-4	1241617	1243839	PTN/MK_N_dom	88.5	-	1241617	1243839	83,88,95	2	2207,2053	0,169	PF05196	http://pfam.sanger.ac.uk/family?acc=PF05196
-4	1241695	1241769	Midkine_heparin-bd_GF	1178.0	-	1241695	1241769	83,88,95	1	74	0	PR00269	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00269&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00269
-4	1237097	1241652	Midkine_heparin-bd_GF	1427.0	-	1237097	1241652	83,88,95	2	4516,4518	0,37	PR00269	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00269&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00269
-4	1237028	1237078	Midkine_heparin-bd_GF	522.0	-	1237028	1237078	83,88,95	1	50	0	PR00269	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00269&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00269
-4	1237001	1237129	PTN/MK_diS	0.0	-	1237001	1237129	83,88,95	1	128	0	SSF57288	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57288
-4	1241614	1243842	PTN/MK_diS	0.0	-	1241614	1243842	83,88,95	2	2210,2056	0,172	SSF57288	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57288

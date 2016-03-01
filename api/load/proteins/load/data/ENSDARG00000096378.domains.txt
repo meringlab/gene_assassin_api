@@ -1,5 +1,0 @@
-21	200547	200597	Insulin_family	393.0	+	200547	200597	83,88,95	1	50	0	PR00276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00276
-21	203720	203779	Insulin_family	383.0	+	203720	203779	83,88,95	1	59	0	PR00276	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00276&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00276
-21	200547	203779	Insulin-like	31.7	+	200547	203779	83,88,95	2	81,304	0,2928	PF00049	http://pfam.sanger.ac.uk/family?acc=PF00049
-21	200544	203779	Insulin-like	54.5	+	200544	203779	83,88,95	2	84,304	0,2931	SM00078	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00078
-21	200493	203779	Insulin-like	0.0	+	200493	203779	83,88,95	2	135,304	0,2982	SSF56994	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56994

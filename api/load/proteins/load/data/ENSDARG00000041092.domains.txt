@@ -1,6 +1,0 @@
-18	20650655	20655805	Peptidase_C15	86.2	+	20650655	20655805	83,88,95	4	58,116,226,76	0,1189,1467,5074	PF01470	http://pfam.sanger.ac.uk/family?acc=PF01470
-18	20650649	20651850	Peptidase_C15	492.0	+	20650649	20651850	83,88,95	2	64,6	0,1195	PR00706	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00706&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00706
-18	20651956	20652155	Peptidase_C15	285.0	+	20651956	20652155	83,88,95	2	4,33	0,166	PR00706	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00706&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00706
-18	20652324	20655754	Peptidase_C15	364.0	+	20652324	20655754	83,88,95	2	24,25	0,3405	PR00706	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00706&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00706
-18	20650637	20655898	Peptidase_C15-like	0.0	+	20650637	20655898	83,88,95	4	76,116,226,169	0,1207,1485,5092	SSF53182	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF53182
-18	20650652	20655898	Peptidase_C15	87.0	+	20650652	20655898	83,88,95	4	61,116,226,169	0,1192,1470,5077	PIRSF015592	None

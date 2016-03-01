@@ -1,9 +1,0 @@
-19	32137920	32140138	NA-bd_OB-fold	0.0	+	32137920	32140138	83,88,95	4	62,193,141,107	0,1109,1397,2111	SSF50249	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50249
-19	32130745	32137741	Tyr-tRNA-ligase	182.3	+	32130745	32137741	83,88,95	9	35,146,175,129,80,92,135,85,80	0,772,1537,1869,3753,5590,5766,5983,6916	TIGR00234	http://www.ebi.ac.uk/interpro/signature/TIGR00234
-19	32131553	32137717	aa-tRNA-synth_Ic	245.6	+	32131553	32137717	83,88,95	8	110,175,129,80,92,135,85,56	0,729,1061,2945,4782,4958,5175,6108	PF00579	http://pfam.sanger.ac.uk/family?acc=PF00579
-19	32137950	32139377	tRNA-bd_dom	107.1	+	32137950	32139377	83,88,95	3	32,193,60	0,1079,1367	PF01588	http://pfam.sanger.ac.uk/family?acc=PF01588
-19	32131598	32132284	Tyr-tRNA-ligase	319.0	+	32131598	32132284	83,88,95	2	65,2	0,684	PR01040	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01040&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01040
-19	32132705	32134506	Tyr-tRNA-ligase	230.0	+	32132705	32134506	83,88,95	2	38,8	0,1793	PR01040	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01040&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01040
-19	32134510	32134578	Tyr-tRNA-ligase	325.0	+	32134510	32134578	83,88,95	1	68	0	PR01040	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01040&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01040
-19	32136365	32136403	Tyr-tRNA-ligase	185.0	+	32136365	32136403	83,88,95	1	38	0	PR01040	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01040&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01040
-19	32137932	32139386	tRNA-bd_dom	32.623000000000005	+	32137932	32139386	83,88,95	3	50,193,69	0,1097,1385	PS50886	http://www.expasy.ch/prosite/PS50886

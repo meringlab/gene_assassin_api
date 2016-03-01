@@ -1,8 +1,0 @@
-3	30189990	30190028	Nerve_growth_factor-rel	355.0	+	30189990	30190028	83,88,95	1	38	0	PR00268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00268
-3	30190107	30190139	Nerve_growth_factor-rel	515.0	+	30190107	30190139	83,88,95	1	32	0	PR00268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00268
-3	30190179	30190259	Nerve_growth_factor-rel	942.0	+	30190179	30190259	83,88,95	1	80	0	PR00268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00268
-3	30190278	30190316	Nerve_growth_factor-rel	591.0	+	30190278	30190316	83,88,95	1	38	0	PR00268	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00268&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00268
-3	30189978	30190316	Nerve_growth_factor-rel	189.7	+	30189978	30190316	83,88,95	1	338	0	SM00140	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00140
-3	30189993	30190768	Nerve_growth_factor-rel	43.527	+	30189993	30190768	83,88,95	2	336,7	0,768	PS50270	http://www.expasy.ch/prosite/PS50270
-3	30189990	30190768	Nerve_growth_factor-rel	155.9	+	30189990	30190768	83,88,95	2	339,7	0,771	PF00243	http://pfam.sanger.ac.uk/family?acc=PF00243
-3	30189744	30190771	Nerve_growth_factor-like	139.2	+	30189744	30190771	83,88,95	3	81,401,10	0,184,1017	PIRSF001789	None

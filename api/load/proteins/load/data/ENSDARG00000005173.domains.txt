@@ -1,8 +1,0 @@
-11	42370259	42370306	Paired_dom	788.0	-	42370259	42370306	83,88,95	1	47	0	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-11	42370196	42370252	Paired_dom	734.0	-	42370196	42370252	83,88,95	1	56	0	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-11	42370139	42370192	Paired_dom	758.0	-	42370139	42370192	83,88,95	1	53	0	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-11	42369897	42370138	Paired_dom	631.0	-	42369897	42370138	83,88,95	2	200,230	0,11	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-11	42369389	42370318	Paired_dom	249.1	-	42369389	42370318	83,88,95	3	708,-129,904	0,519,25	PF00292	http://pfam.sanger.ac.uk/family?acc=PF00292
-11	42369383	42370318	Paired_dom	62.352	-	42369383	42370318	83,88,95	3	714,-129,904	0,525,31	PS51057	http://www.expasy.ch/prosite/PS51057
-11	42369389	42370318	Paired_dom	316.2	-	42369389	42370318	83,88,95	3	708,-129,904	0,519,25	SM00351	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00351
-11	42369383	42370315	Homeodomain-like	0.0	-	42369383	42370315	83,88,95	3	714,-129,901	0,525,31	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

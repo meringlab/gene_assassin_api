@@ -1,8 +1,0 @@
-3	55635708	55636004	Ig_sub	19.6	+	55635708	55636004	83,88,95	1	296	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-3	55636263	55636469	Ig_sub	6.8	+	55636263	55636469	83,88,95	1	206	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-3	55635353	55635403	ICAM_VCAM_N	251.0	+	55635353	55635403	83,88,95	1	50	0	PR01472	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01472&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01472
-3	55635572	55635719	ICAM_VCAM_N	129.0	+	55635572	55635719	83,88,95	2	3,37	0,110	PR01472	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01472&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01472
-3	55635729	55635776	ICAM_VCAM_N	227.0	+	55635729	55635776	83,88,95	1	47	0	PR01472	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01472&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01472
-3	55635774	55635830	ICAM_VCAM_N	195.0	+	55635774	55635830	83,88,95	1	56	0	PR01472	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01472&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01472
-3	55635687	55635992	Ig-like_dom	9.773	+	55635687	55635992	83,88,95	1	305	0	PS50835	http://www.expasy.ch/prosite/PS50835
-3	55636251	55636472	Ig-like_dom	8.901	+	55636251	55636472	83,88,95	1	221	0	PS50835	http://www.expasy.ch/prosite/PS50835

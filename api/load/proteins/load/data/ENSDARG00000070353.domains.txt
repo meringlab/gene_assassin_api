@@ -1,5 +1,0 @@
-23	36104609	36104953	HoxA13_N	63.5	+	36104609	36104953	83,88,95	1	344	0	PF12284	http://pfam.sanger.ac.uk/family?acc=PF12284
-23	36107011	36107181	Homeobox_dom	63.4	+	36107011	36107181	83,88,95	1	170	0	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
-23	36107008	36107196	Homeobox_dom	81.6	+	36107008	36107196	83,88,95	1	188	0	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-23	36107002	36107184	Homeobox_dom	18.852	+	36107002	36107184	83,88,95	1	182	0	PS50071	http://www.expasy.ch/prosite/PS50071
-23	36105149	36107184	Homeodomain-like	0.0	+	36105149	36107184	83,88,95	2	36,217	0,1818	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

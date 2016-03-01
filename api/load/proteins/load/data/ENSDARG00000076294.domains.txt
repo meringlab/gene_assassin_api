@@ -1,9 +1,0 @@
-14	741834	742429	Glyco_hydro_1	42.6	+	741834	742429	83,88,95	2	14,296	0,299	PF00232	http://pfam.sanger.ac.uk/family?acc=PF00232
-14	742487	743672	Glyco_hydro_1	71.2	+	742487	743672	83,88,95	2	158,191	0,994	PF00232	http://pfam.sanger.ac.uk/family?acc=PF00232
-14	745449	748563	Glyco_hydro_1	194.3	+	745449	748563	83,88,95	2	936,154	0,2960	PF00232	http://pfam.sanger.ac.uk/family?acc=PF00232
-14	746085	746129	Glyco_hydro_1	283.0	+	746085	746129	83,88,95	1	44	0	PR00131	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00131&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00131
-14	746289	746315	Glyco_hydro_1	159.0	+	746289	746315	83,88,95	1	26	0	PR00131	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00131&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00131
-14	746334	746369	Glyco_hydro_1	214.0	+	746334	746369	83,88,95	1	35	0	PR00131	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00131&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00131
-14	748426	748479	Glyco_hydro_1	405.0	+	748426	748479	83,88,95	1	53	0	PR00131	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00131&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00131
-14	743703	748572	Glycoside_hydrolase_SF	0.0	+	743703	748572	83,88,95	3	50,1086,163	0,1596,4706	SSF51445	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51445
-14	741834	743678	Glycoside_hydrolase_SF	0.0	+	741834	743678	83,88,95	3	14,512,197	0,299,1647	SSF51445	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51445

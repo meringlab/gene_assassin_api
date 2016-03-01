@@ -1,9 +1,0 @@
-24	42889026	42889085	Na_channel_asu	838.0	+	42889026	42889085	83,88,95	1	59	0	PR00170	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00170&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00170
-24	42889131	42889172	Na_channel_asu	710.0	+	42889131	42889172	83,88,95	1	41	0	PR00170	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00170&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00170
-24	42740406	42786528	Ion_trans_dom	249.2	+	42740406	42786528	83,88,95	9	7,128,91,244,62,3,63,141,95	0,4059,15569,21529,24772,26354,26588,43577,46027	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
-24	42811452	42819963	Ion_trans_dom	151.6	+	42811452	42819963	83,88,95	4	5,173,356,5	0,7730,8097,8506	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
-24	42867693	42886837	Ion_trans_dom	142.4	+	42867693	42886837	83,88,95	7	48,11,13,122,272,53,107	0,167,1660,2870,15843,17727,19037	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
-24	42887386	42889079	Ion_trans_dom	155.6	+	42887386	42889079	83,88,95	3	89,36,502	0,94,1191	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
-24	42888657	42889094	PKD1_2_channel	24.2	+	42888657	42889094	83,88,95	1	437	0	PF08016	http://pfam.sanger.ac.uk/family?acc=PF08016
-24	42889464	42889532	IQ_motif_EF-hand-BS	28.6	+	42889464	42889532	83,88,95	1	68	0	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
-24	42889467	42889556	IQ_motif_EF-hand-BS	7.766	+	42889467	42889556	83,88,95	1	89	0	PS50096	http://www.expasy.ch/prosite/PS50096

@@ -1,6 +1,0 @@
-10	17622808	17622870	K_chnl_Ca-activ_SK	1031.0	+	17622808	17622870	83,88,95	1	62	0	PR01451	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01451&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01451
-10	17668987	17669043	K_chnl_Ca-activ_SK	960.0	+	17668987	17669043	83,88,95	1	56	0	PR01451	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01451&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01451
-10	17622808	17669040	K_chnl_Ca-activ_SK	185.5	+	17622808	17669040	83,88,95	3	126,95,130	0,4447,46102	PF03530	http://pfam.sanger.ac.uk/family?acc=PF03530
-10	17672719	17704300	CaM-bd_dom	115.7	+	17672719	17704300	83,88,95	4	18,127,69,10	0,2417,27367,31571	PF02888	http://pfam.sanger.ac.uk/family?acc=PF02888
-10	17669284	17672676	2pore_dom_K_chnl_dom	51.9	+	17669284	17672676	83,88,95	3	44,141,49	0,1991,3343	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
-10	17672668	17704297	CaM-bd_dom	0.0	+	17672668	17704297	83,88,95	4	69,127,69,7	0,2468,27418,31622	SSF81327	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81327

@@ -1,0 +1,6 @@
+#>P	ENSDARG00000074958	ENSDART00000109802	ENSDARP00000107317	Zv9_NA631	3423	4694	1	somatostatin receptor 3 [Source:HGNC Symbol;Acc:HGNC:11332]
+#>E	ENSDARE00000816511	1.0	3423-4697
+Zv9_NA631	3615	4364	1.0	GPCR_Rhodpsn	226.2	3615-4364	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
+Zv9_NA631	3597	4406	1.0	7TM_GPCR_olfarory/Srsx	62.2	3597-4406	PF10320	http://pfam.sanger.ac.uk/family?acc=PF10320
+Zv9_NA631	3828	4409	1.0	7TM_GPCR_serpentine_rcpt_Srv	34.6	3828-4409	PF10323	http://pfam.sanger.ac.uk/family?acc=PF10323
+Zv9_NA631	3588	4208	1.0	7TM_GPCR_serpentine_rcpt_Srx	32.0	3588-4208	PF10328	http://pfam.sanger.ac.uk/family?acc=PF10328

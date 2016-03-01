@@ -1,9 +1,0 @@
-7	15319465	15319530	Kinesin_motor_dom	795.0	-	15319465	15319530	83,88,95	1	65	0	PR00380	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00380&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00380
-7	15311231	15311284	Kinesin_motor_dom	500.0	-	15311231	15311284	83,88,95	1	53	0	PR00380	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00380&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00380
-7	15311117	15311173	Kinesin_motor_dom	463.0	-	15311117	15311173	83,88,95	1	56	0	PR00380	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00380&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00380
-7	15308507	15311017	Kinesin_motor_dom	792.0	-	15308507	15311017	83,88,95	2	2482,2474	0,36	PR00380	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00380&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00380
-7	15308396	15319746	Kinesin_motor_dom	513.8	-	15308396	15319746	83,88,95	4	11059,-200,-387,11203	0,6574,2980,147	SM00129	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00129
-7	15308420	15319722	Kinesin_motor_dom	349.7	-	15308420	15319722	83,88,95	4	11035,-200,-387,11179	0,6550,2956,123	PF00225	http://pfam.sanger.ac.uk/family?acc=PF00225
-7	15311081	15319749	Kinesin_motor_dom	50.215	-	15311081	15319749	83,88,95	3	8374,-200,8373	0,3889,295	PS50067	http://www.expasy.ch/prosite/PS50067
-7	15308288	15319740	P-loop_NTPase	0.0	-	15308288	15319740	83,88,95	4	11167,-200,-387,11197	0,6682,3088,255	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-7	15282628	15289284	Prefoldin	0.0	-	15282628	15289284	83,88,95	2	6546,6492	0,164	SSF46579	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46579

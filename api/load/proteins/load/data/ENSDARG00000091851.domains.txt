@@ -1,5 +1,0 @@
-11	575029	580926	tRNA_splic	66.1	-	575029	580926	83,88,95	6	5883,-138,-36,-111,-89,5880	0,4377,3167,2514,1526,17	TIGR00324	http://www.ebi.ac.uk/interpro/signature/TIGR00324
-11	579380	583252	tRNA_intron_Endonuc_N	41.7	-	579380	583252	83,88,95	3	3816,-50,3846	0,1582,26	PF02778	http://pfam.sanger.ac.uk/family?acc=PF02778
-11	576514	579352	tRNA_intron_Endonuc_cat-like	68.9	-	576514	579352	83,88,95	4	2754,-36,-111,2797	0,1682,1029,41	PF01974	http://pfam.sanger.ac.uk/family?acc=PF01974
-11	576514	579358	tRNA_intron_Endonuc_cat-like	0.0	-	576514	579358	83,88,95	4	2754,-36,-111,2803	0,1682,1029,41	SSF53032	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF53032
-11	579338	580938	ConA-like_lec_gl_sf	0.0	-	579338	580938	83,88,95	2	1574,1532	0,68	SSF49899	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49899

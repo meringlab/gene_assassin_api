@@ -1,4 +1,0 @@
-22	10312218	10318509	Transketolase-like_Pyr-bd	160.2	+	10312218	10318509	83,88,95	6	2,107,62,35,285,28	0,3585,3779,4447,5908,6263	PF02779	http://pfam.sanger.ac.uk/family?acc=PF02779
-22	10318567	10322323	Transketolase_C	129.7	+	10318567	10322323	83,88,95	4	24,91,141,106	0,2036,3248,3650	PF02780	http://pfam.sanger.ac.uk/family?acc=PF02780
-22	10315803	10318515	Transketolase-like_Pyr-bd	218.7	+	10315803	10318515	83,88,95	5	107,62,35,285,34	0,194,862,2323,2678	SM00861	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00861
-22	10318555	10322359	Transketo_C/Pyr-ferredox_oxred	0.0	+	10318555	10322359	83,88,95	4	36,91,141,142	0,2048,3260,3662	SSF52922	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52922

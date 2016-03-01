@@ -1,9 +1,0 @@
-19	7663936	7664271	Ig_sub	33.5	-	7663936	7664271	83,88,95	1	335	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-19	7662493	7662789	Ig_sub	13.5	-	7662493	7662789	83,88,95	1	296	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-19	7663975	7664283	Ig_V-set	24.0	-	7663975	7664283	83,88,95	1	308	0	PF07686	http://pfam.sanger.ac.uk/family?acc=PF07686
-19	7662526	7662756	Ig_C1-set	22.0	-	7662526	7662756	83,88,95	1	230	0	PF07654	http://pfam.sanger.ac.uk/family?acc=PF07654
-19	7664140	7664193	Tapasin	392.0	-	7664140	7664193	83,88,95	1	53	0	PR01669	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01669&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01669
-19	7662595	7662654	Tapasin	306.0	-	7662595	7662654	83,88,95	1	59	0	PR01669	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01669&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01669
-19	7661859	7662540	Tapasin	330.0	-	7661859	7662540	83,88,95	2	633,656	0,25	PR01669	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01669&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01669
-19	7663984	7664872	Ig-like_dom	7.921	-	7663984	7664872	83,88,95	2	882,578	0,310	PS50835	http://www.expasy.ch/prosite/PS50835
-19	7662499	7662810	Ig-like_dom	10.68	-	7662499	7662810	83,88,95	1	311	0	PS50835	http://www.expasy.ch/prosite/PS50835

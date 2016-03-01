@@ -1,0 +1,6 @@
+#>P	ENSDARG00000078283	ENSDART00000151251	ENSDARP00000126191	6	61796	65739	-1	leucine rich repeat containing 8 family, member E [Source:HGNC Symbol;Acc:HGNC:26272]
+#>E	ENSDARE00001113836,ENSDARE00001072276	0,0	61793-64027,65599-65739
+6	62165	62221	-1	Leu-rich_rpt	11.0	62165-62221	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+6	63692	63865	-1	LRR_protein-8_N	66.1	63692-63865	PF12534	http://pfam.sanger.ac.uk/family?acc=PF12534
+6	63989	65739	-1	LRR_protein-8_N	78.9	63989-64027,65599-65739	PF12534	http://pfam.sanger.ac.uk/family?acc=PF12534
+6	62096	62155	-1	Leu-rich_rpt	17.0	62096-62155	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560

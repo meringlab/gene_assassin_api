@@ -1,8 +1,0 @@
-21	26679176	26679208	MKP	277.0	+	26679176	26679208	83,88,95	1	32	0	PR01764	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01764&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01764
-21	26680353	26680385	MKP	205.0	+	26680353	26680385	83,88,95	1	32	0	PR01764	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01764&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01764
-21	26680419	26680448	MKP	265.0	+	26680419	26680448	83,88,95	1	29	0	PR01764	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01764&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01764
-21	26680467	26681003	MKP	284.0	+	26680467	26681003	83,88,95	2	27,10	0,526	PR01764	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01764&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01764
-21	26680296	26681189	Dual-sp_phosphatase_cat-dom	133.2	+	26680296	26681189	83,88,95	2	198,196	0,697	PF00782	http://pfam.sanger.ac.uk/family?acc=PF00782
-21	26680461	26681138	Tyr/Dual-sp_Pase	15.71	+	26680461	26681138	83,88,95	2	33,145	0,532	PS50056	http://www.expasy.ch/prosite/PS50056
-21	26680272	26681198	Dual-sp_phosphatase_subgr_cat	44.048	+	26680272	26681198	83,88,95	2	222,205	0,721	PS50054	http://www.expasy.ch/prosite/PS50054
-21	26680272	26681192	Dual-sp_phosphatase_subgr_cat	191.0	+	26680272	26681192	83,88,95	2	222,199	0,721	SM00195	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00195

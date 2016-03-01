@@ -1,9 +1,0 @@
-21	28967315	28967574	Bromodomain	127.0	+	28967315	28967574	83,88,95	2	1,39	0,220	PR00503	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00503&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00503
-21	28967575	28976110	Bromodomain	486.0	+	28967575	28976110	83,88,95	2	28,21	0,8514	PR00503	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00503&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00503
-21	28976108	28976164	Bromodomain	261.0	+	28976108	28976164	83,88,95	1	56	0	PR00503	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00503&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00503
-21	28976162	28976221	Bromodomain	439.0	+	28976162	28976221	83,88,95	1	59	0	PR00503	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00503&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00503
-21	28967249	28976278	Bromodomain	143.3	+	28967249	28976278	83,88,95	3	67,68,189	0,286,8840	SM00297	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00297
-21	28964599	28976311	Bromodomain	0.0	+	28964599	28976311	83,88,95	4	31,92,68,222	0,2625,2936,11490	SSF47370	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47370
-21	28941250	28945310	Peptidase_M20_dimer	0.0	+	28941250	28945310	83,88,95	3	46,122,54	0,3816,4006	SSF55031	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55031
-21	28967309	28976233	Bromodomain	78.5	+	28967309	28976233	83,88,95	3	7,68,144	0,226,8780	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439
-21	28967306	28976221	Bromodomain	18.612000000000002	+	28967306	28976221	83,88,95	3	10,68,132	0,229,8783	PS50014	http://www.expasy.ch/prosite/PS50014

@@ -1,8 +1,0 @@
-8	7930974	7934607	Znf_UBP	18.608	-	7930974	7934607	83,88,95	2	3574,3508	0,125	PS50271	http://www.expasy.ch/prosite/PS50271
-8	7931007	7934604	Znf_UBP	58.3	-	7931007	7934604	83,88,95	2	3541,3505	0,92	SM00290	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00290
-8	7960482	7972902	His_deacetylse_dom	307.8	-	7960482	7972902	83,88,95	12	12416,-84,-40,-96,-97,-104,-68,-126,-65,-59,-89,12367	0,12138,11968,11796,9410,9201,7284,7117,4826,4679,234,53	PF00850	http://pfam.sanger.ac.uk/family?acc=PF00850
-8	7944136	7957070	His_deacetylse_dom	325.9	-	7944136	7957070	83,88,95	7	12921,-128,-168,-202,-192,-149,12878	0,11556,8796,8536,2726,434,56	PF00850	http://pfam.sanger.ac.uk/family?acc=PF00850
-8	7930971	7934601	Znf_UBP	67.3	-	7930971	7934601	83,88,95	2	3577,3502	0,128	PF02148	http://pfam.sanger.ac.uk/family?acc=PF02148
-8	7952574	7952645	His_deacetylse	579.0	-	7952574	7952645	83,88,95	1	71	0	PR01270	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01270&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01270
-8	7952493	7952540	His_deacetylse	636.0	-	7952493	7952540	83,88,95	1	47	0	PR01270	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01270&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01270
-8	7944532	7944564	His_deacetylse	293.0	-	7944532	7944564	83,88,95	1	32	0	PR01270	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01270&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01270

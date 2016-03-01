@@ -1,9 +1,0 @@
-14	22784865	22784954	Ankyrin_rpt	18.1	+	22784865	22784954	83,88,95	1	89	0	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-14	22784964	22792075	Ankyrin_rpt	14.7	+	22784964	22792075	83,88,95	2	12,73	0,7038	SM00248	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00248
-14	22809527	22809586	Ubiquitin-int_motif	19.2	+	22809527	22809586	83,88,95	1	59	0	SM00726	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00726
-14	22811318	22816805	Ubiquitin-int_motif	14.0	+	22811318	22816805	83,88,95	2	22,36	0,5451	SM00726	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00726
-14	22816923	22816982	Ubiquitin-int_motif	17.8	+	22816923	22816982	83,88,95	1	59	0	SM00726	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00726
-14	22784865	22784963	Ankyrin_rpt	9.057	+	22784865	22784963	83,88,95	1	98	0	PS50088	http://www.expasy.ch/prosite/PS50088
-14	22784673	22792057	Ankyrin_rpt-contain_dom	17.051	+	22784673	22792057	83,88,95	3	77,135,55	0,168,7329	PS50297	http://www.expasy.ch/prosite/PS50297
-14	22796603	22809490	ANKRD13	345.4	+	22796603	22809490	83,88,95	9	78,189,66,81,61,130,157,113,67	0,4015,4279,4451,6221,7976,8199,11509,12820	PF11904	http://pfam.sanger.ac.uk/family?acc=PF11904
-14	22784670	22792060	Ankyrin_rpt-contain_dom	0.0	+	22784670	22792060	83,88,95	3	80,135,58	0,171,7332	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403

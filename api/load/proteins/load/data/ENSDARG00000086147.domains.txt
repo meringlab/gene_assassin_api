@@ -1,8 +1,0 @@
-24	43351437	43351493	MAM_dom	483.0	-	43351437	43351493	83,88,95	1	56	0	PR00020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00020
-24	43323396	43323446	MAM_dom	308.0	-	43323396	43323446	83,88,95	1	50	0	PR00020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00020
-24	43323330	43323365	MAM_dom	212.0	-	43323330	43323365	83,88,95	1	35	0	PR00020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00020
-24	43317809	43323209	MAM_dom	413.0	-	43317809	43323209	83,88,95	2	5371,5386	0,14	PR00020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00020
-24	43317746	43351514	MAM_dom	95.5	-	43317746	43351514	83,88,95	3	33651,-274,33691	0,5708,77	PF00629	http://pfam.sanger.ac.uk/family?acc=PF00629
-24	43316760	43351520	MAM_dom	125.3	-	43316760	43351520	83,88,95	4	34637,-274,-78,34756	0,6694,1063,4	SM00137	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00137
-24	43316760	43351517	ConA-like_lec_gl_sf	0.0	-	43316760	43351517	83,88,95	4	34637,-274,-78,34753	0,6694,1063,4	SSF49899	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49899
-24	43316760	43351520	MAM_dom	24.131999999999998	-	43316760	43351520	83,88,95	4	34637,-274,-78,34756	0,6694,1063,4	PS50060	http://www.expasy.ch/prosite/PS50060

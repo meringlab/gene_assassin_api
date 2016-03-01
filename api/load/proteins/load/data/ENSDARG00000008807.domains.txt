@@ -1,6 +1,0 @@
-2	22098429	22105296	Blc2_fam	90.3	+	22098429	22105296	83,88,95	3	12,128,163	0,1663,6704	PF00452	http://pfam.sanger.ac.uk/family?acc=PF00452
-2	22105138	22105224	Blc2_fam	410.0	+	22105138	22105224	83,88,95	1	86	0	PR01862	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01862&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01862
-2	22100187	22105137	Blc2_fam	175.0	+	22100187	22105137	83,88,95	2	33,4	0,4946	PR01862	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01862&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01862
-2	22105225	22107449	Blc2_fam	472.0	+	22105225	22107449	83,88,95	2	71,2	0,2222	PR01862	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01862&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01862
-2	22098429	22107452	Bcl2-like	17.674	+	22098429	22107452	83,88,95	4	12,128,163,5	0,1663,6704,9018	PS50062	http://www.expasy.ch/prosite/PS50062
-2	22098309	22098368	Bcl2_BH4	8.684	+	22098309	22098368	83,88,95	1	59	0	PS50063	http://www.expasy.ch/prosite/PS50063

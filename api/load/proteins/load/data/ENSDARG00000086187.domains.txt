@@ -1,3 +1,0 @@
-25	595592	603169	Neurotrans-gated_channel_TM	188.2	+	595592	603169	83,88,95	5	84,86,112,306,163	0,2051,4129,7077,7414	PF02932	http://pfam.sanger.ac.uk/family?acc=PF02932
-25	595571	603432	Neurotrans-gated_channel_TM	0.0	+	595571	603432	83,88,95	6	105,86,112,306,176,22	0,2072,4150,7098,7435,7839	SSF90112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF90112
-25	595487	595573	Neur_chan_lig-bd	0.0	+	595487	595573	83,88,95	1	86	0	SSF63712	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF63712

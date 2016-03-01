@@ -1,7 +1,0 @@
-21	36914968	36915009	GLA_domain	534.0	-	36914968	36915009	83,88,95	1	41	0	PR00001	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00001&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00001
-21	36914926	36914967	GLA_domain	472.0	-	36914926	36914967	83,88,95	1	41	0	PR00001	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00001&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00001
-21	36912191	36914925	GLA_domain	240.0	-	36912191	36914925	83,88,95	2	2717,2708	0,26	PR00001	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00001&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00001
-21	36912203	36915006	GLA_domain	48.1	-	36912203	36915006	83,88,95	2	2705,2789	0,14	PF00594	http://pfam.sanger.ac.uk/family?acc=PF00594
-21	36912185	36915072	GLA_domain	90.9	-	36912185	36915072	83,88,95	2	2723,2855	0,32	SM00069	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00069
-21	36912191	36915021	GLA_domain	14.318	-	36912191	36915021	83,88,95	2	2717,2804	0,26	PS50998	http://www.expasy.ch/prosite/PS50998
-21	36912203	36915021	GLA_domain	0.0	-	36912203	36915021	83,88,95	2	2705,2804	0,14	SSF57630	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57630

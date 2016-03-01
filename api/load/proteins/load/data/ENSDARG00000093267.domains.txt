@@ -1,8 +1,0 @@
-13	6728626	6728658	K_chnl_volt-dep_EAG/ELK/ERG	262.0	-	6728626	6728658	83,88,95	1	32	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
-13	6726964	6727017	K_chnl_volt-dep_EAG/ELK/ERG	545.0	-	6726964	6727017	83,88,95	1	53	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
-13	6724412	6724447	K_chnl_volt-dep_EAG/ELK/ERG	183.0	-	6724412	6724447	83,88,95	1	35	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
-13	6723905	6723928	K_chnl_volt-dep_EAG/ELK/ERG	244.0	-	6723905	6723928	83,88,95	1	23	0	PR01463	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01463&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01463
-13	6724367	6727017	2pore_dom_K_chnl_dom	29.7	-	6724367	6727017	83,88,95	2	2572,2571	0,79	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
-13	6721272	6722715	cNMP-bd_dom	10.292	-	6721272	6722715	83,88,95	2	1398,1409	0,34	PS50042	http://www.expasy.ch/prosite/PS50042
-13	6723734	6724357	cNMP-bd-like	0.0	-	6723734	6724357	83,88,95	3	569,-161,619	0,253,4	SSF51206	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51206
-13	6721272	6722754	cNMP-bd-like	0.0	-	6721272	6722754	83,88,95	2	1398,1448	0,34	SSF51206	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51206

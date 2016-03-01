@@ -1,9 +1,0 @@
-12	46825994	46826041	Paired_dom	815.0	-	46825994	46826041	83,88,95	1	47	0	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-12	46825931	46825987	Paired_dom	844.0	-	46825931	46825987	83,88,95	1	56	0	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-12	46824230	46825927	Paired_dom	848.0	-	46824230	46825927	83,88,95	2	1657,1685	0,12	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-12	46824176	46824229	Paired_dom	776.0	-	46824176	46824229	83,88,95	1	53	0	PR00027	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00027&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00027
-12	46753026	46776854	Pax2_C	169.0	-	46753026	46776854	83,88,95	4	23765,-101,-86,23761	0,6451,2702,67	PF12403	http://pfam.sanger.ac.uk/family?acc=PF12403
-12	46807677	46826050	Paired_dom	243.9	-	46807677	46826050	83,88,95	3	18210,-197,18364	0,16565,9	PF00292	http://pfam.sanger.ac.uk/family?acc=PF00292
-12	46807677	46826053	Paired_dom	335.9	-	46807677	46826053	83,88,95	3	18210,-197,18367	0,16565,9	SM00351	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00351
-12	46807671	46826053	Paired_dom	64.822	-	46807671	46826053	83,88,95	3	18216,-197,18367	0,16571,15	PS51057	http://www.expasy.ch/prosite/PS51057
-12	46807674	46826050	Homeodomain-like	0.0	-	46807674	46826050	83,88,95	3	18213,-197,18364	0,16568,12	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

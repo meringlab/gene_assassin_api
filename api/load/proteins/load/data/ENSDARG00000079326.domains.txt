@@ -1,6 +1,0 @@
-8	54171233	54171334	TPR_repeat	5.4	-	54171233	54171334	83,88,95	1	101	0	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-8	54188030	54190566	TPR_repeat	8.6	-	54188030	54190566	83,88,95	2	2495,2477	0,59	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-8	54206589	54206690	TPR_repeat	1.7	-	54206589	54206690	83,88,95	1	101	0	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-8	54206691	54208091	TPR_repeat	17.8	-	54206691	54208091	83,88,95	2	1323,1377	0,23	SM00028	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00028
-8	54057939	54059367	MEF2_binding	81.4	-	54057939	54059367	83,88,95	2	1375,1378	0,50	PF09047	http://pfam.sanger.ac.uk/family?acc=PF09047
-8	54206589	54208091	TPR-contain_dom	11.046	-	54206589	54208091	83,88,95	2	1425,1377	0,125	PS50293	http://www.expasy.ch/prosite/PS50293

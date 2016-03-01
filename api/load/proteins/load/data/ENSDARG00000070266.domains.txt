@@ -1,8 +1,0 @@
-1	19460389	19476403	SPARC/Testican_Ca-bd-dom	101.3	+	19460389	19476403	83,88,95	3	3,113,205	0,14977,15809	PF10591	http://pfam.sanger.ac.uk/family?acc=PF10591
-1	19479293	19481858	Thyroglobulin_1	58.4	+	19479293	19481858	83,88,95	2	54,136	0,2429	PF00086	http://pfam.sanger.ac.uk/family?acc=PF00086
-1	19459980	19460358	Kazal_dom	39.6	+	19459980	19460358	83,88,95	2	59,65	0,313	PF07648	http://pfam.sanger.ac.uk/family?acc=PF07648
-1	19459977	19460358	Kazal_dom	33.1	+	19459977	19460358	83,88,95	2	62,65	0,316	PF00050	http://pfam.sanger.ac.uk/family?acc=PF00050
-1	19481730	19486166	Thyroglobulin_1	73.5	+	19481730	19486166	83,88,95	2	129,10	0,4426	SM00211	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00211
-1	19459968	19460358	Kazal_dom	55.5	+	19459968	19460358	83,88,95	2	71,65	0,325	SM00280	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00280
-1	19479284	19481858	Thyroglobulin_1	12.0	+	19479284	19481858	83,88,95	2	63,136	0,2438	PS51162	http://www.expasy.ch/prosite/PS51162
-1	19479284	19486163	Thyroglobulin_1	0.0	+	19479284	19486163	83,88,95	3	63,137,7	0,2438,6872	SSF57610	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57610

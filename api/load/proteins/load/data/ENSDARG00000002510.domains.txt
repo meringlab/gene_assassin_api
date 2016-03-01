@@ -1,6 +1,0 @@
-6	3371440	3371481	OAR_dom	8.587	-	3371440	3371481	83,88,95	1	41	0	PS50803	http://www.expasy.ch/prosite/PS50803
-6	3374120	3375531	Homeobox_dom	20.115	-	3374120	3375531	83,88,95	2	1268,1373	0,38	PS50071	http://www.expasy.ch/prosite/PS50071
-6	3374123	3375522	Homeobox_dom	78.5	-	3374123	3375522	83,88,95	2	1265,1364	0,35	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
-6	3371434	3371490	OAR_dom	25.5	-	3371434	3371490	83,88,95	1	56	0	PF03826	http://pfam.sanger.ac.uk/family?acc=PF03826
-6	3374108	3375525	Homeobox_dom	101.7	-	3374108	3375525	83,88,95	2	1280,1367	0,50	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-6	3374087	3375552	Homeodomain-like	0.0	-	3374087	3375552	83,88,95	2	1301,1394	0,71	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

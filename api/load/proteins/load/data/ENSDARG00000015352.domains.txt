@@ -1,4 +1,0 @@
-11	35033659	35035764	GTP_binding_domain	518.0	+	35033659	35035764	83,88,95	2	8,53	0,2052	PR00326	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00326&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00326
-11	35036053	35036100	GTP_binding_domain	137.0	+	35036053	35036100	83,88,95	1	47	0	PR00326	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00326&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00326
-11	35035729	35036094	GTP_binding_domain	32.5	+	35035729	35036094	83,88,95	2	83,68	0,297	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926
-11	35031358	35038211	P-loop_NTPase	0.0	+	35031358	35038211	83,88,95	8	46,60,176,356,101,143,123,40	0,1217,1363,1953,4353,4668,5002,6813	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

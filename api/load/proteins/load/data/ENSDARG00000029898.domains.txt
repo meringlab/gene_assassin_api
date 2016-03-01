@@ -1,5 +1,0 @@
-1	44277450	44277725	cNMP-bd_dom	64.9	-	44277450	44277725	83,88,95	1	275	0	PF00027	http://pfam.sanger.ac.uk/family?acc=PF00027
-1	44278029	44279015	Ion_trans_dom	46.7	-	44278029	44279015	83,88,95	2	929,463	0,523	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
-1	44277408	44277782	cNMP-bd_dom	99.9	-	44277408	44277782	83,88,95	1	374	0	SM00100	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00100
-1	44277462	44277782	cNMP-bd_dom	23.135	-	44277462	44277782	83,88,95	1	320	0	PS50042	http://www.expasy.ch/prosite/PS50042
-1	44277402	44278007	cNMP-bd-like	0.0	-	44277402	44278007	83,88,95	1	605	0	SSF51206	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51206

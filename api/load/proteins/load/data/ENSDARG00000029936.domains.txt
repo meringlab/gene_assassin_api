@@ -1,4 +1,0 @@
-1	62336	64468	Rab-GTPase-TBC_dom	107.7	-	62336	64468	83,88,95	3	2006,-124,2046	0,1164,86	PF00566	http://pfam.sanger.ac.uk/family?acc=PF00566
-1	62118	64489	Rab-GTPase-TBC_dom	-5.5	-	62118	64489	83,88,95	4	2224,-124,-96,2367	0,1382,304,4	SM00164	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00164
-1	62118	64480	Rab-GTPase-TBC_dom	21.605	-	62118	64480	83,88,95	4	2224,-124,-96,2358	0,1382,304,4	PS50086	http://www.expasy.ch/prosite/PS50086
-1	62327	64828	Rab-GTPase-TBC_dom	0.0	-	62327	64828	83,88,95	4	2429,-158,-124,2406	0,2173,1173,95	SSF47923	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47923

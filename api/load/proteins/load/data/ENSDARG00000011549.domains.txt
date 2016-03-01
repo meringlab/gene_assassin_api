@@ -1,8 +1,0 @@
-23	28642217	28663931	C1q	118.9	-	28642217	28663931	83,88,95	2	21508,21544	0,170	PF00386	http://pfam.sanger.ac.uk/family?acc=PF00386
-23	28663827	28663907	C1q	383.0	-	28663827	28663907	83,88,95	1	80	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-23	28663767	28663826	C1q	638.0	-	28663767	28663826	83,88,95	1	59	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-23	28642277	28642342	C1q	412.0	-	28642277	28642342	83,88,95	1	65	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-23	28642214	28642246	C1q	356.0	-	28642214	28642246	83,88,95	1	32	0	PR00007	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00007&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00007
-23	28642208	28663955	C1q	126.3	-	28642208	28663955	83,88,95	2	21517,21568	0,179	SM00110	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00110
-23	28642208	28663949	C1q	31.635	-	28642208	28663949	83,88,95	2	21517,21562	0,179	PS50871	http://www.expasy.ch/prosite/PS50871
-23	28642208	28663943	Tumour_necrosis_fac-like_dom	0.0	-	28642208	28663943	83,88,95	2	21517,21556	0,179	SSF49842	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49842

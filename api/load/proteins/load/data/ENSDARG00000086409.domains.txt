@@ -1,8 +1,0 @@
-Zv9_NA939	2148	2189	Ser-Thr/Tyr_kinase_cat_dom	248.0	+	2148	2189	83,88,95	1	41	0	PR00109	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00109&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00109
-Zv9_NA939	4298	4354	Ser-Thr/Tyr_kinase_cat_dom	654.0	+	4298	4354	83,88,95	1	56	0	PR00109	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00109&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00109
-Zv9_NA939	2076	4459	Ser-Thr/Tyr_kinase_cat_dom	125.4	+	2076	4459	83,88,95	2	173,170	0,2213	PF07714	http://pfam.sanger.ac.uk/family?acc=PF07714
-Zv9_NA939	2076	4429	Prot_kinase_dom	77.5	+	2076	4429	83,88,95	2	173,140	0,2213	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
-Zv9_NA939	2076	4462	Ser/Thr_dual-sp_kinase_dom	-98.2	+	2076	4462	83,88,95	2	173,173	0,2213	SM00220	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00220
-Zv9_NA939	2076	4462	Tyr_kinase_cat_dom	-13.3	+	2076	4462	83,88,95	2	173,173	0,2213	SM00219	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00219
-Zv9_NA939	2076	4468	Prot_kinase_dom	21.261999999999997	+	2076	4468	83,88,95	2	173,179	0,2213	PS50011	http://www.expasy.ch/prosite/PS50011
-Zv9_NA939	2076	4417	Kinase-like_dom	0.0	+	2076	4417	83,88,95	2	173,128	0,2213	SSF56112	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56112

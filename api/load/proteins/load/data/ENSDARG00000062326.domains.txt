@@ -1,4 +1,0 @@
-5	24753080	24755242	HMGN_fam	61.9	+	24753080	24755242	83,88,95	7	11,26,29,35,47,107,26	0,868,1211,1379,1504,1694,2136	PF01101	http://pfam.sanger.ac.uk/family?acc=PF01101
-5	24753966	24754464	HMGN_fam	515.0	+	24753966	24754464	83,88,95	3	8,29,5	0,325,493	PR00925	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00925&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00925
-5	24754852	24755218	HMGN_fam	309.0	+	24754852	24755218	83,88,95	2	29,2	0,364	PR00925	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00925&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00925
-5	24753080	24755236	HMGN_fam	86.8	+	24753080	24755236	83,88,95	7	11,26,29,35,47,107,20	0,868,1211,1379,1504,1694,2136	SM00527	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00527

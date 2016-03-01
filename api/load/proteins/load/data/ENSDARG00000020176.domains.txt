@@ -1,8 +1,0 @@
-19	204967	207196	BTB_POZ	82.7	-	204967	207196	83,88,95	2	2113,2035	0,194	PF00651	http://pfam.sanger.ac.uk/family?acc=PF00651
-19	203985	204053	Znf_C2H2	20.9	-	203985	204053	83,88,95	1	68	0	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
-19	203907	203969	Znf_C2H2-like	8.0	-	203907	203969	83,88,95	1	62	0	SM00355	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00355
-19	203985	204053	Znf_C2H2-like	26.4	-	203985	204053	83,88,95	1	68	0	SM00355	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00355
-19	204964	207166	BTB/POZ-like	86.0	-	204964	207166	83,88,95	2	2116,2005	0,197	SM00225	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00225
-19	205054	207166	BTB/POZ-like	16.59	-	205054	207166	83,88,95	2	2026,2005	0,107	PS50097	http://www.expasy.ch/prosite/PS50097
-19	203970	204053	Znf_C2H2	14.315999999999999	-	203970	204053	83,88,95	1	83	0	PS50157	http://www.expasy.ch/prosite/PS50157
-19	204967	207250	BTB/POZ_fold	0.0	-	204967	207250	83,88,95	2	2113,2089	0,194	SSF54695	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54695

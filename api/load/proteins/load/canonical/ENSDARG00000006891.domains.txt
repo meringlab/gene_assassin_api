@@ -1,0 +1,5 @@
+#>P	ENSDARG00000006891	ENSDART00000016535	ENSDARP00000023216	13	32799444	32800940	-1	potassium voltage-gated channel, modifier subfamily S, member 3 [Source:HGNC Symbol;Acc:HGNC:6302]
+#>E	ENSDARE00000092987	1.0	32799441-32800940
+13	32800593	32800892	-1.0	T1-type_BTB	99.8	32800593-32800892	PF02214	http://pfam.sanger.ac.uk/family?acc=PF02214
+13	32799684	32799914	-1.0	2pore_dom_K_chnl_dom	40.8	32799684-32799914	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
+13	32799699	32800247	-1.0	Ion_trans_dom	104.6	32799699-32800247	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520

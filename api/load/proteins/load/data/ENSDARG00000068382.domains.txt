@@ -1,4 +1,0 @@
-18	39200288	39202563	Amidase_domain	75.3	-	39200288	39202563	83,88,95	3	2112,-118,2145	0,459,130	SM00644	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00644
-18	39200285	39202530	Amidase_domain	85.4	-	39200285	39202530	83,88,95	3	2115,-118,2112	0,462,133	PF01510	http://pfam.sanger.ac.uk/family?acc=PF01510
-18	39200306	39202791	PGRP_domain_met/bac	197.2	-	39200306	39202791	83,88,95	4	2482,-192,-118,2373	0,2286,441,112	SM00701	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00701
-18	39200243	39202794	Amidase_domain	0.0	-	39200243	39202794	83,88,95	4	2545,-192,-118,2376	0,2349,504,175	SSF55846	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55846

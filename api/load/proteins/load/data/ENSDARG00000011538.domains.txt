@@ -1,5 +1,0 @@
-23	24546057	24546119	Alpha-crystallin/HSP	404.0	-	24546057	24546119	83,88,95	1	62	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
-23	24545795	24545860	Alpha-crystallin/HSP	468.0	-	24545795	24545860	83,88,95	1	65	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
-23	24545777	24546119	a-crystallin/Hsp20_dom	58.8	-	24545777	24546119	83,88,95	2	235,199	0,143	PF00011	http://pfam.sanger.ac.uk/family?acc=PF00011
-23	24545795	24546125	a-crystallin/Hsp20_dom	11.505999999999998	-	24545795	24546125	83,88,95	2	217,205	0,125	PS01031	http://www.expasy.ch/prosite/PS01031
-23	24545747	24550167	HSP20-like_chaperone	0.0	-	24545747	24550167	83,88,95	3	4402,-133,4247	0,398,173	SSF49764	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49764

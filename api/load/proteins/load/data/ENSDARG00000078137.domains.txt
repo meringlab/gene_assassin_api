@@ -1,9 +1,0 @@
-7	2214327	2214572	Cell_div_GTP-bd	45.2	-	2214327	2214572	83,88,95	1	245	0	PF00735	http://pfam.sanger.ac.uk/family?acc=PF00735
-7	2214018	2214572	AIG1	42.7	-	2214018	2214572	83,88,95	1	554	0	PF04548	http://pfam.sanger.ac.uk/family?acc=PF04548
-7	2214195	2214545	GTP_binding_domain	29.0	-	2214195	2214545	83,88,95	1	350	0	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926
-7	2214351	2214575	EF_GTP-bd_dom	27.6	-	2214351	2214575	83,88,95	1	224	0	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
-7	2214315	2214587	Ribosome_biogen_GTPase_RsgA	26.4	-	2214315	2214587	83,88,95	1	272	0	PF03193	http://pfam.sanger.ac.uk/family?acc=PF03193
-7	2214147	2214584	AAA+_ATPase	28.6	-	2214147	2214584	83,88,95	1	437	0	SM00382	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00382
-7	2214015	2214635	P-loop_NTPase	0.0	-	2214015	2214635	83,88,95	1	620	0	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-7	2213694	2214581	P-loop_NTPase	0.0	-	2213694	2214581	83,88,95	2	44,862	0,25	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-7	2213466	2213672	Growth_fac_rcpt_N_dom	0.0	-	2213466	2213672	83,88,95	3	138,-53,198	0,87,8	SSF57184	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57184

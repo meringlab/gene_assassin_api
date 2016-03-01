@@ -1,8 +1,0 @@
-19	609101	610978	Telomerase_RBD	130.6	+	609101	610978	83,88,95	3	195,186,3	0,284,1874	PF12009	http://pfam.sanger.ac.uk/family?acc=PF12009
-19	610991	615143	RVT	56.2	+	610991	615143	83,88,95	8	137,167,161,89,82,113,71,60	0,342,1056,1592,2663,3065,3924,4092	PF00078	http://pfam.sanger.ac.uk/family?acc=PF00078
-19	609098	610987	Telomerase_RBD	228.0	+	609098	610987	83,88,95	3	198,186,12	0,287,1877	SM00975	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00975
-19	611009	615230	RVT	34.11	+	611009	615230	83,88,95	8	119,167,161,89,82,113,71,147	0,324,1038,1574,2645,3047,3906,4074	PS50878	http://www.expasy.ch/prosite/PS50878
-19	609483	609527	Telomerase_RT	263.0	+	609483	609527	83,88,95	1	44	0	PR01365	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01365&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01365
-19	611480	612076	Telomerase_RT	487.0	+	611480	612076	83,88,95	2	20,29	0,567	PR01365	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01365&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01365
-19	614060	614110	Telomerase_RT	445.0	+	614060	614110	83,88,95	1	50	0	PR01365	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01365&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01365
-19	614916	614954	Telomerase_RT	451.0	+	614916	614954	83,88,95	1	38	0	PR01365	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01365&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01365

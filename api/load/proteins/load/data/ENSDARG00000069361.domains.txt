@@ -1,6 +1,0 @@
-15	21229531	21229641	cAMP_dep_PK_reg_su_I/II_a/b	49.1	+	21229531	21229641	83,88,95	1	110	0	PF02197	http://pfam.sanger.ac.uk/family?acc=PF02197
-15	21241976	21242038	IQ_motif_EF-hand-BS	21.4	+	21241976	21242038	83,88,95	1	62	0	PF00612	http://pfam.sanger.ac.uk/family?acc=PF00612
-15	21241970	21242038	IQ_motif_EF-hand-BS	30.6	+	21241970	21242038	83,88,95	1	68	0	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
-15	21229528	21229641	cAMP_dep_PK_reg_su_I/II_a/b	58.9	+	21229528	21229641	83,88,95	1	113	0	SM00394	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00394
-15	21241973	21242062	IQ_motif_EF-hand-BS	10.512	+	21241973	21242062	83,88,95	1	89	0	PS50096	http://www.expasy.ch/prosite/PS50096
-15	21229504	21229641	cAMP_dep_PK_reg_su_I/II_a/b	0.0	+	21229504	21229641	83,88,95	1	137	0	SSF47391	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47391

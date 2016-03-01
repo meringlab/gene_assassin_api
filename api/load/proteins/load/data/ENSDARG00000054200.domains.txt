@@ -1,9 +1,0 @@
-Zv9_NA357	16809	16871	IQ_motif_EF-hand-BS	12.7	+	16809	16871	83,88,95	1	62	0	PF00612	http://pfam.sanger.ac.uk/family?acc=PF00612
-Zv9_NA357	12400	16802	IQ_motif_EF-hand-BS	6.4	+	12400	16802	83,88,95	3	36,5,25	0,833,4377	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
-Zv9_NA357	11270	12399	IQ_motif_EF-hand-BS	8.9	+	11270	12399	83,88,95	2	50,17	0,1112	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
-Zv9_NA357	16872	16940	IQ_motif_EF-hand-BS	4.9	+	16872	16940	83,88,95	1	68	0	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
-Zv9_NA357	16803	16871	IQ_motif_EF-hand-BS	14.9	+	16803	16871	83,88,95	1	68	0	SM00015	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00015
-Zv9_NA357	3087	5002	Ankyrin_rpt-contain_dom	9.145	+	3087	5002	83,88,95	5	36,17,28,68,182	0,945,977,1072,1733	PS50297	http://www.expasy.ch/prosite/PS50297
-Zv9_NA357	16806	16886	IQ_motif_EF-hand-BS	7.747999999999999	+	16806	16886	83,88,95	1	80	0	PS50096	http://www.expasy.ch/prosite/PS50096
-Zv9_NA357	3084	4969	Ankyrin_rpt-contain_dom	0.0	+	3084	4969	83,88,95	5	39,17,28,68,149	0,948,980,1075,1736	SSF48403	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF48403
-Zv9_NA357	11255	16901	P-loop_NTPase	0.0	+	11255	16901	83,88,95	4	65,54,5,124	0,1127,1978,5522	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

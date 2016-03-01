@@ -1,6 +1,0 @@
-22	23680870	23681234	Glutaredoxin_euk/vir	105.6	-	23680870	23681234	83,88,95	2	209,281	0,83	TIGR02180	http://www.ebi.ac.uk/interpro/signature/TIGR02180
-22	23681178	23681234	Glutaredoxin_subgr	526.0	-	23681178	23681234	83,88,95	1	56	0	PR00160	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00160&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00160
-22	23680933	23681099	Glutaredoxin_subgr	445.0	-	23680933	23681099	83,88,95	2	146,146	0,20	PR00160	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00160&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00160
-22	23680891	23680932	Glutaredoxin_subgr	253.0	-	23680891	23680932	83,88,95	1	41	0	PR00160	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00160&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00160
-22	23680921	23681234	Glutaredoxin	72.7	-	23680921	23681234	83,88,95	2	158,281	0,32	PF00462	http://pfam.sanger.ac.uk/family?acc=PF00462
-22	23680843	23684150	Thioredoxin-like_fold	0.0	-	23680843	23684150	83,88,95	3	3290,-176,3197	0,412,110	SSF52833	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52833

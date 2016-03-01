@@ -1,5 +1,0 @@
-25	7852960	7853013	Mevalonate/galactokinase	323.0	+	7852960	7853013	83,88,95	1	53	0	PR00959	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00959&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00959
-25	7848732	7849492	GHMP_kinase_N_dom	24.3	+	7848732	7849492	83,88,95	2	39,85	0,675	PF00288	http://pfam.sanger.ac.uk/family?acc=PF00288
-25	7850495	7853052	GHMP_kinase_C_dom	30.4	+	7850495	7853052	83,88,95	2	15,214	0,2343	PF08544	http://pfam.sanger.ac.uk/family?acc=PF08544
-25	7848744	7849447	Mevalonate/galactokinase	356.0	+	7848744	7849447	83,88,95	2	27,40	0,663	PR00959	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00959&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00959
-25	7847625	7850218	Ribosomal_S5_D2-typ_fold	0.0	+	7847625	7850218	83,88,95	6	45,230,49,93,127,80	0,352,961,1053,1782,2513	SSF54211	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54211

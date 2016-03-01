@@ -1,6 +1,0 @@
-5	41921708	41921941	a-crystallin/Hsp20_dom	46.7	-	41921708	41921941	83,88,95	1	233	0	PF00011	http://pfam.sanger.ac.uk/family?acc=PF00011
-5	41921705	41921965	a-crystallin/Hsp20_dom	13.824000000000002	-	41921705	41921965	83,88,95	1	260	0	PS01031	http://www.expasy.ch/prosite/PS01031
-5	41921888	41921950	Alpha-crystallin/HSP	433.0	-	41921888	41921950	83,88,95	1	62	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
-5	41921843	41921884	Alpha-crystallin/HSP	261.0	-	41921843	41921884	83,88,95	1	41	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
-5	41921780	41921839	Alpha-crystallin/HSP	679.0	-	41921780	41921839	83,88,95	1	59	0	PR00299	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00299&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00299
-5	41921708	41922004	HSP20-like_chaperone	0.0	-	41921708	41922004	83,88,95	1	296	0	SSF49764	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49764

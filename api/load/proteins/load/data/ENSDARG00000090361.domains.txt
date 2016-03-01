@@ -1,7 +1,0 @@
-2	47425941	47431794	MAM_dom	111.2	+	47425941	47431794	83,88,95	2	248,83	0,5770	PF00629	http://pfam.sanger.ac.uk/family?acc=PF00629
-2	47426019	47426054	MAM_dom	353.0	+	47426019	47426054	83,88,95	1	35	0	PR00020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00020
-2	47426160	47431725	MAM_dom	231.0	+	47426160	47431725	83,88,95	2	29,14	0,5551	PR00020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00020
-2	47431738	47431779	MAM_dom	204.0	+	47431738	47431779	83,88,95	1	41	0	PR00020	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00020&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00020
-2	47425941	47431939	MAM_dom	32.1	+	47425941	47431939	83,88,95	3	248,84,1	0,5770,5997	SM00137	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00137
-2	47425941	47431939	MAM_dom	22.699	+	47425941	47431939	83,88,95	3	248,84,1	0,5770,5997	PS50060	http://www.expasy.ch/prosite/PS50060
-2	47425941	47431794	ConA-like_lec_gl_sf	0.0	+	47425941	47431794	83,88,95	2	248,83	0,5770	SSF49899	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49899

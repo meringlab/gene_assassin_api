@@ -1,8 +1,0 @@
-21	4146099	4146185	EGF_laminin	27.3	+	4146099	4146185	83,88,95	1	86	0	PF00053	http://pfam.sanger.ac.uk/family?acc=PF00053
-21	4183031	4183177	EGF_laminin	24.8	+	4183031	4183177	83,88,95	1	146	0	PF00053	http://pfam.sanger.ac.uk/family?acc=PF00053
-21	4192913	4193035	EGF_laminin	36.3	+	4192913	4193035	83,88,95	1	122	0	PF00053	http://pfam.sanger.ac.uk/family?acc=PF00053
-21	4192913	4193041	EGF_laminin	55.0	+	4192913	4193041	83,88,95	1	128	0	SM00180	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00180
-21	4183031	4183192	EGF_laminin	31.4	+	4183031	4183192	83,88,95	1	161	0	SM00180	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00180
-21	4146099	4153472	EGF_laminin	11.8	+	4146099	4153472	83,88,95	2	126,1	0,7372	SM00180	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00180
-21	4193042	4199473	EG-like_dom	13.735	+	4193042	4199473	83,88,95	2	3,103	0,6328	PS50026	http://www.expasy.ch/prosite/PS50026
-21	4192913	4199371	EGF_laminin	18.805	+	4192913	4199371	83,88,95	2	132,1	0,6457	PS50027	http://www.expasy.ch/prosite/PS50027

@@ -1,6 +1,0 @@
-13	49502693	49502734	TF_fork_head	404.0	+	49502693	49502734	83,88,95	1	41	0	PR00053	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00053&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00053
-13	49502756	49502809	TF_fork_head	433.0	+	49502756	49502809	83,88,95	1	53	0	PR00053	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00053&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00053
-13	49502825	49502878	TF_fork_head	770.0	+	49502825	49502878	83,88,95	1	53	0	PR00053	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00053&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00053
-13	49502687	49513787	TF_fork_head	165.6	+	49502687	49513787	83,88,95	2	209,68	0,11032	SM00339	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00339
-13	49502693	49513781	TF_fork_head	120.2	+	49502693	49513781	83,88,95	2	203,62	0,11026	PF00250	http://pfam.sanger.ac.uk/family?acc=PF00250
-13	49502693	49513778	TF_fork_head	31.308000000000003	+	49502693	49513778	83,88,95	2	203,59	0,11026	PS50039	http://www.expasy.ch/prosite/PS50039

@@ -1,7 +1,0 @@
-Zv9_scaffold3484	71910	82731	Myotubularin-like_Pase_dom	176.7	+	71910	82731	83,88,95	5	4,113,178,128,31	0,3098,6041,10324,10790	PF06602	http://pfam.sanger.ac.uk/family?acc=PF06602
-Zv9_scaffold3484	100350	103867	Znf_FYVE	60.6	+	100350	103867	83,88,95	2	82,108	0,3409	PF01363	http://pfam.sanger.ac.uk/family?acc=PF01363
-Zv9_scaffold3484	100258	103873	Znf_FYVE	118.9	+	100258	103873	83,88,95	3	5,88,114	0,86,3501	SM00064	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00064
-Zv9_scaffold3484	82768	89835	Tyr_Pase_cat	13.9	+	82768	89835	83,88,95	4	43,195,185,23	0,2328,3052,7044	SM00404	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00404
-Zv9_scaffold3484	100362	103870	Znf_FYVE-rel	12.162	+	100362	103870	83,88,95	2	70,111	0,3397	PS50178	http://www.expasy.ch/prosite/PS50178
-Zv9_scaffold3484	85118	85252	Tyr/Dual-sp_Pase	8.982000000000001	+	85118	85252	83,88,95	1	134	0	PS50056	http://www.expasy.ch/prosite/PS50056
-Zv9_scaffold3484	100347	103873	Znf_FYVE_PHD	0.0	+	100347	103873	83,88,95	2	85,114	0,3412	SSF57903	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57903

@@ -1,5 +1,0 @@
-13	15897113	15897505	ATPase_AAA_core	128.2	+	15897113	15897505	83,88,95	1	392	0	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
-13	15897716	15897817	Vps4_C	31.3	+	15897716	15897817	83,88,95	1	101	0	PF09336	http://pfam.sanger.ac.uk/family?acc=PF09336
-13	15897113	15897535	DNA_helicase_Holl-junc_RuvB_N	21.1	+	15897113	15897535	83,88,95	1	422	0	PF05496	http://pfam.sanger.ac.uk/family?acc=PF05496
-13	15897101	15897511	AAA+_ATPase	85.2	+	15897101	15897511	83,88,95	1	410	0	SM00382	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00382
-13	15896987	15897817	P-loop_NTPase	0.0	+	15896987	15897817	83,88,95	1	830	0	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540

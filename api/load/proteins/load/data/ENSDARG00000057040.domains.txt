@@ -1,8 +1,0 @@
-15	13119522	13135793	Peptidase_S1	217.6	+	13119522	13135793	83,88,95	5	133,169,98,142,140	0,5571,8630,11331,16131	PF00089	http://pfam.sanger.ac.uk/family?acc=PF00089
-15	13125208	13125252	Peptidase_S1A	263.0	+	13125208	13125252	83,88,95	1	44	0	PR00722	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00722&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00722
-15	13130981	13135676	Peptidase_S1A	545.0	+	13130981	13135676	83,88,95	2	14,23	0,4672	PR00722	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00722&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00722
-15	13119600	13119647	Peptidase_S1A	501.0	+	13119600	13119647	83,88,95	1	47	0	PR00722	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00722&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00722
-15	13113888	13119515	Srcr_rcpt-rel	0.0	+	13113888	13119515	83,88,95	5	12,126,95,43,22	0,3218,4027,4209,5605	SSF56487	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56487
-15	13119495	13135808	Trypsin-like_Pept_dom	0.0	+	13119495	13135808	83,88,95	5	160,169,98,142,155	0,5598,8657,11358,16158	SSF50494	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50494
-15	13119519	13135793	Peptidase_S1	321.4	+	13119519	13135793	83,88,95	5	136,169,98,142,140	0,5574,8633,11334,16134	SM00020	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00020
-15	13119522	13135808	Peptidase_S1	37.03	+	13119522	13135808	83,88,95	5	133,169,98,142,155	0,5571,8630,11331,16131	PS50240	http://www.expasy.ch/prosite/PS50240

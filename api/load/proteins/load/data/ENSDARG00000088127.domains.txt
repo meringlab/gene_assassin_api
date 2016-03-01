@@ -1,8 +1,0 @@
-12	45799985	45807280	ADAM_Cys-rich	106.5	+	45799985	45807280	83,88,95	3	90,108,135	0,3291,7160	PF08516	http://pfam.sanger.ac.uk/family?acc=PF08516
-12	45791599	45799978	Blood-coag_inhib_Disintegrin	85.7	+	45791599	45799978	83,88,95	3	35,89,98	0,7205,8281	PF00200	http://pfam.sanger.ac.uk/family?acc=PF00200
-12	45799982	45807286	ADAM_Cys-rich	142.0	+	45799982	45807286	83,88,95	3	93,108,141	0,3294,7163	SM00608	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00608
-12	45799934	45799972	Blood-coag_inhib_Disintegrin	377.0	+	45799934	45799972	83,88,95	1	38	0	PR00289	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00289&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00289
-12	45798861	45799906	Blood-coag_inhib_Disintegrin	668.0	+	45798861	45799906	83,88,95	2	32,26	0,1019	PR00289	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00289&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00289
-12	45791599	45799981	Blood-coag_inhib_Disintegrin	152.3	+	45791599	45799981	83,88,95	3	35,89,101	0,7205,8281	SM00050	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00050
-12	45791572	45799987	Blood-coag_inhib_Disintegrin	18.851	+	45791572	45799987	83,88,95	3	62,89,107	0,7232,8308	PS50214	http://www.expasy.ch/prosite/PS50214
-12	45791599	45799984	Blood-coag_inhib_Disintegrin	0.0	+	45791599	45799984	83,88,95	3	35,89,104	0,7205,8281	SSF57552	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57552

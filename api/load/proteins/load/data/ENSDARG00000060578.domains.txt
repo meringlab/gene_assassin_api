@@ -1,7 +1,0 @@
-5	34821785	34824482	Bromodomain	261.0	-	34821785	34824482	83,88,95	2	2692,2647	0,50	PR00503	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00503&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00503
-5	34818301	34821787	Bromodomain	312.0	-	34818301	34821787	83,88,95	2	3433,3481	0,5	PR00503	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00503&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00503
-5	34824480	34824530	Bromodomain	472.0	-	34824480	34824530	83,88,95	1	50	0	PR00503	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00503&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00503
-5	34818295	34826170	Bromodomain	76.3	-	34818295	34826170	83,88,95	4	7871,-105,-101,7864	0,6287,3540,11	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439
-5	34818244	34826227	Bromodomain	131.0	-	34818244	34826227	83,88,95	4	7922,-105,-101,7921	0,6338,3591,62	SM00297	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00297
-5	34818301	34824581	Bromodomain	18.267	-	34818301	34824581	83,88,95	3	6176,-101,6275	0,3534,5	PS50014	http://www.expasy.ch/prosite/PS50014
-5	34818211	34826296	Bromodomain	0.0	-	34818211	34826296	83,88,95	4	7955,-105,-101,7990	0,6371,3624,95	SSF47370	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47370

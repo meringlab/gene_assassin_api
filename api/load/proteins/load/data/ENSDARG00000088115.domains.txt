@@ -1,7 +1,0 @@
-10	74962	76486	bHLH_dom	31.4	+	74962	76486	83,88,95	2	159,1	0,1523	SM00353	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00353
-10	76538	76784	PAS	10.972999999999999	+	76538	76784	83,88,95	2	29,98	0,148	PS50112	http://www.expasy.ch/prosite/PS50112
-10	74947	75108	bHLH_dom	8.041	+	74947	75108	83,88,95	1	161	0	PS50888	http://www.expasy.ch/prosite/PS50888
-10	74968	75099	bHLH_dom	25.2	+	74968	75099	83,88,95	1	131	0	PF00010	http://pfam.sanger.ac.uk/family?acc=PF00010
-10	76553	76778	PAS_fold	25.0	+	76553	76778	83,88,95	2	14,92	0,133	PF00989	http://pfam.sanger.ac.uk/family?acc=PF00989
-10	74950	75120	bHLH_dom	0.0	+	74950	75120	83,88,95	1	170	0	SSF47459	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47459
-10	76689	76775	PAS	0.0	+	76689	76775	83,88,95	1	86	0	SSF55785	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55785

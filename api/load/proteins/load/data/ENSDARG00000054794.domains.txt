@@ -1,4 +1,0 @@
-8	32699067	32699363	PLipase_C_PInositol-sp_X_dom	32.0	+	32699067	32699363	83,88,95	1	296	0	PF00388	http://pfam.sanger.ac.uk/family?acc=PF00388
-8	32669598	32699420	PLipase_C_PInositol-sp_X_dom	-18.0	+	32669598	32699420	83,88,95	2	30,484	0,29338	SM00148	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00148
-8	32669604	32699342	PLipase_C_PInositol-sp_X_dom	10.642000000000001	+	32669604	32699342	83,88,95	2	24,406	0,29332	PS50007	http://www.expasy.ch/prosite/PS50007
-8	32669553	32709545	PLC-like_Pdiesterase_TIM-brl	0.0	+	32669553	32709545	83,88,95	3	75,708,126	0,29383,39866	SSF51695	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF51695

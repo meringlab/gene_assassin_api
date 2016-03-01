@@ -1,7 +1,0 @@
-15	46734116	46734190	Myelin_P0	513.0	-	46734116	46734190	83,88,95	1	74	0	PR00213	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00213&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00213
-15	46728333	46731445	Myelin_P0	261.0	-	46728333	46731445	83,88,95	3	3076,-11,3078	0,431,34	PR00213	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00213&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00213
-15	46728057	46728329	Myelin_P0	934.0	-	46728057	46728329	83,88,95	2	185,271	0,1	PR00213	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00213&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00213
-15	46728252	46734223	Ig_V-set	48.7	-	46728252	46734223	83,88,95	5	5828,-24,-50,-11,5856	0,5725,3207,512,115	PF07686	http://pfam.sanger.ac.uk/family?acc=PF07686
-15	46728255	46734241	Ig-like_dom	10.081	-	46728255	46734241	83,88,95	5	5825,-24,-50,-11,5874	0,5722,3204,509,112	PS50835	http://www.expasy.ch/prosite/PS50835
-15	46728303	46734181	Ig_V-set_subgr	27.9	-	46728303	46734181	83,88,95	5	5777,-24,-50,-11,5814	0,5674,3156,461,64	SM00406	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00406
-15	46728249	46734211	Ig_sub	46.6	-	46728249	46734211	83,88,95	5	5831,-24,-50,-11,5844	0,5728,3210,515,118	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409

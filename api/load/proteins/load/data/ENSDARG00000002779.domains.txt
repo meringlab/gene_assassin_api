@@ -1,9 +1,0 @@
-24	22294108	22294143	Homeobox_metazoa	299.0	+	22294108	22294143	83,88,95	1	35	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
-24	22294153	22294185	Homeobox_metazoa	376.0	+	22294153	22294185	83,88,95	1	32	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
-24	22294183	22294212	Homeobox_metazoa	504.0	+	22294183	22294212	83,88,95	1	29	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
-24	22292551	22292574	Homeobox_antennapedia	262.0	+	22292551	22292574	83,88,95	1	23	0	PR00025	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00025&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00025
-24	22294045	22294092	Homeobox_antennapedia	508.0	+	22294045	22294092	83,88,95	1	47	0	PR00025	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00025&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00025
-24	22294045	22294215	Homeobox_dom	74.5	+	22294045	22294215	83,88,95	1	170	0	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
-24	22294042	22294230	Homeobox_dom	99.7	+	22294042	22294230	83,88,95	1	188	0	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-24	22294036	22294218	Homeobox_dom	21.524	+	22294036	22294218	83,88,95	1	182	0	PS50071	http://www.expasy.ch/prosite/PS50071
-24	22292563	22294227	Homeodomain-like	0.0	+	22292563	22294227	83,88,95	2	51,211	0,1453	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

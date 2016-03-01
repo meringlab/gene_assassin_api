@@ -1,8 +1,0 @@
-3	55983105	55983245	Haemoglobin_b	706.0	+	55983105	55983245	83,88,95	2	4,45	0,95	PR00814	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00814&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00814
-3	55983249	55983296	Haemoglobin_b	401.0	+	55983249	55983296	83,88,95	1	47	0	PR00814	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00814&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00814
-3	55983321	55983374	Haemoglobin_b	435.0	+	55983321	55983374	83,88,95	1	53	0	PR00814	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00814&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00814
-3	55983387	55983404	Haemoglobin_b	226.0	+	55983387	55983404	83,88,95	1	17	0	PR00814	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00814&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00814
-3	55983581	55983631	Haemoglobin_b	387.0	+	55983581	55983631	83,88,95	1	50	0	PR00814	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00814&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00814
-3	55983042	55983535	Globin	87.2	+	55983042	55983535	83,88,95	3	67,222,20	0,158,473	PF00042	http://pfam.sanger.ac.uk/family?acc=PF00042
-3	55983021	55983640	Globin-like	0.0	+	55983021	55983640	83,88,95	3	88,222,125	0,179,494	SSF46458	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46458
-3	55983030	55983640	Globin	31.906	+	55983030	55983640	83,88,95	3	79,222,125	0,170,485	PS01033	http://www.expasy.ch/prosite/PS01033

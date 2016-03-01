@@ -1,8 +1,0 @@
-21	39073152	39073901	GPCR_Rhodpsn	88.7	+	39073152	39073901	83,88,95	1	749	0	PF00001	http://pfam.sanger.ac.uk/family?acc=PF00001
-21	39073137	39073835	7TM_GPCR_olfarory/Srsx	20.6	+	39073137	39073835	83,88,95	1	698	0	PF10320	http://pfam.sanger.ac.uk/family?acc=PF10320
-21	39073308	39073343	Olfact_rcpt	295.0	+	39073308	39073343	83,88,95	1	35	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
-21	39073419	39073457	Olfact_rcpt	270.0	+	39073419	39073457	83,88,95	1	38	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
-21	39073557	39073607	Olfact_rcpt	360.0	+	39073557	39073607	83,88,95	1	50	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
-21	39073737	39073766	Olfact_rcpt	362.0	+	39073737	39073766	83,88,95	1	29	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
-21	39073878	39073913	Olfact_rcpt	363.0	+	39073878	39073913	83,88,95	1	35	0	PR00245	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00245&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00245
-21	39073149	39073901	GPCR_Rhodpsn_7TM	22.979	+	39073149	39073901	83,88,95	1	752	0	PS50262	http://www.expasy.ch/prosite/PS50262

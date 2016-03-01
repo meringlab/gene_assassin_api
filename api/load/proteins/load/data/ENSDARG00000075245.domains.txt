@@ -1,8 +1,0 @@
-13	2556827	2563151	WD40_repeat	10.9	-	2556827	2563151	83,88,95	2	6286,6226	0,98	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
-13	2556827	2563163	WD40_repeat	24.6	-	2556827	2563163	83,88,95	2	6286,6238	0,98	SM00320	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00320
-13	2556259	2556820	WD40_repeat	3.0	-	2556259	2556820	83,88,95	2	513,479	0,82	SM00320	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00320
-13	2507622	2516007	WD40_repeat	1.2	-	2507622	2516007	83,88,95	3	8379,-75,8337	0,2642,48	SM00320	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00320
-13	2494391	2497542	WD40_repeat	9.4	-	2494391	2497542	83,88,95	2	3119,3065	0,86	SM00320	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00320
-13	2493248	2494387	WD40_repeat	6.2	-	2493248	2494387	83,88,95	2	1123,1034	0,105	SM00320	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00320
-13	2491285	2491401	WD40_repeat	7.8	-	2491285	2491401	83,88,95	1	116	0	SM00320	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00320
-13	2533311	2563217	WD40_repeat_dom	0.0	-	2533311	2563217	83,88,95	7	29802,-153,-173,-192,-165,-102,29737	0,23614,23030,20858,8632,2214,169	SSF50978	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50978

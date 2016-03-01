@@ -1,6 +1,0 @@
-5	177496	177771	Ig-like_dom	12.731	+	177496	177771	83,88,95	1	275	0	PS50835	http://www.expasy.ch/prosite/PS50835
-5	177517	177777	Ig_sub	44.9	+	177517	177777	83,88,95	1	260	0	SM00409	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00409
-5	177535	177741	Ig_sub2	60.1	+	177535	177741	83,88,95	1	206	0	SM00408	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00408
-5	177517	177750	Ig_I-set	49.9	+	177517	177750	83,88,95	1	233	0	PF07679	http://pfam.sanger.ac.uk/family?acc=PF07679
-5	177541	177723	Immunoglobulin	30.9	+	177541	177723	83,88,95	1	182	0	PF00047	http://pfam.sanger.ac.uk/family?acc=PF00047
-5	177514	177774	Ig_V-set	31.0	+	177514	177774	83,88,95	1	260	0	PF07686	http://pfam.sanger.ac.uk/family?acc=PF07686

@@ -1,7 +1,0 @@
-6	19550946	19550972	Chromo_dom_subgr	146.0	-	19550946	19550972	83,88,95	1	26	0	PR00504	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00504&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00504
-6	19550768	19550933	Chromo_dom_subgr	425.0	-	19550768	19550933	83,88,95	2	157,130	0,35	PR00504	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00504&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00504
-6	19549427	19550767	Chromo_dom_subgr	397.0	-	19549427	19550767	83,88,95	2	1333,1310	0,30	PR00504	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00504&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00504
-6	19549391	19550957	Chromo_domain	53.5	-	19549391	19550957	83,88,95	3	1534,-43,1500	0,1412,66	PF00385	http://pfam.sanger.ac.uk/family?acc=PF00385
-6	19549288	19550963	Chromo_domain/shadow	17.969	-	19549288	19550963	83,88,95	4	1637,-43,-65,1648	0,1515,169,27	PS50013	http://www.expasy.ch/prosite/PS50013
-6	19549309	19550966	Chromo_domain/shadow	72.3	-	19549309	19550966	83,88,95	4	1616,-43,-65,1651	0,1494,148,6	SM00298	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00298
-6	19549294	19550978	Chromodomain-like	0.0	-	19549294	19550978	83,88,95	4	1631,-43,-65,1663	0,1509,163,21	SSF54160	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF54160

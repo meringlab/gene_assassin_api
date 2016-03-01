@@ -1,8 +1,0 @@
-15	44851081	44856898	Arrestin-like_N	115.7	+	44851081	44856898	83,88,95	6	57,44,199,59,67,39	0,2017,2151,2438,4983,5778	PF00339	http://pfam.sanger.ac.uk/family?acc=PF00339
-15	44856956	44864304	Arrestin_C-like	67.8	+	44856956	44864304	83,88,95	5	38,84,72,137,78	0,3381,4440,5433,7270	PF02752	http://pfam.sanger.ac.uk/family?acc=PF02752
-15	44851096	44853123	Arrestin	979.0	+	44851096	44853123	83,88,95	2	42,25	0,2002	PR00309	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00309&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00309
-15	44853255	44853311	Arrestin	768.0	+	44853255	44853311	83,88,95	1	56	0	PR00309	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00309&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00309
-15	44856112	44856892	Arrestin	549.0	+	44856112	44856892	83,88,95	2	19,33	0,747	PR00309	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00309&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00309
-15	44862450	44862506	Arrestin	831.0	+	44862450	44862506	83,88,95	1	56	0	PR00309	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00309&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00309
-15	44850956	44856901	Ig_E-set	0.0	+	44850956	44856901	83,88,95	7	38,60,44,199,59,67,42	0,122,2142,2276,2563,5108,5903	SSF81296	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81296
-15	44856905	44864304	Ig_E-set	0.0	+	44856905	44864304	83,88,95	5	89,84,72,137,78	0,3432,4491,5484,7321	SSF81296	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF81296

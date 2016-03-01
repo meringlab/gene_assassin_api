@@ -1,6 +1,0 @@
-9	130711	135470	Lipid-bd_serum_glycop_C	152.5	-	130711	135470	83,88,95	9	4754,-176,-59,-167,-67,-42,-63,-76,4730	0,4203,2752,2094,1514,583,461,214,29	PF02886	http://pfam.sanger.ac.uk/family?acc=PF02886
-9	135805	139290	Lipid-bd_serum_glycop_N	65.7	-	135805	139290	83,88,95	5	3391,-128,-152,-63,3459	0,2982,393,170,26	PF01273	http://pfam.sanger.ac.uk/family?acc=PF01273
-9	130720	134848	Lipid-bd_serum_glycop_C	124.7	-	130720	134848	83,88,95	8	4018,-59,-167,-67,-42,-63,-76,4108	0,2743,2085,1505,574,452,205,20	SM00329	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00329
-9	134891	140948	Lipid-bd_serum_glycop_N	78.9	-	134891	140948	83,88,95	8	6033,-111,-128,-152,-63,-60,-91,6034	0,4416,3896,1307,1084,940,665,23	SM00328	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00328
-9	130705	135488	Bactericidal_perm-incr_a/b_dom	0.0	-	130705	135488	83,88,95	9	4760,-176,-59,-167,-67,-42,-63,-76,4748	0,4209,2758,2100,1520,589,467,220,35	SSF55394	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55394
-9	135489	140972	Bactericidal_perm-incr_a/b_dom	0.0	-	135489	140972	83,88,95	7	5435,-111,-128,-152,-63,-60,5416	0,3818,3298,709,486,342,67	SSF55394	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF55394

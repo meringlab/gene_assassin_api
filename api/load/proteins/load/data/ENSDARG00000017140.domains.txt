@@ -1,7 +1,0 @@
-8	4882665	4888402	Small_GTPase	21.3	-	4882665	4888402	83,88,95	3	5725,-86,5643	0,5643,94	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071
-8	4831429	4888420	Cell_div_GTP-bd	286.1	-	4831429	4888420	83,88,95	6	56961,-86,-123,-134,-117,56911	0,56879,51330,39707,37974,80	PF00735	http://pfam.sanger.ac.uk/family?acc=PF00735
-8	4871121	4888405	AIG1	22.1	-	4871121	4888405	83,88,95	4	17269,-86,-123,17269	0,17187,11638,15	PF04548	http://pfam.sanger.ac.uk/family?acc=PF04548
-8	4882719	4888234	Septin2	818.0	-	4882719	4888234	83,88,95	2	5503,5475	0,40	PR01740	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01740&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01740
-8	4869289	4869315	Septin2	370.0	-	4869289	4869315	83,88,95	1	26	0	PR01740	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01740&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01740
-8	4822904	4888465	P-loop_NTPase	0.0	-	4822904	4888465	83,88,95	7	65486,-86,-123,-134,-117,-80,65556	0,65404,59855,48232,46499,8605,5	SSF52540	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52540
-8	4822766	4888483	Septin	347.6	-	4822766	4888483	83,88,95	7	65624,-86,-123,-134,-117,-80,65574	0,65542,59993,48370,46637,8743,143	PIRSF006698	None

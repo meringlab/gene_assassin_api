@@ -1,9 +1,0 @@
-23	31855430	31855468	Sugar/inositol_transpt	200.0	-	31855430	31855468	83,88,95	1	38	0	PR00171	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00171&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00171
-23	31855472	31858152	Sugar/inositol_transpt	329.0	-	31855472	31858152	83,88,95	2	2629,2667	0,13	PR00171	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00171&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00171
-23	31859113	31859172	Sugar/inositol_transpt	234.0	-	31859113	31859172	83,88,95	1	59	0	PR00171	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00171&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00171
-23	31859389	31859421	Sugar/inositol_transpt	228.0	-	31859389	31859421	83,88,95	1	32	0	PR00171	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00171&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00171
-23	31858459	31859430	MFS	61.4	-	31858459	31859430	83,88,95	1	971	0	PF07690	http://pfam.sanger.ac.uk/family?acc=PF07690
-23	31852219	31858173	Sub_transporter	83.8	-	31852219	31858173	83,88,95	3	5882,-122,5836	0,3266,118	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083
-23	31858459	31859436	Sub_transporter	206.1	-	31858459	31859436	83,88,95	1	977	0	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083
-23	31852246	31859445	MFS_dom	42.428999999999995	-	31852246	31859445	83,88,95	3	5855,-122,7108	0,3239,91	PS50850	http://www.expasy.ch/prosite/PS50850
-23	31852216	31871200	MFS_dom_general_subst_transpt	0.0	-	31852216	31871200	83,88,95	4	18900,-1370,-122,18863	0,7255,3269,121	SSF103473	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF103473

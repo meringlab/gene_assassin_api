@@ -1,8 +1,0 @@
-4	22685837	22692737	Peptidase_M14	379.0	-	22685837	22692737	83,88,95	2	6882,6881	0,19	PR00765	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00765&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00765
-4	22683257	22685797	Peptidase_M14	419.0	-	22683257	22685797	83,88,95	2	2502,2535	0,5	PR00765	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00765&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00765
-4	22682016	22682042	Peptidase_M14	382.0	-	22682016	22682042	83,88,95	1	26	0	PR00765	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00765&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00765
-4	22681884	22681925	Peptidase_M14	398.0	-	22681884	22681925	83,88,95	1	41	0	PR00765	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00765&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00765
-4	22681314	22692815	Peptidase_M14	168.4	-	22681314	22692815	83,88,95	6	11405,-97,-169,-187,-170,11395	0,4542,1948,741,439,106	SM00631	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00631
-4	22681302	22692797	Peptidase_M14	274.7	-	22681302	22692797	83,88,95	6	11417,-97,-169,-187,-170,11377	0,4554,1960,753,451,118	PF00246	http://pfam.sanger.ac.uk/family?acc=PF00246
-4	22681977	22685782	Aste_AspA	25.4	-	22681977	22685782	83,88,95	3	3782,-169,3727	0,1285,78	PF04952	http://pfam.sanger.ac.uk/family?acc=PF04952
-4	22676895	22679538	CarboxyPept-like_regulatory	0.0	-	22676895	22679538	83,88,95	2	2494,2545	0,98	SSF49464	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49464

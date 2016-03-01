@@ -1,8 +1,0 @@
-21	4636570	4636644	Peptidase_S1C	649.0	+	4636570	4636644	83,88,95	1	74	0	PR00834	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00834&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00834
-21	4636684	4636837	Peptidase_S1C	535.0	+	4636684	4636837	83,88,95	2	35,17	0,136	PR00834	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00834&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00834
-21	4641889	4641927	Peptidase_S1C	296.0	+	4641889	4641927	83,88,95	1	38	0	PR00834	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00834&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00834
-21	4641753	4641969	PDZ	24.3	+	4641753	4641969	83,88,95	2	46,87	0,129	PF00595	http://pfam.sanger.ac.uk/family?acc=PF00595
-21	4641729	4642008	PDZ	43.2	+	4641729	4642008	83,88,95	2	70,126	0,153	SM00228	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00228
-21	4641759	4641975	PDZ	10.054	+	4641759	4641975	83,88,95	2	40,93	0,123	PS50106	http://www.expasy.ch/prosite/PS50106
-21	4641705	4642047	PDZ	0.0	+	4641705	4642047	83,88,95	2	94,165	0,177	SSF50156	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50156
-21	4636525	4636852	Trypsin-like_Pept_dom	0.0	+	4636525	4636852	83,88,95	2	194,32	0,295	SSF50494	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF50494

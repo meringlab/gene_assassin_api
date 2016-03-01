@@ -1,8 +1,0 @@
-19	21249035	21253559	Transglutaminase-like	58.4	-	21249035	21253559	83,88,95	3	4472,-121,4466	0,2769,58	PF01841	http://pfam.sanger.ac.uk/family?acc=PF01841
-19	21256324	21259399	PUB_domain	79.0	-	21256324	21259399	83,88,95	3	3017,-114,3007	0,2789,68	PF09409	http://pfam.sanger.ac.uk/family?acc=PF09409
-19	21246213	21249094	Rad4/PNGase_transGLS-fold	45.5	-	21246213	21249094	83,88,95	2	2624,2873	0,8	PF03835	http://pfam.sanger.ac.uk/family?acc=PF03835
-19	21244524	21245869	Peptide_N_glycanase_PAW_dom	28.7	-	21244524	21245869	83,88,95	2	1223,1289	0,56	PF04721	http://pfam.sanger.ac.uk/family?acc=PF04721
-19	21244110	21245935	Galactose-bd-like	0.0	-	21244110	21245935	83,88,95	3	1637,-177,1653	0,470,172	SSF49785	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF49785
-19	21256366	21259384	PUG-dom	89.4	-	21256366	21259384	83,88,95	3	2975,-114,2992	0,2747,26	SM00580	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00580
-19	21249029	21251785	Transglutaminase-like	74.3	-	21249029	21251785	83,88,95	2	2654,2692	0,64	SM00460	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00460
-19	21244455	21245899	Peptide_N_glycanase_PAW_dom	27.4	-	21244455	21245899	83,88,95	2	1292,1319	0,125	SM00613	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00613

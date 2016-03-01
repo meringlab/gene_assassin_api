@@ -1,9 +1,0 @@
-22	22853731	22861195	GPCR_2_secretin-like	135.9	+	22853731	22861195	83,88,95	4	82,102,153,136	0,3416,4833,7328	PF00002	http://pfam.sanger.ac.uk/family?acc=PF00002
-22	22852174	22852272	GPS_dom	40.8	+	22852174	22852272	83,88,95	1	98	0	PF01825	http://pfam.sanger.ac.uk/family?acc=PF01825
-22	22853740	22853814	GPCR_2_secretin-like	246.0	+	22853740	22853814	83,88,95	1	74	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
-22	22857169	22857243	GPCR_2_secretin-like	217.0	+	22857169	22857243	83,88,95	1	74	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
-22	22858576	22858647	GPCR_2_secretin-like	424.0	+	22858576	22858647	83,88,95	1	71	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
-22	22858690	22861108	GPCR_2_secretin-like	323.0	+	22858690	22861108	83,88,95	2	27,49	0,2369	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
-22	22861157	22861198	GPCR_2_secretin-like	206.0	+	22861157	22861198	83,88,95	1	41	0	PR00249	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00249&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00249
-22	22853734	22861198	GPCR_2-like	27.516	+	22853734	22861198	83,88,95	4	79,102,153,139	0,3413,4830,7325	PS50261	http://www.expasy.ch/prosite/PS50261
-22	22852084	22852290	GPS_dom	11.122	+	22852084	22852290	83,88,95	2	1,123	0,83	PS50221	http://www.expasy.ch/prosite/PS50221

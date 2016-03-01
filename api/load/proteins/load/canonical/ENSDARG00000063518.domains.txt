@@ -1,0 +1,6 @@
+#>P	ENSDARG00000063518	ENSDART00000092924	ENSDARP00000087356	2	95046	96533	1	carboxypeptidase N, polypeptide 2 [Source:HGNC Symbol;Acc:HGNC:2313]
+#>E	ENSDARE00000680926	1	95046-96536
+2	95556	95621	1	Leu-rich_rpt	15.2	95556-95621	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+2	95841	95906	1	Leu-rich_rpt	15.8	95841-95906	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+2	95910	95978	1	Leu-rich_rpt	13.8	95910-95978	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+2	96057	96122	1	Leu-rich_rpt	15.7	96057-96122	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560

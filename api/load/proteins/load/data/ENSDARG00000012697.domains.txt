@@ -1,7 +1,0 @@
-14	18967593	18967763	Homeobox_dom	74.7	+	18967593	18967763	83,88,95	1	170	0	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046
-14	18967656	18967691	Homeobox_metazoa	198.0	+	18967656	18967691	83,88,95	1	35	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
-14	18967701	18967733	Homeobox_metazoa	420.0	+	18967701	18967733	83,88,95	1	32	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
-14	18967731	18967760	Homeobox_metazoa	485.0	+	18967731	18967760	83,88,95	1	29	0	PR00024	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00024&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00024
-14	18967584	18967766	Homeobox_dom	20.666	+	18967584	18967766	83,88,95	1	182	0	PS50071	http://www.expasy.ch/prosite/PS50071
-14	18967590	18967778	Homeobox_dom	96.7	+	18967590	18967778	83,88,95	1	188	0	SM00389	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00389
-14	18967587	18967811	Homeodomain-like	0.0	+	18967587	18967811	83,88,95	1	224	0	SSF46689	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF46689

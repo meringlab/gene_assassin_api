@@ -1,8 +1,0 @@
-13	25623737	25624020	Glutaredoxin	20.9	+	25623737	25624020	83,88,95	2	67,81	0,202	PF00462	http://pfam.sanger.ac.uk/family?acc=PF00462
-13	25623731	25624080	Glutathione_S-Trfase_N	36.5	+	25623731	25624080	83,88,95	2	73,141	0,208	PF02798	http://pfam.sanger.ac.uk/family?acc=PF02798
-13	25625565	25626362	GST_C	38.0	+	25625565	25626362	83,88,95	3	101,106,54	0,265,743	PF00043	http://pfam.sanger.ac.uk/family?acc=PF00043
-13	25623725	25623772	GST_omega	701.0	+	25623725	25623772	83,88,95	1	47	0	PR01625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01625
-13	25624084	25624128	GST_omega	540.0	+	25624084	25624128	83,88,95	1	44	0	PR01625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01625
-13	25625854	25625913	GST_omega	848.0	+	25625854	25625913	83,88,95	1	59	0	PR01625	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01625&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01625
-13	25624099	25626428	Glutathione-S-Trfase_C-like	0.0	+	25624099	25626428	83,88,95	4	62,101,106,120	0,1466,1731,2209	SSF47616	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF47616
-13	25623725	25625576	Thioredoxin-like_fold	0.0	+	25623725	25625576	83,88,95	3	79,222,11	0,214,1840	SSF52833	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52833

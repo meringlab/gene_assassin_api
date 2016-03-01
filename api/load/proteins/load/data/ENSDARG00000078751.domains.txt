@@ -1,7 +1,0 @@
-1	306434	309858	Peptidase_S8A_TPPII	319.4	+	306434	309858	83,88,95	5	76,96,137,244,24	0,513,1386,1849,3400	PF12580	http://pfam.sanger.ac.uk/family?acc=PF12580
-1	293729	301798	Peptidase_S8/S53_dom	284.0	+	293729	301798	83,88,95	11	83,128,95,104,124,163,154,76,127,248,106	0,1135,1935,2710,2976,3537,4050,6038,6618,7601,7963	PF00082	http://pfam.sanger.ac.uk/family?acc=PF00082
-1	314195	315316	Peptidase_S8A_TPPII_art	25.0	+	314195	315316	83,88,95	3	106,96,20	0,599,1101	PF12583	http://pfam.sanger.ac.uk/family?acc=PF12583
-1	293750	293809	Peptidase_S8_subtilisin-rel	408.0	+	293750	293809	83,88,95	1	59	0	PR00723	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00723&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00723
-1	297423	297813	Peptidase_S8_subtilisin-rel	305.0	+	297423	297813	83,88,95	2	6,34	0,356	PR00723	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00723&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00723
-1	301521	301571	Peptidase_S8_subtilisin-rel	403.0	+	301521	301571	83,88,95	1	50	0	PR00723	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR00723&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR00723
-1	293735	302870	Peptidase_S8/S53_dom	0.0	+	293735	302870	83,88,95	12	77,128,95,104,124,163,154,76,127,248,115,44	0,1129,1929,2704,2970,3531,4044,6032,6612,7595,7957,9091	SSF52743	http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF52743

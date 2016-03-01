@@ -1,8 +1,0 @@
-1	56106488	56106656	GPCR_2_EMR1_rcpt	295.0	+	56106488	56106656	83,88,95	2	18,40	0,128	PR01128	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01128&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01128
-1	56107333	56112053	GPCR_2_EMR1_rcpt	240.0	+	56107333	56112053	83,88,95	2	35,8	0,4712	PR01128	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01128&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01128
-1	56106866	56112558	GPCR_2_secretin-like	127.9	+	56106866	56112558	83,88,95	5	192,232,66,91,134	0,270,5179,5323,5558	PF00002	http://pfam.sanger.ac.uk/family?acc=PF00002
-1	56106639	56106758	GPS_dom	42.1	+	56106639	56106758	83,88,95	1	119	0	PF01825	http://pfam.sanger.ac.uk/family?acc=PF01825
-1	56112257	56112465	GPCR_2_EMR1_rcpt	530.0	+	56112257	56112465	83,88,95	2	23,41	0,167	PR01128	http://www.bioinf.manchester.ac.uk/cgi-bin/dbbrowser/sprint/searchprintss.cgi?prints_accn=PR01128&display_opts=Prints&category=None&queryform=false&regexpr=off&prints_accn=PR01128
-1	56106633	56106773	GPS_dom	50.0	+	56106633	56106773	83,88,95	1	140	0	SM00303	http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=SM00303
-1	56106636	56106773	GPS_dom	13.359000000000002	+	56106636	56106773	83,88,95	1	137	0	PS50221	http://www.expasy.ch/prosite/PS50221
-1	56106857	56112582	GPCR_2-like	24.428	+	56106857	56112582	83,88,95	5	201,232,66,91,158	0,279,5188,5332,5567	PS50261	http://www.expasy.ch/prosite/PS50261
