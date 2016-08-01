@@ -218,6 +218,9 @@ function Storage(_db) {
         return query('guides', species, chromosome, start, end);
     }
 
+  /**
+   * @deprecated part of protein now
+   */
     this.domainsInGenomicRegion = function domainsInGenomicRegion(species, chromosome, start, end) {
         var d = when.defer()
         queryGenomicRegion('domains', species, chromosome, start, end, 100, function (docs) {

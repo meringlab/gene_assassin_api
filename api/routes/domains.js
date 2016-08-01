@@ -21,7 +21,7 @@ router.param('chromosome', function (req, res, next, chromosome) {
 //});
 
 router.get('/chromosome/:chromosome', function (req, res, next) {
-    req.app.get('storage').domainsInGenomicRegion('drerio', req.chromosome, parseInt(req.query.start), parseInt(req.query.end)).then(
+    req.storage.domainsInGenomicRegion(req.species, req.chromosome, parseInt(req.query.start), parseInt(req.query.end)).then(
         function (data) {
             req.negotiate({
                 'application/ld+json': function () {

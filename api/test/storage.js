@@ -5,31 +5,26 @@ var expect = require('chai').expect;
 describe('Storage', function () {
     var storage;
     before(function (done) {
-        storage = require('../lib/storage')('mongodb://192.168.1.120:32769/drerio', function (err, _db) {
+        storage = require('../lib/storage')('mongodb://127.0.0.1:27017/drerio-grcz10', function (err, _db) {
             if (err) {
                 throw Error(err)
             }
             storage = _db;
             done() // It is now guaranteed to finish before 'it' starts.
         });
-    })
+    });
 
-
-    it('can fetch domains on a genomic region', function () {
-        //var promise = storage.inGenomicRegion('drerio','9', 35088310, 35091575);
-        var promise = storage.domainsInGenomicRegion('drerio', '7', 1009500, 1009600);
+    it('can fetch proteins on a genomic region', function () {
+        var promise = storage.proteinsInGenomicRegion('drerio', '4', 100000, 110000);
         return promise.then(function (res) {
-            assert.equal(2, res.domains.length);
-        })
-
+            assert.equal(1, res.numResults);
+        });
     });
     it('can fetch guides on a genomic region', function () {
-        //var promise = storage.inGenomicRegion('drerio','9', 35088310, 35091575);
-        var promise = storage.guidesInGenomicRegion('drerio', '9', 35091800, 35091850);
+        var promise = storage.guidesInGenomicRegion('drerio', '4', 82100, 82120);
         return promise.then(function (res) {
-            assert.equal(5, res.guides.length);
-        })
-
+            assert.equal(2, res.numResults);
+        });
     });
     after(function(done) {
         if (storage) {

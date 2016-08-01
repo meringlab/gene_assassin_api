@@ -18,17 +18,9 @@ app.use(logger('dev')); // or app.use(morgan('combined'))
 //app.use(bodyParser.urlencoded({ extended: false }));
 //app.use(cookieParser());
 
-var index = require('./routes/index');
-var domains = require('./routes/domains');
-var proteins = require('./routes/proteins');
-var guides = require('./routes/guides');
-var primers = require('./routes/primers');
+var species_controller = require('./routes/species_controller');
 
-app.use('/proteins', proteins);
-app.use('/domains', domains);
-app.use('/guides', guides);
-app.use('/primers', primers);
-app.use('/', index);
+app.get('/*', species_controller);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

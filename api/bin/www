@@ -1,12 +1,14 @@
 #!/usr/bin/env node
 
+const URL = 'mongodb://localhost:27017';
+
 /**
  * Module dependencies.
  */
 
-var app = require('../app');
-var debug = require('debug')('ga-domains-api');
-var http = require('http');
+const app = require('../app');
+const debug = require('debug')('ga-domains-api');
+const http = require('http');
 
 /**
  * Get port from environment and store in Express.
@@ -17,8 +19,8 @@ app.set('port', port);
 
 var server = http.createServer(app);
 
-var boot = function (storage) {
-    app.set('storage', storage)
+var boot = function (mongodbUrl) {
+    app.set('mongodb_url', mongodbUrl);
     /**
      * Listen on provided port, on all network interfaces.
      */
@@ -30,8 +32,6 @@ var boot = function (storage) {
 }
 
 if (require.main === module) {
-    const URL = 'mongodb://192.168.1.120:32769/drerio';
-
     //TODO use service discovery
     //var consul = backend.consul({consul_host: process.env.CONSUL_HOST});
     //consul.serviceDescription('ga-domains-mongodb', function (description) {
@@ -39,22 +39,14 @@ if (require.main === module) {
     //    //
     //    boot(storage);
     //});
-
-    var storage = require('../lib/storage')(URL, function(err, storage) {
-        if (err) {
-            throw Error(err)
-        }
-        boot(storage);
-    });
+    boot(URL);
 } else {
     console.info('Running app as a module')
     exports.boot = boot;
-    exports.shutdown = shutdown;
+    exports.shutdown = function () {
+        server.close();
+    };
     exports.port = app.get('port');
-}
-
-var shutdown = function () {
-    server.close();
 }
 
 /**

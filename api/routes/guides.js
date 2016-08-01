@@ -7,7 +7,7 @@ const _und = require('underscore')
 router.get('/frequencies', function (req, res, next) {
     //"23:27946750-27946874,23:27946875-27946999,23:27947000-27947124"
   //TODO check if interval is valid
-    req.app.get('storage').guidesFrequencies('drerio', req.param('regions'), parseInt(req.param('interval'))).then(
+    req.storage.guidesFrequencies(req.species, req.param('regions'), parseInt(req.param('interval'))).then(
       function (data) {
           render(res, "application/json", data);
       },
@@ -25,7 +25,7 @@ router.param('gene', function (req, res, next, gene) {
 })
 
 router.get('/gene/:gene', function (req, res, next) {
-    req.app.get('storage').geneGuides('drerio', req.gene).then(
+    req.storage.geneGuides(req.species, req.gene).then(
       function (data) {
           req.negotiate({
               'application/ld+json': function () {
@@ -56,7 +56,7 @@ router.param('chromosome', function (req, res, next, chromosome) {
 });
 
 router.get('/chromosome/:chromosome', function (req, res, next) {
-    req.app.get('storage').guidesInGenomicRegion('drerio', req.chromosome, parseInt(req.query.start), parseInt(req.query.end)).then(
+    req.storage.guidesInGenomicRegion(req.species, req.chromosome, parseInt(req.query.start), parseInt(req.query.end)).then(
         function (data) {
             req.negotiate({
                 'application/ld+json': function () {
