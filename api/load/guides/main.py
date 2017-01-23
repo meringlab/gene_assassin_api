@@ -2,9 +2,8 @@
 import pymongo
 import os
 
-URL = 'mongodb://mongodb:27017/';
-#URL = 'mongodb://172.16.75.133:32769/';
-DB = 'drerio'
+URL = 'mongodb://mongodb:27017'
+#URL = 'mongodb://localhost:27017/'
 
 def parseRecord(line):
     '''
@@ -41,42 +40,52 @@ def parseRecord(line):
             "color": rec[9],
             "mismatches": mismatch 
             }
-docs = []
 
-print('loading guides from files')
-for n in os.listdir('data'):
-    with open('data/' +n) as f:
-        gene_guides = []
-        for line in f.readlines():
-            line = line.strip()
-            if (len(line) < 1 or line[0] == '#' or line.startswith('Zv9_scaff')):
-                continue
-            try:
-                rec = parseRecord(line)
-                rec['gene'] = n.split('.')[0]
-                docs.append(rec)
-                gene_guides.append(rec)
-            except:
-                print('error parsing: ' + line + ' from ' + n)
-        gene_guides.sort(key=lambda r: -r['score'])
-        outof = ' out of ' + str(len(gene_guides))
-        for idx, guide in enumerate(gene_guides):
-            guide['rank'] = str(idx+1) + outof
+def loading_guides_from_folder(datadir):
+    docs = []
 
-print("{0} total guides".format(len(docs)))
+    print('loading guides from: ' + datadir)
+    for n in os.listdir(os.path.join(datadir,'guides')):
+        with open(os.path.join(datadir,'guides',n)) as f:
+            gene_guides = []
+            for line in f.readlines():
+                line = line.strip()
+                #if (len(line) < 1 or line[0] == '#' or line.startswith('Zv9_scaff')):
+                if len(line) < 1 or line[0] == '#':
+                    continue
+                try:
+                    rec = parseRecord(line)
+                    rec['gene'] = n.split('.')[0]
+                    docs.append(rec)
+                    gene_guides.append(rec)
+                except:
+                    print('error parsing: ' + line + ' from ' + n)
+            gene_guides.sort(key=lambda r: -r['score'])
+            outof = ' out of ' + str(len(gene_guides))
+            for idx, guide in enumerate(gene_guides):
+                guide['rank'] = str(idx+1) + outof
+
+    print("{0} total guides".format(len(docs)))
+    return docs
 
 client = pymongo.MongoClient(URL)
-db = client[DB]
 
-collection = db.guides
+def load_species(name):
+    db = client[name]
+
+    collection = db.guides
+    docs = loading_guides_from_folder(os.path.join('data', name))
+    result = collection.insert_many(docs)
+
+    print('creating index')
+    from pymongo import ASCENDING
+    collection.create_index([('chromosome', ASCENDING), ('start', ASCENDING), ('end', ASCENDING)],
+                name= "chr_region_idx", unique=False, background= False, j= True)
+    collection.create_index([('gene', ASCENDING)],
+                name= "gene_idx", unique=False, background= False, j= True)
 
 
-result = collection.insert_many(docs)
+for species_release in os.listdir('data/'):
+    load_species(species_release)
 
-print('creating index')
-from pymongo import ASCENDING
-collection.create_index([('chromosome', ASCENDING), ('start', ASCENDING), ('end', ASCENDING)],
-            name= "chr_region_idx", unique=False, background= False, j= True)
-collection.create_index([('gene', ASCENDING)],
-            name= "gene_idx", unique=False, background= False, j= True)
 print('import done')
