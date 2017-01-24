@@ -2,9 +2,8 @@
 import pymongo
 import os
 
-URL = 'mongodb://mongodb:27017/';
-#URL = 'mongodb://172.16.75.133:32769/';
-DB = 'drerio'
+#URL = 'mongodb://mongodb:27017/';
+URL = 'mongodb://localhost:27017/';
 
 def parseDomains(domainsLines):
     domains = []
@@ -76,9 +75,10 @@ def makeProteinRecord(proteinLine, exonsLine, domainsLines):
     protein['domains'].sort(key= lambda domain: domain['start'])
     return protein
 
-def saveToMongo(docs):
+def saveToMongo(dbname, docs):
+    print('saving proteins in %s' % dbname)
     client = pymongo.MongoClient(URL)
-    db = client[DB]
+    db = client[dbname]
 
     collection = db.proteins
 
@@ -88,14 +88,14 @@ def saveToMongo(docs):
     from pymongo import ASCENDING
     collection.create_index([('chromosome', ASCENDING), ('start', ASCENDING), ('end', ASCENDING)],
                 name= "chr_region_idx", unique=False, background= False, j= True)
-    print('import done')
+    print('done')
 
 
-def loadProteins():
-    print('loading proteins from files')
+def loadProteins(datadir):
+    print('loading proteins from %s' % datadir)
     proteins = []
-    for n in os.listdir('canonical'):
-        with open('canonical/' +n) as f:
+    for n in os.listdir(datadir):
+        with open(os.path.join(datadir,n)) as f:
             protein = f.readline()
             exons   = f.readline()
             domains = f.readlines() # might be empty
@@ -107,5 +107,9 @@ def loadProteins():
     return proteins
 
 if __name__ == '__main__':
-    docs = loadProteins()
-    saveToMongo(docs)
+    for species_release in os.listdir('canonical'):
+        docs = loadProteins(os.path.join('canonical', species_release))
+        saveToMongo(species_release, docs)
+
+    print('import done')
+
