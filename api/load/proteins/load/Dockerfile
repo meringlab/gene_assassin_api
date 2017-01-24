@@ -4,11 +4,11 @@
 #  "git"    : "https://github.com/meringlab/crispr-domains"
 #  "license": "MIT",
 
-FROM        ubuntu:14.04
+FROM        ubuntu:xenial
 MAINTAINER  Milan Simonovic <milan.simonovic@imls.uzh.ch>
 
 # update to invalidate docker's cache and force apt-get update
-ENV REFRESHED_AT 2015-11-17
+ENV REFRESHED_AT 2017-01-24
 
 RUN apt-get update && apt-get install -y build-essential python-dev  python-pip
 RUN pip install pymongo
