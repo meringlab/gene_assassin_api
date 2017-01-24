@@ -8,8 +8,11 @@ const logger = bunyan.createLogger({
 });
 
 const AVAILABLE_SPECIES = {
-  'drerio':'drerio-grcz10',
-  'hsapiens' : 'hsapiens-grch38'
+    'drerio': 'drerio-85',
+    'hsapiens': 'hsapiens-85',
+    'mmusculus': 'mmusculus-85',
+    'celegans': 'celegans-85',
+    'scerevisiae': 'scerevisiae-85',
 };
 //maintain mongodb clients, one per species
 const storagePool = {};
