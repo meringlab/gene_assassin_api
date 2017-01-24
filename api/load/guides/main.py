@@ -85,7 +85,8 @@ def load_species(name):
                 name= "gene_idx", unique=False, background= False, j= True)
 
 
-for species_release in os.listdir('data/'):
-    load_species(species_release)
+if __name__ == '__main__':
+    for species_release in os.listdir('data/'):
+        load_species(species_release)
 
-print('import done')
+    print('import done')
