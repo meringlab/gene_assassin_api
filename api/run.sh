@@ -6,4 +6,4 @@
 #  sudo dpkg-reconfigure -f noninteractive tzdata;
 #fi
 
-. ~/.nvm/nvm.sh && nvm use v0.12;  NODE_ENV=production ./bin/www
+NODE_ENV=production ./bin/www
