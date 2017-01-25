@@ -1,0 +1,228 @@
+{
+	"version": "v4",
+	"apiVersion": "${cellbase.version}",
+	"wiki": "https://github.com/opencb/cellbase/wiki",
+	"databases": {
+		"mongodb": {
+			"host": "${CELLBASE.DB.MONGODB.HOST}",
+			"user": "${CELLBASE.DB.USER}",
+			"password": "${CELLBASE.DB.PASSWORD}",
+			"options": {
+				"authenticationDatabase": "${CELLBASE.DB.MONGODB.AUTHENTICATIONDATABASE}",
+				"readPreference": "${CELLBASE.DB.MONGODB.READPREFERENCE}",
+				"mongodb-index-folder":"mongodb-scripts",
+				"replicaSet": "${CELLBASE.DB.MONGODB.REPLICASET}"
+			}
+		},
+		"neo4j": {
+			"hsapiens": {
+				"host": "${CELLBASE.DB.NEO4J.HOST}",
+				"user": "${CELLBASE.DB.USER}",
+				"password": "${CELLBASE.DB.PASSWORD}"
+			},
+			"mmusculus": {
+				"host": "${CELLBASE.DB.NEO4J.HOST}",
+				"user": "${CELLBASE.DB.USER}",
+				"password": "${CELLBASE.DB.PASSWORD}"
+			}
+		}
+	},
+	"defaultOutdir": "/tmp",
+	"download": {
+		"ensembl": {
+			"database": {
+				"host": "ensembl-db:3306",
+				"user": "anonymous",
+				"password": ""
+			},
+			"libs": "${CELLBASE.ENSEMBL.LIBS}",
+			"url": {
+				"host": "ftp://ftp.ensembl.org/pub"
+			}
+		},
+		"ensemblGenomes":{
+			"database":{
+				"host": "mysql-eg-publicsql.ebi.ac.uk:4157",
+				"user": "anonymous",
+				"password": ""
+			},
+			"libs": "${CELLBASE.ENSEMBL.LIBS}",
+			"url":{
+				"host":"ftp://ftp.ensemblgenomes.org/pub"
+			}
+		},
+		"geneUniprotXref": {
+			"host": "ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/idmapping/by_organism/"
+		},
+		"geneExpressionAtlas": {
+			"host": "ftp://ftp.ebi.ac.uk/pub/databases/microarray/data/gxa/allgenes_updown_in_organism_part_2.0.14.tab.gz"
+		},
+		"mirbase": {
+			"host": "ftp://mirbase.org/pub/mirbase/CURRENT/"
+		},
+		"mirbaseReadme": {
+			"host": "ftp://mirbase.org/pub/mirbase/CURRENT/README"
+		},
+		"targetScan": {
+			"host": "http://hgdownload.cse.ucsc.edu/goldenPath/"
+		},
+		"miRTarBase": {
+			"host": "http://mirtarbase.mbc.nctu.edu.tw/cache/download/4.5/"
+		},
+		"uniprot": {
+			"host": "ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.xml.gz"
+		},
+		"uniprotRelNotes": {
+			"host": "ftp://ftp.uniprot.org/pub/databases/uniprot/relnotes.txt"
+		},
+		"intact": {
+			"host": "ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psimitab/intact.txt"
+		},
+		"interpro": {
+			"host": "ftp://ftp.ebi.ac.uk/pub/databases/interpro/current/protein2ipr.dat.gz"
+		},
+		"interproRelNotes": {
+			"host": "ftp://ftp.ebi.ac.uk/pub/databases/interpro/current/release_notes.txt"
+		},
+		"conservation": {
+			"host": "ftp://hgdownload.cse.ucsc.edu/goldenPath/"
+		},
+		"gerp": {
+			"host": "http://mendel.stanford.edu/SidowLab/downloads/gerp/hg19.GERP_scores.tar.gz"
+		},
+		"clinvar": {
+			"host": "ftp://ftp.ncbi.nlm.nih.gov/pub/clinvar/xml/ClinVarFullRelease_2016-12.xml.gz"
+		},
+		"clinvarSummary": {
+			"host": "ftp://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/variant_summary.txt.gz"
+		},
+		"clinvarEfoTerms": {
+			"host": "ftp://ftp.ebi.ac.uk/pub/databases/eva/ClinVar/2015/ClinVar_Traits_EFO_Names_260615.csv"
+		},
+		"gwasCatalog": {
+			"host": "ftp://ftp.ebi.ac.uk/pub/databases/gwas/releases/2016/09/28/gwas-catalog-associations.tsv"
+		},
+		"hpo": {
+			"host": "http://compbio.charite.de/hudson/job/hpo.annotations.monthly/lastStableBuild/artifact/annotation/ALL_SOURCES_ALL_FREQUENCIES_diseases_to_genes_to_phenotypes.txt"
+		},
+		"disgenet": {
+			"host": "http://www.disgenet.org/ds/DisGeNET/results/all_gene_disease_associations.tsv.gz"
+		},
+		"disgenetReadme": {
+			"host": "http://www.disgenet.org/ds/DisGeNET/results/readme.txt"
+		},
+		"dgidb": {
+			"host": "http://dgidb.genome.wustl.edu/downloads/interactions.tsv"
+		},
+		"cadd": {
+			"host": "http://krishna.gs.washington.edu/download/CADD/v1.3/whole_genome_SNVs.tsv.gz"
+		},
+		"reactome": {
+			"host": "http://www.reactome.org/download/current/biopax.zip"
+		}
+	},
+	"species": {
+		"vertebrates": [
+			{
+				"id": "hsapiens",
+				"scientificName": "Homo sapiens",
+				"assemblies": [
+					{
+						"ensemblVersion":"85_38",
+						"name":"GRCh38"
+					}
+				],
+				"data":[
+					"genome",
+					"genome_info",
+					"gene",
+					"gene_disease_association",
+					"variation",
+					"variation_functional_score",
+					"regulation",
+					"protein",
+					"conservation",
+					"clinical"
+				]
+			},
+			{
+				"id":"mmusculus",
+				"scientificName":"Mus musculus",
+				"assemblies":[
+					{
+						"ensemblVersion":"85_38",
+						"name":"GRCm38"
+					}
+				],
+				"data":[
+					"genome",
+					"genome_info",
+					"gene",
+					"variation",
+					"regulation",
+					"protein",
+					"conservation"
+				]
+			},
+			{
+				"id":"drerio",
+				"scientificName":"Danio rerio",
+				"assemblies":[
+					{
+						"ensemblVersion":"85_10",
+						"name":"GRCz10"
+					}
+				],
+				"data":[
+					"genome",
+					"genome_info",
+					"gene",
+					"variation",
+					"protein"
+				]
+			}
+		],
+		"metazoa":[
+			{
+				"id":"celegans",
+				"scientificName":"Caenorhabditis elegans",
+				"assemblies":[
+					{
+						"ensemblVersion":"32_85_250",
+						"name":"WBcel235"
+					}
+				],
+				"data":[
+					"genome",
+					"genome_info",
+					"gene",
+					"variation",
+					"protein"
+				]
+			}
+		],
+		"fungi":[
+			{
+				"id":"scerevisiae",
+				"scientificName":"Saccharomyces cerevisiae",
+				"assemblies":[
+					{
+						"ensemblVersion":"32_85_4",
+						"name":"R64-1-1"
+					}
+				],
+				"data":[
+					"genome",
+					"genome_info",
+					"gene",
+					"variation",
+					"protein"
+				]
+			}
+		],
+		"protist":[],
+		"plants":[],
+		"virus" : [],
+		"bacteria": []
+	}
+}
