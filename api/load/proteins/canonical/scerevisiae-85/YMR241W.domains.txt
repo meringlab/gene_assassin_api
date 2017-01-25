@@ -1,0 +1,5 @@
+#>P	YMR241W	YMR241W	YMR241W	XIII	751961	752902	1	Citrate and oxoglutarate carrier protein; exports citrate from and imports oxoglutarate into the mitochondrion, causing net export of NADPH reducing equivalents; also associates with mt nucleoids and has a role in replication and segregation of the mt genome [Source:SGD;Acc:S000004854]
+#>E	YMR241W.1	1.0	751961-752905
+XIII	752288	752551	1.0	Mitochondrial_sb/sol_carrier	0	752288-752551	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XIII	752024	752227	1.0	Mitochondrial_sb/sol_carrier	0	752024-752227	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XIII	752594	752869	1.0	Mitochondrial_sb/sol_carrier	0	752594-752869	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

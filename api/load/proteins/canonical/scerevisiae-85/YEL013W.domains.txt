@@ -1,0 +1,10 @@
+#>P	YEL013W	YEL013W	YEL013W	V	128825	130558	1	Phosphorylated and palmitoylated vacuolar membrane protein; interacts with Atg13p, required for the cytoplasm-to-vacuole targeting (Cvt) pathway; interacts with Nvj1p to form nucleus-vacuole junctions [Source:SGD;Acc:S000000739]
+#>E	YEL013W.1	1.0	128825-130561
+V	130058	130162	1.0	Armadillo	0	130058-130162	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+V	129413	129532	1.0	Armadillo	0	129413-129532	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+V	129080	129163	1.0	Armadillo	0	129080-129163	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+V	129293	129409	1.0	Armadillo	0	129293-129409	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+V	129806	129913	1.0	Armadillo	0	129806-129913	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+V	129167	129286	1.0	Armadillo	0	129167-129286	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+V	129680	129784	1.0	Armadillo	0	129680-129784	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+V	129578	129664	1.0	Armadillo	0	129578-129664	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514

@@ -1,0 +1,3 @@
+#>P	ENSG00000128268	ENST00000341184	ENSP00000345270	22	39487348	39488946	1	mannosyl (beta-1,4-)-glycoprotein beta-1,4-N-acetylglucosaminyltransferase [Source:HGNC Symbol;Acc:HGNC:7046]
+#>E	ENSE00001525937	0	39487348-39488949
+22	39487948	39488409	1	Glyco_trans_17	99.7	39487948-39488409	PF04724	http://pfam.sanger.ac.uk/family?acc=PF04724

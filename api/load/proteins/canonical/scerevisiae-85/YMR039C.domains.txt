@@ -1,0 +1,3 @@
+#>P	YMR039C	YMR039C	YMR039C	XIII	348647	349522	-1	Transcriptional coactivator; facilitates elongation through factors that modify RNAP II; role in peroxide resistance involving Rad2p; role in nonhomologous end-joining (NHEJ) of ds breaks in plasmid DNA, but not chromosomal DNA; role in the hyperosmotic stress response through polymerase recruitment at RNAP II and RNAP III genes; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004642]
+#>E	YMR039C.1	1.0	348644-349522
+XIII	349217	349420	-1.0	PC4	0	349217-349420	PF02229	http://pfam.sanger.ac.uk/family?acc=PF02229

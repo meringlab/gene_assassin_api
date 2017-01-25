@@ -1,0 +1,3 @@
+#>P	YFR025C	YFR025C	YFR025C	VI	203746	204750	-1	Histidinolphosphatase; catalyzes the eighth step in histidine biosynthesis; mutations cause histidine auxotrophy and sensitivity to Cu, Co, and Ni salts; transcription is regulated by general amino acid control [Source:SGD;Acc:S000001921]
+#>E	YFR025C.1	1.0	203743-204750
+VI	203989	204744	-1.0	PHP_C	0	203989-204744	PF02811	http://pfam.sanger.ac.uk/family?acc=PF02811

@@ -1,0 +1,3 @@
+#>P	YNL310C	YNL310C	YNL310C	XIV	51910	52431	-1	Protein co-chaperone with a zinc finger motif; essential for protein import into mitochondria; may act with Pam18p to facilitate recognition and folding of imported proteins by Ssc1p (mtHSP70) in the mitochondrial matrix; required for the maintenance of Ssc1p solubility and assists in the functional interaction of Ssc1p with substrate proteins [Source:SGD;Acc:S000005254]
+#>E	YNL310C.1	1.0	51907-52431
+XIV	52030	52227	-1.0	Znf_DNL-typ	0	52030-52227	PF05180	http://pfam.sanger.ac.uk/family?acc=PF05180

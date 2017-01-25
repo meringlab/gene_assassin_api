@@ -1,0 +1,4 @@
+#>P	YFL062W	YFL062W	YFL062W	VI	6426	7562	1	Protein of unknown function; member of the DUP380 subfamily of conserved, often subtelomerically-encoded proteins [Source:SGD;Acc:S000001832]
+#>E	YFL062W.1	1.0	6426-7565
+VI	7161	7481	1.0	DUP	0	7161-7481	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674
+VI	6618	6926	1.0	DUP	0	6618-6926	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674

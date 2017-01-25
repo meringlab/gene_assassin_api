@@ -1,0 +1,3 @@
+#>P	YOR115C	YOR115C	YOR115C	XV	538662	539465	-1	Core component of transport protein particle (TRAPP) complexes I-III; TRAPP complexes are related multimeric guanine nucleotide-exchange factor for the GTPase Ypt1p, regulating ER-Golgi traffic (TRAPPI), intra-Golgi traffic (TRAPPII), endosome-Golgi traffic (TRAPPII and III) and autophagy (TRAPPIII) [Source:SGD;Acc:S000005641]
+#>E	YOR115C.1	1.0	538659-539465
+XV	538674	539333	-1.0	TRAPP_component	0	538674-539333	PF04051	http://pfam.sanger.ac.uk/family?acc=PF04051

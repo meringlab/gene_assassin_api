@@ -1,0 +1,4 @@
+#>P	YLL066C	YLL066C	YLL066C	XII	6123	9836	-1	Putative Y' element ATP-dependent helicase; YLL066C is not an essential gene [Source:SGD;Acc:S000003989]
+#>E	YLL066C.2,YLL066C.1	1,1	6120-9450,9550-9836
+XII	8109	8318	-1	Helicase_C	0	8109-8318	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XII	8628	9104	-1	DNA/RNA_helicase_DEAD/DEAH_N	0	8628-9104	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

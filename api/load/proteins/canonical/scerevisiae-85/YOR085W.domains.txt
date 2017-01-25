@@ -1,0 +1,3 @@
+#>P	YOR085W	YOR085W	YOR085W	XV	482033	483082	1	Gamma subunit of the oligosaccharyltransferase complex of the ER lumen; complex catalyzes asparagine-linked glycosylation of newly synthesized proteins; Ost3p is important for N-glycosylation of a subset of proteins [Source:SGD;Acc:S000005611]
+#>E	YOR085W.1	1.0	482033-483085
+XV	482522	483013	1.0	OligosaccharylTrfase_OST3/OST6	0	482522-483013	PF04756	http://pfam.sanger.ac.uk/family?acc=PF04756

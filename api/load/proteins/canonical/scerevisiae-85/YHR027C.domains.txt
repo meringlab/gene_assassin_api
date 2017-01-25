@@ -1,0 +1,3 @@
+#>P	YHR027C	YHR027C	YHR027C	VIII	161733	164711	-1	Non-ATPase base subunit of the 19S RP of the 26S proteasome; may participate in the recognition of several ligands of the proteasome; contains a leucine-rich repeat (LRR) domain, a site for protein-protein interactions; RP is the acronym for regulatory particle [Source:SGD;Acc:S000001069]
+#>E	YHR027C.1	1.0	161730-164711
+VIII	163152	163250	-1.0	APC_proteasome	0	163152-163250	PF01851	http://pfam.sanger.ac.uk/family?acc=PF01851

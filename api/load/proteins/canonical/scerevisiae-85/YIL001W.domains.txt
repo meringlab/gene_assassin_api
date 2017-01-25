@@ -1,0 +1,5 @@
+#>P	YIL001W	YIL001W	YIL001W	IX	353940	355478	1	Putative protein of unknown function; contains a BTB/POZ domain which generally function in protein interactions; deletion slightly improved competitive fitness in rich media; GFP-tagged protein is localized to the cytoplasm [Source:SGD;Acc:S000001263]
+#>E	YIL001W.1	1.0	353940-355481
+IX	354066	354137	1.0	Ankyrin_rpt	0	354066-354137	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+IX	354306	354560	1.0	BTB_POZ	0	354306-354560	PF00651	http://pfam.sanger.ac.uk/family?acc=PF00651
+IX	354735	355106	1.0	BTB_POZ	0	354735-355106	PF00651	http://pfam.sanger.ac.uk/family?acc=PF00651

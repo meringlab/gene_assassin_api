@@ -1,0 +1,4 @@
+#>P	YLL040C	YLL040C	YLL040C	XII	54214	63645	-1	Protein involved in prospore membrane morphogenesis; heterooligomeric or homooligomeric complex; peripherally associated with membranes; involved in sporulation, vacuolar protein sorting, prospore membrane formation during sporulatoin, and protein-Golgi retention; homologous to human CHAC and COH1 which are involved in chorea acanthocytosis and Cohen syndrome, respectively [Source:SGD;Acc:S000003963]
+#>E	YLL040C.1	1.0	54211-63645
+XII	63292	63642	-1.0	VPS13A_N	0	63292-63642	PF12624	http://pfam.sanger.ac.uk/family?acc=PF12624
+XII	56194	57030	-1.0	VPSAP	0	56194-57030	PF06650	http://pfam.sanger.ac.uk/family?acc=PF06650

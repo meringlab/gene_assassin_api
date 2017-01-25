@@ -1,0 +1,4 @@
+#>P	YML125C	YML125C	YML125C	XIII	20764	21699	-1	Putative cytochrome b5 reductase, localized to the plasma membrane; may be involved in regulation of lifespan; required for maturation of Gas1p and Pho8p, proposed to be involved in protein trafficking; PGA3 has a paralog, AIM33, that arose from the whole genome duplication [Source:SGD;Acc:S000004594]
+#>E	YML125C.1	1.0	20761-21699
+XIII	21184	21477	-1.0	OxRdtase_FAD-bd_dom	0	21184-21477	PF00970	http://pfam.sanger.ac.uk/family?acc=PF00970
+XIII	20845	21156	-1.0	OxRdtase_FAD/NAD-bd	0	20845-21156	PF00175	http://pfam.sanger.ac.uk/family?acc=PF00175

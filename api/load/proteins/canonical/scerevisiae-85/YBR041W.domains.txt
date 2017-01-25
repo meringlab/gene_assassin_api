@@ -1,0 +1,3 @@
+#>P	YBR041W	YBR041W	YBR041W	II	318266	320272	1	Very long chain fatty acyl-CoA synthetase and fatty acid transporter; activates imported fatty acids with a preference for very long lengths (C20-C26); has a separate function in the transport of long chain fatty acids [Source:SGD;Acc:S000000245]
+#>E	YBR041W.1	1.0	318266-320275
+II	318602	319909	1.0	AMP-dep_Synth/Lig	0	318602-319909	PF00501	http://pfam.sanger.ac.uk/family?acc=PF00501

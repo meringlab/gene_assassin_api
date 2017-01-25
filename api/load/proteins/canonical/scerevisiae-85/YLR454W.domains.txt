@@ -1,0 +1,8 @@
+#>P	YLR454W	YLR454W	YLR454W	XII	1043998	1051881	1	Putative protein of unknown function; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies [Source:SGD;Acc:S000004446]
+#>E	YLR454W.1	1.0	1043998-1051884
+XII	1044046	1046763	1.0	FMP27_N	0	1044046-1046763	PF10344	http://pfam.sanger.ac.uk/family?acc=PF10344
+XII	1046803	1047318	1.0	FMP27_DUF2405	0	1046803-1047318	PF10293	http://pfam.sanger.ac.uk/family?acc=PF10293
+XII	1047889	1048365	1.0	FMP27_GFWDK_dom	0	1047889-1048365	PF10347	http://pfam.sanger.ac.uk/family?acc=PF10347
+XII	1049146	1050516	1.0	FMP27_WPPW_dom	0	1049146-1050516	PF10359	http://pfam.sanger.ac.uk/family?acc=PF10359
+XII	1047526	1047837	1.0	FMP27_SW_dom	0	1047526-1047837	PF10305	http://pfam.sanger.ac.uk/family?acc=PF10305
+XII	1050550	1051764	1.0	FMP27_C	0	1050550-1051764	PF10351	http://pfam.sanger.ac.uk/family?acc=PF10351

@@ -1,0 +1,3 @@
+#>P	YMR143W	YMR143W	YMR143W	XIII	551928	552900	1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S16 and bacterial S9; RPS16A has a paralog, RPS16B, that arose from the whole genome duplication [Source:SGD;Acc:S000004751]
+#>E	YMR143W.1,YMR143W.2	1,1	551928-551951,552496-552903
+XIII	552502	552900	1	Ribosomal_S9	0	552502-552900	PF00380	http://pfam.sanger.ac.uk/family?acc=PF00380

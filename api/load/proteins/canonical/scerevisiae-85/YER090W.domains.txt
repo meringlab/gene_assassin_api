@@ -1,0 +1,4 @@
+#>P	YER090W	YER090W	YER090W	V	337949	339469	1	Anthranilate synthase; catalyzes the initial step of tryptophan biosynthesis, forms multifunctional hetero-oligomeric anthranilate synthase:indole-3-glycerol phosphate synthase enzyme complex with Trp3p [Source:SGD;Acc:S000000892]
+#>E	YER090W.1	1.0	337949-339472
+V	338636	339403	1.0	Chorismate-bd_C	0	338636-339403	PF00425	http://pfam.sanger.ac.uk/family?acc=PF00425
+V	338066	338467	1.0	Anth_synth_I_N	0	338066-338467	PF04715	http://pfam.sanger.ac.uk/family?acc=PF04715

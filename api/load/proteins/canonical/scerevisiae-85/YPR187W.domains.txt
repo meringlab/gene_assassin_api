@@ -1,0 +1,3 @@
+#>P	YPR187W	YPR187W	YPR187W	XVI	911257	911797	1	RNA polymerase subunit ABC23; common to RNA polymerases I, II, and III; part of central core; similar to bacterial omega subunit [Source:SGD;Acc:S000006391]
+#>E	YPR187W.1,YPR187W.2	1,1	911257-911276,911353-911800
+XVI	911564	911734	1	RNA_poly_omega/K/RPABC2	0	911564-911734	PF01192	http://pfam.sanger.ac.uk/family?acc=PF01192

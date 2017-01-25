@@ -1,0 +1,4 @@
+#>P	YKR101W	YKR101W	YKR101W	XI	640540	642501	1	Protein involved in silencing at mating-type loci HML and HMR; recruitment to silent chromatin requires interactions with Orc1p and with Sir4p, through a common Sir1p domain; binds to centromeric chromatin [Source:SGD;Acc:S000001809]
+#>E	YKR101W.1	1.0	640540-642504
+XI	640549	640920	1.0	Regulatory_Sir1	0	640549-640920	PF11603	http://pfam.sanger.ac.uk/family?acc=PF11603
+XI	641914	642300	1.0	Regulatory_Sir1	0	641914-642300	PF11603	http://pfam.sanger.ac.uk/family?acc=PF11603

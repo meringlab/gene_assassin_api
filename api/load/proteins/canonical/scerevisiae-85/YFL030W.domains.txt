@@ -1,0 +1,3 @@
+#>P	YFL030W	YFL030W	YFL030W	VI	76831	77985	1	Alanine:glyoxylate aminotransferase (AGT); catalyzes the synthesis of glycine from glyoxylate, which is one of three pathways for glycine biosynthesis in yeast; has similarity to mammalian and plant alanine:glyoxylate aminotransferases [Source:SGD;Acc:S000001864]
+#>E	YFL030W.1	1.0	76831-77988
+VI	76942	77865	1.0	Aminotrans_V/Cys_dSase	0	76942-77865	PF00266	http://pfam.sanger.ac.uk/family?acc=PF00266

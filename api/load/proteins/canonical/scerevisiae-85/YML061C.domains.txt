@@ -1,0 +1,4 @@
+#>P	YML061C	YML061C	YML061C	XIII	148956	151532	-1	DNA helicase, potent G-quadruplex DNA binder/unwinder; promotes DNA synthesis during break-induced replication (BIR); important for crossover recombination; translated from different start sites for two forms localized to either mitochondria or nucleus; nuclear form is catalytic inhibitor of telomerase; mitochondrial form involved in mitochondrial DNA repair and recombination; mutations affect Zn, Fe homeostasis; regulated by Rad53p-dependent phosphorylation in rho0 cells [Source:SGD;Acc:S000004526]
+#>E	YML061C.1	1.0	148953-151532
+XIII	149907	150158	-1.0	DNA_helicase_PIF1	0	149907-150158	PF05970	http://pfam.sanger.ac.uk/family?acc=PF05970
+XIII	150204	150827	-1.0	DNA_helicase_PIF1	0	150204-150827	PF05970	http://pfam.sanger.ac.uk/family?acc=PF05970

@@ -1,0 +1,4 @@
+#>P	YKL029C	YKL029C	YKL029C	XI	382719	384725	-1	Mitochondrial malic enzyme; catalyzes the oxidative decarboxylation of malate to pyruvate, which is a key intermediate in sugar metabolism and a precursor for synthesis of several amino acids [Source:SGD;Acc:S000001512]
+#>E	YKL029C.1	1.0	382716-384725
+XI	383691	384230	-1.0	Malic_N	0	383691-384230	PF00390	http://pfam.sanger.ac.uk/family?acc=PF00390
+XI	382902	383663	-1.0	Malic_NAD-bd	0	382902-383663	PF03949	http://pfam.sanger.ac.uk/family?acc=PF03949

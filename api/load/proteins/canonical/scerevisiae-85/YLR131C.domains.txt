@@ -1,0 +1,4 @@
+#>P	YLR131C	YLR131C	YLR131C	XII	404513	406822	-1	Transcription factor required for septum destruction after cytokinesis; phosphorylation by Cbk1p blocks nuclear exit during M/G1 transition, causing localization to daughter cell nuclei, and also increases Ace2p activity; phosphorylation by Cdc28p and Pho85p prevents nuclear import during cell cycle phases other than cytokinesis; part of RAM network that regulates cellular polarity and morphogenesis; ACE2 has a paralog, SWI5, that arose from the whole genome duplication [Source:SGD;Acc:S000004121]
+#>E	YLR131C.1	1.0	404510-406822
+XII	404942	405016	-1.0	Znf_C2H2	0	404942-405016	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+XII	404852	404926	-1.0	Znf_C2H2	0	404852-404926	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

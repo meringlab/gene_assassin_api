@@ -1,0 +1,4 @@
+#>P	YGR210C	YGR210C	YGR210C	VII	913506	914738	-1	Putative protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm [Source:SGD;Acc:S000003442]
+#>E	YGR210C.1	1.0	913503-914738
+VII	913725	914063	-1.0	MMR_HSR1_C	110.1	913725-914063	PF08438	http://pfam.sanger.ac.uk/family?acc=PF08438
+VII	914370	914720	-1.0	GTP_binding_domain	64.3	914370-914720	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926

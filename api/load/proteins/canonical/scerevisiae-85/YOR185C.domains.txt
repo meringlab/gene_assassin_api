@@ -1,0 +1,3 @@
+#>P	YOR185C	YOR185C	YOR185C	XV	681447	682106	-1	GTP binding protein (mammalian Ranp homolog); involved in the maintenance of nuclear organization, RNA processing and transport; interacts with Kap121p, Kap123p and Pdr6p (karyophilin betas); not required for viability; protein abundance increases in response to DNA replication stress; GSP2 has a paralog, GSP1, that arose from the whole genome duplication [Source:SGD;Acc:S000005711]
+#>E	YOR185C.1	1.0	681444-682106
+XV	681594	682064	-1.0	Small_GTPase	0	681594-682064	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071

@@ -1,0 +1,4 @@
+#>P	YOR143C	YOR143C	YOR143C	XV	601386	602342	-1	Thiamine pyrophosphokinase; phosphorylates thiamine to produce the coenzyme thiamine pyrophosphate (thiamine diphosphate) [Source:SGD;Acc:S000005669]
+#>E	YOR143C.1	1.0	601383-602342
+XV	601935	602198	-1.0	TPK_catalytic	0	601935-602198	PF04263	http://pfam.sanger.ac.uk/family?acc=PF04263
+XV	601431	601637	-1.0	Thiamin_PyroPKinase_B1-bd	0	601431-601637	PF04265	http://pfam.sanger.ac.uk/family?acc=PF04265

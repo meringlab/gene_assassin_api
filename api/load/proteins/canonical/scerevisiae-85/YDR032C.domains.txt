@@ -1,0 +1,3 @@
+#>P	YDR032C	YDR032C	YDR032C	IV	504102	504695	-1	Protein with similarity to a family of flavodoxin-like proteins; induced by oxidative stress in a Yap1p dependent manner; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; protein abundance increases in response to DNA replication stress; PST2 has a paralog, RFS1, that arose from the whole genome duplication [Source:SGD;Acc:S000002439]
+#>E	YDR032C.1	1.0	504099-504695
+IV	504306	504680	-1.0	Flavodoxin/NO_synth	0	504306-504680	PF00258	http://pfam.sanger.ac.uk/family?acc=PF00258

@@ -1,0 +1,5 @@
+#>P	WBGene00019823	R02D3.5	R02D3.5	IV	237965	240298	-1	FarNesylTransferase, Alpha subunit  [Source:RefSeq peptide;Acc:NP_499882]
+#>E	R02D3.5.e4,R02D3.5.e3,R02D3.5.e2,R02D3.5.e1	1,1,1,1	237962-238075,238220-238463,239619-240123,240175-240298
+IV	239771	239851	-1	Prenyl_trans_a	141.2	239771-239851	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239
+IV	239879	239959	-1	Prenyl_trans_a	141.2	239879-239959	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239
+IV	239984	240058	-1	Prenyl_trans_a	141.2	239984-240058	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239

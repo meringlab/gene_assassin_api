@@ -1,0 +1,3 @@
+#>P	YKL201C	YKL201C	YKL201C	XI	63933	67466	-1	Putative positive regulator of mannosylphosphate transferase Mnn6p; involved in mannosylphosphorylation of N-linked oligosaccharides; expression increases in late-logarithmic and stationary growth phases; coding sequence contains length polymorphisms in different strains; MNN4 has a paralog, YJR061W, that arose from the whole genome duplication [Source:SGD;Acc:S000001684]
+#>E	YKL201C.1	1.0	63930-67466
+XI	65229	65999	-1.0	LicD	0	65229-65999	PF04991	http://pfam.sanger.ac.uk/family?acc=PF04991

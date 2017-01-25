@@ -1,0 +1,3 @@
+#>P	YLR388W	YLR388W	YLR388W	XII	898651	898818	1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S29 and bacterial S14; RPS29A has a paralog, RPS29B, that arose from the whole genome duplication [Source:SGD;Acc:S000004380]
+#>E	YLR388W.1	1.0	898651-898821
+XII	898663	898815	1.0	Ribosomal_S14	0	898663-898815	PF00253	http://pfam.sanger.ac.uk/family?acc=PF00253

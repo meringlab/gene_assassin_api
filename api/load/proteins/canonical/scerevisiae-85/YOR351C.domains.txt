@@ -1,0 +1,4 @@
+#>P	YOR351C	YOR351C	YOR351C	XV	995021	996511	-1	Meiosis-specific serine/threonine protein kinase; functions in meiotic checkpoint, promotes recombination between homologous chromosomes by suppressing double strand break repair between sister chromatids; stabilizes Hop1-Thr318 phosphorylation to promote interhomolog recombination and checkpoint responses during meiosis [Source:SGD;Acc:S000005878]
+#>E	YOR351C.1	1.0	995018-996511
+XV	996158	996373	-1.0	FHA_dom	0	996158-996373	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498
+XV	995180	996019	-1.0	Prot_kinase_cat_dom	0	995180-996019	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

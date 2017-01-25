@@ -1,0 +1,4 @@
+#>P	YKL047W	YKL047W	YKL047W	XI	349463	351010	1	Putative protein of unknown function; may have a role in lipid metabolism, based on localization to lipid droplets; predicted to be palmitoylated [Source:SGD;Acc:S000001530]
+#>E	YKL047W.1	1.0	349463-351013
+XI	349550	351007	1.0	DUF2347	0	349550-351007	PF09804	http://pfam.sanger.ac.uk/family?acc=PF09804
+XI	349550	349717	1.0	Afi1_N	0	349550-349717	PF07792	http://pfam.sanger.ac.uk/family?acc=PF07792

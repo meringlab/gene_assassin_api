@@ -1,0 +1,5 @@
+#>P	YDR009W	YDR009W	YDR009W	IV	463434	464993	1	Transcriptional regulator; involved in activation of the GAL genes in response to galactose; forms a complex with Gal80p to relieve Gal80p inhibition of Gal4p; binds galactose and ATP but does not have galactokinase activity; GAL3 has a paralog, GAL1, that arose from the whole genome duplication [Source:SGD;Acc:S000002416]
+#>E	YDR009W.1	1.0	463434-464996
+IV	463515	463661	1.0	GalKase_gal-bd	0	463515-463661	PF10509	http://pfam.sanger.ac.uk/family?acc=PF10509
+IV	464676	464903	1.0	GHMP_kinase_C	0	464676-464903	PF08544	http://pfam.sanger.ac.uk/family?acc=PF08544
+IV	463881	464084	1.0	GHMP_kinase	0	463881-464084	PF00288	http://pfam.sanger.ac.uk/family?acc=PF00288

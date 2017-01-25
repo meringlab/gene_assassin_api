@@ -1,0 +1,5 @@
+#>P	YBR020W	YBR020W	YBR020W	II	279021	280604	1	Galactokinase; phosphorylates alpha-D-galactose to alpha-D-galactose-1-phosphate in the first step of galactose catabolism; expression regulated by Gal4p; GAL1 has a paralog, GAL3, that arose from the whole genome duplication [Source:SGD;Acc:S000000224]
+#>E	YBR020W.1	1.0	279021-280607
+II	279120	279266	1.0	GalKase_gal-bd	0	279120-279266	PF10509	http://pfam.sanger.ac.uk/family?acc=PF10509
+II	280287	280514	1.0	GHMP_kinase_C	0	280287-280514	PF08544	http://pfam.sanger.ac.uk/family?acc=PF08544
+II	279486	279692	1.0	GHMP_kinase	0	279486-279692	PF00288	http://pfam.sanger.ac.uk/family?acc=PF00288

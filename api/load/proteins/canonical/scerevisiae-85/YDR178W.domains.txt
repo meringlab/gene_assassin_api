@@ -1,0 +1,3 @@
+#>P	YDR178W	YDR178W	YDR178W	IV	817950	818492	1	Membrane anchor subunit of succinate dehydrogenase (SDH); involved in coupling the oxidation of succinate to the transfer of electrons to ubiquinone as part of the TCA cycle and the mitochondrial respiratory chain; has similarity to human SDH subunit D (SDHD), which is implicated in paraganglioma [Source:SGD;Acc:S000002585]
+#>E	YDR178W.1	1.0	817950-818495
+IV	818055	818450	1.0	Cyt_b_succ_DH_CybS	0	818055-818450	PF05328	http://pfam.sanger.ac.uk/family?acc=PF05328

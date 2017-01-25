@@ -1,0 +1,3 @@
+#>P	YDL006W	YDL006W	YDL006W	IV	439909	440751	1	Type 2C protein phosphatase (PP2C); dephosphorylates Hog1p, inactivating osmosensing MAPK cascade; involved in Fus3p activation during pheromone response; deletion affects precursor tRNA splicing, mitochondrial inheritance, and sporulation [Source:SGD;Acc:S000002164]
+#>E	YDL006W.1	1.0	439909-440754
+IV	439975	440730	1.0	PP2C-like	0	439975-440730	PF00481	http://pfam.sanger.ac.uk/family?acc=PF00481

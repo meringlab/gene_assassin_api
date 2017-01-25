@@ -1,0 +1,3 @@
+#>P	YDL122W	YDL122W	YDL122W	IV	242552	244978	1	Ubiquitin-specific protease; removes ubiquitin from ubiquitinated proteins; cleaves at the C terminus of ubiquitin fusions irrespective of their size; capable of cleaving polyubiquitin chains [Source:SGD;Acc:S000002280]
+#>E	YDL122W.1	1.0	242552-244981
+IV	242849	244756	1.0	Peptidase_C19	0	242849-244756	PF00443	http://pfam.sanger.ac.uk/family?acc=PF00443

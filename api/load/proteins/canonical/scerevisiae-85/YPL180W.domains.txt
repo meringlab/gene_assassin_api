@@ -1,0 +1,3 @@
+#>P	YPL180W	YPL180W	YPL180W	XVI	205248	207644	1	Subunit of TORC1 (Tor1p or Tor2p-Kog1p-Lst8p-Tco89p); regulates global H3K56ac; TORC1 complex regulates growth in response to nutrient availability; cooperates with Ssd1p in the maintenance of cellular integrity; deletion strains are hypersensitive to rapamycin [Source:SGD;Acc:S000006101]
+#>E	YPL180W.1	1.0	205248-207647
+XVI	205335	207443	1.0	TORC1_cplx_su_TCO89	0	205335-207443	PF10452	http://pfam.sanger.ac.uk/family?acc=PF10452

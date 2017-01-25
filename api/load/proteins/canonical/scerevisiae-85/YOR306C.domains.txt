@@ -1,0 +1,3 @@
+#>P	YOR306C	YOR306C	YOR306C	XV	889870	891432	-1	Plasma membrane riboflavin transporter; facilitates the uptake of vitamin B2; required for FAD-dependent processes; sequence similarity to mammalian monocarboxylate permeases, however mutants are not deficient in monocarboxylate transport [Source:SGD;Acc:S000005833]
+#>E	YOR306C.1	1.0	889867-891432
+XV	890017	891036	-1.0	MFS	0	890017-891036	PF07690	http://pfam.sanger.ac.uk/family?acc=PF07690

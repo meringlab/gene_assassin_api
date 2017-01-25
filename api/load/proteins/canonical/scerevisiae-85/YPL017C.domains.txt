@@ -1,0 +1,5 @@
+#>P	YPL017C	YPL017C	YPL017C	XVI	518737	520233	-1	Microtubule associated protein; regulates microtubule dynamics; required for accurate meiotic chromosome segregation; null mutant displays large budded cells due to delayed mitotic progression, increased levels of spontaneous Rad52 foci; IRC15 has a paralog, LPD1, that arose from the whole genome duplication [Source:SGD;Acc:S000005938]
+#>E	YPL017C.1	1.0	518734-520233
+XVI	519232	520179	-1.0	Pyr_nucl-diS_OxRdtase_FAD/NAD	0	519232-520179	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992
+XVI	519436	519657	-1.0	Pyr_OxRdtase_NAD-bd_dom	0	519436-519657	PF00070	http://pfam.sanger.ac.uk/family?acc=PF00070
+XVI	518788	519129	-1.0	Pyr_nucl-diS_OxRdtase_dimer	0	518788-519129	PF02852	http://pfam.sanger.ac.uk/family?acc=PF02852

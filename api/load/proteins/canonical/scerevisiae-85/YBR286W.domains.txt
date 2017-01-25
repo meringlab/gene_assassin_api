@@ -1,0 +1,4 @@
+#>P	YBR286W	YBR286W	YBR286W	II	774700	776310	1	Vacuolar aminopeptidase Y; processed to mature form by Prb1p [Source:SGD;Acc:S000000490]
+#>E	YBR286W.1	1.0	774700-776313
+II	775621	776154	1.0	Peptidase_M28	0	775621-776154	PF04389	http://pfam.sanger.ac.uk/family?acc=PF04389
+II	775216	775512	1.0	Protease-assoc_domain	0	775216-775512	PF02225	http://pfam.sanger.ac.uk/family?acc=PF02225

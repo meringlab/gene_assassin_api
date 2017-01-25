@@ -1,0 +1,4 @@
+#>P	YAL015C	YAL015C	YAL015C	I	126906	128102	-1	DNA N-glycosylase and apurinic/apyrimidinic (AP) lyase; involved in base excision repair; acts in both nucleus and mitochondrion; creates a double-strand break at mtDNA origins that stimulates replication in response to oxidative stress; required for maintaining mitochondrial genome integrity; NTG1 has a paralog, NTG2, that arose from the whole genome duplication [Source:SGD;Acc:S000000013]
+#>E	YAL015C.1	1.0	126903-128102
+I	127362	127436	-1.0	HhH_motif	0	127362-127436	PF00633	http://pfam.sanger.ac.uk/family?acc=PF00633
+I	127218	127658	-1.0	HhH-GPD_domain	0	127218-127658	PF00730	http://pfam.sanger.ac.uk/family?acc=PF00730

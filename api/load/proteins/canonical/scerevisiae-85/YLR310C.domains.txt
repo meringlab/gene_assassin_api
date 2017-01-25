@@ -1,0 +1,5 @@
+#>P	YLR310C	YLR310C	YLR310C	XII	752227	756993	-1	Membrane bound guanine nucleotide exchange factor; indirectly regulates adenylate cyclase through activation of Ras1p and Ras2p by stimulating the exchange of GDP for GTP; required for progression through G1; a membrane bound guanine nucleotide exchange factor is also known as a GEF or GDP-release factor [Source:SGD;Acc:S000004301]
+#>E	YLR310C.1	1.0	752224-756993
+XII	752524	753090	-1.0	RasGRF_CDC25	0	752524-753090	PF00617	http://pfam.sanger.ac.uk/family?acc=PF00617
+XII	753358	753636	-1.0	Ras-like_Gua-exchang_fac_N	0	753358-753636	PF00618	http://pfam.sanger.ac.uk/family?acc=PF00618
+XII	756637	756765	-1.0	SH3_domain	0	756637-756765	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018

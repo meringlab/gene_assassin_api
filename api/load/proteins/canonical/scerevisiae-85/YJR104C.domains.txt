@@ -1,0 +1,3 @@
+#>P	YJR104C	YJR104C	YJR104C	X	622553	623014	-1	Cytosolic copper-zinc superoxide dismutase; detoxifies superoxide; stabilizes Yck1p and Yck2p kinases in glucose to repress respiration; phosphorylated by Dun1p and enters the nucleus under oxidative stress to promote transcription of stress response genes; human ortholog implicated in ALS; abundance increases under DNA replication stress and during exposure to boric acid; localization of a fraction to the mitochondrial intermembrane space is modulated by the MICOS complex [Source:SGD;Acc:S000003865]
+#>E	YJR104C.1	1.0	622550-623014
+X	622565	623005	-1.0	SOD_Cu_Zn_dom	0	622565-623005	PF00080	http://pfam.sanger.ac.uk/family?acc=PF00080

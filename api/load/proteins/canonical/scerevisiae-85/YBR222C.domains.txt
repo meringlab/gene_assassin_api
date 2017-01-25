@@ -1,0 +1,4 @@
+#>P	YBR222C	YBR222C	YBR222C	II	666723	668351	-1	Oxalyl-CoA synthetase; capable of catalyzing conversion of oxalate to oxalyl-CoA; catalyzes first step in pathway of oxalate degradation that functions to protect yeast from inhibitory effects of oxalate; peroxisomal protein that binds mRNA; localizes to both peroxisomal peripheral membrane and matrix, expression is highly inducible by oleic acid; similar to E. coli long chain acyl-CoA synthetase [Source:SGD;Acc:S000000426]
+#>E	YBR222C.1	1.0	666720-668351
+II	666963	668174	-1.0	AMP-dep_Synth/Lig	0	666963-668174	PF00501	http://pfam.sanger.ac.uk/family?acc=PF00501
+II	666759	666842	-1.0	DUF4009	0	666759-666842	PF13193	http://pfam.sanger.ac.uk/family?acc=PF13193

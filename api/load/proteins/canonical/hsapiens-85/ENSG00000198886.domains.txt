@@ -1,0 +1,4 @@
+#>P	ENSG00000198886	ENST00000361381	ENSP00000354961	MT	10760	12134	1	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4 [Source:HGNC Symbol;Acc:HGNC:7459]
+#>E	ENSE00001666004	1.0	10760-12137
+MT	10760	11086	1.0	NADH4_N	99.2	10760-11086	PF01059	http://pfam.sanger.ac.uk/family?acc=PF01059
+MT	11093	11953	1.0	ND/Mrp_mem	265.4	11093-11953	PF00361	http://pfam.sanger.ac.uk/family?acc=PF00361

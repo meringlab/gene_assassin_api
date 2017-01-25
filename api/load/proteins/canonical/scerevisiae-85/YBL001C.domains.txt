@@ -1,0 +1,3 @@
+#>P	YBL001C	YBL001C	YBL001C	II	237156	237467	-1	Non-essential protein of unknown function; likely exists as tetramer, may be regulated by the binding of small-molecule ligands (possibly sulfate ions), may have a role in yeast cell-wall biogenesis [Source:SGD;Acc:S000000097]
+#>E	YBL001C.1	1.0	237153-237467
+II	237174	237446	-1.0	DUF77	101	237174-237446	PF01910	http://pfam.sanger.ac.uk/family?acc=PF01910

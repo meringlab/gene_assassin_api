@@ -1,0 +1,4 @@
+#>P	YLR188W	YLR188W	YLR188W	XII	528300	530384	1	Mitochondrial inner membrane half-type ABC transporter; mediates export of peptides generated upon proteolysis of mitochondrial proteins; plays a role in the regulation of cellular resistance to oxidative stress [Source:SGD;Acc:S000004178]
+#>E	YLR188W.1	1.0	528300-530387
+XII	529719	530105	1.0	ABC_transporter-like	0	529719-530105	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XII	528612	529448	1.0	ABC_transptr_TM_dom	0	528612-529448	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664

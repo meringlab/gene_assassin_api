@@ -1,0 +1,5 @@
+#>P	YNR033W	YNR033W	YNR033W	XIV	687635	689995	1	Para-aminobenzoate (PABA) synthase; has similarity to Escherichia coli PABA synthase components PabA and PabB; required for the synthesis of para-aminobenzoic acid, an important intermediate for folate and ubiquinone Q biosynthesis; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005316]
+#>E	YNR033W.1	1.0	687635-689998
+XIV	689129	689968	1.0	Chorismate-bd_C	213.8	689129-689968	PF00425	http://pfam.sanger.ac.uk/family?acc=PF00425
+XIV	688532	688984	1.0	Anth_synth_I_N	49.4	688532-688984	PF04715	http://pfam.sanger.ac.uk/family?acc=PF04715
+XIV	687689	688306	1.0	GATASE_1	112.6	687689-688306	PF00117	http://pfam.sanger.ac.uk/family?acc=PF00117

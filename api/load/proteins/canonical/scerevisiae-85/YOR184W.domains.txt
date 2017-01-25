@@ -1,0 +1,3 @@
+#>P	YOR184W	YOR184W	YOR184W	XV	679357	680541	1	3-phosphoserine aminotransferase; catalyzes the formation of phosphoserine from 3-phosphohydroxypyruvate, required for serine and glycine biosynthesis; regulated by the general control of amino acid biosynthesis mediated by Gcn4p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005710]
+#>E	YOR184W.1	1.0	679357-680544
+XV	679390	680505	1.0	Aminotrans_V/Cys_dSase	0	679390-680505	PF00266	http://pfam.sanger.ac.uk/family?acc=PF00266

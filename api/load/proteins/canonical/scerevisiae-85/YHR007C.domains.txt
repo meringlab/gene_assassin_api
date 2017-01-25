@@ -1,0 +1,3 @@
+#>P	YHR007C	YHR007C	YHR007C	VIII	120094	121683	-1	Lanosterol 14-alpha-demethylase; catalyzes the C-14 demethylation of lanosterol to form 4,4''-dimethyl cholesta-8,14,24-triene-3-beta-ol in the ergosterol biosynthesis pathway; member of the cytochrome P450 family; associated and coordinately regulated with the P450 reductase Ncp1p [Source:SGD;Acc:S000001049]
+#>E	YHR007C.1	1.0	120091-121683
+VIII	120124	121515	-1.0	Cyt_P450	0	120124-121515	PF00067	http://pfam.sanger.ac.uk/family?acc=PF00067

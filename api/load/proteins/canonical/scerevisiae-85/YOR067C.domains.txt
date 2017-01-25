@@ -1,0 +1,3 @@
+#>P	YOR067C	YOR067C	YOR067C	XV	451732	453462	-1	Glucosyl transferase; involved in N-linked glycosylation; adds glucose to the dolichol-linked oligosaccharide precursor prior to transfer to protein during lipid-linked oligosaccharide biosynthesis; similar to Alg6p [Source:SGD;Acc:S000005593]
+#>E	YOR067C.1	1.0	451729-453462
+XV	451756	453315	-1.0	Glyco_trans_ALG6/ALG8	0	451756-453315	PF03155	http://pfam.sanger.ac.uk/family?acc=PF03155

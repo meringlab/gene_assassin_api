@@ -1,0 +1,3 @@
+#>P	YGR167W	YGR167W	YGR167W	VII	832456	833154	1	Clathrin light chain; subunit of the major coat protein involved in intracellular protein transport and endocytosis; regulates endocytic progression; thought to regulate clathrin function; the clathrin triskelion is a trimeric molecule composed of three heavy chains that radiate from a vertex and three light chains which bind noncovalently near the vertex of the triskelion [Source:SGD;Acc:S000003399]
+#>E	YGR167W.1	1.0	832456-833157
+VII	832456	833154	1.0	Clathrin_L-chain	0	832456-833154	PF01086	http://pfam.sanger.ac.uk/family?acc=PF01086

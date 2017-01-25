@@ -1,0 +1,5 @@
+#>P	YBR281C	YBR281C	YBR281C	II	764973	767606	-1	Component of glutamine amidotransferase (GATase II); forms a complex with Dug3p to degrade glutathione (GSH) and other peptides containing a gamma-glu-X bond in an alternative pathway to GSH degradation by gamma-glutamyl transpeptidase (Ecm38p) [Source:SGD;Acc:S000000485]
+#>E	YBR281C.1	1.0	764970-767606
+II	764982	766058	-1.0	Peptidase_M20	0	764982-766058	PF01546	http://pfam.sanger.ac.uk/family?acc=PF01546
+II	767313	767399	-1.0	WD40_repeat	0	767313-767399	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	765285	765725	-1.0	Peptidase_M20_dimer	0	765285-765725	PF07687	http://pfam.sanger.ac.uk/family?acc=PF07687

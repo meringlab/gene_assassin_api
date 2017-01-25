@@ -1,0 +1,3 @@
+#>P	YPR001W	YPR001W	YPR001W	XVI	556377	557834	1	Dual specificity mitochondrial citrate and methylcitrate synthase; catalyzes the condensation of acetyl-CoA and oxaloacetate to form citrate and that of propionyl-CoA and oxaloacetate to form 2-methylcitrate [Source:SGD;Acc:S000006205]
+#>E	YPR001W.1	1.0	556377-557837
+XVI	556575	557774	1.0	Citrate_synthase-like	0	556575-557774	PF00285	http://pfam.sanger.ac.uk/family?acc=PF00285

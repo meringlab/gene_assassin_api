@@ -1,0 +1,7 @@
+#>P	YOL090W	YOL090W	YOL090W	XV	147382	150273	1	Protein that binds to DNA mismatches; forms heterodimers with Msh3p and Msh6p that bind to DNA mismatches to initiate the mismatch repair process; contains a Walker ATP-binding motif required for repair activity and involved in interstrand cross-link repair; Msh2p-Msh6p binds to and hydrolyzes ATP [Source:SGD;Acc:S000005450]
+#>E	YOL090W.1	1.0	147382-150276
+XV	148852	149139	1.0	DNA_mismatch_repair_MutS_clamp	0	148852-149139	PF05190	http://pfam.sanger.ac.uk/family?acc=PF05190
+XV	149290	150021	1.0	DNA_mismatch_repair_MutS_C	0	149290-150021	PF00488	http://pfam.sanger.ac.uk/family?acc=PF00488
+XV	147802	148236	1.0	DNA_mismatch_repair_MutS_connt	0	147802-148236	PF05188	http://pfam.sanger.ac.uk/family?acc=PF05188
+XV	148372	149265	1.0	DNA_mismatch_repair_MutS_core	0	148372-149265	PF05192	http://pfam.sanger.ac.uk/family?acc=PF05192
+XV	147436	147753	1.0	DNA_mismatch_repair_MutS-lik_N	0	147436-147753	PF01624	http://pfam.sanger.ac.uk/family?acc=PF01624

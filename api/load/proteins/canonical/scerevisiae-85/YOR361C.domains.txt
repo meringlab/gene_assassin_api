@@ -1,0 +1,4 @@
+#>P	YOR361C	YOR361C	YOR361C	XV	1015364	1017652	-1	eIF3b subunit of the eukaryotic translation initiation factor 3 (eIF3); subunit of the core complex of eIF3; essential for translation; part of a subcomplex (Prt1p-Rpg1p-Nip1p) that stimulates binding of mRNA and tRNA(i)Met to ribosomes [Source:SGD;Acc:S000005888]
+#>E	YOR361C.1	1.0	1015361-1017652
+XV	1015703	1016359	-1.0	TIF2A_beta_prop-like	0	1015703-1016359	PF08662	http://pfam.sanger.ac.uk/family?acc=PF08662
+XV	1017203	1017364	-1.0	RRM_dom	0	1017203-1017364	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

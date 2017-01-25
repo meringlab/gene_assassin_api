@@ -1,0 +1,9 @@
+#>P	YKL213C	YKL213C	YKL213C	XI	31963	34107	-1	WD repeat protein required for ubiquitin-mediated protein degradation; forms a complex with Cdc48p; plays a role in controlling cellular ubiquitin concentration; also promotes efficient NHEJ in postdiauxic/stationary phase; facilitates N-terminus-dependent proteolysis of centromeric histone H3 (Cse4p) for faithful chromosome segregation; protein increases in abundance and relocalizes from nucleus to nuclear periphery upon DNA replication stress [Source:SGD;Acc:S000001696]
+#>E	YKL213C.1	1.0	31960-34107
+XI	33613	33726	-1.0	WD40_repeat	0	33613-33726	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	33490	33594	-1.0	WD40_repeat	0	33490-33594	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	33367	33477	-1.0	WD40_repeat	0	33367-33477	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	33733	33837	-1.0	WD40_repeat	0	33733-33837	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	33988	34092	-1.0	WD40_repeat	0	33988-34092	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	32779	33117	-1.0	PLAA_fam_Ub-bd_PFU	0	32779-33117	PF09070	http://pfam.sanger.ac.uk/family?acc=PF09070
+XI	31966	32715	-1.0	PUL	0	31966-32715	PF08324	http://pfam.sanger.ac.uk/family?acc=PF08324

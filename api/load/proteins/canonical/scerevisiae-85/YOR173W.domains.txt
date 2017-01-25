@@ -1,0 +1,3 @@
+#>P	YOR173W	YOR173W	YOR173W	XV	657264	658322	1	m(7)GpppX pyrophosphatase regulator; non-essential, stress induced regulatory protein; modulates m7G-oligoribonucleotide metabolism; inhibits Dcs1p; regulated by Msn2p, Msn4p, and the Ras-cAMP-cAPK signaling pathway; mutant has increased aneuploidy tolerance; DCS2 has a paralog, DCS1, that arose from the whole genome duplication [Source:SGD;Acc:S000005699]
+#>E	YOR173W.1	1.0	657264-658325
+XV	657285	657650	1.0	Scavenger_mRNA_decap_enz	0	657285-657650	PF05652	http://pfam.sanger.ac.uk/family?acc=PF05652

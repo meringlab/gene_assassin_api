@@ -1,0 +1,3 @@
+#>P	YBR155W	YBR155W	YBR155W	II	549771	550925	1	TPR-containing co-chaperone; binds both Hsp82p (Hsp90) and Ssa1p (Hsp70) and stimulates the ATPase activity of SSA1, ts mutants reduce Hsp82p function while over expression suppresses the phenotypes of an HSP82 ts allele and a cpr7 deletion [Source:SGD;Acc:S000000359]
+#>E	YBR155W.1	1.0	549771-550928
+II	550140	550232	1.0	TPR-1	0	550140-550232	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515

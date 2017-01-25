@@ -1,0 +1,3 @@
+#>P	YPR180W	YPR180W	YPR180W	XVI	895961	897001	1	Subunit of heterodimeric nuclear SUMO activating enzyme E1 with Uba2p; activates Smt3p (SUMO) before its conjugation to proteins (sumoylation), which may play a role in protein targeting; essential for viability; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000006384]
+#>E	YPR180W.1	1.0	895961-897004
+XVI	896054	896428	1.0	ThiF_NAD_FAD-bd	0	896054-896428	PF00899	http://pfam.sanger.ac.uk/family?acc=PF00899

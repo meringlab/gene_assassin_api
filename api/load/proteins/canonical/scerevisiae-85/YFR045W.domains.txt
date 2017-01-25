@@ -1,0 +1,5 @@
+#>P	YFR045W	YFR045W	YFR045W	VI	241998	242996	1	Putative mitochondrial transport protein; null mutant is viable, exhibits decreased levels of chitin and normal resistance to calcofluor white [Source:SGD;Acc:S000001941]
+#>E	YFR045W.1,YFR045W.2	1,1	241998-242009,242082-242999
+VI	242085	242324	1	Mitochondrial_sb/sol_carrier	0	242085-242324	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+VI	242730	242978	1	Mitochondrial_sb/sol_carrier	0	242730-242978	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+VI	242367	242711	1	Mitochondrial_sb/sol_carrier	0	242367-242711	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

@@ -1,0 +1,5 @@
+#>P	YIL033C	YIL033C	YIL033C	IX	290422	291669	-1	Regulatory subunit of the cyclic AMP-dependent protein kinase (PKA); PKA is a component of a signaling pathway that controls a variety of cellular processes, including metabolism, cell cycle, stress response, stationary phase, and sporulation [Source:SGD;Acc:S000001295]
+#>E	YIL033C.1	1.0	290419-291669
+IX	291535	291648	-1.0	cAMP_dep_PK_reg_su_I/II_a/b	0	291535-291648	PF02197	http://pfam.sanger.ac.uk/family?acc=PF02197
+IX	290824	291063	-1.0	cNMP-bd_dom	0	290824-291063	PF00027	http://pfam.sanger.ac.uk/family?acc=PF00027
+IX	290464	290706	-1.0	cNMP-bd_dom	0	290464-290706	PF00027	http://pfam.sanger.ac.uk/family?acc=PF00027

@@ -1,0 +1,4 @@
+#>P	YDL156W	YDL156W	YDL156W	IV	174918	176483	1	DNA-binding protein with preference for UV-damaged DNA; protein sequence contains three WD domains (WD-40 repeat); green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm and nucleus; potential regulatory target of Mbp1p, which binds to the promoter region; co-localizes with Hos2p in nuclear foci in response to DNA damage by MMS [Source:SGD;Acc:S000002315]
+#>E	YDL156W.1	1.0	174918-176486
+IV	176091	176171	1.0	WD40_repeat	0	176091-176171	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	175923	176003	1.0	WD40_repeat	0	175923-176003	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

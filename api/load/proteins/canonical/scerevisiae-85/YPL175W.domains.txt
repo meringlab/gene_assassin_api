@@ -1,0 +1,4 @@
+#>P	YPL175W	YPL175W	YPL175W	XVI	218630	220085	1	UDP-glycosyltransferase subunit of the GPI-GnT complex; UDP-GlcNAc-binding and catalytic subunit of the enzyme that mediates the first step in glycosylphosphatidylinositol (GPI) biosynthesis, mutations cause defects in transcription and in biogenesis of cell wall proteins [Source:SGD;Acc:S000006096]
+#>E	YPL175W.1,YPL175W.2	1,1	218630-218646,218747-220088
+XVI	218853	219122	1	PIGA_GPI_anchor_biosynthesis	0	218853-219122	PF08288	http://pfam.sanger.ac.uk/family?acc=PF08288
+XVI	219321	219755	1	Glyco_trans_1	0	219321-219755	PF00534	http://pfam.sanger.ac.uk/family?acc=PF00534

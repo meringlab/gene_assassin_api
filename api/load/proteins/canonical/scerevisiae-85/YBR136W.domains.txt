@@ -1,0 +1,6 @@
+#>P	YBR136W	YBR136W	YBR136W	II	505668	512771	1	Genome integrity checkpoint protein and PI kinase superfamily member; Mec1p and Dun1p function in same pathway to regulate dNTP pools and telomere length; signal transducer required for cell cycle arrest and transcriptional responses to damaged or unreplicated DNA; facilitates replication fork progression and regulates P-body formation under replication stress; promotes interhomolog recombination by phosphorylating Hop1p; associates with shortened, dysfunctional telomeres [Source:SGD;Acc:S000000340]
+#>E	YBR136W.1	1.0	505668-512774
+II	512676	512771	1.0	FATC	0	512676-512771	PF02260	http://pfam.sanger.ac.uk/family?acc=PF02260
+II	511890	512606	1.0	PI3/4_kinase_cat_dom	0	511890-512606	PF00454	http://pfam.sanger.ac.uk/family?acc=PF00454
+II	510324	511226	1.0	PIK-rel_kinase_FAT	0	510324-511226	PF02259	http://pfam.sanger.ac.uk/family?acc=PF02259
+II	508281	508601	1.0	UME	0	508281-508601	PF08064	http://pfam.sanger.ac.uk/family?acc=PF08064

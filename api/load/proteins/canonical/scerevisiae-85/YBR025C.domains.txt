@@ -1,0 +1,4 @@
+#>P	YBR025C	YBR025C	YBR025C	II	290684	291865	-1	P-loop ATPase with similarity to human OLA1 and bacterial YchF; identified as specifically interacting with the proteasome; null mutant displays increased translation rate and increased readthrough of premature stop codons; protein abundance increases in response to hydrogen peroxide and to DNA replication stress [Source:SGD;Acc:S000000229]
+#>E	YBR025C.1	1.0	290681-291865
+II	290699	290947	-1.0	DUF933	0	290699-290947	PF06071	http://pfam.sanger.ac.uk/family?acc=PF06071
+II	291479	291799	-1.0	GTP_binding_domain	0	291479-291799	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926

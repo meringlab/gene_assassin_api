@@ -1,0 +1,4 @@
+#>P	YKL113C	YKL113C	YKL113C	XI	224730	225875	-1	5' to 3' exonuclease, 5' flap endonuclease; required for Okazaki fragment processing and maturation, for long-patch base-excision repair and large loop repair (LLR), ribonucleotide excision repair; member of the S. pombe RAD2/FEN1 family; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000001596]
+#>E	YKL113C.1	1.0	224727-225875
+XI	225555	225875	-1.0	XPG_DNA_repair_N	134.2	225555-225875	PF00752	http://pfam.sanger.ac.uk/family?acc=PF00752
+XI	225183	225443	-1.0	XPG/RAD2_endonuclease	96.7	225183-225443	PF00867	http://pfam.sanger.ac.uk/family?acc=PF00867

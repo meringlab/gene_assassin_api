@@ -1,0 +1,3 @@
+#>P	YER044C-A	YER044C-A	YER044C-A	V	238463	239774	-1	Meiosis-specific protein involved in forming DSBs; involved in double-strand break (DSBs) formation during meiotic recombination; required for chromosome synapsis and production of viable spores [Source:SGD;Acc:S000001954]
+#>E	YER044C-A.2,YER044C-A.1	1,1	238460-239623,239712-239774
+V	238469	239774	-1	MEI4	0	238469-239623,239712-239774	PF13971	http://pfam.sanger.ac.uk/family?acc=PF13971

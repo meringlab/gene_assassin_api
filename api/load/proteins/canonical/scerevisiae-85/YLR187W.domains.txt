@@ -1,0 +1,3 @@
+#>P	YLR187W	YLR187W	YLR187W	XII	524865	527942	1	Protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the cell periphery, cytoplasm, bud, and bud neck; potential Cdc28p substrate; similar to Skg4p; relocalizes from bud neck to cytoplasm upon DNA replication stress; SKG3 has a paralog, CAF120, that arose from the whole genome duplication [Source:SGD;Acc:S000004177]
+#>E	YLR187W.1	1.0	524865-527945
+XII	525189	525518	1.0	Pleckstrin_homology	0	525189-525518	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169

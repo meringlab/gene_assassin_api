@@ -1,0 +1,3 @@
+#>P	YOR311C	YOR311C	YOR311C	XV	899059	899928	-1	Diacylglycerol kinase; localized to the endoplasmic reticulum (ER); overproduction induces enlargement of ER-like membrane structures and suppresses a temperature-sensitive sly1 mutation; contains a CTP transferase domain [Source:SGD;Acc:S000005838]
+#>E	YOR311C.1	1.0	899056-899928
+XV	899065	899490	-1.0	PC_trans	0	899065-899490	PF01148	http://pfam.sanger.ac.uk/family?acc=PF01148

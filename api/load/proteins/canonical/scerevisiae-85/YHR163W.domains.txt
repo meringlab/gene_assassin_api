@@ -1,0 +1,3 @@
+#>P	YHR163W	YHR163W	YHR163W	VIII	423724	424470	1	6-phosphogluconolactonase; catalyzes the second step of the pentose phosphate pathway; weak multicopy suppressor of los1-1 mutation; homologous to Sol2p and Sol1p; SOL3 has a paralog, SOL4, that arose from the whole genome duplication [Source:SGD;Acc:S000001206]
+#>E	YHR163W.1	1.0	423724-424473
+VIII	423760	424359	1.0	Glc/Gal-6P_isomerase	0	423760-424359	PF01182	http://pfam.sanger.ac.uk/family?acc=PF01182

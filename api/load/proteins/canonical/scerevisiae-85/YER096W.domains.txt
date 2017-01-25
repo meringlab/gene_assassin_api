@@ -1,0 +1,6 @@
+#>P	YER096W	YER096W	YER096W	V	351698	353233	1	Sporulation-specific activator of Chs3p (chitin synthase III); required for the synthesis of the chitosan layer of ascospores; transcriptionally induced at alkaline pH; SHC1 has a paralog, SKT5, that arose from the whole genome duplication [Source:SGD;Acc:S000000898]
+#>E	YER096W.1	1.0	351698-353236
+V	352649	352747	1.0	Sel1-like	0	352649-352747	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+V	352865	352975	1.0	Sel1-like	0	352865-352975	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+V	352769	352864	1.0	Sel1-like	0	352769-352864	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+V	353000	353107	1.0	Sel1-like	0	353000-353107	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238

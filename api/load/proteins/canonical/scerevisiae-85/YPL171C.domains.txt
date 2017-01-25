@@ -1,0 +1,3 @@
+#>P	YPL171C	YPL171C	YPL171C	XVI	226172	227371	-1	Conserved NADPH oxidoreductase containing flavin mononucleotide (FMN); homologous to Oye2p with different ligand binding and catalytic properties; has potential roles in oxidative stress response and programmed cell death [Source:SGD;Acc:S000006092]
+#>E	YPL171C.1	1.0	226169-227371
+XVI	226268	227326	-1.0	OxRdtase_FMN_N	0	226268-227326	PF00724	http://pfam.sanger.ac.uk/family?acc=PF00724

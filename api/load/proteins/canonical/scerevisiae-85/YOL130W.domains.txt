@@ -1,0 +1,3 @@
+#>P	YOL130W	YOL130W	YOL130W	XV	74400	76976	1	Plasma membrane Mg(2+) transporter; expression and turnover are regulated by Mg(2+) concentration; overexpression confers increased tolerance to Al(3+) and Ga(3+) ions [Source:SGD;Acc:S000005490]
+#>E	YOL130W.1	1.0	74400-76979
+XV	75765	76775	1.0	MgTranspt_CorA/ZnTranspt_ZntB	0	75765-76775	PF01544	http://pfam.sanger.ac.uk/family?acc=PF01544

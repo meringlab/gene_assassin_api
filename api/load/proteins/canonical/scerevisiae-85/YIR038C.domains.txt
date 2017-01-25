@@ -1,0 +1,4 @@
+#>P	YIR038C	YIR038C	YIR038C	IX	423812	424513	-1	ER associated glutathione S-transferase capable of homodimerization; expression induced during the diauxic shift and throughout stationary phase; functional overlap with Gtt2p, Grx1p, and Grx2p [Source:SGD;Acc:S000001477]
+#>E	YIR038C.1	1.0	423809-424513
+IX	423863	424108	-1.0	GST_C	0	423863-424108	PF00043	http://pfam.sanger.ac.uk/family?acc=PF00043
+IX	424268	424486	-1.0	Glutathione_S-Trfase_N	0	424268-424486	PF02798	http://pfam.sanger.ac.uk/family?acc=PF02798

@@ -1,0 +1,7 @@
+#>P	YDR406W	YDR406W	YDR406W	IV	1279210	1283796	1	Plasma membrane ATP binding cassette (ABC) transporter; multidrug transporter and general stress response factor implicated in cellular detoxification; regulated by Pdr1p, Pdr3p and Pdr8p; promoter contains a PDR responsive element; PDR15 has a paralog, PDR5, that arose from the whole genome duplication [Source:SGD;Acc:S000002814]
+#>E	YDR406W.1	1.0	1279210-1283799
+IV	1281409	1281702	1.0	PDR_CDR_ABC	0	1281409-1281702	PF06422	http://pfam.sanger.ac.uk/family?acc=PF06422
+IV	1282810	1283457	1.0	ABC_2_trans	0	1282810-1283457	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+IV	1280746	1281384	1.0	ABC_2_trans	0	1280746-1281384	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+IV	1279837	1280247	1.0	ABC_transporter-like	0	1279837-1280247	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+IV	1281988	1282371	1.0	ABC_transporter-like	0	1281988-1282371	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

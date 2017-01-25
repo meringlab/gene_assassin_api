@@ -1,0 +1,4 @@
+#>P	YLR002C	YLR002C	YLR002C	XII	154346	156334	-1	Subunit of a nuclear complex with Noc2p and pre-replicative complexes; the Noc2p-Noc3p complex binds to 66S ribosomal precursors to mediate their maturation and intranuclear transport; binds to chromatin at active replication origins, and is required for pre-RC formation and maintenance during DNA replication licensing [Source:SGD;Acc:S000003992]
+#>E	YLR002C.1	1.0	154343-156334
+XII	154385	154915	-1.0	CCAAT-binding_factor	0	154385-154915	PF03914	http://pfam.sanger.ac.uk/family?acc=PF03914
+XII	155654	155935	-1.0	NOC3p	0	155654-155935	PF07540	http://pfam.sanger.ac.uk/family?acc=PF07540

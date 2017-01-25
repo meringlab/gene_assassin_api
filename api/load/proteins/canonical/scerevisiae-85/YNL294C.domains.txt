@@ -1,0 +1,3 @@
+#>P	YNL294C	YNL294C	YNL294C	XIV	78662	80260	-1	pH sensor molecule, component of the RIM101 pathway; has a role in cell wall construction and alkaline pH response; is glycosylated and phosphorylated; interacts with Dfg16p and Rim9p to form a pH-sensing complex; localization to the plasma membrane is dependent on Dfg16p and Rim9p; has similarity to A. nidulans PalH [Source:SGD;Acc:S000005238]
+#>E	YNL294C.1	1.0	78659-80260
+XIV	79172	80215	-1.0	PalH	0	79172-80215	PF08733	http://pfam.sanger.ac.uk/family?acc=PF08733

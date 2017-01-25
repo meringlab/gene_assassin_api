@@ -1,0 +1,4 @@
+#>P	YIL038C	YIL038C	YIL038C	IX	280145	282652	-1	Subunit of CCR4-NOT global transcriptional regulator; involved intranscription initiation and elongation and in mRNA degradation; conserved lysine in human homolog of Not3p and Not5p is mutated in cancers [Source:SGD;Acc:S000001300]
+#>E	YIL038C.1	1.0	280142-282652
+IX	280298	280705	-1.0	NOT	0	280298-280705	PF04153	http://pfam.sanger.ac.uk/family?acc=PF04153
+IX	281951	282652	-1.0	Not_N	0	281951-282652	PF04065	http://pfam.sanger.ac.uk/family?acc=PF04065

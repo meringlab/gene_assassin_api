@@ -1,0 +1,3 @@
+#>P	YER146W	YER146W	YER146W	V	462585	462863	1	Lsm (Like Sm) protein; part of heteroheptameric complexes (Lsm2p-7p and either Lsm1p or 8p): cytoplasmic Lsm1p complex involved in mRNA decay; nuclear Lsm8p complex part of U6 snRNP and possibly involved in processing tRNA, snoRNA, and rRNA [Source:SGD;Acc:S000000948]
+#>E	YER146W.1	1.0	462585-462866
+V	462618	462833	1.0	LSM_domain	0	462618-462833	PF01423	http://pfam.sanger.ac.uk/family?acc=PF01423

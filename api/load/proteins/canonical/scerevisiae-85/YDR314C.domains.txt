@@ -1,0 +1,5 @@
+#>P	YDR314C	YDR314C	YDR314C	IV	1090436	1092511	-1	Protein involved in nucleotide excision repair (NER); homologous to RAD4 [Source:SGD;Acc:S000002722]
+#>E	YDR314C.1	1.0	1090433-1092511
+IV	1091054	1091224	-1.0	Rad4_beta-hairpin_dom1	0	1091054-1091224	PF10403	http://pfam.sanger.ac.uk/family?acc=PF10403
+IV	1090571	1090819	-1.0	Rad4_beta-hairpin_dom3	0	1090571-1090819	PF10405	http://pfam.sanger.ac.uk/family?acc=PF10405
+IV	1090862	1091050	-1.0	Rad4_beta-hairpin_dom2	0	1090862-1091050	PF10404	http://pfam.sanger.ac.uk/family?acc=PF10404

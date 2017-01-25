@@ -1,0 +1,3 @@
+#>P	YDR004W	YDR004W	YDR004W	IV	455201	456580	1	Protein that stimulates strand exchange; stimulates strand exchange by stabilizing the binding of Rad51p to single-stranded DNA; involved in the recombinational repair of double-strand breaks in DNA during vegetative growth and meiosis; forms heterodimer with Rad55p [Source:SGD;Acc:S000002411]
+#>E	YDR004W.1	1.0	455201-456583
+IV	455501	456040	1.0	DNA_recomb/repair_Rad51_C	0	455501-456040	PF08423	http://pfam.sanger.ac.uk/family?acc=PF08423

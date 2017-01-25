@@ -1,0 +1,3 @@
+#>P	YER019W	YER019W	YER019W	V	192797	194227	1	Inositol phosphosphingolipid phospholipase C; mitochondrial membrane localized; hydrolyzes complex sphingolipids to produce ceramide; activates genes required for non-fermentable carbon source metabolism during the diauxic shift; activated by phosphatidylserine, cardiolipin, and phosphatidylglycerol; mediates Na+ and Li+ halotolerance [Source:SGD;Acc:S000000821]
+#>E	YER019W.1	1.0	192797-194230
+V	192920	193798	1.0	Endo/exonuclease/phosphatase	0	192920-193798	PF03372	http://pfam.sanger.ac.uk/family?acc=PF03372

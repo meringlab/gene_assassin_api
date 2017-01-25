@@ -1,0 +1,3 @@
+#>P	YKL195W	YKL195W	YKL195W	XI	75821	77029	1	Mitochondrial oxidoreductase; involved in mitochondrial intermembrane space import; component of MIA pathway which mediates import and oxidative folding of substrates including small proteins containing twin cysteine motifs; acts in concert with Erv1p, which oxidizes the cysteine residues of Mia40p to comprise a disulfide relay system that catalyzes import; also mediates folding of Atp23p via a chaperone-like activity; forms a dimer that binds iron-sulfur cluster in vitro [Source:SGD;Acc:S000001678]
+#>E	YKL195W.1	1.0	75821-77032
+XI	76739	76849	1.0	CHCH	0	76739-76849	PF06747	http://pfam.sanger.ac.uk/family?acc=PF06747

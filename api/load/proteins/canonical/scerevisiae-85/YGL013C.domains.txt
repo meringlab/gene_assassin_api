@@ -1,0 +1,4 @@
+#>P	YGL013C	YGL013C	YGL013C	VII	469095	472298	-1	Transcription factor that regulates the pleiotropic drug response; zinc cluster protein that is a master regulator involved in recruiting other zinc cluster proteins to pleiotropic drug response elements (PDREs) to fine tune the regulation of multidrug resistance genes; relocalizes to the cytosol in response to hypoxia; PDR1 has a paralog, PDR3, that arose from the whole genome duplication [Source:SGD;Acc:S000002981]
+#>E	YGL013C.1	1.0	469092-472298
+VII	470340	471377	-1.0	Transcription_factor_fun	0	470340-471377	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082
+VII	472068	472169	-1.0	Zn2-C6_fun-type_DNA-bd	0	472068-472169	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

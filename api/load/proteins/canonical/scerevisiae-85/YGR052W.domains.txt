@@ -1,0 +1,3 @@
+#>P	YGR052W	YGR052W	YGR052W	VII	593596	594702	1	Putative protein of unknown function; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; induced by treatment with 8-methoxypsoralen and UVA irradiation [Source:SGD;Acc:S000003284]
+#>E	YGR052W.1	1.0	593596-594705
+VII	593599	594342	1.0	Prot_kinase_cat_dom	0	593599-594342	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

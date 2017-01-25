@@ -1,0 +1,3 @@
+#>P	YDR150W	YDR150W	YDR150W	IV	755628	763871	1	Protein required for nuclear migration; component of the mitochondria-ER-cortex-ancor (MECA); required for the association of mitochondria with the cell cortex and for accurate distribution of mitochondrial network; interacts with Mdm36p to link the ER and motochondria at the cortex; localizes to the mother cell cortex and the bud tip; may mediate interactions of dynein and cytoplasmic microtubules with the cell cortex [Source:SGD;Acc:S000002557]
+#>E	YDR150W.1	1.0	755628-763874
+IV	763323	763679	1.0	PH_dom-Mcp5-type	0	763323-763679	PF12814	http://pfam.sanger.ac.uk/family?acc=PF12814

@@ -1,0 +1,3 @@
+#>P	YKR104W	YKR104W	YKR104W	XI	656836	657753	1	Putative transporter of the MRP subfamily; contains a stop codon in S288C; adjacent ORFs YKR103W and YKR104W are merged in different strain backgrounds; MRP stands for multidrug resistance-associated protein [Source:SGD;Acc:S000001812]
+#>E	YKR104W.1	1.0	656836-657756
+XI	657055	657486	1.0	ABC_transporter-like	0	657055-657486	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

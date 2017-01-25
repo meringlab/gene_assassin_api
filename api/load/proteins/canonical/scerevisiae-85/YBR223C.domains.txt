@@ -1,0 +1,3 @@
+#>P	YBR223C	YBR223C	YBR223C	II	668666	670297	-1	Tyrosyl-DNA phosphodiesterase I; hydrolyzes 3' and 5'-phosphotyrosyl bonds; involved in the repair of DNA lesions created by topoisomerase I and topoisomerase II; mutations in human homolog result in the neurodegenerative disease SCANI [Source:SGD;Acc:S000000427]
+#>E	YBR223C.1	1.0	668663-670297
+II	668711	670054	-1.0	Tyr-DNA_phospho	0	668711-670054	PF06087	http://pfam.sanger.ac.uk/family?acc=PF06087

@@ -1,0 +1,3 @@
+#>P	Q0085	Q0085	Q0085	Mito	28487	29263	1	Subunit a of the F0 sector of mitochondrial F1F0 ATP synthase; mitochondrially encoded; translation is specifically activated by Atp22p; ATP6 and ATP8 mRNAs are not translated in the absence of the F1 sector of ATPase [Source:SGD;Acc:S000007268]
+#>E	Q0085.1	1.0	28487-29266
+Mito	28586	29248	1.0	ATPase_F0-cplx_asu	0	28586-29248	PF00119	http://pfam.sanger.ac.uk/family?acc=PF00119

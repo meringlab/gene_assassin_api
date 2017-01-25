@@ -1,0 +1,3 @@
+#>P	YNL134C	YNL134C	YNL134C	XIV	372454	373581	-1	Protein of unknown function; similar to dehydrogenases from other model organisms; green fluorescent protein (GFP)-fusion protein localizes to both the cytoplasm and nucleus; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005078]
+#>E	YNL134C.1	1.0	372451-373581
+XIV	372670	373026	-1.0	ADH_C	0	372670-373026	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107

@@ -1,0 +1,3 @@
+#>P	YML078W	YML078W	YML078W	XIII	111002	111547	1	Mitochondrial peptidyl-prolyl cis-trans isomerase (cyclophilin); catalyzes the cis-trans isomerization of peptide bonds N-terminal to proline residues; involved in protein refolding after import into mitochondria [Source:SGD;Acc:S000004543]
+#>E	YML078W.1	1.0	111002-111550
+XIII	111104	111541	1.0	Cyclophilin-like_PPIase_dom	0	111104-111541	PF00160	http://pfam.sanger.ac.uk/family?acc=PF00160

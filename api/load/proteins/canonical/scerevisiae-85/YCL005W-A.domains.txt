@@ -1,0 +1,3 @@
+#>P	YCL005W-A	YCL005W-A	YCL005W-A	III	107023	107414	1	Vacuolar H+ ATPase subunit e of the V-ATPase V0 subcomplex; essential for vacuolar acidification; interacts with the V-ATPase assembly factor Vma21p in the ER; involved in V0 biogenesis [Source:SGD;Acc:S000028508]
+#>E	YCL005W-A.1,YCL005W-A.2,YCL005W-A.3	1,1,1	107023-107033,107111-107191,107288-107417
+III	107115	107396	1	ATPase_V0-cplx_esu	0	107115-107191,107288-107396	PF05493	http://pfam.sanger.ac.uk/family?acc=PF05493

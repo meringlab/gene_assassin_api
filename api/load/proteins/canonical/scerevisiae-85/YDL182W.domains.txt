@@ -1,0 +1,3 @@
+#>P	YDL182W	YDL182W	YDL182W	IV	133437	134720	1	Homocitrate synthase isozyme; catalyzes the condensation of acetyl-CoA and alpha-ketoglutarate to form homocitrate, which is the first step in the lysine biosynthesis pathway; LYS20 has a paralog, LYS21, that arose from the whole genome duplication [Source:SGD;Acc:S000002341]
+#>E	YDL182W.1	1.0	133437-134723
+IV	133527	134216	1.0	PYR_CT	0	133527-134216	PF00682	http://pfam.sanger.ac.uk/family?acc=PF00682

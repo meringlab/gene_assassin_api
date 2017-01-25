@@ -1,0 +1,4 @@
+#>P	YCL043C	YCL043C	YCL043C	III	48656	50221	-1	Protein disulfide isomerase; multifunctional protein of ER lumen, essential for formation of disulfide bonds in secretory and cell-surface proteins, unscrambles non-native disulfide bonds; key regulator of Ero1p; forms complex with Mnl1p that has exomannosidase activity, processing unfolded protein-bound Man8GlcNAc2 oligosaccharides to Man7GlcNAc2, promoting degradation in unfolded protein response; PDI1 has a paralog, EUG1, that arose from the whole genome duplication [Source:SGD;Acc:S000000548]
+#>E	YCL043C.1	1.0	48653-50221
+III	49811	50122	-1.0	Thioredoxin_domain	0	49811-50122	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085
+III	48776	49090	-1.0	Thioredoxin_domain	0	48776-49090	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085

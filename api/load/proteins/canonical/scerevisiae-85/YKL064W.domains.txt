@@ -1,0 +1,5 @@
+#>P	YKL064W	YKL064W	YKL064W	XI	317764	320670	1	Vacuolar membrane protein required for magnesium homeostasis; putative magnesium transporter; has similarity to Alr1p and Alr2p, which mediate influx of Mg2+ and other divalent cations [Source:SGD;Acc:S000001547]
+#>E	YKL064W.1	1.0	317764-320673
+XI	319744	320007	1.0	MgTranspt_CorA/ZnTranspt_ZntB	29.8	319744-320007	PF01544	http://pfam.sanger.ac.uk/family?acc=PF01544
+XI	319261	319443	1.0	MgTranspt_CorA/ZnTranspt_ZntB	30.2	319261-319443	PF01544	http://pfam.sanger.ac.uk/family?acc=PF01544
+XI	320191	320658	1.0	MgTranspt_CorA/ZnTranspt_ZntB	77.4	320191-320658	PF01544	http://pfam.sanger.ac.uk/family?acc=PF01544

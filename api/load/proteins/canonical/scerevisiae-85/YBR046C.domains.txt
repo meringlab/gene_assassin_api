@@ -1,0 +1,4 @@
+#>P	YBR046C	YBR046C	YBR046C	II	330510	331511	-1	NADPH-dependent quinone reductase; GFP-tagged protein localizes to the cytoplasm and nucleus; has similarity to E. coli quinone oxidoreductase and to human zeta-crystallin [Source:SGD;Acc:S000000250]
+#>E	YBR046C.1	1.0	330507-331511
+II	330648	331034	-1.0	ADH_C	104.9	330648-331034	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107
+II	331230	331406	-1.0	ADH_GroES-like	40.2	331230-331406	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240

@@ -1,0 +1,4 @@
+#>P	YGL254W	YGL254W	YGL254W	VII	22304	23200	1	Transcription factor involved in sulfite metabolism; sole identified regulatory target is SSU1; overexpression suppresses sulfite-sensitivity of many unrelated mutants due to hyperactivation of SSU1, contains five zinc fingers; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003223]
+#>E	YGL254W.1	1.0	22304-23203
+VII	22523	22585	1.0	Znf_C2H2	0	22523-22585	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+VII	22337	22411	1.0	Znf_C2H2	0	22337-22411	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

@@ -1,0 +1,3 @@
+#>P	YPR113W	YPR113W	YPR113W	XVI	752257	752916	1	Phosphatidylinositol synthase; required for biosynthesis of phosphatidylinositol, which is a precursor for polyphosphoinositides, sphingolipids, and glycolipid anchors for some of the plasma membrane proteins [Source:SGD;Acc:S000006317]
+#>E	YPR113W.1	1.0	752257-752919
+XVI	752305	752574	1.0	CDP-OH_P_trans	63.7	752305-752574	PF01066	http://pfam.sanger.ac.uk/family?acc=PF01066

@@ -1,0 +1,3 @@
+#>P	YJL124C	YJL124C	YJL124C	X	187129	187644	-1	Lsm (Like Sm) protein; forms heteroheptameric complex (with Lsm2p, Lsm3p, Lsm4p, Lsm5p, Lsm6p, and Lsm7p) involved in degradation of cytoplasmic mRNAs; also enters the nucleus and positively regulates transcription initiation; unlike most Sm-like proteins, Lsm1p requires both its SM-domain and C-terminal domain for RNA-binding; binds to mRNAs under glucose starvation, most often in the 3' UTR; forms cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000003660]
+#>E	YJL124C.1	1.0	187126-187644
+X	187309	187500	-1.0	LSM_domain	0	187309-187500	PF01423	http://pfam.sanger.ac.uk/family?acc=PF01423

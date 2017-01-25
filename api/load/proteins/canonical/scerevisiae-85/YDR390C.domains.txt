@@ -1,0 +1,5 @@
+#>P	YDR390C	YDR390C	YDR390C	IV	1254940	1256847	-1	Subunit of heterodimeric nuclear SUMO activating enzyme E1 with Aos1p; activates Smt3p (SUMO) before its conjugation to proteins (sumoylation), which may play a role in protein targeting; essential for viability;  [Source:SGD;Acc:S000002798]
+#>E	YDR390C.1	1.0	1254937-1256847
+IV	1255672	1255863	-1.0	UBact_repeat	0	1255672-1255863	PF02134	http://pfam.sanger.ac.uk/family?acc=PF02134
+IV	1256242	1256376	-1.0	Ubiquitin-activating_enzyme	0	1256242-1256376	PF10585	http://pfam.sanger.ac.uk/family?acc=PF10585
+IV	1256392	1256790	-1.0	ThiF_NAD_FAD-bd	0	1256392-1256790	PF00899	http://pfam.sanger.ac.uk/family?acc=PF00899

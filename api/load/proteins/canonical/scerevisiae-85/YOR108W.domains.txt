@@ -1,0 +1,4 @@
+#>P	YOR108W	YOR108W	YOR108W	XV	523027	524838	1	Alpha-isopropylmalate synthase II (2-isopropylmalate synthase); catalyzes the first step in the leucine biosynthesis pathway; the minor isozyme, responsible for the residual alpha-IPMS activity detected in a leu4 null mutant; LEU9 has a paralog, LEU4, that arose from the whole genome duplication [Source:SGD;Acc:S000005634]
+#>E	YOR108W.1	1.0	523027-524841
+XV	523228	523998	1.0	PYR_CT	0	523228-523998	PF00682	http://pfam.sanger.ac.uk/family?acc=PF00682
+XV	524389	524808	1.0	2-isopropylmalate_synth_dimer	0	524389-524808	PF08502	http://pfam.sanger.ac.uk/family?acc=PF08502

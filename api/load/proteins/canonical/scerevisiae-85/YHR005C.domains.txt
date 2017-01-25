@@ -1,0 +1,3 @@
+#>P	YHR005C	YHR005C	YHR005C	VIII	113502	114917	-1	Subunit of the G protein involved in pheromone response; GTP-binding alpha subunit of the heterotrimeric G protein; negatively regulates the mating pathway by sequestering G(beta)gamma and by triggering an adaptive response; activates Vps34p at the endosome; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001047]
+#>E	YHR005C.1	1.0	113499-114917
+VIII	113505	114878	-1.0	Gprotein_alpha_su	0	113505-114878	PF00503	http://pfam.sanger.ac.uk/family?acc=PF00503

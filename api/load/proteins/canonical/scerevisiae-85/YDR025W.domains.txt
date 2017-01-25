@@ -1,0 +1,3 @@
+#>P	YDR025W	YDR025W	YDR025W	IV	491515	492321	1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S11 and bacterial S17; N-terminally propionylated in vivo; RPS11A has a paralog, RPS11B, that arose from the whole genome duplication [Source:SGD;Acc:S000002432]
+#>E	YDR025W.1,YDR025W.2	1,1	491515-491559,491899-492324
+IV	492070	492279	1	Ribosomal_S17	0	492070-492279	PF00366	http://pfam.sanger.ac.uk/family?acc=PF00366

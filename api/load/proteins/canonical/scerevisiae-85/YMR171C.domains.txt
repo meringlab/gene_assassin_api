@@ -1,0 +1,3 @@
+#>P	YMR171C	YMR171C	YMR171C	XIII	603871	605520	-1	Specificity factor required for Rsp5p-dependent ubiquitination; also required for sorting of specific cargo proteins at the multivesicular body; mRNA is targeted to the bud via the mRNA transport system involving She2p [Source:SGD;Acc:S000004781]
+#>E	YMR171C.1	1.0	603868-605520
+XIII	604405	604776	-1.0	SPRY_rcpt	49.3	604405-604776	PF00622	http://pfam.sanger.ac.uk/family?acc=PF00622

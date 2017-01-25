@@ -1,0 +1,5 @@
+#>P	WBGene00001069	F46C8.6	F46C8.6	X	7536656	7537788	-1	Cuticle collagen dpy-7  [Source:UniProtKB/Swiss-Prot;Acc:P34688]
+#>E	F46C8.6.e2,F46C8.6.e1	1,1	7536653-7537453,7537633-7537788
+X	7536899	7537081	-1	Collagen	83.5	7536899-7537081	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
+X	7537424	7537746	-1	Col_cuticle_N	31.2	7537424-7537453,7537633-7537746	PF01484	http://pfam.sanger.ac.uk/family?acc=PF01484
+X	7537004	7537174	-1	Collagen	83.5	7537004-7537174	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391

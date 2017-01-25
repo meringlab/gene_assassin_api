@@ -1,0 +1,4 @@
+#>P	YDL178W	YDL178W	YDL178W	IV	139522	141111	1	D-lactate dehydrogenase; located in the mitochondrial matrix [Source:SGD;Acc:S000002337]
+#>E	YDL178W.1	1.0	139522-141114
+IV	139828	140238	1.0	Oxid_FAD_bind_N	0	139828-140238	PF01565	http://pfam.sanger.ac.uk/family?acc=PF01565
+IV	140350	141105	1.0	FAD-linked_oxidase_C	0	140350-141105	PF02913	http://pfam.sanger.ac.uk/family?acc=PF02913

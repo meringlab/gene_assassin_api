@@ -1,0 +1,3 @@
+#>P	YMR289W	YMR289W	YMR289W	XIII	848685	849806	1	Aminodeoxychorismate lyase (4-amino-4-deoxychorismate lyase); catalyzes the third step in para-aminobenzoic acid biosynthesis; involved in folic acid biosynthesis [Source:SGD;Acc:S000004902]
+#>E	YMR289W.1	1.0	848685-849809
+XIII	849042	849785	1.0	Aminotrans_IV	0	849042-849785	PF01063	http://pfam.sanger.ac.uk/family?acc=PF01063

@@ -1,0 +1,4 @@
+#>P	YNR053C	YNR053C	YNR053C	XIV	721123	723112	-1	Putative GTPase; associates with pre-60S ribosomal subunits in the nucleolus and is required for their nuclear export and maturation [Source:SGD;Acc:S000005336]
+#>E	YNR053C.2,YNR053C.1	1,1	721120-721770,722303-723112
+XIV	721444	721629	-1	GTP_binding_domain	0	721444-721629	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926
+XIV	722600	722992	-1	NOG2_N_dom	0	722600-722992	PF08153	http://pfam.sanger.ac.uk/family?acc=PF08153

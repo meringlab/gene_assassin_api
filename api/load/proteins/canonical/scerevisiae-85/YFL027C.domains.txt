@@ -1,0 +1,3 @@
+#>P	YFL027C	YFL027C	YFL027C	VI	80422	81912	-1	GTPase-activating protein for yeast Rab family members; Ypt1p is the preferred in vitro substrate but also acts on Sec4p, Ypt31p and Ypt32p; involved in the regulation of ER to Golgi vesicle transport [Source:SGD;Acc:S000001867]
+#>E	YFL027C.1	1.0	80419-81912
+VI	81142	81696	-1.0	RabGAP/TBC_dom	0	81142-81696	PF00566	http://pfam.sanger.ac.uk/family?acc=PF00566

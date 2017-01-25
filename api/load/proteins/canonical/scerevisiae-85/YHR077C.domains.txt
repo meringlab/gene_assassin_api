@@ -1,0 +1,6 @@
+#>P	YHR077C	YHR077C	YHR077C	VIII	252377	255756	-1	Protein involved in the nonsense-mediated mRNA decay (NMD) pathway; interacts with Nam7p and Upf3p; involved in telomere maintenance [Source:SGD;Acc:S000001119]
+#>E	YHR077C.2,YHR077C.1	1,1	252374-255637,255751-255756
+VIII	253193	253909	-1	MIF4G-like_typ-3	0	253193-253909	PF02854	http://pfam.sanger.ac.uk/family?acc=PF02854
+VIII	254921	255541	-1	MIF4G-like_typ-3	0	254921-255541	PF02854	http://pfam.sanger.ac.uk/family?acc=PF02854
+VIII	253970	254524	-1	MIF4G-like_typ-3	0	253970-254524	PF02854	http://pfam.sanger.ac.uk/family?acc=PF02854
+VIII	252392	252916	-1	Up-fram_suppressor-2	0	252392-252916	PF04050	http://pfam.sanger.ac.uk/family?acc=PF04050

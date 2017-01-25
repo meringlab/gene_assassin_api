@@ -1,0 +1,4 @@
+#>P	YJL225C	YJL225C	YJL225C	X	469	6130	-1	Putative Y' element ATP-dependent helicase [Source:SGD;Acc:S000003760]
+#>E	YJL225C.2,YJL225C.1	1,1	466-4581,4970-6130
+X	3247	3720	-1	DNA/RNA_helicase_DEAD/DEAH_N	0	3247-3720	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+X	2728	2937	-1	Helicase_C	0	2728-2937	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

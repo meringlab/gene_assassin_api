@@ -1,0 +1,3 @@
+#>P	YBR284W	YBR284W	YBR284W	II	771239	773629	1	Putative metallo-dependent hydrolase superfamily protein; similar to AMP deaminases but lacks key catalytic residues and does not rescue purine nucleotide metabolic defect of quadruple aah1 ade8 amd1 his1 mutant; null mutant exhibits longer telomeres, altered Ty mobility, decreased resistance to rapamycin and wortmannin; induced in response to hydrostatic pressure; not an essential gene; YBR284W has a paralog, YJL070C, that arose from the whole genome duplication [Source:SGD;Acc:S000000488]
+#>E	YBR284W.1	1.0	771239-773632
+II	772559	773470	1.0	A/AMP_deaminase_dom	0	772559-773470	PF00962	http://pfam.sanger.ac.uk/family?acc=PF00962

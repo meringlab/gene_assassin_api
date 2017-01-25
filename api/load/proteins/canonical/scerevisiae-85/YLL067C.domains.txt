@@ -1,0 +1,4 @@
+#>P	YLL067C	YLL067C	YLL067C	XII	588	4301	-1	Putative Y' element ATP-dependent helicase [Source:SGD;Acc:S000003990]
+#>E	YLL067C.2,YLL067C.1	1,1	585-3915,4015-4301
+XII	2574	2783	-1	Helicase_C	0	2574-2783	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XII	3093	3569	-1	DNA/RNA_helicase_DEAD/DEAH_N	0	3093-3569	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

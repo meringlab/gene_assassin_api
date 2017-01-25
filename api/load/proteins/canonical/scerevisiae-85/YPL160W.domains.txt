@@ -1,0 +1,5 @@
+#>P	YPL160W	YPL160W	YPL160W	XVI	246990	250259	1	Cytosolic leucyl tRNA synthetase; ligates leucine to the appropriate tRNA [Source:SGD;Acc:S000006081]
+#>E	YPL160W.1	1.0	246990-250262
+XVI	247566	249296	1.0	aa-tRNA-synth_Ia	0	247566-249296	PF00133	http://pfam.sanger.ac.uk/family?acc=PF00133
+XVI	247143	247337	1.0	aa-tRNA-synth_Ia	0	247143-247337	PF00133	http://pfam.sanger.ac.uk/family?acc=PF00133
+XVI	249414	249785	1.0	V/L/I-tRNA-synth_anticodon-bd	0	249414-249785	PF08264	http://pfam.sanger.ac.uk/family?acc=PF08264

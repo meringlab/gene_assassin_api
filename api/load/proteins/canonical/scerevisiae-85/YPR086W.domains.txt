@@ -1,0 +1,5 @@
+#>P	YPR086W	YPR086W	YPR086W	XVI	710101	711135	1	Transcription factor TFIIB; a general transcription factor required for transcription initiation and start site selection by RNA polymerase II [Source:SGD;Acc:S000006290]
+#>E	YPR086W.1	1.0	710101-711138
+XVI	710167	710298	1.0	Znf_TFIIB	0	710167-710298	PF08271	http://pfam.sanger.ac.uk/family?acc=PF08271
+XVI	710815	711027	1.0	TFIIB_cyclin	0	710815-711027	PF00382	http://pfam.sanger.ac.uk/family?acc=PF00382
+XVI	710497	710706	1.0	TFIIB_cyclin	0	710497-710706	PF00382	http://pfam.sanger.ac.uk/family?acc=PF00382

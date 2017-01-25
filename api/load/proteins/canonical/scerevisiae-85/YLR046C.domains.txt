@@ -1,0 +1,3 @@
+#>P	YLR046C	YLR046C	YLR046C	XII	238004	238813	-1	Putative membrane protein; member of the fungal lipid-translocating exporter (LTE) family of proteins; transcription is activated by paralogous transcription factors Yrm1p and Yrr1p along with genes involved in multidrug resistance; YLR046C has a paralog, RTA1, that arose from the whole genome duplication [Source:SGD;Acc:S000004036]
+#>E	YLR046C.1	1.0	238001-238813
+XII	238043	238702	-1.0	RTA1	0	238043-238702	PF04479	http://pfam.sanger.ac.uk/family?acc=PF04479

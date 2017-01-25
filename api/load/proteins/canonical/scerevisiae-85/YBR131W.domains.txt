@@ -1,0 +1,3 @@
+#>P	YBR131W	YBR131W	YBR131W	II	497163	499274	1	Subunit of a heterodimeric guanine nucleotide exchange factor (GEF); subunit of the Mon1-Ccz1 GEF complex, which stimulates nucleotide exchange and activation of Ypt7p, a Rab family GTPase involved in membrane tethering and fusion events at the late endosome and vacuole; GEF activity is stimulated by membrane association and anionic phospholipids; involved in localizing Ypt7p to the vacuolar membrane; required for macroautophagy, the CVT pathway and mitophagy [Source:SGD;Acc:S000000335]
+#>E	YBR131W.1	1.0	497163-499277
+II	497178	499268	1.0	DUF1712_fun	0	497178-499268	PF08217	http://pfam.sanger.ac.uk/family?acc=PF08217

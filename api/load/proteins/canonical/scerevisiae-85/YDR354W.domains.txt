@@ -1,0 +1,4 @@
+#>P	YDR354W	YDR354W	YDR354W	IV	1184747	1185886	1	Anthranilate phosphoribosyl transferase; transferase of the tryptophan biosynthetic pathway; catalyzes the phosphoribosylation of anthranilate; subject to the general control system of amino acid biosynthesis [Source:SGD;Acc:S000002762]
+#>E	YDR354W.1	1.0	1184747-1185889
+IV	1185053	1185844	1.0	Glycosyl_Trfase_fam3	0	1185053-1185844	PF00591	http://pfam.sanger.ac.uk/family?acc=PF00591
+IV	1184759	1184998	1.0	Glycosyl_Trfase_fam3_N	0	1184759-1184998	PF02885	http://pfam.sanger.ac.uk/family?acc=PF02885

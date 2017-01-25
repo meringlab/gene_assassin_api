@@ -1,0 +1,4 @@
+#>P	YOR077W	YOR077W	YOR077W	XV	471899	472594	1	Basic zinc-finger protein; similar to human and mouse Kin17 proteins which are chromatin-associated proteins involved in UV response and DNA replication [Source:SGD;Acc:S000005603]
+#>E	YOR077W.1	1.0	471899-472597
+XV	471965	472042	1.0	Znf_C2H2_jaz	0	471965-472042	PF12171	http://pfam.sanger.ac.uk/family?acc=PF12171
+XV	472049	472429	1.0	DNA/RNA-bd_Kin17_cons_domain	0	472049-472429	PF10357	http://pfam.sanger.ac.uk/family?acc=PF10357

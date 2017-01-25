@@ -1,0 +1,3 @@
+#>P	YDR510W	YDR510W	YDR510W	IV	1469400	1469702	1	Ubiquitin-like protein of the SUMO family; conjugated to lysine residues of target proteins; associates with transcriptionally active genes; regulates chromatid cohesion, chromosome segregation, APC-mediated proteolysis, DNA replication and septin ring dynamics; phosphorylated at Ser2 [Source:SGD;Acc:S000002918]
+#>E	YDR510W.1	1.0	1469400-1469705
+IV	1469469	1469672	1.0	SUMO	71.4	1469469-1469672	PF11976	http://pfam.sanger.ac.uk/family?acc=PF11976

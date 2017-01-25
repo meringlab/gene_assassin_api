@@ -1,0 +1,4 @@
+#>P	WBGene00010575	K04H4.7	K04H4.7	III	9364075	9365173	1	FMRF-Like Peptide  [Source:RefSeq peptide;Acc:NP_001022665]
+#>E	K04H4.7.e2,K04H4.7.e3	1,1	9364075-9364276,9365088-9365176
+III	9365147	9365170	1	FMRFamid-related_peptide-like	19.2	9365147-9365170	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+III	9365093	9365122	1	FMRFamid-related_peptide-like	19.2	9365093-9365122	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581

@@ -1,0 +1,3 @@
+#>P	YHR081W	YHR081W	YHR081W	VIII	267538	268089	1	Nuclear exosome-associated nucleic acid binding protein; involved in RNA processing, surveillance, degradation, tethering, and export; forms a stable heterodimer with Rrp6p and regulates its exonucleolytic activity; rapidly degraded by the proteasome in the absence of Rrp6p; homolog of mammalian nuclear matrix protein C1D involved in regulation of DNA repair and recombination [Source:SGD;Acc:S000001123]
+#>E	YHR081W.1	1.0	267538-268092
+VIII	267568	267804	1.0	Sas10/Utp3/C1D	0	267568-267804	PF04000	http://pfam.sanger.ac.uk/family?acc=PF04000

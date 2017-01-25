@@ -1,0 +1,4 @@
+#>P	YGL212W	YGL212W	YGL212W	VII	91432	92379	1	Vacuolar SNARE protein; functions with Vam3p in vacuolar protein trafficking; has an N-terminal PX domain (phosphoinositide-binding module) that binds PtdIns-3-P and mediates membrane binding; SNAP-25 homolog; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003180]
+#>E	YGL212W.1	1.0	91432-92382
+VII	92194	92373	1.0	T_SNARE_dom	0	92194-92373	PF05739	http://pfam.sanger.ac.uk/family?acc=PF05739
+VII	91498	91791	1.0	Phox	0	91498-91791	PF00787	http://pfam.sanger.ac.uk/family?acc=PF00787

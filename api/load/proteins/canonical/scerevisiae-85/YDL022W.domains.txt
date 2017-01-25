@@ -1,0 +1,4 @@
+#>P	YDL022W	YDL022W	YDL022W	IV	411825	412997	1	NAD-dependent glycerol-3-phosphate dehydrogenase; key enzyme of glycerol synthesis, essential for growth under osmotic stress; expression regulated by high-osmolarity glycerol response pathway; protein abundance increases in response to DNA replication stress; constitutively inactivated via phosphorylation by the protein kinases YPK1 and YPK2, dephosphorylation increases catalytic activity; GPD1 has a paralog, GPD2, that arose from the whole genome duplication [Source:SGD;Acc:S000002180]
+#>E	YDL022W.1	1.0	411825-413000
+IV	411930	412427	1.0	G3P_DH_NAD-dep_N	0	411930-412427	PF01210	http://pfam.sanger.ac.uk/family?acc=PF01210
+IV	412521	412964	1.0	G3P_DH_NAD-dep_C	0	412521-412964	PF07479	http://pfam.sanger.ac.uk/family?acc=PF07479

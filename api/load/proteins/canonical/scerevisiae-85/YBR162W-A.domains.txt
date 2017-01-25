@@ -1,0 +1,3 @@
+#>P	YBR162W-A	YBR162W-A	YBR162W-A	II	565231	565425	1	Protein of unknown function; expression suppresses a secretory pathway mutation in E. coli; has similarity to the mammalian RAMP4 protein involved in secretion [Source:SGD;Acc:S000002158]
+#>E	YBR162W-A.1	1.0	565231-565428
+II	565249	565422	1.0	ER_stress-assoc_Ramp4	0	565249-565422	PF06624	http://pfam.sanger.ac.uk/family?acc=PF06624

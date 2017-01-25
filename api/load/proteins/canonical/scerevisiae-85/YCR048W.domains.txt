@@ -1,0 +1,3 @@
+#>P	YCR048W	YCR048W	YCR048W	III	211929	213758	1	Acyl-CoA:sterol acyltransferase; endoplasmic reticulum enzyme that contributes the major sterol esterification activity in the absence of oxygen; ARE1 has a paralog, ARE2, that arose from the whole genome duplication [Source:SGD;Acc:S000000644]
+#>E	YCR048W.1	1.0	211929-213761
+III	212535	213755	1.0	MBOAT_fam	0	212535-213755	PF03062	http://pfam.sanger.ac.uk/family?acc=PF03062

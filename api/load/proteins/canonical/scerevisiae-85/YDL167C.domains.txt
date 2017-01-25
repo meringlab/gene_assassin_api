@@ -1,0 +1,4 @@
+#>P	YDL167C	YDL167C	YDL167C	IV	160998	163154	-1	Putative RNA binding protein of unknown function; localizes to stress granules induced by glucose deprivation; predicted to be involved in ribosome biogenesis [Source:SGD;Acc:S000002326]
+#>E	YDL167C.1	1.0	160995-163154
+IV	162003	162092	-1.0	Znf_RanBP2	0	162003-162092	PF00641	http://pfam.sanger.ac.uk/family?acc=PF00641
+IV	161328	161414	-1.0	Znf_RanBP2	0	161328-161414	PF00641	http://pfam.sanger.ac.uk/family?acc=PF00641

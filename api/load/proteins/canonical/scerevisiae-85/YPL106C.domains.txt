@@ -1,0 +1,3 @@
+#>P	YPL106C	YPL106C	YPL106C	XVI	350197	352275	-1	ATPase component of heat shock protein Hsp90 chaperone complex; plays a role in determining prion variants; binds unfolded proteins; member of the heat shock protein 70 (HSP70) family; localized to the cytoplasm; deletion results in spindle elongation in S phase; SSE1 has a paralog, SSE2, that arose from the whole genome duplication [Source:SGD;Acc:S000006027]
+#>E	YPL106C.1	1.0	350194-352275
+XVI	350350	352263	-1.0	Hsp_70	0	350350-352263	PF00012	http://pfam.sanger.ac.uk/family?acc=PF00012

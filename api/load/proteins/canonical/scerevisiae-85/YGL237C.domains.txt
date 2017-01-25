@@ -1,0 +1,3 @@
+#>P	YGL237C	YGL237C	YGL237C	VII	52734	53528	-1	Subunit of the Hap2p/3p/4p/5p CCAAT-binding complex; complex is heme-activated and glucose-repressed; complex is a transcriptional activator and global regulator of respiratory gene expression; contains sequences sufficient for both complex assembly and DNA binding [Source:SGD;Acc:S000003206]
+#>E	YGL237C.1	1.0	52731-53528
+VII	52887	53057	-1.0	TF_CBFB	0	52887-53057	PF02045	http://pfam.sanger.ac.uk/family?acc=PF02045

@@ -1,0 +1,3 @@
+#>P	YEL030W	YEL030W	YEL030W	V	94644	96575	1	Heat shock protein of the Hsp70 family; localized in mitochondrial nucleoids, plays a role in protein translocation, interacts with Mge1p in an ATP-dependent manner; overexpression induces extensive mitochondrial DNA aggregations; ECM10 has a paralog, SSC1, that arose from the whole genome duplication [Source:SGD;Acc:S000000756]
+#>E	YEL030W.1	1.0	94644-96578
+V	94728	96533	1.0	Hsp_70	0	94728-96533	PF00012	http://pfam.sanger.ac.uk/family?acc=PF00012

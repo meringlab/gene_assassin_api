@@ -1,0 +1,4 @@
+#>P	YLR115W	YLR115W	YLR115W	XII	377985	380561	1	Subunit of the mRNA cleavage and polyadenlylation factor (CPF); required for pre-mRNA cleavage, polyadenylation and poly(A) site recognition, 43% similarity with the mammalian CPSF-100 protein. [Source:SGD;Acc:S000004105]
+#>E	YLR115W.1	1.0	377985-380564
+XII	378765	379100	1.0	Beta_Casp	0	378765-379100	PF10996	http://pfam.sanger.ac.uk/family?acc=PF10996
+XII	380157	380552	1.0	Cpsf2_C	0	380157-380552	PF13299	http://pfam.sanger.ac.uk/family?acc=PF13299

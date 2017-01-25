@@ -1,0 +1,4 @@
+#>P	YJL108C	YJL108C	YJL108C	X	217708	218856	-1	Pheromone-regulated protein; proposed to be involved in mating; predicted to have 5 transmembrane segments; induced by treatment with 8-methoxypsoralen and UVA irradiation [Source:SGD;Acc:S000003644]
+#>E	YJL108C.1	1.0	217705-218856
+X	218383	218856	-1.0	DUF1212	0	218383-218856	PF06738	http://pfam.sanger.ac.uk/family?acc=PF06738
+X	217753	218190	-1.0	DUF3815	0	217753-218190	PF12821	http://pfam.sanger.ac.uk/family?acc=PF12821

@@ -1,0 +1,6 @@
+#>P	YGR217W	YGR217W	YGR217W	VII	924696	930812	1	Voltage-gated high-affinity calcium channel; involved in calcium influx in response to some environmental stresses as well as exposure to mating pheromones; interacts and partially co-localizes with Mid1p; however, evidence suggests CCH1 is not required for Mid1p function [Source:SGD;Acc:S000003449]
+#>E	YGR217W.1	1.0	924696-930815
+VII	929391	929996	1.0	Ion_trans	0	929391-929996	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
+VII	927126	927689	1.0	Ion_trans	0	927126-927689	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
+VII	928428	929111	1.0	Ion_trans	0	928428-929111	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
+VII	926145	926831	1.0	Ion_trans	0	926145-926831	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520

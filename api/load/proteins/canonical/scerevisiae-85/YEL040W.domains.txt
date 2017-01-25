@@ -1,0 +1,3 @@
+#>P	YEL040W	YEL040W	YEL040W	V	78053	79453	1	Chitin transglycosylase; functions in the transfer of chitin to beta(1-6) and beta(1-3) glucans in the cell wall; similar to and functionally redundant with Crh1; glycosylphosphatidylinositol (GPI)-anchored protein localized to bud neck [Source:SGD;Acc:S000000766]
+#>E	YEL040W.1	1.0	78053-79456
+V	78344	78868	1.0	Glyco_hydro_16	0	78344-78868	PF00722	http://pfam.sanger.ac.uk/family?acc=PF00722

@@ -1,0 +1,4 @@
+#>P	YJR139C	YJR139C	YJR139C	X	689448	690524	-1	Homoserine dehydrogenase (L-homoserine:NADP oxidoreductase); dimeric enzyme that catalyzes the third step in the common pathway for methionine and threonine biosynthesis; enzyme has nucleotide-binding, dimerization and catalytic regions [Source:SGD;Acc:S000003900]
+#>E	YJR139C.1	1.0	689445-690524
+X	690099	690491	-1.0	Asp/hSer_DH_NAD-bd	0	690099-690491	PF03447	http://pfam.sanger.ac.uk/family?acc=PF03447
+X	689466	690074	-1.0	HDH_cat	0	689466-690074	PF00742	http://pfam.sanger.ac.uk/family?acc=PF00742

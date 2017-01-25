@@ -1,0 +1,4 @@
+#>P	YHR154W	YHR154W	YHR154W	VIII	402966	406175	1	Protein implicated in Mms22-dependent DNA repair during S phase; involved in recruiting the SMC5/6 complex to double-strand breaks; DNA damage induces phosphorylation by Mec1p at one or more SQ/TQ motifs; interacts with Mms22p and Slx4p; has four BRCT domains; has a role in regulation of Ty1 transposition; relative distribution to nuclear foci increases upon DNA replication stress [Source:SGD;Acc:S000001197]
+#>E	YHR154W.1	1.0	402966-406178
+VIII	403317	403598	1.0	BRCT	0	403317-403598	PF00533	http://pfam.sanger.ac.uk/family?acc=PF00533
+VIII	404079	404321	1.0	BRCT	0	404079-404321	PF00533	http://pfam.sanger.ac.uk/family?acc=PF00533

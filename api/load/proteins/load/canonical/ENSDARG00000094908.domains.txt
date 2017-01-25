@@ -1,8 +1,0 @@
-#>P	ENSDARG00000094908	ENSDART00000145916	ENSDARP00000113678	19	305112	306923	-1	leucine rich repeat and Ig domain containing 4a [Source:ZFIN;Acc:ZDB-GENE-060503-275]
-#>E	ENSDARE00001015892	1	305109-306923
-19	306615	306680	-1	Leu-rich_rpt	10.4	306615-306680	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-19	306540	306608	-1	Leu-rich_rpt	13.2	306540-306608	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-19	306324	306392	-1	Leu-rich_rpt	11.2	306324-306392	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-19	306108	306176	-1	Leu-rich_rpt	10.2	306108-306176	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-19	306054	306101	-1	Leu-rich_rpt	12.2	306054-306101	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-19	305430	305684	-1	Ig_I-set	57.0	305430-305684	PF07679	http://pfam.sanger.ac.uk/family?acc=PF07679

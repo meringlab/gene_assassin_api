@@ -1,0 +1,3 @@
+#>P	YPL271W	YPL271W	YPL271W	XVI	30079	30264	1	Epsilon subunit of the F1 sector of mitochondrial F1F0 ATP synthase; which is a large, evolutionarily conserved enzyme complex required for ATP synthesis; F1 translationally regulates ATP6 and ATP8 expression to achieve a balanced output of ATP synthase genes encoded in nucleus and mitochondria; phosphorylated [Source:SGD;Acc:S000006192]
+#>E	YPL271W.1	1.0	30079-30267
+XVI	30082	30231	1.0	ATPase_F1-cplx_esu_mt	0	30082-30231	PF04627	http://pfam.sanger.ac.uk/family?acc=PF04627

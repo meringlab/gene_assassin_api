@@ -1,0 +1,5 @@
+#>P	YML120C	YML120C	YML120C	XIII	28269	29807	-1	NADH:ubiquinone oxidoreductase; transfers electrons from NADH to ubiquinone in the respiratory chain but does not pump protons, in contrast to the higher eukaryotic multisubunit respiratory complex I; phosphorylated; involved in Mn and H2O2 induced apoptosis; upon apoptotic stress, Ndip is activated in the mitochondria by N-terminal cleavage, and the truncated protein translocates to the cytoplasm to induce apoptosis; homolog of human AMID [Source:SGD;Acc:S000004589]
+#>E	YML120C.1	1.0	28266-29807
+XIII	28773	29117	-1.0	Pyr_nucl-diS_OxRdtase_FAD/NAD	0	28773-29117	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992
+XIII	29187	29645	-1.0	Pyr_nucl-diS_OxRdtase_FAD/NAD	0	29187-29645	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992
+XIII	28869	29120	-1.0	Pyr_OxRdtase_NAD-bd_dom	0	28869-29120	PF00070	http://pfam.sanger.ac.uk/family?acc=PF00070

@@ -1,0 +1,4 @@
+#>P	YLR195C	YLR195C	YLR195C	XII	541940	543304	-1	N-myristoyl transferase; catalyzes the cotranslational, covalent attachment of myristic acid to the N-terminal glycine residue of several proteins involved in cellular growth and signal transduction [Source:SGD;Acc:S000004185]
+#>E	YLR195C.1	1.0	541937-543304
+XII	541943	542614	-1.0	MyristoylCoA_TrFase_C	0	541943-542614	PF02799	http://pfam.sanger.ac.uk/family?acc=PF02799
+XII	542654	543139	-1.0	MyristoylCoA_TrFase_N	0	542654-543139	PF01233	http://pfam.sanger.ac.uk/family?acc=PF01233

@@ -1,0 +1,3 @@
+#>P	YJR078W	YJR078W	YJR078W	X	578860	580218	1	Putative tryptophan 2,3-dioxygenase or indoleamine 2,3-dioxygenase; required for de novo biosynthesis of NAD from tryptophan via kynurenine; interacts genetically with telomere capping gene CDC13; regulated by Hst1p and Aftp [Source:SGD;Acc:S000003839]
+#>E	YJR078W.1	1.0	578860-580221
+X	578920	580191	1.0	Indolamine_dOase	0	578920-580191	PF01231	http://pfam.sanger.ac.uk/family?acc=PF01231

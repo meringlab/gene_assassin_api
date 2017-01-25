@@ -1,0 +1,4 @@
+#>P	YML008C	YML008C	YML008C	XIII	251842	252990	-1	Delta(24)-sterol C-methyltransferase; converts zymosterol to fecosterol in the ergosterol biosynthetic pathway by methylating position C-24; localized to lipid particles, the plasma membrane-associated endoplasmic reticulum, and the mitochondrial outer membrane [Source:SGD;Acc:S000004467]
+#>E	YML008C.1	1.0	251839-252990
+XIII	251884	252081	-1.0	Sterol_MeTrfase_C	0	251884-252081	PF08498	http://pfam.sanger.ac.uk/family?acc=PF08498
+XIII	252328	252621	-1.0	Methyltransf_11	0	252328-252621	PF08241	http://pfam.sanger.ac.uk/family?acc=PF08241

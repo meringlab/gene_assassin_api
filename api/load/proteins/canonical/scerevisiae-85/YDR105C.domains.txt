@@ -1,0 +1,3 @@
+#>P	YDR105C	YDR105C	YDR105C	IV	665352	666770	-1	Vacuolar membrane protein of unknown function; is conserved in mammals; predicted to contain eleven transmembrane helices; interacts with Pdr5p, a protein involved in multidrug resistance [Source:SGD;Acc:S000002512]
+#>E	YDR105C.1	1.0	665349-666770
+IV	665370	666722	-1.0	TMS_TDE	0	665370-666722	PF03348	http://pfam.sanger.ac.uk/family?acc=PF03348

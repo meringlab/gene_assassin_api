@@ -1,0 +1,8 @@
+#>P	YMR047C	YMR047C	YMR047C	XIII	363367	366705	-1	FG-nucleoporin component of central core of the nuclear pore complex; contributes directly to nucleocytoplasmic transport and maintenance of the nuclear pore complex (NPC) permeability barrier; forms a stable association with Nup82p, Gle2p and two other FG-nucleoporins (Nsp1p and Nup159p); NUP116 has a paralog, NUP100, that arose from the whole genome duplication [Source:SGD;Acc:S000004650]
+#>E	YMR047C.1	1.0	363364-366705
+XIII	363382	363801	-1.0	Peptidase_S59	0	363382-363801	PF04096	http://pfam.sanger.ac.uk/family?acc=PF04096
+XIII	364918	365166	-1.0	Nucleoporin_FG_rpt	0	364918-365166	PF13634	http://pfam.sanger.ac.uk/family?acc=PF13634
+XIII	365380	365673	-1.0	Nucleoporin_FG_rpt	0	365380-365673	PF13634	http://pfam.sanger.ac.uk/family?acc=PF13634
+XIII	364624	364926	-1.0	Nucleoporin_FG_rpt	0	364624-364926	PF13634	http://pfam.sanger.ac.uk/family?acc=PF13634
+XIII	365143	365427	-1.0	Nucleoporin_FG_rpt	0	365143-365427	PF13634	http://pfam.sanger.ac.uk/family?acc=PF13634
+XIII	364516	364779	-1.0	Nucleoporin_FG_rpt	0	364516-364779	PF13634	http://pfam.sanger.ac.uk/family?acc=PF13634

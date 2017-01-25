@@ -1,0 +1,7 @@
+#>P	YDR127W	YDR127W	YDR127W	IV	704484	709247	1	Pentafunctional arom protein; catalyzes steps 2 through 6 in the biosynthesis of chorismate, which is a precursor to aromatic amino acids [Source:SGD;Acc:S000002534]
+#>E	YDR127W.1	1.0	704484-709250
+IV	705714	707078	1.0	Enolpyruvate_Tfrase_dom	493.9	705714-707078	PF00275	http://pfam.sanger.ac.uk/family?acc=PF00275
+IV	708759	709082	1.0	Shikm_DH/Glu-tRNA_Rdtase	67.4	708759-709082	PF01488	http://pfam.sanger.ac.uk/family?acc=PF01488
+IV	708414	708662	1.0	Shikimate_DH-bd_N	77.4	708414-708662	PF08501	http://pfam.sanger.ac.uk/family?acc=PF08501
+IV	707715	708377	1.0	DHquinase_I	220.4	707715-708377	PF01487	http://pfam.sanger.ac.uk/family?acc=PF01487
+IV	707172	707669	1.0	Shikimate_kinase	128.7	707172-707669	PF01202	http://pfam.sanger.ac.uk/family?acc=PF01202

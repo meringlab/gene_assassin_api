@@ -1,0 +1,5 @@
+#>P	YOR187W	YOR187W	YOR187W	XV	684030	685340	1	Mitochondrial translation elongation factor Tu; comprises both GTPase and guanine nucleotide exchange factor activities, while these activities are found in separate proteins in S. pombe and humans [Source:SGD;Acc:S000005713]
+#>E	YOR187W.1	1.0	684030-685343
+XV	684816	685028	1.0	Transl_elong_EFTu/EF1A_2	0	684816-685028	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144
+XV	684165	684749	1.0	ProtSyn_GTP-bd	0	684165-684749	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+XV	685041	685334	1.0	Transl_elong_EFTu/EF1A_C	0	685041-685334	PF03143	http://pfam.sanger.ac.uk/family?acc=PF03143

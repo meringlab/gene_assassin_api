@@ -1,0 +1,3 @@
+#>P	YAL027W	YAL027W	YAL027W	I	94687	95469	1	5'- and 3'-flap DNA binding protein; recruits Rad1p-Rad10p to single-strand annealing intermediates with 3' non-homologous tails for removal during double-strand break repair; complexes with Rad1p-Rad10p and stimulates its endonuclease activity; green fluorescent protein (GFP)-fusion protein localizes to the nucleus [Source:SGD;Acc:S000000025]
+#>E	YAL027W.1	1.0	94687-95472
+I	94687	95415	1.0	Saw1	0	94687-95415	PF11561	http://pfam.sanger.ac.uk/family?acc=PF11561

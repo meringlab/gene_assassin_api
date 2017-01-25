@@ -1,0 +1,5 @@
+#>P	YHR216W	YHR216W	YHR216W	VIII	554396	555964	1	Inosine monophosphate dehydrogenase; catalyzes the rate-limiting step in GTP biosynthesis, expression is induced by mycophenolic acid resulting in resistance to the drug, expression is repressed by nutrient limitation; IMD2 has a paralog, YAR073W/YAR075W, that arose from a segmental duplication [Source:SGD;Acc:S000001259]
+#>E	YHR216W.1	1.0	554396-555967
+VIII	554501	555931	1.0	IMP_DH_GMPRt	0	554501-555931	PF00478	http://pfam.sanger.ac.uk/family?acc=PF00478
+VIII	554933	555091	1.0	Cysta_beta_synth_core	0	554933-555091	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571
+VIII	554765	554905	1.0	Cysta_beta_synth_core	0	554765-554905	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571

@@ -1,0 +1,4 @@
+#>P	YIL125W	YIL125W	YIL125W	IX	122689	125730	1	Subunit of the mitochondrial alpha-ketoglutarate dehydrogenase complex; catalyzes a key step in the tricarboxylic acid (TCA) cycle, the oxidative decarboxylation of alpha-ketoglutarate to form succinyl-CoA [Source:SGD;Acc:S000001387]
+#>E	YIL125W.1	1.0	122689-125733
+IX	124621	125259	1.0	Transketolase-like_Pyr-bd	0	124621-125259	PF02779	http://pfam.sanger.ac.uk/family?acc=PF02779
+IX	123445	124404	1.0	DH_E1	0	123445-124404	PF00676	http://pfam.sanger.ac.uk/family?acc=PF00676

@@ -1,0 +1,3 @@
+#>P	YML001W	YML001W	YML001W	XIII	267174	267797	1	Rab family GTPase; GTP-binding protein of the rab family; required for homotypic fusion event in vacuole inheritance, for endosome-endosome fusion; interacts with the cargo selection/retromer complex for retrograde sorting; similar to mammalian Rab7 [Source:SGD;Acc:S000004460]
+#>E	YML001W.1	1.0	267174-267800
+XIII	267201	267704	1.0	Small_GTPase	0	267201-267704	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071

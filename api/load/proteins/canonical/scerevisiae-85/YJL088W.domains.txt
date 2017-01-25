@@ -1,0 +1,4 @@
+#>P	YJL088W	YJL088W	YJL088W	X	268799	269812	1	Ornithine carbamoyltransferase; also known as carbamoylphosphate:L-ornithine carbamoyltransferase; catalyzes the biosynthesis of the arginine precursor citrulline [Source:SGD;Acc:S000003624]
+#>E	YJL088W.1	1.0	268799-269815
+X	269318	269770	1.0	Asp_carbamoyltransf_Asp/Orn-bd	0	269318-269770	PF00185	http://pfam.sanger.ac.uk/family?acc=PF00185
+X	268832	269272	1.0	Asp/Orn_carbamoyltranf_P-bd	0	268832-269272	PF02729	http://pfam.sanger.ac.uk/family?acc=PF02729

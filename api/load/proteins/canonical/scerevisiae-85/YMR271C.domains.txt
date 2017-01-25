@@ -1,0 +1,3 @@
+#>P	YMR271C	YMR271C	YMR271C	XIII	806868	807548	-1	Minor orotate phosphoribosyltransferase (OPRTase) isozyme; catalyzes the fifth enzymatic step in the de novo biosynthesis of pyrimidines, converting orotate into orotidine-5'-phosphate; URA10 has a paralog, URA5, that arose from the whole genome duplication [Source:SGD;Acc:S000004884]
+#>E	YMR271C.1	1.0	806865-807548
+XIII	807057	807416	-1.0	PRibTrfase	0	807057-807416	PF00156	http://pfam.sanger.ac.uk/family?acc=PF00156

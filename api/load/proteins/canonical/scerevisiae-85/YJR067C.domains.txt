@@ -1,0 +1,3 @@
+#>P	YJR067C	YJR067C	YJR067C	X	567022	567444	-1	Protein that forms a complex with Lto1p and Rli1p; essential for growth under standard (aerobic) conditions but not under anaerobic conditions; may have a role in protection of ribosomal assembly and function from damage due to reactive oxygen species [Source:SGD;Acc:S000003828]
+#>E	YJR067C.1	1.0	567019-567444
+X	567229	567345	-1.0	Essential_protein_Yae1_N	51.7	567229-567345	PF09811	http://pfam.sanger.ac.uk/family?acc=PF09811

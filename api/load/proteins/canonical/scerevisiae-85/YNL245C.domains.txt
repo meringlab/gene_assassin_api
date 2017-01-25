@@ -1,0 +1,4 @@
+#>P	YNL245C	YNL245C	YNL245C	XIV	186349	186885	-1	Splicing factor required for the first step of pre-mRNA splicing; binding to the spliceosome requires Prp2p and Yju2p; heat-stable protein; has similarity to S. pombe Cwf25p [Source:SGD;Acc:S000005189]
+#>E	YNL245C.1	1.0	186346-186885
+XIV	186421	186672	-1.0	CWC25	0	186421-186672	PF12542	http://pfam.sanger.ac.uk/family?acc=PF12542
+XIV	186745	186855	-1.0	CIR_N_dom	0	186745-186855	PF10197	http://pfam.sanger.ac.uk/family?acc=PF10197

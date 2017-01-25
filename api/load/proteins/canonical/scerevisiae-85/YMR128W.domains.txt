@@ -1,0 +1,6 @@
+#>P	YMR128W	YMR128W	YMR128W	XIII	523696	527496	1	Essential DEAH-box ATP-dependent RNA helicase specific to U3 snoRNP; predominantly nucleolar in distribution; required for 18S rRNA synthesis [Source:SGD;Acc:S000004735]
+#>E	YMR128W.1	1.0	523696-527499
+XIII	526822	527244	1.0	DUF1605	0	526822-527244	PF07717	http://pfam.sanger.ac.uk/family?acc=PF07717
+XIII	525886	526146	1.0	Helicase_C	0	525886-526146	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XIII	526327	526716	1.0	Helicase-assoc_dom	0	526327-526716	PF04408	http://pfam.sanger.ac.uk/family?acc=PF04408
+XIII	524890	525393	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	524890-525393	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

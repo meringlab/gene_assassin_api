@@ -1,0 +1,4 @@
+#>P	YNR073C	YNR073C	YNR073C	XIV	774795	776300	-1	Putative mannitol dehydrogenase; YNR073C has a paralog, DSF1, that arose from a segmental duplication [Source:SGD;Acc:S000005356]
+#>E	YNR073C.1	1.0	774792-776300
+XIV	775701	776195	-1.0	Mannitol_DH_N	0	775701-776195	PF01232	http://pfam.sanger.ac.uk/family?acc=PF01232
+XIV	774876	775613	-1.0	Mannitol_DH_C	0	774876-775613	PF08125	http://pfam.sanger.ac.uk/family?acc=PF08125

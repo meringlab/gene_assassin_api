@@ -1,0 +1,4 @@
+#>P	YNL229C	YNL229C	YNL229C	XIV	219140	220201	-1	Nitrogen catabolite repression transcriptional regulator; inhibits GLN3 transcription in good nitrogen source; role in sequestering Gln3p and Gat1p to the cytoplasm; has glutathione peroxidase activity and can mutate to acquire GST activity; altered form creates [URE3] prion [Source:SGD;Acc:S000005173]
+#>E	YNL229C.1	1.0	219137-220201
+XIV	219167	219532	-1.0	GST_C	0	219167-219532	PF00043	http://pfam.sanger.ac.uk/family?acc=PF00043
+XIV	219635	219862	-1.0	Glutathione_S-Trfase_N	0	219635-219862	PF02798	http://pfam.sanger.ac.uk/family?acc=PF02798

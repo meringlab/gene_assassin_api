@@ -1,0 +1,3 @@
+#>P	YLR368W	YLR368W	YLR368W	XII	857540	859333	1	F-box component of an SCF ubiquitin protein ligase complex; associates with and is required for Fzo1p ubiquitination and for mitochondria fusion; stimulates nuclear export of specific mRNAs; promotes ubiquitin-mediated degradation of Gal4p in some strains [Source:SGD;Acc:S000004360]
+#>E	YLR368W.1	1.0	857540-859336
+XII	857579	857719	1.0	F-box_dom_cyclin-like	0	857579-857719	PF00646	http://pfam.sanger.ac.uk/family?acc=PF00646

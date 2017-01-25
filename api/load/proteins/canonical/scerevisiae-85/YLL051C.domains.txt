@@ -1,0 +1,5 @@
+#>P	YLL051C	YLL051C	YLL051C	XII	37336	39471	-1	Putative ferric reductase with similarity to Fre2p; expression induced by low iron levels [Source:SGD;Acc:S000003974]
+#>E	YLL051C.1	1.0	37333-39471
+XII	37843	38145	-1.0	FAD-bd_8	0	37843-38145	PF08022	http://pfam.sanger.ac.uk/family?acc=PF08022
+XII	38266	38610	-1.0	Flavoprotein_TM	0	38266-38610	PF01794	http://pfam.sanger.ac.uk/family?acc=PF01794
+XII	37399	37824	-1.0	Fe_red_NAD-bd_6	0	37399-37824	PF08030	http://pfam.sanger.ac.uk/family?acc=PF08030

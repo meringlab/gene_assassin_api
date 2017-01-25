@@ -1,0 +1,7 @@
+#>P	YPL187W	YPL187W	YPL187W	XVI	193648	194142	1	Mating pheromone alpha-factor, made by alpha cells; interacts with mating type a cells to induce cell cycle arrest and other responses leading to mating; also encoded by MF(ALPHA)2, although MF(ALPHA)1 produces most alpha-factor; MF(ALPHA)1 has a paralog, MF(ALPHA)2, that arose from the whole genome duplication [Source:SGD;Acc:S000006108]
+#>E	YPL187W.1	1.0	193648-194145
+XVI	194104	194142	1.0	Mating_factor_alpha	0	194104-194142	PF04648	http://pfam.sanger.ac.uk/family?acc=PF04648
+XVI	194041	194079	1.0	Mating_factor_alpha	0	194041-194079	PF04648	http://pfam.sanger.ac.uk/family?acc=PF04648
+XVI	193915	193953	1.0	Mating_factor_alpha	0	193915-193953	PF04648	http://pfam.sanger.ac.uk/family?acc=PF04648
+XVI	193978	194016	1.0	Mating_factor_alpha	0	193978-194016	PF04648	http://pfam.sanger.ac.uk/family?acc=PF04648
+XVI	193648	193905	1.0	Mating_factor_alpha_N	0	193648-193905	PF05436	http://pfam.sanger.ac.uk/family?acc=PF05436

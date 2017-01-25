@@ -1,0 +1,3 @@
+#>P	YDL201W	YDL201W	YDL201W	IV	99561	100418	1	Noncatalytic subunit of a tRNA methyltransferase complex; Trm8p and Trm82p comprise an enzyme that catalyzes a methyl-transfer from S-adenosyl-l-methionine to the N(7) atom of guanine at position 46 in tRNA; Trm8 lacks catalytic activity if not bound to Trm82p [Source:SGD;Acc:S000002360]
+#>E	YDL201W.1	1.0	99561-100421
+IV	99780	100397	1.0	tRNA_(Gua-N-7)_MeTrfase	209.9	99780-100397	PF02390	http://pfam.sanger.ac.uk/family?acc=PF02390

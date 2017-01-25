@@ -1,0 +1,3 @@
+#>P	YPR183W	YPR183W	YPR183W	XVI	900755	901555	1	Dolichol phosphate mannose (Dol-P-Man) synthase of the ER membrane; catalyzes the formation of Dol-P-Man from Dol-P and GDP-Man; required for glycosyl phosphatidylinositol membrane anchoring, O mannosylation, and protein glycosylation [Source:SGD;Acc:S000006387]
+#>E	YPR183W.1	1.0	900755-901558
+XVI	900770	901264	1.0	Glyco_trans_2	0	900770-901264	PF00535	http://pfam.sanger.ac.uk/family?acc=PF00535

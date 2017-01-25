@@ -1,0 +1,7 @@
+#>P	YGL234W	YGL234W	YGL234W	VII	56482	58887	1	Enzyme of the 'de novo' purine nucleotide biosynthetic pathway; contains aminoimidazole ribotide synthetase and glycinamide ribotide synthetase activities [Source:SGD;Acc:S000003203]
+#>E	YGL234W.1	1.0	56482-58890
+VII	57964	58248	1.0	AIR_synth	0	57964-58248	PF00586	http://pfam.sanger.ac.uk/family?acc=PF00586
+VII	58354	58845	1.0	AIR_synth_C	0	58354-58845	PF02769	http://pfam.sanger.ac.uk/family?acc=PF02769
+VII	57517	57798	1.0	PRibGlycinamide_synth_C-dom	0	57517-57798	PF02843	http://pfam.sanger.ac.uk/family?acc=PF02843
+VII	56803	57405	1.0	PRibGlycinamid_synth_ATP-grasp	0	56803-57405	PF01071	http://pfam.sanger.ac.uk/family?acc=PF01071
+VII	56488	56802	1.0	PRibGlycinamide_synth_N	0	56488-56802	PF02844	http://pfam.sanger.ac.uk/family?acc=PF02844

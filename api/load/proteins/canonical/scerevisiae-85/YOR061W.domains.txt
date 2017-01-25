@@ -1,0 +1,3 @@
+#>P	YOR061W	YOR061W	YOR061W	XV	441534	442550	1	Alpha' catalytic subunit of casein kinase 2 (CK2); CK2 is a Ser/Thr protein kinase with roles in cell growth and proliferation; CK2, comprised of CKA1, CKA2, CKB1 and CKB2, has many substrates including transcription factors and all RNA polymerases; protein abundance increases in response to DNA replication stress; regulates Fkh1p-mediated donor preference during mating-type switching [Source:SGD;Acc:S000005587]
+#>E	YOR061W.1	1.0	441534-442553
+XV	441681	442535	1.0	Prot_kinase_cat_dom	0	441681-442535	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

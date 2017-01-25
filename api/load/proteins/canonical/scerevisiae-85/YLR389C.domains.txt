@@ -1,0 +1,5 @@
+#>P	YLR389C	YLR389C	YLR389C	XII	899580	902660	-1	Metalloprotease; involved in N-terminal processing of pro-a-factor to the mature form; expressed in both haploids and diploids; member of the insulin-degrading enzyme family; homolog Axl1p is also involved in processing of pro-a-factor [Source:SGD;Acc:S000004381]
+#>E	YLR389C.1	1.0	899577-902660
+XII	901998	902408	-1.0	Pept_M16_N	0	901998-902408	PF00675	http://pfam.sanger.ac.uk/family?acc=PF00675
+XII	899967	900515	-1.0	Peptidase_M16_C	0	899967-900515	PF05193	http://pfam.sanger.ac.uk/family?acc=PF05193
+XII	901389	901919	-1.0	Peptidase_M16_C	0	901389-901919	PF05193	http://pfam.sanger.ac.uk/family?acc=PF05193

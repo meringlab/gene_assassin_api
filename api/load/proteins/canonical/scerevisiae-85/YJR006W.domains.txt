@@ -1,0 +1,3 @@
+#>P	YJR006W	YJR006W	YJR006W	X	449202	450662	1	Subunit of DNA polymerase delta (polymerase III); essential for cell viability; involved in DNA replication and DNA repair; forms a complex with Rev3p, Rev7p and Pol32p; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000003766]
+#>E	YJR006W.1	1.0	449202-450665
+X	449841	450539	1.0	DNA_pol_alpha/epsilon_bsu	0	449841-450539	PF04042	http://pfam.sanger.ac.uk/family?acc=PF04042

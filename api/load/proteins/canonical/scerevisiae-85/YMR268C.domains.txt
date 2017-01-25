@@ -1,0 +1,6 @@
+#>P	YMR268C	YMR268C	YMR268C	XIII	802891	804222	-1	Splicing factor that reanneals snRNPs during spliceosome recycling; reanneals U4 and U6 snRNPs [Source:SGD;Acc:S000004881]
+#>E	YMR268C.1	1.0	802888-804222
+XIII	802894	802956	-1.0	Lsm_interact	0	802894-802956	PF05391	http://pfam.sanger.ac.uk/family?acc=PF05391
+XIII	803659	803868	-1.0	RRM_dom	0	803659-803868	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+XIII	803377	803589	-1.0	RRM_dom	0	803377-803589	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+XIII	803896	804096	-1.0	RRM_dom	0	803896-804096	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

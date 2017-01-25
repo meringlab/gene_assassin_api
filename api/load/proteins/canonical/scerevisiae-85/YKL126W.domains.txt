@@ -1,0 +1,4 @@
+#>P	YKL126W	YKL126W	YKL126W	XI	205707	207746	1	Serine/threonine protein kinase; phosphorylates and downregulates flippase activator Fpk1p; inactivates Orm1p and Orm2p (inhibitors of serine:palmitoyl-coenzyme A transferase) by phosphorylation in response to compromised sphingolipid synthesis; mutations affect receptor-mediated endocytosis and sphingolipid-mediated and cell integrity signaling pathways; homolog of mammalian kinase SGK; YPK1 has a paralog, YPK2, that arose from the whole genome duplication [Source:SGD;Acc:S000001609]
+#>E	YKL126W.1	1.0	205707-207749
+XI	206748	207512	1.0	Prot_kinase_cat_dom	0	206748-207512	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+XI	207573	207704	1.0	Pkinase_C	0	207573-207704	PF00433	http://pfam.sanger.ac.uk/family?acc=PF00433

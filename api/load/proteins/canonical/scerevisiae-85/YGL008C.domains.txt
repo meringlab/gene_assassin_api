@@ -1,0 +1,5 @@
+#>P	YGL008C	YGL008C	YGL008C	VII	479913	482666	-1	Plasma membrane P2-type H+-ATPase; pumps protons out of cell; major regulator of cytoplasmic pH and plasma membrane potential; long-lived protein asymmetrically distributed at plasma membrane between mother cells and buds; accumulates at high levels in mother cells during aging, buds emerge with very low levels of Pma1p, newborn cells have low levels of Pma1p; Hsp30p plays a role in Pma1p regulation; interactions with Std1p appear to propagate [GAR+] [Source:SGD;Acc:S000002976]
+#>E	YGL008C.1	1.0	479910-482666
+VII	482262	482435	-1.0	ATPase_P-typ_cation-transptr_N	0	482262-482435	PF00690	http://pfam.sanger.ac.uk/family?acc=PF00690
+VII	480729	481550	-1.0	Dehalogen-like_hydro	0	480729-481550	PF00702	http://pfam.sanger.ac.uk/family?acc=PF00702
+VII	481563	482231	-1.0	ATPase_P-typ_ATPase-assoc-dom	0	481563-482231	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122

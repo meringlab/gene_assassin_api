@@ -1,0 +1,3 @@
+#>P	YLR174W	YLR174W	YLR174W	XII	504591	505826	1	Cytosolic NADP-specific isocitrate dehydrogenase; catalyzes oxidation of isocitrate to alpha-ketoglutarate; levels are elevated during growth on non-fermentable carbon sources and reduced during growth on glucose; IDP2 has a paralog, IDP3, that arose from the whole genome duplication [Source:SGD;Acc:S000004164]
+#>E	YLR174W.1	1.0	504591-505829
+XII	504603	505787	1.0	IsoPropMal-DH-like_dom	0	504603-505787	PF00180	http://pfam.sanger.ac.uk/family?acc=PF00180

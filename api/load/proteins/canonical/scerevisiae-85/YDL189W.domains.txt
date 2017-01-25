@@ -1,0 +1,3 @@
+#>P	YDL189W	YDL189W	YDL189W	IV	122216	123586	1	Protein of unknown function; identified as a high copy suppressor of psk1 psk2 mutations that confer temperature-sensitivity for galactose utilization; proposed to bind single-stranded nucleic acids via its R3H domain [Source:SGD;Acc:S000002348]
+#>E	YDL189W.1	1.0	122216-123589
+IV	122315	122464	1.0	R3H_ss-bd	0	122315-122464	PF01424	http://pfam.sanger.ac.uk/family?acc=PF01424

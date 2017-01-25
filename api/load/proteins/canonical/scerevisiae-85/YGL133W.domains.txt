@@ -1,0 +1,4 @@
+#>P	YGL133W	YGL133W	YGL133W	VII	257707	261498	1	Subunit of ATP-dependent Isw2p-Itc1p chromatin remodeling complex; required for repression of a-specific genes, repression of early meiotic genes during mitotic growth, and repression of INO1; similar to mammalian Acf1p, the regulatory subunit of the mammalian ATP-utilizing chromatin assembly and modifying factor (ACF) complex; ITC1 has a paralog, YPL216W, that arose from the whole genome duplication [Source:SGD;Acc:S000003101]
+#>E	YGL133W.1	1.0	257707-261501
+VII	258973	259152	1.0	DDT_dom	0	258973-259152	PF02791	http://pfam.sanger.ac.uk/family?acc=PF02791
+VII	257776	258078	1.0	WSTF_Acf1_Cbp146	0	257776-258078	PF10537	http://pfam.sanger.ac.uk/family?acc=PF10537

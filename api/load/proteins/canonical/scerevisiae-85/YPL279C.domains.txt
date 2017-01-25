@@ -1,0 +1,4 @@
+#>P	YPL279C	YPL279C	YPL279C	XVI	13231	14355	-1	Protein involved in fluoride export; nearly identical to FEX1, and deletion of both proteins results in a large increase in fluoride sensitivity compared with the single mutant; contains two FEX domains connected by a linker; part of a widespread family of conserved fluoride export proteins [Source:SGD;Acc:S000006200]
+#>E	YPL279C.1	1.0	13228-14355
+XVI	14035	14289	-1.0	Camphor-R_CrcB	0	14035-14289	PF02537	http://pfam.sanger.ac.uk/family?acc=PF02537
+XVI	13276	13635	-1.0	Camphor-R_CrcB	0	13276-13635	PF02537	http://pfam.sanger.ac.uk/family?acc=PF02537

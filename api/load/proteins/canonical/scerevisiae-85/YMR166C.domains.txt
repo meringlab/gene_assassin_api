@@ -1,0 +1,5 @@
+#>P	YMR166C	YMR166C	YMR166C	XIII	593370	594473	-1	Predicted transporter of the mitochondrial inner membrane; has similarity to human mitochondrial ATP-Mg/Pi carriers; YMR166C is not an essential gene [Source:SGD;Acc:S000004776]
+#>E	YMR166C.1	1.0	593367-594473
+XIII	593745	594029	-1.0	Mitochondrial_sb/sol_carrier	0	593745-594029	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XIII	593385	593717	-1.0	Mitochondrial_sb/sol_carrier	0	593385-593717	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XIII	594054	594320	-1.0	Mitochondrial_sb/sol_carrier	0	594054-594320	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

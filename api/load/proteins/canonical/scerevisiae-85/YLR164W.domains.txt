@@ -1,0 +1,3 @@
+#>P	YLR164W	YLR164W	YLR164W	XII	493883	494386	1	Putative alternate subunit of succinate dehydrogenase (SDH); mitochondrial inner membrane protein; genetic interaction with SDH4 suggests that Shh4p can function as a functional SDH subunit; a fraction copurifies with SDH subunit Sdh3p; expression induced by nitrogen limitation in a GLN3, GAT1-dependent manner; Shh4p has greater similarity to human SDHD (subunit D of SDH, implicated in paraganglioma) than does its paralog Sdh4p [Source:SGD;Acc:S000004154]
+#>E	YLR164W.1	1.0	493883-494389
+XII	493964	494359	1.0	Cyt_b_succ_DH_CybS	0	493964-494359	PF05328	http://pfam.sanger.ac.uk/family?acc=PF05328

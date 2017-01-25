@@ -1,0 +1,5 @@
+#>P	YJR119C	YJR119C	YJR119C	X	644307	646490	-1	JmjC domain family histone demethylase; promotes global demethylation of H3K4 and repression of noncoding intergenic transcription during sporulation; removes methyl groups added by Set1p methyltransferase; negatively regulated by H3K14 acetylation; protein levels regulated by Not4p polyubiquitin-mediated degradation; regulates sporulation timing by extending period of active transcription in opposition to programmed global transcriptional quiescence; regulates rDNA silencing [Source:SGD;Acc:S000003880]
+#>E	YJR119C.1	1.0	644304-646490
+X	644895	645251	-1.0	TF_JmjC_AAH	141.2	644895-645251	PF02373	http://pfam.sanger.ac.uk/family?acc=PF02373
+X	645642	645779	-1.0	Znf_PHD-finger	46.9	645642-645779	PF00628	http://pfam.sanger.ac.uk/family?acc=PF00628
+X	646371	646478	-1.0	TF_JmjN	47.6	646371-646478	PF02375	http://pfam.sanger.ac.uk/family?acc=PF02375

@@ -1,0 +1,4 @@
+#>P	YHR090C	YHR090C	YHR090C	VIII	283780	284625	-1	Subunit of NuA4, an essential histone acetyltransferase complex; positions Piccolo NuA4 for efficient acetylation of histone H4 or histone H2A; relocalizes to the cytosol in response to hypoxia; similar to human tumor suppressor ING1 and its isoforms ING4 and ING5 [Source:SGD;Acc:S000001132]
+#>E	YHR090C.1	1.0	283777-284625
+VIII	284296	284613	-1.0	ING_N	0	284296-284613	PF12998	http://pfam.sanger.ac.uk/family?acc=PF12998
+VIII	283816	283956	-1.0	Znf_PHD-finger	0	283816-283956	PF00628	http://pfam.sanger.ac.uk/family?acc=PF00628

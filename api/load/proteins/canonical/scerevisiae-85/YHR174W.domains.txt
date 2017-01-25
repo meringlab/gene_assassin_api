@@ -1,0 +1,4 @@
+#>P	YHR174W	YHR174W	YHR174W	VIII	451327	452637	1	Enolase II, a phosphopyruvate hydratase; catalyzes conversion of 2-phosphoglycerate to phosphoenolpyruvate during glycolysis and the reverse reaction during gluconeogenesis; expression induced in response to glucose; ENO2 has a paralog, ENO1, that arose from the whole genome duplication [Source:SGD;Acc:S000001217]
+#>E	YHR174W.1	1.0	451327-452640
+VIII	451759	452625	1.0	Enolase_C	0	451759-452625	PF00113	http://pfam.sanger.ac.uk/family?acc=PF00113
+VIII	451333	451728	1.0	Enolase_N	0	451333-451728	PF03952	http://pfam.sanger.ac.uk/family?acc=PF03952

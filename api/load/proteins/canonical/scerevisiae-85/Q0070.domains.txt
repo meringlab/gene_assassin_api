@@ -1,0 +1,4 @@
+#>P	Q0070	Q0070	Q0070	Mito	13818	23164	1	Endonuclease I-SceIV; involved in intron mobility; encoded by a mobile group I intron within the mitochondrial COX1 gene [Source:SGD;Acc:S000007265]
+#>E	Q0070.1,Q0070.2,Q0070.3,Q0070.4,Q0070.5	1,1,1,1,1	13818-13986,16435-16470,18954-18991,20508-20984,21995-23167
+Mito	13851	22252	1	Cyt_c_Oxase_su1	0	13851-13986,16435-16470,18954-18991,20508-20984,21995-22252	PF00115	http://pfam.sanger.ac.uk/family?acc=PF00115
+Mito	22541	23077	1	LAGLIDADG_2	0	22541-23077	PF03161	http://pfam.sanger.ac.uk/family?acc=PF03161

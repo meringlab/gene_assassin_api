@@ -1,0 +1,5 @@
+#>P	YPR173C	YPR173C	YPR173C	XVI	886527	887837	-1	AAA-ATPase involved in multivesicular body (MVB) protein sorting; ATP-bound Vps4p localizes to endosomes and catalyzes ESCRT-III disassembly and membrane release; ATPase activity is activated by Vta1p; regulates cellular sterol metabolism [Source:SGD;Acc:S000006377]
+#>E	YPR173C.1	1.0	886524-887837
+XVI	886944	887333	-1.0	ATPase_AAA_core	0	886944-887333	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+XVI	886539	886724	-1.0	Vps4_C	0	886539-886724	PF09336	http://pfam.sanger.ac.uk/family?acc=PF09336
+XVI	887616	887819	-1.0	MIT	0	887616-887819	PF04212	http://pfam.sanger.ac.uk/family?acc=PF04212

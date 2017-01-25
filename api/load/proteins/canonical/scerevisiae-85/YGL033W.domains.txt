@@ -1,0 +1,3 @@
+#>P	YGL033W	YGL033W	YGL033W	VII	435625	436348	1	Meiosis-specific protein that localizes to chromosomes;preventing synapsis between nonhomologous chromosomes and ensuring synapsis between homologs; complexes with Mnd1p to promote homolog pairing and meiotic double-strand break repair; contains a second intron at the 3' end; heterodimer of Hop2p-Mnd1p stimulates the activity of Dmc1p [Source:SGD;Acc:S000003001]
+#>E	YGL033W.1,YGL033W.2	1,1	435625-435679,435750-436351
+VII	435676	436255	1	TBPIP	0	435676-435679,435750-436255	PF07106	http://pfam.sanger.ac.uk/family?acc=PF07106

@@ -1,0 +1,3 @@
+#>P	YGL173C	YGL173C	YGL173C	VII	175530	180113	-1	Evolutionarily-conserved 5'-3' exonuclease; component of cytoplasmic processing (P) bodies involved in mRNA decay; also enters the nucleus and positively regulates transcription initiation and elongation; plays a role in microtubule-mediated processes, filamentous growth, ribosomal RNA maturation, and telomere maintenance; activated by the scavenger decapping enzyme Dcs1p [Source:SGD;Acc:S000003141]
+#>E	YGL173C.1	1.0	175527-180113
+VII	179430	180113	-1.0	Put_53exo	0	179430-180113	PF03159	http://pfam.sanger.ac.uk/family?acc=PF03159

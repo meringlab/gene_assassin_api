@@ -1,0 +1,5 @@
+#>P	YLR348C	YLR348C	YLR348C	XII	826980	827873	-1	Mitochondrial dicarboxylate carrier; integral membrane protein, catalyzes a dicarboxylate-phosphate exchange across the inner mitochondrial membrane, transports cytoplasmic dicarboxylates into the mitochondrial matrix [Source:SGD;Acc:S000004340]
+#>E	YLR348C.1	1.0	826977-827873
+XII	827589	827819	-1.0	Mitochondrial_sb/sol_carrier	0	827589-827819	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XII	827007	827258	-1.0	Mitochondrial_sb/sol_carrier	0	827007-827258	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XII	827280	827546	-1.0	Mitochondrial_sb/sol_carrier	0	827280-827546	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

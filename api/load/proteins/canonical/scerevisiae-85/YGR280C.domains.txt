@@ -1,0 +1,3 @@
+#>P	YGR280C	YGR280C	YGR280C	VII	1050913	1051725	-1	Essential protein involved in rRNA and snoRNA maturation; competes with TLC1 RNA for binding to Est2p, suggesting a role in negative regulation of telomerase; human homolog inhibits telomerase; contains a G-patch RNA interacting domain [Source:SGD;Acc:S000003512]
+#>E	YGR280C.1	1.0	1050910-1051725
+VII	1051516	1051653	-1.0	G_patch	0	1051516-1051653	PF01585	http://pfam.sanger.ac.uk/family?acc=PF01585

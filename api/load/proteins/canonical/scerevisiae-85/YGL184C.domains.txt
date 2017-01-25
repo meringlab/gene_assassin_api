@@ -1,0 +1,3 @@
+#>P	YGL184C	YGL184C	YGL184C	VII	154618	156012	-1	Peroxisomal cystathionine beta-lyase; converts cystathionine into homocysteine; may be redox regulated by Gto1p; involved in the release of the aromatic thiol 3-mercaptohexanol during wine fermentation [Source:SGD;Acc:S000003152]
+#>E	YGL184C.1	1.0	154615-156012
+VII	154801	155994	-1.0	Cys/Met-Metab_PyrdxlP-dep_enz	0	154801-155994	PF01053	http://pfam.sanger.ac.uk/family?acc=PF01053

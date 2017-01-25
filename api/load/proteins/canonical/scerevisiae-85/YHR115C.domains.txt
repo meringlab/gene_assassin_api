@@ -1,0 +1,4 @@
+#>P	YHR115C	YHR115C	YHR115C	VIII	340112	341359	-1	Ubiquitin-protein ligase (E3); controls septin dynamics, spindle position checkpoint (SPOC) with ligase Dma2p by regulating recruitment of Elm1p to bud neck; regulates levels of eIF2 subunit Gcd11p, as well as abundance, localization, and ubiquitination of Cdk inhibitory kinase Swe1p; ubiquitinates cyclin Pcl1p; ortholog of human RNF8, similar to human Chfr; contains FHA, RING fingers; DMA1 has a paralog, DMA2, that arose from the whole genome duplication [Source:SGD;Acc:S000001157]
+#>E	YHR115C.1	1.0	340109-341359
+VIII	340541	340729	-1.0	FHA_dom	0	340541-340729	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498
+VIII	340244	340384	-1.0	Znf_RING	0	340244-340384	PF13639	http://pfam.sanger.ac.uk/family?acc=PF13639

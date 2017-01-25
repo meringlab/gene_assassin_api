@@ -1,0 +1,3 @@
+#>P	YLR229C	YLR229C	YLR229C	XII	604215	604787	-1	Small rho-like GTPase; essential for establishment and maintenance of cell polarity; plays a role late in cell fusion via activation of key cell fusion regulator Fus2p; mutants have defects in the organization of actin and septins [Source:SGD;Acc:S000004219]
+#>E	YLR229C.1	1.0	604212-604787
+XII	604263	604775	-1.0	Small_GTPase	0	604263-604775	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071

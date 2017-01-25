@@ -1,0 +1,4 @@
+#>P	YBR212W	YBR212W	YBR212W	II	647886	649901	1	RNA binding protein that negatively regulates growth rate; interacts with the 3' UTR of the mitochondrial porin (POR1) mRNA and enhances its degradation; overexpression impairs mitochondrial function; interacts with Dhh1p to mediate POR1 mRNA decay; expressed in stationary phase [Source:SGD;Acc:S000000416]
+#>E	YBR212W.1	1.0	647886-649904
+II	648969	649163	1.0	RRM_dom	0	648969-649163	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+II	648465	648680	1.0	RRM_dom	0	648465-648680	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

@@ -1,0 +1,4 @@
+#>P	YDR338C	YDR338C	YDR338C	IV	1147382	1149466	-1	Putative protein of unknown function; member of the multi-drug and toxin extrusion (MATE) family of the multidrug/oligosaccharidyl-lipid/polysaccharide (MOP) exporter superfamily [Source:SGD;Acc:S000002746]
+#>E	YDR338C.1	1.0	1147379-1149466
+IV	1148276	1148755	-1.0	MATE	0	1148276-1148755	PF01554	http://pfam.sanger.ac.uk/family?acc=PF01554
+IV	1147610	1148068	-1.0	MATE	0	1147610-1148068	PF01554	http://pfam.sanger.ac.uk/family?acc=PF01554

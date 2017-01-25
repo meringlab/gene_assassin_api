@@ -1,0 +1,3 @@
+#>P	YPR149W	YPR149W	YPR149W	XVI	829918	830436	1	Protein of unknown function; contains transmembrane domains; involved in secretion of proteins that lack classical secretory signal sequences; component of the detergent-insoluble glycolipid-enriched complexes (DIGs); NCE102 has a paralog, FHN1, that arose from the whole genome duplication [Source:SGD;Acc:S000006353]
+#>E	YPR149W.1	1.0	829918-830439
+XVI	829933	830334	1.0	MARVEL-like_dom	0	829933-830334	PF01284	http://pfam.sanger.ac.uk/family?acc=PF01284

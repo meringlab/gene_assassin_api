@@ -1,0 +1,5 @@
+#>P	YNL077W	YNL077W	YNL077W	XIV	481391	482974	1	Chaperone with a role in SUMO-mediated protein degradation; member of the DnaJ-like family; conserved across eukaryotes; overexpression interferes with propagation of the [Psi+] prion; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; forms nuclear foci upon DNA replication stress [Source:SGD;Acc:S000005021]
+#>E	YNL077W.1	1.0	481391-482977
+XIV	482006	482194	1.0	HSP_DnaJ_Cys-rich_dom	0	482006-482194	PF00684	http://pfam.sanger.ac.uk/family?acc=PF00684
+XIV	481409	481594	1.0	DnaJ_N	0	481409-481594	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226
+XIV	482393	482650	1.0	DnaJ_C	0	482393-482650	PF01556	http://pfam.sanger.ac.uk/family?acc=PF01556

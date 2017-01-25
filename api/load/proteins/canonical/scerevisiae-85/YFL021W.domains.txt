@@ -1,0 +1,4 @@
+#>P	YFL021W	YFL021W	YFL021W	VI	95966	97495	1	Transcriptional activator of nitrogen catabolite repression genes; contains a GATA-1-type zinc finger DNA-binding motif; activity and localization regulated by nitrogen limitation and Ure2p; different translational starts produce two major and two minor isoforms that are differentially regulated and localized [Source:SGD;Acc:S000001873]
+#>E	YFL021W.1	1.0	95966-97498
+VI	96893	96994	1.0	Znf_GATA	0	96893-96994	PF00320	http://pfam.sanger.ac.uk/family?acc=PF00320
+VI	96137	96220	1.0	DUF1752_fun	0	96137-96220	PF08550	http://pfam.sanger.ac.uk/family?acc=PF08550

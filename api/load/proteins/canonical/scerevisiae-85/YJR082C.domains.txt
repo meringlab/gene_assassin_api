@@ -1,0 +1,3 @@
+#>P	YJR082C	YJR082C	YJR082C	X	581917	582255	-1	Subunit of the NuA4 acetyltransferase complex; this complex acetylates histone H4 and NuA3 acetyltransferase complex that acetylates histone H3 [Source:SGD;Acc:S000003842]
+#>E	YJR082C.1	1.0	581914-582255
+X	581947	582222	-1.0	Hist_AcTrfase_NuA4_cplx	0	581947-582222	PF09340	http://pfam.sanger.ac.uk/family?acc=PF09340

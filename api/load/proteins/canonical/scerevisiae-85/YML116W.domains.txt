@@ -1,0 +1,3 @@
+#>P	YML116W	YML116W	YML116W	XIII	38196	39821	1	Multidrug efflux pump of the major facilitator superfamily; required for resistance to aminotriazole and 4-nitroquinoline-N-oxide; ATR1 has a paralog, YMR279C, that arose from the whole genome duplication; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004584]
+#>E	YML116W.1	1.0	38196-39824
+XIII	38421	39623	1.0	MFS	0	38421-39623	PF07690	http://pfam.sanger.ac.uk/family?acc=PF07690

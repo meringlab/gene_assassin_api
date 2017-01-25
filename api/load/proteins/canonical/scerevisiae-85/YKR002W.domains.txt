@@ -1,0 +1,5 @@
+#>P	YKR002W	YKR002W	YKR002W	XI	443232	444935	1	Poly(A) polymerase; one of three factors required for mRNA 3'-end polyadenylation, forms multiprotein complex with polyadenylation factor I (PF I), also required for mRNA nuclear export; may also polyadenylate rRNAs; required for gene looping [Source:SGD;Acc:S000001710]
+#>E	YKR002W.1	1.0	443232-444938
+XI	443244	444284	1.0	PolA_pol_cen_dom	0	443244-444284	PF04928	http://pfam.sanger.ac.uk/family?acc=PF04928
+XI	443475	443690	1.0	Nucleotidyltransferase	0	443475-443690	PF01909	http://pfam.sanger.ac.uk/family?acc=PF01909
+XI	444288	444824	1.0	PolA_pol_RNA-bd_dom	0	444288-444824	PF04926	http://pfam.sanger.ac.uk/family?acc=PF04926

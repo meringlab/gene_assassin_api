@@ -1,0 +1,7 @@
+#>P	YKR036C	YKR036C	YKR036C	XI	508705	510633	-1	WD40 repeat-containing protein associated with the CCR4-NOT complex; interacts in a Ccr4p-dependent manner with Ssn2p; also interacts with Fis1p, Mdv1p and Dnm1p and plays a role in mitochondrial fission; CAF4 has a paralog, MDV1, that arose from the whole genome duplication [Source:SGD;Acc:S000001744]
+#>E	YKR036C.1	1.0	508702-510633
+XI	510262	510441	-1.0	DUF3249	0	510262-510441	PF11615	http://pfam.sanger.ac.uk/family?acc=PF11615
+XI	509590	509685	-1.0	WD40_repeat	0	509590-509685	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	508969	509079	-1.0	WD40_repeat	0	508969-509079	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	509284	509388	-1.0	WD40_repeat	0	509284-509388	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	509461	509571	-1.0	WD40_repeat	0	509461-509571	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

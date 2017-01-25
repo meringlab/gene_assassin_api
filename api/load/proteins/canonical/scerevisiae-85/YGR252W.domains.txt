@@ -1,0 +1,4 @@
+#>P	YGR252W	YGR252W	YGR252W	VII	996869	998185	1	Catalytic subunit of ADA and SAGA histone acetyltransferase complexes; modifies N-terminal lysines on histones H2B and H3; acetylates Rsc4p, a subunit of the RSC chromatin-remodeling complex, altering replication stress tolerance; relocalizes to the cytosol in response to hypoxia; mutant displays reduced transcription elongation in the G-less-based run-on (GLRO) assay; greater involvement in repression of RNAPII-dependent transcription than in activation [Source:SGD;Acc:S000003484]
+#>E	YGR252W.1	1.0	996869-998188
+VII	997334	997549	1.0	AcTrfase_GCN5-related_dom	0	997334-997549	PF00583	http://pfam.sanger.ac.uk/family?acc=PF00583
+VII	997877	998122	1.0	Bromodomain	0	997877-998122	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439

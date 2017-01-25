@@ -1,0 +1,4 @@
+#>P	YPL131W	YPL131W	YPL131W	XVI	303121	304011	1	Ribosomal 60S subunit protein L5; homologous to mammalian ribosomal protein L5 and bacterial L18; binds 5S rRNA and is required for 60S subunit assembly [Source:SGD;Acc:S000006052]
+#>E	YPL131W.1	1.0	303121-304014
+XVI	303697	303987	1.0	Rbsml_L5e/L18P_C	112.4	303697-303987	PF14204	http://pfam.sanger.ac.uk/family?acc=PF14204
+XVI	303196	303639	1.0	Ribosomal_L18/L5	156.6	303196-303639	PF00861	http://pfam.sanger.ac.uk/family?acc=PF00861

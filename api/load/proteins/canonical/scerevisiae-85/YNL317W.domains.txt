@@ -1,0 +1,6 @@
+#>P	YNL317W	YNL317W	YNL317W	XIV	40619	42013	1	Integral subunit of the pre-mRNA CPF complex; the cleavage and polyadenylation factor (CPF) complex plays an essential role in mRNA 3'-end formation by bridging different processing factors and thereby promoting the assembly of the processing complex [Source:SGD;Acc:S000005261]
+#>E	YNL317W.1	1.0	40619-42016
+XIV	41135	41233	1.0	WD40_repeat	30.8	41135-41233	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIV	41009	41104	1.0	WD40_repeat	27.8	41009-41104	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIV	41246	41359	1.0	WD40_repeat	39.8	41246-41359	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIV	41645	41749	1.0	WD40_repeat	30	41645-41749	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

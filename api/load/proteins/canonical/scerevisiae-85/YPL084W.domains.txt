@@ -1,0 +1,4 @@
+#>P	YPL084W	YPL084W	YPL084W	XVI	394038	396569	1	Cytoplasmic class E vacuolar protein sorting (VPS) factor; coordinates deubiquitination in the multivesicular body (MVB) pathway by recruiting Doa4p to endosomes [Source:SGD;Acc:S000006005]
+#>E	YPL084W.1	1.0	394038-396572
+XVI	395460	396146	1.0	ALIX_V_dom	0	395460-396146	PF13949	http://pfam.sanger.ac.uk/family?acc=PF13949
+XVI	394050	395207	1.0	BRO1_dom	0	394050-395207	PF03097	http://pfam.sanger.ac.uk/family?acc=PF03097

@@ -1,0 +1,4 @@
+#>P	YHR201C	YHR201C	YHR201C	VIII	499953	501143	-1	Exopolyphosphatase; hydrolyzes inorganic polyphosphate (poly P) into Pi residues; located in the cytosol, plasma membrane, and mitochondrial matrix [Source:SGD;Acc:S000001244]
+#>E	YHR201C.1	1.0	499950-501143
+VIII	500547	501053	-1.0	Pesterase_RecJ	0	500547-501053	PF01368	http://pfam.sanger.ac.uk/family?acc=PF01368
+VIII	499971	500414	-1.0	DHHA2	0	499971-500414	PF02833	http://pfam.sanger.ac.uk/family?acc=PF02833

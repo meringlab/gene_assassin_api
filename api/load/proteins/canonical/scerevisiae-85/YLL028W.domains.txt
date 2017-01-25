@@ -1,0 +1,3 @@
+#>P	YLL028W	YLL028W	YLL028W	XII	84804	86561	1	Polyamine transporter of the major facilitator superfamily; member of the 12-spanner drug:H(+) antiporter DHA1 family; recognizes spermine, putrescine, and spermidine; catalyzes uptake of polyamines at alkaline pH and excretion at acidic pH; during oxidative stress exports spermine, spermidine from the cell, which controls timing of expression of stress-responsive genes; phosphorylation enhances activity and sorting to the plasma membrane [Source:SGD;Acc:S000003951]
+#>E	YLL028W.1	1.0	84804-86564
+XII	85272	86402	1.0	MFS	0	85272-86402	PF07690	http://pfam.sanger.ac.uk/family?acc=PF07690

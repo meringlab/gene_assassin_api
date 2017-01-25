@@ -1,0 +1,5 @@
+#>P	YMR309C	YMR309C	YMR309C	XIII	892991	895426	-1	eIF3c subunit of the eukaryotic translation initiation factor 3 (eIF3); involved in the assembly of preinitiation complex and start codon selection [Source:SGD;Acc:S000004926]
+#>E	YMR309C.1	1.0	892988-895426
+XIII	893087	893476	-1.0	PCI_dom	0	893087-893476	PF01399	http://pfam.sanger.ac.uk/family?acc=PF01399
+XIII	894692	895150	-1.0	eIF3c_N	0	894692-895150	PF05470	http://pfam.sanger.ac.uk/family?acc=PF05470
+XIII	893510	894700	-1.0	eIF3c_N	0	893510-894700	PF05470	http://pfam.sanger.ac.uk/family?acc=PF05470

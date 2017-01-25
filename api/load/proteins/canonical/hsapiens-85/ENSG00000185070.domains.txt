@@ -1,0 +1,7 @@
+#>P	ENSG00000185070	ENST00000330753	ENSP00000332879	14	85621515	85623494	1	fibronectin leucine rich transmembrane protein 2 [Source:HGNC Symbol;Acc:HGNC:3761]
+#>E	ENSE00001323422	0	85621515-85623497
+14	85622526	85622597	1	Cys-rich_flank_reg_C	20.1	85622526-85622597	PF01463	http://pfam.sanger.ac.uk/family?acc=PF01463
+14	85621815	85621949	1	Leu-rich_rpt	111.4	85621815-85621949	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+14	85622271	85622444	1	Leu-rich_rpt	111.4	85622271-85622444	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+14	85622058	85622240	1	Leu-rich_rpt	111.4	85622058-85622240	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+14	85622793	85622993	1	FN3_dom	26.3	85622793-85622993	PF00041	http://pfam.sanger.ac.uk/family?acc=PF00041

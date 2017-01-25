@@ -1,0 +1,3 @@
+#>P	YLR238W	YLR238W	YLR238W	XII	614755	616188	1	Protein involved in recovery from arrest in response to pheromone; acts in a cell cycle arrest recovery pathway independent from Far1p; interacts with Far3p, Far7p, Far8p, Far9p, and Far11p; potential Cdc28p substrate; FAR10 has a paralog, VPS64, that arose from the whole genome duplication [Source:SGD;Acc:S000004228]
+#>E	YLR238W.1	1.0	614755-616191
+XII	615163	615330	1.0	FHA_dom	0	615163-615330	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498

@@ -1,0 +1,3 @@
+#>P	YER139C	YER139C	YER139C	V	450566	451243	-1	CTD phosphatase; dephosphorylates S5-P in the C-terminal domain of Rpo21p; has a cysteine-rich motif required for function and conserved in eukaryotes; shuttles between the nucleus and cytoplasm; RTR1 has a paralog, RTR2, that arose from the whole genome duplication [Source:SGD;Acc:S000000941]
+#>E	YER139C.1	1.0	450563-451243
+V	450860	451090	-1.0	DUF408	0	450860-451090	PF04181	http://pfam.sanger.ac.uk/family?acc=PF04181

@@ -1,0 +1,4 @@
+#>P	YGR199W	YGR199W	YGR199W	VII	897502	899778	1	Protein O-mannosyltransferase; transfers mannose from dolichyl phosphate-D-mannose to protein serine/threonine residues of secretory proteins; reaction is essential for cell wall rigidity; member of a family of mannosyltransferases [Source:SGD;Acc:S000003431]
+#>E	YGR199W.1	1.0	897502-899781
+VII	898576	899136	1.0	MIR_motif	0	898576-899136	PF02815	http://pfam.sanger.ac.uk/family?acc=PF02815
+VII	897712	898443	1.0	Glyco_trans_39	0	897712-898443	PF02366	http://pfam.sanger.ac.uk/family?acc=PF02366

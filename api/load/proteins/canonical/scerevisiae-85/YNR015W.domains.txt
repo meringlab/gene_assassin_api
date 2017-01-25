@@ -1,0 +1,3 @@
+#>P	YNR015W	YNR015W	YNR015W	XIV	653387	654538	1	Dihydrouridine synthase; member of a family of dihydrouridine synthases including Dus1p, Smm1p, Dus3p, and Dus4p; modifies uridine residues at position 20 of cytoplasmic tRNAs [Source:SGD;Acc:S000005298]
+#>E	YNR015W.1	1.0	653387-654541
+XIV	653480	654442	1.0	tRNA_hU_synthase	0	653480-654442	PF01207	http://pfam.sanger.ac.uk/family?acc=PF01207

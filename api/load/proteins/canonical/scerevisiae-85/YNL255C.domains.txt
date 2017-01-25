@@ -1,0 +1,9 @@
+#>P	YNL255C	YNL255C	YNL255C	XIV	167332	167790	-1	Translational activator for mRNAs with internal ribosome entry sites; associates with polysomes and binds to a specific subset of mRNAs; localizes to RNA processing bodies (P bodies) and to stress granules; may have a role in translation regulation under stress conditions; ortholog of human ZNF9/CNBP, a gene involved in myotonic dystrophy type 2 [Source:SGD;Acc:S000005199]
+#>E	YNL255C.1	1.0	167329-167790
+XIV	167467	167514	-1.0	Znf_CCHC	0	167467-167514	PF00098	http://pfam.sanger.ac.uk/family?acc=PF00098
+XIV	167602	167649	-1.0	Znf_CCHC	0	167602-167649	PF00098	http://pfam.sanger.ac.uk/family?acc=PF00098
+XIV	167545	167595	-1.0	Znf_CCHC	0	167545-167595	PF00098	http://pfam.sanger.ac.uk/family?acc=PF00098
+XIV	167395	167442	-1.0	Znf_CCHC	0	167395-167442	PF00098	http://pfam.sanger.ac.uk/family?acc=PF00098
+XIV	167731	167778	-1.0	Znf_CCHC	0	167731-167778	PF00098	http://pfam.sanger.ac.uk/family?acc=PF00098
+XIV	167335	167385	-1.0	Znf_CCHC	0	167335-167385	PF00098	http://pfam.sanger.ac.uk/family?acc=PF00098
+XIV	167674	167721	-1.0	Znf_CCHC	0	167674-167721	PF00098	http://pfam.sanger.ac.uk/family?acc=PF00098

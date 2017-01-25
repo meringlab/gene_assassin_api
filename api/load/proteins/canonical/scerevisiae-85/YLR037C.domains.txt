@@ -1,0 +1,3 @@
+#>P	YLR037C	YLR037C	YLR037C	XII	222688	223059	-1	Cell wall mannoprotein; has similarity to Tir1p, Tir2p, Tir3p, and Tir4p; member of the seripauperin multigene family encoded mainly in subtelomeric regions; expressed under anaerobic conditions, completely repressed during aerobic growth [Source:SGD;Acc:S000004027]
+#>E	YLR037C.1	1.0	222685-223059
+XII	222697	222990	-1.0	SRP1_TIP1	0	222697-222990	PF00660	http://pfam.sanger.ac.uk/family?acc=PF00660

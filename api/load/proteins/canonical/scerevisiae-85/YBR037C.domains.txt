@@ -1,0 +1,3 @@
+#>P	YBR037C	YBR037C	YBR037C	II	310568	311452	-1	Copper-binding protein of mitochondrial inner membrane; required for cytochrome c oxidase activity and respiration; may function to deliver copper to cytochrome c oxidase; similar to thioredoxins; SCO1 has a paralog, SCO2, that arose from the whole genome duplication [Source:SGD;Acc:S000000241]
+#>E	YBR037C.1	1.0	310565-311452
+II	310676	311224	-1.0	Cu-chaperone_SCO1/SenC	0	310676-311224	PF02630	http://pfam.sanger.ac.uk/family?acc=PF02630

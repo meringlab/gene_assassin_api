@@ -1,0 +1,3 @@
+#>P	YBR257W	YBR257W	YBR257W	II	728885	729721	1	Subunit of both RNase MRP and nuclear RNase P; RNase MRP cleaves pre-rRNA, while nuclear RNase P cleaves tRNA precursors to generate mature 5' ends and facilitates turnover of nuclear RNAs; binds to the RPR1 RNA subunit in RNase P [Source:SGD;Acc:S000000461]
+#>E	YBR257W.1	1.0	728885-729724
+II	729398	729673	1.0	RNase_P/MRP_p29	0	729398-729673	PF01868	http://pfam.sanger.ac.uk/family?acc=PF01868

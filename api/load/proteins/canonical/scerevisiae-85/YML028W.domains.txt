@@ -1,0 +1,4 @@
+#>P	YML028W	YML028W	YML028W	XIII	220138	220725	1	Thioredoxin peroxidase; acts as both ribosome-associated and free cytoplasmic antioxidant; self-associates to form high-molecular weight chaperone complex under oxidative stress; chaperone activity essential for growth in zinc deficiency; required for telomere length maintenance; protein abundance increases, forms cytoplasmic foci during DNA replication stress; TSA1 has a paralog, TSA2, that arose from the whole genome duplication [Source:SGD;Acc:S000004490]
+#>E	YML028W.1	1.0	220138-220728
+XIII	220609	220713	1.0	Peroxiredoxin_C	0	220609-220713	PF10417	http://pfam.sanger.ac.uk/family?acc=PF10417
+XIII	220150	220548	1.0	AhpC/TSA	0	220150-220548	PF00578	http://pfam.sanger.ac.uk/family?acc=PF00578

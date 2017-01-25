@@ -1,0 +1,4 @@
+#>P	YIL043C	YIL043C	YIL043C	IX	274075	274926	-1	Microsomal cytochrome b reductase; not essential for viability; also detected in mitochondria; mutation in conserved NADH binding domain of the human ortholog results in type I methemoglobinemia [Source:SGD;Acc:S000001305]
+#>E	YIL043C.1	1.0	274072-274926
+IX	274504	274800	-1.0	OxRdtase_FAD-bd_dom	0	274504-274800	PF00970	http://pfam.sanger.ac.uk/family?acc=PF00970
+IX	274147	274476	-1.0	OxRdtase_FAD/NAD-bd	0	274147-274476	PF00175	http://pfam.sanger.ac.uk/family?acc=PF00175

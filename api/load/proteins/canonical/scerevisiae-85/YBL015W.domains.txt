@@ -1,0 +1,4 @@
+#>P	YBL015W	YBL015W	YBL015W	II	194122	195699	1	Protein with CoA transferase activity; particularly for CoASH transfer from succinyl-CoA to acetate; has minor acetyl-CoA-hydrolase activity; phosphorylated; required for acetate utilization and for diploid pseudohyphal growth [Source:SGD;Acc:S000000111]
+#>E	YBL015W.1	1.0	194122-195702
+II	194155	194811	1.0	ActCoA_hydro	0	194155-194811	PF02550	http://pfam.sanger.ac.uk/family?acc=PF02550
+II	195121	195564	1.0	AcetylCoA_hyd_C	0	195121-195564	PF13336	http://pfam.sanger.ac.uk/family?acc=PF13336

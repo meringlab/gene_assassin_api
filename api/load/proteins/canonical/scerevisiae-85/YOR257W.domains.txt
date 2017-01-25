@@ -1,0 +1,4 @@
+#>P	YOR257W	YOR257W	YOR257W	XV	811008	811490	1	Calcium-binding component of the spindle pole body (SPB) half-bridge; required for SPB duplication in mitosis and meiosis II; homolog of mammalian centrin; binds multiubiquitinated proteins and is involved in proteasomal protein degradation [Source:SGD;Acc:S000005783]
+#>E	YOR257W.1	1.0	811008-811493
+XV	811077	811163	1.0	EF-hand	0	811077-811163	PF00036	http://pfam.sanger.ac.uk/family?acc=PF00036
+XV	811404	811484	1.0	EF-hand	0	811404-811484	PF00036	http://pfam.sanger.ac.uk/family?acc=PF00036

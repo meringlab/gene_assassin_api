@@ -1,0 +1,3 @@
+#>P	YJL162C	YJL162C	YJL162C	X	113881	115629	-1	Protein of unknown function; contains a J-domain, which is a region with homology to the E. coli DnaJ protein [Source:SGD;Acc:S000003698]
+#>E	YJL162C.1	1.0	113878-115629
+X	115408	115593	-1.0	DnaJ_N	0	115408-115593	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226

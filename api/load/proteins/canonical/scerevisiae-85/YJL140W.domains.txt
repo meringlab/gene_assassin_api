@@ -1,0 +1,3 @@
+#>P	YJL140W	YJL140W	YJL140W	X	150961	151623	1	RNA polymerase II subunit B32; forms dissociable heterodimer with Rpb7p; Rpb4/7 dissociates from RNAPII as Ser2 CTD phosphorylation increases; Rpb4/7 regulates cellular lifespan via mRNA decay process; involved in recruitment of 3'-end processing factors to transcribing RNAPII complex, export of mRNA to cytoplasm under stress conditions; also involved in translation initiation [Source:SGD;Acc:S000003676]
+#>E	YJL140W.1	1.0	150961-151626
+X	151105	151611	1.0	RNA_pol_II_Rpb4	0	151105-151611	PF03874	http://pfam.sanger.ac.uk/family?acc=PF03874

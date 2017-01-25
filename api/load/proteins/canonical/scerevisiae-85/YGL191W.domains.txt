@@ -1,0 +1,3 @@
+#>P	YGL191W	YGL191W	YGL191W	VII	144808	145194	1	Subunit VIa of cytochrome c oxidase; present in a subclass of cytochrome c oxidase complexes that may have a role in mimimizing generation of reactive oxygen species; not essential for cytochrome c oxidase activity but may modulate activity in response to ATP; required for assembly of Rcf2p into cytochrome c oxidase - cytochrome bc1 supercomplexes [Source:SGD;Acc:S000003159]
+#>E	YGL191W.1	1.0	144808-145197
+VII	144823	145182	1.0	Cyt_c_oxidase_su6a	0	144823-145182	PF02046	http://pfam.sanger.ac.uk/family?acc=PF02046

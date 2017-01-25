@@ -1,0 +1,9 @@
+#>P	YCR057C	YCR057C	YCR057C	III	220460	223228	-1	Conserved 90S pre-ribosomal component; essential for proper endonucleolytic cleavage of the 35 S rRNA precursor at A0, A1, and A2 sites; contains eight WD-repeats; PWP2 deletion leads to defects in cell cycle and bud morphogenesis [Source:SGD;Acc:S000000653]
+#>E	YCR057C.1	1.0	220457-223228
+III	221984	222097	-1.0	WD40_repeat	0	221984-222097	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	222707	222811	-1.0	WD40_repeat	0	222707-222811	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	222365	222475	-1.0	WD40_repeat	0	222365-222475	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	221726	221836	-1.0	WD40_repeat	0	221726-221836	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	222572	222676	-1.0	WD40_repeat	0	222572-222676	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	222110	222208	-1.0	WD40_repeat	0	222110-222208	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	220676	220993	-1.0	SSU_processome_Utp12	0	220676-220993	PF04003	http://pfam.sanger.ac.uk/family?acc=PF04003

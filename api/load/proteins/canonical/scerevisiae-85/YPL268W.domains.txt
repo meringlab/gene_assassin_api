@@ -1,0 +1,4 @@
+#>P	YPL268W	YPL268W	YPL268W	XVI	35236	37842	1	Phospholipase C; hydrolyzes phosphatidylinositol 4,5-biphosphate (PIP2) to generate the signaling molecules inositol 1,4,5-triphosphate (IP3) and 1,2-diacylglycerol (DAG); involved in regulating many cellular processes; Plc1p and inositol polyphosphates are required for acetyl-CoA homeostasis which regulates global histone acetylation [Source:SGD;Acc:S000006189]
+#>E	YPL268W.1	1.0	35236-37845
+XVI	37006	37362	1.0	PLipase_C_Pinositol-sp_Y	0	37006-37362	PF00387	http://pfam.sanger.ac.uk/family?acc=PF00387
+XVI	36382	36798	1.0	PLipase_C_PInositol-sp_X_dom	0	36382-36798	PF00388	http://pfam.sanger.ac.uk/family?acc=PF00388

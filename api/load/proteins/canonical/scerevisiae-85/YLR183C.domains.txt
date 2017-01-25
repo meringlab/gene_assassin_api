@@ -1,0 +1,3 @@
+#>P	YLR183C	YLR183C	YLR183C	XII	520546	522012	-1	Putative transcription factor, contains Forkhead Associated domain; found associated with chromatin; target of SBF transcription factor; expression is periodic and peaks in G1; involved in DNA replication checkpoint response; interacts with Rpd3 and Set3 histone deacetylase (HDAC) complexes; APCC(Cdh1) substrate; relative distribution to the nucleus increases upon DNA replication stress; TOS4 has a paralog, PLM2, that arose from the whole genome duplication [Source:SGD;Acc:S000004173]
+#>E	YLR183C.1	1.0	520543-522012
+XII	521512	521661	-1.0	FHA_dom	0	521512-521661	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498

@@ -1,0 +1,5 @@
+#>P	YPL009C	YPL009C	YPL009C	XVI	535823	538936	-1	Component of the ribosome quality control complex (RQC); RQC (Rqc1p-Rkr1p-Tae2p-Cdc48p-Npl4p-Ufd1p) is a ribosome-bound complex required for the degradation of polypeptides arising from stalled translation involved in protein translation; monitors translation stress and signals this to Hsf1p; may interact with ribosomes, based on co-purification experiments; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm [Source:SGD;Acc:S000005930]
+#>E	YPL009C.1	1.0	535820-538936
+XVI	537233	538915	-1.0	Fibro-bd_N	0	537233-538915	PF05833	http://pfam.sanger.ac.uk/family?acc=PF05833
+XVI	536939	537202	-1.0	DUF814	0	536939-537202	PF05670	http://pfam.sanger.ac.uk/family?acc=PF05670
+XVI	535883	536218	-1.0	DUF3441	0	535883-536218	PF11923	http://pfam.sanger.ac.uk/family?acc=PF11923

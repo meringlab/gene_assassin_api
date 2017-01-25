@@ -1,0 +1,3 @@
+#>P	YCL057C-A	YCL057C-A	YCL057C-A	III	24035	24325	-1	Conserved component of the MICOS complex; MICOS (formerly MINOS or MitOS) is a mitochondrial inner membrane complex that extends into the intermembrane space and has a role in the maintenance of crista junctions, inner membrane architecture, and formation of contact sites to the outer membrane; ortholog of human MINOS1 [Source:SGD;Acc:S000007547]
+#>E	YCL057C-A.1	1.0	24032-24325
+III	24065	24325	-1.0	DUF543	0	24065-24325	PF04418	http://pfam.sanger.ac.uk/family?acc=PF04418

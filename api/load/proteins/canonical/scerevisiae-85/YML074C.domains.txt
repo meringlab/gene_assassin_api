@@ -1,0 +1,3 @@
+#>P	YML074C	YML074C	YML074C	XIII	120092	121324	-1	Nucleolar peptidyl-prolyl cis-trans isomerase (PPIase); FK506 binding protein; affects expression of multiple genes via its role in nucleosome assembly; phosphorylated by casein kinase II (Cka1p-Cka2p-Ckb1p-Ckb2p) and dephosphorylated by Ptp1p; PPIase domain acts as a transcriptional repressor when tethered to DNA by lexA, and repressor activity is dependent on PPIase activity; FPR3 has a paralog, FPR4, that arose from the whole genome duplication [Source:SGD;Acc:S000004539]
+#>E	YML074C.1	1.0	120089-121324
+XIII	120104	120373	-1.0	PPIase_FKBP_dom	0	120104-120373	PF00254	http://pfam.sanger.ac.uk/family?acc=PF00254

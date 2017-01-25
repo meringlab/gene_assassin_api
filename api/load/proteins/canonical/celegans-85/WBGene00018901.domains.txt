@@ -1,0 +1,5 @@
+#>P	WBGene00018901	F55G1.5	F55G1.5	IV	7475049	7476076	1	\N
+#>E	F55G1.5.e1,F55G1.5.e2,F55G1.5.e3	1,1,1	7475049-7475300,7475352-7475733,7475784-7476079
+IV	7475454	7475696	1	Mitochondrial_sb/sol_carrier	213.1	7475454-7475696	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IV	7475097	7475441	1	Mitochondrial_sb/sol_carrier	213.1	7475097-7475300,7475352-7475441	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IV	7475792	7476025	1	Mitochondrial_sb/sol_carrier	213.1	7475792-7476025	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

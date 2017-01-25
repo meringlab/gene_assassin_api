@@ -1,0 +1,4 @@
+#>P	YDR023W	YDR023W	YDR023W	IV	489508	490893	1	Cytosolic seryl-tRNA synthetase; class II aminoacyl-tRNA synthetase that aminoacylates tRNA(Ser), displays tRNA-dependent amino acid recognition which enhances discrimination of the serine substrate, interacts with peroxin Pex21p [Source:SGD;Acc:S000002430]
+#>E	YDR023W.1	1.0	489508-490896
+IV	490069	490584	1.0	aa-tRNA-synt_IIb_cons-dom	0	490069-490584	PF00587	http://pfam.sanger.ac.uk/family?acc=PF00587
+IV	489508	489843	1.0	Ser-tRNA-synth_IIa_N	0	489508-489843	PF02403	http://pfam.sanger.ac.uk/family?acc=PF02403

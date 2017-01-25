@@ -1,0 +1,3 @@
+#>P	YOR036W	YOR036W	YOR036W	XV	400348	401211	1	Target membrane receptor (t-SNARE); for vesicular intermediates traveling between the Golgi apparatus and the vacuole; controls entry of biosynthetic, endocytic, and retrograde traffic into the prevacuolar compartment; syntaxin [Source:SGD;Acc:S000005562]
+#>E	YOR036W.1	1.0	400348-401214
+XV	400945	401133	1.0	T_SNARE_dom	0	400945-401133	PF05739	http://pfam.sanger.ac.uk/family?acc=PF05739

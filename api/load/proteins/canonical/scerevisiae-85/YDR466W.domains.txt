@@ -1,0 +1,3 @@
+#>P	YDR466W	YDR466W	YDR466W	IV	1395121	1397814	1	Protein kinase with similarity to mammalian PDK1 and yeast Pkh1p/Phk2p; yeast Pkh1p and Pkh2p are two redundant upstream activators of Pkc1p; identified as a multicopy suppressor of a pkh1 pkh2 double mutant [Source:SGD;Acc:S000002874]
+#>E	YDR466W.1	1.0	1395121-1397817
+IV	1395157	1395999	1.0	Prot_kinase_cat_dom	0	1395157-1395999	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

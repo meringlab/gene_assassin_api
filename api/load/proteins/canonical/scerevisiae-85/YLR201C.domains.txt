@@ -1,0 +1,3 @@
+#>P	YLR201C	YLR201C	YLR201C	XII	549514	550293	-1	Protein required for ubiquinone biosynthesis and respiratory growth; localizes to the matrix face of the mitochondrial inner membrane in a large complex with ubiquinone biosynthetic enzymes; ubiquinone is also known as coenzyme Q [Source:SGD;Acc:S000004191]
+#>E	YLR201C.1	1.0	549511-550293
+XII	549589	549813	-1.0	COQ9	0	549589-549813	PF08511	http://pfam.sanger.ac.uk/family?acc=PF08511

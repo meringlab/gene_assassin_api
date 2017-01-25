@@ -1,0 +1,5 @@
+#>P	YGR204W	YGR204W	YGR204W	VII	905934	908771	1	Cytoplasmic trifunctional enzyme C1-tetrahydrofolate synthase; involved in single carbon metabolism and required for biosynthesis of purines, thymidylate, methionine, and histidine; null mutation causes auxotrophy for adenine and histidine [Source:SGD;Acc:S000003436]
+#>E	YGR204W.1	1.0	905934-908774
+VII	906309	906830	1.0	THF_DH/CycHdrlase_NAD-bd_dom	0	906309-906830	PF02882	http://pfam.sanger.ac.uk/family?acc=PF02882
+VII	906891	908771	1.0	Formate_THF_ligase	0	906891-908771	PF01268	http://pfam.sanger.ac.uk/family?acc=PF01268
+VII	905943	906299	1.0	THF_DH/CycHdrlase_cat_dom	0	905943-906299	PF00763	http://pfam.sanger.ac.uk/family?acc=PF00763

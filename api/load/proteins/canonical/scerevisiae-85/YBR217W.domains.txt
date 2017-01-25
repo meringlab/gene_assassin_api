@@ -1,0 +1,3 @@
+#>P	YBR217W	YBR217W	YBR217W	II	657832	658389	1	Ubiquitin-like modifier involved in autophagy and the Cvt pathway; conserved; conjugated to Atg5p to form a complex involved in Atg8p lipidation; Atg5p-Atg12p cojugate also forms a complex with Atg16p; the Atg5-Atg12/Atg16 complex binds to membranes and is essential for autophagosome formation [Source:SGD;Acc:S000000421]
+#>E	YBR217W.1	1.0	657832-658392
+II	658138	658389	1.0	Autophagy-rel_prot_12	120.9	658138-658389	PF04110	http://pfam.sanger.ac.uk/family?acc=PF04110

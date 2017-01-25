@@ -1,0 +1,4 @@
+#>P	YDR404C	YDR404C	YDR404C	IV	1276657	1277169	-1	RNA polymerase II subunit B16; forms dissociable heterodimer with Rpb4p; Rpb4/7 dissociates from RNAPII as Ser2 CTD phosphorylation increases; Rpb4/7 regulates cellular lifespan via mRNA decay process; involved in recruitment of 3'-end processing factors to transcribing RNA polymerase II complex, export of mRNA to cytoplasm under stress conditions; also involved in translation initiation [Source:SGD;Acc:S000002812]
+#>E	YDR404C.1	1.0	1276654-1277169
+IV	1276705	1276932	-1.0	Rbsml_prot_S1_RNA-bd_dom	0	1276705-1276932	PF00575	http://pfam.sanger.ac.uk/family?acc=PF00575
+IV	1276933	1277145	-1.0	RNA_pol_Rpb7_N	0	1276933-1277145	PF03876	http://pfam.sanger.ac.uk/family?acc=PF03876

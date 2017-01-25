@@ -1,0 +1,3 @@
+#>P	YFL024C	YFL024C	YFL024C	VI	87850	90345	-1	Subunit of NuA4, an essential histone H4/H2A acetyltransferase complex; conserved region at N-terminus is essential for interaction with the NPC (nucleosome core particle); required for autophagy; homologous to Drosophila Enhancer of Polycomb; coding sequence contains length polymorphisms in different strains [Source:SGD;Acc:S000001870]
+#>E	YFL024C.1	1.0	87847-90345
+VI	89752	90183	-1.0	Enhancer_polycomb-like_N	0	89752-90183	PF10513	http://pfam.sanger.ac.uk/family?acc=PF10513

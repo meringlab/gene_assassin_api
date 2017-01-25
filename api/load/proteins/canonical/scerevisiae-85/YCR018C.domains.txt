@@ -1,0 +1,3 @@
+#>P	YCR018C	YCR018C	YCR018C	III	148241	148903	-1	Protein involved in the processing of pre-rRNA to mature rRNA; contains a C2/C2 zinc finger motif; srd1 mutation suppresses defects caused by the rrp1-1 mutation [Source:SGD;Acc:S000000611]
+#>E	YCR018C.1	1.0	148238-148903
+III	148304	148402	-1.0	Znf_GATA	0	148304-148402	PF00320	http://pfam.sanger.ac.uk/family?acc=PF00320

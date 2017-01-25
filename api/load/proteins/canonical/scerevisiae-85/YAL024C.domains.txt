@@ -1,0 +1,4 @@
+#>P	YAL024C	YAL024C	YAL024C	I	101568	105872	-1	Protein similar to GDP/GTP exchange factors; without detectable GEF activity; required for asymmetric localization of Bfa1p at daughter-directed spindle pole bodies and for mitotic exit at low temperatures [Source:SGD;Acc:S000000022]
+#>E	YAL024C.1	1.0	101565-105872
+I	105474	105788	-1.0	Ras-like_Gua-exchang_fac_N	0	105474-105788	PF00618	http://pfam.sanger.ac.uk/family?acc=PF00618
+I	101709	102299	-1.0	RasGRF_CDC25	0	101709-102299	PF00617	http://pfam.sanger.ac.uk/family?acc=PF00617

@@ -1,0 +1,4 @@
+#>P	YNL112W	YNL112W	YNL112W	XIV	413639	416278	1	ATP-dependent RNA helicase of the DEAD-box protein family; has a strong preference for dsRNA; interacts with YRA1; required for the assembly of Yra1p, Nab2p and Mex67p onto mRNA and formation of nuclear mRNP; involved in mRNA decay and rRNA processing; may be involved in suppression of transcription from cryptic initiation sites [Source:SGD;Acc:S000005056]
+#>E	YNL112W.1,YNL112W.2	1,1	413639-414911,415914-416281
+XIV	414047	414562	1	DNA/RNA_helicase_DEAD/DEAH_N	0	414047-414562	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+XIV	414770	416005	1	Helicase_C	0	414770-414911,415914-416005	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

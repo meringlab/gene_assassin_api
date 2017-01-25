@@ -1,0 +1,4 @@
+#>P	YHR183W	YHR183W	YHR183W	VIII	470960	472426	1	6-phosphogluconate dehydrogenase (decarboxylating); catalyzes an NADPH regenerating reaction in the pentose phosphate pathway; required for growth on D-glucono-delta-lactone and adaptation to oxidative stress; GND1 has a paralog, GND2, that arose from the whole genome duplication [Source:SGD;Acc:S000001226]
+#>E	YHR183W.1	1.0	470960-472429
+VIII	471491	472384	1.0	6PGDH_C	0	471491-472384	PF00393	http://pfam.sanger.ac.uk/family?acc=PF00393
+VIII	470966	471481	1.0	6PGDH_NADP-bd	0	470966-471481	PF03446	http://pfam.sanger.ac.uk/family?acc=PF03446

@@ -1,0 +1,3 @@
+#>P	YIL053W	YIL053W	YIL053W	IX	255115	255864	1	Constitutively expressed DL-glycerol-3-phosphate phosphatase; also known as glycerol-1-phosphatase; involved in glycerol biosynthesis, induced in response to both anaerobic and osmotic stress; GPP1 has a paralog, GPP2, that arose from the whole genome duplication [Source:SGD;Acc:S000001315]
+#>E	YIL053W.1	1.0	255115-255867
+IX	255148	255687	1.0	Dehalogen-like_hydro	0	255148-255687	PF00702	http://pfam.sanger.ac.uk/family?acc=PF00702

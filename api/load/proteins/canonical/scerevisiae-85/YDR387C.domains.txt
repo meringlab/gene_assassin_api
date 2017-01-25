@@ -1,0 +1,4 @@
+#>P	YDR387C	YDR387C	YDR387C	IV	1248157	1249821	-1	Putative transporter; member of the sugar porter family; YDR387C is not an essential gene [Source:SGD;Acc:S000002795]
+#>E	YDR387C.1	1.0	1248154-1249821
+IV	1249084	1249686	-1.0	Sub_transporter	0	1249084-1249686	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083
+IV	1248199	1248783	-1.0	Sub_transporter	0	1248199-1248783	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083

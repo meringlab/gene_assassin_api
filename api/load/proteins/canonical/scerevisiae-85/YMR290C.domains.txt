@@ -1,0 +1,5 @@
+#>P	YMR290C	YMR290C	YMR290C	XIII	850077	851591	-1	ATP-dependent RNA helicase; involved in the biogenesis of 40S and 60S ribosome subunits; localizes to both the nuclear periphery and nucleolus; highly enriched in nuclear pore complex fractions; constituent of 66S pre-ribosomal particles [Source:SGD;Acc:S000004903]
+#>E	YMR290C.1	1.0	850074-851591
+XIII	850878	851396	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	850878-851396	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+XIII	850443	850670	-1.0	Helicase_C	0	850443-850670	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XIII	850134	850322	-1.0	DUF4217	0	850134-850322	PF13959	http://pfam.sanger.ac.uk/family?acc=PF13959

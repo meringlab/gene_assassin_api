@@ -1,0 +1,4 @@
+#>P	YDR026C	YDR026C	YDR026C	IV	492559	494268	-1	RNA polymerase I termination factor; binds to rDNA terminator element, required for efficient Pol I termination; required for rDNA silencing at NTS1; facilities association of Sir2p with NTS1, contributes to rDNA stability and cell longevity; interacts physically with Fob1p and RENT subunits, Sir2p and Net1p; may interact with ribosomes, based on co-purification experiments; Myb-like DNA-binding protein; NSI1 has a paralog, REB1, that arose from the whole genome duplication [Source:SGD;Acc:S000002433]
+#>E	YDR026C.1	1.0	492556-494268
+IV	493102	493236	-1.0	SANT_DNA-bd	0	493102-493236	PF00249	http://pfam.sanger.ac.uk/family?acc=PF00249
+IV	492814	493077	-1.0	SANT_DNA-bd	0	492814-493077	PF00249	http://pfam.sanger.ac.uk/family?acc=PF00249

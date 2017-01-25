@@ -1,0 +1,4 @@
+#>P	YOR298C-A	YOR298C-A	YOR298C-A	XV	877233	877685	-1	Transcriptional coactivator; bridges the DNA-binding region of Gcn4p and TATA-binding protein Spt15p; suppressor of frameshift mutations; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000007253]
+#>E	YOR298C-A.1	1.0	877230-877685
+XV	877275	877430	-1.0	HTH_3	0	877275-877430	PF01381	http://pfam.sanger.ac.uk/family?acc=PF01381
+XV	877455	877682	-1.0	MBF1_N	0	877455-877682	PF08523	http://pfam.sanger.ac.uk/family?acc=PF08523

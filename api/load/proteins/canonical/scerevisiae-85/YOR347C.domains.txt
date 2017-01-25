@@ -1,0 +1,4 @@
+#>P	YOR347C	YOR347C	YOR347C	XV	984945	986462	-1	Pyruvate kinase; appears to be modulated by phosphorylation; transcription repressed by glucose, and Pyk2p may be active under low glycolytic flux; PYK2 has a paralog, CDC19, that arose from the whole genome duplication [Source:SGD;Acc:S000005874]
+#>E	YOR347C.1	1.0	984942-986462
+XV	985368	986402	-1.0	Pyrv_Knase_brl	0	985368-986402	PF00224	http://pfam.sanger.ac.uk/family?acc=PF00224
+XV	984963	985322	-1.0	Pyrv_Knase_C	0	984963-985322	PF02887	http://pfam.sanger.ac.uk/family?acc=PF02887

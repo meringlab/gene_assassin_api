@@ -1,0 +1,6 @@
+#>P	YKL022C	YKL022C	YKL022C	XI	394729	397248	-1	Subunit of the anaphase-promoting complex/cyclosome (APC/C); which is a ubiquitin-protein ligase required for degradation of anaphase inhibitors, including mitotic cyclins, during the metaphase/anaphase transition; required for sporulation; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000001505]
+#>E	YKL022C.1	1.0	394726-397248
+XI	395128	395217	-1.0	TPR-1	0	395128-395217	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+XI	395263	395346	-1.0	TPR-1	0	395263-395346	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+XI	395026	395124	-1.0	TPR-1	0	395026-395124	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+XI	396082	396165	-1.0	TPR-1	0	396082-396165	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515

@@ -1,0 +1,3 @@
+#>P	YNL022C	YNL022C	YNL022C	XIV	591430	592899	-1	rRNA m5C methyltransferase; methylates cytosine at position 2278 of 25S rRNA while Nop2p methylates cytosine at position 2870; contains seven beta-strand methyltransferase motif; localized to the nucleolus; interacts with Trm112p; homolog of NSUN5A, a human gene which is deleted in Williams-Beuren Syndrome [Source:SGD;Acc:S000004967]
+#>E	YNL022C.1	1.0	591427-592899
+XIV	591628	592245	-1.0	Fmu/NOL1/Nop2p	0	591628-592245	PF01189	http://pfam.sanger.ac.uk/family?acc=PF01189

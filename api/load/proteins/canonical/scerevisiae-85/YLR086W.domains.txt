@@ -1,0 +1,4 @@
+#>P	YLR086W	YLR086W	YLR086W	XII	302243	306496	1	Subunit of the condensin complex; condensin reorganizes chromosomes during both mitosis and meiosis; forms a subcomplex with Smc2p that has ATP-hydrolyzing and DNA-binding activity, but other condensin subunits are required for chromatin binding; required for tRNA gene clustering at the nucleolus; potential Cdc28p substrate [Source:SGD;Acc:S000004076]
+#>E	YLR086W.1	1.0	302243-306499
+XII	304298	304639	1.0	SMC_hinge	0	304298-304639	PF06470	http://pfam.sanger.ac.uk/family?acc=PF06470
+XII	302705	306457	1.0	RecF/RecN/SMC	0	302705-306457	PF02463	http://pfam.sanger.ac.uk/family?acc=PF02463

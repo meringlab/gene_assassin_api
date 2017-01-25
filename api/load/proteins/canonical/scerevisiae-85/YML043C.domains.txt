@@ -1,0 +1,3 @@
+#>P	YML043C	YML043C	YML043C	XIII	190247	191767	-1	Component of the core factor (CF) rDNA transcription factor complex; CF is required for transcription of 35S rRNA genes by RNA polymerase I and is composed of Rrn6p, Rrn7p, and Rrn11p [Source:SGD;Acc:S000004507]
+#>E	YML043C.1	1.0	190244-191767
+XIII	190619	191251	-1.0	TIF_Rrn11	0	190619-191251	PF04090	http://pfam.sanger.ac.uk/family?acc=PF04090

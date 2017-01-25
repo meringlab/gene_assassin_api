@@ -1,0 +1,3 @@
+#>P	YBR269C	YBR269C	YBR269C	II	742163	742576	-1	Protein required for assembly of succinate dehydrogenase; interacts with flavinylated Sdh1p and may function as a chaperone for free Sdh1p, protecting its FAD cofactor from redox reactions before assembly of the complex; soluble protein of the mitochondrial matrix; respiratory defect of null mutant is functionally complemented by Drosophila and human orthologs [Source:SGD;Acc:S000000473]
+#>E	YBR269C.1	1.0	742160-742576
+II	742163	742282	-1.0	DUF1674	0	742163-742282	PF07896	http://pfam.sanger.ac.uk/family?acc=PF07896

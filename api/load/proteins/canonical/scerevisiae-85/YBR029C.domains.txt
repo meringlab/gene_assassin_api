@@ -1,0 +1,3 @@
+#>P	YBR029C	YBR029C	YBR029C	II	296372	297742	-1	Phosphatidate cytidylyltransferase (CDP-diglyceride synthetase); an enzyme that catalyzes that conversion of CTP + phosphate into diphosphate + CDP-diaclglyerol, a critical step in the synthesis of all major yeast phospholipids [Source:SGD;Acc:S000000233]
+#>E	YBR029C.1	1.0	296369-297742
+II	296564	297553	-1.0	PC_trans	0	296564-297553	PF01148	http://pfam.sanger.ac.uk/family?acc=PF01148

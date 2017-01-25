@@ -1,0 +1,4 @@
+#>P	YDL070W	YDL070W	YDL070W	IV	331024	332937	1	Protein involved in transcription initiation; acts at TATA-containing promoters; associates with the basal transcription factor TFIID; contains two bromodomains; corresponds to the C-terminal region of mammalian TAF1; redundant with Bdf1p; protein abundance increases in response to DNA replication stress; BDF2 has a paralog, BDF1, that arose from the whole genome duplication [Source:SGD;Acc:S000002228]
+#>E	YDL070W.1	1.0	331024-332940
+IV	331999	332256	1.0	Bromodomain	0	331999-332256	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439
+IV	331471	331701	1.0	Bromodomain	0	331471-331701	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439

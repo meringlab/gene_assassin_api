@@ -1,0 +1,5 @@
+#>P	YMR304W	YMR304W	YMR304W	XIII	874987	878676	1	Ubiquitin-specific protease involved in protein deubiquitination; catalytic activity regulated by an N-terminal TRAF-like domain and and C-terminal sequences; physically interacts with anaphase-promoting complex/cyclosome (APC/C) activator, Cdh1p; forms a complex with AAA peroxins Pex1p and Pex6p [Source:SGD;Acc:S000004920]
+#>E	YMR304W.1	1.0	874987-878679
+XIII	876625	876729	1.0	Pept_C19_dom	0	876625-876729	PF12436	http://pfam.sanger.ac.uk/family?acc=PF12436
+XIII	875122	875529	1.0	MATH	0	875122-875529	PF00917	http://pfam.sanger.ac.uk/family?acc=PF00917
+XIII	875593	876585	1.0	Peptidase_C19	0	875593-876585	PF00443	http://pfam.sanger.ac.uk/family?acc=PF00443

@@ -1,0 +1,3 @@
+#>P	YOR348C	YOR348C	YOR348C	XV	986902	988782	-1	Proline permease; required for high-affinity transport of proline; also transports the toxic proline analog azetidine-2-carboxylate (AzC); PUT4 transcription is repressed in ammonia-grown cells [Source:SGD;Acc:S000005875]
+#>E	YOR348C.1	1.0	986899-988782
+XV	987022	988443	-1.0	AA-permease_dom	0	987022-988443	PF00324	http://pfam.sanger.ac.uk/family?acc=PF00324

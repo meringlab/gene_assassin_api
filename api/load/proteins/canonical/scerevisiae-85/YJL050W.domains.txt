@@ -1,0 +1,6 @@
+#>P	YJL050W	YJL050W	YJL050W	X	342522	345740	1	ATP-dependent 3'-5' RNA helicase of the DExD/H family; involved in nuclear RNA processing and degradation both as a component of TRAMP complex and in TRAMP-independent processes; TRAMP unwinds RNA duplexes, with Mtr4p unwinding activity stimulated by Pap2p/Air2p but not dependent on ongoing polyadenylation; contains an arch domain, with two coiled-coil arms/stalks and a globular fist/KOW domain, which has RNA binding activity and is required for 5.8S rRNA processing [Source:SGD;Acc:S000003586]
+#>E	YJL050W.1	1.0	342522-345743
+X	342975	343415	1.0	DNA/RNA_helicase_DEAD/DEAH_N	73.8	342975-343415	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+X	343938	344165	1.0	Helicase_C	25.6	343938-344165	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+X	344325	345137	1.0	rRNA_proc-arch_dom	315.3	344325-345137	PF13234	http://pfam.sanger.ac.uk/family?acc=PF13234
+X	345210	345740	1.0	DSH_C	212.7	345210-345740	PF08148	http://pfam.sanger.ac.uk/family?acc=PF08148

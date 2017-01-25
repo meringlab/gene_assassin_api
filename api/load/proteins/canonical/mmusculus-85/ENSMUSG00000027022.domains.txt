@@ -1,0 +1,22 @@
+#>P	ENSMUSG00000027022	ENSMUST00000028410	ENSMUSP00000028410	2	67476810	67526248	1	xin actin-binding repeat containing 2 [Source:MGI Symbol;Acc:MGI:2685198]
+#>E	ENSMUSE00000381920,ENSMUSE00000366864,ENSMUSE00000393329,ENSMUSE00000364768,ENSMUSE00000402797,ENSMUSE00000165506,ENSMUSE00000375393,ENSMUSE00000602321	1,1,1,1,1,1,0,0	67476810-67476866,67482246-67482383,67505034-67505123,67505503-67505575,67507047-67507180,67507909-67517173,67519236-67519353,67524772-67526251
+2	67509022	67509069	1	Actin-binding_Xin_repeat	546.8	67509022-67509069	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67508566	67508610	1	Actin-binding_Xin_repeat	546.8	67508566-67508610	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67508674	67508721	1	Actin-binding_Xin_repeat	546.8	67508674-67508721	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67510876	67510923	1	Actin-binding_Xin_repeat	546.8	67510876-67510923	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67510651	67510698	1	Actin-binding_Xin_repeat	546.8	67510651-67510698	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67509451	67509495	1	Actin-binding_Xin_repeat	546.8	67509451-67509495	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67510432	67510479	1	Actin-binding_Xin_repeat	546.8	67510432-67510479	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67509766	67509813	1	Actin-binding_Xin_repeat	546.8	67509766-67509813	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67509340	67509384	1	Actin-binding_Xin_repeat	546.8	67509340-67509384	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67509880	67509927	1	Actin-binding_Xin_repeat	546.8	67509880-67509927	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67509997	67510041	1	Actin-binding_Xin_repeat	546.8	67509997-67510041	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67509241	67509285	1	Actin-binding_Xin_repeat	546.8	67509241-67509285	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67510096	67510143	1	Actin-binding_Xin_repeat	546.8	67510096-67510143	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67511182	67511229	1	Actin-binding_Xin_repeat	546.8	67511182-67511229	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67511290	67511331	1	Actin-binding_Xin_repeat	546.8	67511290-67511331	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67509136	67509180	1	Actin-binding_Xin_repeat	546.8	67509136-67509180	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67508788	67508835	1	Actin-binding_Xin_repeat	546.8	67508788-67508835	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67508443	67508490	1	Actin-binding_Xin_repeat	546.8	67508443-67508490	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67510765	67510812	1	Actin-binding_Xin_repeat	546.8	67510765-67510812	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+2	67519247	67524832	1	Znf_LIM	34.7	67519247-67519353,67524772-67524832	PF00412	http://pfam.sanger.ac.uk/family?acc=PF00412

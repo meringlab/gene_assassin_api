@@ -1,0 +1,10 @@
+#>P	YLR106C	YLR106C	YLR106C	XII	349009	363738	-1	Huge dynein-related AAA-type ATPase (midasin); forms extended pre-60S particle with the Rix1 complex (Rix1p-Ipi1p-Ipi3p); acts in removal of ribosomal biogenesis factors at successive steps of pre-60S assembly and export from nucleus [Source:SGD;Acc:S000004096]
+#>E	YLR106C.1	1.0	349006-363738
+XII	359065	359340	-1.0	ATPase_dyneun-rel_AAA	0	359065-359340	PF07728	http://pfam.sanger.ac.uk/family?acc=PF07728
+XII	361630	361797	-1.0	ATPase_dyneun-rel_AAA	0	361630-361797	PF07728	http://pfam.sanger.ac.uk/family?acc=PF07728
+XII	361051	361311	-1.0	ATPase_dyneun-rel_AAA	0	361051-361311	PF07728	http://pfam.sanger.ac.uk/family?acc=PF07728
+XII	362443	362808	-1.0	ATPase_dyneun-rel_AAA	0	362443-362808	PF07728	http://pfam.sanger.ac.uk/family?acc=PF07728
+XII	360097	360507	-1.0	ATPase_dyneun-rel_AAA	0	360097-360507	PF07728	http://pfam.sanger.ac.uk/family?acc=PF07728
+XII	356923	357189	-1.0	ATPase_dyneun-rel_AAA	0	356923-357189	PF07728	http://pfam.sanger.ac.uk/family?acc=PF07728
+XII	358102	358512	-1.0	ATPase_dyneun-rel_AAA	0	358102-358512	PF07728	http://pfam.sanger.ac.uk/family?acc=PF07728
+XII	359512	359652	-1.0	ATPase_dyneun-rel_AAA	0	359512-359652	PF07728	http://pfam.sanger.ac.uk/family?acc=PF07728

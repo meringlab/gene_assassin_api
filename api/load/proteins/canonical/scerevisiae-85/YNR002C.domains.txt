@@ -1,0 +1,3 @@
+#>P	YNR002C	YNR002C	YNR002C	XIV	633011	633856	-1	Putative transmembrane protein involved in export of ammonia; ammonia is a starvation signal that promotes cell death in aging colonies; phosphorylated in mitochondria; member of the TC 9.B.33 YaaH family; homolog of Y. lipolytica Gpr1p; ATO2 has a paralog, ADY2, that arose from the whole genome duplication [Source:SGD;Acc:S000005285]
+#>E	YNR002C.1	1.0	633008-633856
+XIV	633020	633649	-1.0	Grp1_Fun34_YaaH	0	633020-633649	PF01184	http://pfam.sanger.ac.uk/family?acc=PF01184

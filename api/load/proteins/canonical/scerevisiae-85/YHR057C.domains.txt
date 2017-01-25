@@ -1,0 +1,3 @@
+#>P	YHR057C	YHR057C	YHR057C	VIII	218229	218843	-1	Peptidyl-prolyl cis-trans isomerase (cyclophilin); catalyzes the cis-trans isomerization of peptide bonds N-terminal to proline residues; has a potential role in the secretory pathway; CPR2 has a paralog, CPR5, that arose from the whole genome duplication; suppresses toxicity of slow-folding human Z-type alpha1-antitrypsin variant associated with liver cirrhosis and emphysema [Source:SGD;Acc:S000001099]
+#>E	YHR057C.1	1.0	218226-218843
+VIII	218253	218726	-1.0	Cyclophilin-like_PPIase_dom	0	218253-218726	PF00160	http://pfam.sanger.ac.uk/family?acc=PF00160

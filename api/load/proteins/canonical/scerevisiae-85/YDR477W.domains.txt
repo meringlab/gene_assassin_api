@@ -1,0 +1,4 @@
+#>P	YDR477W	YDR477W	YDR477W	IV	1412373	1414271	1	AMP-activated serine/threonine protein kinase; found in a complex containing Snf4p and members of the Sip1p/Sip2p/Gal83p family; required for transcription of glucose-repressed genes, thermotolerance, sporulation, and peroxisome biogenesis; involved in regulation of the nucleocytoplasmic shuttling of Hxk2p; regulates filamentous growth in response to starvation; SUMOylation by Mms21p inhibits its function and targets Snf1p for destruction via the Slx5-Slx8 Ubiquitin ligase [Source:SGD;Acc:S000002885]
+#>E	YDR477W.1	1.0	1412373-1414274
+IV	1413402	1413539	1.0	Ubiquitin-assoc_dom	0	1413402-1413539	PF08587	http://pfam.sanger.ac.uk/family?acc=PF08587
+IV	1412535	1413290	1.0	Prot_kinase_cat_dom	0	1412535-1413290	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

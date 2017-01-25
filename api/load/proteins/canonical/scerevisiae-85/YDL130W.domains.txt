@@ -1,0 +1,3 @@
+#>P	YDL130W	YDL130W	YDL130W	IV	229906	230524	1	Ribosomal protein P1 beta; component of the ribosomal stalk, which is involved in interaction of translational elongation factors with ribosome; free (non-ribosomal) P1 stimulates the phosphorylation of the eIF2 alpha subunit (Sui2p) by Gcn2p; accumulation is regulated by phosphorylation and interaction with the P2 stalk component [Source:SGD;Acc:S000002288]
+#>E	YDL130W.1,YDL130W.2	1,1	229906-230019,230321-230527
+IV	229960	230521	1	Ribosomal_60S	0	229960-230019,230321-230521	PF00428	http://pfam.sanger.ac.uk/family?acc=PF00428

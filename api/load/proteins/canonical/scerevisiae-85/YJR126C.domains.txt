@@ -1,0 +1,4 @@
+#>P	YJR126C	YJR126C	YJR126C	X	656257	658689	-1	Protein of unknown function involved in vacuolar protein sorting [Source:SGD;Acc:S000003887]
+#>E	YJR126C.1	1.0	656254-658689
+X	656290	656505	-1.0	TFR-like_dimer_dom	0	656290-656505	PF04253	http://pfam.sanger.ac.uk/family?acc=PF04253
+X	656866	657372	-1.0	Peptidase_M28	0	656866-657372	PF04389	http://pfam.sanger.ac.uk/family?acc=PF04389

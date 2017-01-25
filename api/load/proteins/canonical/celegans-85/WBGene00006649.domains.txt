@@ -1,0 +1,5 @@
+#>P	WBGene00006649	F08F1.8	F08F1.8	X	8422869	8423709	-1	Tetra THymosin (four thymosin repeat protein)  [Source:RefSeq peptide;Acc:NP_509430]
+#>E	F08F1.8.e3,F08F1.8.e2,F08F1.8.e1	1,1,1	8422866-8422997,8423074-8423279,8423592-8423709
+X	8423257	8423691	-1	Beta-thymosin	121.2	8423257-8423279,8423592-8423691	PF01290	http://pfam.sanger.ac.uk/family?acc=PF01290
+X	8422956	8423124	-1	Beta-thymosin	121.2	8422956-8422997,8423074-8423124	PF01290	http://pfam.sanger.ac.uk/family?acc=PF01290
+X	8423143	8423244	-1	Beta-thymosin	121.2	8423143-8423244	PF01290	http://pfam.sanger.ac.uk/family?acc=PF01290

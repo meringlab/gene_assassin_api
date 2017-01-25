@@ -1,0 +1,10 @@
+#>P	YKL164C	YKL164C	YKL164C	XI	141797	142819	-1	O-glycosylated protein required for cell wall stability; attached to the cell wall via beta-1,3-glucan; mediates mitochondrial translocation of Apn1p; expression regulated by the cell integrity pathway and by Swi5p during the cell cycle; PIR1 has a paralog, YJL160C, that arose from the whole genome duplication [Source:SGD;Acc:S000001647]
+#>E	YKL164C.1	1.0	141794-142819
+XI	142520	142573	-1.0	Yeast_PIR	0	142520-142573	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	142463	142516	-1.0	Yeast_PIR	0	142463-142516	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	142220	142273	-1.0	Yeast_PIR	0	142220-142273	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	142391	142444	-1.0	Yeast_PIR	0	142391-142444	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	142277	142330	-1.0	Yeast_PIR	0	142277-142330	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	142163	142213	-1.0	Yeast_PIR	0	142163-142213	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	142334	142387	-1.0	Yeast_PIR	0	142334-142387	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	142577	142630	-1.0	Yeast_PIR	0	142577-142630	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399

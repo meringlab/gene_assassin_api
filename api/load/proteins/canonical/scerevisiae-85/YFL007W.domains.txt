@@ -1,0 +1,3 @@
+#>P	YFL007W	YFL007W	YFL007W	VI	123479	129907	1	Proteasome activator; binds the core proteasome (CP) and stimulates proteasome-mediated protein degradation by inducing gate opening; required for sequestering CP into proteasome storage granule (PSG) during quiescent phase and for nuclear import of CP in proliferating cells; required for resistance to bleomycin, may be involved in protecting against oxidative damage; similar to mammalian PA200 [Source:SGD;Acc:S000001887]
+#>E	YFL007W.1	1.0	123479-129910
+VI	129638	129907	1.0	DUF3437	0	129638-129907	PF11919	http://pfam.sanger.ac.uk/family?acc=PF11919

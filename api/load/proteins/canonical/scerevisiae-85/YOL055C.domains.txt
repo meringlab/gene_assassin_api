@@ -1,0 +1,4 @@
+#>P	YOL055C	YOL055C	YOL055C	XV	224423	226075	-1	Trifunctional enzyme of thiamine biosynthesis, degradation and salvage; has hydroxymethylpyrimidine (HMP) kinase, HMP-phosphate (HMP-P) kinase and thiaminase activities; member of a gene family with THI21 and THI22; HMP and HMP-P kinase activity redundant with Thi21p [Source:SGD;Acc:S000005416]
+#>E	YOL055C.1	1.0	224420-226075
+XV	224426	225058	-1.0	TENA/THI4/PQQ_synthPqqC_dom	0	224426-225058	PF03070	http://pfam.sanger.ac.uk/family?acc=PF03070
+XV	225230	225979	-1.0	HMP-P_kinase-1	0	225230-225979	PF08543	http://pfam.sanger.ac.uk/family?acc=PF08543

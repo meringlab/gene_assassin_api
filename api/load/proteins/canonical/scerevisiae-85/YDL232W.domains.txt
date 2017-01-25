@@ -1,0 +1,3 @@
+#>P	YDL232W	YDL232W	YDL232W	IV	38487	38594	1	Subunit of the oligosaccharyltransferase complex of the ER lumen; complex catalyzes protein asparagine-linked glycosylation; type I membrane protein required for incorporation of Ost3p or Ost6p into the OST complex [Source:SGD;Acc:S000002391]
+#>E	YDL232W.1	1.0	38487-38597
+IV	38487	38588	1.0	Oligosaccaryltransferase	0	38487-38588	PF10215	http://pfam.sanger.ac.uk/family?acc=PF10215

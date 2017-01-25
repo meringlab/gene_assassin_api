@@ -1,0 +1,5 @@
+#>P	YMR023C	YMR023C	YMR023C	XIII	319440	321017	-1	Mitochondrial protein; forms a heterodimer complex with Mto1p that performs the 5-carboxymethylaminomethyl modification of the wobble uridine base in mitochondrial tRNAs; similar to human GTPBP3 [Source:SGD;Acc:S000004625]
+#>E	YMR023C.1	1.0	319437-321017
+XIII	320499	320906	-1.0	GTP-bd_TrmE_N	0	320499-320906	PF10396	http://pfam.sanger.ac.uk/family?acc=PF10396
+XIII	319833	320189	-1.0	GTP_binding_domain	0	319833-320189	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926
+XIII	319449	319667	-1.0	GTPase_MnmE_C_dom	0	319449-319667	PF12631	http://pfam.sanger.ac.uk/family?acc=PF12631

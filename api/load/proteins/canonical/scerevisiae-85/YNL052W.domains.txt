@@ -1,0 +1,3 @@
+#>P	YNL052W	YNL052W	YNL052W	XIV	531725	532183	1	Subunit Va of cytochrome c oxidase; cytochrome c oxidase is the terminal member of the mitochondrial inner membrane electron transport chain; Cox5Ap is predominantly expressed during aerobic growth while its isoform Vb (Cox5Bp) is expressed during anaerobic growth; COX5A has a paralog, COX5B, that arose from the whole genome duplication [Source:SGD;Acc:S000004997]
+#>E	YNL052W.1	1.0	531725-532186
+XIV	531779	532168	1.0	Cyt_c_oxidase_su4	0	531779-532168	PF02936	http://pfam.sanger.ac.uk/family?acc=PF02936

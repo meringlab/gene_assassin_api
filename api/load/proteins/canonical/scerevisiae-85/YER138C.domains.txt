@@ -1,0 +1,5 @@
+#>P	YER138C	YER138C	YER138C	V	443759	449024	-1	Retrotransposon TYA Gag and TYB Pol genes; transcribed/translated as one unit; polyprotein is processed to make a nucleocapsid-like protein (Gag), reverse transcriptase (RT), protease (PR), and integrase (IN); similar to retroviral genes [Source:SGD;Acc:S000000940]
+#>E	YER138C.2,YER138C.1	1,1	443756-447721,447723-449024
+V	444587	445189	-1	RVT_2	0	444587-445189	PF07727	http://pfam.sanger.ac.uk/family?acc=PF07727
+V	446681	447040	-1	Integrase_cat-core	0	446681-447040	PF00665	http://pfam.sanger.ac.uk/family?acc=PF00665
+V	448683	448976	-1	Retrotransposon_Ty1A_N	0	448683-448976	PF01021	http://pfam.sanger.ac.uk/family?acc=PF01021

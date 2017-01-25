@@ -1,0 +1,3 @@
+#>P	YDR345C	YDR345C	YDR345C	IV	1162960	1164660	-1	Low affinity glucose transporter of the major facilitator superfamily; expression is induced in low or high glucose conditions; HXT3 has a paralog, HXT5, that arose from the whole genome duplication [Source:SGD;Acc:S000002753]
+#>E	YDR345C.1	1.0	1162957-1164660
+IV	1163086	1164468	-1.0	Sub_transporter	0	1163086-1164468	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083

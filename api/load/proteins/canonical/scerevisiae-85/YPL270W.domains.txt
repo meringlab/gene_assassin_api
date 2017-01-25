@@ -1,0 +1,4 @@
+#>P	YPL270W	YPL270W	YPL270W	XVI	30482	32800	1	Mitochondrial inner membrane half-type ABC transporter; required for respiratory growth at high temperature; localizes to vacuole membrane in response to H2O2; similar to human TAP1 and TAP2 implicated in bare lymphocyte syndrome and Wegener-like granulomatosis [Source:SGD;Acc:S000006191]
+#>E	YPL270W.1	1.0	30482-32803
+XVI	30839	31681	1.0	ABC_transptr_TM_dom	0	30839-31681	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664
+XVI	31943	32323	1.0	ABC_transporter-like	0	31943-32323	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

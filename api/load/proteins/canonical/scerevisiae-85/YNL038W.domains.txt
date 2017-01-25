@@ -1,0 +1,3 @@
+#>P	YNL038W	YNL038W	YNL038W	XIV	557020	557780	1	Protein involved in the synthesis of GlcNAc-PI; GlcNAc-PI is the first intermediate in the synthesis of glycosylphosphatidylinositol (GPI) anchors; homologous to the human PIG-H protein; GlcNAc-PI stands for N-acetylglucosaminyl phosphatidylinositol [Source:SGD;Acc:S000004983]
+#>E	YNL038W.1,YNL038W.2	1,1	557020-557610,557685-557783
+XIV	557386	557687	1	GPI-GlcNAc_Trfase_PIG-H_dom	0	557386-557610,557685-557687	PF10181	http://pfam.sanger.ac.uk/family?acc=PF10181

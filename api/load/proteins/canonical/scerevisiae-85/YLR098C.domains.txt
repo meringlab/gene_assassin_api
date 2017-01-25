@@ -1,0 +1,4 @@
+#>P	YLR098C	YLR098C	YLR098C	XII	337530	339473	-1	DNA binding transcriptional activator; mediates serine/threonine activation of the catabolic L-serine (L-threonine) deaminase (CHA1); Zinc-finger protein with Zn[2]-Cys[6] fungal-type binuclear cluster domain [Source:SGD;Acc:S000004088]
+#>E	YLR098C.1	1.0	337527-339473
+XII	339246	339347	-1.0	Zn2-C6_fun-type_DNA-bd	0	339246-339347	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+XII	338055	338834	-1.0	Transcription_factor_fun	0	338055-338834	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082

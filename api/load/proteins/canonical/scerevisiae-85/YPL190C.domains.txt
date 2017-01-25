@@ -1,0 +1,3 @@
+#>P	YPL190C	YPL190C	YPL190C	XVI	185320	187725	-1	RNA-binding protein, subunit of Nrd1 complex (Nrd1p-Nab3p-Sen1p); complex interacts with exosome to mediate 3'-end formation of some mRNAs, snRNAs, snoRNAs, and CUTs; required for termination of non-poly(A) transcripts and efficient splicing; Nrd1-Nab3 pathway appears to have a role in rapid suppression of some genes when cells are shifted to poor growth conditions, indicating role for Nrd1-Nab3 in regulating cellular response to nutrient availability [Source:SGD;Acc:S000006111]
+#>E	YPL190C.1	1.0	185317-187725
+XVI	186562	186732	-1.0	RRM_dom	0	186562-186732	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

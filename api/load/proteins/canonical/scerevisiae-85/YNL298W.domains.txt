@@ -1,0 +1,5 @@
+#>P	YNL298W	YNL298W	YNL298W	XIV	68915	71440	1	Cdc42p-activated signal transducing kinase; member of the PAK (p21-activated kinase) family, along with Ste20p and Skm1p; involved in septin ring assembly, vacuole inheritance, cytokinesis, sterol uptake regulation; phosphorylates Cdc3p and Cdc10p; CLA4 has a paralog, SKM1, that arose from the whole genome duplication [Source:SGD;Acc:S000005242]
+#>E	YNL298W.1	1.0	68915-71443
+XIV	69464	69637	1.0	PAK_box_Rho-bd	0	69464-69637	PF00786	http://pfam.sanger.ac.uk/family?acc=PF00786
+XIV	70550	71389	1.0	Prot_kinase_cat_dom	0	70550-71389	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+XIV	69101	69439	1.0	Pleckstrin_homology	0	69101-69439	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169

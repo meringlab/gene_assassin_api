@@ -1,0 +1,4 @@
+#>P	YKL091C	YKL091C	YKL091C	XI	269721	270650	-1	Putative phosphatidylinositol/phosphatidylcholine transfer protein; possibly involved in lipid metabolism; localizes to the nucleus; contains a CRAL/TRIO domain and binds several lipids in a large-scale study; YKL091C has a paralog, SEC14, that arose from the whole genome duplication [Source:SGD;Acc:S000001574]
+#>E	YKL091C.1	1.0	269718-270650
+XI	270426	270563	-1.0	CRAL/TRIO_N_dom	0	270426-270563	PF03765	http://pfam.sanger.ac.uk/family?acc=PF03765
+XI	269844	270338	-1.0	CRAL-TRIO_dom	0	269844-270338	PF00650	http://pfam.sanger.ac.uk/family?acc=PF00650

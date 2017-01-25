@@ -1,0 +1,4 @@
+#>P	YDL246C	YDL246C	YDL246C	IV	8686	9756	-1	Protein of unknown function; protein sequence is 99% identical to the Sor1p sorbitol dehydrogenase; computational analysis of large-scale protein-protein interaction data also suggests a role in fructose or mannose metabolism [Source:SGD;Acc:S000002405]
+#>E	YDL246C.1	1.0	8683-9756
+IV	9334	9666	-1.0	ADH_GroES-like	0	9334-9666	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240
+IV	8812	9216	-1.0	ADH_C	0	8812-9216	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107

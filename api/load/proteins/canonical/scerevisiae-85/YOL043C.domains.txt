@@ -1,0 +1,3 @@
+#>P	YOL043C	YOL043C	YOL043C	XV	248395	249534	-1	DNA N-glycosylase and apurinic/apyrimidinic (AP) lyase; involved in base excision repair, localizes to the nucleus; sumoylated; NTG2 has a paralog, NTG1, that arose from the whole genome duplication [Source:SGD;Acc:S000005403]
+#>E	YOL043C.1	1.0	248392-249534
+XV	248638	249078	-1.0	HhH-GPD_domain	0	248638-249078	PF00730	http://pfam.sanger.ac.uk/family?acc=PF00730

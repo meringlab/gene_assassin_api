@@ -1,0 +1,4 @@
+#>P	YPR067W	YPR067W	YPR067W	XVI	682220	682774	1	Protein required for maturation of mitochondrial [4Fe-4S] proteins; functions in a complex with Isa1p and possibly Iba57p; localizes to the mitochondrial intermembrane space, overexpression of ISA2 suppresses grx5 mutations [Source:SGD;Acc:S000006271]
+#>E	YPR067W.1	1.0	682220-682777
+XVI	682607	682723	1.0	FeS_biogenesis	0	682607-682723	PF01521	http://pfam.sanger.ac.uk/family?acc=PF01521
+XVI	682397	682540	1.0	FeS_biogenesis	0	682397-682540	PF01521	http://pfam.sanger.ac.uk/family?acc=PF01521

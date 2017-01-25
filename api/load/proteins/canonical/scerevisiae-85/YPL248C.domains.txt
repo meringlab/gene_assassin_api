@@ -1,0 +1,5 @@
+#>P	YPL248C	YPL248C	YPL248C	XVI	79714	82356	-1	DNA-binding transcription factor required for activating GAL genes; responds to galactose; repressed by Gal80p and activated by Gal3p [Source:SGD;Acc:S000006169]
+#>E	YPL248C.1	1.0	79711-82356
+XVI	82216	82332	-1.0	Zn2-C6_fun-type_DNA-bd	0	82216-82332	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+XVI	80950	81627	-1.0	Transcription_factor_fun	0	80950-81627	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082
+XVI	82039	82209	-1.0	Gal4_dimer_dom	0	82039-82209	PF03902	http://pfam.sanger.ac.uk/family?acc=PF03902

@@ -1,0 +1,3 @@
+#>P	YPR060C	YPR060C	YPR060C	XVI	674864	675631	-1	Chorismate mutase; catalyzes the conversion of chorismate to prephenate to initiate the tyrosine/phenylalanine-specific branch of aromatic amino acid biosynthesis [Source:SGD;Acc:S000006264]
+#>E	YPR060C.1	1.0	674861-675631
+XVI	675377	675586	-1.0	Chorismate_mutase_type_II	0	675377-675586	PF01817	http://pfam.sanger.ac.uk/family?acc=PF01817

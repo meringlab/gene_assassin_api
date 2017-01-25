@@ -1,0 +1,21 @@
+#>P	YAR050W	YAR050W	YAR050W	I	203403	208013	1	Lectin-like protein involved in flocculation; cell wall protein that binds mannose chains on the surface of other cells, confers floc-forming ability that is chymotrypsin sensitive and heat resistant; FLO1 has a paralog, FLO5, that arose from a segmental duplication [Source:SGD;Acc:S000000084]
+#>E	YAR050W.1	1.0	203403-208016
+I	204765	204890	1.0	Flocculin	0	204765-204890	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	204360	204485	1.0	Flocculin	0	204360-204485	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	205713	205835	1.0	Flocculin	0	205713-205835	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	205035	205160	1.0	Flocculin	0	205035-205160	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	206526	206645	1.0	Flocculin	0	206526-206645	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	206253	206375	1.0	Flocculin	0	206253-206375	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	205575	205700	1.0	Flocculin	0	205575-205700	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	205440	205565	1.0	Flocculin	0	205440-205565	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	205305	205430	1.0	Flocculin	0	205305-205430	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	204495	204620	1.0	Flocculin	0	204495-204620	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	205170	205295	1.0	Flocculin	0	205170-205295	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	204630	204755	1.0	Flocculin	0	204630-204755	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	206118	206240	1.0	Flocculin	0	206118-206240	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	204222	204350	1.0	Flocculin	0	204222-204350	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	205851	205970	1.0	Flocculin	0	205851-205970	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	205983	206105	1.0	Flocculin	0	205983-206105	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	206388	206510	1.0	Flocculin	0	206388-206510	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	204900	205025	1.0	Flocculin	0	204900-205025	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	203736	204146	1.0	PA14	0	203736-204146	PF07691	http://pfam.sanger.ac.uk/family?acc=PF07691

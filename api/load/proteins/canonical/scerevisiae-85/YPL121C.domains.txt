@@ -1,0 +1,3 @@
+#>P	YPL121C	YPL121C	YPL121C	XVI	320965	321630	-1	Meiosis-specific protein involved in meiotic recombination; involved in DMC1-dependent meiotic recombination; forms heterodimer with Sae3p; proposed to be an assembly factor for Dmc1p [Source:SGD;Acc:S000006042]
+#>E	YPL121C.1	1.0	320962-321630
+XVI	320965	321597	-1.0	Ds-recomb_repair_prot_Mei5	0	320965-321597	PF10376	http://pfam.sanger.ac.uk/family?acc=PF10376

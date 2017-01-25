@@ -1,0 +1,4 @@
+#>P	YMR253C	YMR253C	YMR253C	XIII	775949	777190	-1	Putative protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm in a punctate pattern; YMR253C is not an essential gene [Source:SGD;Acc:S000004866]
+#>E	YMR253C.1	1.0	775946-777190
+XIII	776549	776884	-1.0	DMT	0	776549-776884	PF00892	http://pfam.sanger.ac.uk/family?acc=PF00892
+XIII	776057	776419	-1.0	DMT	0	776057-776419	PF00892	http://pfam.sanger.ac.uk/family?acc=PF00892

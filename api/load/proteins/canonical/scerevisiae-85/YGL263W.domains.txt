@@ -1,0 +1,4 @@
+#>P	YGL263W	YGL263W	YGL263W	VII	2790	3929	1	Protein of unknown function; member of the DUP380 subfamily of conserved, often subtelomerically-encoded proteins [Source:SGD;Acc:S000003232]
+#>E	YGL263W.1	1.0	2790-3932
+VII	3546	3854	1.0	DUP	0	3546-3854	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674
+VII	2991	3281	1.0	DUP	0	2991-3281	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674

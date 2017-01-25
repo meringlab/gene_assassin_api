@@ -1,0 +1,4 @@
+#>P	YOR110W	YOR110W	YOR110W	XV	528941	530245	1	RNA pol III transcription initiation factor complex (TFIIIC) subunit; part of the TauA globular domain of TFIIIC that binds DNA at the BoxA promoter sites of tRNA and similar genes; TFC7 has a paralog, YNL108C, that arose from the whole genome duplication [Source:SGD;Acc:S000005636]
+#>E	YOR110W.1	1.0	528941-530248
+XV	529889	529993	1.0	TFIIIC_tau55-rel	0	529889-529993	PF10419	http://pfam.sanger.ac.uk/family?acc=PF10419
+XV	528953	529456	1.0	His_Pase_superF_clade-1	0	528953-529456	PF00300	http://pfam.sanger.ac.uk/family?acc=PF00300

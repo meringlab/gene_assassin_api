@@ -1,0 +1,4 @@
+#>P	YJR035W	YJR035W	YJR035W	X	497355	500609	1	Protein involved in transcription-coupled nucleotide excision repair; repairs UV-induced DNA lesions; recruitment to DNA lesions is dependent on an elongating RNA polymerase II; homolog of human CSB protein [Source:SGD;Acc:S000003796]
+#>E	YJR035W.1	1.0	497355-500612
+X	499440	499658	1.0	Helicase_C	0	499440-499658	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+X	498252	499250	1.0	SNF2_N	0	498252-499250	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176

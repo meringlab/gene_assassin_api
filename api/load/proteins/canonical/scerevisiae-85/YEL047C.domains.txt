@@ -1,0 +1,3 @@
+#>P	YEL047C	YEL047C	YEL047C	V	65388	66797	-1	Soluble fumarate reductase; required with isoenzyme Osm1p for anaerobic growth; may interact with ribosomes, based on co-purification experiments; authentic, non-tagged protein is detected in purified mitochondria in high-throughput studies; similar to Arxula adeninovorans fumarate reductase; protein abundance increases in response to DNA replication stress; FRD1 has a paralog, OSM1, that arose from the whole genome duplication [Source:SGD;Acc:S000000773]
+#>E	YEL047C.1	1.0	65385-66797
+V	65445	66782	-1.0	FAD_bind2_N	0	65445-66782	PF00890	http://pfam.sanger.ac.uk/family?acc=PF00890

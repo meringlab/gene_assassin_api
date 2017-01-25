@@ -1,0 +1,3 @@
+#>P	YER109C	YER109C	YER109C	V	375218	377614	-1	Transcription factor; required for flocculation, diploid filamentous growth, and haploid invasive growth; forms a heterodimer with Mss1p that interacts with the Swi/Snf complex during transcriptional activation of FLO1, FLO11, and STA1; genome reference strain S288C and most laboratory strains have a nonsense mutation in this gene [Source:SGD;Acc:S000000911]
+#>E	YER109C.1	1.0	375215-377614
+V	377312	377386	-1.0	LisH_dimerisation_subgr	0	377312-377386	PF08513	http://pfam.sanger.ac.uk/family?acc=PF08513

@@ -1,0 +1,3 @@
+#>P	YDL004W	YDL004W	YDL004W	IV	443029	443508	1	Delta subunit of the central stalk of mitochondrial F1F0 ATP synthase; F1F0 ATP synthase is a large, evolutionarily conserved enzyme complex required for ATP synthesis; F1 translationally regulates ATP6 and ATP8 expression to achieve a balanced output of ATP synthase genes encoded in nucleus and mitochondria; phosphorylated [Source:SGD;Acc:S000002162]
+#>E	YDL004W.1	1.0	443029-443511
+IV	443122	443355	1.0	ATPase_F1-cplx_dsu/esu_N	0	443122-443355	PF02823	http://pfam.sanger.ac.uk/family?acc=PF02823

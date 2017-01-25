@@ -1,0 +1,3 @@
+#>P	YPL228W	YPL228W	YPL228W	XVI	118382	120028	1	RNA 5'-triphosphatase involved in mRNA 5' capping; subunit of the mRNA capping enzyme, which is a heterotetramer composed of a Cet1p homodimer and two molecules of the guanylyltransferase Ceg1p; Cet1p also has a role in regulation of RNA pol II pausing at promoter-proximal sites; interaction between Cet1p and Ceg1p is required for Ceg1p nuclear import; mammalian enzyme is a single bifunctional polypeptide; CET1 has a paralog, CTL1, that arose from the whole genome duplication [Source:SGD;Acc:S000006149]
+#>E	YPL228W.1	1.0	118382-120031
+XVI	119216	119872	1.0	mRNA_capping_enz_bsu_dom	0	119216-119872	PF02940	http://pfam.sanger.ac.uk/family?acc=PF02940

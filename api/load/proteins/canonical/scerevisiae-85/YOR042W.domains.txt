@@ -1,0 +1,3 @@
+#>P	YOR042W	YOR042W	YOR042W	XV	408425	409657	1	Ubiquitin-binding protein; functions as a ubiquitin-Atg8p adaptor in ubiquitin-dependent autophagy; contains a CUE domain that binds ubiquitin, which may facilitate intramolecular monoubiquitination; GFP-fusion protein localizes to the cytoplasm in a punctate pattern; CUE5 has a paralog, DON1, that arose from the whole genome duplication; human TOLLIP is a functional CUE-domain homolog, rescuing hypersensitivity of cue5 null mutant cells to Htt-96Q [Source:SGD;Acc:S000005568]
+#>E	YOR042W.1	1.0	408425-409660
+XV	408722	408841	1.0	CUE	0	408722-408841	PF02845	http://pfam.sanger.ac.uk/family?acc=PF02845

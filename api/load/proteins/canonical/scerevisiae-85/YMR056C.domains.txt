@@ -1,0 +1,5 @@
+#>P	YMR056C	YMR056C	YMR056C	XIII	387318	388244	-1	Mitochondrial inner membrane ADP/ATP translocator; exchanges cytosolic ADP for mitochondrially synthesized ATP; phosphorylated; Aac1p is a minor isoform while Pet9p is the major ADP/ATP translocator; relocalizes from mitochondrion to cytoplasm upon DNA replication stress [Source:SGD;Acc:S000004660]
+#>E	YMR056C.1	1.0	387315-388244
+XIII	387333	387596	-1.0	Mitochondrial_sb/sol_carrier	0	387333-387596	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XIII	387618	387896	-1.0	Mitochondrial_sb/sol_carrier	0	387618-387896	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XIII	387927	388217	-1.0	Mitochondrial_sb/sol_carrier	0	387927-388217	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

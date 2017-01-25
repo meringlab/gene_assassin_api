@@ -1,0 +1,4 @@
+#>P	YGL143C	YGL143C	YGL143C	VII	234720	235958	-1	Mitochondrial translation release factor; involved in stop codon recognition and hydrolysis of the peptidyl-tRNA bond during mitochondrial translation; lack of MRF1 causes mitochondrial genome instability [Source:SGD;Acc:S000003111]
+#>E	YGL143C.1	1.0	234717-235958
+VII	235290	235622	-1.0	PCRF	0	235290-235622	PF03462	http://pfam.sanger.ac.uk/family?acc=PF03462
+VII	234840	235163	-1.0	Pep_chain_release_fac_I_II	0	234840-235163	PF00472	http://pfam.sanger.ac.uk/family?acc=PF00472

@@ -1,0 +1,4 @@
+#>P	YOR191W	YOR191W	YOR191W	XV	692475	697331	1	Swi2/Snf2-related translocase, SUMO-Targeted Ubiquitin Ligase (STUbL); required for maintenance of NHEJ inhibition at telomeres; functions at telomeres to translocate and ubiquitinylate poly-sumoylated Rap1p for proteosomal degradation; plays role in antagonizing silencing during mating-type switching; only known STUbL with a translocase activity; contains RING finger domain; relocalizes from nucleus to cytoplasm upon DNA replication stress [Source:SGD;Acc:S000005717]
+#>E	YOR191W.1	1.0	692475-697334
+XV	696918	697148	1.0	Helicase_C	0	696918-697148	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XV	695310	696317	1.0	SNF2_N	0	695310-696317	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176

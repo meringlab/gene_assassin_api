@@ -1,0 +1,3 @@
+#>P	YKR095W-A	YKR095W-A	YKR095W-A	XI	625864	626202	1	Component of the EKC/KEOPS protein complex; EKC/KEOPS complex is required for t6A tRNA modification and telomeric TG1-3 recombination; may have role in transcription; other complex members are Kae1p, Gon7p, Bud32p, and Cgi121p [Source:SGD;Acc:S000028512]
+#>E	YKR095W-A.1,YKR095W-A.2	1,1	625864-625901,625977-626205
+XI	625894	626193	1	EKC/KEOPS_Pcc1	0	625894-625901,625977-626193	PF09341	http://pfam.sanger.ac.uk/family?acc=PF09341

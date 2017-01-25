@@ -1,0 +1,4 @@
+#>P	YOL059W	YOL059W	YOL059W	XV	217126	218445	1	NAD-dependent glycerol 3-phosphate dehydrogenase; expression is controlled by an oxygen-independent signaling pathway required to regulate metabolism under anoxic conditions; located in cytosol and mitochondria; constitutively active but is inactivated via phosphorylation by energy-stress responsive kinase SNF1; GPD2 has a paralog, GPD1, that arose from the whole genome duplication [Source:SGD;Acc:S000005420]
+#>E	YOL059W.1	1.0	217126-218448
+XV	217378	217875	1.0	G3P_DH_NAD-dep_N	179.8	217378-217875	PF01210	http://pfam.sanger.ac.uk/family?acc=PF01210
+XV	217969	218415	1.0	G3P_DH_NAD-dep_C	165.7	217969-218415	PF07479	http://pfam.sanger.ac.uk/family?acc=PF07479

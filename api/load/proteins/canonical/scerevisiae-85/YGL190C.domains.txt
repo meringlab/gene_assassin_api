@@ -1,0 +1,3 @@
+#>P	YGL190C	YGL190C	YGL190C	VII	145812	147389	-1	Non-essential regulatory subunit B of protein phosphatase 2A (PP2A); localization to cytoplasm requires Zds1p and Zds2p and promotes mitotic entry; localization to nucleus prevents mitotic exit; required for correct nuclear division and chromosome segregation in meiosis; maintains nucleolar sequestration of Cdc14p during early meiosis; limits formation of PP2A-Rts1p holocomplexes to ensure timely dissolution of sister chromosome cohesion; homolog of mammalian B55 [Source:SGD;Acc:S000003158]
+#>E	YGL190C.1	1.0	145809-147389
+VII	146433	146528	-1.0	WD40_repeat	0	146433-146528	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

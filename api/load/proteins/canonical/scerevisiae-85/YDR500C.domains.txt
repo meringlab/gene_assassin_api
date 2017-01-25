@@ -1,0 +1,3 @@
+#>P	YDR500C	YDR500C	YDR500C	IV	1450201	1450853	-1	Ribosomal 60S subunit protein L37B; protein abundance increases in response to DNA replication stress; homologous to mammalian ribosomal protein L37, no bacterial homolog; RPL37B has a paralog, RPL37A, that arose from the whole genome duplication [Source:SGD;Acc:S000002908]
+#>E	YDR500C.2,YDR500C.1	1,1	1450198-1450457,1450847-1450853
+IV	1450300	1450850	-1	Ribosomal_L37e	0	1450300-1450457,1450847-1450850	PF01907	http://pfam.sanger.ac.uk/family?acc=PF01907

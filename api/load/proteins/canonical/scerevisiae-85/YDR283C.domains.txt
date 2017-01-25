@@ -1,0 +1,7 @@
+#>P	YDR283C	YDR283C	YDR283C	IV	1025073	1030049	-1	Protein kinase; phosphorylates the alpha-subunit of translation initiation factor eIF2 (Sui2p) in response to starvation; activated by uncharged tRNAs and the Gcn1p-Gcn20p complex; contributes to DNA damage checkpoint control [Source:SGD;Acc:S000002691]
+#>E	YDR283C.1	1.0	1025070-1030049
+IV	1027107	1027805	-1.0	Prot_kinase_cat_dom	0	1027107-1027805	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+IV	1028025	1028252	-1.0	Prot_kinase_cat_dom	0	1028025-1028252	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+IV	1028472	1029149	-1.0	Prot_kinase_cat_dom	0	1028472-1029149	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+IV	1029678	1030019	-1.0	RWD-domain	0	1029678-1030019	PF05773	http://pfam.sanger.ac.uk/family?acc=PF05773
+IV	1025076	1025891	-1.0	GCN2_anticodon-bd_dom	0	1025076-1025891	PF12745	http://pfam.sanger.ac.uk/family?acc=PF12745

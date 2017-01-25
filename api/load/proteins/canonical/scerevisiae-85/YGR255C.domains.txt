@@ -1,0 +1,3 @@
+#>P	YGR255C	YGR255C	YGR255C	VII	1002526	1003962	-1	Putative flavin-dependent monooxygenase; involved in ubiquinone (Coenzyme Q) biosynthesis; localizes to the matrix face of the mitochondrial inner membrane in a large complex with other ubiquinone biosynthetic enzymes; human COX6 can rescue a yeast cox6 mutant and is implicated in steroid-resistant nephrotic syndrome (SRNS) [Source:SGD;Acc:S000003487]
+#>E	YGR255C.1	1.0	1002523-1003962
+VII	1002751	1003386	-1.0	mOase_FAD-bd	0	1002751-1003386	PF01494	http://pfam.sanger.ac.uk/family?acc=PF01494

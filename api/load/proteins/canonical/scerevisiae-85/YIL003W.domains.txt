@@ -1,0 +1,4 @@
+#>P	YIL003W	YIL003W	YIL003W	IX	349122	350000	1	Highly conserved iron-sulfur cluster binding protein; localized in the cytoplasm; forms a complex with Nbp35p that is involved in iron-sulfur protein assembly in the cytosol [Source:SGD;Acc:S000001265]
+#>E	YIL003W.1	1.0	349122-350003
+IX	349512	349763	1.0	ATPase-like_ParA/MinD	124.5	349512-349763	PF10609	http://pfam.sanger.ac.uk/family?acc=PF10609
+IX	349179	349286	1.0	Anion-transp_ATPase-like_dom	22.6	349179-349286	PF02374	http://pfam.sanger.ac.uk/family?acc=PF02374

@@ -1,0 +1,3 @@
+#>P	YOR231W	YOR231W	YOR231W	XV	772601	774124	1	MAPKK involved in the protein kinase C signaling pathway; involved in control of cell integrity; upon activation by Bck1p phosphorylates downstream target, Slt2p; functionally redundant with Mkk2p; MKK1 has a paralog, MKK2, that arose from the whole genome duplication [Source:SGD;Acc:S000005757]
+#>E	YOR231W.1	1.0	772601-774127
+XV	773264	774064	1.0	Prot_kinase_cat_dom	0	773264-774064	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

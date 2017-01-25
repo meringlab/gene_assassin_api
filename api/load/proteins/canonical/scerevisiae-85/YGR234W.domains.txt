@@ -1,0 +1,5 @@
+#>P	YGR234W	YGR234W	YGR234W	VII	959904	961100	1	Nitric oxide oxidoreductase; flavohemoglobin involved in nitric oxide detoxification; plays a role in the oxidative and nitrosative stress responses; protein increases in abundance and relocalizes from nucleus to cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000003466]
+#>E	YGR234W.1	1.0	959904-961103
+VII	960357	960689	1.0	OxRdtase_FAD-bd_dom	0	960357-960689	PF00970	http://pfam.sanger.ac.uk/family?acc=PF00970
+VII	959922	960209	1.0	Globin_subset	0	959922-960209	PF00042	http://pfam.sanger.ac.uk/family?acc=PF00042
+VII	960735	961016	1.0	OxRdtase_FAD/NAD-bd	0	960735-961016	PF00175	http://pfam.sanger.ac.uk/family?acc=PF00175

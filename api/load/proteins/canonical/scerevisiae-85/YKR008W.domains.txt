@@ -1,0 +1,4 @@
+#>P	YKR008W	YKR008W	YKR008W	XI	452201	454075	1	Component of the RSC chromatin remodeling complex; found in close proximity to nucleosomal DNA; displaced from the surface of nucleosomal DNA after chromatin remodeling; acetylated (K25) by Gcn5p, altering replication stress tolerance; contains tandem bromodomains that recognize histone H3 acetylated on K14 (H3K14ac) by Gcn5p [Source:SGD;Acc:S000001716]
+#>E	YKR008W.1	1.0	452201-454078
+XI	452819	453037	1.0	Bromodomain	0	452819-453037	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439
+XI	452423	452632	1.0	Bromodomain	0	452423-452632	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439

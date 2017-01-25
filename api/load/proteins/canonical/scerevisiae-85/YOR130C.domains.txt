@@ -1,0 +1,5 @@
+#>P	YOR130C	YOR130C	YOR130C	XV	569932	570807	-1	Ornithine transporter of the mitochondrial inner membrane; exports ornithine from mitochondria as part of arginine biosynthesis; human ortholog is associated with hyperammonaemia-hyperornithinaemia-homocitrullinuria (HHH) syndrome [Source:SGD;Acc:S000005656]
+#>E	YOR130C.1	1.0	569929-570807
+XV	570208	570489	-1.0	Mitochondrial_sb/sol_carrier	0	570208-570489	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XV	570505	570768	-1.0	Mitochondrial_sb/sol_carrier	0	570505-570768	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XV	569938	570180	-1.0	Mitochondrial_sb/sol_carrier	0	569938-570180	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

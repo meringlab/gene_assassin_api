@@ -1,0 +1,3 @@
+#>P	YCL018W	YCL018W	YCL018W	III	91324	92415	1	Beta-isopropylmalate dehydrogenase (IMDH); catalyzes the third step in the leucine biosynthesis pathway; can additionally catalyze the conversion of &#946;-ethylmalate into &#945;-ketovalerate [Source:SGD;Acc:S000000523]
+#>E	YCL018W.1	1.0	91324-92418
+III	91339	92388	1.0	IsoPropMal-DH-like_dom	0	91339-92388	PF00180	http://pfam.sanger.ac.uk/family?acc=PF00180

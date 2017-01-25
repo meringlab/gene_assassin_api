@@ -1,0 +1,5 @@
+#>P	YBR115C	YBR115C	YBR115C	II	469751	473926	-1	Alpha aminoadipate reductase; catalyzes the reduction of alpha-aminoadipate to alpha-aminoadipate 6-semialdehyde, which is the fifth step in biosynthesis of lysine; activation requires posttranslational phosphopantetheinylation by Lys5p [Source:SGD;Acc:S000000319]
+#>E	YBR115C.1	1.0	469748-473926
+II	471179	471376	-1.0	Acyl_carrier_prot-like	56.4	471179-471376	PF00550	http://pfam.sanger.ac.uk/family?acc=PF00550
+II	471746	473116	-1.0	AMP-dep_Synth/Lig	335.5	471746-473116	PF00501	http://pfam.sanger.ac.uk/family?acc=PF00501
+II	470252	471004	-1.0	Male_sterile_NAD-bd	233.3	470252-471004	PF07993	http://pfam.sanger.ac.uk/family?acc=PF07993

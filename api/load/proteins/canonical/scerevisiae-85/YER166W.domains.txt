@@ -1,0 +1,4 @@
+#>P	YER166W	YER166W	YER166W	V	512744	517456	1	Aminophospholipid translocase (flippase); localizes primarily to the plasma membrane; contributes to endocytosis, protein transport and cell polarity; type 4 P-type ATPase; DNF1 has a paralog, DNF2, that arose from the whole genome duplication [Source:SGD;Acc:S000000968]
+#>E	YER166W.1	1.0	512744-517459
+V	515066	515389	1.0	ATPase_P-typ_ion-transptr	0	515066-515389	PF13246	http://pfam.sanger.ac.uk/family?acc=PF13246
+V	513935	514633	1.0	ATPase_P-typ_ATPase-assoc-dom	0	513935-514633	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122

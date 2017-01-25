@@ -1,0 +1,5 @@
+#>P	YKR103W	YKR103W	YKR103W	XI	653080	656733	1	Putative transporter of the MRP subfamily; adjacent ORFs YKR103W and YKR104W are merged in different strain backgrounds; MRP stands for multidrug resistance-associated protein [Source:SGD;Acc:S000001811]
+#>E	YKR103W.1	1.0	653080-656736
+XI	655156	655533	1.0	ABC_transporter-like	0	655156-655533	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XI	655963	656679	1.0	ABC_transptr_TM_dom	0	655963-656679	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664
+XI	654382	654903	1.0	ABC_transptr_TM_dom	0	654382-654903	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664

@@ -1,0 +1,3 @@
+#>P	YER177W	YER177W	YER177W	V	545611	546411	1	14-3-3 protein, major isoform; controls proteome at post-transcriptional level, binds proteins and DNA, involved in regulation of exocytosis, vesicle transport, Ras/MAPK and rapamycin-sensitive signaling, aggresome formation, spindle position checkpoint; protein increases in abundance and relative distribution to the nucleus increases upon DNA replication stress; antiapoptotic gene similar to human 14-3-3; BMH1 has a paralog, BMH2, that arose from whole genome duplication [Source:SGD;Acc:S000000979]
+#>E	YER177W.1	1.0	545611-546414
+V	545623	546327	1.0	14-3-3_domain	0	545623-546327	PF00244	http://pfam.sanger.ac.uk/family?acc=PF00244

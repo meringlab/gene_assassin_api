@@ -1,0 +1,4 @@
+#>P	YMR211W	YMR211W	YMR211W	XIII	689083	690507	1	Essential protein involved in mtDNA inheritance; may also function in the partitioning of the mitochondrial organelle or in the segregation of chromosomes, exhibits regions similar to members of a GTPase family [Source:SGD;Acc:S000004824]
+#>E	YMR211W.1	1.0	689083-690510
+XIII	689083	689307	1.0	Misato_II_myosin-like	0	689083-689307	PF10644	http://pfam.sanger.ac.uk/family?acc=PF10644
+XIII	689593	689787	1.0	Tubulin_FtsZ_GTPase	0	689593-689787	PF00091	http://pfam.sanger.ac.uk/family?acc=PF00091

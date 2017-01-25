@@ -1,0 +1,4 @@
+#>P	YBR187W	YBR187W	YBR187W	II	602634	603473	1	Protein of unknown function involved in calcium homeostasis; localizes to the cis- and medial-Golgi apparatus; GFP-fusion protein localizes to the vacuole; TMEM165, a human gene which causes Congenital Disorders of Glycosylation is orthologous and functionally complements the null allele; expression pattern and physical interactions suggest a possible role in ribosome biogenesis; expression reduced in a gcr1 null mutant [Source:SGD;Acc:S000000391]
+#>E	YBR187W.1	1.0	602634-603476
+II	603210	603437	1.0	UPF0016	0	603210-603437	PF01169	http://pfam.sanger.ac.uk/family?acc=PF01169
+II	602757	602984	1.0	UPF0016	0	602757-602984	PF01169	http://pfam.sanger.ac.uk/family?acc=PF01169

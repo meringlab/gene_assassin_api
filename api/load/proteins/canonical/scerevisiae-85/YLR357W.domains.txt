@@ -1,0 +1,5 @@
+#>P	YLR357W	YLR357W	YLR357W	XII	841331	843997	1	Component of the RSC chromatin remodeling complex; required for expression of mid-late sporulation-specific genes; involved in telomere maintenance; RSC2 has a paralog, RSC1, that arose from the whole genome duplication [Source:SGD;Acc:S000004349]
+#>E	YLR357W.1	1.0	841331-844000
+XII	842555	842905	1.0	BAH_dom	79	842555-842905	PF01426	http://pfam.sanger.ac.uk/family?acc=PF01426
+XII	842228	842428	1.0	Bromodomain	49.1	842228-842428	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439
+XII	841445	841648	1.0	Bromodomain	50.7	841445-841648	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439

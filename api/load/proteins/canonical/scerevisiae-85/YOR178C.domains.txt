@@ -1,0 +1,3 @@
+#>P	YOR178C	YOR178C	YOR178C	XV	667863	670241	-1	Regulatory subunit for Glc7p type-1 protein phosphatase (PP1); tethers Glc7p to Gsy2p glycogen synthase, binds Hsf1p heat shock transcription factor, required for induction of some HSF-regulated genes under heat shock; GAC1 has a paralog, PIG1, that arose from the whole genome duplication [Source:SGD;Acc:S000005704]
+#>E	YOR178C.1	1.0	667860-670241
+XV	669165	669530	-1.0	CBM_21	0	669165-669530	PF03370	http://pfam.sanger.ac.uk/family?acc=PF03370

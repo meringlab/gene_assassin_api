@@ -1,0 +1,4 @@
+#>P	YMR280C	YMR280C	YMR280C	XIII	827031	831329	-1	Zinc cluster transcriptional activator; necessary for derepression of a variety of genes under non-fermentative growth conditions, active after diauxic shift, binds carbon source responsive elements; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000004893]
+#>E	YMR280C.1	1.0	827028-831329
+XIII	829251	830123	-1.0	Transcription_factor_fun	0	829251-830123	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082
+XIII	831018	831128	-1.0	Zn2-C6_fun-type_DNA-bd	0	831018-831128	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

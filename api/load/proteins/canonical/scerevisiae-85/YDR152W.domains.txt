@@ -1,0 +1,3 @@
+#>P	YDR152W	YDR152W	YDR152W	IV	765706	766500	1	Highly-acidic RWD domain-containing protein of unknown function; cytoplasmic; forms a complex with Rbg2p; interacts with Rbg1p and Gcn1p; associates with translating ribosomes; putative intrinsically unstructured protein [Source:SGD;Acc:S000002559]
+#>E	YDR152W.1	1.0	765706-766503
+IV	765709	766170	1.0	RWD-domain	0	765709-766170	PF05773	http://pfam.sanger.ac.uk/family?acc=PF05773

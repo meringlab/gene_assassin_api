@@ -1,0 +1,5 @@
+#>P	YJL090C	YJL090C	YJL090C	X	262760	265051	-1	DNA replication initiation protein; loads DNA pol epsilon onto pre-replication complexes at origins; checkpoint sensor recruited to stalled replication forks by the checkpoint clamp complex where it activates Mec1p; along with Rfa1p, binds to ultrafine anaphase bridges in mitotic cells and prevents accumulation of chromatin bridges by stimulating the Mec1p kinase and suppressing homologous recombination; ortholog of human TopBP1; forms nuclear foci upon DNA replication stress [Source:SGD;Acc:S000003626]
+#>E	YJL090C.1	1.0	262757-265051
+X	264854	265051	-1.0	BRCT	0	264854-265051	PF00533	http://pfam.sanger.ac.uk/family?acc=PF00533
+X	264434	264718	-1.0	BRCT	0	264434-264718	PF00533	http://pfam.sanger.ac.uk/family?acc=PF00533
+X	263837	264085	-1.0	BRCT	0	263837-264085	PF00533	http://pfam.sanger.ac.uk/family?acc=PF00533

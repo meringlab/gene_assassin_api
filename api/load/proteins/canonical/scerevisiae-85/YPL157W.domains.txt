@@ -1,0 +1,3 @@
+#>P	YPL157W	YPL157W	YPL157W	XVI	254814	255758	1	Trimethyl guanosine synthase, conserved nucleolar methyl transferase; converts the m(7)G cap structure of snRNAs, snoRNAs, and telomerase TLC1 RNA to m(2,2,7)G; also required for nucleolar assembly and splicing of meiotic pre-mRNAs; interacts with Swm2p, which may confer substrate specificity on Tgs1p [Source:SGD;Acc:S000006078]
+#>E	YPL157W.1	1.0	254814-255761
+XVI	255108	255596	1.0	RNA_cap_Gua-N2-MeTrfase	0	255108-255596	PF09445	http://pfam.sanger.ac.uk/family?acc=PF09445

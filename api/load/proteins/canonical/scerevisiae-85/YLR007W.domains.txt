@@ -1,0 +1,4 @@
+#>P	YLR007W	YLR007W	YLR007W	XII	164392	165399	1	Component of the SMC5-SMC6 complex; this complex plays a key role in the removal of X-shaped DNA structures that arise between sister chromatids during DNA replication and repair [Source:SGD;Acc:S000003997]
+#>E	YLR007W.1	1.0	164392-165402
+XII	165202	165363	1.0	Znf_RING-like	0	165202-165363	PF08746	http://pfam.sanger.ac.uk/family?acc=PF08746
+XII	164443	165165	1.0	SMC_Nse1	0	164443-165165	PF07574	http://pfam.sanger.ac.uk/family?acc=PF07574

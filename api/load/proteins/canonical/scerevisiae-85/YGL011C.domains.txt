@@ -1,0 +1,4 @@
+#>P	YGL011C	YGL011C	YGL011C	VII	474492	475247	-1	Alpha 1 subunit of the 20S proteasome; involved in the degradation of ubiquitinated substrates; 20S proteasome is the core complex of the 26S proteasome; essential for growth; detected in the mitochondria [Source:SGD;Acc:S000002979]
+#>E	YGL011C.1	1.0	474489-475247
+VII	474567	475124	-1.0	Proteasome_sua/b	0	474567-475124	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227
+VII	475146	475214	-1.0	Proteasome_asu_N	0	475146-475214	PF10584	http://pfam.sanger.ac.uk/family?acc=PF10584

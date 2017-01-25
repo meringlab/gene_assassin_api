@@ -1,0 +1,4 @@
+#>P	YHL002W	YHL002W	YHL002W	VIII	102612	103967	1	Subunit of the endosomal Vps27p-Hse1p complex; complex is required for sorting of ubiquitinated membrane proteins into intralumenal vesicles prior to vacuolar degradation, as well as for recycling of Golgi proteins and formation of lumenal membranes [Source:SGD;Acc:S000000994]
+#>E	YHL002W.1	1.0	102612-103970
+VIII	102618	103031	1.0	VHS	0	102618-103031	PF00790	http://pfam.sanger.ac.uk/family?acc=PF00790
+VIII	103278	103412	1.0	SH3_domain	0	103278-103412	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018

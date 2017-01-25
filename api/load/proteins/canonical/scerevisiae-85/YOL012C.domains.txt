@@ -1,0 +1,3 @@
+#>P	YOL012C	YOL012C	YOL012C	XV	303582	303983	-1	Histone variant H2AZ; exchanged for histone H2A in nucleosomes by the SWR1 complex; involved in transcriptional regulation through prevention of the spread of silent heterochromatin; Htz1p-containing nucleosomes facilitate RNA Pol II passage by affecting correct assembly and modification status of RNA Pol II elongation complexes and by favoring efficient nucleosome remodeling [Source:SGD;Acc:S000005372]
+#>E	YOL012C.1	1.0	303579-303983
+XV	303687	303911	-1.0	Histone_core_D	0	303687-303911	PF00125	http://pfam.sanger.ac.uk/family?acc=PF00125

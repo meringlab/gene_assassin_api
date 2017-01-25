@@ -1,0 +1,6 @@
+#>P	YER107C	YER107C	YER107C	V	373451	374545	-1	RNA export factor associated with the nuclear pore complex (NPC); associates with NUP116p; required for polyadenylated RNA export but not for protein import; homologous to S. pombe Rae1p and human RAE1 [Source:SGD;Acc:S000000909]
+#>E	YER107C.1	1.0	373448-374545
+V	374351	374440	-1.0	WD40_repeat	0	374351-374440	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+V	373655	373735	-1.0	WD40_repeat	0	373655-373735	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+V	374222	374308	-1.0	WD40_repeat	0	374222-374308	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+V	374087	374197	-1.0	WD40_repeat	0	374087-374197	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

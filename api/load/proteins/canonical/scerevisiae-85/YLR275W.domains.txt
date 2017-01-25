@@ -1,0 +1,3 @@
+#>P	YLR275W	YLR275W	YLR275W	XII	694378	694797	1	Core Sm protein Sm D2; part of heteroheptameric complex (with Smb1p, Smd1p, Smd3p, Sme1p, Smx3p, and Smx2p) that is part of the spliceosomal U1, U2, U4, and U5 snRNPs; homolog of human Sm D2 [Source:SGD;Acc:S000004265]
+#>E	YLR275W.1,YLR275W.2	1,1	694378-694382,694473-694800
+XII	694585	694779	1	LSM_domain	0	694585-694779	PF01423	http://pfam.sanger.ac.uk/family?acc=PF01423

@@ -1,0 +1,4 @@
+#>P	YGR088W	YGR088W	YGR088W	VII	654634	656319	1	Cytosolic catalase T; has a role in protection from oxidative damage by hydrogen peroxide [Source:SGD;Acc:S000003320]
+#>E	YGR088W.1	1.0	654634-656322
+VII	654685	655878	1.0	Catalase_core	0	654685-655878	PF00199	http://pfam.sanger.ac.uk/family?acc=PF00199
+VII	656074	656256	1.0	Catalase_immune_responsive	0	656074-656256	PF06628	http://pfam.sanger.ac.uk/family?acc=PF06628

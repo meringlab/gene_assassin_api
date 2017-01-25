@@ -1,0 +1,3 @@
+#>P	YDL191W	YDL191W	YDL191W	IV	117664	118514	1	Ribosomal 60S subunit protein L35A; homologous to mammalian ribosomal protein L35 and bacterial L29; RPL35A has a paralog, RPL35B, that arose from the whole genome duplication [Source:SGD;Acc:S000002350]
+#>E	YDL191W.1,YDL191W.2	1,1	117664-117666,118158-118517
+IV	118170	118337	1	Ribosomal_L29	0	118170-118337	PF00831	http://pfam.sanger.ac.uk/family?acc=PF00831

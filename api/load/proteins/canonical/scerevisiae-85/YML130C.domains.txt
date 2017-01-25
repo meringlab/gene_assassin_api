@@ -1,0 +1,3 @@
+#>P	YML130C	YML130C	YML130C	XIII	11486	13174	-1	Thiol oxidase required for oxidative protein folding in the ER; essential for maintaining proper redox balance in ER; feedback regulation of Ero1p occurs via reduction and oxidation of Ero1p regulatory bonds; reduced Pdi1p activates Ero1p by direct reduction of Ero1p regulatory bonds; depletion of thiol substrates and accumulation of oxidized Pdi1p results in inactivation of Ero1p by both Pdi1p-mediated oxidation and autonomous oxidation of Ero1p regulatory bonds [Source:SGD;Acc:S000004599]
+#>E	YML130C.1	1.0	11483-13174
+XIII	11933	12982	-1.0	ER_oxidoreductin-1	0	11933-12982	PF04137	http://pfam.sanger.ac.uk/family?acc=PF04137

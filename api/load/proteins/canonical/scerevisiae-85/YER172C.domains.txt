@@ -1,0 +1,7 @@
+#>P	YER172C	YER172C	YER172C	V	529533	536021	-1	RNA-dependent ATPase RNA helicase (DEIH box); required for disruption of U4/U6 base-pairing in native snRNPs to activate the spliceosome for catalysis; homologous to human U5-200kD [Source:SGD;Acc:S000000974]
+#>E	YER172C.1	1.0	529530-536021
+V	531477	531974	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	531477-531974	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+V	533988	534521	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	533988-534521	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+V	533388	533618	-1.0	Helicase_C	0	533388-533618	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+V	529545	530477	-1.0	Sec63-dom	0	529545-530477	PF02889	http://pfam.sanger.ac.uk/family?acc=PF02889
+V	532098	533027	-1.0	Sec63-dom	0	532098-533027	PF02889	http://pfam.sanger.ac.uk/family?acc=PF02889

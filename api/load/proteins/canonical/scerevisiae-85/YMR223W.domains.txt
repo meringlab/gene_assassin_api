@@ -1,0 +1,4 @@
+#>P	YMR223W	YMR223W	YMR223W	XIII	716715	718127	1	Ubiquitin-specific protease component of the SAGA acetylation complex; required for SAGA (Spt-Ada-Gcn5-Acetyltransferase)-mediated deubiquitination of histone H2B [Source:SGD;Acc:S000004836]
+#>E	YMR223W.1	1.0	716715-718130
+XIII	716850	717029	1.0	Znf_UBP	0	716850-717029	PF02148	http://pfam.sanger.ac.uk/family?acc=PF02148
+XIII	717117	718109	1.0	Peptidase_C19	0	717117-718109	PF00443	http://pfam.sanger.ac.uk/family?acc=PF00443

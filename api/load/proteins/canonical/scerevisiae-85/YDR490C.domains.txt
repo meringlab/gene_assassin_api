@@ -1,0 +1,3 @@
+#>P	YDR490C	YDR490C	YDR490C	IV	1431971	1434268	-1	Serine/threonine protein kinase; involved in sphingolipid-mediated signaling pathway that controls endocytosis; activates Ypk1p and Ykr2p, components of signaling cascade required for maintenance of cell wall integrity; redundant with Pkh2p; PKH1 has a paralog, PKH2, that arose from the whole genome duplication [Source:SGD;Acc:S000002898]
+#>E	YDR490C.1	1.0	1431968-1434268
+IV	1433096	1433896	-1.0	Prot_kinase_cat_dom	0	1433096-1433896	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

@@ -1,0 +1,4 @@
+#>P	YLR136C	YLR136C	YLR136C	XII	415804	416658	-1	mRNA-binding protein expressed during iron starvation; binds to a sequence element in the 3'-untranslated regions of specific mRNAs to mediate their degradation; involved in iron homeostasis; protein increases in abundance and relative distribution to the nucleus increases upon DNA replication stress; TIS11 has a paralog, CTH1, that arose from the whole genome duplication [Source:SGD;Acc:S000004126]
+#>E	YLR136C.1	1.0	415801-416658
+XII	416074	416151	-1.0	Znf_CCCH	39.9	416074-416151	PF00642	http://pfam.sanger.ac.uk/family?acc=PF00642
+XII	415960	416037	-1.0	Znf_CCCH	28.7	415960-416037	PF00642	http://pfam.sanger.ac.uk/family?acc=PF00642

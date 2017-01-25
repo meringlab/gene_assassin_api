@@ -1,0 +1,3 @@
+#>P	YMR113W	YMR113W	YMR113W	XIII	494999	496279	1	Dihydrofolate synthetase, involved in folic acid biosynthesis; catalyzes conversion of dihydropteroate to dihydrofolate in folate coenzyme biosynthesis; FOL3 has a paralog, RMA1, that arose from the whole genome duplication [Source:SGD;Acc:S000004719]
+#>E	YMR113W.1	1.0	494999-496282
+XIII	495083	495733	1.0	Mur_ligase_cen	0	495083-495733	PF08245	http://pfam.sanger.ac.uk/family?acc=PF08245

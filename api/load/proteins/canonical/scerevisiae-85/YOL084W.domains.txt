@@ -1,0 +1,4 @@
+#>P	YOL084W	YOL084W	YOL084W	XV	162356	165328	1	Protein of unknown function; expression is regulated by phosphate levels; green fluorescent protein (GFP)-fusion protein localizes to the cell periphery and vacuole; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005444]
+#>E	YOL084W.1	1.0	162356-165331
+XV	163343	164323	1.0	DUF221	0	163343-164323	PF02714	http://pfam.sanger.ac.uk/family?acc=PF02714
+XV	165029	165313	1.0	DUF3779	0	165029-165313	PF12621	http://pfam.sanger.ac.uk/family?acc=PF12621

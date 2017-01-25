@@ -1,0 +1,4 @@
+#>P	YOL094C	YOL094C	YOL094C	XV	141587	142555	-1	Subunit of heteropentameric Replication factor C (RF-C); which is a DNA binding protein and ATPase that acts as a clamp loader of the proliferating cell nuclear antigen (PCNA) processivity factor for DNA polymerases delta and epsilon; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000005454]
+#>E	YOL094C.1	1.0	141584-142555
+XV	142070	142423	-1.0	ATPase_AAA_core	0	142070-142423	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+XV	141608	141871	-1.0	Rep_factor-C	0	141608-141871	PF08542	http://pfam.sanger.ac.uk/family?acc=PF08542

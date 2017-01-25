@@ -1,0 +1,7 @@
+#>P	YER164W	YER164W	YER164W	V	505392	509795	1	Chromatin remodeler that regulates various aspects of transcription; acts in in conjunction with Isw1b to regulate chromatin structure and maintain chromatin integrity during transcription elongation by RNAP II by preventing trans-histone exchange over coding regions; contains a chromo domain, a helicase domain and a DNA-binding domain; component of both the SAGA and SLIK complexes [Source:SGD;Acc:S000000966]
+#>E	YER164W.1	1.0	505392-509798
+V	507579	507818	1.0	Helicase_C	0	507579-507818	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+V	509481	509777	1.0	DUF4208	0	509481-509777	PF13907	http://pfam.sanger.ac.uk/family?acc=PF13907
+V	506526	507386	1.0	SNF2_N	0	506526-507386	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176
+V	505983	506096	1.0	Chromo_domain	0	505983-506096	PF00385	http://pfam.sanger.ac.uk/family?acc=PF00385
+V	506247	506414	1.0	Chromo_domain	0	506247-506414	PF00385	http://pfam.sanger.ac.uk/family?acc=PF00385

@@ -1,0 +1,5 @@
+#>P	YMR229C	YMR229C	YMR229C	XIII	725937	731123	-1	RNA binding protein involved in synthesis of both 18S and 5.8S rRNAs; component of both the ribosomal small subunit (SSU) processosome and the 90S preribosome; acts as part of a Mak21p-Noc2p-Rrp5p module that associates with nascent pre-rRNA during transcription and has a role in bigenesis of the large ribosomal subunit; has binding preference for single stranded tracts of U's; relocalizes from nucleolus to nucleus upon DNA replication stress [Source:SGD;Acc:S000004842]
+#>E	YMR229C.1	1.0	725934-731123
+XIII	727389	727601	-1.0	Rbsml_prot_S1_RNA-bd_dom	0	727389-727601	PF00575	http://pfam.sanger.ac.uk/family?acc=PF00575
+XIII	727116	727337	-1.0	Rbsml_prot_S1_RNA-bd_dom	0	727116-727337	PF00575	http://pfam.sanger.ac.uk/family?acc=PF00575
+XIII	729096	729311	-1.0	Rbsml_prot_S1_RNA-bd_dom	0	729096-729311	PF00575	http://pfam.sanger.ac.uk/family?acc=PF00575

@@ -1,0 +1,3 @@
+#>P	YDL204W	YDL204W	YDL204W	IV	94605	95783	1	Reticulon protein; stabilizes membrane curvature; involved in nuclear pore assembly and maintenance of tubular ER morphology; interacts with exocyst subunit Sec6p, Yip3p, and Sbh1p; much less abundant than Rtn1p; rtn1 rtn2 yop1 triple mutant lacks tubular ER; member of RTNLA (reticulon-like A) subfamily; protein increases in abundance and relocalizes to plasma membrane upon DNA replication stress; RTN2 has a paralog, RTN1, that arose from the whole genome duplication [Source:SGD;Acc:S000002363]
+#>E	YDL204W.1	1.0	94605-95786
+IV	94698	95165	1.0	Reticulon	0	94698-95165	PF02453	http://pfam.sanger.ac.uk/family?acc=PF02453

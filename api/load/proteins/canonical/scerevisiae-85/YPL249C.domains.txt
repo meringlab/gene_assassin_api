@@ -1,0 +1,3 @@
+#>P	YPL249C	YPL249C	YPL249C	XVI	76672	79353	-1	GTPase-activating protein (GAP) for yeast Rab family members; involved in ER to Golgi trafficking; exhibits GAP activity toward Ypt1p that is stimulated by Gyl1p, also acts on Sec4p; interacts with Gyl1p, Rvs161p and Rvs167p; involved in recruiting Rvs167p to the bud tip during polarized growth; relocalizes from bud neck to cytoplasm upon DNA replication stress; GYP5 has a paralog, GYL1, that arose from the whole genome duplication [Source:SGD;Acc:S000006170]
+#>E	YPL249C.1	1.0	76669-79353
+XVI	77413	77991	-1.0	RabGAP/TBC_dom	0	77413-77991	PF00566	http://pfam.sanger.ac.uk/family?acc=PF00566

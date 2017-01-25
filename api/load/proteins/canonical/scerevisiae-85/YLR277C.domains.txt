@@ -1,0 +1,6 @@
+#>P	YLR277C	YLR277C	YLR277C	XII	697159	699495	-1	Putative endoribonuclease; subunit of the mRNA cleavage and polyadenylation specificity complex; required for 3' processing, splicing, and transcriptional termination of mRNAs and snoRNAs; protein abundance increases in response to DNA replication stress; YSH1 has a paralog, SYC1, that arose from the whole genome duplication [Source:SGD;Acc:S000004267]
+#>E	YLR277C.1	1.0	697156-699495
+XII	698920	699444	-1.0	Beta-lactamas-like	0	698920-699444	PF00753	http://pfam.sanger.ac.uk/family?acc=PF00753
+XII	697162	697899	-1.0	CPSF73-100_C	0	697162-697899	PF11718	http://pfam.sanger.ac.uk/family?acc=PF11718
+XII	698371	698745	-1.0	Beta_Casp	0	698371-698745	PF10996	http://pfam.sanger.ac.uk/family?acc=PF10996
+XII	698197	698319	-1.0	RMMBL	0	698197-698319	PF07521	http://pfam.sanger.ac.uk/family?acc=PF07521

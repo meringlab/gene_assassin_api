@@ -1,0 +1,5 @@
+#>P	YMR217W	YMR217W	YMR217W	XIII	701790	703364	1	GMP synthase; highly conserved enzyme that catalyzes the second step in the biosynthesis of GMP from inosine 5'-phosphate (IMP); transcription is not subject to regulation by guanine but is negatively regulated by nutrient starvation; reduction-of-function mutation gua1-G388D causes changes in cellular guanine nucleotide pools, defects in general protein synthesis, and impaired translation of GCN4 mRNA [Source:SGD;Acc:S000004830]
+#>E	YMR217W.1	1.0	701790-703367
+XIII	702459	702692	1.0	NAD/GMP_synthase	0	702459-702692	PF02540	http://pfam.sanger.ac.uk/family?acc=PF02540
+XIII	703086	703361	1.0	GMP_synth_C	0	703086-703361	PF00958	http://pfam.sanger.ac.uk/family?acc=PF00958
+XIII	701832	702374	1.0	GATASE_1	0	701832-702374	PF00117	http://pfam.sanger.ac.uk/family?acc=PF00117

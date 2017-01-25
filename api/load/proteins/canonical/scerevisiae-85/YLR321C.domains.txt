@@ -1,0 +1,4 @@
+#>P	YLR321C	YLR321C	YLR321C	XII	776587	777864	-1	Component of the RSC chromatin remodeling complex; essential gene required for cell cycle progression and maintenance of proper ploidy; phosphorylated in the G1 phase of the cell cycle; Snf5p paralog [Source:SGD;Acc:S000004313]
+#>E	YLR321C.1	1.0	776584-777864
+XII	776665	777051	-1.0	SNF5	0	776665-777051	PF04855	http://pfam.sanger.ac.uk/family?acc=PF04855
+XII	777046	777270	-1.0	SNF5	0	777046-777270	PF04855	http://pfam.sanger.ac.uk/family?acc=PF04855

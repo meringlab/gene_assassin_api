@@ -1,0 +1,4 @@
+#>P	YKR044W	YKR044W	YKR044W	XI	522015	523343	1	Protein of unknown function that interacts with Ulp1p; a Ubl (ubiquitin-like protein)-specific protease for Smt3p protein conjugates [Source:SGD;Acc:S000001752]
+#>E	YKR044W.1	1.0	522015-523346
+XI	522525	522974	1.0	Lectin_leg	0	522525-522974	PF03388	http://pfam.sanger.ac.uk/family?acc=PF03388
+XI	522192	522446	1.0	Lectin_leg	0	522192-522446	PF03388	http://pfam.sanger.ac.uk/family?acc=PF03388

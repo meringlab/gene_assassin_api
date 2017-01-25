@@ -1,0 +1,3 @@
+#>P	YDR254W	YDR254W	YDR254W	IV	965113	966486	1	Outer kinetochore protein required for chromosome stability; involved in new kinetochore assembly and sister chromatid cohesion; forms a stable complex with Iml3p; peripheral component of the Ctf19 kinetochore complex that interacts with Ctf19p, Ctf3p, and Mif2p; required for the spindle assembly checkpoint; orthologous to human centromere constitutive-associated network (CCAN) subunit CENP-N and fission yeast mis15 [Source:SGD;Acc:S000002662]
+#>E	YDR254W.1	1.0	965113-966489
+IV	965155	966447	1.0	CHL4	0	965155-966447	PF05238	http://pfam.sanger.ac.uk/family?acc=PF05238

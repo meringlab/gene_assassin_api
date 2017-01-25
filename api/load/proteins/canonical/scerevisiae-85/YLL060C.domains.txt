@@ -1,0 +1,3 @@
+#>P	YLL060C	YLL060C	YLL060C	XII	21141	21839	-1	Glutathione S-transferase capable of homodimerization; functional overlap with Gtt2p, Grx1p, and Grx2p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003983]
+#>E	YLL060C.1	1.0	21138-21839
+XII	21180	21371	-1.0	GST_C	0	21180-21371	PF00043	http://pfam.sanger.ac.uk/family?acc=PF00043

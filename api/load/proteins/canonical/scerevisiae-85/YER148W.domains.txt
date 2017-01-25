@@ -1,0 +1,4 @@
+#>P	YER148W	YER148W	YER148W	V	465303	466022	1	TATA-binding protein; general transcription factor that interacts with other factors to form the preinitiation complex at promoters, essential for viability [Source:SGD;Acc:S000000950]
+#>E	YER148W.1	1.0	465303-466025
+V	465495	465743	1.0	TBP	0	465495-465743	PF00352	http://pfam.sanger.ac.uk/family?acc=PF00352
+V	465756	466013	1.0	TBP	0	465756-466013	PF00352	http://pfam.sanger.ac.uk/family?acc=PF00352

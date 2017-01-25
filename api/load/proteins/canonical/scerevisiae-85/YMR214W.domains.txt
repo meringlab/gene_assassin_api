@@ -1,0 +1,5 @@
+#>P	YMR214W	YMR214W	YMR214W	XIII	695350	696480	1	One of several homologs of bacterial chaperone DnaJ; located in the ER lumen where it cooperates with Kar2p to mediate maturation of proteins [Source:SGD;Acc:S000004827]
+#>E	YMR214W.1	1.0	695350-696483
+XIII	695854	696045	1.0	HSP_DnaJ_Cys-rich_dom	0	695854-696045	PF00684	http://pfam.sanger.ac.uk/family?acc=PF00684
+XIII	695416	695604	1.0	DnaJ_N	0	695416-695604	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226
+XIII	696220	696453	1.0	DnaJ_C	0	696220-696453	PF01556	http://pfam.sanger.ac.uk/family?acc=PF01556

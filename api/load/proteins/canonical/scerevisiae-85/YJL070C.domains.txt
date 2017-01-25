@@ -1,0 +1,3 @@
+#>P	YJL070C	YJL070C	YJL070C	X	307974	310637	-1	Putative metallo-dependent hydrolase superfamily protein; similar to AMP deaminases but lacks key catalytic residues and does not rescue purine nucleotide metabolic defect of quadruple aah1 ade8 amd1 his1 mutant; may regulate purine nucleotide homeostasis as overexpression in an AMD1 strain grown in adenine results in greatly reduced GDP and GTP intracellular levels; not an essential gene; YJL070C has a paralog, YBR284W, that arose from the whole genome duplication [Source:SGD;Acc:S000003606]
+#>E	YJL070C.1	1.0	307971-310637
+X	308160	308465	-1.0	A/AMP_deaminase_dom	0	308160-308465	PF00962	http://pfam.sanger.ac.uk/family?acc=PF00962

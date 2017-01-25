@@ -1,0 +1,4 @@
+#>P	YGR211W	YGR211W	YGR211W	VII	915241	916698	1	Essential protein with two zinc fingers; present in the nucleus of growing cells but relocates to the cytoplasm in starved cells via a process mediated by Cpr1p; binds to translation elongation factor eEF-1 (Tef1p); relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000003443]
+#>E	YGR211W.1	1.0	915241-916701
+VII	915394	915870	1.0	Znf_ZPR1	0	915394-915870	PF03367	http://pfam.sanger.ac.uk/family?acc=PF03367
+VII	916117	916599	1.0	Znf_ZPR1	0	916117-916599	PF03367	http://pfam.sanger.ac.uk/family?acc=PF03367

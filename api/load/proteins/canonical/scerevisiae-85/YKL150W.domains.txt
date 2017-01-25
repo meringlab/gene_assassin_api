@@ -1,0 +1,4 @@
+#>P	YKL150W	YKL150W	YKL150W	XI	166544	167449	1	Mitochondrial NADH-cytochrome b5 reductase; involved in ergosterol biosynthesis [Source:SGD;Acc:S000001633]
+#>E	YKL150W.1	1.0	166544-167452
+XI	167033	167359	1.0	OxRdtase_FAD/NAD-bd	0	167033-167359	PF00175	http://pfam.sanger.ac.uk/family?acc=PF00175
+XI	166709	167002	1.0	OxRdtase_FAD-bd_dom	0	166709-167002	PF00970	http://pfam.sanger.ac.uk/family?acc=PF00970

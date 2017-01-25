@@ -1,0 +1,3 @@
+#>P	YIR032C	YIR032C	YIR032C	IX	415033	415617	-1	Ureidoglycolate lyase; converts ureidoglycolate to glyoxylate and urea in the third step of allantoin degradation; expression is sensitive to nitrogen catabolite repression; this enzyme is sometimes referred to "ureidoglycolate hydrolase" but should not be confused with the Arabidopsis thaliana ureidoglycolate hydrolase enzyme which converts ureidoglycolate to glyoxylate, ammonia and carbon dioxide [Source:SGD;Acc:S000001471]
+#>E	YIR032C.1	1.0	415030-415617
+IX	415057	415614	-1.0	Ureidogly_hydro	0	415057-415614	PF04115	http://pfam.sanger.ac.uk/family?acc=PF04115

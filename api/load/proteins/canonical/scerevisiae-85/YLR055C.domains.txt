@@ -1,0 +1,3 @@
+#>P	YLR055C	YLR055C	YLR055C	XII	251275	253080	-1	Subunit of the SAGA transcriptional regulatory complex; not present in SAGA-like complex SLIK/SALSA; required for SAGA-mediated inhibition at some promoters [Source:SGD;Acc:S000004045]
+#>E	YLR055C.1	1.0	251272-253080
+XII	251488	251562	-1.0	WD40_repeat	0	251488-251562	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

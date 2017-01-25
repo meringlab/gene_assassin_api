@@ -1,0 +1,4 @@
+#>P	YOR393W	YOR393W	YOR393W	XV	1080276	1081586	1	Protein of unknown function; has similarity to enolases [Source:SGD;Acc:S000005920]
+#>E	YOR393W.1	1.0	1080276-1081589
+XV	1080282	1080677	1.0	Enolase_N	0	1080282-1080677	PF03952	http://pfam.sanger.ac.uk/family?acc=PF03952
+XV	1080708	1081571	1.0	Enolase_C	0	1080708-1081571	PF00113	http://pfam.sanger.ac.uk/family?acc=PF00113

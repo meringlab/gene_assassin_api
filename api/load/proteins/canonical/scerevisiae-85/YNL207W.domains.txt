@@ -1,0 +1,4 @@
+#>P	YNL207W	YNL207W	YNL207W	XIV	255353	256627	1	Essential serine kinase involved in the processing of 20S pre-rRNA; involved in the processing of the 20S pre-rRNA into mature 18S rRNA; has similarity to Rio1p [Source:SGD;Acc:S000005151]
+#>E	YNL207W.1	1.0	255353-256630
+XIV	255674	256210	1.0	RIO-like_kinase	144.1	255674-256210	PF01163	http://pfam.sanger.ac.uk/family?acc=PF01163
+XIV	255374	255625	1.0	RIO2_kinase_winged_hlx_N	107.4	255374-255625	PF09202	http://pfam.sanger.ac.uk/family?acc=PF09202

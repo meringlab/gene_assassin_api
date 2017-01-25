@@ -1,0 +1,5 @@
+#>P	YBR192W	YBR192W	YBR192W	II	607652	608782	1	Mitochondrial pyrimidine nucleotide transporter; imports pyrimidine nucleoside triphosphates and exports pyrimidine nucleoside monophosphates; member of the mitochondrial carrier family [Source:SGD;Acc:S000000396]
+#>E	YBR192W.1	1.0	607652-608785
+II	608513	608779	1.0	Mitochondrial_sb/sol_carrier	0	608513-608779	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+II	607799	608149	1.0	Mitochondrial_sb/sol_carrier	0	607799-608149	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+II	608168	608446	1.0	Mitochondrial_sb/sol_carrier	0	608168-608446	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

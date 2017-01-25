@@ -1,0 +1,3 @@
+#>P	YOR096W	YOR096W	YOR096W	XV	505794	506764	1	Protein component of the small (40S) ribosomal subunit; interacts with Kti11p; deletion causes hypersensitivity to zymocin; homologous to mammalian ribosomal protein S7, no bacterial homolog; RPS7A has a paralog, RPS7B, that arose from the whole genome duplication [Source:SGD;Acc:S000005622]
+#>E	YOR096W.1,YOR096W.2	1,1	505794-505937,506339-506767
+XV	505821	506758	1	Ribosomal_S7e	0	505821-505937,506339-506758	PF01251	http://pfam.sanger.ac.uk/family?acc=PF01251

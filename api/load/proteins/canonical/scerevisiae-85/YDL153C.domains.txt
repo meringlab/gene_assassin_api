@@ -1,0 +1,4 @@
+#>P	YDL153C	YDL153C	YDL153C	IV	181189	183018	-1	Subunit of U3-containing Small Subunit (SSU) processome complex; involved in production of 18S rRNA and assembly of small ribosomal subunit; disrupts silencing when overproduced; mutant has increased aneuploidy tolerance; essential gene [Source:SGD;Acc:S000002312]
+#>E	YDL153C.1	1.0	181186-183018
+IV	182128	182364	-1.0	Sas10/Utp3/C1D	0	182128-182364	PF04000	http://pfam.sanger.ac.uk/family?acc=PF04000
+IV	181195	181419	-1.0	Sas10_C	0	181195-181419	PF09368	http://pfam.sanger.ac.uk/family?acc=PF09368

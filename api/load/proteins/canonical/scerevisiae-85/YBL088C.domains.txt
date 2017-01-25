@@ -1,0 +1,5 @@
+#>P	YBL088C	YBL088C	YBL088C	II	51022	59382	-1	Protein kinase primarily involved in telomere length regulation; contributes to cell cycle checkpoint control in response to DNA damage; acts with Red1p and Mec1p to promote interhomolog recombination by phosphorylation of Hop1; functionally redundant with Mec1p; regulates P-body formation induced by replication stress; homolog of human ataxia-telangiectasia mutated (ATM) gene, the gene responsible for ataxia telangiectasia (AT) (OMIM 607585) [Source:SGD;Acc:S000000184]
+#>E	YBL088C.1	1.0	51019-59382
+II	58912	59382	-1.0	TAN	0	58912-59382	PF11640	http://pfam.sanger.ac.uk/family?acc=PF11640
+II	51277	51993	-1.0	PI3/4_kinase_cat_dom	0	51277-51993	PF00454	http://pfam.sanger.ac.uk/family?acc=PF00454
+II	51022	51117	-1.0	FATC	0	51022-51117	PF02260	http://pfam.sanger.ac.uk/family?acc=PF02260

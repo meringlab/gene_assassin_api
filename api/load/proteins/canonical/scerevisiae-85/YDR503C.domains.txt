@@ -1,0 +1,3 @@
+#>P	YDR503C	YDR503C	YDR503C	IV	1455045	1455866	-1	Lipid phosphate phosphatase; catalyzes Mg(2+)-independent dephosphorylation of phosphatidic acid (PA), lysophosphatidic acid, and diacylglycerol pyrophosphate; involved in control of the cellular levels of phosphatidylinositol and PA [Source:SGD;Acc:S000002911]
+#>E	YDR503C.1	1.0	1455042-1455866
+IV	1455090	1455512	-1.0	P_Acid_Pase_2/haloperoxidase	0	1455090-1455512	PF01569	http://pfam.sanger.ac.uk/family?acc=PF01569

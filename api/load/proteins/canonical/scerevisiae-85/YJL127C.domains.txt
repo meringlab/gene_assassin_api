@@ -1,0 +1,4 @@
+#>P	YJL127C	YJL127C	YJL127C	X	182301	184220	-1	Putative histone acetylase with a role in transcriptional silencing; sequence-specific activator of histone genes, binds specifically and cooperatively to pairs of UAS elements in core histone promoters, functions at or near the TATA box [Source:SGD;Acc:S000003663]
+#>E	YJL127C.1	1.0	182298-184220
+X	183054	183170	-1.0	Znf_H2C2_histone_UAS-bd	0	183054-183170	PF09337	http://pfam.sanger.ac.uk/family?acc=PF09337
+X	183564	183719	-1.0	AcTrfase_GCN5-related_dom	0	183564-183719	PF00583	http://pfam.sanger.ac.uk/family?acc=PF00583

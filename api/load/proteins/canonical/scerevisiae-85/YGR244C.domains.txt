@@ -1,0 +1,4 @@
+#>P	YGR244C	YGR244C	YGR244C	VII	978039	979319	-1	Beta subunit of succinyl-CoA ligase; succinyl-CoA ligase is a mitochondrial enzyme of the TCA cycle that catalyzes the nucleotide-dependent conversion of succinyl-CoA to succinate [Source:SGD;Acc:S000003476]
+#>E	YGR244C.1	1.0	978036-979319
+VII	978054	978416	-1.0	CoA_ligase	0	978054-978416	PF00549	http://pfam.sanger.ac.uk/family?acc=PF00549
+VII	978603	979223	-1.0	ATP-grasp_succ-CoA_synth-type	0	978603-979223	PF08442	http://pfam.sanger.ac.uk/family?acc=PF08442

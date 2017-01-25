@@ -1,0 +1,3 @@
+#>P	YDL136W	YDL136W	YDL136W	IV	217600	218364	1	Ribosomal 60S subunit protein L35B; homologous to mammalian ribosomal protein L35 and bacterial L29; RPL35B has a paralog, RPL35A, that arose from the whole genome duplication [Source:SGD;Acc:S000002295]
+#>E	YDL136W.1,YDL136W.2	1,1	217600-217602,218008-218367
+IV	218020	218187	1	Ribosomal_L29	0	218020-218187	PF00831	http://pfam.sanger.ac.uk/family?acc=PF00831

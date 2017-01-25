@@ -1,0 +1,6 @@
+#>P	YDL240W	YDL240W	YDL240W	IV	22823	25873	1	GTPase-activating protein (GAP); contains Rho1p-specific GAP activity, interacting with activated forms of Rho1p; functions along with Sac7p as a negative regulator of the Pkc1p-mediated cell wall integrity signaling pathway; negative regulator of cell wall 1,3-beta-glucan biosynthesis; required for efficient cell fusion; contains a RhoGAP domain and three Lin-11-Isl1-Mec-3 (LIM) domains [Source:SGD;Acc:S000002399]
+#>E	YDL240W.1	1.0	22823-25876
+IV	23114	23281	1.0	Znf_LIM	0	23114-23281	PF00412	http://pfam.sanger.ac.uk/family?acc=PF00412
+IV	22904	23104	1.0	Znf_LIM	0	22904-23104	PF00412	http://pfam.sanger.ac.uk/family?acc=PF00412
+IV	24077	24253	1.0	Znf_LIM	0	24077-24253	PF00412	http://pfam.sanger.ac.uk/family?acc=PF00412
+IV	25085	25543	1.0	RhoGAP_dom	0	25085-25543	PF00620	http://pfam.sanger.ac.uk/family?acc=PF00620

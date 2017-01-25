@@ -1,0 +1,3 @@
+#>P	YER077C	YER077C	YER077C	V	314537	316600	-1	Putative protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the mitochondrion; null mutation results in a decrease in plasma membrane electron transport [Source:SGD;Acc:S000000879]
+#>E	YER077C.1	1.0	314534-316600
+V	315863	316015	-1.0	Pentatricopeptide_repeat	0	315863-316015	PF13041	http://pfam.sanger.ac.uk/family?acc=PF13041

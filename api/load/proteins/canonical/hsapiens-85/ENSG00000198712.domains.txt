@@ -1,0 +1,4 @@
+#>P	ENSG00000198712	ENST00000361739	ENSP00000354876	MT	7586	8266	1	mitochondrially encoded cytochrome c oxidase II [Source:HGNC Symbol;Acc:HGNC:7421]
+#>E	ENSE00001435613	1.0	7586-8269
+MT	7586	7834	1.0	Cyt_c_oxidase_su2_TM_dom	89	7586-7834	PF02790	http://pfam.sanger.ac.uk/family?acc=PF02790
+MT	7868	8224	1.0	Cyt_c_oxidase_su2_C	206.3	7868-8224	PF00116	http://pfam.sanger.ac.uk/family?acc=PF00116

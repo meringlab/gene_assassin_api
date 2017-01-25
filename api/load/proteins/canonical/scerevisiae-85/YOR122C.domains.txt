@@ -1,0 +1,3 @@
+#>P	YOR122C	YOR122C	YOR122C	XV	552301	552887	-1	Profilin; binds actin, phosphatidylinositol 4,5-bisphosphate, and polyproline regions; involved in cytoskeleton organization; required for normal timing of actin polymerization in response to thermal stress; protein abundance increases in response to DNA replication stress; highly conserved protein; human PFN1 (profilin 1) complements temperature sensitive pfy1 mutants, PFN1 mutations are a rare cause of ALS [Source:SGD;Acc:S000005648]
+#>E	YOR122C.2,YOR122C.1	1,1	552298-552665,552875-552887
+XV	552316	552884	-1	Profilin	0	552316-552665,552875-552884	PF00235	http://pfam.sanger.ac.uk/family?acc=PF00235

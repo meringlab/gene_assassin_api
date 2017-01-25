@@ -1,0 +1,5 @@
+#>P	YDR380W	YDR380W	YDR380W	IV	1234218	1236122	1	Phenylpyruvate decarboxylase; catalyzes decarboxylation of phenylpyruvate to phenylacetaldehyde, which is the first specific step in the Ehrlich pathway; involved in protein N-terminal Met and Ala catabolism [Source:SGD;Acc:S000002788]
+#>E	YDR380W.1	1.0	1234218-1236125
+IV	1234947	1235324	1.0	Thiamin_PyroP_enz_cen_dom	0	1234947-1235324	PF00205	http://pfam.sanger.ac.uk/family?acc=PF00205
+IV	1235547	1235873	1.0	TPP_enzyme-bd_C	0	1235547-1235873	PF02775	http://pfam.sanger.ac.uk/family?acc=PF02775
+IV	1234299	1234865	1.0	Thiamin_PyroP_enz_TPP-bd_dom	0	1234299-1234865	PF02776	http://pfam.sanger.ac.uk/family?acc=PF02776

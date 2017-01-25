@@ -1,0 +1,5 @@
+#>P	YLR090W	YLR090W	YLR090W	XII	320701	322077	1	Chaperone with a role in facilitating mitochondrial protein import; ascomycete-specific member of the DnaJ-like family, closely related to Ydj1p; predicted to be C-terminally prenylated; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies [Source:SGD;Acc:S000004080]
+#>E	YLR090W.1	1.0	320701-322080
+XII	321175	321402	1.0	HSP_DnaJ_Cys-rich_dom	0	321175-321402	PF00684	http://pfam.sanger.ac.uk/family?acc=PF00684
+XII	320728	320922	1.0	DnaJ_N	0	320728-320922	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226
+XII	321607	321837	1.0	DnaJ_C	0	321607-321837	PF01556	http://pfam.sanger.ac.uk/family?acc=PF01556

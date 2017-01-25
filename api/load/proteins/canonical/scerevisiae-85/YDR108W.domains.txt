@@ -1,0 +1,3 @@
+#>P	YDR108W	YDR108W	YDR108W	IV	671269	673362	1	Component of transport protein particle (TRAPP) complex III; TRAPPIII is a multimeric guanine nucleotide-exchange factor for the GTPase Ypt1p, regulating endosome-Golgi traffic and required for membrane expansion during autophagy and the CVT pathway; directs Ypt1p to the PAS; late post-replication meiotic role [Source:SGD;Acc:S000002515]
+#>E	YDR108W.1	1.0	671269-673365
+IV	671926	673263	1.0	TRAPP_III_complex_Trs85	0	671926-673263	PF12739	http://pfam.sanger.ac.uk/family?acc=PF12739

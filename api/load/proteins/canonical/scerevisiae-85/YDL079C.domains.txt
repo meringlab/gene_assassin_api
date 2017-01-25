@@ -1,0 +1,3 @@
+#>P	YDL079C	YDL079C	YDL079C	IV	312954	314748	-1	Glycogen synthase kinase 3 (GSK-3) homolog; one of four GSK-3 homologs in S. cerevisiae that function to activate Msn2p-dependent transcription of stress responsive genes and that function in protein degradation; MRK1 has a paralog, RIM11, that arose from the whole genome duplication [Source:SGD;Acc:S000002237]
+#>E	YDL079C.2,YDL079C.1	1,1	312951-314044,314337-314748
+IV	313116	313961	-1	Prot_kinase_cat_dom	0	313116-313961	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

@@ -1,0 +1,3 @@
+#>P	YHR123W	YHR123W	YHR123W	VIII	354815	356078	1	sn-1,2-diacylglycerol ethanolamine- and cholinephosphotranferase; not essential for viability; EPT1 has a paralog, CPT1, that arose from the whole genome duplication [Source:SGD;Acc:S000001165]
+#>E	YHR123W.1,YHR123W.2	1,1	354815-354864,354956-356081
+VIII	355035	355373	1	CDP-OH_P_trans	0	355035-355373	PF01066	http://pfam.sanger.ac.uk/family?acc=PF01066

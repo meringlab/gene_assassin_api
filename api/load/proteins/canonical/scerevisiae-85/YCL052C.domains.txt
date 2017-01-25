@@ -1,0 +1,3 @@
+#>P	YCL052C	YCL052C	YCL052C	III	34146	35393	-1	Component of glycosylphosphatidylinositol-mannosyltransferase I; essential component; required for the autocatalytic post-translational processing of the protease B precursor Prb1p; localizes to ER in lumenal orientation; homolog of mammalian PIG-X [Source:SGD;Acc:S000000557]
+#>E	YCL052C.1	1.0	34143-35393
+III	34179	34724	-1.0	PIG-X/PBN1	0	34179-34724	PF08320	http://pfam.sanger.ac.uk/family?acc=PF08320

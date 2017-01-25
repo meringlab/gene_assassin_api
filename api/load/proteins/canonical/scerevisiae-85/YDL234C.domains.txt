@@ -1,0 +1,3 @@
+#>P	YDL234C	YDL234C	YDL234C	IV	34240	36477	-1	GTPase-activating protein for yeast Rab family members; members include Ypt7p (most effective), Ypt1p, Ypt31p, and Ypt32p (in vitro); involved in vesicle mediated protein trafficking [Source:SGD;Acc:S000002393]
+#>E	YDL234C.1	1.0	34237-36477
+IV	34513	34962	-1.0	RabGAP/TBC_dom	0	34513-34962	PF00566	http://pfam.sanger.ac.uk/family?acc=PF00566

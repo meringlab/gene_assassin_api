@@ -1,0 +1,3 @@
+#>P	YJR049C	YJR049C	YJR049C	X	526887	528476	-1	ATP-NADH kinase; phosphorylates both NAD and NADH; active as a hexamer; enhances the activity of ferric reductase (Fre1p); UTR1 has a paralog, YEF1, that arose from the whole genome duplication [Source:SGD;Acc:S000003810]
+#>E	YJR049C.1	1.0	526884-528476
+X	527196	528089	-1.0	polyP/ATP_NADK_prd	0	527196-528089	PF01513	http://pfam.sanger.ac.uk/family?acc=PF01513

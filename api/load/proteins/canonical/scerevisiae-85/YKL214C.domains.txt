@@ -1,0 +1,3 @@
+#>P	YKL214C	YKL214C	YKL214C	XI	31085	31693	-1	Member of the REF (RNA and export factor binding proteins) family; when overexpressed, can substitute for the function of Yra1p in export of poly(A)+ mRNA from the nucleus [Source:SGD;Acc:S000001697]
+#>E	YKL214C.1	1.0	31082-31693
+XI	31301	31498	-1.0	RRM_dom	0	31301-31498	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

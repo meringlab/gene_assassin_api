@@ -1,0 +1,4 @@
+#>P	YNL021W	YNL021W	YNL021W	XIV	593227	595344	1	Putative catalytic subunit of a class II histone deacetylase complex; role in azole resistance via Hsp90p, and in the heat shock response; Hda1p interacts with the Hda2p-Hda3p subcomplex to form an active tetramer; deletion increases histone H2B, H3 and H4 acetylation; other members of the HDA1 histone deacetylase complex are Hda2p and Hda3p [Source:SGD;Acc:S000004966]
+#>E	YNL021W.1	1.0	593227-595347
+XIV	593458	594408	1.0	His_deacetylse_dom	0	593458-594408	PF00850	http://pfam.sanger.ac.uk/family?acc=PF00850
+XIV	594418	594963	1.0	Arb2_domain	0	594418-594963	PF09757	http://pfam.sanger.ac.uk/family?acc=PF09757

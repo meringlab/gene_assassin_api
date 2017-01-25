@@ -1,0 +1,3 @@
+#>P	YOL018C	YOL018C	YOL018C	XV	290884	292074	-1	Syntaxin-like t-SNARE; forms a complex with Tlg1p and Vti1p and mediates fusion of endosome-derived vesicles with the late Golgi; binds Vps45p, which prevents Tlg2p degradation and also facilitates t-SNARE complex formation; homologous to mammalian SNARE protein syntaxin 16 (Sx16) [Source:SGD;Acc:S000005378]
+#>E	YOL018C.1	1.0	290881-292074
+XV	291142	291330	-1.0	T_SNARE_dom	66.4	291142-291330	PF05739	http://pfam.sanger.ac.uk/family?acc=PF05739

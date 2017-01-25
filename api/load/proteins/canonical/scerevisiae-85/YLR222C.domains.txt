@@ -1,0 +1,10 @@
+#>P	YLR222C	YLR222C	YLR222C	XII	579321	581771	-1	Nucleolar protein; component of the small subunit (SSU) processome containing the U3 snoRNA that is involved in processing of pre-18S rRNA [Source:SGD;Acc:S000004212]
+#>E	YLR222C.1	1.0	579318-581771
+XII	579330	579776	-1.0	SSU_processome_Utp13	0	579330-579776	PF08625	http://pfam.sanger.ac.uk/family?acc=PF08625
+XII	579837	579953	-1.0	WD40_repeat	0	579837-579953	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	580089	580202	-1.0	WD40_repeat	0	580089-580202	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	581244	581363	-1.0	WD40_repeat	0	581244-581363	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	579963	580070	-1.0	WD40_repeat	0	579963-580070	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	581100	581234	-1.0	WD40_repeat	0	581100-581234	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	580527	580625	-1.0	WD40_repeat	0	580527-580625	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	580215	580316	-1.0	WD40_repeat	0	580215-580316	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

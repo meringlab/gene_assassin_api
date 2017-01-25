@@ -1,0 +1,4 @@
+#>P	YOR245C	YOR245C	YOR245C	XV	794079	795332	-1	Diacylglycerol acyltransferase; catalyzes the terminal step of triacylglycerol (TAG) formation, acylates diacylglycerol using acyl-CoA as an acyl donor; Lro1p and Dga1p can O-acylate ceramides; localized to lipid particles [Source:SGD;Acc:S000005771]
+#>E	YOR245C.1	1.0	794076-795332
+XV	794097	794777	-1.0	DAGAT	242.9	794097-794777	PF03982	http://pfam.sanger.ac.uk/family?acc=PF03982
+XV	794904	795083	-1.0	DAGAT	30.1	794904-795083	PF03982	http://pfam.sanger.ac.uk/family?acc=PF03982

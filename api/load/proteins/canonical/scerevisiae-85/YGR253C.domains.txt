@@ -1,0 +1,4 @@
+#>P	YGR253C	YGR253C	YGR253C	VII	998361	999140	-1	Alpha 5 subunit of the 20S proteasome; involved in ubiquitin-dependent catabolism; human homolog is subunit zeta [Source:SGD;Acc:S000003485]
+#>E	YGR253C.1	1.0	998358-999140
+VII	999051	999119	-1.0	Proteasome_asu_N	0	999051-999119	PF10584	http://pfam.sanger.ac.uk/family?acc=PF10584
+VII	998481	999050	-1.0	Proteasome_sua/b	0	998481-999050	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227

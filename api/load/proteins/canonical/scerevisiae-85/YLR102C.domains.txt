@@ -1,0 +1,3 @@
+#>P	YLR102C	YLR102C	YLR102C	XII	342973	343767	-1	Subunit of the Anaphase-Promoting Complex/Cyclosome (APC/C); APC/C is a ubiquitin-protein ligase required for degradation of anaphase inhibitors, including mitotic cyclins, during the metaphase/anaphase transition [Source:SGD;Acc:S000004092]
+#>E	YLR102C.1	1.0	342970-343767
+XII	343258	343569	-1.0	APC_su9	0	343258-343569	PF12856	http://pfam.sanger.ac.uk/family?acc=PF12856

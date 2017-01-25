@@ -1,0 +1,3 @@
+#>P	YBR106W	YBR106W	YBR106W	II	452658	453221	1	Probable membrane protein; involved in phosphate transport; role in the maturation of secretory proteins; pho88 pho86 double null mutant exhibits enhanced synthesis of repressible acid phosphatase at high inorganic phosphate concentrations [Source:SGD;Acc:S000000310]
+#>E	YBR106W.1	1.0	452658-453224
+II	452658	453221	1.0	Phosphate_transporter_Pho88	0	452658-453221	PF10032	http://pfam.sanger.ac.uk/family?acc=PF10032

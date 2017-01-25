@@ -1,0 +1,3 @@
+#>P	YDR138W	YDR138W	YDR138W	IV	730578	732833	1	Subunit of THO/TREX complexes; this complex couple transcription elongation with mitotic recombination and with mRNA metabolism and export, subunit of an RNA Pol II complex; regulates lifespan; involved in telomere maintenance; similar to Top1p [Source:SGD;Acc:S000002545]
+#>E	YDR138W.1	1.0	730578-732836
+IV	730866	732482	1.0	THO_THOC1	0	730866-732482	PF11957	http://pfam.sanger.ac.uk/family?acc=PF11957

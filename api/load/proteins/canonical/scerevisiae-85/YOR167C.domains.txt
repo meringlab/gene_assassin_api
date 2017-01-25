@@ -1,0 +1,3 @@
+#>P	YOR167C	YOR167C	YOR167C	XV	648807	649007	-1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S28, no bacterial homolog; has an extraribosomal function in regulation of RPS28B, in which Rps28Ap binds to a decapping complex via Edc3p, which then binds to RPS28B mRNA leading to its decapping and degradation; RPS28A has a paralog, RPS28B, that arose from the whole genome duplication [Source:SGD;Acc:S000005693]
+#>E	YOR167C.1	1.0	648804-649007
+XV	648807	649007	-1.0	Ribosomal_S28e	0	648807-649007	PF01200	http://pfam.sanger.ac.uk/family?acc=PF01200

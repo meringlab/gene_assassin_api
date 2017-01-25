@@ -1,0 +1,4 @@
+#>P	YDR516C	YDR516C	YDR516C	IV	1474977	1476476	-1	Non-essential protein of unknown function; required for transcriptional induction of the early meiotic-specific transcription factor IME1; required for sporulation; expression regulated by glucose-repression transcription factors Mig1/2p; EMI2 has a paralog, GLK1, that arose from the whole genome duplication; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002924]
+#>E	YDR516C.1	1.0	1474974-1476476
+IV	1475784	1476437	-1.0	Hexokinase_N	0	1475784-1476437	PF00349	http://pfam.sanger.ac.uk/family?acc=PF00349
+IV	1474977	1475747	-1.0	Hexokinase_C	0	1474977-1475747	PF03727	http://pfam.sanger.ac.uk/family?acc=PF03727

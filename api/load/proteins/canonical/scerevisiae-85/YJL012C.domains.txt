@@ -1,0 +1,6 @@
+#>P	YJL012C	YJL012C	YJL012C	X	411237	413399	-1	Vacuolar membrane polyphosphate polymerase; subunit of the vacuolar transporter chaperone (VTC) complex involved in synthesis and transfer of polyP to the vacuole; regulates membrane trafficking; role in non-autophagic vacuolar fusion; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003549]
+#>E	YJL012C.1	1.0	411234-413399
+X	412002	412817	-1.0	VTC_domain	0	412002-412817	PF09359	http://pfam.sanger.ac.uk/family?acc=PF09359
+X	412977	413132	-1.0	SPX_N	0	412977-413132	PF03105	http://pfam.sanger.ac.uk/family?acc=PF03105
+X	413145	413399	-1.0	SPX_N	0	413145-413399	PF03105	http://pfam.sanger.ac.uk/family?acc=PF03105
+X	411354	411536	-1.0	DUF202	0	411354-411536	PF02656	http://pfam.sanger.ac.uk/family?acc=PF02656

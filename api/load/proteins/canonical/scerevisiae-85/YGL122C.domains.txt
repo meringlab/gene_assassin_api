@@ -1,0 +1,3 @@
+#>P	YGL122C	YGL122C	YGL122C	VII	278949	280523	-1	Nuclear polyadenylated RNA-binding protein; required for nuclear mRNA export and poly(A) tail length control; binds nuclear pore protein Mlp1p; involved in forming export-competent mRNPs in the nucleus; autoregulates mRNA levels; related to human hnRNPs; nuclear localization sequence binds Kap104p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003090]
+#>E	YGL122C.1	1.0	278946-280523
+VII	280212	280523	-1.0	Poly(A)_RNA-bd_protein_2_Nab2	0	280212-280523	PF11517	http://pfam.sanger.ac.uk/family?acc=PF11517

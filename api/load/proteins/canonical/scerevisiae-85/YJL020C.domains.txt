@@ -1,0 +1,3 @@
+#>P	YJL020C	YJL020C	YJL020C	X	398940	402410	-1	Protein possibly involved in assembly of actin patches; interacts with an actin assembly factor Las17p and with the SH3 domains of Type I myosins Myo3p and Myo5p; localized predominantly to cortical actin patches [Source:SGD;Acc:S000003557]
+#>E	YJL020C.1	1.0	398937-402410
+X	402231	402380	-1.0	SH3_domain	0	402231-402380	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018

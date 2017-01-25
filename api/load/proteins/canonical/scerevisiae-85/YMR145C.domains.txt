@@ -1,0 +1,4 @@
+#>P	YMR145C	YMR145C	YMR145C	XIII	554796	556475	-1	Mitochondrial external NADH dehydrogenase; type II NAD(P)H:quinone oxidoreductase that catalyzes the oxidation of cytosolic NADH; Nde1p and Nde2p provide cytosolic NADH to the mitochondrial respiratory chain; NDE1 has a paralog, NDE2, that arose from the whole genome duplication [Source:SGD;Acc:S000004753]
+#>E	YMR145C.1	1.0	554793-556475
+XIII	555402	555647	-1.0	Pyr_OxRdtase_NAD-bd_dom	0	555402-555647	PF00070	http://pfam.sanger.ac.uk/family?acc=PF00070
+XIII	555717	556133	-1.0	Pyr_nucl-diS_OxRdtase_FAD/NAD	0	555717-556133	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992

@@ -1,0 +1,3 @@
+#>P	YNR003C	YNR003C	YNR003C	XIV	634347	635297	-1	RNA polymerase III subunit C34; interacts with TFIIIB70 and is a key determinant in pol III recruitment by the preinitiation complex [Source:SGD;Acc:S000005286]
+#>E	YNR003C.1	1.0	634344-635297
+XIV	634350	635288	-1.0	RNA_pol_Rpc34	0	634350-635288	PF05158	http://pfam.sanger.ac.uk/family?acc=PF05158

@@ -1,0 +1,7 @@
+#>P	YNL049C	YNL049C	YNL049C	XIV	535284	537911	-1	Component of the Sec23p-Sfb2p heterodimer of the COPII vesicle coat; required for cargo selection during vesicle formation in ER to Golgi transport; homologous to Sfb3p; SFB2 has a paralog, SEC24, that arose from the whole genome duplication [Source:SGD;Acc:S000004994]
+#>E	YNL049C.1	1.0	535281-537911
+XIV	535788	536102	-1.0	Sec23/24_helical_dom	0	535788-536102	PF04815	http://pfam.sanger.ac.uk/family?acc=PF04815
+XIV	537324	537431	-1.0	Znf_Sec23_Sec24	0	537324-537431	PF04810	http://pfam.sanger.ac.uk/family?acc=PF04810
+XIV	536400	537212	-1.0	Sec23/24_trunk_dom	0	536400-537212	PF04811	http://pfam.sanger.ac.uk/family?acc=PF04811
+XIV	535497	535721	-1.0	Gelsolin_dom	0	535497-535721	PF00626	http://pfam.sanger.ac.uk/family?acc=PF00626
+XIV	536139	536384	-1.0	Sec23_24_beta_S	0	536139-536384	PF08033	http://pfam.sanger.ac.uk/family?acc=PF08033

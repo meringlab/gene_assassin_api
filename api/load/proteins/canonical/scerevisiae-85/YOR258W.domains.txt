@@ -1,0 +1,3 @@
+#>P	YOR258W	YOR258W	YOR258W	XV	811671	812321	1	DNA 5' AMP hydrolase involved in DNA repair; member of the histidine triad (HIT) superfamily of nucleotide-binding proteins; homolog of Aprataxin, a Hint related protein that is mutated in individuals with ataxia with oculomotor apraxia; relative distribution to nuclear foci decreases upon DNA replication stress [Source:SGD;Acc:S000005784]
+#>E	YOR258W.1	1.0	811671-812324
+XV	811716	812087	1.0	Histidine_triad_HIT	0	811716-812087	PF01230	http://pfam.sanger.ac.uk/family?acc=PF01230

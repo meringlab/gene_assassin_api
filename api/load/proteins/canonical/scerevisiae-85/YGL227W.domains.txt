@@ -1,0 +1,4 @@
+#>P	YGL227W	YGL227W	YGL227W	VII	69671	72544	1	Central component of GID Complex, involved in FBPase degradation; interacts strongly with Gid8p to serve as a scaffold for other GID Complex subunits; contains SPRY domain and 3 domains that are also found in Gid8p - LisH, CTLH, and CRA; required for association of Vid vesicles and actin patches in vacuole import and degradation pathway; shifts the balance of nitrogen metabolism toward glutamate production; localizes to the nucleus and the cytoplasm [Source:SGD;Acc:S000003196]
+#>E	YGL227W.1	1.0	69671-72547
+VII	70871	71443	1.0	SPRY_rcpt	0	70871-71443	PF00622	http://pfam.sanger.ac.uk/family?acc=PF00622
+VII	71978	72457	1.0	CTLH/CRA	0	71978-72457	PF10607	http://pfam.sanger.ac.uk/family?acc=PF10607

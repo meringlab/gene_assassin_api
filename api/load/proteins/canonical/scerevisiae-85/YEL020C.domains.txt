@@ -1,0 +1,5 @@
+#>P	YEL020C	YEL020C	YEL020C	V	118620	120299	-1	Protein of unknown function with low sequence identity to Pdc1p; mRNA identified as translated by ribosome profiling data [Source:SGD;Acc:S000000746]
+#>E	YEL020C.1	1.0	118617-120299
+V	119802	120290	-1.0	Thiamin_PyroP_enz_TPP-bd_dom	0	119802-120290	PF02776	http://pfam.sanger.ac.uk/family?acc=PF02776
+V	119319	119717	-1.0	Thiamin_PyroP_enz_cen_dom	0	119319-119717	PF00205	http://pfam.sanger.ac.uk/family?acc=PF00205
+V	118680	119123	-1.0	TPP_enzyme-bd_C	0	118680-119123	PF02775	http://pfam.sanger.ac.uk/family?acc=PF02775

@@ -1,0 +1,8 @@
+#>P	YJL080C	YJL080C	YJL080C	X	285561	289226	-1	Essential RNA-binding G protein effector of mating response pathway; ligand-activated RNA-binding protein that delivers RNAs involved in polarization and perpetualizing mating signal to shmoo tip during pheromone signaling; Scp160p-mediated RNA trafficking essential for chemotropism and successful mating; mainly associated with nuclear envelope and ER, interacts in mRNA-dependent manner with translating ribosomes via multiple KH domains, similar to vertebrate vigilins [Source:SGD;Acc:S000003616]
+#>E	YJL080C.1	1.0	285558-289226
+X	287121	287318	-1.0	KH_type_1	0	287121-287318	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013
+X	286224	286406	-1.0	KH_type_1	0	286224-286406	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013
+X	286677	286874	-1.0	KH_type_1	0	286677-286874	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013
+X	286917	287087	-1.0	KH_type_1	0	286917-287087	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013
+X	285579	285725	-1.0	KH_type_1	0	285579-285725	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013
+X	288480	288689	-1.0	KH_type_1	0	288480-288689	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013

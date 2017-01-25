@@ -1,0 +1,3 @@
+#>P	YBR006W	YBR006W	YBR006W	II	247010	248500	1	Succinate semialdehyde dehydrogenase; involved in the utilization of gamma-aminobutyrate (GABA) as a nitrogen source; part of the 4-aminobutyrate and glutamate degradation pathways; localized to the cytoplasm [Source:SGD;Acc:S000000210]
+#>E	YBR006W.1	1.0	247010-248503
+II	247088	248473	1.0	Aldehyde_DH_dom	0	247088-248473	PF00171	http://pfam.sanger.ac.uk/family?acc=PF00171

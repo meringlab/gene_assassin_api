@@ -1,0 +1,4 @@
+#>P	YNL329C	YNL329C	YNL329C	XIV	19544	22633	-1	AAA-peroxin; heterodimerizes with AAA-peroxin Pex1p and participates in the recycling of peroxisomal signal receptor Pex5p from the peroxisomal membrane to the cystosol [Source:SGD;Acc:S000005273]
+#>E	YNL329C.1	1.0	19541-22633
+XIV	19937	20332	-1.0	ATPase_AAA_core	0	19937-20332	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+XIV	20780	21196	-1.0	ATPase_AAA_core	0	20780-21196	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

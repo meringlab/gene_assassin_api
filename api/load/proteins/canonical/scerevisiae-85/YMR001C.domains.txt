@@ -1,0 +1,5 @@
+#>P	YMR001C	YMR001C	YMR001C	XIII	269022	271136	-1	Polo-like kinase; controls targeting and activation of Rho1p at cell division site via Rholp guanine nucleotide exchange factors; regulates Spc72p; also functions in adaptation to DNA damage during meiosis; has similarity to Xenopus Plx1 and S. pombe Plo1p; possible Cdc28p substrate [Source:SGD;Acc:S000004603]
+#>E	YMR001C.1	1.0	269019-271136
+XIII	269061	269279	-1.0	POLO_box_duplicated_dom	0	269061-269279	PF00659	http://pfam.sanger.ac.uk/family?acc=PF00659
+XIII	269379	269579	-1.0	POLO_box_duplicated_dom	0	269379-269579	PF00659	http://pfam.sanger.ac.uk/family?acc=PF00659
+XIII	270126	270890	-1.0	Prot_kinase_cat_dom	0	270126-270890	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

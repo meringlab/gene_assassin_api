@@ -1,0 +1,3 @@
+#>P	YNL293W	YNL293W	YNL293W	XIV	80640	82538	1	Rab GTPase-activating protein; regulates endocytosis via inactivation of Vps21p at endosomes and vacuole fusion via inactivation of Ypt7p at vacuoles; also acts on Ypt52p and Sec4p; required for proper actin organization; also localizes to plasma membrane and sites of polarized growth; relocalizes from bud neck to cytoplasm upon DNA replication stress; similar to the TBC-domain Tre2 oncogene; MSB3 has a paralog, MSB4, that arose from the whole genome duplication [Source:SGD;Acc:S000005237]
+#>E	YNL293W.1	1.0	80640-82541
+XIV	81318	82061	1.0	RabGAP/TBC_dom	0	81318-82061	PF00566	http://pfam.sanger.ac.uk/family?acc=PF00566

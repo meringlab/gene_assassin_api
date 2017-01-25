@@ -1,0 +1,4 @@
+#>P	YOR251C	YOR251C	YOR251C	XV	802553	803464	-1	Rhodanese domain sulfur transferase; accepts persulfite from Nfs1p and transfers it to Uba4p in the pathway for 2-thiolation of the wobble uridine base of tRNAs; also stimulates sulfur transfer by Nfs1p; may be mitochondrially localized [Source:SGD;Acc:S000005777]
+#>E	YOR251C.1	1.0	802550-803464
+XV	803096	803323	-1.0	Rhodanese-like	0	803096-803323	PF00581	http://pfam.sanger.ac.uk/family?acc=PF00581
+XV	802592	802930	-1.0	Rhodanese-like	0	802592-802930	PF00581	http://pfam.sanger.ac.uk/family?acc=PF00581

@@ -1,0 +1,4 @@
+#>P	YIL177C	YIL177C	YIL177C	IX	486	6147	-1	Putative Y' element ATP-dependent helicase [Source:SGD;Acc:S000001439]
+#>E	YIL177C.2,YIL177C.1	1,1	483-4598,4987-6147
+IX	3264	3737	-1	DNA/RNA_helicase_DEAD/DEAH_N	0	3264-3737	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+IX	2745	2954	-1	Helicase_C	0	2745-2954	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

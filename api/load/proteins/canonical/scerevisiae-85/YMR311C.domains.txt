@@ -1,0 +1,3 @@
+#>P	YMR311C	YMR311C	YMR311C	XIII	896917	897603	-1	Regulatory subunit of protein phosphatase 1 (Glc7p); involved in glycogen metabolism and chromosome segregation; proposed to regulate Glc7p activity via conformational alteration; ortholog of the mammalian protein phosphatase inhibitor 2; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004928]
+#>E	YMR311C.1	1.0	896914-897603
+XIII	896932	897333	-1.0	PPI-2	0	896932-897333	PF04979	http://pfam.sanger.ac.uk/family?acc=PF04979

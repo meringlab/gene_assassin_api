@@ -1,0 +1,3 @@
+#>P	YJR010C-A	YJR010C-A	YJR010C-A	X	458080	458361	-1	Subunit of the signal peptidase complex (SPC); SPC cleaves the signal sequence from proteins targeted to the endoplasmic reticulum (ER); homolog of the SPC12 subunit of mammalian signal peptidase complex; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003770]
+#>E	YJR010C-A.1	1.0	458077-458361
+X	458098	458316	-1.0	SPC12	0	458098-458316	PF06645	http://pfam.sanger.ac.uk/family?acc=PF06645

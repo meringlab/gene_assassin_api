@@ -1,0 +1,4 @@
+#>P	Q0115	Q0115	Q0115	Mito	36540	40262	1	Mitochondrial mRNA maturase; forms a complex with Mrs1p to mediate splicing of the bI3 intron of the COB gene; encoded by both exon and intron sequences of partially processed COB mRNA [Source:SGD;Acc:S000007272]
+#>E	Q0115.1,Q0115.2,Q0115.3	1,1,1	36540-36954,37723-37736,39141-40265
+Mito	39516	39818	1	Endonuc_LAG/HNH	0	39516-39818	PF00961	http://pfam.sanger.ac.uk/family?acc=PF00961
+Mito	39924	40208	1	Endonuc_LAG/HNH	0	39924-40208	PF00961	http://pfam.sanger.ac.uk/family?acc=PF00961

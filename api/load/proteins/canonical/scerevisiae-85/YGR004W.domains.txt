@@ -1,0 +1,3 @@
+#>P	YGR004W	YGR004W	YGR004W	VII	502938	504323	1	Peroxisomal integral membrane protein; involved in negative regulation of peroxisome size; partially functionally redundant with Pex30p and Pex32p; probably acts at a step downstream of steps mediated by Pex28p and Pex29p; PEX31 has a paralog, PEX30, that arose from the whole genome duplication [Source:SGD;Acc:S000003236]
+#>E	YGR004W.1	1.0	502938-504326
+VII	503088	504119	1.0	Pex24p	279.3	503088-504119	PF06398	http://pfam.sanger.ac.uk/family?acc=PF06398

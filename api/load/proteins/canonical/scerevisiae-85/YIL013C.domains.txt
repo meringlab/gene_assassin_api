@@ -1,0 +1,7 @@
+#>P	YIL013C	YIL013C	YIL013C	IX	328210	332442	-1	ATP-binding cassette (ABC) transporter; multidrug transporter involved in multiple drug resistance; mediates sterol uptake when sterol biosynthesis is compromised; regulated by Pdr1p; required for anaerobic growth; PDR11 has a paralog, AUS1, that arose from the whole genome duplication [Source:SGD;Acc:S000001275]
+#>E	YIL013C.1	1.0	328207-332442
+IX	329725	330078	-1.0	ABC_transporter-like	0	329725-330078	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+IX	331846	332181	-1.0	ABC_transporter-like	0	331846-332181	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+IX	330466	330687	-1.0	PDR_CDR_ABC	0	330466-330687	PF06422	http://pfam.sanger.ac.uk/family?acc=PF06422
+IX	328597	329229	-1.0	ABC_2_trans	0	328597-329229	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+IX	330718	331350	-1.0	ABC_2_trans	0	330718-331350	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061

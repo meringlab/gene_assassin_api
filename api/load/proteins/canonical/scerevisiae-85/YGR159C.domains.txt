@@ -1,0 +1,4 @@
+#>P	YGR159C	YGR159C	YGR159C	VII	806415	807656	-1	Nucleolar protein that binds nuclear localization sequences; required for pre-rRNA processing and ribosome biogenesis [Source:SGD;Acc:S000003391]
+#>E	YGR159C.1	1.0	806412-807656
+VII	806640	806852	-1.0	RRM_dom	0	806640-806852	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+VII	806940	807149	-1.0	RRM_dom	0	806940-807149	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

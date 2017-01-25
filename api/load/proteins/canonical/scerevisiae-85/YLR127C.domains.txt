@@ -1,0 +1,4 @@
+#>P	YLR127C	YLR127C	YLR127C	XII	395761	398319	-1	Subunit of the Anaphase-Promoting Complex/Cyclosome (APC/C); which is a ubiquitin-protein ligase required for degradation of anaphase inhibitors, including mitotic cyclins, during the metaphase/anaphase transition; component of the catalytic core of the APC/C; has similarity to cullin Cdc53p [Source:SGD;Acc:S000004117]
+#>E	YLR127C.1	1.0	395758-398319
+XII	395785	395970	-1.0	APC_su2_C	0	395785-395970	PF08672	http://pfam.sanger.ac.uk/family?acc=PF08672
+XII	396031	396840	-1.0	Cullin_N	0	396031-396840	PF00888	http://pfam.sanger.ac.uk/family?acc=PF00888

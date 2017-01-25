@@ -1,0 +1,3 @@
+#>P	YFR034C	YFR034C	YFR034C	VI	225023	225958	-1	Basic helix-loop-helix (bHLH) transcription factor of the myc-family; activates transcription cooperatively with Pho2p in response to phosphate limitation; binding to 'CACGTG' motif is regulated by chromatin restriction, competitive binding of Cbf1p to the same DNA binding motif and cooperation with Pho2p; function is regulated by phosphorylation at multiple sites and by phosphate availability [Source:SGD;Acc:S000001930]
+#>E	YFR034C.1	1.0	225020-225958
+VI	225038	225208	-1.0	HLH_DNA-bd	0	225038-225208	PF00010	http://pfam.sanger.ac.uk/family?acc=PF00010

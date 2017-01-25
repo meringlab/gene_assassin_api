@@ -1,0 +1,3 @@
+#>P	YJR129C	YJR129C	YJR129C	X	664003	665019	-1	S-adenosylmethionine-dependent methyltransferase; seven-beta-strand lysine methyltransferase which trimethylates translation elongation factor EF2 (Eft1p and Eft2p) at lysine 509; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; ortholog of human gene FAM86A [Source:SGD;Acc:S000003890]
+#>E	YJR129C.1	1.0	664000-665019
+X	664144	664629	-1.0	Nicotinamide_N-MeTfrase_put	0	664144-664629	PF10294	http://pfam.sanger.ac.uk/family?acc=PF10294

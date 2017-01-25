@@ -1,0 +1,3 @@
+#>P	YGR136W	YGR136W	YGR136W	VII	762428	763150	1	Negative regulator of actin nucleation-promoting factor activity; interacts with Las17p, a homolog of human Wiskott-Aldrich Syndrome protein (WASP), via an N-terminal SH3 domain, and along with PIN3 cooperatively inhibits the nucleation of actin filaments; overexpression blocks receptor-mediated endocytosis; protein increases in abundance and forms nuclear foci in response to DNA replication stress; LSB1 has a paralog, PIN3, that arose from the whole genome duplication [Source:SGD;Acc:S000003368]
+#>E	YGR136W.1	1.0	762428-763153
+VII	762605	762739	1.0	SH3_domain	59.5	762605-762739	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018

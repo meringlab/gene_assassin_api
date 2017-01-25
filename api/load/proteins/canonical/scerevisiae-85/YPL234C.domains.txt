@@ -1,0 +1,4 @@
+#>P	YPL234C	YPL234C	YPL234C	XVI	104949	105440	-1	Vacuolar ATPase V0 domain subunit c'; involved in proton transport activity; hydrophobic integral membrane protein (proteolipid) containing four transmembrane segments; N and C termini are in the vacuolar lumen [Source:SGD;Acc:S000006155]
+#>E	YPL234C.1	1.0	104946-105440
+XVI	104964	105152	-1.0	ATPase_F0/V0-cplx_csu	0	104964-105152	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
+XVI	105195	105386	-1.0	ATPase_F0/V0-cplx_csu	0	105195-105386	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137

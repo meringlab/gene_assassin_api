@@ -1,0 +1,5 @@
+#>P	YIL147C	YIL147C	YIL147C	IX	69794	73453	-1	Transmembrane histidine phosphotransfer kinase and osmosensor; regulates MAP kinase cascade; transmembrane protein with an intracellular kinase domain that signals to Ypd1p and Ssk1p, thereby forming a phosphorelay system similar to bacterial two-component regulators [Source:SGD;Acc:S000001409]
+#>E	YIL147C.1	1.0	69791-73453
+IX	70676	71416	-1.0	ATPase-like_ATP-bd	0	70676-71416	PF02518	http://pfam.sanger.ac.uk/family?acc=PF02518
+IX	71573	71755	-1.0	Sig_transdc_His_kin_sub1_dim/P	0	71573-71755	PF00512	http://pfam.sanger.ac.uk/family?acc=PF00512
+IX	69839	70186	-1.0	Sig_transdc_resp-reg_receiver	0	69839-70186	PF00072	http://pfam.sanger.ac.uk/family?acc=PF00072

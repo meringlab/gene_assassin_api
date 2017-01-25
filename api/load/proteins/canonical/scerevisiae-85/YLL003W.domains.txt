@@ -1,0 +1,4 @@
+#>P	YLL003W	YLL003W	YLL003W	XII	143201	146038	1	Centrin (Cdc31p)-binding protein required for SPB duplication; localizes to the half-bridge of the spindle pole body (SPB); required for progression through G(2)-M transition; phosphorylated by Cdc28p-Clb2p and by Cdc5p; dephosphorylated by Cdc14p; has similarity to Xenopus laevis XCAP-C [Source:SGD;Acc:S000003926]
+#>E	YLL003W.1	1.0	143201-146041
+XII	145616	145942	1.0	Spindle_body_associated_C	0	145616-145942	PF10638	http://pfam.sanger.ac.uk/family?acc=PF10638
+XII	143888	145594	1.0	Sfi1	0	143888-145594	PF08457	http://pfam.sanger.ac.uk/family?acc=PF08457

@@ -1,0 +1,3 @@
+#>P	YJL025W	YJL025W	YJL025W	X	393967	395508	1	Component of the core factor (CF) rDNA transcription factor complex; CF is required for transcription of 35S rRNA genes by RNA polymerase I and is composed of Rrn6p, Rrn7p, and Rrn11p [Source:SGD;Acc:S000003562]
+#>E	YJL025W.1	1.0	393967-395511
+X	393973	394074	1.0	TF_Rrn7	0	393973-394074	PF11781	http://pfam.sanger.ac.uk/family?acc=PF11781

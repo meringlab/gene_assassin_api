@@ -1,0 +1,3 @@
+#>P	YER042W	YER042W	YER042W	V	234937	235488	1	Methionine-S-sulfoxide reductase; involved in the response to oxidative stress; protects iron-sulfur clusters from oxidative inactivation along with MXR2; involved in the regulation of lifespan; reduced activity of human homolog implicated in Alzheimer disease [Source:SGD;Acc:S000000844]
+#>E	YER042W.1	1.0	234937-235491
+V	234991	235464	1.0	Peptide_Met_Sox_Rdtase_MsrA	0	234991-235464	PF01625	http://pfam.sanger.ac.uk/family?acc=PF01625

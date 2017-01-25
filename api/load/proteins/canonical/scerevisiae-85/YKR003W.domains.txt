@@ -1,0 +1,3 @@
+#>P	YKR003W	YKR003W	YKR003W	XI	445381	446724	1	Member of an oxysterol-binding protein family; overlapping, redundant functions in sterol metabolism and which collectively perform a function essential for viability; GFP-fusion protein localizes to the cell periphery; overexpression extends lifespan by promoting vacuolar fusion; OSH6 has a paralog, OSH7, that arose from the whole genome duplication [Source:SGD;Acc:S000001711]
+#>E	YKR003W.1	1.0	445381-446727
+XI	445531	446523	1.0	Oxysterol-bd	0	445531-446523	PF01237	http://pfam.sanger.ac.uk/family?acc=PF01237

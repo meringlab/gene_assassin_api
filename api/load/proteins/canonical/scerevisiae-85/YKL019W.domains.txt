@@ -1,0 +1,7 @@
+#>P	YKL019W	YKL019W	YKL019W	XI	402568	403515	1	Alpha subunit of farnesyltransferase and geranylgeranyltransferase-I; farnesyltransferase (RAM2-RAM1 heterodimer) catalyzes the addition of 15-carbon isoprenoid farnesyl to substrate proteins containing a CAAX consensus motif; type I geranylgeranyltransferase (RAM2-CDC43 heterodimer) catalyzes the addition of the 20-carbon isoprenoid geranylgeranyl to substrate proteins containing a CaaL consensus motif; required for membrane localization of Ras proteins and a-factor [Source:SGD;Acc:S000001502]
+#>E	YKL019W.1	1.0	402568-403518
+XI	402949	403026	1.0	Prenyl_trans_a	0	402949-403026	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239
+XI	403051	403125	1.0	Prenyl_trans_a	0	403051-403125	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239
+XI	403171	403260	1.0	Prenyl_trans_a	0	403171-403260	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239
+XI	402715	402804	1.0	Prenyl_trans_a	0	402715-402804	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239
+XI	402841	402924	1.0	Prenyl_trans_a	0	402841-402924	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239

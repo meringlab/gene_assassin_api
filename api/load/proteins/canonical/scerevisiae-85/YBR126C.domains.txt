@@ -1,0 +1,3 @@
+#>P	YBR126C	YBR126C	YBR126C	II	488908	490392	-1	Synthase subunit of trehalose-6-P synthase/phosphatase complex; synthesizes the storage carbohydrate trehalose; also found in a monomeric form; expression is induced by the stress response and repressed by the Ras-cAMP pathway; protein abundance increases in response to DNA replication stress and in response to prolonged exposure to boric acid [Source:SGD;Acc:S000000330]
+#>E	YBR126C.1	1.0	488905-490392
+II	488950	490344	-1.0	Glyco_trans_20	0	488950-490344	PF00982	http://pfam.sanger.ac.uk/family?acc=PF00982

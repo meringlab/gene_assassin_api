@@ -1,0 +1,4 @@
+#>P	YKL006W	YKL006W	YKL006W	XI	431906	432717	1	Ribosomal 60S subunit protein L14A; N-terminally acetylated; homologous to mammalian ribosomal protein L14, no bacterial homolog; RPL14A has a paralog, RPL14B, that arose from the whole genome duplication [Source:SGD;Acc:S000001489]
+#>E	YKL006W.1,YKL006W.2	1,1	431906-432034,432433-432720
+XI	431954	432444	1	KOW	0	431954-432034,432433-432444	PF00467	http://pfam.sanger.ac.uk/family?acc=PF00467
+XI	432463	432690	1	Ribosomal_L14	0	432463-432690	PF01929	http://pfam.sanger.ac.uk/family?acc=PF01929

@@ -1,0 +1,3 @@
+#>P	YLR328W	YLR328W	YLR328W	XII	784913	786115	1	Nicotinic acid mononucleotide adenylyltransferase; catalyzes the transfer of the adenylyl moiety of ATP to nicotinamide mononucleotide to form NAD; involved in pathways of NAD biosynthesis, including the de novo, NAD(+) salvage, and nicotinamide riboside salvage pathways; homolog of human NMNAT; NMA1 has a paralog, NMA2, that arose from the whole genome duplication [Source:SGD;Acc:S000004320]
+#>E	YLR328W.1	1.0	784913-786118
+XII	785417	785989	1.0	Cytidylyltransf	0	785417-785989	PF01467	http://pfam.sanger.ac.uk/family?acc=PF01467

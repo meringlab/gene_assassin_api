@@ -1,0 +1,4 @@
+#>P	YCL008C	YCL008C	YCL008C	III	105699	106853	-1	Component of the ESCRT-I complex; ESCRT-I is involved in ubiquitin-dependent sorting of proteins into the endosome; prevents polyubiquitination of the arrestin-related protein Rim8p, thereby directing its monoubiquitination by Rsp5p; homologous to the mouse and human Tsg101 tumor susceptibility gene; mutants exhibit a Class E Vps phenotype; [Source:SGD;Acc:S000000514]
+#>E	YCL008C.1	1.0	105696-106853
+III	105717	105911	-1.0	Steadiness_box	0	105717-105911	PF09454	http://pfam.sanger.ac.uk/family?acc=PF09454
+III	106395	106763	-1.0	UEV_N	0	106395-106763	PF05743	http://pfam.sanger.ac.uk/family?acc=PF05743

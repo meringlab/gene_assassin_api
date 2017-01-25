@@ -1,0 +1,6 @@
+#>P	YGL120C	YGL120C	YGL120C	VII	281637	283937	-1	RNA helicase in the DEAH-box family; functions in both RNA polymerase I and polymerase II transcript metabolism; catalyzes removal of U2, U5, and U6 snRNPs from the postsplicing lariat-intron ribonucleoprotein complex; required for efficient biogenesis of both small- and large-subunit rRNAs; acts with Sqs1p to promote 20S to 18S rRNA processing catalyzed by endonuclease Nob1p [Source:SGD;Acc:S000003088]
+#>E	YGL120C.1	1.0	281634-283937
+VII	282189	282458	-1.0	Helicase-assoc_dom	0	282189-282458	PF04408	http://pfam.sanger.ac.uk/family?acc=PF04408
+VII	283176	283646	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	283176-283646	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+VII	281763	282077	-1.0	DUF1605	0	281763-282077	PF07717	http://pfam.sanger.ac.uk/family?acc=PF07717
+VII	282645	282920	-1.0	Helicase_C	0	282645-282920	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

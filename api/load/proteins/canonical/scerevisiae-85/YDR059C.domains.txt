@@ -1,0 +1,3 @@
+#>P	YDR059C	YDR059C	YDR059C	IV	569237	569770	-1	Ubiquitin-conjugating enzyme; mediates selective degradation of short-lived, abnormal, or excess proteins, including histone H3; central component of the cellular stress response; expression is heat inducible; protein abundance increases in response to DNA replication stress; UBC5 has a paralog, UBC4, that arose from the whole genome duplication [Source:SGD;Acc:S000002466]
+#>E	YDR059C.2,YDR059C.1	1,1	569234-569633,569724-569770
+IV	569255	569755	-1	UBQ-conjugat_E2	0	569255-569633,569724-569755	PF00179	http://pfam.sanger.ac.uk/family?acc=PF00179

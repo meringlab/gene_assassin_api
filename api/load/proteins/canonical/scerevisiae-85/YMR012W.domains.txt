@@ -1,0 +1,3 @@
+#>P	YMR012W	YMR012W	YMR012W	XIII	291134	294964	1	Subunit of the eukaryotic translation initiation factor 3 (eIF3); component of unknown function; deletion causes defects in mitochondrial organization but not in growth or translation initiation; can rescue cytokinesis and mitochondrial organization defects of the Dictyostelium cluA- mutant [Source:SGD;Acc:S000004614]
+#>E	YMR012W.1	1.0	291134-294967
+XIII	292211	292918	1.0	CLU_dom	0	292211-292918	PF13236	http://pfam.sanger.ac.uk/family?acc=PF13236

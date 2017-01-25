@@ -1,0 +1,4 @@
+#>P	YJR007W	YJR007W	YJR007W	X	451020	451931	1	Alpha subunit of the translation initiation factor eIF2; eIF2 is involved in identification of the start codon; phosphorylation of Ser51 is required for regulation of translation by inhibiting the exchange of GDP for GTP; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003767]
+#>E	YJR007W.1	1.0	451020-451934
+X	451392	451730	1.0	TIF_2_asu	138.7	451392-451730	PF07541	http://pfam.sanger.ac.uk/family?acc=PF07541
+X	451059	451283	1.0	Rbsml_prot_S1_RNA-bd_dom	50.9	451059-451283	PF00575	http://pfam.sanger.ac.uk/family?acc=PF00575

@@ -1,0 +1,3 @@
+#>P	YEL051W	YEL051W	YEL051W	V	58378	59145	1	Subunit D of the V1 peripheral membrane domain of V-ATPase; part of the electrogenic proton pump found throughout the endomembrane system; plays a role in the coupling of proton transport and ATP hydrolysis; the V1 peripheral membrane domain of the vacuolar H+-ATPase (V-ATPase) has eight subunits [Source:SGD;Acc:S000000777]
+#>E	YEL051W.1	1.0	58378-59148
+V	58414	59004	1.0	ATPase_V1/A1-cplx_dsu	0	58414-59004	PF01813	http://pfam.sanger.ac.uk/family?acc=PF01813

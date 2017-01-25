@@ -1,0 +1,3 @@
+#>P	YOR071C	YOR071C	YOR071C	XV	459483	461276	-1	High-affinity nicotinamide riboside transporter; also transports thiamine with low affinity; major transporter for 5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranoside (acadesine) uptake; shares sequence similarity with Thi7p and Thi72p; proposed to be involved in 5-fluorocytosine sensitivity [Source:SGD;Acc:S000005597]
+#>E	YOR071C.1	1.0	459480-461276
+XV	459876	461177	-1.0	Cyt_pur_permease	0	459876-461177	PF02133	http://pfam.sanger.ac.uk/family?acc=PF02133

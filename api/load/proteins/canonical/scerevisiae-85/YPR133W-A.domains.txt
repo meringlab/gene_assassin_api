@@ -1,0 +1,3 @@
+#>P	YPR133W-A	YPR133W-A	YPR133W-A	XVI	797557	797706	1	Component of the TOM (translocase of outer membrane) complex; responsible for recognition and initial import of all mitochondrially directed proteins; involved in transfer of precursors from the Tom70p and Tom20p receptors to the Tom40p pore [Source:SGD;Acc:S000006433]
+#>E	YPR133W-A.1	1.0	797557-797709
+XVI	797557	797700	1.0	Tom5	0	797557-797700	PF10642	http://pfam.sanger.ac.uk/family?acc=PF10642

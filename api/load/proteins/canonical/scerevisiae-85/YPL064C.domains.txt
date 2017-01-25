@@ -1,0 +1,3 @@
+#>P	YPL064C	YPL064C	YPL064C	XVI	428714	429616	-1	Component of a complex containing Cef1p; putatively involved in pre-mRNA splicing; has similarity to S. pombe Cwf27p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005985]
+#>E	YPL064C.1	1.0	428711-429616
+XVI	429212	429568	-1.0	Cyclophilin-like_PPIase_dom	0	429212-429568	PF00160	http://pfam.sanger.ac.uk/family?acc=PF00160

@@ -1,0 +1,5 @@
+#>P	YFR037C	YFR037C	YFR037C	VI	227516	229186	-1	Component of the RSC chromatin remodeling complex; essential for viability and mitotic growth; homolog of SWI/SNF subunit Swi3p, but unlike Swi3p, does not activate transcription of reporters [Source:SGD;Acc:S000001933]
+#>E	YFR037C.1	1.0	227513-229186
+VI	228119	228253	-1.0	SANT_DNA-bd	0	228119-228253	PF00249	http://pfam.sanger.ac.uk/family?acc=PF00249
+VI	228683	228946	-1.0	SWIRM	0	228683-228946	PF04433	http://pfam.sanger.ac.uk/family?acc=PF04433
+VI	228293	228427	-1.0	Znf_ZZ	0	228293-228427	PF00569	http://pfam.sanger.ac.uk/family?acc=PF00569

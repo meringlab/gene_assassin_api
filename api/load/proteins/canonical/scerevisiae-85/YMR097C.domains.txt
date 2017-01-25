@@ -1,0 +1,3 @@
+#>P	YMR097C	YMR097C	YMR097C	XIII	459427	460527	-1	Putative GTPase peripheral to the mitochondrial inner membrane; essential for respiratory competence, likely functions in assembly of the large ribosomal subunit, has homologs in plants and animals [Source:SGD;Acc:S000004703]
+#>E	YMR097C.1	1.0	459424-460527
+XIII	459712	460071	-1.0	GTP_binding_domain	0	459712-460071	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926

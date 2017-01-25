@@ -1,0 +1,4 @@
+#>P	YHR033W	YHR033W	YHR033W	VIII	175548	176816	1	Putative protein of unknown function; epitope-tagged protein localizes to the cytoplasm; YHR033W has a paralog, PRO1, that arose from the whole genome duplication [Source:SGD;Acc:S000001075]
+#>E	YHR033W.1	1.0	175548-176819
+VIII	175563	176258	1.0	Asp/Glu/Uridylate_kinase	0	175563-176258	PF00696	http://pfam.sanger.ac.uk/family?acc=PF00696
+VIII	176493	176756	1.0	PUA	0	176493-176756	PF01472	http://pfam.sanger.ac.uk/family?acc=PF01472

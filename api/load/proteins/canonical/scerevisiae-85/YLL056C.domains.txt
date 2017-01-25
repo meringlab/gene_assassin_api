@@ -1,0 +1,3 @@
+#>P	YLL056C	YLL056C	YLL056C	XII	27412	28305	-1	Putative protein of unknown function; transcription is activated by paralogous transcription factors Yrm1p and Yrr1p and genes involved in pleiotropic drug resistance (PDR); expression is induced in cells treated with the mycotoxin patulin [Source:SGD;Acc:S000003979]
+#>E	YLL056C.1	1.0	27409-28305
+XII	27646	28299	-1.0	Epimerase_deHydtase	0	27646-28299	PF01370	http://pfam.sanger.ac.uk/family?acc=PF01370

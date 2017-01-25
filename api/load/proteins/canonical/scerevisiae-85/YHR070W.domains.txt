@@ -1,0 +1,3 @@
+#>P	YHR070W	YHR070W	YHR070W	VIII	234881	236377	1	tRNA(m(1)G37)methyltransferase; methylates a tRNA base adjacent to the anticodon that has a role in prevention of frameshifting; highly conserved across Archaea, Bacteria, and Eukarya [Source:SGD;Acc:S000001112]
+#>E	YHR070W.1	1.0	234881-236380
+VIII	235409	236188	1.0	tRNA_Trfase_Trm5/Tyw2	0	235409-236188	PF02475	http://pfam.sanger.ac.uk/family?acc=PF02475

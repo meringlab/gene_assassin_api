@@ -1,0 +1,3 @@
+#>P	YJL065C	YJL065C	YJL065C	X	315057	315557	-1	Subunit of ISW2/yCHRAC chromatin accessibility complex; ISW2/yCHRAC also includes Itc1p, Isw2p, and Dpb4p; involved in inheritance of telomeric silencing; DLS1 has a paralog, DPB3, that arose from the whole genome duplication [Source:SGD;Acc:S000003601]
+#>E	YJL065C.1	1.0	315054-315557
+X	315348	315503	-1.0	CBFA_NFYB_domain	0	315348-315503	PF00808	http://pfam.sanger.ac.uk/family?acc=PF00808

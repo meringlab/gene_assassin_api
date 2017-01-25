@@ -1,0 +1,4 @@
+#>P	YML111W	YML111W	YML111W	XIII	46942	49701	1	Component of the Rsp5p E3-ubiquitin ligase complex; involved in intracellular amino acid permease sorting, functions in heat shock element mediated gene expression, essential for growth in stress conditions; BUL2 has a paralog, BUL1, that arose from the whole genome duplication [Source:SGD;Acc:S000004579]
+#>E	YML111W.1	1.0	46942-49704
+XIII	47203	48513	1.0	Bul1_N	0	47203-48513	PF04425	http://pfam.sanger.ac.uk/family?acc=PF04425
+XIII	48877	49695	1.0	Bul1_C	0	48877-49695	PF04426	http://pfam.sanger.ac.uk/family?acc=PF04426

@@ -1,0 +1,3 @@
+#>P	YHR029C	YHR029C	YHR029C	VIII	167680	168561	-1	Protein of unknown function; null mutant is defective in unfolded protein response; possibly involved in a membrane regulation metabolic pathway; member of the PhzF superfamily, though most likely not involved in phenazine production [Source:SGD;Acc:S000001071]
+#>E	YHR029C.1	1.0	167677-168561
+VIII	167692	168534	-1.0	PhzC_PhzF	0	167692-168534	PF02567	http://pfam.sanger.ac.uk/family?acc=PF02567

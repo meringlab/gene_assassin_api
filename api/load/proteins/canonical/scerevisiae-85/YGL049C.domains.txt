@@ -1,0 +1,4 @@
+#>P	YGL049C	YGL049C	YGL049C	VII	406863	409604	-1	Translation initiation factor eIF4G; subunit of the mRNA cap-binding protein complex (eIF4F) that also contains eIF4E (Cdc33p); associates with the poly(A)-binding protein Pab1p, also interacts with eIF4A (Tif1p); TIF4632 has a paralog, TIF4631, that arose from the whole genome duplication [Source:SGD;Acc:S000003017]
+#>E	YGL049C.1	1.0	406860-409604
+VII	408282	408500	-1.0	eIF4G1_eIF4E-bd	0	408282-408500	PF12152	http://pfam.sanger.ac.uk/family?acc=PF12152
+VII	407181	407906	-1.0	MIF4G-like_typ-3	0	407181-407906	PF02854	http://pfam.sanger.ac.uk/family?acc=PF02854

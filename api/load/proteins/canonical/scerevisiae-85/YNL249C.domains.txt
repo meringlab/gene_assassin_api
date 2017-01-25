@@ -1,0 +1,4 @@
+#>P	YNL249C	YNL249C	YNL249C	XIV	179397	181022	-1	Putative protein of unknown function; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies [Source:SGD;Acc:S000005193]
+#>E	YNL249C.1	1.0	179394-181022
+XIV	179655	180242	-1.0	Carb_kinase_FGGY_C	0	179655-180242	PF02782	http://pfam.sanger.ac.uk/family?acc=PF02782
+XIV	180492	180998	-1.0	Carb_kinase_FGGY_N	0	180492-180998	PF00370	http://pfam.sanger.ac.uk/family?acc=PF00370

@@ -1,0 +1,6 @@
+#>P	YHL035C	YHL035C	YHL035C	VIII	27981	32756	-1	Vacuolar membrane protein; involved in multiple drug resistance and metal sensitivity; ATP-binding cassette (ABC) family member involved in drug transport; potential Cdc28p substrate; induced under respiratory conditions; VMR1 has a paralog, YBT1, that arose from the whole genome duplication [Source:SGD;Acc:S000001027]
+#>E	YHL035C.1	1.0	27978-32756
+VIII	30255	30632	-1.0	ABC_transporter-like	0	30255-30632	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+VIII	28248	28667	-1.0	ABC_transporter-like	0	28248-28667	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+VIII	30897	31745	-1.0	ABC_transptr_TM_dom	0	30897-31745	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664
+VIII	28956	29786	-1.0	ABC_transptr_TM_dom	0	28956-29786	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664

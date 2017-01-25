@@ -1,0 +1,4 @@
+#>P	YPR023C	YPR023C	YPR023C	XVI	608829	610031	-1	Component of the Rpd3S histone deacetylase complex; Esa1p-associated factor, nonessential component of the NuA4 acetyltransferase complex, homologous to Drosophila dosage compensation protein MSL3; plays a role in regulating Ty1 transposition [Source:SGD;Acc:S000006227]
+#>E	YPR023C.1	1.0	608826-610031
+XVI	608901	609431	-1.0	MRG_dom	0	608901-609431	PF05712	http://pfam.sanger.ac.uk/family?acc=PF05712
+XVI	609738	609974	-1.0	Tudor-knot	0	609738-609974	PF11717	http://pfam.sanger.ac.uk/family?acc=PF11717

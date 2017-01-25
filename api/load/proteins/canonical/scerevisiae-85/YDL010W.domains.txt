@@ -1,0 +1,3 @@
+#>P	YDL010W	YDL010W	YDL010W	IV	432330	433022	1	Cis-golgi localized monothiol glutaredoxin, binds Fe-S cluster; more similar in activity to dithiol than other monothiol glutaredoxins; involved in the oxidative stress response; GRX6 has a paralog, GRX7, that arose from the whole genome duplication [Source:SGD;Acc:S000002168]
+#>E	YDL010W.1	1.0	432330-433025
+IV	432711	432902	1.0	Glutaredoxin	0	432711-432902	PF00462	http://pfam.sanger.ac.uk/family?acc=PF00462

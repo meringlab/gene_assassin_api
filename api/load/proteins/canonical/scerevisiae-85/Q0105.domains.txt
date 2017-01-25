@@ -1,0 +1,3 @@
+#>P	Q0105	Q0105	Q0105	Mito	36540	43644	1	Cytochrome b; mitochondrially encoded subunit of the ubiquinol-cytochrome c reductase complex which includes Cobp, Rip1p, Cyt1p, Cor1p, Qcr2p, Qcr6p, Qcr7p, Qcr8p, Qcr9p, and Qcr10p [Source:SGD;Acc:S000007270]
+#>E	Q0105.1,Q0105.2,Q0105.3,Q0105.4,Q0105.5,Q0105.6	1,1,1,1,1,1	36540-36954,37723-37736,39141-39217,40841-41090,42508-42558,43297-43647
+Mito	42529	43569	1	Cyt_b/b6_C	0	42529-42558,43297-43569	PF00032	http://pfam.sanger.ac.uk/family?acc=PF00032

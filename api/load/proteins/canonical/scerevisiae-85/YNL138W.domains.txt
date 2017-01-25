@@ -1,0 +1,4 @@
+#>P	YNL138W	YNL138W	YNL138W	XIV	366741	368318	1	CAP (cyclase-associated protein); N-terminus binds adenylate cyclase and facilitates activation by RAS; N-terminus forms novel hexameric star-shaped shuriken structures that directly catalyze cofilin-mediated severing of actin filaments; C-terminus, in physically and genetically separate activity, binds and recycles cofilin bound, ADP-actin monomers, facilitating regulation of actin dynamics and cell morphogenesis [Source:SGD;Acc:S000005082]
+#>E	YNL138W.1	1.0	366741-368321
+XIV	366777	367814	1.0	Adenylate_cyclase-assoc_CAP_N	0	366777-367814	PF01213	http://pfam.sanger.ac.uk/family?acc=PF01213
+XIV	367839	368315	1.0	Adenylate_cyclase-assoc_CAP_C	0	367839-368315	PF08603	http://pfam.sanger.ac.uk/family?acc=PF08603

@@ -1,0 +1,4 @@
+#>P	YPL029W	YPL029W	YPL029W	XVI	495506	497716	1	ATP-dependent RNA helicase; component of the mitochondrial degradosome along with the RNase Dss1p; the degradosome associates with the ribosome and mediates RNA turnover; also required during splicing of the COX1 AI5_beta intron [Source:SGD;Acc:S000005950]
+#>E	YPL029W.1	1.0	495506-497719
+XVI	496766	497014	1.0	Helicase_C	0	496766-497014	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XVI	497492	497635	1.0	SUV3_C	0	497492-497635	PF12513	http://pfam.sanger.ac.uk/family?acc=PF12513

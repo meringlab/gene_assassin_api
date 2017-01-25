@@ -1,0 +1,4 @@
+#>P	ENSG00000180574	ENST00000538173	ENSP00000445077	12	10505903	10507318	1	Putative eukaryotic translation initiation factor 2 subunit 3-like protein  [Source:UniProtKB/Swiss-Prot;Acc:Q2VIR3]
+#>E	ENSE00002304914	0.0	10505903-10507321
+12	10506728	10506976	1.0	Transl_elong_EFTu/EF1A_2	43	10506728-10506976	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144
+12	10507010	10507279	1.0	TIF2_gsu_C	125.7	10507010-10507279	PF09173	http://pfam.sanger.ac.uk/family?acc=PF09173

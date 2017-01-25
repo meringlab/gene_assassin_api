@@ -1,0 +1,4 @@
+#>P	YNL192W	YNL192W	YNL192W	XIV	276502	279894	1	Chitin synthase I; requires activation from zymogenic form in order to catalyze the transfer of N-acetylglucosamine (GlcNAc) to chitin; required for repairing the chitin septum during cytokinesis; transcription activated by mating factor [Source:SGD;Acc:S000005136]
+#>E	YNL192W.1	1.0	276502-279897
+XIV	277861	278358	1.0	Chitin_synth	0	277861-278358	PF01644	http://pfam.sanger.ac.uk/family?acc=PF01644
+XIV	277615	277860	1.0	Chitin_synth_N	0	277615-277860	PF08407	http://pfam.sanger.ac.uk/family?acc=PF08407

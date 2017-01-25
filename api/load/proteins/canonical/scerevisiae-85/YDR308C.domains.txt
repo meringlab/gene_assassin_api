@@ -1,0 +1,3 @@
+#>P	YDR308C	YDR308C	YDR308C	IV	1078030	1078449	-1	Subunit of the RNA polymerase II mediator complex; associates with core polymerase subunits to form the RNA polymerase II holoenzyme; essential for transcriptional regulation; target of the global repressor Tup1p [Source:SGD;Acc:S000002716]
+#>E	YDR308C.1	1.0	1078027-1078449
+IV	1078057	1078449	-1.0	Mediator_Med21	0	1078057-1078449	PF11221	http://pfam.sanger.ac.uk/family?acc=PF11221

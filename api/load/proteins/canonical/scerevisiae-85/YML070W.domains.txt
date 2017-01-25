@@ -1,0 +1,4 @@
+#>P	YML070W	YML070W	YML070W	XIII	133475	135226	1	Dihydroxyacetone kinase; required for detoxification of dihydroxyacetone (DHA); involved in stress adaptation [Source:SGD;Acc:S000004535]
+#>E	YML070W.1	1.0	133475-135229
+XIII	134708	135214	1.0	Dak2	0	134708-135214	PF02734	http://pfam.sanger.ac.uk/family?acc=PF02734
+XIII	133520	134494	1.0	Dak1	0	133520-134494	PF02733	http://pfam.sanger.ac.uk/family?acc=PF02733

@@ -1,0 +1,5 @@
+#>P	YPR112C	YPR112C	YPR112C	XVI	749259	751919	-1	Essential conserved small ribosomal subunit (40s) synthesis factor; component of the 90S preribosome; required for production of 18S rRNA and small ribosomal subunit; contains five consensus RNA-binding domains and binds to the pre-rRNA at two sites within the 18S region [Source:SGD;Acc:S000006316]
+#>E	YPR112C.1	1.0	749256-751919
+XVI	749703	749927	-1.0	RRM_dom	0	749703-749927	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+XVI	750672	750881	-1.0	RRM_dom	0	750672-750881	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+XVI	749421	749627	-1.0	RRM_dom	0	749421-749627	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

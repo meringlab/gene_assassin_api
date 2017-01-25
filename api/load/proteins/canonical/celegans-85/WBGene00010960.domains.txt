@@ -1,0 +1,3 @@
+#>P	WBGene00010960	MTCE.12	MTCE.12	MtDNA	2634	3227	1	ATP synthase subunit a  [Source:UniProtKB/Swiss-Prot;Acc:P24888]
+#>E	MTCE.12.e1	1.0	2634-3230
+MtDNA	2703	3224	1.0	ATPase_F0-cplx_asu	60.8	2703-3224	PF00119	http://pfam.sanger.ac.uk/family?acc=PF00119

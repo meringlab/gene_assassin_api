@@ -1,0 +1,5 @@
+#>P	YER053C	YER053C	YER053C	V	258740	259639	-1	Mitochondrial copper and phosphate carrier; imports copper and inorganic phosphate into mitochondria; functionally redundant with Mir1p but less abundant than Mir1p under normal conditions; expression is induced at high temperature [Source:SGD;Acc:S000000855]
+#>E	YER053C.1	1.0	258737-259639
+V	258761	259006	-1.0	Mitochondrial_sb/sol_carrier	0	258761-259006	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+V	259334	259582	-1.0	Mitochondrial_sb/sol_carrier	0	259334-259582	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+V	259058	259318	-1.0	Mitochondrial_sb/sol_carrier	0	259058-259318	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

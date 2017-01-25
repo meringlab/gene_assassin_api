@@ -1,0 +1,3 @@
+#>P	YLR010C	YLR010C	YLR010C	XII	167323	167802	-1	Protein that regulates telomeric length; protects telomeric ends in a complex with Cdc13p and Stn1p; similar to human Ten1 which is critical for the telomeric function of the CST (Cdc13p-Stn1p-Ten1p) complex [Source:SGD;Acc:S000004000]
+#>E	YLR010C.1	1.0	167320-167802
+XII	167362	167802	-1.0	Telomere_length/capping_TEN1	0	167362-167802	PF12658	http://pfam.sanger.ac.uk/family?acc=PF12658

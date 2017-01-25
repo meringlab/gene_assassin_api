@@ -1,0 +1,3 @@
+#>P	YOL081W	YOL081W	YOL081W	XV	171070	180306	1	GTPase-activating protein; negatively regulates RAS by converting it from the GTP- to the GDP-bound inactive form, required for reducing cAMP levels under nutrient limiting conditions; similar to human neurofibromin; IRA2 has a paralog, IRA1, that arose from the whole genome duplication [Source:SGD;Acc:S000005441]
+#>E	YOL081W.1	1.0	171070-180309
+XV	176236	176739	1.0	RasGAP	0	176236-176739	PF00616	http://pfam.sanger.ac.uk/family?acc=PF00616

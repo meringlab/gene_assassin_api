@@ -1,0 +1,4 @@
+#>P	YPL128C	YPL128C	YPL128C	XVI	306536	308221	-1	Telobox-containing general regulatory factor; binds TTAGGG repeats within subtelomeric anti-silencing regions (STARs), blocking silent chromatin propagation; binds majority of snoRNA gene promoters, required for full snoRNA expression; caps DSB flanked by long T2AG3 repeats and blocks checkpoint activation [Source:SGD;Acc:S000006049]
+#>E	YPL128C.1	1.0	306533-308221
+XVI	307313	308134	-1.0	Telomere_rpt-bd_fac_dimer_dom	0	307313-308134	PF08558	http://pfam.sanger.ac.uk/family?acc=PF08558
+XVI	306830	306994	-1.0	SANT_DNA-bd	0	306830-306994	PF00249	http://pfam.sanger.ac.uk/family?acc=PF00249

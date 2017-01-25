@@ -1,0 +1,3 @@
+#>P	YCL050C	YCL050C	YCL050C	III	37839	38801	-1	AP4A phosphorylase; bifunctional diadenosine 5',5'''-P1,P4-tetraphosphate phosphorylase and ADP sulfurylase involved in catabolism of bis(5'-nucleosidyl) tetraphosphates; catalyzes phosphorolysis of dinucleoside oligophosphates, cleaving substrates' alpha/beta-anhydride bond and introducing Pi into the beta-position of the corresponding NDP formed; protein abundance increases under DNA replication stress; APA1 has a paralog, APA2, that arose from the whole genome duplication [Source:SGD;Acc:S000000555]
+#>E	YCL050C.1	1.0	37836-38801
+III	37875	38069	-1.0	ATP_adenylylTrfase_C	0	37875-38069	PF09830	http://pfam.sanger.ac.uk/family?acc=PF09830

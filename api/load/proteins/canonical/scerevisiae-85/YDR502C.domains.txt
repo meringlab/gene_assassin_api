@@ -1,0 +1,5 @@
+#>P	YDR502C	YDR502C	YDR502C	IV	1453313	1454464	-1	S-adenosylmethionine synthetase; catalyzes transfer of the adenosyl group of ATP to the sulfur atom of methionine; SAM2 has a paralog, SAM1, that arose from the whole genome duplication [Source:SGD;Acc:S000002910]
+#>E	YDR502C.1	1.0	1453310-1454464
+IV	1454153	1454449	-1.0	S-AdoMet_synt_N	0	1454153-1454449	PF00438	http://pfam.sanger.ac.uk/family?acc=PF00438
+IV	1453331	1453744	-1.0	S-AdoMet_synt_C	0	1453331-1453744	PF02773	http://pfam.sanger.ac.uk/family?acc=PF02773
+IV	1453748	1454113	-1.0	S-AdoMet_synt_central	0	1453748-1454113	PF02772	http://pfam.sanger.ac.uk/family?acc=PF02772

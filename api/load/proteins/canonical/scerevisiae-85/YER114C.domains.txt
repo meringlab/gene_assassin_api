@@ -1,0 +1,5 @@
+#>P	YER114C	YER114C	YER114C	V	390593	393712	-1	Protein implicated in polar growth, functionally redundant with Boi1p; interacts with bud-emergence protein Bem1p; contains an SH3 (src homology 3) domain and a PH (pleckstrin homology) domain; BOI2 has a paralog, BOI1, that arose from the whole genome duplication [Source:SGD;Acc:S000000916]
+#>E	YER114C.1	1.0	390590-393712
+V	391058	391399	-1.0	Pleckstrin_homology	0	391058-391399	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169
+V	393416	393568	-1.0	SH3_domain	0	393416-393568	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+V	392729	392923	-1.0	SAM_2	0	392729-392923	PF07647	http://pfam.sanger.ac.uk/family?acc=PF07647

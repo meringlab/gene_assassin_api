@@ -1,0 +1,3 @@
+#>P	YHR102W	YHR102W	YHR102W	VIII	316572	319811	1	Protein kinase of the PAK/Ste20 family, required for cell integrity; physically interacts with Cdc31p (centrin), which is a component of the spindle pole body; part of the RAM network that regulates cellular polarity and morphogenesis [Source:SGD;Acc:S000001144]
+#>E	YHR102W.1	1.0	316572-319814
+VIII	316641	317399	1.0	Prot_kinase_cat_dom	0	316641-317399	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

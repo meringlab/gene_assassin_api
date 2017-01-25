@@ -1,0 +1,3 @@
+#>P	YGR116W	YGR116W	YGR116W	VII	720409	724761	1	Nucleosome remodeling protein; functions in various aspects of transcription, chromatin maintenance, and RNA processing; required for the maintenance of chromatin structure during transcription in order to inhibit transcription from promoters within the coding region; required for H3K36 trimethylation but not dimethylation by Set2p [Source:SGD;Acc:S000003348]
+#>E	YGR116W.1	1.0	720409-724764
+VII	724180	724425	1.0	SH2	0	724180-724425	PF00017	http://pfam.sanger.ac.uk/family?acc=PF00017

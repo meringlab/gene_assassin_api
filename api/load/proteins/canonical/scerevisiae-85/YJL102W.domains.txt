@@ -1,0 +1,5 @@
+#>P	YJL102W	YJL102W	YJL102W	X	231301	233757	1	Mitochondrial elongation factor involved in translational elongation [Source:SGD;Acc:S000003638]
+#>E	YJL102W.1	1.0	231301-233760
+X	232414	232623	1.0	Transl_elong_EFTu/EF1A_2	0	232414-232623	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144
+X	233350	233739	1.0	Transl_elong_EFG/EF2_C	0	233350-233739	PF00679	http://pfam.sanger.ac.uk/family?acc=PF00679
+X	231418	232275	1.0	ProtSyn_GTP-bd	0	231418-232275	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009

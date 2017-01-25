@@ -1,0 +1,4 @@
+#>P	YBR121C	YBR121C	YBR121C	II	481367	483367	-1	Cytoplasmic and mitochondrial glycyl-tRNA synthase; ligates glycine to the cognate anticodon-bearing tRNA; transcription termination factor that may interact with the 3'-end of pre-mRNA to promote 3'-end formation; GRS1 has a paralog, GRS2, that arose from the whole genome duplication [Source:SGD;Acc:S000000325]
+#>E	YBR121C.1	1.0	481364-483367
+II	482225	483211	-1.0	aa-tRNA-synt_IIb_cons-dom	0	482225-483211	PF00587	http://pfam.sanger.ac.uk/family?acc=PF00587
+II	481454	481729	-1.0	Anticodon-bd	0	481454-481729	PF03129	http://pfam.sanger.ac.uk/family?acc=PF03129

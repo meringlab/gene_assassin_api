@@ -1,0 +1,4 @@
+#>P	YKL157W	YKL157W	YKL157W	XI	154991	158229	1	Aminopeptidase yscII; may have a role in obtaining leucine from dipeptide substrates; APE2 has a paralog, AAP1, that arose from the whole genome duplication [Source:SGD;Acc:S000001640]
+#>E	YKL157W.1,YKL157W.2	1,1	154991-155271,155655-158232
+XI	155677	156828	1	Peptidase_M1_N	0	155677-156828	PF01433	http://pfam.sanger.ac.uk/family?acc=PF01433
+XI	157213	158157	1	Pept_M1_aminopeptidase_C	0	157213-158157	PF11838	http://pfam.sanger.ac.uk/family?acc=PF11838

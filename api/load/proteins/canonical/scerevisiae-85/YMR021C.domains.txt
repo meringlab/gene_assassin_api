@@ -1,0 +1,3 @@
+#>P	YMR021C	YMR021C	YMR021C	XIII	317168	318418	-1	Copper-sensing transcription factor; involved in regulation of genes required for high affinity copper transport; required for regulation of yeast copper genes in response to DNA-damaging agents; undergoes changes in redox state in response to changing levels of copper or MMS [Source:SGD;Acc:S000004623]
+#>E	YMR021C.1	1.0	317165-318418
+XIII	318299	318418	-1.0	Cu_fist_DNA-bd	0	318299-318418	PF00649	http://pfam.sanger.ac.uk/family?acc=PF00649

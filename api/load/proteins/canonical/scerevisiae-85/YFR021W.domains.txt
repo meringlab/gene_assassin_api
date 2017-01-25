@@ -1,0 +1,4 @@
+#>P	YFR021W	YFR021W	YFR021W	VI	194812	196311	1	Phosphoinositide binding protein; required for vesicle formation in autophagy and the cytoplasm-to-vacuole targeting (Cvt) pathway; binds both phosphatidylinositol (3,5)-bisphosphate and phosphatidylinositol 3-phosphate; WD-40 repeat protein; relocalizes from vacuole to cytoplasm upon DNA replication stress; has 4 mammalian homologs WIPI1, WIPI2, WIPI3 and WIPI4/WDR45; mutations in human WDR45 cause static encephalopathy of childhood with neurodegeneration in adulthood [Source:SGD;Acc:S000001917]
+#>E	YFR021W.1	1.0	194812-196314
+VI	195688	195765	1.0	WD40_repeat	0	195688-195765	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VI	195520	195618	1.0	WD40_repeat	0	195520-195618	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

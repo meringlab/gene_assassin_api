@@ -1,0 +1,6 @@
+#>P	YMR105C	YMR105C	YMR105C	XIII	475900	477606	-1	Phosphoglucomutase; catalyzes the conversion from glucose-1-phosphate to glucose-6-phosphate, which is a key step in hexose metabolism; functions as the acceptor for a Glc-phosphotransferase; protein abundance increases in response to DNA replication stress; PGM2 has a paralog, PGM1, that arose from the whole genome duplication [Source:SGD;Acc:S000004711]
+#>E	YMR105C.1	1.0	475897-477606
+XIII	475978	476226	-1.0	A-D-PHexomutase_C	0	475978-476226	PF00408	http://pfam.sanger.ac.uk/family?acc=PF00408
+XIII	476320	476682	-1.0	A-D-PHexomutase_a/b/a-III	0	476320-476682	PF02880	http://pfam.sanger.ac.uk/family?acc=PF02880
+XIII	477130	477561	-1.0	A-D-PHexomutase_a/b/a-I	0	477130-477561	PF02878	http://pfam.sanger.ac.uk/family?acc=PF02878
+XIII	476710	477033	-1.0	A-D-PHexomutase_a/b/a-II	0	476710-477033	PF02879	http://pfam.sanger.ac.uk/family?acc=PF02879

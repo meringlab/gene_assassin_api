@@ -1,0 +1,3 @@
+#>P	YDR075W	YDR075W	YDR075W	IV	597156	598079	1	Catalytic subunit of protein phosphatase PP4 complex; Pph3p and Psy2p form active complex, Psy4p may provide substrate specificity; regulates recovery from the DNA damage checkpoint, the gene conversion- and single-strand annealing-mediated pathways of meiotic double-strand break repair and efficient Non-Homologous End-Joining (NHEJ) pathway; involved in activation of Gln3p to alleviate nitrogen catabolite repression; Pph3p and Psy2p localize to foci on meiotic chromosomes [Source:SGD;Acc:S000002482]
+#>E	YDR075W.1	1.0	597156-598082
+IV	597288	597866	1.0	Metallo_PEstase_dom	0	597288-597866	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149

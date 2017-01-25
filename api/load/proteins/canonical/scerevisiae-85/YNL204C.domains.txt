@@ -1,0 +1,3 @@
+#>P	YNL204C	YNL204C	YNL204C	XIV	258378	259277	-1	Protein of unknown function, contains a putative zinc-binding domain; expressed during sporulation; SPS18 has a paralog, GCS1, that arose from the whole genome duplication [Source:SGD;Acc:S000005148]
+#>E	YNL204C.1	1.0	258375-259277
+XIV	258912	259226	-1.0	ArfGAP	0	258912-259226	PF01412	http://pfam.sanger.ac.uk/family?acc=PF01412

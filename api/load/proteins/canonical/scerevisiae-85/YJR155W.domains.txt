@@ -1,0 +1,3 @@
+#>P	YJR155W	YJR155W	YJR155W	X	727405	728268	1	Putative aryl-alcohol dehydrogenase; similar to P. chrysosporium aryl-alcohol dehydrogenase; mutational analysis has not yet revealed a physiological role; members of the AAD gene family comprise three pairs (AAD3 + AAD15, AAD6/AAD16 + AAD4, AAD10 + AAD14) whose two genes are more related to one another than to other members of the family [Source:SGD;Acc:S000003916]
+#>E	YJR155W.1	1.0	727405-728271
+X	727411	728160	1.0	NADP_OxRdtase_dom	167.9	727411-728160	PF00248	http://pfam.sanger.ac.uk/family?acc=PF00248

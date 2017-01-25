@@ -1,0 +1,4 @@
+#>P	YFR038W	YFR038W	YFR038W	VI	229380	231938	1	Putative ATPase containing the DEAD/H helicase-related sequence motif; null mutant displays increased levels of spontaneous Rad52p foci [Source:SGD;Acc:S000001934]
+#>E	YFR038W.1	1.0	229380-231941
+VI	230052	231113	1.0	SNF2_N	0	230052-231113	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176
+VI	231306	231530	1.0	Helicase_C	0	231306-231530	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

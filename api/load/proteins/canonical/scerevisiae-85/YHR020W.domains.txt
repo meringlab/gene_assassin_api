@@ -1,0 +1,5 @@
+#>P	YHR020W	YHR020W	YHR020W	VIII	143996	146059	1	Prolyl-tRNA synthetase; N-terminal domain shows weak homology to prokaryotic posttransfer editing domain, but does not possess posttransfer editing activity; may interact with ribosomes, based on co-purification experiments [Source:SGD;Acc:S000001062]
+#>E	YHR020W.1	1.0	143996-146062
+VIII	145799	146059	1.0	Pro-tRNA_synth_II_C	0	145799-146059	PF09180	http://pfam.sanger.ac.uk/family?acc=PF09180
+VIII	144674	145195	1.0	aa-tRNA-synt_IIb_cons-dom	0	144674-145195	PF00587	http://pfam.sanger.ac.uk/family?acc=PF00587
+VIII	145418	145720	1.0	Anticodon-bd	0	145418-145720	PF03129	http://pfam.sanger.ac.uk/family?acc=PF03129

@@ -1,0 +1,3 @@
+#>P	YDR397C	YDR397C	YDR397C	IV	1266369	1266898	-1	Subunit of a heterodimeric NC2 transcription regulator complex; complex binds to TBP and can repress transcription by preventing preinitiation complex assembly or stimulate activated transcription; homologous to human NC2beta; complex also includes Bur6p [Source:SGD;Acc:S000002805]
+#>E	YDR397C.2,YDR397C.1	1,1	1266366-1266769,1266862-1266898
+IV	1266588	1266874	-1	CBFA_NFYB_domain	0	1266588-1266769,1266862-1266874	PF00808	http://pfam.sanger.ac.uk/family?acc=PF00808

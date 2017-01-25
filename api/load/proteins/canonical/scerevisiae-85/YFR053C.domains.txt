@@ -1,0 +1,4 @@
+#>P	YFR053C	YFR053C	YFR053C	VI	253595	255049	-1	Hexokinase isoenzyme 1; a cytosolic protein that catalyzes phosphorylation of glucose during glucose metabolism; expression is highest during growth on non-glucose carbon sources; glucose-induced repression involves hexokinase Hxk2p; HXK1 has a paralog, HXK2, that arose from the whole genome duplication [Source:SGD;Acc:S000001949]
+#>E	YFR053C.1	1.0	253592-255049
+VI	253634	254377	-1.0	Hexokinase_C	0	253634-254377	PF03727	http://pfam.sanger.ac.uk/family?acc=PF03727
+VI	254381	254986	-1.0	Hexokinase_N	0	254381-254986	PF00349	http://pfam.sanger.ac.uk/family?acc=PF00349

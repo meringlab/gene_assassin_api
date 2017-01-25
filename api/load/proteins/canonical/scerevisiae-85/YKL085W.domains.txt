@@ -1,0 +1,4 @@
+#>P	YKL085W	YKL085W	YKL085W	XI	279123	280124	1	Mitochondrial malate dehydrogenase; catalyzes interconversion of malate and oxaloacetate; involved in the tricarboxylic acid (TCA) cycle; phosphorylated [Source:SGD;Acc:S000001568]
+#>E	YKL085W.1	1.0	279123-280127
+XI	279615	280115	1.0	Lactate/malate_DH_C	0	279615-280115	PF02866	http://pfam.sanger.ac.uk/family?acc=PF02866
+XI	279174	279608	1.0	Lactate/malate_DH_N	0	279174-279608	PF00056	http://pfam.sanger.ac.uk/family?acc=PF00056

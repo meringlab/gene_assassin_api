@@ -1,0 +1,5 @@
+#>P	YPL091W	YPL091W	YPL091W	XVI	375502	376950	1	Cytosolic and mitochondrial glutathione oxidoreductase; converts oxidized glutathione to reduced glutathione; cytosolic Glr1p is the main determinant of the glutathione redox state of the mitochondrial intermembrane space; mitochondrial Glr1p has a role in resistance to hyperoxia; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000006012]
+#>E	YPL091W.1	1.0	375502-376953
+XVI	375574	376512	1.0	Pyr_nucl-diS_OxRdtase_FAD/NAD	0	375574-376512	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992
+XVI	376615	376950	1.0	Pyr_nucl-diS_OxRdtase_dimer	0	376615-376950	PF02852	http://pfam.sanger.ac.uk/family?acc=PF02852
+XVI	376096	376311	1.0	Pyr_OxRdtase_NAD-bd_dom	0	376096-376311	PF00070	http://pfam.sanger.ac.uk/family?acc=PF00070

@@ -1,0 +1,3 @@
+#>P	YBR011C	YBR011C	YBR011C	II	257115	257975	-1	Cytoplasmic inorganic pyrophosphatase (PPase); homodimer that catalyzes the rapid exchange of oxygens from Pi with water, highly expressed and essential for viability, active-site residues show identity to those from E. coli PPase [Source:SGD;Acc:S000000215]
+#>E	YBR011C.1	1.0	257112-257975
+II	257289	257843	-1.0	Pyrophosphatase	0	257289-257843	PF00719	http://pfam.sanger.ac.uk/family?acc=PF00719

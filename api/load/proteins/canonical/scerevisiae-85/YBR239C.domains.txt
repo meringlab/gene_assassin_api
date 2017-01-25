@@ -1,0 +1,4 @@
+#>P	YBR239C	YBR239C	YBR239C	II	698357	699943	-1	Transcriptional regulator; involved in regulation of gluconeogenesis and fermentable carbon utilization; GFP-fusion protein localizes to cytoplasm, nucleus; null mutation affects periodicity of transcriptional and metabolic oscillation; plays role in restricting Ty1 transposition; member of the zinc cluster family of proteins, similar to Rds2p [Source:SGD;Acc:S000000443]
+#>E	YBR239C.1	1.0	698354-699943
+II	699713	699829	-1.0	Zn2-C6_fun-type_DNA-bd	0	699713-699829	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+II	698363	698713	-1.0	PAS_fold	0	698363-698713	PF00989	http://pfam.sanger.ac.uk/family?acc=PF00989

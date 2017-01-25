@@ -1,0 +1,4 @@
+#>P	YIL021W	YIL021W	YIL021W	IX	312905	313858	1	RNA polymerase II third largest subunit B44; part of central core; similar to prokaryotic alpha subunit [Source:SGD;Acc:S000001283]
+#>E	YIL021W.1	1.0	312905-313861
+IX	313049	313414	1.0	DNA-dir_RNA_pol_insert	0	313049-313414	PF01000	http://pfam.sanger.ac.uk/family?acc=PF01000
+IX	312959	313669	1.0	DNA-dir_RNA_pol_dimersation	0	312959-313669	PF01193	http://pfam.sanger.ac.uk/family?acc=PF01193

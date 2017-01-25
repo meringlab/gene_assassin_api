@@ -1,0 +1,4 @@
+#>P	YNL139C	YNL139C	YNL139C	XIV	360927	365717	-1	Subunit of the THO complex; THO is required for efficient transcription elongation and involved in transcriptional elongation-associated recombination; required for LacZ RNA expression from certain plasmids [Source:SGD;Acc:S000005083]
+#>E	YNL139C.1	1.0	360924-365717
+XIV	362139	362906	-1.0	THO_THOC2_C	0	362139-362906	PF11262	http://pfam.sanger.ac.uk/family?acc=PF11262
+XIV	363522	363746	-1.0	THO_THOC2_N	0	363522-363746	PF11732	http://pfam.sanger.ac.uk/family?acc=PF11732

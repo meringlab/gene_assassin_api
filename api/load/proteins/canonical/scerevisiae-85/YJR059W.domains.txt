@@ -1,0 +1,3 @@
+#>P	YJR059W	YJR059W	YJR059W	X	545787	548240	1	Putative serine/threonine protein kinase; involved in regulation of ion transport across plasma membrane; enhances spermine uptake; PTK2 has a paralog, PTK1, that arose from the whole genome duplication [Source:SGD;Acc:S000003820]
+#>E	YJR059W.1	1.0	545787-548243
+X	546558	547472	1.0	Prot_kinase_cat_dom	0	546558-547472	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

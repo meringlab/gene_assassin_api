@@ -1,0 +1,3 @@
+#>P	YGR027C	YGR027C	YGR027C	VII	534135	534458	-1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S25, no bacterial homolog; RPS25A has a paralog, RPS25B, that arose from the whole genome duplication [Source:SGD;Acc:S000003259]
+#>E	YGR027C.1	1.0	534132-534458
+VII	534144	534458	-1.0	Ribosomal_S25	0	534144-534458	PF03297	http://pfam.sanger.ac.uk/family?acc=PF03297

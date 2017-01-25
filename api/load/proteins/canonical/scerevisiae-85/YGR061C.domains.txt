@@ -1,0 +1,5 @@
+#>P	YGR061C	YGR061C	YGR061C	VII	611892	615965	-1	Formylglycinamidine-ribonucleotide (FGAM)-synthetase; catalyzes a step in the 'de novo' purine nucleotide biosynthetic pathway [Source:SGD;Acc:S000003293]
+#>E	YGR061C.1	1.0	611889-615965
+VII	614685	615086	-1.0	AIR_synth	0	614685-615086	PF00586	http://pfam.sanger.ac.uk/family?acc=PF00586
+VII	614082	614552	-1.0	AIR_synth_C	0	614082-614552	PF02769	http://pfam.sanger.ac.uk/family?acc=PF02769
+VII	612978	613373	-1.0	AIR_synth_C	0	612978-613373	PF02769	http://pfam.sanger.ac.uk/family?acc=PF02769

@@ -1,0 +1,3 @@
+#>P	YOR206W	YOR206W	YOR206W	XV	727512	729641	1	Protein involved in ribosome biogenesis; forms a nucleolar complex with Mak21p that binds to 90S and 66S pre-ribosomes; forms a nuclear complex with Noc3p that binds to 66S pre-ribosomes; both complexes mediate intranuclear transport of ribosomal precursors; acts as part of a Mak21p-Noc2p-Rrp5p module that associates with nascent pre-rRNA during transcription and has a role in bigenesis of the large ribosomal subunit [Source:SGD;Acc:S000005732]
+#>E	YOR206W.1	1.0	727512-729644
+XV	728562	729503	1.0	UPF0120	0	728562-729503	PF03715	http://pfam.sanger.ac.uk/family?acc=PF03715

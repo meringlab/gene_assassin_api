@@ -1,0 +1,3 @@
+#>P	YHR082C	YHR082C	YHR082C	VIII	268462	271548	-1	Serine/threonine protein kinase; associates with TORC1 and likely involved in TOR signaling cascades; negative regulator of autophagy; nuclear translocation required for haploid filamentous growth; regulates filamentous growth induced nuclear translocation of Bcy1p, Fus3p, and Sks1p; overproduction causes allele-specific suppression of prp20-10; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001124]
+#>E	YHR082C.1	1.0	268459-271548
+VIII	270544	271179	-1.0	Prot_kinase_cat_dom	0	270544-271179	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

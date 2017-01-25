@@ -1,0 +1,4 @@
+#>P	YKR078W	YKR078W	YKR078W	XI	584952	586706	1	Cytoplasmic protein of unknown function; potential Cdc28p substrate; contains a Phox homology (PX) domain and specifically binds phosphatidylinositol 3-phosphate (PtdIns-3-P); YKR078W has a paralog, VPS5, that arose from the whole genome duplication [Source:SGD;Acc:S000001786]
+#>E	YKR078W.1	1.0	584952-586709
+XI	585990	586688	1.0	Vps5_C	0	585990-586688	PF09325	http://pfam.sanger.ac.uk/family?acc=PF09325
+XI	585333	585677	1.0	Phox	0	585333-585677	PF00787	http://pfam.sanger.ac.uk/family?acc=PF00787

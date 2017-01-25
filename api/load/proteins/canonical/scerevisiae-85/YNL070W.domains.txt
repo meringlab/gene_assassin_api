@@ -1,0 +1,3 @@
+#>P	YNL070W	YNL070W	YNL070W	XIV	493366	493545	1	Component of the TOM (translocase of outer membrane) complex; responsible for recognition and initial import steps for all mitochondrially directed proteins; promotes assembly and stability of the TOM complex [Source:SGD;Acc:S000005014]
+#>E	YNL070W.1	1.0	493366-493548
+XIV	493405	493527	1.0	Tom7	0	493405-493527	PF08038	http://pfam.sanger.ac.uk/family?acc=PF08038

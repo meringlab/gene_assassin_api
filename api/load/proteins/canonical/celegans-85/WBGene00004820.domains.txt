@@ -1,0 +1,4 @@
+#>P	WBGene00004820	Y47D7A.8	Y47D7A.8	V	4421072	4422077	-1	SKp1 Related (ubiquitin ligase complex component)  [Source:RefSeq peptide;Acc:NP_504220]
+#>E	Y47D7A.8.e2,Y47D7A.8.e1	1,1	4421069-4421594,4422010-4422077
+V	4421339	4421530	-1	Skp1_comp_POZ	47.3	4421339-4421530	PF03931	http://pfam.sanger.ac.uk/family?acc=PF03931
+V	4421108	4421287	-1	Skp1_comp_dimer	86.7	4421108-4421287	PF01466	http://pfam.sanger.ac.uk/family?acc=PF01466

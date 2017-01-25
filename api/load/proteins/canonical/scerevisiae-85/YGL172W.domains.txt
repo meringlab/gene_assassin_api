@@ -1,0 +1,4 @@
+#>P	YGL172W	YGL172W	YGL172W	VII	180700	182115	1	FG-nucleoporin component of central core of the nuclear pore complex; contributes directly to nucleocytoplasmic transport and maintenance of the nuclear pore complex (NPC) permeability barrier; found in stable complex with Nic96p and two other FG-nucleoproteins (Nsp1p and Nup57p) [Source:SGD;Acc:S000003140]
+#>E	YGL172W.1	1.0	180700-182118
+VII	180883	181119	1.0	Nucleoporin_FG_rpt	0	180883-181119	PF13634	http://pfam.sanger.ac.uk/family?acc=PF13634
+VII	181120	181407	1.0	Nucleoporin_FG_rpt	0	181120-181407	PF13634	http://pfam.sanger.ac.uk/family?acc=PF13634

@@ -1,0 +1,3 @@
+#>P	YDR400W	YDR400W	YDR400W	IV	1271063	1272082	1	Uridine nucleosidase (uridine-cytidine N-ribohydrolase); cleaves N-glycosidic bonds in nucleosides; involved in the pyrimidine salvage and nicotinamide riboside salvage pathways [Source:SGD;Acc:S000002808]
+#>E	YDR400W.1	1.0	1271063-1272085
+IV	1271078	1272061	1.0	Inosine/uridine_hydrolase_dom	0	1271078-1272061	PF01156	http://pfam.sanger.ac.uk/family?acc=PF01156

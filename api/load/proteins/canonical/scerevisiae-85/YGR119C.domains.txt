@@ -1,0 +1,5 @@
+#>P	YGR119C	YGR119C	YGR119C	VII	728049	729671	-1	FG-nucleoporin component of central core of the nuclear pore complex; contributes directly to nucleocytoplasmic transport and maintenance of the nuclear pore complex (NPC) permeability barrier; found in stable complex with Nic96p and two other FG-nucleoproteins (Nsp1p and Nup49p) [Source:SGD;Acc:S000003351]
+#>E	YGR119C.1	1.0	728046-729671
+VII	728283	728696	-1.0	Nup54_alpha-helical_dom	0	728283-728696	PF13874	http://pfam.sanger.ac.uk/family?acc=PF13874
+VII	728973	729254	-1.0	Nucleoporin_FG_rpt	0	728973-729254	PF13634	http://pfam.sanger.ac.uk/family?acc=PF13634
+VII	729213	729467	-1.0	Nucleoporin_FG_rpt	0	729213-729467	PF13634	http://pfam.sanger.ac.uk/family?acc=PF13634

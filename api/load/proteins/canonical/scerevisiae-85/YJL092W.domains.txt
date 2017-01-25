@@ -1,0 +1,4 @@
+#>P	YJL092W	YJL092W	YJL092W	X	257423	260944	1	DNA helicase and DNA-dependent ATPase; involved in DNA repair and checkpoint recovery, needed for proper timing of commitment to meiotic recombination and transition from Meiosis I to II; blocks trinucleotide repeat expansion; affects genome stability; disassembles Rad51p nucleoprotein filaments during meiotic recombination; functional homolog of human RTEL1 [Source:SGD;Acc:S000003628]
+#>E	YJL092W.1	1.0	257423-260947
+X	257465	258319	1.0	Helicase_SF1_UvrD-rel	0	257465-258319	PF00580	http://pfam.sanger.ac.uk/family?acc=PF00580
+X	258341	259624	1.0	DNA_helicase_UvrD-like_C	0	258341-259624	PF13361	http://pfam.sanger.ac.uk/family?acc=PF13361

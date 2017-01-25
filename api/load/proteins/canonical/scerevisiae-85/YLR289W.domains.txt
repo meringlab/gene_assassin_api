@@ -1,0 +1,6 @@
+#>P	YLR289W	YLR289W	YLR289W	XII	715089	717023	1	Mitochondrial matrix GTPase; associates with mitochondrial ribosomes; important for translation under temperature and nutrient stress; may have a role in translational fidelity; similar to bacterial LepA elongation factor [Source:SGD;Acc:S000004280]
+#>E	YLR289W.1	1.0	715089-717026
+XII	716433	716690	1.0	Transl_elong_EFG/EF2_C	0	716433-716690	PF00679	http://pfam.sanger.ac.uk/family?acc=PF00679
+XII	715833	716042	1.0	Transl_elong_EFTu/EF1A_2	0	715833-716042	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144
+XII	715221	715763	1.0	ProtSyn_GTP-bd	0	715221-715763	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+XII	716700	717020	1.0	LepA_GTP-bd_C	0	716700-717020	PF06421	http://pfam.sanger.ac.uk/family?acc=PF06421

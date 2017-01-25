@@ -1,0 +1,4 @@
+#>P	YIL107C	YIL107C	YIL107C	IX	163281	165761	-1	6-phosphofructo-2-kinase; inhibited by phosphoenolpyruvate and sn-glycerol 3-phosphate; has negligible fructose-2,6-bisphosphatase activity; transcriptional regulation involves protein kinase A [Source:SGD;Acc:S000001369]
+#>E	YIL107C.1	1.0	163278-165761
+IX	164577	165242	-1.0	6Phosfructo_kin	0	164577-165242	PF01591	http://pfam.sanger.ac.uk/family?acc=PF01591
+IX	164046	164570	-1.0	His_Pase_superF_clade-1	0	164046-164570	PF00300	http://pfam.sanger.ac.uk/family?acc=PF00300

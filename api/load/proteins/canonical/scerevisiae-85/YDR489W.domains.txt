@@ -1,0 +1,3 @@
+#>P	YDR489W	YDR489W	YDR489W	IV	1431012	1431893	1	Subunit of the GINS complex (Sld5p, Psf1p, Psf2p, Psf3p); complex is localized to DNA replication origins and implicated in assembly of the DNA replication machinery [Source:SGD;Acc:S000002897]
+#>E	YDR489W.1	1.0	1431012-1431896
+IV	1431231	1431548	1.0	GINS_complex	0	1431231-1431548	PF05916	http://pfam.sanger.ac.uk/family?acc=PF05916

@@ -1,0 +1,4 @@
+#>P	YHR086W	YHR086W	YHR086W	VIII	278153	279721	1	RNA binding protein, component of the U1 snRNP protein; mutants are defective in meiotic recombination and in formation of viable spores, involved in the formation of DSBs through meiosis-specific splicing of REC107 pre-mRNA; Nam8p regulon embraces the meiotic pre-mRNAs of REC107, HFM1, AMA1 SPO22 and PCH2; the putative RNA binding domains RRM2 and RRM3 are required for Nam8p meiotic function [Source:SGD;Acc:S000001128]
+#>E	YHR086W.1	1.0	278153-279724
+VIII	278645	278860	1.0	RRM_dom	0	278645-278860	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+VIII	279095	279286	1.0	RRM_dom	0	279095-279286	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

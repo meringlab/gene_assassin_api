@@ -1,0 +1,3 @@
+#>P	YDR017C	YDR017C	YDR017C	IV	479118	482267	-1	Inositol hexakisphosphate and inositol heptakisphosphate kinase; generation of high energy inositol pyrophosphates by Kcs1p is required for many processes such as vacuolar biogenesis, stress response, and telomere maintenance; inositol hexakisphosphate is also known as IP6; inositol heptakisphosphate is also known as IP7 [Source:SGD;Acc:S000002424]
+#>E	YDR017C.1	1.0	479115-482267
+IV	479400	479993	-1.0	IPK	0	479400-479993	PF03770	http://pfam.sanger.ac.uk/family?acc=PF03770

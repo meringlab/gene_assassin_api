@@ -1,0 +1,3 @@
+#>P	YFR028C	YFR028C	YFR028C	VI	208416	210068	-1	Protein phosphatase required for mitotic exit; required for rDNA segregation; located in nucleolus until liberated by the FEAR and Mitotic Exit Network in anaphase, enabling it to effect a decrease in CDK/B-cyclin activity and mitotic exit; required for meiosis I spindle disassembly; released from nucleolus upon entry into anaphase I of meiosis, resequestered in metaphase II, then released again upon entry into anaphase II; maintained in nucleolus by Cdc55p in early meiosis [Source:SGD;Acc:S000001924]
+#>E	YFR028C.1	1.0	208413-210068
+VI	209067	209474	-1.0	Dual-sp_phosphatase_cat-dom	0	209067-209474	PF00782	http://pfam.sanger.ac.uk/family?acc=PF00782

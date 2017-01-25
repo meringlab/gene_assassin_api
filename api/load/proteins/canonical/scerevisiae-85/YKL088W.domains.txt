@@ -1,0 +1,3 @@
+#>P	YKL088W	YKL088W	YKL088W	XI	275283	276995	1	Subunit of PPCDC and CoA-SPC complexes involved in CoA biosynthesis; subunits of the phosphopantothenoylcysteine decarboxylase (PPCDC) complex are: Cab3p, Sis2p, Vhs3p, while the subunits of the CoA-synthesizing protein complex (CoA-SPC) are: Cab2p, Cab3p, Cab4p, and Cab5p as well as Sis2p and Vhs3p; null mutant lethality is complemented by E. coli coaBC [Source:SGD;Acc:S000001571]
+#>E	YKL088W.1	1.0	275283-276998
+XI	276210	276638	1.0	Flavoprotein	0	276210-276638	PF02441	http://pfam.sanger.ac.uk/family?acc=PF02441

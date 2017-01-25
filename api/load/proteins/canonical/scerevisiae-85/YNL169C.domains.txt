@@ -1,0 +1,3 @@
+#>P	YNL169C	YNL169C	YNL169C	XIV	316172	317671	-1	Phosphatidylserine decarboxylase of the mitochondrial inner membrane; converts phosphatidylserine to phosphatidylethanolamine; regulates mitochondrial fusion and morphology by affecting lipid mixing in the mitochondrial membrane and by influencing the ratio of long to short forms of Mgm1p; partly exposed to the mitochondrial intermembrane space [Source:SGD;Acc:S000005113]
+#>E	YNL169C.1	1.0	316169-317671
+XIV	316196	317125	-1.0	PS_Dcarbxylase	0	316196-317125	PF02666	http://pfam.sanger.ac.uk/family?acc=PF02666

@@ -1,0 +1,5 @@
+#>P	YNL216W	YNL216W	YNL216W	XIV	241689	244169	1	Essential DNA-binding transcription regulator that binds many loci; involved in transcription activation and repression, chromatin silencing, and telomere length maintenance; relocalizes to the cytosol in response to hypoxia; conserved protein with an N-terminal BRCT domain, a central region with homology to the Myb DNA binding domain, and a C-terminal Rap1-specific protein-interaction domain (RCT domain) [Source:SGD;Acc:S000005160]
+#>E	YNL216W.1	1.0	241689-244172
+XIV	243849	244151	1.0	Rap1_C	0	243849-244151	PF11626	http://pfam.sanger.ac.uk/family?acc=PF11626
+XIV	243030	243425	1.0	Rap1-DNA-bind	0	243030-243425	PF09197	http://pfam.sanger.ac.uk/family?acc=PF09197
+XIV	242772	242921	1.0	SANT_DNA-bd	0	242772-242921	PF00249	http://pfam.sanger.ac.uk/family?acc=PF00249

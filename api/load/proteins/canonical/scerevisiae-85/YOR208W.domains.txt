@@ -1,0 +1,3 @@
+#>P	YOR208W	YOR208W	YOR208W	XV	733925	736174	1	Nuclear phosphotyrosine-specific phosphatase involved in osmosensing; involved in the inactivation of mitogen-activated protein kinase (MAPK) during osmolarity sensing; dephosporylates Hog1p MAPK and regulates its localization; with Msg5p co-regulates the calcium signaling pathway [Source:SGD;Acc:S000005734]
+#>E	YOR208W.1	1.0	733925-736177
+XV	735149	736132	1.0	Tyr_Pase_rcpt/non-rcpt	0	735149-736132	PF00102	http://pfam.sanger.ac.uk/family?acc=PF00102

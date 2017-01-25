@@ -1,0 +1,4 @@
+#>P	YHR206W	YHR206W	YHR206W	VIII	512732	514597	1	Nuclear response regulator and transcription factor; physically interacts with the Tup1-Cyc8 complex and recruits Tup1p to its targets; part of a branched two-component signaling system; required for optimal induction of heat-shock genes in response to oxidative stress; involved in osmoregulation; relocalizes to the cytosol in response to hypoxia; SKN7 has a paralog, HMS2, that arose from the whole genome duplication [Source:SGD;Acc:S000001249]
+#>E	YHR206W.1	1.0	512732-514600
+VIII	513866	514192	1.0	Sig_transdc_resp-reg_receiver	0	513866-514192	PF00072	http://pfam.sanger.ac.uk/family?acc=PF00072
+VIII	512987	513298	1.0	HSF_DNA-bd	0	512987-513298	PF00447	http://pfam.sanger.ac.uk/family?acc=PF00447

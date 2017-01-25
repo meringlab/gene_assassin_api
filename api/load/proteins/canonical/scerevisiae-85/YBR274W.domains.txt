@@ -1,0 +1,3 @@
+#>P	YBR274W	YBR274W	YBR274W	II	749594	751174	1	Serine/threonine kinase and DNA damage checkpoint effector; mediates cell cycle arrest via phosphorylation of Pds1p; phosphorylated by checkpoint signal transducer Mec1p; homolog of S. pombe and mammalian Chk1 checkpoint kinase [Source:SGD;Acc:S000000478]
+#>E	YBR274W.1	1.0	749594-751177
+II	749642	750436	1.0	Prot_kinase_cat_dom	0	749642-750436	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

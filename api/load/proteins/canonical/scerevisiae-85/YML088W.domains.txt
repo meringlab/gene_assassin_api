@@ -1,0 +1,3 @@
+#>P	YML088W	YML088W	YML088W	XIII	92235	94238	1	F-box receptor protein; subunit of the Skp1-Cdc53-F-box receptor (SCF) E3 ubiquitin ligase complex; binds to phosphorylated Ho endonuclease, allowing its ubiquitylation by SCF and subsequent degradation [Source:SGD;Acc:S000004553]
+#>E	YML088W.1	1.0	92235-94241
+XIII	92256	92384	1.0	F-box_dom_cyclin-like	0	92256-92384	PF00646	http://pfam.sanger.ac.uk/family?acc=PF00646

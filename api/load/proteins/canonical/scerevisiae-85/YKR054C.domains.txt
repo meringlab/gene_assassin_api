@@ -1,0 +1,8 @@
+#>P	YKR054C	YKR054C	YKR054C	XI	535650	547925	-1	Cytoplasmic heavy chain dynein; microtubule motor protein; member of the AAA+ protein family, required for anaphase spindle elongation; involved in spindle assembly, chromosome movement, and spindle orientation during cell division, targeted to microtubule tips by Pac1p; motility along microtubules inhibited by She1p [Source:SGD;Acc:S000001762]
+#>E	YKR054C.1	1.0	535647-547925
+XI	541305	541718	-1.0	ATPase_dyneun-rel_AAA	0	541305-541718	PF07728	http://pfam.sanger.ac.uk/family?acc=PF07728
+XI	537888	538874	-1.0	Dynein_HC_stalk	0	537888-538874	PF12777	http://pfam.sanger.ac.uk/family?acc=PF12777
+XI	535884	536564	-1.0	Dynein_heavy	0	535884-536564	PF03028	http://pfam.sanger.ac.uk/family?acc=PF03028
+XI	539124	539732	-1.0	Dynein_heavy_chain_D4_dom	0	539124-539732	PF12780	http://pfam.sanger.ac.uk/family?acc=PF12780
+XI	545634	547277	-1.0	Dynein_heavy_dom-1	0	545634-547277	PF08385	http://pfam.sanger.ac.uk/family?acc=PF08385
+XI	543036	544268	-1.0	Dynein_heavy_dom-2	0	543036-544268	PF08393	http://pfam.sanger.ac.uk/family?acc=PF08393

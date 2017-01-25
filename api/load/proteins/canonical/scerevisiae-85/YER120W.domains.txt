@@ -1,0 +1,3 @@
+#>P	YER120W	YER120W	YER120W	V	401135	401866	1	Integral ER membrane protein, regulates phospholipid metabolism; one of 6 proteins (Ist2p, Scs2p, Scs22p, Tcb1p, Tcb2p, Tcb3p) that connect ER to the plasma membrane (PM) and regulate PI4P levels by controlling access of Sac1p phosphatase to its substrate PI4P in the PM; interacts with FFAT motif of Opi1p; involved in telomeric silencing; null shows inositol auxotrophy above 34 deg C; VAP homolog; SCS2 has a paralog, SCS22, that arose from the whole genome duplication [Source:SGD;Acc:S000000922]
+#>E	YER120W.1	1.0	401135-401869
+V	401144	401455	1.0	Major_sperm	0	401144-401455	PF00635	http://pfam.sanger.ac.uk/family?acc=PF00635

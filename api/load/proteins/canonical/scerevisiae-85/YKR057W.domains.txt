@@ -1,0 +1,3 @@
+#>P	YKR057W	YKR057W	YKR057W	XI	551657	552239	1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S21, no bacterial homolog; RPS21A has a paralog, RPS21B, that arose from the whole genome duplication [Source:SGD;Acc:S000001765]
+#>E	YKR057W.1,YKR057W.2	1,1	551657-551680,552003-552242
+XI	551657	552221	1	Ribosomal_S21e	0	551657-551680,552003-552221	PF01249	http://pfam.sanger.ac.uk/family?acc=PF01249

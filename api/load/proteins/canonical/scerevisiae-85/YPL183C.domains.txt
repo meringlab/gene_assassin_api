@@ -1,0 +1,5 @@
+#>P	YPL183C	YPL183C	YPL183C	XVI	199498	202536	-1	WD40 domain-containing protein involved in endosomal recycling; forms a complex with Rrt2p that functions in the retromer-mediated pathway for recycling internalized cell-surface proteins; evidence it interacts with Trm7p for 2'-O-methylation of N34 of substrate tRNAs; has a role in regulation of Ty1 transposition; human ortholog is WDR6 [Source:SGD;Acc:S000006104]
+#>E	YPL183C.1	1.0	199495-202536
+XVI	200464	200580	-1.0	WD40_repeat	0	200464-200580	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XVI	201916	202026	-1.0	WD40_repeat	0	201916-202026	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XVI	201790	201903	-1.0	WD40_repeat	0	201790-201903	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

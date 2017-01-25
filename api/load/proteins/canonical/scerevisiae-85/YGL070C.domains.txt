@@ -1,0 +1,4 @@
+#>P	YGL070C	YGL070C	YGL070C	VII	374462	374827	-1	RNA polymerase II subunit B12.6; contacts DNA; mutations affect transcription start site selection and fidelity of transcription [Source:SGD;Acc:S000003038]
+#>E	YGL070C.1	1.0	374459-374827
+VII	374495	374608	-1.0	Znf_TFIIS	0	374495-374608	PF01096	http://pfam.sanger.ac.uk/family?acc=PF01096
+VII	374708	374818	-1.0	DNA-dir_RNA_pol_M/15kDasu	0	374708-374818	PF02150	http://pfam.sanger.ac.uk/family?acc=PF02150

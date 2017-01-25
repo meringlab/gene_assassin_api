@@ -1,0 +1,4 @@
+#>P	YBR018C	YBR018C	YBR018C	II	274430	275527	-1	Galactose-1-phosphate uridyl transferase; synthesizes glucose-1-phosphate and UDP-galactose from UDP-D-glucose and alpha-D-galactose-1-phosphate in the second step of galactose catabolism [Source:SGD;Acc:S000000222]
+#>E	YBR018C.1	1.0	274427-275527
+II	274433	274933	-1.0	GalP_Utransf_C	0	274433-274933	PF02744	http://pfam.sanger.ac.uk/family?acc=PF02744
+II	274952	275515	-1.0	GalP_Utransf_N	0	274952-275515	PF01087	http://pfam.sanger.ac.uk/family?acc=PF01087

@@ -1,0 +1,3 @@
+#>P	YGR028W	YGR028W	YGR028W	VII	542203	543288	1	Highly-conserved N-terminally anchored AAA-ATPase; distributed in the mitochondrial outer membrane and peroxisomes; involved in mitochondrial protein sorting; functions as an extraction engine in local organelle surveillance to remove and initiate degradation of mistargeted proteins, ensuring fidelity of organelle-specific localization of tail-anchored proteins; contains an N-terminal transmembrane domain and C-terminal cytoplasmic ATPase domain [Source:SGD;Acc:S000003260]
+#>E	YGR028W.1	1.0	542203-543291
+VII	542587	542970	1.0	ATPase_AAA_core	0	542587-542970	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

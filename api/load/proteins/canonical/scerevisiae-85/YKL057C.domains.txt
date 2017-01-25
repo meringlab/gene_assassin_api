@@ -1,0 +1,3 @@
+#>P	YKL057C	YKL057C	YKL057C	XI	330859	333969	-1	Subunit of the Nup84p subcomplex of the nuclear pore complex (NPC); contributes to nucleocytoplasmic transport and NPC biogenesis and is involved in establishment of a normal nucleocytoplasmic concentration gradient of the GTPase Gsp1p; also plays roles in several processes that may require localization of genes or chromosomes at the nuclear periphery, including double-strand break repair, transcription and chromatin silencing; homologous to human NUP160 [Source:SGD;Acc:S000001540]
+#>E	YKL057C.1	1.0	330856-333969
+XI	332827	333699	-1.0	Nucleoporin_Nup160	0	332827-333699	PF11715	http://pfam.sanger.ac.uk/family?acc=PF11715

@@ -1,0 +1,4 @@
+#>P	YER059W	YER059W	YER059W	V	272624	273883	1	Pho85p cyclin of the Pho80p subfamily; forms the major Glc8p kinase together with Pcl7p and Pho85p; involved in the control of glycogen storage by Pho85p; stabilized by Elongin C binding; PCL6 has a paralog, PCL7, that arose from the whole genome duplication [Source:SGD;Acc:S000000861]
+#>E	YER059W.1	1.0	272624-273886
+V	273593	273787	1.0	Cyclin_PHO80-like	0	273593-273787	PF08613	http://pfam.sanger.ac.uk/family?acc=PF08613
+V	273131	273433	1.0	Cyclin_PHO80-like	0	273131-273433	PF08613	http://pfam.sanger.ac.uk/family?acc=PF08613

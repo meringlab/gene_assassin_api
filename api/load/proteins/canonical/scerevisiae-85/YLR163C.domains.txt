@@ -1,0 +1,4 @@
+#>P	YLR163C	YLR163C	YLR163C	XII	491869	493254	-1	Beta subunit of the mitochondrial processing protease (MPP); essential processing enzyme that cleaves the N-terminal targeting sequences from mitochondrially imported proteins [Source:SGD;Acc:S000004153]
+#>E	YLR163C.1	1.0	491866-493254
+XII	492706	493146	-1.0	Pept_M16_N	0	492706-493146	PF00675	http://pfam.sanger.ac.uk/family?acc=PF00675
+XII	492115	492690	-1.0	Peptidase_M16_C	0	492115-492690	PF05193	http://pfam.sanger.ac.uk/family?acc=PF05193

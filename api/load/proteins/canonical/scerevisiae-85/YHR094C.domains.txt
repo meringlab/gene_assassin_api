@@ -1,0 +1,3 @@
+#>P	YHR094C	YHR094C	YHR094C	VIII	290916	292625	-1	Low-affinity glucose transporter of the major facilitator superfamily; expression is induced by Hxk2p in the presence of glucose and repressed by Rgt1p when glucose is limiting; HXT1 has a paralog, HXT6, what arose from the whole genome duplication [Source:SGD;Acc:S000001136]
+#>E	YHR094C.1	1.0	290913-292625
+VIII	291042	292424	-1.0	Sub_transporter	0	291042-292424	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083

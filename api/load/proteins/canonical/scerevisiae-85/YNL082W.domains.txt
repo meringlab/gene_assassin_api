@@ -1,0 +1,5 @@
+#>P	YNL082W	YNL082W	YNL082W	XIV	473391	476009	1	ATP-binding protein required for mismatch repair; required for both mitosis and meiosis; functions as a heterodimer with Mlh1p; binds double- and single-stranded DNA via its N-terminal domain, similar to E. coli MutL [Source:SGD;Acc:S000005026]
+#>E	YNL082W.1	1.0	473391-476012
+XIV	473448	473681	1.0	ATPase-like_ATP-bd	0	473448-473681	PF02518	http://pfam.sanger.ac.uk/family?acc=PF02518
+XIV	475413	475871	1.0	MutL_C	0	475413-475871	PF08676	http://pfam.sanger.ac.uk/family?acc=PF08676
+XIV	474165	474458	1.0	DNA_mismatch_repair_C	0	474165-474458	PF01119	http://pfam.sanger.ac.uk/family?acc=PF01119

@@ -1,0 +1,4 @@
+#>P	YML034W	YML034W	YML034W	XIII	209525	212152	1	Inner nuclear membrane protein; highly enriched at telomeres and subtelomeric regions; functions in regulation of subtelomeric genes and is linked to TREX (transcription export) factors; SRC1 produces 2 splice variant proteins with different functions; alternative splicing of SRC1 pre-mRNA is promoted by Hub1p; mutant has aneuploidy tolerance; SEC1 has a paralog, HEH2, that arose from the whole genome duplication [Source:SGD;Acc:S000004497]
+#>E	YML034W.1,YML034W.2	1,1	209525-211444,211571-212155
+XIII	209564	209668	1	HeH/LEM_domain	0	209564-209668	PF12949	http://pfam.sanger.ac.uk/family?acc=PF12949
+XIII	210908	212110	1	Inner-Nucl-membr_MAN1	0	210908-211444,211571-212110	PF09402	http://pfam.sanger.ac.uk/family?acc=PF09402

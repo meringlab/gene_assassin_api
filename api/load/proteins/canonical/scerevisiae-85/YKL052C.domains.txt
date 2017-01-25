@@ -1,0 +1,3 @@
+#>P	YKL052C	YKL052C	YKL052C	XI	339671	340546	-1	Essential subunit of the Dam1 complex (aka DASH complex); couples kinetochores to the force produced by MT depolymerization thereby aiding in chromosome segregation; phosphorylated during the cell cycle by cyclin-dependent kinases; sumoylated in an Mms21p-dependent manner; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001535]
+#>E	YKL052C.1	1.0	339668-340546
+XI	340325	340519	-1.0	DASH_Ask1	0	340325-340519	PF08655	http://pfam.sanger.ac.uk/family?acc=PF08655

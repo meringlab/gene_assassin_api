@@ -1,0 +1,4 @@
+#>P	YOL097C	YOL097C	YOL097C	XV	136530	137825	-1	Cytoplasmic tryptophanyl-tRNA synthetase; aminoacylates tryptophanyl-tRNA [Source:SGD;Acc:S000005457]
+#>E	YOL097C.1	1.0	136527-137825
+XV	136662	137057	-1.0	aa-tRNA-synth_Ic	0	136662-137057	PF00579	http://pfam.sanger.ac.uk/family?acc=PF00579
+XV	137232	137528	-1.0	aa-tRNA-synth_Ic	0	137232-137528	PF00579	http://pfam.sanger.ac.uk/family?acc=PF00579

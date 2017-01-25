@@ -1,0 +1,6 @@
+#>P	YGR281W	YGR281W	YGR281W	VII	1052824	1057254	1	Plasma membrane ATP-binding cassette (ABC) transporter; multidrug transporter mediates export of many different organic anions including oligomycin; homolog of human cystic fibrosis transmembrane receptor (CFTR) [Source:SGD;Acc:S000003513]
+#>E	YGR281W.1	1.0	1052824-1057257
+VII	1054705	1055028	1.0	ABC_transporter-like	37.1	1054705-1055028	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+VII	1056583	1057008	1.0	ABC_transporter-like	61	1056583-1057008	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+VII	1055506	1056285	1.0	ABC_transptr_TM_dom	145.3	1055506-1056285	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664
+VII	1053442	1054257	1.0	ABC_transptr_TM_dom	124.8	1053442-1054257	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664

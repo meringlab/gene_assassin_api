@@ -1,0 +1,4 @@
+#>P	YMR318C	YMR318C	YMR318C	XIII	911064	912143	-1	NADPH-dependent medium chain alcohol dehydrogenase; has broad substrate specificity; member of the cinnamyl family of alcohol dehydrogenases; may be involved in fusel alcohol synthesis or in aldehyde tolerance; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004937]
+#>E	YMR318C.1	1.0	911061-912143
+XIII	911199	911576	-1.0	ADH_C	0	911199-911576	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107
+XIII	911697	912044	-1.0	ADH_GroES-like	0	911697-912044	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240

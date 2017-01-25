@@ -1,0 +1,3 @@
+#>P	YGL099W	YGL099W	YGL099W	VII	314631	316550	1	Putative GTPase involved in 60S ribosomal subunit biogenesis; required for the release of Nmd3p from 60S subunits in the cytoplasm [Source:SGD;Acc:S000003067]
+#>E	YGL099W.1	1.0	314631-316553
+VII	315645	315815	1.0	GTP_binding_domain	52.8	315645-315815	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926

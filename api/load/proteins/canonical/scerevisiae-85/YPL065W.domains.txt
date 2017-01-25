@@ -1,0 +1,3 @@
+#>P	YPL065W	YPL065W	YPL065W	XVI	427927	428652	1	Component of the ESCRT-I complex; complex is involved in ubiquitin-dependent sorting of proteins into the endosome; conserved C-terminal domain interacts with ESCRT-III subunit Vps20p; other members include Stp22p, Srn2p, Vps28p, and Mvb12p [Source:SGD;Acc:S000005986]
+#>E	YPL065W.1	1.0	427927-428655
+XVI	428044	428652	1.0	VPS28	0	428044-428652	PF03997	http://pfam.sanger.ac.uk/family?acc=PF03997

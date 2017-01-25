@@ -1,0 +1,4 @@
+#>P	YLR116W	YLR116W	YLR116W	XII	380822	382249	1	Component of commitment complex; which defines first step in splicing pathway; essential protein that interacts with Mud2p and Prp40p, forming a bridge between the intron ends; also involved in nuclear retention of pre-mRNA; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000004106]
+#>E	YLR116W.1	1.0	380822-382252
+XII	381713	381757	1.0	Znf_CCHC	0	381713-381757	PF00098	http://pfam.sanger.ac.uk/family?acc=PF00098
+XII	381308	381394	1.0	KH_type_1	0	381308-381394	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013

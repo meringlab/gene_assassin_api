@@ -1,0 +1,8 @@
+#>P	YMR116C	YMR116C	YMR116C	XIII	499459	500688	-1	G-protein beta subunit and guanine dissociation inhibitor for Gpa2p; ortholog of RACK1 that inhibits translation; core component of the small (40S) ribosomal subunit; regulates P-body formation induced by replication stress; represses Gcn4p in the absence of amino acid starvation [Source:SGD;Acc:S000004722]
+#>E	YMR116C.2,YMR116C.1	1,1	499456-499878,500152-500688
+XIII	499870	500277	-1	WD40_repeat	0	499870-499878,500152-500277	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	500410	500523	-1	WD40_repeat	0	500410-500523	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	500551	500658	-1	WD40_repeat	0	500551-500658	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	499477	499545	-1	WD40_repeat	0	499477-499545	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	500287	500391	-1	WD40_repeat	0	500287-500391	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	499744	499845	-1	WD40_repeat	0	499744-499845	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

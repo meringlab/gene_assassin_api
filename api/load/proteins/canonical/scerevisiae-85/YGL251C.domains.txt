@@ -1,0 +1,5 @@
+#>P	YGL251C	YGL251C	YGL251C	VII	27924	31636	-1	Meiosis specific DNA helicase; involved in the conversion of double-stranded breaks to later recombination intermediates and in crossover control; catalyzes the unwinding of Holliday junctions; has ssDNA and dsDNA stimulated ATPase activity [Source:SGD;Acc:S000003220]
+#>E	YGL251C.2,YGL251C.1	1,1	27921-31426,31579-31636
+VII	29997	30227	-1	Helicase_C	0	29997-30227	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+VII	28689	29639	-1	Sec63-dom	0	28689-29639	PF02889	http://pfam.sanger.ac.uk/family?acc=PF02889
+VII	30558	31064	-1	DNA/RNA_helicase_DEAD/DEAH_N	0	30558-31064	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

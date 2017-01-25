@@ -1,0 +1,3 @@
+#>P	YML027W	YML027W	YML027W	XIII	221406	222560	1	Homeobox transcriptional repressor; binds to Mcm1p and to early cell cycle boxes (ECBs) in the promoters of cell cycle-regulated genes expressed in M/G1 phase; expression is cell cycle-regulated; potential Cdc28p substrate; relocalizes from nucleus to cytoplasm upon DNA replication stress; YOX1 has a paralog, YHP1, that arose from the whole genome duplication [Source:SGD;Acc:S000004489]
+#>E	YML027W.1	1.0	221406-222563
+XIII	221934	222104	1.0	Homeobox	0	221934-222104	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046

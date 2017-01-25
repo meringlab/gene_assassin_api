@@ -1,0 +1,3 @@
+#>P	YDR492W	YDR492W	YDR492W	IV	1434924	1435871	1	Membrane protein involved in zinc ion homeostasis; member of the four-protein IZH family; transcription is regulated directly by Zap1p, expression induced by zinc deficiency and fatty acids; deletion increases sensitivity to elevated zinc; IZH1 has a paralog, IZH4, that arose from the whole genome duplication [Source:SGD;Acc:S000002900]
+#>E	YDR492W.1	1.0	1434924-1435874
+IV	1435146	1435823	1.0	HlyIII-related	0	1435146-1435823	PF03006	http://pfam.sanger.ac.uk/family?acc=PF03006

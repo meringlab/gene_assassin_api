@@ -1,0 +1,3 @@
+#>P	YOR256C	YOR256C	YOR256C	XV	808257	810683	-1	Transferrin receptor-like protein; functions with Tre1p to regulate ubiquitylation and vacuolar degradation of the metal transporter Smf1p; inviability of null mutant in systematic studies is due to proximity to CDC31; TRE2 has a paralog, TRE1, that arose from the whole genome duplication [Source:SGD;Acc:S000005782]
+#>E	YOR256C.1	1.0	808254-810683
+XV	808281	808685	-1.0	TFR-like_dimer_dom	0	808281-808685	PF04253	http://pfam.sanger.ac.uk/family?acc=PF04253

@@ -1,0 +1,5 @@
+#>P	YKL068W	YKL068W	YKL068W	XI	310199	313075	1	FG-nucleoporin component of central core of the nuclear pore complex; contributes directly to nucleocytoplasmic transport and maintenance of the nuclear pore complex (NPC) permeability barrier and is involved in gene tethering at the nuclear periphery; NUP100 has a paralog, NUP116, that arose from the whole genome duplication [Source:SGD;Acc:S000001551]
+#>E	YKL068W.1	1.0	310199-313078
+XI	311477	311746	1.0	Nucleoporin_FG_rpt	0	311477-311746	PF13634	http://pfam.sanger.ac.uk/family?acc=PF13634
+XI	310883	311161	1.0	Nucleoporin_FG_rpt	0	310883-311161	PF13634	http://pfam.sanger.ac.uk/family?acc=PF13634
+XI	312644	313063	1.0	Peptidase_S59	0	312644-313063	PF04096	http://pfam.sanger.ac.uk/family?acc=PF04096

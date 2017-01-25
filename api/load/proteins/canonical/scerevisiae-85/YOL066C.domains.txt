@@ -1,0 +1,4 @@
+#>P	YOL066C	YOL066C	YOL066C	XV	202699	204471	-1	Bifunctional DRAP deaminase tRNA:pseudouridine synthase; the deaminase catalyzes the third step in riboflavin biosynthesis and the synthase catalyzes formation of pseudouridine at position 32 in cytoplasmic tRNAs; RIB2 has a paralog, PUS9, that arose from the whole genome duplication [Source:SGD;Acc:S000005427]
+#>E	YOL066C.1	1.0	202696-204471
+XV	203518	203967	-1.0	PsdUridine_synth_RsuA/RluD	0	203518-203967	PF00849	http://pfam.sanger.ac.uk/family?acc=PF00849
+XV	202855	203172	-1.0	CMP_dCMP_Zn-bd	0	202855-203172	PF00383	http://pfam.sanger.ac.uk/family?acc=PF00383

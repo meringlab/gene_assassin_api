@@ -1,0 +1,3 @@
+#>P	YKL161C	YKL161C	YKL161C	XI	149389	150687	-1	Protein kinase; implicated in Slt2p mitogen-activated (MAP) kinase signaling pathway; interacts with numerous components in the mating pheromone and CWI MAPK pathways; associates with Rlm1p; KDX1 has a paralog, SLT2, that arose from the whole genome duplication [Source:SGD;Acc:S000001644]
+#>E	YKL161C.1	1.0	149386-150687
+XI	149734	150618	-1.0	Prot_kinase_cat_dom	208.8	149734-150618	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

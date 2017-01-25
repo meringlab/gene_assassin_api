@@ -1,0 +1,3 @@
+#>P	YML036W	YML036W	YML036W	XIII	205642	206290	1	Component of the EKC/KEOPS complex; EKC/KEOPS complex is required for t6A tRNA modification and telomeric TG1-3 recombination; may have role in transcription; Cgi121p is dispensable for tRNA modification; other complex members are Bud32p, Kae1p, Pcc1p, and Gon7p [Source:SGD;Acc:S000004500]
+#>E	YML036W.1,YML036W.2	1,1	205642-206097,206204-206293
+XIII	205696	206284	1	Kinase-bd_CGI-121	0	205696-206097,206204-206284	PF08617	http://pfam.sanger.ac.uk/family?acc=PF08617

@@ -1,0 +1,3 @@
+#>P	YOR070C	YOR070C	YOR070C	XV	455910	457820	-1	Cis-golgi GTPase-activating protein (GAP) for yeast Rabs; the Rab family members are Ypt1p (in vivo) and for Ypt1p, Sec4p, Ypt7p, and Ypt51p (in vitro); involved in vesicle docking and fusion [Source:SGD;Acc:S000005596]
+#>E	YOR070C.1	1.0	455907-457820
+XV	456294	456968	-1.0	RabGAP/TBC_dom	0	456294-456968	PF00566	http://pfam.sanger.ac.uk/family?acc=PF00566

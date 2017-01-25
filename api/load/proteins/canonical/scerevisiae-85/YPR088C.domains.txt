@@ -1,0 +1,5 @@
+#>P	YPR088C	YPR088C	YPR088C	XVI	711406	713028	-1	Signal recognition particle (SRP) subunit (homolog of mammalian SRP54); contains the signal sequence-binding activity of SRP, interacts with the SRP RNA, and mediates binding of SRP to signal receptor; contains GTPase domain [Source:SGD;Acc:S000006292]
+#>E	YPR088C.1	1.0	711403-713028
+XVI	711721	712026	-1.0	Signal_recog_particle_SRP54_M	0	711721-712026	PF02978	http://pfam.sanger.ac.uk/family?acc=PF02978
+XVI	712117	712701	-1.0	Signal_recog_part_SRP54_GTPase	0	712117-712701	PF00448	http://pfam.sanger.ac.uk/family?acc=PF00448
+XVI	712765	713013	-1.0	Signal_recog_particl_SRP54_hlx	0	712765-713013	PF02881	http://pfam.sanger.ac.uk/family?acc=PF02881

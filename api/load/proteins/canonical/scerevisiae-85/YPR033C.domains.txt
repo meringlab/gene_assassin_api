@@ -1,0 +1,4 @@
+#>P	YPR033C	YPR033C	YPR033C	XVI	637382	639019	-1	Cytoplasmic and mitochondrial histidine tRNA synthetase; efficient mitochondrial localization requires both a presequence and an amino-terminal sequence; mutations in human ortholog HARS2 are associated with Perrault syndrome [Source:SGD;Acc:S000006237]
+#>E	YPR033C.1	1.0	637379-639019
+XVI	637442	637741	-1.0	Anticodon-bd	0	637442-637741	PF03129	http://pfam.sanger.ac.uk/family?acc=PF03129
+XVI	638369	638809	-1.0	aa-tRNA-synt_IIb_cons-dom	0	638369-638809	PF00587	http://pfam.sanger.ac.uk/family?acc=PF00587

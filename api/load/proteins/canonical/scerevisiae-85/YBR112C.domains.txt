@@ -1,0 +1,8 @@
+#>P	YBR112C	YBR112C	YBR112C	II	462873	465770	-1	General transcriptional co-repressor; acts together with Tup1p; also acts as part of a transcriptional co-activator complex that recruits the SWI/SNF and SAGA complexes to promoters; can form the prion [OCT+] [Source:SGD;Acc:S000000316]
+#>E	YBR112C.1	1.0	462870-465770
+II	465138	465209	-1.0	TPR-1	0	465138-465209	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+II	465435	465533	-1.0	TPR-1	0	465435-465533	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+II	465342	465428	-1.0	TPR-1	0	465342-465428	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+II	465003	465098	-1.0	TPR-1	0	465003-465098	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+II	465222	465320	-1.0	TPR-1	0	465222-465320	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+II	464688	464777	-1.0	TPR-1	0	464688-464777	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515

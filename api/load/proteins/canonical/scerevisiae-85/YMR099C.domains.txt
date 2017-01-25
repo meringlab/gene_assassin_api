@@ -1,0 +1,3 @@
+#>P	YMR099C	YMR099C	YMR099C	XIII	463937	464827	-1	Glucose-6-phosphate 1-epimerase (hexose-6-phosphate mutarotase); likely involved in carbohydrate metabolism; GFP-fusion protein localizes to both the nucleus and cytoplasm and is induced in response to the DNA-damaging agent MMS [Source:SGD;Acc:S000004705]
+#>E	YMR099C.1	1.0	463934-464827
+XIII	463973	464779	-1.0	Aldose_1-epimerase	0	463973-464779	PF01263	http://pfam.sanger.ac.uk/family?acc=PF01263

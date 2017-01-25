@@ -1,0 +1,4 @@
+#>P	YDR180W	YDR180W	YDR180W	IV	821295	825773	1	Subunit of cohesin loading factor (Scc2p-Scc4p); a complex required for loading of cohesin complexes onto chromosomes; involved in establishing sister chromatid cohesion during DSB repair via histone H2AX; evolutionarily-conserved adherin; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000002588]
+#>E	YDR180W.1	1.0	821295-825776
+IV	824904	825452	1.0	Nipped-B_C	0	824904-825452	PF12830	http://pfam.sanger.ac.uk/family?acc=PF12830
+IV	823455	823580	1.0	Cohesin_HEAT	0	823455-823580	PF12765	http://pfam.sanger.ac.uk/family?acc=PF12765

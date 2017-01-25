@@ -1,0 +1,3 @@
+#>P	YGL141W	YGL141W	YGL141W	VII	238353	241082	1	Multiubiquitin chain assembly factor (E4); proteasome processivity factor that elongates polyUb chains on substrates, opposing Ubp6p, a branched polyubiquitin protease; required for retrograde transport of misfolded proteins during ERAD [Source:SGD;Acc:S000003109]
+#>E	YGL141W.1	1.0	238353-241085
+VII	240174	241082	1.0	HECT	0	240174-241082	PF00632	http://pfam.sanger.ac.uk/family?acc=PF00632

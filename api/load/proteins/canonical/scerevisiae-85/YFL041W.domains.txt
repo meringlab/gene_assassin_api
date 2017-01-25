@@ -1,0 +1,5 @@
+#>P	YFL041W	YFL041W	YFL041W	VI	49139	51004	1	Multicopper oxidase; integral membrane protein with similarity to Fet3p; may have a role in iron transport [Source:SGD;Acc:S000001853]
+#>E	YFL041W.1	1.0	49139-51007
+VI	50240	50683	1.0	Cu-oxidase_2	0	50240-50683	PF07731	http://pfam.sanger.ac.uk/family?acc=PF07731
+VI	49607	49987	1.0	Cu-oxidase	0	49607-49987	PF00394	http://pfam.sanger.ac.uk/family?acc=PF00394
+VI	49217	49585	1.0	Cu-oxidase_3	0	49217-49585	PF07732	http://pfam.sanger.ac.uk/family?acc=PF07732

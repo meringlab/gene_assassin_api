@@ -1,0 +1,3 @@
+#>P	YOR159C	YOR159C	YOR159C	XV	633285	633566	-1	Core Sm protein Sm E; part of heteroheptameric complex (with Smb1p, Smd1p, Smd2p, Smd3p, Smx3p, and Smx2p) that is part of the spliceosomal U1, U2, U4, and U5 snRNPs; homolog of human Sm E [Source:SGD;Acc:S000005685]
+#>E	YOR159C.1	1.0	633282-633566
+XV	633294	633512	-1.0	LSM_domain	0	633294-633512	PF01423	http://pfam.sanger.ac.uk/family?acc=PF01423

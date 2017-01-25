@@ -1,0 +1,4 @@
+#>P	YPL038W	YPL038W	YPL038W	XVI	480535	481065	1	Zinc-finger DNA-binding transcription factor; targets strong transcriptional activator Met4p to promoters of sulfur metabolic genes; involved in transcriptional regulation of the methionine biosynthetic genes; feedforward loop controlling expression of MET32 and the lack of such a loop for MET31 may account for the differential actions of Met31p and Met32p; MET31 has a paralog, MET32, that arose from the whole genome duplication [Source:SGD;Acc:S000005959]
+#>E	YPL038W.1	1.0	480535-481068
+XVI	480817	480885	1.0	Znf_C2H2	0	480817-480885	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+XVI	480901	480966	1.0	Znf_C2H2	0	480901-480966	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

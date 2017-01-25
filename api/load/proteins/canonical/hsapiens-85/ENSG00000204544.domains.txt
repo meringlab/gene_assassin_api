@@ -1,0 +1,11 @@
+#>P	ENSG00000204544	ENST00000376296	ENSP00000365473	6	30983959	30988191	1	mucin 21, cell surface associated [Source:HGNC Symbol;Acc:HGNC:21661]
+#>E	ENSE00001866178,ENSE00003542461,ENSE00001928294	0,0,0	30983959-30984019,30986237-30987681,30988000-30988194
+6	30987565	30988179	1	Mucin_dom	162.8	30987565-30987681,30988000-30988179	PF14654	http://pfam.sanger.ac.uk/family?acc=PF14654
+6	30986989	30987186	1	Tandem-repeating_mucin	277.7	30986989-30987186	PF05647	http://pfam.sanger.ac.uk/family?acc=PF05647
+6	30986545	30986718	1	Tandem-repeating_mucin	277.7	30986545-30986718	PF05647	http://pfam.sanger.ac.uk/family?acc=PF05647
+6	30986404	30986580	1	Tandem-repeating_mucin	277.7	30986404-30986580	PF05647	http://pfam.sanger.ac.uk/family?acc=PF05647
+6	30987349	30987549	1	Tandem-repeating_mucin	277.7	30987349-30987549	PF05647	http://pfam.sanger.ac.uk/family?acc=PF05647
+6	30984016	30986424	1	Tandem-repeating_mucin	277.7	30984016-30984019,30986237-30986424	PF05647	http://pfam.sanger.ac.uk/family?acc=PF05647
+6	30986815	30986994	1	Tandem-repeating_mucin	277.7	30986815-30986994	PF05647	http://pfam.sanger.ac.uk/family?acc=PF05647
+6	30986680	30986853	1	Tandem-repeating_mucin	277.7	30986680-30986853	PF05647	http://pfam.sanger.ac.uk/family?acc=PF05647
+6	30987169	30987369	1	Tandem-repeating_mucin	277.7	30987169-30987369	PF05647	http://pfam.sanger.ac.uk/family?acc=PF05647

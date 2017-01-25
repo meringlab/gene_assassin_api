@@ -1,0 +1,3 @@
+#>P	YGL189C	YGL189C	YGL189C	VII	148232	148588	-1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S26, no bacterial homolog; RPS26A has a paralog, RPS26B, that arose from the whole genome duplication [Source:SGD;Acc:S000003157]
+#>E	YGL189C.1	1.0	148229-148588
+VII	148265	148588	-1.0	Ribosomal_S26e	0	148265-148588	PF01283	http://pfam.sanger.ac.uk/family?acc=PF01283

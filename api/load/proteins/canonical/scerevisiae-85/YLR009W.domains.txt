@@ -1,0 +1,3 @@
+#>P	YLR009W	YLR009W	YLR009W	XII	166537	167133	1	Essential protein required for ribosomal large subunit biogenesis; associated with pre-60S ribosomal subunits; stimulates the ATPase activity of Afg2p, which is required for release of Rlp24p from the pre-60S particle; has similarity to Rpl24Ap and Rpl24Bp [Source:SGD;Acc:S000003999]
+#>E	YLR009W.1	1.0	166537-167136
+XII	166537	166731	1.0	Ribosomal_L24e_rel	0	166537-166731	PF01246	http://pfam.sanger.ac.uk/family?acc=PF01246

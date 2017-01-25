@@ -1,0 +1,4 @@
+#>P	YEL015W	YEL015W	YEL015W	V	126629	128281	1	Non-essential conserved protein with a role in mRNA decapping; specifically affects the function of the decapping enzyme Dcp1p; mediates decay of the RPS28B mRNA via binding to both Rps28Bp (or Rps28Ap) and the RPS28B mRNA; mediates decay of the YRA1 mRNA by a different, translation-independent mechanism; localizes to cytoplasmic mRNA processing bodies; forms cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000000741]
+#>E	YEL015W.1	1.0	126629-128284
+V	127532	128122	1.0	YjeF_N	123.2	127532-128122	PF03853	http://pfam.sanger.ac.uk/family?acc=PF03853
+V	126923	127207	1.0	DFDF_motif	58.3	126923-127207	PF09532	http://pfam.sanger.ac.uk/family?acc=PF09532

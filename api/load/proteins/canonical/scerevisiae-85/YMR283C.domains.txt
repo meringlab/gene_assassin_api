@@ -1,0 +1,3 @@
+#>P	YMR283C	YMR283C	YMR283C	XIII	835329	836867	-1	Initiator methionine 2'-O-ribosyl phosphate transferase; modifies the initiator methionine tRNA at position 64 to distinguish it from elongator methionine tRNA [Source:SGD;Acc:S000004896]
+#>E	YMR283C.1	1.0	835326-836867
+XIII	835329	836768	-1.0	Init_tRNA_PT	0	835329-836768	PF04179	http://pfam.sanger.ac.uk/family?acc=PF04179

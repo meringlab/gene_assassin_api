@@ -1,0 +1,4 @@
+#>P	YGR085C	YGR085C	YGR085C	VII	648386	648907	-1	Ribosomal 60S subunit protein L11B; expressed at half the level of Rpl11Ap; involved in ribosomal assembly; depletion causes degradation of 60S proteins and RNA; homologous to mammalian ribosomal protein L11 and bacterial L5; RPL11B has a paralog, RPL11A, that arose from the whole genome duplication [Source:SGD;Acc:S000003317]
+#>E	YGR085C.1	1.0	648383-648907
+VII	648728	648889	-1.0	Ribosomal_L5	0	648728-648889	PF00281	http://pfam.sanger.ac.uk/family?acc=PF00281
+VII	648425	648718	-1.0	Ribosomal_L5	0	648425-648718	PF00673	http://pfam.sanger.ac.uk/family?acc=PF00673

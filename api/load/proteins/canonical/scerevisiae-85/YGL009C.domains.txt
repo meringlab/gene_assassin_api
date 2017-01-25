@@ -1,0 +1,4 @@
+#>P	YGL009C	YGL009C	YGL009C	VII	476316	478652	-1	Isopropylmalate isomerase; catalyzes the second step in the leucine biosynthesis pathway [Source:SGD;Acc:S000002977]
+#>E	YGL009C.1	1.0	476313-478652
+VII	477240	478622	-1.0	Acoase/IPM_deHydtase_lsu_aba	0	477240-478622	PF00330	http://pfam.sanger.ac.uk/family?acc=PF00330
+VII	476640	477020	-1.0	AconitaseA/IPMdHydase_ssu_swvl	0	476640-477020	PF00694	http://pfam.sanger.ac.uk/family?acc=PF00694

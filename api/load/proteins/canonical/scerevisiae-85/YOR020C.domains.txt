@@ -1,0 +1,3 @@
+#>P	YOR020C	YOR020C	YOR020C	XV	370527	370844	-1	Mitochondrial matrix co-chaperonin; inhibits the ATPase activity of Hsp60p, a mitochondrial chaperonin; involved in protein folding and sorting in the mitochondria; 10 kD heat shock protein with similarity to E. coli groES [Source:SGD;Acc:S000005546]
+#>E	YOR020C.1	1.0	370524-370844
+XV	370536	370814	-1.0	Chaperonin_Cpn10	0	370536-370814	PF00166	http://pfam.sanger.ac.uk/family?acc=PF00166

@@ -1,0 +1,3 @@
+#>P	YBR070C	YBR070C	YBR070C	II	379224	379934	-1	Component of UDP-GlcNAc transferase; required for the second step of dolichyl-linked oligosaccharide synthesis; anchors the catalytic subunit Alg13p to the ER membrane; similar to bacterial and human glycosyltransferases [Source:SGD;Acc:S000000274]
+#>E	YBR070C.1	1.0	379221-379934
+II	379227	379766	-1.0	Oligosacch_biosynth_Alg14	0	379227-379766	PF08660	http://pfam.sanger.ac.uk/family?acc=PF08660

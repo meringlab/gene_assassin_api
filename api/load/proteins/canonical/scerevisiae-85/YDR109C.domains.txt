@@ -1,0 +1,4 @@
+#>P	YDR109C	YDR109C	YDR109C	IV	673523	675667	-1	Putative kinase [Source:SGD;Acc:S000002516]
+#>E	YDR109C.1	1.0	673520-675667
+IV	674741	675550	-1.0	Carb_kinase_FGGY_N	0	674741-675550	PF00370	http://pfam.sanger.ac.uk/family?acc=PF00370
+IV	674018	674650	-1.0	Carb_kinase_FGGY_C	0	674018-674650	PF02782	http://pfam.sanger.ac.uk/family?acc=PF02782

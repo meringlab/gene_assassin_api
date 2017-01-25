@@ -1,0 +1,7 @@
+#>P	YLR208W	YLR208W	YLR208W	XII	559551	560441	1	Structural component of 3 distinct complexes; subunit of Nup84 nuclear pore sub-complex (NPC), COPII vesicle coat, and Seh1-associated (SEA) complex; COPII vesicle coat is required for ER to Golgi transport; the Nup84 subcomplex contributes to nucleocytoplasmic transport, NPC biogenesis and processes that may require localization of chromosomes at the nuclear periphery, including transcription; homologous to human SEC13; abundance increases under DNA replication stress [Source:SGD;Acc:S000004198]
+#>E	YLR208W.1	1.0	559551-560444
+XII	559683	559799	1.0	WD40_repeat	0	559683-559799	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	559818	559931	1.0	WD40_repeat	0	559818-559931	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	559590	559658	1.0	WD40_repeat	0	559590-559658	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	560142	560252	1.0	WD40_repeat	0	560142-560252	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	559968	560108	1.0	WD40_repeat	0	559968-560108	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

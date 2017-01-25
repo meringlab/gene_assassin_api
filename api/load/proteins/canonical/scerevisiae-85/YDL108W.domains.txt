@@ -1,0 +1,3 @@
+#>P	YDL108W	YDL108W	YDL108W	IV	267698	268696	1	Serine/threonine protein kinase, subunit of transcription factor TFIIH; involved in transcription initiation at RNA polymerase II promoters; phosphorylates Ser5 residue of the PolII C-terminal domain (CTD) at gene promoters; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000002266]
+#>E	YDL108W.1,YDL108W.2	1,1	267698-267725,267807-268699
+IV	267716	268648	1	Prot_kinase_cat_dom	0	267716-267725,267807-268648	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

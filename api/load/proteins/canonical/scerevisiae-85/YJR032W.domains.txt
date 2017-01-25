@@ -1,0 +1,4 @@
+#>P	YJR032W	YJR032W	YJR032W	X	491081	492259	1	Peptidyl-prolyl cis-trans isomerase (cyclophilin); catalyzes the cis-trans isomerization of peptide bonds N-terminal to proline residues; binds to Hsp82p and contributes to chaperone activity; plays a role in determining prion variants [Source:SGD;Acc:S000003793]
+#>E	YJR032W.1	1.0	491081-492262
+X	491105	491668	1.0	Cyclophilin-like_PPIase_dom	0	491105-491668	PF00160	http://pfam.sanger.ac.uk/family?acc=PF00160
+X	492068	492169	1.0	TPR-1	0	492068-492169	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515

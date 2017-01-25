@@ -1,0 +1,3 @@
+#>P	YKL059C	YKL059C	YKL059C	XI	328121	329443	-1	Essential conserved subunit of CPF cleavage and polyadenylation factor; plays a role in 3' end formation of mRNA via the specific cleavage and polyadenylation of pre-mRNA, contains a putative RNA-binding zinc knuckle motif; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000001542]
+#>E	YKL059C.1	1.0	328118-329443
+XI	329210	329431	-1.0	DWNN_domain	0	329210-329431	PF08783	http://pfam.sanger.ac.uk/family?acc=PF08783

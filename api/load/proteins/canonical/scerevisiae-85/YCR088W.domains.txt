@@ -1,0 +1,4 @@
+#>P	YCR088W	YCR088W	YCR088W	III	265068	266843	1	Actin-binding protein of the cortical actin cytoskeleton; important for activation of the Arp2/3 complex that plays a key role actin in cytoskeleton organization; inhibits barbed-end actin filament elongation; phosphorylation within its Proline-Rich Regio, mediated by Cdc28p and Pho85p, protects Abp1p from proteolysis mediated by its own PEST sequences; mammalian homologue of HIP-55 (hematopoietic progenitor kinase 1 [HPK1]-interacting protein of 55 kDa) [Source:SGD;Acc:S000000684]
+#>E	YCR088W.1	1.0	265068-266846
+III	266682	266822	1.0	SH3_domain	0	266682-266822	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+III	265140	265472	1.0	Actin-bd_cofilin/tropomyosin	0	265140-265472	PF00241	http://pfam.sanger.ac.uk/family?acc=PF00241

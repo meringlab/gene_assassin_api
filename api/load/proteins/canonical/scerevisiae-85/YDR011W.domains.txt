@@ -1,0 +1,7 @@
+#>P	YDR011W	YDR011W	YDR011W	IV	465919	470421	1	Plasma membrane ATP-binding cassette (ABC) transporter; multidrug transporter involved in multidrug resistance and resistance to singlet oxygen species [Source:SGD;Acc:S000002418]
+#>E	YDR011W.1	1.0	465919-470424
+IV	468604	468984	1.0	ABC_transporter-like	0	468604-468984	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+IV	466516	466926	1.0	ABC_transporter-like	0	466516-466926	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+IV	469426	470064	1.0	ABC_2_trans	0	469426-470064	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+IV	467422	468048	1.0	ABC_2_trans	0	467422-468048	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+IV	468079	468354	1.0	PDR_CDR_ABC	0	468079-468354	PF06422	http://pfam.sanger.ac.uk/family?acc=PF06422

@@ -1,0 +1,8 @@
+#>P	YJL005W	YJL005W	YJL005W	X	425157	431234	1	Adenylate cyclase; required for cAMP production and cAMP-dependent protein kinase signaling; the cAMP pathway controls a variety of cellular processes, including metabolism, cell cycle, stress response, stationary phase, and sporulation [Source:SGD;Acc:S000003542]
+#>E	YJL005W.1	1.0	425157-431237
+X	427185	427388	1.0	Ras-assoc	0	427185-427388	PF00788	http://pfam.sanger.ac.uk/family?acc=PF00788
+X	426258	426410	1.0	Adenylate_cyclase_G-a-bd	0	426258-426410	PF08509	http://pfam.sanger.ac.uk/family?acc=PF08509
+X	428724	428774	1.0	Leu-rich_rpt	0	428724-428774	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+X	430140	430664	1.0	A/G_cyclase	0	430140-430664	PF00211	http://pfam.sanger.ac.uk/family?acc=PF00211
+X	428415	428531	1.0	Leu-rich_rpt_4	0	428415-428531	PF12799	http://pfam.sanger.ac.uk/family?acc=PF12799
+X	429276	430007	1.0	PP2C-like	0	429276-430007	PF00481	http://pfam.sanger.ac.uk/family?acc=PF00481

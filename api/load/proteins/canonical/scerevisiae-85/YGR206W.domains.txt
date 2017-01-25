@@ -1,0 +1,3 @@
+#>P	YGR206W	YGR206W	YGR206W	VII	910432	910734	1	ESCRT-I subunit required to stabilize ESCRT-I core complex oligomers; the ESCRT-I core complex (Stp22p, Vps28p, Srn2p) is involved in ubiquitin-dependent sorting of proteins into the endosome; deletion mutant is sensitive to rapamycin and nystatin [Source:SGD;Acc:S000003438]
+#>E	YGR206W.1	1.0	910432-910737
+VII	910453	910725	1.0	ESCRT-I_cplx_su_Mvb12	0	910453-910725	PF09452	http://pfam.sanger.ac.uk/family?acc=PF09452

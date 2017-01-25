@@ -1,0 +1,4 @@
+#>P	YER143W	YER143W	YER143W	V	456319	457602	1	DNA damage-inducible v-SNARE binding protein; role in suppression of protein secretion; may play a role in S-phase checkpoint control; has ubiquitin-associated (UBA), ubiquitin-like (UBL), and retroviral-like proteinase (RVP) domains [Source:SGD;Acc:S000000945]
+#>E	YER143W.1	1.0	456319-457605
+V	457489	457584	1.0	UBA/transl_elong_EF1B_N	0	457489-457584	PF00627	http://pfam.sanger.ac.uk/family?acc=PF00627
+V	456856	457224	1.0	Peptidase_aspartic_euk-pred	0	456856-457224	PF09668	http://pfam.sanger.ac.uk/family?acc=PF09668

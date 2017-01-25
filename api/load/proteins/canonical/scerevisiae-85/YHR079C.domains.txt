@@ -1,0 +1,4 @@
+#>P	YHR079C	YHR079C	YHR079C	VIII	258247	261591	-1	Serine-threonine kinase and endoribonuclease; transmembrane protein that mediates the unfolded protein response (UPR) by regulating Hac1p synthesis through HAC1 mRNA splicing; role in homeostatic adaptation to ER stress; Kar2p binds inactive Ire1p and releases from it upon ER stress [Source:SGD;Acc:S000001121]
+#>E	YHR079C.1	1.0	258244-261591
+VIII	258652	259563	-1.0	Prot_kinase_cat_dom	0	258652-259563	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+VIII	258256	258639	-1.0	KEN_RNase_activator	0	258256-258639	PF06479	http://pfam.sanger.ac.uk/family?acc=PF06479

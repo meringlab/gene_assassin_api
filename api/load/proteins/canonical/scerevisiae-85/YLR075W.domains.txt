@@ -1,0 +1,3 @@
+#>P	YLR075W	YLR075W	YLR075W	XII	282927	283589	1	Ribosomal 60S subunit protein L10; responsible for joining the 40S and 60S subunits; regulates translation initiation; similar to members of the QM gene family; homologous to mammalian ribosomal protein L10 and bacterial L16; protein abundance increases in response to DNA replication stress; mutations in the human ortholog are associated with development of T-cell acute lymphoblastic leukemia and similar changes in the yeast gene result in ribosome biogenesis defects [Source:SGD;Acc:S000004065]
+#>E	YLR075W.1	1.0	282927-283592
+XII	282939	283424	1.0	Ribosomal_L10e/L16	0	282939-283424	PF00252	http://pfam.sanger.ac.uk/family?acc=PF00252

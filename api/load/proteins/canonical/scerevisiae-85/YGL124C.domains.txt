@@ -1,0 +1,3 @@
+#>P	YGL124C	YGL124C	YGL124C	VII	274783	276714	-1	Subunit of a heterodimeric guanine nucleotide exchange factor (GEF); subunit of the Mon1-Ccz1 GEF complex which stimulates nucleotide exchange and activation of Ypt7p, a Rab family GTPase involved in membrane tethering and fusion events at the late endosome and vacuole; GEF activity is stimulated by membrane association and anionic phospholipids; role in localizing Ypt7p to the vacuolar membrane; required for autophagy, the CVT pathway and mitophagy; potential Cdc28 substrate [Source:SGD;Acc:S000003092]
+#>E	YGL124C.1	1.0	274780-276714
+VII	274783	276204	-1.0	Vacuolar_fusion_protein_MON1	0	274783-276204	PF03164	http://pfam.sanger.ac.uk/family?acc=PF03164

@@ -1,0 +1,4 @@
+#>P	YGR095C	YGR095C	YGR095C	VII	675674	676342	-1	Exosome non-catalytic core component; involved in 3'-5' RNA processing and degradation in both the nucleus and the cytoplasm; has similarity to E. coli RNase PH and to human hRrp46p (EXOSC5) [Source:SGD;Acc:S000003327]
+#>E	YGR095C.1	1.0	675671-676342
+VII	675968	676336	-1.0	ExoRNase_PH_dom1	0	675968-676336	PF01138	http://pfam.sanger.ac.uk/family?acc=PF01138
+VII	675743	675949	-1.0	ExoRNase_PH_dom2	0	675743-675949	PF03725	http://pfam.sanger.ac.uk/family?acc=PF03725

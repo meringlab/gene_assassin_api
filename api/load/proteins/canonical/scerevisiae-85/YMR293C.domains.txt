@@ -1,0 +1,3 @@
+#>P	YMR293C	YMR293C	YMR293C	XIII	855402	856793	-1	Subunit of the trimeric GatFAB AmidoTransferase(AdT) complex; involved in the formation of Q-tRNAQ; required for remodeling of ER caused by Hmg2p overexpression; similar to bacterial GatA glutamyl-tRNA amidotransferase [Source:SGD;Acc:S000004907]
+#>E	YMR293C.1	1.0	855399-856793
+XIII	855423	856775	-1.0	Amidase	0	855423-856775	PF01425	http://pfam.sanger.ac.uk/family?acc=PF01425

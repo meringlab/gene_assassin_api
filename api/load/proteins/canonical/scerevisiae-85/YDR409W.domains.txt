@@ -1,0 +1,5 @@
+#>P	YDR409W	YDR409W	YDR409W	IV	1289406	1292117	1	SUMO/Smt3 ligase; promotes attachment of small ubiquitin-related modifier sumo (Smt3p) to proteins; regulates Rsp5p ubiquitin ligase activity and is in turn itself regulated by Rsp5p; binds Ubc9p and may bind septins; specifically required for sumoylation of septins in vivo; localized to the septin ring; SIZ1 has a paralog, NFI1, that arose from the whole genome duplication [Source:SGD;Acc:S000002817]
+#>E	YDR409W.1	1.0	1289406-1292120
+IV	1289922	1290341	1.0	PINIT	0	1289922-1290341	PF14324	http://pfam.sanger.ac.uk/family?acc=PF14324
+IV	1289508	1289609	1.0	SAP_DNA-bd	0	1289508-1289609	PF02037	http://pfam.sanger.ac.uk/family?acc=PF02037
+IV	1290474	1290617	1.0	Znf_MIZ	0	1290474-1290617	PF02891	http://pfam.sanger.ac.uk/family?acc=PF02891

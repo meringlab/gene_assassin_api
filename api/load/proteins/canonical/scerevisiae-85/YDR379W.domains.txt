@@ -1,0 +1,5 @@
+#>P	YDR379W	YDR379W	YDR379W	IV	1230167	1233193	1	GTPase-activating protein for polarity-establishment protein Cdc42p; implicated in control of septin organization, pheromone response, and haploid invasive growth; regulated by Pho85p and Cdc28p; RGA2 has a paralog, RGA1, that arose from the whole genome duplication [Source:SGD;Acc:S000002787]
+#>E	YDR379W.1	1.0	1230167-1233196
+IV	1230374	1230541	1.0	Znf_LIM	0	1230374-1230541	PF00412	http://pfam.sanger.ac.uk/family?acc=PF00412
+IV	1230203	1230367	1.0	Znf_LIM	0	1230203-1230367	PF00412	http://pfam.sanger.ac.uk/family?acc=PF00412
+IV	1232570	1233112	1.0	RhoGAP_dom	0	1232570-1233112	PF00620	http://pfam.sanger.ac.uk/family?acc=PF00620

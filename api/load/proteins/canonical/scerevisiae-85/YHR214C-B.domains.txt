@@ -1,0 +1,5 @@
+#>P	YHR214C-B	YHR214C-B	YHR214C-B	VIII	543967	549346	-1	Retrotransposon TYA Gag and TYB Pol genes; transcribed/translated as one unit; polyprotein is processed to make a nucleocapsid-like protein (Gag), reverse transcriptase (RT), protease (PR), and integrase (IN); similar to retroviral genes; YHR214C-B has a paralog, YAR070C, that arose from a segmental duplication [Source:SGD;Acc:S000003534]
+#>E	YHR214C-B.2,YHR214C-B.1	1,1	543964-547929,547931-549346
+VIII	546889	547248	-1	Integrase_cat-core	0	546889-547248	PF00665	http://pfam.sanger.ac.uk/family?acc=PF00665
+VIII	549005	549298	-1	Retrotransposon_Ty1A_N	0	549005-549298	PF01021	http://pfam.sanger.ac.uk/family?acc=PF01021
+VIII	544795	545397	-1	RVT_2	0	544795-545397	PF07727	http://pfam.sanger.ac.uk/family?acc=PF07727

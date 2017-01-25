@@ -1,0 +1,4 @@
+#>P	YJR017C	YJR017C	YJR017C	X	466524	467033	-1	Peptidylprolyl-cis/trans-isomerase (PPIase); specific for phosphorylated serine and threonine residues N-terminal to proline; regulates phosphorylation of the RNAP II large subunit (Rpo21p) C-terminal domain (CTD); associates with phospho-Ser5 form of RNAP II in vivo; regulates phosphorylation of Ser7 within CTD; present along entire coding length of genes; represses initiation of CUTs; required for efficient termination of mRNA transcription and trimethylation of histone H3 [Source:SGD;Acc:S000003778]
+#>E	YJR017C.1	1.0	466521-467033
+X	466911	467003	-1.0	WW_Rsp5_WWP	0	466911-467003	PF00397	http://pfam.sanger.ac.uk/family?acc=PF00397
+X	466530	466844	-1.0	PPIase_PpiC	0	466530-466844	PF00639	http://pfam.sanger.ac.uk/family?acc=PF00639

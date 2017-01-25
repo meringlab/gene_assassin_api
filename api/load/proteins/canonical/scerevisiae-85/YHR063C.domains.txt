@@ -1,0 +1,4 @@
+#>P	YHR063C	YHR063C	YHR063C	VIII	224033	225169	-1	2-dehydropantoate 2-reductase; part of the pantothenic acid pathway, structurally homologous to E. coli panE [Source:SGD;Acc:S000001105]
+#>E	YHR063C.1	1.0	224030-225169
+VIII	224090	224509	-1.0	ApbA_C	0	224090-224509	PF08546	http://pfam.sanger.ac.uk/family?acc=PF08546
+VIII	224654	225145	-1.0	ApbA_N	0	224654-225145	PF02558	http://pfam.sanger.ac.uk/family?acc=PF02558

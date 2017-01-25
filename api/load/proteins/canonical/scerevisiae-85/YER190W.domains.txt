@@ -1,0 +1,4 @@
+#>P	YER190W	YER190W	YER190W	V	571480	576522	1	Helicase encoded by the Y' element of subtelomeric regions; highly expressed in the mutants lacking the telomerase component TLC1; potentially phosphorylated by Cdc28p; induced by treatment with 8-methoxypsoralen and UVA irradiation [Source:SGD;Acc:S000000992]
+#>E	YER190W.1	1.0	571480-576525
+V	573544	574020	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	573544-574020	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+V	574330	574539	1.0	Helicase_C	0	574330-574539	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

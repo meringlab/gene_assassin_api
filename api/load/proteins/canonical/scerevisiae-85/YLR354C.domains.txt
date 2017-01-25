@@ -1,0 +1,3 @@
+#>P	YLR354C	YLR354C	YLR354C	XII	836353	837357	-1	Transaldolase, enzyme in the non-oxidative pentose phosphate pathway; converts sedoheptulose 7-phosphate and glyceraldehyde 3-phosphate to erythrose 4-phosphate and fructose 6-phosphate; TAL1 has a paralog, NQM1, that arose from the whole genome duplication [Source:SGD;Acc:S000004346]
+#>E	YLR354C.1	1.0	836350-837357
+XII	836377	837282	-1.0	Transaldolase	0	836377-837282	PF00923	http://pfam.sanger.ac.uk/family?acc=PF00923

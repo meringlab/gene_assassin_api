@@ -1,0 +1,3 @@
+#>P	YEL052W	YEL052W	YEL052W	V	56571	58097	1	Protein that may act as a chaperone for cytochrome c oxidase subunits; conserved protein; may act as a chaperone in the degradation of misfolded or unassembled cytochrome c oxidase subunits; localized to matrix face of the mitochondrial inner membrane; member of the AAA family but lacks a protease domain [Source:SGD;Acc:S000000778]
+#>E	YEL052W.1	1.0	56571-58100
+V	56913	57872	1.0	ATPase_AFG1-like	0	56913-57872	PF03969	http://pfam.sanger.ac.uk/family?acc=PF03969

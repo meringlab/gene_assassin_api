@@ -1,0 +1,3 @@
+#>P	YDR422C	YDR422C	YDR422C	IV	1315329	1317773	-1	Alternate beta-subunit of the Snf1p kinase complex; may confer substrate specificity; vacuolar protein containing KIS (Kinase-Interacting Sequence) and ASC (Association with Snf1 kinase Complex) domains involved in protein interactions [Source:SGD;Acc:S000002830]
+#>E	YDR422C.1	1.0	1315326-1317773
+IV	1315362	1315718	-1.0	AMP_prot_kin_bsu_interact-dom	0	1315362-1315718	PF04739	http://pfam.sanger.ac.uk/family?acc=PF04739

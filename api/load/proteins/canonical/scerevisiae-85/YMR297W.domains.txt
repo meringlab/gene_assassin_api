@@ -1,0 +1,4 @@
+#>P	YMR297W	YMR297W	YMR297W	XIII	861922	863517	1	Vacuolar carboxypeptidase Y (proteinase C, CPY); broad-specificity C-terminal exopeptidase involved in non-specific protein degradation in the vacuole; member of the serine carboxypeptidase family [Source:SGD;Acc:S000004912]
+#>E	YMR297W.1	1.0	861922-863520
+XIII	861922	862245	1.0	Propeptide_carboxypepY	0	861922-862245	PF05388	http://pfam.sanger.ac.uk/family?acc=PF05388
+XIII	862288	863505	1.0	Peptidase_S10	0	862288-863505	PF00450	http://pfam.sanger.ac.uk/family?acc=PF00450

@@ -1,0 +1,3 @@
+#>P	YBR054W	YBR054W	YBR054W	II	343101	344132	1	Protein of unknown function with similarity to archaeal rhodopsins; the authentic, non-tagged protein is detected in a phosphorylated state in highly purified mitochondria in high-throughput studies; transcriptionally regulated by Haa1p; YRO2 has a paralog, MRH1, that arose from the whole genome duplication [Source:SGD;Acc:S000000258]
+#>E	YBR054W.1	1.0	343101-344135
+II	343209	343877	1.0	Rhodopsin_arc/bac/fun	0	343209-343877	PF01036	http://pfam.sanger.ac.uk/family?acc=PF01036

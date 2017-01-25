@@ -1,0 +1,4 @@
+#>P	YJR159W	YJR159W	YJR159W	X	736044	737114	1	Sorbitol dehydrogenase; expression is induced in the presence of sorbitol or xylose [Source:SGD;Acc:S000003920]
+#>E	YJR159W.1	1.0	736044-737117
+X	736134	736466	1.0	ADH_GroES-like	0	736134-736466	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240
+X	736584	736988	1.0	ADH_C	0	736584-736988	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107

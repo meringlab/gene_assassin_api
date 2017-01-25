@@ -1,0 +1,3 @@
+#>P	YBR185C	YBR185C	YBR185C	II	599126	599959	-1	Membrane-associated mitochondrial ribosome receptor; forms a complex with Mdm38p that may facilitate recruitment of mRNA-specific translational activators to ribosomes; possible role in protein export from the matrix to inner membrane [Source:SGD;Acc:S000000389]
+#>E	YBR185C.1	1.0	599123-599959
+II	599126	599836	-1.0	Mt_IM_Mba1	0	599126-599836	PF07961	http://pfam.sanger.ac.uk/family?acc=PF07961

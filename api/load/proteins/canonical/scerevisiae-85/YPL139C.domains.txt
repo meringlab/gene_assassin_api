@@ -1,0 +1,3 @@
+#>P	YPL139C	YPL139C	YPL139C	XVI	289672	291051	-1	Component of both the Rpd3S and Rpd3L histone deacetylase complexes; negative regulator of meiosis; required for repression of a subset of meiotic genes during vegetative growth, binding of histone deacetylase Rpd3p required for activity, contains a NEE box and a WD repeat motif; homologous with Wtm1p; UME1 has a paralog, WTM2, that arose from the whole genome duplication [Source:SGD;Acc:S000006060]
+#>E	YPL139C.1	1.0	289669-291051
+XVI	290269	290331	-1.0	WD40_repeat	0	290269-290331	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

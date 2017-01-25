@@ -1,0 +1,3 @@
+#>P	YNL053W	YNL053W	YNL053W	XIV	529942	531408	1	Dual-specificity protein phosphatase; exists in 2 isoforms; required for maintenance of a low level of signaling through the cell integrity pathway, adaptive response to pheromone; regulates and is regulated by Slt2p; dephosphorylates Fus3p; MSG5 has a paralog, SDP1, that arose from the whole genome duplication [Source:SGD;Acc:S000004998]
+#>E	YNL053W.1	1.0	529942-531411
+XIV	530665	531054	1.0	Dual-sp_phosphatase_cat-dom	0	530665-531054	PF00782	http://pfam.sanger.ac.uk/family?acc=PF00782

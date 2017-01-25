@@ -1,0 +1,3 @@
+#>P	YBR202W	YBR202W	YBR202W	II	625772	628306	1	Component of the Mcm2-7 hexameric helicase complex; MCM2-7 primes origins of DNA replication in G1 and becomes an active ATP-dependent helicase that promotes DNA melting and elongation in S-phase; forms an Mcm4p-6p-7p subcomplex [Source:SGD;Acc:S000000406]
+#>E	YBR202W.1	1.0	625772-628309
+II	626966	627940	1.0	MCM_DNA-dep_ATPase	0	626966-627940	PF00493	http://pfam.sanger.ac.uk/family?acc=PF00493

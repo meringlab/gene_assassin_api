@@ -1,0 +1,3 @@
+#>P	YPL215W	YPL215W	YPL215W	XVI	147416	148420	1	Mitochondrial protein required for assembly of cytochrome bc1 complex; forms a complex with Cbp6p that binds to mt ribosomes near the polypeptide tunnel exit and promotes efficient translation of the COB mRNA; Cbp3p-Cbp6p complex also interacts with newly synthesized cytochrome b (Cobp) and Cbp4p to promote assembly of Cobp into the cytochrome bc1 complex; Cbp3p-Cbp6p complex is sequestered if assembly of Complex III is blocked, downregulating COB mRNA translation [Source:SGD;Acc:S000006136]
+#>E	YPL215W.1	1.0	147416-148423
+XVI	147848	148279	1.0	Ubiq_cyt_c_chap/UPF0174	0	147848-148279	PF03981	http://pfam.sanger.ac.uk/family?acc=PF03981

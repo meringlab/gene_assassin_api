@@ -1,0 +1,4 @@
+#>P	YMR104C	YMR104C	YMR104C	XIII	473423	475453	-1	Protein kinase similar to serine/threonine protein kinase Ypk1p; functionally redundant with YPK1 at the genetic level; participates in a signaling pathway required for optimal cell wall integrity; homolog of mammalian kinase SGK; YPK2 has a paralog, YPK1, that arose from the whole genome duplication [Source:SGD;Acc:S000004710]
+#>E	YMR104C.1	1.0	473420-475453
+XIII	473465	473599	-1.0	Pkinase_C	0	473465-473599	PF00433	http://pfam.sanger.ac.uk/family?acc=PF00433
+XIII	473657	474421	-1.0	Prot_kinase_cat_dom	0	473657-474421	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

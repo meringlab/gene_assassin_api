@@ -1,0 +1,4 @@
+#>P	WBGene00022640	ZK6.5	ZK6.5	V	392647	395114	1	Nuclear Hormone Receptor family  [Source:RefSeq peptide;Acc:NP_503187]
+#>E	ZK6.5.e1,ZK6.5.e2,ZK6.5.e3,ZK6.5.e4	1,1,1,1	392647-392709,393536-393632,393679-394293,394855-395117
+V	393930	395000	1	Nucl_hrmn_rcpt_lig-bd	62.9	393930-394293,394855-395000	PF00104	http://pfam.sanger.ac.uk/family?acc=PF00104
+V	392662	393743	1	Znf_hrmn_rcpt	57.1	392662-392709,393536-393632,393679-393743	PF00105	http://pfam.sanger.ac.uk/family?acc=PF00105

@@ -1,0 +1,3 @@
+#>P	YDR451C	YDR451C	YDR451C	IV	1361123	1362181	-1	Homeobox transcriptional repressor; binds Mcm1p and early cell cycle box (ECB) elements of cell cycle regulated genes, thereby restricting ECB-mediated transcription to the M/G1 interval; YHP1 has a paralog, YOX1, that arose from the whole genome duplication [Source:SGD;Acc:S000002859]
+#>E	YDR451C.1	1.0	1361120-1362181
+IV	1361492	1361662	-1.0	Homeobox	0	1361492-1361662	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046

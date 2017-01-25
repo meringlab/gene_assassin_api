@@ -1,0 +1,5 @@
+#>P	YLR197W	YLR197W	YLR197W	XII	546097	547608	1	Essential evolutionarily-conserved nucleolar protein; component of the box C/D snoRNP complexes that direct 2'-O-methylation of pre-rRNA during its maturation; overexpression causes spindle orientation defects [Source:SGD;Acc:S000004187]
+#>E	YLR197W.1	1.0	546097-547611
+XII	546112	546312	1.0	NOP5_N	0	546112-546312	PF08156	http://pfam.sanger.ac.uk/family?acc=PF08156
+XII	546904	547344	1.0	SnoRNA-bd_dom	0	546904-547344	PF01798	http://pfam.sanger.ac.uk/family?acc=PF01798
+XII	546613	546771	1.0	NOSIC	0	546613-546771	PF08060	http://pfam.sanger.ac.uk/family?acc=PF08060

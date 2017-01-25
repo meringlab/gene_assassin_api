@@ -1,0 +1,4 @@
+#>P	YGL115W	YGL115W	YGL115W	VII	292033	292998	1	Activating gamma subunit of the AMP-activated Snf1p kinase complex; additional subunits of the complex are Snf1p and a Sip1p/Sip2p/Gal83p family member; activates glucose-repressed genes, represses glucose-induced genes; role in sporulation, and peroxisome biogenesis; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003083]
+#>E	YGL115W.1	1.0	292033-293001
+VII	292624	292767	1.0	Cysta_beta_synth_core	0	292624-292767	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571
+VII	292813	292986	1.0	Cysta_beta_synth_core	0	292813-292986	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571

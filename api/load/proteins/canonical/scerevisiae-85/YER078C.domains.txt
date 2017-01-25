@@ -1,0 +1,4 @@
+#>P	YER078C	YER078C	YER078C	V	316810	318342	-1	Mitochondrial aminopeptidase; cleaves the N termini of at least 38 imported proteins after cleavage by the mitochondrial processing peptidase (MPP), thereby increasing their stability; member of the aminopeptidase P family [Source:SGD;Acc:S000000880]
+#>E	YER078C.1	1.0	316807-318342
+V	317749	318147	-1.0	Aminopep_P_N	0	317749-318147	PF05195	http://pfam.sanger.ac.uk/family?acc=PF05195
+V	316924	317589	-1.0	Pept_M24_structural-domain	0	316924-317589	PF00557	http://pfam.sanger.ac.uk/family?acc=PF00557

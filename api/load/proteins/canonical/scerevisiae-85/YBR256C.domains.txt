@@ -1,0 +1,4 @@
+#>P	YBR256C	YBR256C	YBR256C	II	727389	728102	-1	Riboflavin synthase; catalyzes the last step of the riboflavin biosynthesis pathway [Source:SGD;Acc:S000000460]
+#>E	YBR256C.1	1.0	727386-728102
+II	727518	727787	-1.0	Lumazine-bd_dom	0	727518-727787	PF00677	http://pfam.sanger.ac.uk/family?acc=PF00677
+II	727824	728096	-1.0	Lumazine-bd_dom	0	727824-728096	PF00677	http://pfam.sanger.ac.uk/family?acc=PF00677

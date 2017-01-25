@@ -1,0 +1,5 @@
+#>P	YAL054C	YAL054C	YAL054C	I	42884	45022	-1	Acetyl-coA synthetase isoform; along with Acs2p, acetyl-coA synthetase isoform is the nuclear source of acetyl-coA for histone acetylation; expressed during growth on nonfermentable carbon sources and under aerobic conditions [Source:SGD;Acc:S000000050]
+#>E	YAL054C.1	1.0	42881-45022
+I	43205	44530	-1.0	AMP-dep_Synth/Lig	0	43205-44530	PF00501	http://pfam.sanger.ac.uk/family?acc=PF00501
+I	44549	44806	-1.0	Acyl-CoA_synth_DUF3448	0	44549-44806	PF11930	http://pfam.sanger.ac.uk/family?acc=PF11930
+I	42923	43057	-1.0	DUF4009	0	42923-43057	PF13193	http://pfam.sanger.ac.uk/family?acc=PF13193

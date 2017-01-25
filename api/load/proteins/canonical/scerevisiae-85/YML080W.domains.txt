@@ -1,0 +1,3 @@
+#>P	YML080W	YML080W	YML080W	XIII	108806	110074	1	Dihydrouridine synthase; member of a widespread family of conserved proteins including Smm1p, Dus3p, and Dus4p; modifies pre-tRNA(Phe) at U17 [Source:SGD;Acc:S000004545]
+#>E	YML080W.1	1.0	108806-110077
+XIII	108899	109837	1.0	tRNA_hU_synthase	0	108899-109837	PF01207	http://pfam.sanger.ac.uk/family?acc=PF01207

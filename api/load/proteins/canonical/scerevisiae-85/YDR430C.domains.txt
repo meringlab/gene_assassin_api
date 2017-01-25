@@ -1,0 +1,6 @@
+#>P	YDR430C	YDR430C	YDR430C	IV	1325504	1328470	-1	Lysine-specific metalloprotease of the pitrilysin family; metalloprotease of the intermembrane space; degrades proteins and presequence peptides cleaved from imported proteins; required for normal mitochondrial morphology [Source:SGD;Acc:S000002838]
+#>E	YDR430C.1	1.0	1325501-1328470
+IV	1326302	1327033	-1.0	Peptidase_M16C_assoc	0	1326302-1327033	PF08367	http://pfam.sanger.ac.uk/family?acc=PF08367
+IV	1327991	1328245	-1.0	Pept_M16_N	0	1327991-1328245	PF00675	http://pfam.sanger.ac.uk/family?acc=PF00675
+IV	1327250	1327807	-1.0	Peptidase_M16_C	0	1327250-1327807	PF05193	http://pfam.sanger.ac.uk/family?acc=PF05193
+IV	1325741	1326256	-1.0	Peptidase_M16_C	0	1325741-1326256	PF05193	http://pfam.sanger.ac.uk/family?acc=PF05193

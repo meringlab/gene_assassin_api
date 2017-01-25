@@ -1,0 +1,4 @@
+#>P	WBGene00001065	EGAP7.1	EGAP7.1	X	2144658	2145645	-1	DumPY: shorter than wild-type  [Source:RefSeq peptide;Acc:NP_508395]
+#>E	EGAP7.1.e2,EGAP7.1.e1	1,1	2144655-2145398,2145481-2145645
+X	2144916	2145089	-1	Collagen	83.1	2144916-2145089	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
+X	2145369	2145597	-1	Col_cuticle_N	63.8	2145369-2145398,2145481-2145597	PF01484	http://pfam.sanger.ac.uk/family?acc=PF01484

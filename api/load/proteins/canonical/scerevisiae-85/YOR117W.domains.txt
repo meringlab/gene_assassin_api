@@ -1,0 +1,3 @@
+#>P	YOR117W	YOR117W	YOR117W	XV	545029	546330	1	ATPase of the 19S regulatory particle of the 26S proteasome; one of six ATPases of the regulatory particle; involved in the degradation of ubiquitinated substrates; recruited to the GAL1-10 promoter region upon induction of transcription; similar to human TBP1 [Source:SGD;Acc:S000005643]
+#>E	YOR117W.1	1.0	545029-546333
+XV	545683	546081	1.0	ATPase_AAA_core	0	545683-546081	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

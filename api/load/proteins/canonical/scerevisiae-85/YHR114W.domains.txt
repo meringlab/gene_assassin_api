@@ -1,0 +1,5 @@
+#>P	YHR114W	YHR114W	YHR114W	VIII	338083	339981	1	SH3 domain protein implicated in regulating actin polymerization; able to recruit actin polymerization machinery through its SH3 domains; colocalizes with cortical actin patches and Las17p; interacts with type I myosins [Source:SGD;Acc:S000001156]
+#>E	YHR114W.1	1.0	338083-339984
+VIII	339832	339969	1.0	SH3_domain	0	339832-339969	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+VIII	339577	339723	1.0	SH3_domain	0	339577-339723	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+VIII	338098	338406	1.0	FCH	0	338098-338406	PF00611	http://pfam.sanger.ac.uk/family?acc=PF00611

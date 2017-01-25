@@ -1,5 +1,0 @@
-#>P	ENSDARG00000091458	ENSDART00000121427	ENSDARP00000109228	23	5127164	5128648	1	potassium voltage-gated channel, shaker-related subfamily, member 2b [Source:ZFIN;Acc:ZDB-GENE-080204-89]
-#>E	ENSDARE00000980872	1	5127164-5128651
-23	5127821	5128378	1	Ion_trans_dom	112.7	5127821-5128378	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520
-23	5127266	5127538	1	T1-type_BTB	100.3	5127266-5127538	PF02214	http://pfam.sanger.ac.uk/family?acc=PF02214
-23	5128157	5128381	1	2pore_dom_K_chnl_dom	51.5	5128157-5128381	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885

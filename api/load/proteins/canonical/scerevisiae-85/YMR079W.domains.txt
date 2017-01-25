@@ -1,0 +1,4 @@
+#>P	YMR079W	YMR079W	YMR079W	XIII	424989	426056	1	Phosphatidylinositol/phosphatidylcholine transfer protein; involved in regulating PtdIns, PtdCho, and ceramide metabolism, products of which regulate intracellular transport and UPR; has a role in localization of lipid raft proteins; functionally homologous to mammalian PITPs; SEC14 has a paralog, YKL091C, that arose from the whole genome duplication [Source:SGD;Acc:S000004684]
+#>E	YMR079W.1,YMR079W.2	1,1	424989-424997,425154-426059
+XIII	425244	425381	1	CRAL/TRIO_N_dom	0	425244-425381	PF03765	http://pfam.sanger.ac.uk/family?acc=PF03765
+XIII	425454	425945	1	CRAL-TRIO_dom	0	425454-425945	PF00650	http://pfam.sanger.ac.uk/family?acc=PF00650

@@ -1,0 +1,4 @@
+#>P	YKL184W	YKL184W	YKL184W	XI	96757	98154	1	Ornithine decarboxylase; catalyzes the first step in polyamine biosynthesis; degraded in a proteasome-dependent manner in the presence of excess polyamines; deletion decreases lifespan, and increases necrotic cell death and ROS generation [Source:SGD;Acc:S000001667]
+#>E	YKL184W.1	1.0	96757-98157
+XI	97741	98133	1.0	De-COase2_C	0	97741-98133	PF00278	http://pfam.sanger.ac.uk/family?acc=PF00278
+XI	97030	97731	1.0	De-COase2_N	0	97030-97731	PF02784	http://pfam.sanger.ac.uk/family?acc=PF02784

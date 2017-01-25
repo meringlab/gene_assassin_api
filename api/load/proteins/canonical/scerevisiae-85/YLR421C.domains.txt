@@ -1,0 +1,3 @@
+#>P	YLR421C	YLR421C	YLR421C	XII	965093	965560	-1	Subunit of the 19S regulatory particle of the 26S proteasome lid; acts as a ubiquitin receptor for the proteasome; null mutants accumulate ubiquitinated Gcn4p and display decreased 26S proteasome stability; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004413]
+#>E	YLR421C.1	1.0	965090-965560
+XII	965249	965524	-1.0	26S_Psome_Ubiquitin-recp_Rpn13	0	965249-965524	PF04683	http://pfam.sanger.ac.uk/family?acc=PF04683

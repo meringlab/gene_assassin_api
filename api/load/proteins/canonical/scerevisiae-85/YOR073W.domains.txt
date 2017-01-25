@@ -1,0 +1,4 @@
+#>P	YOR073W	YOR073W	YOR073W	XV	464771	466540	1	Component of the spindle checkpoint; involved in sensing lack of tension on mitotic chromosomes; protects centromeric Rec8p at meiosis I; required for accurate chromosomal segregation at meiosis II and for mitotic chromosome stability; recruits condensin to the pericentric region of chromosomes during meiosis; dissociates from pericentromeres when sister kinetochores are under tension [Source:SGD;Acc:S000005599]
+#>E	YOR073W.1	1.0	464771-466543
+XV	464897	465028	1.0	Shugoshin_N	0	464897-465028	PF07558	http://pfam.sanger.ac.uk/family?acc=PF07558
+XV	465866	465940	1.0	Shugoshin_C	0	465866-465940	PF07557	http://pfam.sanger.ac.uk/family?acc=PF07557

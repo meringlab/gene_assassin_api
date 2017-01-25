@@ -1,0 +1,3 @@
+#>P	YEL059C-A	YEL059C-A	YEL059C-A	V	42403	42624	-1	Subunit of the mitochondrial inner membrane peptidase (IMP); IMP is required for maturation of mitochondrial proteins of the intermembrane space; Som1p facilitates cleavage of a subset of substrates; contains twin cysteine-x9-cysteine motifs [Source:SGD;Acc:S000002954]
+#>E	YEL059C-A.1	1.0	42400-42624
+V	42406	42624	-1.0	Mitochondr_Som1	0	42406-42624	PF11093	http://pfam.sanger.ac.uk/family?acc=PF11093

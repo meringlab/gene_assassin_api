@@ -1,0 +1,9 @@
+#>P	YPR010C	YPR010C	YPR010C	XVI	577588	581196	-1	RNA polymerase I second largest subunit A135 [Source:SGD;Acc:S000006214]
+#>E	YPR010C.1	1.0	577585-581196
+XVI	579118	579237	-1.0	RNA_pol_Rpb2_5	0	579118-579237	PF04567	http://pfam.sanger.ac.uk/family?acc=PF04567
+XVI	579991	580569	-1.0	RNA_pol_Rpb2_2	0	579991-580569	PF04561	http://pfam.sanger.ac.uk/family?acc=PF04561
+XVI	579244	579420	-1.0	RNA_pol_Rpa2-specific	0	579244-579420	PF06883	http://pfam.sanger.ac.uk/family?acc=PF06883
+XVI	579541	579738	-1.0	RNA_pol_Rpb2_3	0	579541-579738	PF04565	http://pfam.sanger.ac.uk/family?acc=PF04565
+XVI	579793	581076	-1.0	RNA_pol_bsu_protrusion	0	579793-581076	PF04563	http://pfam.sanger.ac.uk/family?acc=PF04563
+XVI	578002	579105	-1.0	DNA-dir_RNA_pol_su2_6	0	578002-579105	PF00562	http://pfam.sanger.ac.uk/family?acc=PF00562
+XVI	577603	577998	-1.0	RNA_pol_Rpb2_7	0	577603-577998	PF04560	http://pfam.sanger.ac.uk/family?acc=PF04560

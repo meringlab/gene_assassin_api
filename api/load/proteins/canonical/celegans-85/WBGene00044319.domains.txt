@@ -1,0 +1,3 @@
+#>P	WBGene00044319	W06E11.5a	W06E11.5a	III	639160	640210	-1	Cysteine-rich hydrophobic protein; Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:Q23203]
+#>E	W06E11.5a.e3,W06E11.5a.e2,W06E11.5a.e1	0,0,0	639157-639327,639778-639988,640053-640210
+III	639253	639972	-1	Golgin_A_7/ERF4	45.6	639253-639327,639778-639972	PF10256	http://pfam.sanger.ac.uk/family?acc=PF10256

@@ -1,0 +1,4 @@
+#>P	YFR044C	YFR044C	YFR044C	VI	239995	241437	-1	Cys-Gly metallo-di-peptidase; forms a complex with Dug2p and Dug3p to degrade glutathione (GSH) and other peptides containing a gamma-glu-X bond in an alternative pathway to GSH degradation by gamma-glutamyl transpeptidase (Ecm38p) [Source:SGD;Acc:S000001940]
+#>E	YFR044C.1	1.0	239992-241437
+VI	240328	240765	-1.0	Peptidase_M20_dimer	0	240328-240765	PF07687	http://pfam.sanger.ac.uk/family?acc=PF07687
+VI	240019	241146	-1.0	Peptidase_M20	0	240019-241146	PF01546	http://pfam.sanger.ac.uk/family?acc=PF01546

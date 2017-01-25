@@ -1,0 +1,3 @@
+#>P	YCL044C	YCL044C	YCL044C	III	47114	48364	-1	Subunit of the mitochondrial (mt) i-AAA protease supercomplex; i-AAA degrades misfolded mitochondrial proteins; forms a subcomplex with Mgr3p that binds to substrates to facilitate proteolysis; required for growth of cells lacking mtDNA [Source:SGD;Acc:S000000549]
+#>E	YCL044C.1	1.0	47111-48364
+III	47201	48364	-1.0	i-AAA_Mgr1	564.8	47201-48364	PF08602	http://pfam.sanger.ac.uk/family?acc=PF08602

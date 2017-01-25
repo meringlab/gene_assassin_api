@@ -1,0 +1,6 @@
+#>P	YBL007C	YBL007C	YBL007C	II	212635	216366	-1	Cytoskeletal protein binding protein; required for assembly of the cortical actin cytoskeleton; interacts with proteins regulating actin dynamics and proteins required for endocytosis; found in the nucleus and cell cortex; has 3 SH3 domains [Source:SGD;Acc:S000000103]
+#>E	YBL007C.1	1.0	212632-216366
+II	216226	216342	-1.0	SH3_domain	0	216226-216342	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+II	215146	215292	-1.0	SH3_domain	0	215146-215292	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+II	215998	216144	-1.0	SH3_domain	0	215998-216144	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+II	214702	214908	-1.0	SHD1	0	214702-214908	PF03983	http://pfam.sanger.ac.uk/family?acc=PF03983

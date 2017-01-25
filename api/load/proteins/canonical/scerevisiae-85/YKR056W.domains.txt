@@ -1,0 +1,4 @@
+#>P	YKR056W	YKR056W	YKR056W	XI	549448	551364	1	tRNA methyltransferase; 5-methylates the uridine residue at position 54 of tRNAs and may also have a role in tRNA stabilization or maturation; endo-exonuclease with a role in DNA repair [Source:SGD;Acc:S000001764]
+#>E	YKR056W.1	1.0	549448-551367
+XI	549937	550128	1.0	TRAM	0	549937-550128	PF01938	http://pfam.sanger.ac.uk/family?acc=PF01938
+XI	550795	551361	1.0	U5_MeTrfase	0	550795-551361	PF05958	http://pfam.sanger.ac.uk/family?acc=PF05958

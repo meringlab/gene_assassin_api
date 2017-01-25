@@ -1,0 +1,4 @@
+#>P	YLR340W	YLR340W	YLR340W	XII	805887	806822	1	Conserved ribosomal protein P0 of the ribosomal stalk; involved in interaction between translational elongation factors and the ribosome; phosphorylated on serine 302; homologous to mammalian ribosomal protein LP0 and bacterial L10 [Source:SGD;Acc:S000004332]
+#>E	YLR340W.1	1.0	805887-806825
+XII	805899	806195	1.0	Ribosomal_L10/acidic_P0	0	805899-806195	PF00466	http://pfam.sanger.ac.uk/family?acc=PF00466
+XII	806571	806819	1.0	Ribosomal_60S	0	806571-806819	PF00428	http://pfam.sanger.ac.uk/family?acc=PF00428

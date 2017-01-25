@@ -1,0 +1,7 @@
+#>P	YHR098C	YHR098C	YHR098C	VIII	299148	301934	-1	Component of the Sec23p-Sfb3p heterodimer of the COPII vesicle coat; COPII coat is required for cargo selection during vesicle formation in ER to Golgi transport; homologous to Sec24p and Sfb2p [Source:SGD;Acc:S000001140]
+#>E	YHR098C.1	1.0	299145-301934
+VIII	301176	301289	-1.0	Znf_Sec23_Sec24	0	301176-301289	PF04810	http://pfam.sanger.ac.uk/family?acc=PF04810
+VIII	300075	300326	-1.0	Sec23_24_beta_S	0	300075-300326	PF08033	http://pfam.sanger.ac.uk/family?acc=PF08033
+VIII	300342	301049	-1.0	Sec23/24_trunk_dom	0	300342-301049	PF04811	http://pfam.sanger.ac.uk/family?acc=PF04811
+VIII	299730	300038	-1.0	Sec23/24_helical_dom	0	299730-300038	PF04815	http://pfam.sanger.ac.uk/family?acc=PF04815
+VIII	299430	299624	-1.0	Gelsolin_dom	0	299430-299624	PF00626	http://pfam.sanger.ac.uk/family?acc=PF00626

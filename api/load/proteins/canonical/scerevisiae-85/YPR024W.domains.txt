@@ -1,0 +1,4 @@
+#>P	YPR024W	YPR024W	YPR024W	XVI	610481	612721	1	Catalytic subunit of the i-AAA protease complex; complex is located in the mitochondrial inner membrane; responsible for degradation of unfolded or misfolded mitochondrial gene products; serves as a nonconventional translocation motor to pull PNPase into the intermembrane space; also has a role in intermembrane space protein folding; mutation causes an elevated rate of mitochondrial turnover [Source:SGD;Acc:S000006228]
+#>E	YPR024W.1	1.0	610481-612724
+XVI	611429	611818	1.0	ATPase_AAA_core	0	611429-611818	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+XVI	612002	612598	1.0	Peptidase_M41	0	612002-612598	PF01434	http://pfam.sanger.ac.uk/family?acc=PF01434

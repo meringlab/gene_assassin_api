@@ -1,0 +1,4 @@
+#>P	YPR120C	YPR120C	YPR120C	XVI	773878	775182	-1	B-type cyclin involved in DNA replication during S phase; activates Cdc28p to promote initiation of DNA synthesis; functions in formation of mitotic spindles along with Clb3p and Clb4p; most abundant during late G1 phase; CLB5 has a paralog, CLB6, that arose from the whole genome duplication [Source:SGD;Acc:S000006324]
+#>E	YPR120C.1	1.0	773875-775182
+XVI	773938	774297	-1.0	Cyclin_C	0	773938-774297	PF02984	http://pfam.sanger.ac.uk/family?acc=PF02984
+XVI	774304	774690	-1.0	Cyclin_N	0	774304-774690	PF00134	http://pfam.sanger.ac.uk/family?acc=PF00134

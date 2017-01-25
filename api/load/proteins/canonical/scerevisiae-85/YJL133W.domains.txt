@@ -1,0 +1,5 @@
+#>P	YJL133W	YJL133W	YJL133W	X	160619	161560	1	Iron transporter, mediates Fe2+ transport across inner mito membrane; mitochondrial carrier family member; active under low-iron conditions; may transport other cations; MRS3 has a paralog, MRS4, that arose from the whole genome duplication [Source:SGD;Acc:S000003669]
+#>E	YJL133W.1	1.0	160619-161563
+X	161000	161257	1.0	Mitochondrial_sb/sol_carrier	0	161000-161257	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+X	161267	161557	1.0	Mitochondrial_sb/sol_carrier	0	161267-161557	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+X	160712	160981	1.0	Mitochondrial_sb/sol_carrier	0	160712-160981	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

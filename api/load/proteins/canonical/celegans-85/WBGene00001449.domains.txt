@@ -1,0 +1,8 @@
+#>P	WBGene00001449	F07D3.2	F07D3.2	V	9471978	9473575	1	FMRFamide-like neuropeptides 6 QQDSEVEREMM KSAYMRF-amide 1 KSAYMRF-amide 2 KSAYMRF-amide 3 KSAYMRF-amide 4 KSAYMRF-amide 5 KSAYMRF-amide 6 [Source:UniProtKB/Swiss-Prot;Acc:Q19165]
+#>E	F07D3.2.e1,F07D3.2.e2,F07D3.2.e3,F07D3.2.e4,F07D3.2.e5	1,1,1,1,1	9471978-9472059,9472183-9472366,9472435-9472503,9472598-9472693,9473497-9473578
+V	9472200	9472223	1	FMRFamid-related_peptide-like	28.7	9472200-9472223	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+V	9472263	9472286	1	FMRFamid-related_peptide-like	28.7	9472263-9472286	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+V	9472490	9472607	1	FMRFamid-related_peptide-like	28.7	9472490-9472503,9472598-9472607	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+V	9472353	9472444	1	FMRFamid-related_peptide-like	28.7	9472353-9472366,9472435-9472444	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+V	9473552	9473575	1	FMRFamid-related_peptide-like	28.7	9473552-9473575	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+V	9472680	9473506	1	FMRFamid-related_peptide-like	28.7	9472680-9472693,9473497-9473506	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581

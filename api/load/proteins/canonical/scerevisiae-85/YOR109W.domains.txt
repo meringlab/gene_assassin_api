@@ -1,0 +1,4 @@
+#>P	YOR109W	YOR109W	YOR109W	XV	525278	528598	1	Polyphosphatidylinositol phosphatase; dephosphorylates multiple phosphatidylinositol phosphates; involved in trans Golgi network-to-early endosome pathway; hyperosmotic stress causes translocation to actin patches; contains Sac1 and 5-ptase domains; INP53 has a paralog, INP52, that arose from the whole genome duplication [Source:SGD;Acc:S000005635]
+#>E	YOR109W.1	1.0	525278-528601
+XV	525455	526420	1.0	Syja_N	0	525455-526420	PF02383	http://pfam.sanger.ac.uk/family?acc=PF02383
+XV	526988	527824	1.0	Endo/exonuclease/phosphatase	0	526988-527824	PF03372	http://pfam.sanger.ac.uk/family?acc=PF03372

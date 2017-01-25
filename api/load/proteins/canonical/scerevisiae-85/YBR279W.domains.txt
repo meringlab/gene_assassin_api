@@ -1,0 +1,3 @@
+#>P	YBR279W	YBR279W	YBR279W	II	761257	762591	1	Component of the Paf1p complex involved in transcription elongation; binds to and modulates the activity of RNA polymerases I and II; required for expression of a subset of genes, including cell cycle-regulated genes; involved in SER3 repression by helping to maintain SRG1 transcription-dependent nucleosome occupancy; homolog of human PD2/hPAF1 [Source:SGD;Acc:S000000483]
+#>E	YBR279W.1	1.0	761257-762594
+II	761269	762528	1.0	RNA_pol_II-assoc_Paf1	0	761269-762528	PF03985	http://pfam.sanger.ac.uk/family?acc=PF03985

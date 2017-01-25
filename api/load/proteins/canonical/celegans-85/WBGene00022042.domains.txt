@@ -1,0 +1,3 @@
+#>P	WBGene00022042	Y65B4BR.5b	Y65B4BR.5b	I	535808	536490	1	Nascent polypeptide-associated complex subunit alpha  [Source:UniProtKB/Swiss-Prot;Acc:Q86S66]
+#>E	Y65B4BR.5a.e1,Y65B4BR.5a.e2,Y65B4BR.5b.e3	0,0,0	535808-535849,535899-536306,536350-536493
+I	536031	536198	1	Nas_poly-pep-assoc_cplx_dom	81.5	536031-536198	PF01849	http://pfam.sanger.ac.uk/family?acc=PF01849

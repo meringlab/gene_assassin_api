@@ -1,0 +1,3 @@
+#>P	YDR076W	YDR076W	YDR076W	IV	598468	599685	1	Protein that stimulates strand exchange; stimulates strand exchange by stabilizing the binding of Rad51p to single-stranded DNA; involved in the recombinational repair of double-strand breaks in DNA during vegetative growth and meiosis; forms heterodimer with Rad57p [Source:SGD;Acc:S000002483]
+#>E	YDR076W.1	1.0	598468-599688
+IV	598522	598731	1.0	Circ_KaiC/RadA	0	598522-598731	PF06745	http://pfam.sanger.ac.uk/family?acc=PF06745

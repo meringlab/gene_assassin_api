@@ -1,0 +1,4 @@
+#>P	YOL127W	YOL127W	YOL127W	XV	80348	81187	1	Ribosomal 60S subunit protein L25; primary rRNA-binding ribosomal protein component of large ribosomal subunit; binds to 25S rRNA via a conserved C-terminal motif; homologous to mammalian ribosomal protein L23A and bacterial L23 [Source:SGD;Acc:S000005487]
+#>E	YOL127W.1,YOL127W.2	1,1	80348-80360,80775-81190
+XV	80939	81175	1	Ribosomal_L25/23	0	80939-81175	PF00276	http://pfam.sanger.ac.uk/family?acc=PF00276
+XV	80348	80923	1	Ribosomal_L23/L25_N	0	80348-80360,80775-80923	PF03939	http://pfam.sanger.ac.uk/family?acc=PF03939

@@ -1,0 +1,4 @@
+#>P	YBR229C	YBR229C	YBR229C	II	676360	679221	-1	Glucosidase II catalytic subunit; required for normal cell wall synthesis; mutations in rot2 suppress tor2 mutations, and are synthetically lethal with rot1 mutations [Source:SGD;Acc:S000000433]
+#>E	YBR229C.1	1.0	676357-679221
+II	678211	678417	-1.0	Glyco_hydro_31_N_dom	0	678211-678417	PF13802	http://pfam.sanger.ac.uk/family?acc=PF13802
+II	676795	678132	-1.0	Glyco_hydro_31	0	676795-678132	PF01055	http://pfam.sanger.ac.uk/family?acc=PF01055

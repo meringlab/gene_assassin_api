@@ -1,0 +1,7 @@
+#>P	YOR153W	YOR153W	YOR153W	XV	619840	624372	1	Plasma membrane ATP-binding cassette (ABC) transporter; multidrug transporter actively regulated by Pdr1p; also involved in steroid transport, cation resistance, and cellular detoxification during exponential growth; PDR5 has a paralog, PDR15, that arose from the whole genome duplication [Source:SGD;Acc:S000005679]
+#>E	YOR153W.1	1.0	619840-624375
+XV	623398	624045	1.0	ABC_2_trans	0	623398-624045	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+XV	621349	621984	1.0	ABC_2_trans	0	621349-621984	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+XV	622573	622956	1.0	ABC_transporter-like	0	622573-622956	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XV	620437	620847	1.0	ABC_transporter-like	0	620437-620847	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XV	622009	622293	1.0	PDR_CDR_ABC	0	622009-622293	PF06422	http://pfam.sanger.ac.uk/family?acc=PF06422

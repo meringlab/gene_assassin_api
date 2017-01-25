@@ -1,0 +1,4 @@
+#>P	YPR204W	YPR204W	YPR204W	XVI	944603	947698	1	DNA helicase encoded within the telomeric Y' element; Y' -helicase protein 1 [Source:SGD;Acc:S000006408]
+#>E	YPR204W.1	1.0	944603-947701
+XVI	945398	945607	1.0	Helicase_C	0	945398-945607	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XVI	944618	945088	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	944618-945088	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

@@ -1,0 +1,3 @@
+#>P	YOR391C	YOR391C	YOR391C	XV	1078548	1079258	-1	Possible chaperone and cysteine protease; required for transcriptional reprogramming during the diauxic shift and for survival in stationary phase; similar to E. coli Hsp31 and S. cerevisiae Hsp31p, Hsp32p, and Sno4p; member of the DJ-1/ThiJ/PfpI superfamily, which includes human DJ-1 involved in Parkinson's disease and cancer [Source:SGD;Acc:S000005918]
+#>E	YOR391C.1	1.0	1078545-1079258
+XV	1078554	1079066	-1.0	ThiJ/PfpI	0	1078554-1079066	PF01965	http://pfam.sanger.ac.uk/family?acc=PF01965

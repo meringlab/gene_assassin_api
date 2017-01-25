@@ -1,0 +1,3 @@
+#>P	YOR037W	YOR037W	YOR037W	XV	401555	402652	1	Mitochondrial peripheral inner membrane protein; contains a FAD cofactor in a domain exposed in the intermembrane space; exhibits redox activity in vitro; likely participates in ligation of heme to acytochromes c and c1 (Cyc1p and Cyt1p) [Source:SGD;Acc:S000005563]
+#>E	YOR037W.1	1.0	401555-402655
+XV	401975	402088	1.0	OxRdtase_FAD-bd_dom	0	401975-402088	PF00970	http://pfam.sanger.ac.uk/family?acc=PF00970

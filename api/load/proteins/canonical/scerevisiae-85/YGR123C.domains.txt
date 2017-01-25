@@ -1,0 +1,6 @@
+#>P	YGR123C	YGR123C	YGR123C	VII	736665	738203	-1	Protein serine/threonine phosphatase; regulates Hsp90 chaperone by affecting its ATPase and cochaperone binding activities; has similarity to human phosphatase PP5; present in both the nucleus and cytoplasm; expressed during logarithmic growth [Source:SGD;Acc:S000003355]
+#>E	YGR123C.1	1.0	736662-738203
+VII	737865	737963	-1.0	TPR_2	0	737865-737963	PF07719	http://pfam.sanger.ac.uk/family?acc=PF07719
+VII	737502	737666	-1.0	PPP5	0	737502-737666	PF08321	http://pfam.sanger.ac.uk/family?acc=PF08321
+VII	736899	737477	-1.0	Metallo_PEstase_dom	0	736899-737477	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149
+VII	737967	738059	-1.0	TPR-1	0	737967-738059	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515

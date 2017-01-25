@@ -1,0 +1,4 @@
+#>P	ENSMUSG00000090035	ENSMUST00000161240	ENSMUSP00000125315	10	99108415	99110148	1	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 4 [Source:MGI Symbol;Acc:MGI:894692]
+#>E	ENSMUSE00000864053	1.0	99108415-99110151
+10	99109747	99110136	1.0	Ricin_B_lectin	85.2	99109747-99110136	PF00652	http://pfam.sanger.ac.uk/family?acc=PF00652
+10	99108826	99109377	1.0	Glyco_trans_2-like	124.5	99108826-99109377	PF00535	http://pfam.sanger.ac.uk/family?acc=PF00535

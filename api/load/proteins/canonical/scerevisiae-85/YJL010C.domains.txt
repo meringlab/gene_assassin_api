@@ -1,0 +1,6 @@
+#>P	YJL010C	YJL010C	YJL010C	X	417565	419562	-1	Essential subunit of U3-containing 90S preribosome; involved in production of 18S rRNA and assembly of small ribosomal subunit; also part of pre-40S ribosome and required for its export into cytoplasm; binds RNA and contains pumilio domain [Source:SGD;Acc:S000003547]
+#>E	YJL010C.1	1.0	417562-419562
+X	418345	418452	-1.0	Pumilio_RNA-bd_rpt	0	418345-418452	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+X	419080	419175	-1.0	Pumilio_RNA-bd_rpt	0	419080-419175	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+X	418921	419001	-1.0	Pumilio_RNA-bd_rpt	0	418921-419001	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+X	417817	417912	-1.0	Pumilio_RNA-bd_rpt	0	417817-417912	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806

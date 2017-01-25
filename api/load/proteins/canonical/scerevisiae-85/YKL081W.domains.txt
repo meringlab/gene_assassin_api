@@ -1,0 +1,5 @@
+#>P	YKL081W	YKL081W	YKL081W	XI	282891	284452	1	Gamma subunit of translational elongation factor eEF1B; stimulates the binding of aminoacyl-tRNA (AA-tRNA) to ribosomes by releasing eEF1A (Tef1p/Tef2p) from the ribosomal complex [Source:SGD;Acc:S000001564]
+#>E	YKL081W.1,YKL081W.2	1,1	282891-283095,283422-284455
+XI	283964	284284	1	Transl_elong_EF1_G_con	0	283964-284284	PF00647	http://pfam.sanger.ac.uk/family?acc=PF00647
+XI	282897	283429	1	Glutathione_S-Trfase_N	0	282897-283095,283422-283429	PF02798	http://pfam.sanger.ac.uk/family?acc=PF02798
+XI	283532	283804	1	GST_C	0	283532-283804	PF00043	http://pfam.sanger.ac.uk/family?acc=PF00043

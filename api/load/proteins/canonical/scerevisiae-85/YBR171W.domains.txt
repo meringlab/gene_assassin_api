@@ -1,0 +1,3 @@
+#>P	YBR171W	YBR171W	YBR171W	II	578364	578981	1	Non-essential subunit of Sec63 complex; with Sec61 complex, Kar2p/BiP and Lhs1p forms a channel competent for SRP-dependent and post-translational SRP-independent protein targeting and import into the ER; other members are Sec63p, Sec62p, and Sec72p [Source:SGD;Acc:S000000375]
+#>E	YBR171W.1	1.0	578364-578984
+II	578439	578966	1.0	Sec62/63_Sec66	0	578439-578966	PF09802	http://pfam.sanger.ac.uk/family?acc=PF09802

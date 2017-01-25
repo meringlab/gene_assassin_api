@@ -1,0 +1,3 @@
+#>P	YER159C-A	YER159C-A	YER159C-A	V	496805	498124	-1	Retrotransposon TYA Gag gene co-transcribed with TYB Pol; translated as TYA or TYA-TYB polyprotein; Gag is a nucleocapsid protein that is the structural constituent of virus-like particles (VLPs); similar to retroviral Gag [Source:SGD;Acc:S000007403]
+#>E	YER159C-A.1	1.0	496802-498124
+V	497783	498076	-1.0	Retrotransposon_Ty1A_N	0	497783-498076	PF01021	http://pfam.sanger.ac.uk/family?acc=PF01021

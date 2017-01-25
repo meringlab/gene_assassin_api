@@ -1,0 +1,7 @@
+#>P	YOR027W	YOR027W	YOR027W	XV	381053	382819	1	Hsp90 cochaperone; interacts with the Ssa group of the cytosolic Hsp70 chaperones and activates Ssa1p ATPase activity; interacts with Hsp90 chaperones and inhibits their ATPase activity; homolog of mammalian Hop [Source:SGD;Acc:S000005553]
+#>E	YOR027W.1	1.0	381053-382822
+XV	382061	382144	1.0	TPR-1	0	382061-382144	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+XV	382340	382441	1.0	TPR-1	0	382340-382441	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+XV	381275	381370	1.0	TPR-1	0	381275-381370	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+XV	381065	381160	1.0	TPR-1	0	381065-381160	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+XV	381179	381268	1.0	TPR-1	0	381179-381268	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515

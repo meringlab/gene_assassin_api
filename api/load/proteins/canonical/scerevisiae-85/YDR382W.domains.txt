@@ -1,0 +1,3 @@
+#>P	YDR382W	YDR382W	YDR382W	IV	1239492	1239821	1	Ribosomal protein P2 beta; a component of the ribosomal stalk, which is involved in the interaction between translational elongation factors and the ribosome; free (non-ribosomal) P2 stimulates the phosphorylation of the eIF2 alpha subunit (Sui2p) by Gcn2p; regulates the accumulation of P1 (Rpp1Ap and Rpp1Bp) in the cytoplasm [Source:SGD;Acc:S000002790]
+#>E	YDR382W.1	1.0	1239492-1239824
+IV	1239543	1239818	1.0	Ribosomal_60S	84.7	1239543-1239818	PF00428	http://pfam.sanger.ac.uk/family?acc=PF00428

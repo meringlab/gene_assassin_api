@@ -1,0 +1,9 @@
+#>P	YDL203C	YDL203C	YDL203C	IV	96085	97953	-1	Protein that functions in the cell wall integrity pathway; functions upstream of Pkc1p; GFP-fusion protein expression is induced in response to the DNA-damaging agent MMS; non-tagged Ack1p is detected in purified mitochondria [Source:SGD;Acc:S000002362]
+#>E	YDL203C.1	1.0	96082-97953
+IV	96622	96729	-1.0	Sel1-like	0	96622-96729	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+IV	96370	96471	-1.0	Sel1-like	0	96370-96471	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+IV	96124	96219	-1.0	Sel1-like	0	96124-96219	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+IV	96250	96351	-1.0	Sel1-like	0	96250-96351	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+IV	96871	97002	-1.0	Sel1-like	0	96871-97002	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+IV	96745	96870	-1.0	Sel1-like	0	96745-96870	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+IV	96484	96540	-1.0	Sel1-like	0	96484-96540	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238

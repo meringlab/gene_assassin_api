@@ -1,0 +1,4 @@
+#>P	YPR110C	YPR110C	YPR110C	XVI	745831	746835	-1	RNA polymerase subunit AC40; common to RNA polymerase I and III [Source:SGD;Acc:S000006314]
+#>E	YPR110C.1	1.0	745828-746835
+XVI	745861	746679	-1.0	DNA-dir_RNA_pol_dimersation	0	745861-746679	PF01193	http://pfam.sanger.ac.uk/family?acc=PF01193
+XVI	746176	746589	-1.0	DNA-dir_RNA_pol_insert	0	746176-746589	PF01000	http://pfam.sanger.ac.uk/family?acc=PF01000

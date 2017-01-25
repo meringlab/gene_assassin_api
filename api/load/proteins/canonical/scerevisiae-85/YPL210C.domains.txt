@@ -1,0 +1,4 @@
+#>P	YPL210C	YPL210C	YPL210C	XVI	154293	156212	-1	Core component of the signal recognition particle (SRP); the SRP is a  ribonucleoprotein (RNP) complex that functions in targeting nascent secretory proteins to the endoplasmic reticulum (ER) membrane [Source:SGD;Acc:S000006131]
+#>E	YPL210C.1	1.0	154290-156212
+XVI	154428	154610	-1.0	Signal_recog_part_SRP72_RNA-bd	0	154428-154610	PF08492	http://pfam.sanger.ac.uk/family?acc=PF08492
+XVI	155565	155648	-1.0	TPR_2	0	155565-155648	PF07719	http://pfam.sanger.ac.uk/family?acc=PF07719

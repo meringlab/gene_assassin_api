@@ -1,0 +1,4 @@
+#>P	YFL008W	YFL008W	YFL008W	VI	119429	123103	1	Subunit of the multiprotein cohesin complex; essential protein involved in chromosome segregation and in double-strand DNA break repair; SMC chromosomal ATPase family member, binds DNA with a preference for DNA with secondary structure [Source:SGD;Acc:S000001886]
+#>E	YFL008W.1	1.0	119429-123106
+VI	121007	121351	1.0	SMC_hinge	0	121007-121351	PF06470	http://pfam.sanger.ac.uk/family?acc=PF06470
+VI	119441	123061	1.0	RecF/RecN/SMC	0	119441-123061	PF02463	http://pfam.sanger.ac.uk/family?acc=PF02463

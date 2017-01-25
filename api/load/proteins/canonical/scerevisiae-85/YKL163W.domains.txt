@@ -1,0 +1,9 @@
+#>P	YKL163W	YKL163W	YKL163W	XI	144401	145375	1	O-glycosylated covalently-bound cell wall protein; required for cell wall stability; expression is cell cycle regulated, peaking in M/G1 and also subject to regulation by the cell integrity pathway; coding sequence contains length polymorphisms in different strains; PIR3 has a paralog, HSP150, that arose from the whole genome duplication [Source:SGD;Acc:S000001646]
+#>E	YKL163W.1	1.0	144401-145378
+XI	144782	144835	1.0	Yeast_PIR	0	144782-144835	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	144599	144649	1.0	Yeast_PIR	0	144599-144649	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	144674	144727	1.0	Yeast_PIR	0	144674-144727	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	144890	144943	1.0	Yeast_PIR	0	144890-144943	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	144836	144889	1.0	Yeast_PIR	0	144836-144889	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	144728	144781	1.0	Yeast_PIR	0	144728-144781	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XI	144944	144997	1.0	Yeast_PIR	0	144944-144997	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399

@@ -1,0 +1,8 @@
+#>P	YPL058C	YPL058C	YPL058C	XVI	445845	450377	-1	Plasma membrane ATP-binding cassette (ABC) transporter; weak-acid-inducible multidrug transporter required for weak organic acid resistance; induced by sorbate and benzoate and regulated by War1p; mutants exhibit sorbate hypersensitivity [Source:SGD;Acc:S000005979]
+#>E	YPL058C.1	1.0	445842-450377
+XVI	445962	446084	-1.0	PDR_CDR_ABC	0	445962-446084	PF06422	http://pfam.sanger.ac.uk/family?acc=PF06422
+XVI	447951	448235	-1.0	PDR_CDR_ABC	0	447951-448235	PF06422	http://pfam.sanger.ac.uk/family?acc=PF06422
+XVI	449409	449816	-1.0	ABC_transporter-like	0	449409-449816	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XVI	447342	447725	-1.0	ABC_transporter-like	0	447342-447725	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XVI	448263	448907	-1.0	ABC_2_trans	0	448263-448907	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+XVI	446271	446903	-1.0	ABC_2_trans	0	446271-446903	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061

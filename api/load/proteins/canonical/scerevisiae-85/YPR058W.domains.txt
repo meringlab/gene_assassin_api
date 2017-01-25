@@ -1,0 +1,5 @@
+#>P	YPR058W	YPR058W	YPR058W	XVI	673751	674671	1	Putative mitochondrial inner membrane transporter; proposed role in oleate metabolism and glutamate biosynthesis; member of the mitochondrial carrier (MCF) family; localizes to vacuole in response to H2O2; YMC1 has a paralog, YMC2, that arose from the whole genome duplication [Source:SGD;Acc:S000006262]
+#>E	YPR058W.1	1.0	673751-674674
+XVI	674102	674356	1.0	Mitochondrial_sb/sol_carrier	0	674102-674356	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XVI	674396	674668	1.0	Mitochondrial_sb/sol_carrier	0	674396-674668	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XVI	673817	674080	1.0	Mitochondrial_sb/sol_carrier	0	673817-674080	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

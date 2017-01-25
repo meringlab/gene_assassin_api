@@ -1,0 +1,3 @@
+#>P	YMR101C	YMR101C	YMR101C	XIII	468448	469476	-1	Cis-prenyltransferase; involved in synthesis of long-chain dolichols (19-22 isoprene units; as opposed to Rer2p which synthesizes shorter-chain dolichols); localizes to lipid bodies; transcription is induced during stationary phase [Source:SGD;Acc:S000004707]
+#>E	YMR101C.1	1.0	468445-469476
+XIII	468601	469260	-1.0	UPP_synth-like	0	468601-469260	PF01255	http://pfam.sanger.ac.uk/family?acc=PF01255

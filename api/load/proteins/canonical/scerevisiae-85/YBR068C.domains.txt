@@ -1,0 +1,3 @@
+#>P	YBR068C	YBR068C	YBR068C	II	373864	375690	-1	High-affinity leucine permease; functions as a branched-chain amino acid permease involved in uptake of leucine, isoleucine and valine; contains 12 predicted transmembrane domains; BAP2 has a paralog, BAP3, that arose from the whole genome duplication [Source:SGD;Acc:S000000272]
+#>E	YBR068C.1	1.0	373861-375690
+II	374005	375396	-1.0	AA-permease_dom	470.8	374005-375396	PF00324	http://pfam.sanger.ac.uk/family?acc=PF00324

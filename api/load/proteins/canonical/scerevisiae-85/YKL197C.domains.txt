@@ -1,0 +1,5 @@
+#>P	YKL197C	YKL197C	YKL197C	XI	70737	73865	-1	AAA-peroxin; heterodimerizes with AAA-peroxin Pex6p and participates in the recycling of peroxisomal signal receptor Pex5p from the peroxisomal membrane to the cystosol; induced by oleic acid and upregulated during anaerobiosis [Source:SGD;Acc:S000001680]
+#>E	YKL197C.1	1.0	70734-73865
+XI	72099	72494	-1.0	ATPase_AAA_core	0	72099-72494	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+XI	71286	71666	-1.0	ATPase_AAA_core	0	71286-71666	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+XI	73317	73547	-1.0	PEX-1N	0	73317-73547	PF09262	http://pfam.sanger.ac.uk/family?acc=PF09262

@@ -1,0 +1,4 @@
+#>P	YPL258C	YPL258C	YPL258C	XVI	53501	55153	-1	Hydroxymethylpyrimidine (HMP) and HMP-phosphate kinase; involved in thiamine biosynthesis; member of a gene family with THI20 and THI22; functionally redundant with Thi20p [Source:SGD;Acc:S000006179]
+#>E	YPL258C.1	1.0	53498-55153
+XVI	54308	55057	-1.0	HMP-P_kinase-1	268.3	54308-55057	PF08543	http://pfam.sanger.ac.uk/family?acc=PF08543
+XVI	53504	54136	-1.0	TENA/THI4/PQQ_synthPqqC_dom	229.2	53504-54136	PF03070	http://pfam.sanger.ac.uk/family?acc=PF03070

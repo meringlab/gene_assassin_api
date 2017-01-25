@@ -1,0 +1,5 @@
+#>P	YDR334W	YDR334W	YDR334W	IV	1135932	1140473	1	Swi2/Snf2-related ATPase; structural component of the SWR1 complex, which exchanges histone variant H2AZ (Htz1p) for chromatin-bound histone H2A; relocalizes to the cytosol in response to hypoxia; chronological aging factor that mediates lifespan extension by dietary restriction [Source:SGD;Acc:S000002742]
+#>E	YDR334W.1	1.0	1135932-1140476
+IV	1139769	1140008	1.0	Helicase_C	0	1139769-1140008	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+IV	1138026	1138928	1.0	SNF2_N	0	1138026-1138928	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176
+IV	1136952	1137164	1.0	HSA	0	1136952-1137164	PF07529	http://pfam.sanger.ac.uk/family?acc=PF07529

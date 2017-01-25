@@ -1,0 +1,4 @@
+#>P	YGR184C	YGR184C	YGR184C	VII	859904	865753	-1	E3 ubiquitin ligase (N-recognin); heterodimerizes with Rad6p to ubiquitinate substrates in the N-end rule pathway; role in endoplasmic reticulum-associated protein degradation (ERAD) in the absence of canonical ER membrane ligases or after stress; major role in targeting misfolded cytosolic proteins for degradation; regulates peptide transport via Cup9p ubiquitination; mutation in human UBR1 causes Johansson-Blizzard Syndrome (JBS) [Source:SGD;Acc:S000003416]
+#>E	YGR184C.1	1.0	859901-865753
+VII	864617	864835	-1.0	ClpS_core	0	864617-864835	PF02617	http://pfam.sanger.ac.uk/family?acc=PF02617
+VII	865178	865390	-1.0	Znf_N-recognin	0	865178-865390	PF02207	http://pfam.sanger.ac.uk/family?acc=PF02207

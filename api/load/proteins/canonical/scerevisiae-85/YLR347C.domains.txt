@@ -1,0 +1,4 @@
+#>P	YLR347C	YLR347C	YLR347C	XII	823831	826413	-1	Karyopherin beta; forms a complex with Srp1p/Kap60p; interacts with nucleoporins to mediate nuclear import of NLS-containing cargo proteins via the nuclear pore complex; regulates PC biosynthesis; GDP-to-GTP exchange factor for Gsp1p [Source:SGD;Acc:S000004339]
+#>E	YLR347C.1	1.0	823828-826413
+XII	826096	826341	-1.0	Importin-beta_N	0	826096-826341	PF03810	http://pfam.sanger.ac.uk/family?acc=PF03810
+XII	825094	825177	-1.0	HEAT	0	825094-825177	PF02985	http://pfam.sanger.ac.uk/family?acc=PF02985

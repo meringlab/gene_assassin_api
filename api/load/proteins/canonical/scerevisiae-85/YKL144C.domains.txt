@@ -1,0 +1,4 @@
+#>P	YKL144C	YKL144C	YKL144C	XI	175846	176481	-1	RNA polymerase III subunit C25; required for transcription initiation; forms a heterodimer with Rpc17p; paralog of Rpb7p [Source:SGD;Acc:S000001627]
+#>E	YKL144C.1	1.0	175843-176481
+XI	176251	176457	-1.0	RNA_pol_Rpb7_N	0	176251-176457	PF03876	http://pfam.sanger.ac.uk/family?acc=PF03876
+XI	175849	176247	-1.0	RNA_pol_III_Rbc25	0	175849-176247	PF08292	http://pfam.sanger.ac.uk/family?acc=PF08292

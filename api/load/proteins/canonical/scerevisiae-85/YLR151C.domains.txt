@@ -1,0 +1,3 @@
+#>P	YLR151C	YLR151C	YLR151C	XII	441718	442737	-1	8-oxo-dGTP diphosphatase; prevents spontaneous mutagenesis via sanitization of oxidized purine nucleoside triphosphates; can also act as peroxisomal pyrophosphatase with specificity for coenzyme A and CoA derivatives, may function to remove potentially toxic oxidized CoA disulfide from peroxisomes to maintain the capacity for beta-oxidation of fatty acids; nudix hydrolase family member; similar E. coli MutT and human, rat and mouse MTH1 [Source:SGD;Acc:S000004141]
+#>E	YLR151C.1	1.0	441715-442737
+XII	442162	442623	-1.0	NUDIX_hydrolase_dom	0	442162-442623	PF00293	http://pfam.sanger.ac.uk/family?acc=PF00293

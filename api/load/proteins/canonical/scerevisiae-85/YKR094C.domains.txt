@@ -1,0 +1,4 @@
+#>P	YKR094C	YKR094C	YKR094C	XI	617999	618750	-1	Ubiquitin-ribosomal 60S subunit protein L40B fusion protein; cleaved to yield ubiquitin and ribosomal protein L40B; ubiquitin may facilitate assembly of the ribosomal protein into ribosomes; homologous to mammalian ribosomal protein L40, no bacterial homolog; RPL40B has a paralog, RPL40A, that arose from the whole genome duplication [Source:SGD;Acc:S000001802]
+#>E	YKR094C.2,YKR094C.1	1,1	617996-618374,618743-618750
+XI	618161	618367	-1	Ubiquitin	0	618161-618367	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240
+XI	617999	618151	-1	Ribosomal_L40e	0	617999-618151	PF01020	http://pfam.sanger.ac.uk/family?acc=PF01020

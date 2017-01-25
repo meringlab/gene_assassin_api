@@ -1,0 +1,3 @@
+#>P	YLR017W	YLR017W	YLR017W	XII	177608	178618	1	Methylthioadenosine phosphorylase (MTAP); catalyzes the initial step in the methionine salvage pathway; affects polyamine biosynthesis through regulation of ornithine decarboxylase (Spe1p) activity; regulates ADH2 gene expression [Source:SGD;Acc:S000004007]
+#>E	YLR017W.1	1.0	177608-178621
+XII	177710	178474	1.0	Nucleoside_phosphorylase_d	0	177710-178474	PF01048	http://pfam.sanger.ac.uk/family?acc=PF01048

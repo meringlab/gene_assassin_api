@@ -1,0 +1,3 @@
+#>P	YDL091C	YDL091C	YDL091C	IV	293395	294759	-1	Subunit of the DSC ubiquitin ligase complex; UBX (ubiquitin regulatory X) domain-containing protein that interacts with Cdc48p; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm in a punctate pattern; ortholog of fission yeast Ucp10 [Source:SGD;Acc:S000002249]
+#>E	YDL091C.1	1.0	293392-294759
+IV	293404	293697	-1.0	UBX	0	293404-293697	PF00789	http://pfam.sanger.ac.uk/family?acc=PF00789

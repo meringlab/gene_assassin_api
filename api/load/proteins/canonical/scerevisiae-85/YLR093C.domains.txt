@@ -1,0 +1,4 @@
+#>P	YLR093C	YLR093C	YLR093C	XII	326516	327415	-1	v-SNARE component of the vacuolar SNARE complex; involved in vesicle fusion; inhibits ATP-dependent Ca(2+) transport activity of Pmc1p in the vacuolar membrane [Source:SGD;Acc:S000004083]
+#>E	YLR093C.2,YLR093C.1	1,1	326513-327258,327400-327415
+XII	326525	326770	-1	Synaptobrevin	0	326525-326770	PF00957	http://pfam.sanger.ac.uk/family?acc=PF00957
+XII	326840	327259	-1	Vacuolar_R-SNAR_Nyv1_N	0	326840-327259	PF09426	http://pfam.sanger.ac.uk/family?acc=PF09426

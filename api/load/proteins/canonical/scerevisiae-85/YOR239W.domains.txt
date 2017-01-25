@@ -1,0 +1,3 @@
+#>P	YOR239W	YOR239W	YOR239W	XV	784857	786741	1	AdoMet-dependent tRNA methyltransferase and actin binding protein; C-terminal domain is responsible for 3-methylcytidine modification of residue 32 of the tRNA anticodon loop of tRNA-Thr and tRNA-Ser and contains an S-adenosylmethionine (AdoMet) binding motif; N-terminal actin binding sequence interacts with actin filaments and localizes to actin patches and cables; N- and C-terminal domains are encoded in separate ORFs that are translated into one protein via a +1 frameshift [Source:SGD;Acc:S000005765]
+#>E	YOR239W.1,YOR239W.2	1,1	784857-785687,785689-786744
+XV	786172	786486	1	Methyltransf_12	0	786172-786486	PF08242	http://pfam.sanger.ac.uk/family?acc=PF08242

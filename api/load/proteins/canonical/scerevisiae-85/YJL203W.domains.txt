@@ -1,0 +1,5 @@
+#>P	YJL203W	YJL203W	YJL203W	X	53341	54180	1	Subunit of the SF3a splicing factor complex; required for spliceosome assembly [Source:SGD;Acc:S000003739]
+#>E	YJL203W.1	1.0	53341-54183
+X	53800	54180	1.0	PRP21-like	0	53800-54180	PF12230	http://pfam.sanger.ac.uk/family?acc=PF12230
+X	53365	53505	1.0	Surp	0	53365-53505	PF01805	http://pfam.sanger.ac.uk/family?acc=PF01805
+X	53614	53769	1.0	Surp	0	53614-53769	PF01805	http://pfam.sanger.ac.uk/family?acc=PF01805

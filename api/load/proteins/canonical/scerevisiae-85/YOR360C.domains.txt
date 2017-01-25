@@ -1,0 +1,3 @@
+#>P	YOR360C	YOR360C	YOR360C	XV	1013244	1014821	-1	High-affinity cyclic AMP phosphodiesterase; component of the cAMP-dependent protein kinase signaling system, protects the cell from extracellular cAMP, contains readthrough motif surrounding termination codon [Source:SGD;Acc:S000005887]
+#>E	YOR360C.1	1.0	1013241-1014821
+XV	1013373	1014032	-1.0	PDEase_catalytic_dom	0	1013373-1014032	PF00233	http://pfam.sanger.ac.uk/family?acc=PF00233

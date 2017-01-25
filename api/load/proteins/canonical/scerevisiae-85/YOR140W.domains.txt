@@ -1,0 +1,3 @@
+#>P	YOR140W	YOR140W	YOR140W	XV	586981	589278	1	Transcriptional repressor and activator; involved in repression of flocculation-related genes, and activation of stress responsive genes; negatively regulated by cAMP-dependent protein kinase A subunit Tpk2p; premature stop codon (C1430T, Q477-stop) in SK1 background is linked to the aggressively invasive phenotype of SK1 relative to BY4741 (S288C) [Source:SGD;Acc:S000005666]
+#>E	YOR140W.1	1.0	586981-589281
+XV	587173	587604	1.0	HSF_DNA-bd	0	587173-587604	PF00447	http://pfam.sanger.ac.uk/family?acc=PF00447

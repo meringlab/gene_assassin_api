@@ -1,0 +1,3 @@
+#>P	YBL016W	YBL016W	YBL016W	II	192451	193509	1	Mitogen-activated serine/threonine protein kinase involved in mating; phosphoactivated by Ste7p; substrates include Ste12p, Far1p, Bni1p, Sst2p; inhibits invasive growth during mating by phosphorylating Tec1p, promoting its; inhibits recruitment of Ste5p, Cdc42p-mediated asymmetry and mating morphogenesis [Source:SGD;Acc:S000000112]
+#>E	YBL016W.1	1.0	192451-193512
+II	192487	193377	1.0	Prot_kinase_cat_dom	0	192487-193377	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

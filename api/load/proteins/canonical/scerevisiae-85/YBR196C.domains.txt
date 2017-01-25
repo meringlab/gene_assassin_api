@@ -1,0 +1,3 @@
+#>P	YBR196C	YBR196C	YBR196C	II	612239	613900	-1	Glycolytic enzyme phosphoglucose isomerase; catalyzes the interconversion of glucose-6-phosphate and fructose-6-phosphate; required for cell cycle progression and completion of the gluconeogenic events of sporulation [Source:SGD;Acc:S000000400]
+#>E	YBR196C.1	1.0	612236-613900
+II	612260	613714	-1.0	G6P_Isomerase	0	612260-613714	PF00342	http://pfam.sanger.ac.uk/family?acc=PF00342

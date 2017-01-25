@@ -1,0 +1,3 @@
+#>P	YMR230W	YMR230W	YMR230W	XIII	732414	733138	1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S10, no bacterial homolog; RPS10B has a paralog, RPS10A, that arose from the whole genome duplication [Source:SGD;Acc:S000004843]
+#>E	YMR230W.1,YMR230W.2	1,1	732414-732465,732876-733141
+XIII	732420	733111	1	S10_plectin_N	0	732420-732465,732876-733111	PF03501	http://pfam.sanger.ac.uk/family?acc=PF03501

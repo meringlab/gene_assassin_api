@@ -1,0 +1,5 @@
+#>P	YHR108W	YHR108W	YHR108W	VIII	328303	330057	1	Protein that regulates Arf1p, Arf2p to facilitate Golgi trafficking; binds phosphatidylinositol 4-phosphate, which plays a role in TGN localization; has homology to gamma-adaptin; GGA2 has a paralog, GGA1, that arose from the whole genome duplication [Source:SGD;Acc:S000001150]
+#>E	YHR108W.1	1.0	328303-330060
+VIII	328369	328797	1.0	VHS	0	328369-328797	PF00790	http://pfam.sanger.ac.uk/family?acc=PF00790
+VIII	329719	330051	1.0	Clathrin_a/b/g-adaptin_app_Ig	0	329719-330051	PF02883	http://pfam.sanger.ac.uk/family?acc=PF02883
+VIII	329014	329277	1.0	GAT	0	329014-329277	PF03127	http://pfam.sanger.ac.uk/family?acc=PF03127

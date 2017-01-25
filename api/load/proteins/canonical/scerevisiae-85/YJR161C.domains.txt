@@ -1,0 +1,4 @@
+#>P	YJR161C	YJR161C	YJR161C	X	742851	743999	-1	Protein of unknown function; member the DUP380 subfamily of conserved, often subtelomerically-encoded proteins [Source:SGD;Acc:S000003922]
+#>E	YJR161C.1	1.0	742848-743999
+X	742938	743264	-1.0	DUP	0	742938-743264	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674
+X	743499	743804	-1.0	DUP	0	743499-743804	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674

@@ -1,0 +1,3 @@
+#>P	YBL036C	YBL036C	YBL036C	II	150450	151220	-1	Putative non-specific single-domain racemase; based on structural similarity; binds pyridoxal 5'-phosphate; expression of GFP-fusion protein induced in response to the DNA-damaging agent MMS [Source:SGD;Acc:S000000132]
+#>E	YBL036C.1	1.0	150447-151220
+II	150474	151115	-1.0	Ala_racemase_N	0	150474-151115	PF01168	http://pfam.sanger.ac.uk/family?acc=PF01168

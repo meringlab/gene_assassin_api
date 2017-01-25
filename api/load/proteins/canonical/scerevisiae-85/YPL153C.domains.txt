@@ -1,0 +1,5 @@
+#>P	YPL153C	YPL153C	YPL153C	XVI	261730	264192	-1	DNA damage response protein kinase; required for cell-cycle arrest in response to DNA damage; activated by trans autophosphorylation when interacting with hyperphosphorylated Rad9p; also interacts with ARS1 and plays a role in initiation of DNA replication; activates the downstream kinase Dun1p; differentially senses mtDNA depletion and mitochondrial ROS; required for regulation of copper genes in response to DNA-damaging agents; relocalizes to cytosol in response to hyoxia [Source:SGD;Acc:S000006074]
+#>E	YPL153C.1	1.0	261727-264192
+XVI	262153	262386	-1.0	FHA_dom	0	262153-262386	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498
+XVI	263794	263997	-1.0	FHA_dom	0	263794-263997	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498
+XVI	262795	263595	-1.0	Prot_kinase_cat_dom	0	262795-263595	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

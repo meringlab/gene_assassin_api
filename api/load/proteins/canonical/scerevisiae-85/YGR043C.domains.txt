@@ -1,0 +1,3 @@
+#>P	YGR043C	YGR043C	YGR043C	VII	580438	581436	-1	Transaldolase of unknown function; transcription is repressed by Mot1p and induced by alpha-factor and during diauxic shift; NQM1 has a paralog, TAL1, that arose from the whole genome duplication [Source:SGD;Acc:S000003275]
+#>E	YGR043C.1	1.0	580435-581436
+VII	580456	581361	-1.0	Transaldolase	0	580456-581361	PF00923	http://pfam.sanger.ac.uk/family?acc=PF00923

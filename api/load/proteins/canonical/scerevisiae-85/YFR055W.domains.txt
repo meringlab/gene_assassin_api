@@ -1,0 +1,3 @@
+#>P	YFR055W	YFR055W	YFR055W	VI	264204	265223	1	Beta-lyase involved in the production of thiols; null mutant displays increased levels of spontaneous Rad52p foci; expression induced by nitrogen limitation in a GLN3, GAT1-dependent manner and by copper levels in a Mac1-dependent manner [Source:SGD;Acc:S000001952]
+#>E	YFR055W.1	1.0	264204-265226
+VI	264258	265223	1.0	Cys/Met-Metab_PyrdxlP-dep_enz	0	264258-265223	PF01053	http://pfam.sanger.ac.uk/family?acc=PF01053

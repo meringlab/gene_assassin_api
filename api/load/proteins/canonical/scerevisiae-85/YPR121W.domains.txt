@@ -1,0 +1,4 @@
+#>P	YPR121W	YPR121W	YPR121W	XVI	778583	780298	1	Protein with similarity to hydroxymethylpyrimidine phosphate kinases; member of a gene family with THI20 and THI21; not required for thiamine biosynthesis [Source:SGD;Acc:S000006325]
+#>E	YPR121W.1	1.0	778583-780301
+XVI	779663	780295	1.0	TENA/THI4/PQQ_synthPqqC_dom	0	779663-780295	PF03070	http://pfam.sanger.ac.uk/family?acc=PF03070
+XVI	778745	779500	1.0	HMP-P_kinase-1	0	778745-779500	PF08543	http://pfam.sanger.ac.uk/family?acc=PF08543

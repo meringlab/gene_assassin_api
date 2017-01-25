@@ -1,0 +1,3 @@
+#>P	YMR247C	YMR247C	YMR247C	XIII	763354	768039	-1	RING domain E3 ubiquitin ligase; involved in ubiquitin-mediated degradation of non-stop proteins; component of ribosome-bound RQC (ribosome quality control) complex required for degradation of polypeptides arising from stalled translation; degrades products of mRNAs lacking a termination codon regardless of a poly(A) tail; functional connections to chromatin modification; homolog of mouse Listerin, mutations in which reported to cause neurodegeneration [Source:SGD;Acc:S000004861]
+#>E	YMR247C.1	1.0	763351-768039
+XIII	763372	763524	-1.0	Znf_RING	0	763372-763524	PF13639	http://pfam.sanger.ac.uk/family?acc=PF13639

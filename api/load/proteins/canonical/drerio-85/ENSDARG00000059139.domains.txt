@@ -1,0 +1,8 @@
+#>P	ENSDARG00000059139	ENSDART00000082169	ENSDARP00000076606	12	798886	802326	1	WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 2b [Source:ZFIN;Acc:ZDB-GENE-110414-1]
+#>E	ENSDARE00000596259,ENSDARE00000596253	1,1	798886-799086,800839-802329
+12	801256	801531	1	Ig_I-set	70.3	801256-801531	PF07679	http://pfam.sanger.ac.uk/family?acc=PF07679
+12	801586	801738	1	Kunitz_BPTI	94.3	801586-801738	PF00014	http://pfam.sanger.ac.uk/family?acc=PF00014
+12	801760	801912	1	Kunitz_BPTI	94.3	801760-801912	PF00014	http://pfam.sanger.ac.uk/family?acc=PF00014
+12	801970	802278	1	Netrin_module_non-TIMP	30.4	801970-802278	PF01759	http://pfam.sanger.ac.uk/family?acc=PF01759
+12	799003	800895	1	WAP_dom	28.4	799003-799086,800839-800895	PF00095	http://pfam.sanger.ac.uk/family?acc=PF00095
+12	801043	801138	1	Kazal_dom	23.7	801043-801138	PF07648	http://pfam.sanger.ac.uk/family?acc=PF07648

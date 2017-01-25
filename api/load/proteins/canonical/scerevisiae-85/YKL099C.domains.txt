@@ -1,0 +1,3 @@
+#>P	YKL099C	YKL099C	YKL099C	XI	255723	256472	-1	Subunit of U3-containing Small Subunit (SSU) processome complex; involved in production of 18S rRNA and assembly of small ribosomal subunit [Source:SGD;Acc:S000001582]
+#>E	YKL099C.1	1.0	255720-256472
+XI	255723	256445	-1.0	SSU_processome_Utp11	0	255723-256445	PF03998	http://pfam.sanger.ac.uk/family?acc=PF03998

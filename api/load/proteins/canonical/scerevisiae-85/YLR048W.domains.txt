@@ -1,0 +1,4 @@
+#>P	YLR048W	YLR048W	YLR048W	XII	242232	243346	1	Protein component of the small (40S) ribosomal subunit; RPS0B has a paralog, RPS0A, that arose from the whole genome duplication; required for maturation of 18S rRNA along with Rps0Ap; deletion of either RPS0 gene reduces growth rate, deletion of both genes is lethal; homologous to human ribosomal protein SA and bacterial S2 [Source:SGD;Acc:S000004038]
+#>E	YLR048W.1,YLR048W.2	1,1	242232-242321,242681-243349
+XII	242280	242926	1	Ribosomal_S2	0	242280-242321,242681-242926	PF00318	http://pfam.sanger.ac.uk/family?acc=PF00318
+XII	242936	243139	1	Ribosomal_S2	0	242936-243139	PF00318	http://pfam.sanger.ac.uk/family?acc=PF00318

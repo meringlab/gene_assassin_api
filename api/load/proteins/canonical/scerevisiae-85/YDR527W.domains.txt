@@ -1,0 +1,4 @@
+#>P	YDR527W	YDR527W	YDR527W	IV	1491094	1492410	1	Protein involved in transcription; interacts with RNA polymerase II subunits Rpb2p, Rpb3, and Rpb11p; has similarity to human RPAP1 [Source:SGD;Acc:S000002935]
+#>E	YDR527W.1	1.0	1491094-1492413
+IV	1491325	1491468	1.0	RNA_pol_II_AP1_N	0	1491325-1491468	PF08621	http://pfam.sanger.ac.uk/family?acc=PF08621
+IV	1491955	1492167	1.0	RNA_pol_II_AP1_C	0	1491955-1492167	PF08620	http://pfam.sanger.ac.uk/family?acc=PF08620

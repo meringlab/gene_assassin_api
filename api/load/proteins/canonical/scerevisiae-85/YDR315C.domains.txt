@@ -1,0 +1,3 @@
+#>P	YDR315C	YDR315C	YDR315C	IV	1092744	1093586	-1	Inositol 1,3,4,5,6-pentakisphosphate 2-kinase; nuclear protein required for synthesis of 1,2,3,4,5,6-hexakisphosphate (phytate), which is integral to cell function; has 2 motifs conserved in other fungi; ipk1 gle1 double mutant is inviable [Source:SGD;Acc:S000002723]
+#>E	YDR315C.1	1.0	1092741-1093586
+IV	1092780	1093577	-1.0	Ins_P5_2-kin	0	1092780-1093577	PF06090	http://pfam.sanger.ac.uk/family?acc=PF06090

@@ -1,0 +1,3 @@
+#>P	YDL161W	YDL161W	YDL161W	IV	167714	169075	1	Epsin-like protein involved in endocytosis and actin patch assembly; functionally redundant with Ent2p; binds clathrin via a clathrin-binding domain motif at C-terminus; relocalizes from bud neck to cytoplasm upon DNA replication stress; ENT1 has a paralog, ENT2, that arose from the whole genome duplication [Source:SGD;Acc:S000002320]
+#>E	YDL161W.1	1.0	167714-169078
+IV	167759	168130	1.0	Epsin_dom_N	142.4	167759-168130	PF01417	http://pfam.sanger.ac.uk/family?acc=PF01417

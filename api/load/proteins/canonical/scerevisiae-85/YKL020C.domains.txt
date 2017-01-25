@@ -1,0 +1,4 @@
+#>P	YKL020C	YKL020C	YKL020C	XI	398835	402080	-1	ER membrane protein involved in regulation of OLE1 transcription; inactive ER form dimerizes and one subunit is then activated by ubiquitin/proteasome-dependent processing followed by nuclear targeting; SPT23 has a paralog, MGA2, that arose from the whole genome duplication [Source:SGD;Acc:S000001503]
+#>E	YKL020C.1	1.0	398832-402080
+XI	400347	400559	-1.0	IPT_TIG_rcpt	25.9	400347-400559	PF01833	http://pfam.sanger.ac.uk/family?acc=PF01833
+XI	399774	399974	-1.0	Ankyrin_rpt-contain_dom	48.1	399774-399974	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796

@@ -1,0 +1,5 @@
+#>P	YGL213C	YGL213C	YGL213C	VII	90057	91247	-1	Ski complex component and WD-repeat protein; mediates 3'-5' RNA degradation by the cytoplasmic exosome; also required for meiotic double-strand break recombination; null mutants have superkiller phenotype [Source:SGD;Acc:S000003181]
+#>E	YGL213C.1	1.0	90054-91247
+VII	90291	90383	-1.0	WD40_repeat	0	90291-90383	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	91122	91211	-1.0	WD40_repeat	0	91122-91211	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	90489	90572	-1.0	WD40_repeat	0	90489-90572	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

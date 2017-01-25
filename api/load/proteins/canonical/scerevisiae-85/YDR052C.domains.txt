@@ -1,0 +1,4 @@
+#>P	YDR052C	YDR052C	YDR052C	IV	558514	560625	-1	Regulatory subunit of Cdc7p-Dbf4p kinase complex; required for Cdc7p kinase activity and initiation of DNA replication; phosphorylates the Mcm2-7 family of proteins; cell cycle regulated; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000002459]
+#>E	YDR052C.1	1.0	558511-560625
+IV	558523	558660	-1.0	Znf_DBF	0	558523-558660	PF07535	http://pfam.sanger.ac.uk/family?acc=PF07535
+IV	559690	560064	-1.0	Regulatory_Dfp1/Him1	0	559690-560064	PF08630	http://pfam.sanger.ac.uk/family?acc=PF08630

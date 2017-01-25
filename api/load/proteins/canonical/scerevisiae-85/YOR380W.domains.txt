@@ -1,0 +1,4 @@
+#>P	YOR380W	YOR380W	YOR380W	XV	1051290	1052927	1	Transcriptional repressor involved in regulating multidrug resistance; negatively regulates expression of the PDR5 gene; member of the Gal4p family of zinc cluster proteins [Source:SGD;Acc:S000005907]
+#>E	YOR380W.1	1.0	1051290-1052930
+XV	1051341	1051439	1.0	Zn2-C6_fun-type_DNA-bd	0	1051341-1051439	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+XV	1051788	1052375	1.0	Transcription_factor_fun	0	1051788-1052375	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082

@@ -1,0 +1,3 @@
+#>P	YDR501W	YDR501W	YDR501W	IV	1451353	1452915	1	Putative transcription factor, contains Forkhead Associated domain; found associated with chromatin; target of SBF transcription factor; induced in response to DNA damaging agents and deletion of telomerase; PLM2 has a paralog, TOS4, that arose from the whole genome duplication [Source:SGD;Acc:S000002909]
+#>E	YDR501W.1	1.0	1451353-1452918
+IV	1451662	1451799	1.0	FHA_dom	0	1451662-1451799	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498

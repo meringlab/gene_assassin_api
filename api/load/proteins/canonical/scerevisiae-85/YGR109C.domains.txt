@@ -1,0 +1,4 @@
+#>P	YGR109C	YGR109C	YGR109C	VII	705362	706501	-1	B-type cyclin involved in DNA replication during S phase; activates Cdc28p to promote initiation of DNA synthesis; functions in formation of mitotic spindles along with Clb3p and Clb4p; most abundant during late G1; CLB6 has a paralog, CLB5, that arose from the whole genome duplication [Source:SGD;Acc:S000003341]
+#>E	YGR109C.1	1.0	705359-706501
+VII	705749	706132	-1.0	Cyclin_N	136.4	705749-706132	PF00134	http://pfam.sanger.ac.uk/family?acc=PF00134
+VII	705392	705742	-1.0	Cyclin_C	79.3	705392-705742	PF02984	http://pfam.sanger.ac.uk/family?acc=PF02984

@@ -1,0 +1,3 @@
+#>P	YGL179C	YGL179C	YGL179C	VII	163412	165091	-1	Protein kinase; related to and functionally redundant with Elm1p and Sak1p for the phosphorylation and activation of Snf1p; functionally orthologous to LKB1, a mammalian kinase associated with Peutz-Jeghers cancer-susceptibility syndrome; TOS3 has a paralog, SAK1, that arose from the whole genome duplication [Source:SGD;Acc:S000003147]
+#>E	YGL179C.1	1.0	163409-165091
+VII	164060	164944	-1.0	Prot_kinase_cat_dom	0	164060-164944	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

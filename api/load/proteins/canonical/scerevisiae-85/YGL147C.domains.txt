@@ -1,0 +1,4 @@
+#>P	YGL147C	YGL147C	YGL147C	VII	227757	228329	-1	Ribosomal 60S subunit protein L9A; homologous to mammalian ribosomal protein L9 and bacterial L6; RPL9A has a paralog, RPL9B, that arose from a single-locus duplication [Source:SGD;Acc:S000003115]
+#>E	YGL147C.1	1.0	227754-228329
+VII	227796	228041	-1.0	Ribosomal_L6_a/b-dom	0	227796-228041	PF00347	http://pfam.sanger.ac.uk/family?acc=PF00347
+VII	228075	228296	-1.0	Ribosomal_L6_a/b-dom	0	228075-228296	PF00347	http://pfam.sanger.ac.uk/family?acc=PF00347

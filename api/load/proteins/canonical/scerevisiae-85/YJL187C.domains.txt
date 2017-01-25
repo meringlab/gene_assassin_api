@@ -1,0 +1,3 @@
+#>P	YJL187C	YJL187C	YJL187C	X	76806	79262	-1	Protein kinase that regulates the G2/M transition; regulates the G2/M transition by inhibition of Cdc28p kinase activity; localizes to the nucleus and to the daughter side of the mother-bud neck; phosphorylates conserved tyrosine residue in N-terminus of Hsp90 in cell-cycle associated manner, thus modulating the ability of Hsp90 to chaperone a selected clientele; homolog of S. pombe Wee1p; potential Cdc28p substrate [Source:SGD;Acc:S000003723]
+#>E	YJL187C.1	1.0	76803-79262
+X	76893	77930	-1.0	Prot_kinase_cat_dom	0	76893-77930	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

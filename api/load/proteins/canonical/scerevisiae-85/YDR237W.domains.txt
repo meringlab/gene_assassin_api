@@ -1,0 +1,4 @@
+#>P	YDR237W	YDR237W	YDR237W	IV	936615	937490	1	Mitochondrial ribosomal protein of the large subunit; MRPL7 produces both YmL5 and YmL7, which are two different modified forms of the same protein [Source:SGD;Acc:S000002645]
+#>E	YDR237W.1	1.0	936615-937493
+IV	937014	937130	1.0	Ribosomal_L5	0	937014-937130	PF00281	http://pfam.sanger.ac.uk/family?acc=PF00281
+IV	937185	937478	1.0	Ribosomal_L5	0	937185-937478	PF00673	http://pfam.sanger.ac.uk/family?acc=PF00673

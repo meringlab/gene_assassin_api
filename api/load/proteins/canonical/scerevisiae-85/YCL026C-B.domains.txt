@@ -1,0 +1,3 @@
+#>P	YCL026C-B	YCL026C-B	YCL026C-B	III	73408	73986	-1	Protein of unknown function; similar to bacterial nitroreductases; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm and nucleus; protein becomes insoluble upon intracellular iron depletion; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000007548]
+#>E	YCL026C-B.1	1.0	73405-73986
+III	73468	73953	-1.0	Nitroreductase-like	0	73468-73953	PF00881	http://pfam.sanger.ac.uk/family?acc=PF00881

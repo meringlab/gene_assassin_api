@@ -1,0 +1,4 @@
+#>P	YFR031C	YFR031C	YFR031C	VI	216597	220106	-1	Subunit of the condensin complex; condensin reorganizes chromosomes during both mitosis and meiosis; essential SMC chromosomal ATPase family member that forms a subcomplex with Smc2p that has ATP-hydrolyzing and DNA-binding activity, but other condensin subunits are required for chromatin binding; required for clustering of tRNA genes at the nucleolus [Source:SGD;Acc:S000001927]
+#>E	YFR031C.1	1.0	216594-220106
+VI	218184	218540	-1.0	SMC_hinge	0	218184-218540	PF06470	http://pfam.sanger.ac.uk/family?acc=PF06470
+VI	216618	220100	-1.0	RecF/RecN/SMC	0	216618-220100	PF02463	http://pfam.sanger.ac.uk/family?acc=PF02463

@@ -1,0 +1,5 @@
+#>P	YIR006C	YIR006C	YIR006C	IX	365469	369908	-1	Part of actin cytoskeleton-regulatory complex Pan1p-Sla1p-End3p; associates with actin patches on cell cortex; promotes protein-protein interactions essential for endocytosis; binds to and activates Arp2/3 complex in vitro; phosphorylation of Thr-1225 is regulated by MAPK Hog1p in response to osmotic stress; previously thought to be a subunit of poly(A) ribonuclease [Source:SGD;Acc:S000001445]
+#>E	YIR006C.1	1.0	365466-369908
+IX	369180	369368	-1.0	DUF1720	0	369180-369368	PF08226	http://pfam.sanger.ac.uk/family?acc=PF08226
+IX	368550	368744	-1.0	DUF1720	0	368550-368744	PF08226	http://pfam.sanger.ac.uk/family?acc=PF08226
+IX	368181	368384	-1.0	DUF1720	0	368181-368384	PF08226	http://pfam.sanger.ac.uk/family?acc=PF08226

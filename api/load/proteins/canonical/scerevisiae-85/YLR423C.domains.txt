@@ -1,0 +1,3 @@
+#>P	YLR423C	YLR423C	YLR423C	XII	971920	973170	-1	Scaffold protein responsible for phagophore assembly site organization; regulatory subunit of an autophagy-specific complex that includes Atg1p and Atg13p; stimulates Atg1p kinase activity; human ortholog RB1CC1/FIP200 interacts with p53, which inhibits autophagy in human cells [Source:SGD;Acc:S000004415]
+#>E	YLR423C.1	1.0	971917-973170
+XII	971956	973149	-1.0	Autophagy-rel_prot_17	0	971956-973149	PF04108	http://pfam.sanger.ac.uk/family?acc=PF04108

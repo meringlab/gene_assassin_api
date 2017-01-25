@@ -1,0 +1,5 @@
+#>P	YGL160W	YGL160W	YGL160W	VII	200561	202270	1	NADPH oxidase localized to the perinuclear ER; produces superoxide from NADPH; overexpression causes MCA1 dependent apoptosis; likely involved in superoxide-mediated regulation of the actin cytoskeleton; member of a conserved superfamily of NADPH oxidases (NOX enzymes); has similarity to iron/copper reductases (FRE1-8), particularly Fre8p [Source:SGD;Acc:S000003128]
+#>E	YGL160W.1	1.0	200561-202273
+VII	201674	202231	1.0	Fe_red_NAD-bd_6	0	201674-202231	PF08030	http://pfam.sanger.ac.uk/family?acc=PF08030
+VII	200861	201217	1.0	Flavoprotein_TM	0	200861-201217	PF01794	http://pfam.sanger.ac.uk/family?acc=PF01794
+VII	201323	201652	1.0	FAD-bd_8	0	201323-201652	PF08022	http://pfam.sanger.ac.uk/family?acc=PF08022

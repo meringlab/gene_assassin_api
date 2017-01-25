@@ -1,0 +1,8 @@
+#>P	YLL011W	YLL011W	YLL011W	XII	127523	128989	1	Protein required for biogenesis of 40S (small) ribosomal subunit; has similarity to the beta subunit of trimeric G-proteins and the splicing factor Prp4p; essential gene [Source:SGD;Acc:S000003934]
+#>E	YLL011W.1	1.0	127523-128992
+XII	128651	128908	1.0	Sof1	0	128651-128908	PF04158	http://pfam.sanger.ac.uk/family?acc=PF04158
+XII	127832	127969	1.0	WD40_repeat	0	127832-127969	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	127712	127810	1.0	WD40_repeat	0	127712-127810	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	128414	128521	1.0	WD40_repeat	0	128414-128521	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	128156	128266	1.0	WD40_repeat	0	128156-128266	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	128573	128647	1.0	WD40_repeat	0	128573-128647	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

@@ -1,0 +1,4 @@
+#>P	YNL121C	YNL121C	YNL121C	XIV	398687	400537	-1	Component of the TOM (translocase of outer membrane) complex; involved in the recognition and initial import steps for all mitochondrially directed proteins; acts as a receptor for incoming precursor proteins; TOM70 has a paralog, TOM71, that arose from the whole genome duplication [Source:SGD;Acc:S000005065]
+#>E	YNL121C.1	1.0	398684-400537
+XIV	400145	400243	-1.0	TPR-1	0	400145-400243	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+XIV	399248	399343	-1.0	TPR-1	0	399248-399343	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515

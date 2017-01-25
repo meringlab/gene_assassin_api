@@ -1,0 +1,4 @@
+#>P	YGL063W	YGL063W	YGL063W	VII	383654	384763	1	Mitochondrial tRNA:pseudouridine synthase; acts at positions 27 and 28, but not at position 72; efficiently and rapidly targeted to mitochondria, specifically dedicated to mitochondrial tRNA modification; mutation also affects pseudouridylation of some nuclear-encoded mRNAs; PUS2 has a paralog, PUS1, that arose from the whole genome duplication [Source:SGD;Acc:S000003031]
+#>E	YGL063W.1	1.0	383654-384766
+VII	383657	383962	1.0	PsdUridine_synth_TruA_a/b_dom	0	383657-383962	PF01416	http://pfam.sanger.ac.uk/family?acc=PF01416
+VII	384269	384565	1.0	PsdUridine_synth_TruA_a/b_dom	0	384269-384565	PF01416	http://pfam.sanger.ac.uk/family?acc=PF01416

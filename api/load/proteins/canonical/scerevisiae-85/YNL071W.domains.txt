@@ -1,0 +1,5 @@
+#>P	YNL071W	YNL071W	YNL071W	XIV	491523	492968	1	Dihydrolipoamide acetyltransferase component (E2) of the PDC; the pyruvate dehydrogenase complex (PDC) catalyzes the oxidative decarboxylation of pyruvate to acetyl-CoA [Source:SGD;Acc:S000005015]
+#>E	YNL071W.1	1.0	491523-492971
+XIV	492270	492968	1.0	2-oxoacid_DH_actylTfrase	0	492270-492968	PF00198	http://pfam.sanger.ac.uk/family?acc=PF00198
+XIV	491631	491846	1.0	Biotin_lipoyl	0	491631-491846	PF00364	http://pfam.sanger.ac.uk/family?acc=PF00364
+XIV	492036	492149	1.0	E3-bd	0	492036-492149	PF02817	http://pfam.sanger.ac.uk/family?acc=PF02817

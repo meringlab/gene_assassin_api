@@ -1,0 +1,3 @@
+#>P	YLR455W	YLR455W	YLR455W	XII	1053629	1054540	1	Component of the NuA3b histone acetyltransferase complex; regulates interaction between NuA3b and H3K36me3 at the transcribed regions of genes; contains PWWP domain; deletion confers sensitivity to 4-(N-(S-glutathionylacetyl)amino) phenylarsenoxide (GSAO); protein abundance increases in response to DNA replication stress; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000004447]
+#>E	YLR455W.1	1.0	1053629-1054543
+XII	1053641	1053865	1.0	PWWP	0	1053641-1053865	PF00855	http://pfam.sanger.ac.uk/family?acc=PF00855

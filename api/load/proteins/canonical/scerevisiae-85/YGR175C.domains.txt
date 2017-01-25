@@ -1,0 +1,3 @@
+#>P	YGR175C	YGR175C	YGR175C	VII	846936	848423	-1	Squalene epoxidase; catalyzes the epoxidation of squalene to 2,3-oxidosqualene; plays an essential role in the ergosterol-biosynthesis pathway and is the specific target of the antifungal drug terbinafine [Source:SGD;Acc:S000003407]
+#>E	YGR175C.1	1.0	846933-848423
+VII	847005	847823	-1.0	Squalene_epoxidase	0	847005-847823	PF08491	http://pfam.sanger.ac.uk/family?acc=PF08491

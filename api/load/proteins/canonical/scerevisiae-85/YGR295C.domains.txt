@@ -1,0 +1,4 @@
+#>P	YGR295C	YGR295C	YGR295C	VII	1081587	1082729	-1	Protein of unknown function; member of the DUP380 subfamily of conserved, often subtelomerically-encoded proteins [Source:SGD;Acc:S000003527]
+#>E	YGR295C.1	1.0	1081584-1082729
+VII	1082229	1082537	-1.0	DUP	0	1082229-1082537	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674
+VII	1081668	1081988	-1.0	DUP	0	1081668-1081988	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674

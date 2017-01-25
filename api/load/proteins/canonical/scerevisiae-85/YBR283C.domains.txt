@@ -1,0 +1,4 @@
+#>P	YBR283C	YBR283C	YBR283C	II	768946	770415	-1	Subunit of the Ssh1 translocon complex; Sec61p homolog involved in co-translational pathway of protein translocation; not essential [Source:SGD;Acc:S000000487]
+#>E	YBR283C.1	1.0	768943-770415
+II	770188	770295	-1.0	Translocon_Sec61/SecY_plug_dom	0	770188-770295	PF10559	http://pfam.sanger.ac.uk/family?acc=PF10559
+II	769003	770184	-1.0	SecY	0	769003-770184	PF00344	http://pfam.sanger.ac.uk/family?acc=PF00344

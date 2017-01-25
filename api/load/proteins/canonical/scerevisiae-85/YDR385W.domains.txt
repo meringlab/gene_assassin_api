@@ -1,0 +1,6 @@
+#>P	YDR385W	YDR385W	YDR385W	IV	1243230	1245755	1	Elongation factor 2 (EF-2), also encoded by EFT1; catalyzes ribosomal translocation during protein synthesis; contains diphthamide, the unique posttranslationally modified histidine residue specifically ADP-ribosylated by diphtheria toxin; EFT2 has a paralog, EFT1, that arose from the whole genome duplication [Source:SGD;Acc:S000002793]
+#>E	YDR385W.1	1.0	1243230-1245758
+IV	1245399	1245659	1.0	Transl_elong_EFG/EF2_C	0	1245399-1245659	PF00679	http://pfam.sanger.ac.uk/family?acc=PF00679
+IV	1243281	1244261	1.0	ProtSyn_GTP-bd	0	1243281-1244261	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+IV	1245048	1245389	1.0	Transl_elong_EFG/EF2_IV	0	1245048-1245389	PF03764	http://pfam.sanger.ac.uk/family?acc=PF03764
+IV	1244409	1244636	1.0	Transl_elong_EFTu/EF1A_2	0	1244409-1244636	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144

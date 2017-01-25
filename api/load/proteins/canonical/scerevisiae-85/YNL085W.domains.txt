@@ -1,0 +1,6 @@
+#>P	YNL085W	YNL085W	YNL085W	XIV	467131	469620	1	Protein similar to nucleases that forms a complex with Pbp1p; complex may mediate posttranscriptional regulation of HO; involved in propagation of M2 dsRNA satellite of L-A virus; allelic variation affects mitochondrial genome stability, drug resistance, and more; forms cytoplasmic foci upon DNA replication stress; localization to P-bodies under ethanol stress differs between strains [Source:SGD;Acc:S000005029]
+#>E	YNL085W.1	1.0	467131-469623
+XIV	468331	468600	1.0	MKT1_N	0	468331-468600	PF12247	http://pfam.sanger.ac.uk/family?acc=PF12247
+XIV	467131	467436	1.0	XPG_DNA_repair_N	0	467131-467436	PF00752	http://pfam.sanger.ac.uk/family?acc=PF00752
+XIV	468850	469608	1.0	MKT1_C	0	468850-469608	PF12246	http://pfam.sanger.ac.uk/family?acc=PF12246
+XIV	467671	467919	1.0	XPG/RAD2_endonuclease	0	467671-467919	PF00867	http://pfam.sanger.ac.uk/family?acc=PF00867

@@ -1,0 +1,3 @@
+#>P	YLR165C	YLR165C	YLR165C	XII	494497	495258	-1	Pseudouridine synthase; catalyzes only the formation of pseudouridine (Psi)-2819 in mitochondrial 21S rRNA; not essential for viability [Source:SGD;Acc:S000004155]
+#>E	YLR165C.1	1.0	494494-495258
+XII	494743	495216	-1.0	PsdUridine_synth_RsuA/RluD	0	494743-495216	PF00849	http://pfam.sanger.ac.uk/family?acc=PF00849

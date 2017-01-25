@@ -1,0 +1,4 @@
+#>P	YDR214W	YDR214W	YDR214W	IV	892875	893924	1	Co-chaperone that binds Hsp82p and activates its ATPase activity; plays a role in determining prion variants; similar to Hch1p; expression is regulated by stresses such as heat shock; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002622]
+#>E	YDR214W.1	1.0	892875-893927
+IV	893541	893897	1.0	Activator_of_Hsp90_ATPase	0	893541-893897	PF08327	http://pfam.sanger.ac.uk/family?acc=PF08327
+IV	892911	893327	1.0	AHSA1_N	0	892911-893327	PF09229	http://pfam.sanger.ac.uk/family?acc=PF09229

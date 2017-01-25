@@ -1,0 +1,3 @@
+#>P	YJR142W	YJR142W	YJR142W	X	697141	698166	1	8-oxo-dGTP diphosphatase of the Nudix hydrolase family; converts diphosphates of damaged forms of thiamin to monophosphates; GST fusion protein is a Dbf2p-Mob1p phosphorylation target in a proteome chip analysis; synthetic lethal with PH085 deletion; plays a role in restricting Ty1 transposition [Source:SGD;Acc:S000003903]
+#>E	YJR142W.1	1.0	697141-698169
+X	697627	698034	1.0	NUDIX_hydrolase_dom	0	697627-698034	PF00293	http://pfam.sanger.ac.uk/family?acc=PF00293

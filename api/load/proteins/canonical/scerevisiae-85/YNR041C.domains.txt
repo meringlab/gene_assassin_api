@@ -1,0 +1,3 @@
+#>P	YNR041C	YNR041C	YNR041C	XIV	700544	701659	-1	Para hydroxybenzoate polyprenyl transferase; catalyzes the second step in ubiquinone (coenzyme Q) biosynthesis; human COQ2, mutations in which are implicated in an increased risk of mutiple-system atrophy, is able to complement a yeast coq2 null mutant [Source:SGD;Acc:S000005324]
+#>E	YNR041C.1	1.0	700541-701659
+XIV	700595	701359	-1.0	UbiA_prenyltransferase	0	700595-701359	PF01040	http://pfam.sanger.ac.uk/family?acc=PF01040

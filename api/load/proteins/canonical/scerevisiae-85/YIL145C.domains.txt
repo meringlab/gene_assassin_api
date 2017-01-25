@@ -1,0 +1,3 @@
+#>P	YIL145C	YIL145C	YIL145C	IX	76357	77283	-1	Pantothenate synthase; also known as pantoate-beta-alanine ligase, required for pantothenic acid biosynthesis, deletion causes pantothenic acid auxotrophy, homologous to E. coli panC [Source:SGD;Acc:S000001407]
+#>E	YIL145C.1	1.0	76354-77283
+IX	76357	77283	-1.0	Pantoate_ligase	0	76357-77283	PF02569	http://pfam.sanger.ac.uk/family?acc=PF02569

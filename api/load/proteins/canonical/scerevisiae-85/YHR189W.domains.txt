@@ -1,0 +1,3 @@
+#>P	YHR189W	YHR189W	YHR189W	VIII	484028	484597	1	One of two mitochondrially-localized peptidyl-tRNA hydrolases; dispensable for respiratory growth on rich medium, but required for respiratory growth on minimal medium; see also PTH2 [Source:SGD;Acc:S000001232]
+#>E	YHR189W.1	1.0	484028-484600
+VIII	484052	484594	1.0	Pept_tRNA_hydro	140.3	484052-484594	PF01195	http://pfam.sanger.ac.uk/family?acc=PF01195

@@ -1,0 +1,5 @@
+#>P	YFL016C	YFL016C	YFL016C	VI	104704	106236	-1	Co-chaperone that stimulates HSP70 protein Ssc1p ATPase activity; involved in protein folding/refolding in the mitochodrial matrix; required for proteolysis of misfolded proteins; member of the HSP40 (DnaJ) family of chaperones [Source:SGD;Acc:S000001878]
+#>E	YFL016C.1	1.0	104701-106236
+VI	105361	105549	-1.0	HSP_DnaJ_Cys-rich_dom	0	105361-105549	PF00684	http://pfam.sanger.ac.uk/family?acc=PF00684
+VI	104944	105153	-1.0	DnaJ_C	0	104944-105153	PF01556	http://pfam.sanger.ac.uk/family?acc=PF01556
+VI	105871	106056	-1.0	DnaJ_N	0	105871-106056	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226

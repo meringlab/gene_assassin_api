@@ -1,0 +1,3 @@
+#>P	YGL105W	YGL105W	YGL105W	VII	307437	308564	1	Protein that binds tRNA and methionyl- and glutamyl-tRNA synthetases; involved in tRNA delivery, stimulating catalysis, and ensuring localization; also binds quadruplex nucleic acids; protein abundance increases in response to DNA replication stress; methionyl-tRNA synthetase is Mes1p; glutamyl-tRNA synthetase is Gus1p [Source:SGD;Acc:S000003073]
+#>E	YGL105W.1	1.0	307437-308567
+VII	308067	308351	1.0	tRNA-bd_dom	0	308067-308351	PF01588	http://pfam.sanger.ac.uk/family?acc=PF01588

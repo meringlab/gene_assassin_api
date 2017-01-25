@@ -1,0 +1,4 @@
+#>P	YNL149C	YNL149C	YNL149C	XIV	349370	349756	-1	Essential protein required for maturation of Gas1p and Pho8p; involved in protein trafficking; GFP-fusion protein localizes to the ER and YFP-fusion protein to the nuclear envelope-ER network; null mutants have a cell separation defect [Source:SGD;Acc:S000005093]
+#>E	YNL149C.1	1.0	349367-349756
+XIV	349373	349537	-1.0	Trafficking_Pga2	0	349373-349537	PF07543	http://pfam.sanger.ac.uk/family?acc=PF07543
+XIV	349559	349714	-1.0	Trafficking_Pga2	0	349559-349714	PF07543	http://pfam.sanger.ac.uk/family?acc=PF07543

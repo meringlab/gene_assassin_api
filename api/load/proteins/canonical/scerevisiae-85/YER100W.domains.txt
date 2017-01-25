@@ -1,0 +1,3 @@
+#>P	YER100W	YER100W	YER100W	V	359562	360311	1	Ubiquitin-conjugating enzyme involved in ERAD; located at the cytosolic side of the ER membrane; tail region contains a transmembrane segment at the C-terminus; substrate of the ubiquitin-proteasome pathway; ER-associated protein degradation is also known as ERAD [Source:SGD;Acc:S000000902]
+#>E	YER100W.1	1.0	359562-360314
+V	359586	359924	1.0	UBQ-conjugat_E2	97.2	359586-359924	PF00179	http://pfam.sanger.ac.uk/family?acc=PF00179

@@ -1,0 +1,4 @@
+#>P	YHR106W	YHR106W	YHR106W	VIII	325598	326623	1	Mitochondrial thioredoxin reductase; involved in protection against oxidative stress, required with Glr1p to maintain the redox state of Trx3p; contains active-site motif (CAVC) present in prokaryotic orthologs; binds NADPH and FAD; TRR2 has a paralog, TRR1, that arose from the whole genome duplication [Source:SGD;Acc:S000001148]
+#>E	YHR106W.1	1.0	325598-326626
+VIII	325679	326539	1.0	Pyr_nucl-diS_OxRdtase_FAD/NAD	0	325679-326539	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992
+VIII	326135	326338	1.0	Pyr_OxRdtase_NAD-bd_dom	0	326135-326338	PF00070	http://pfam.sanger.ac.uk/family?acc=PF00070

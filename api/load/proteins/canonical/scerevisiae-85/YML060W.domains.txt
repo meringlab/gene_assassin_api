@@ -1,0 +1,4 @@
+#>P	YML060W	YML060W	YML060W	XIII	151871	152998	1	Nuclear and mitochondrial glycosylase/lyase; specifically excises 7,8-dihydro-8-oxoguanine residues located opposite cytosine or thymine residues in DNA, repairs oxidative damage to mitochondrial DNA, contributes to UVA resistance [Source:SGD;Acc:S000004525]
+#>E	YML060W.1	1.0	151871-153001
+XIII	152249	152731	1.0	HhH-GPD_domain	0	152249-152731	PF00730	http://pfam.sanger.ac.uk/family?acc=PF00730
+XIII	151889	152248	1.0	OGG_N	0	151889-152248	PF07934	http://pfam.sanger.ac.uk/family?acc=PF07934

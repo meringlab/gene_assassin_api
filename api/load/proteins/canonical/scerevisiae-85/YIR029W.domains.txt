@@ -1,0 +1,4 @@
+#>P	YIR029W	YIR029W	YIR029W	IX	410807	411835	1	Allantoicase; converts allantoate to urea and ureidoglycolate in the second step of allantoin degradation; expression sensitive to nitrogen catabolite repression and induced by allophanate, an intermediate in allantoin degradation [Source:SGD;Acc:S000001468]
+#>E	YIR029W.1	1.0	410807-411838
+IX	411416	411832	1.0	Allantoicase_dom	0	411416-411832	PF03561	http://pfam.sanger.ac.uk/family?acc=PF03561
+IX	410897	411352	1.0	Allantoicase_dom	0	410897-411352	PF03561	http://pfam.sanger.ac.uk/family?acc=PF03561

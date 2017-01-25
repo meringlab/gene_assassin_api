@@ -1,0 +1,4 @@
+#>P	YPR015C	YPR015C	YPR015C	XVI	590286	591026	-1	Putative protein of unknown function; overexpression causes a cell cycle delay or arrest [Source:SGD;Acc:S000006219]
+#>E	YPR015C.1	1.0	590283-591026
+XVI	590316	590390	-1.0	Znf_C2H2	0	590316-590390	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+XVI	590406	590471	-1.0	Znf_C2H2	0	590406-590471	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

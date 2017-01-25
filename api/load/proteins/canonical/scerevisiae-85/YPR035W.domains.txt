@@ -1,0 +1,4 @@
+#>P	YPR035W	YPR035W	YPR035W	XVI	642208	643317	1	Glutamine synthetase (GS); synthesizes glutamine from glutamate and ammonia; with Glt1p, forms the secondary pathway for glutamate biosynthesis from ammonia; expression regulated by nitrogen source and by amino acid limitation; forms filaments of back-to-back stacks of cylindrical homo-decamers at low pH, leading to enzymatic inactivation and storage during states of advanced cellular starvation; relocalizes from nucleus to cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000006239]
+#>E	YPR035W.1	1.0	642208-643320
+XVI	642532	643260	1.0	Gln_synth_cat_dom	0	642532-643260	PF00120	http://pfam.sanger.ac.uk/family?acc=PF00120
+XVI	642280	642507	1.0	Gln_synt_beta	0	642280-642507	PF03951	http://pfam.sanger.ac.uk/family?acc=PF03951

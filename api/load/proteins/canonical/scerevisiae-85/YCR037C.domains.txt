@@ -1,0 +1,4 @@
+#>P	YCR037C	YCR037C	YCR037C	III	194417	197185	-1	Low-affinity inorganic phosphate (Pi) transporter; acts upstream of Pho81p in regulation of the PHO pathway; expression is independent of Pi concentration and Pho4p activity; contains 12 membrane-spanning segments; PHO87 has a paralog, PHO90, that arose from the whole genome duplication [Source:SGD;Acc:S000000633]
+#>E	YCR037C.1	1.0	194414-197185
+III	194969	195694	-1.0	Divalent_ion_symporter	0	194969-195694	PF03600	http://pfam.sanger.ac.uk/family?acc=PF03600
+III	196181	197185	-1.0	SPX_N	0	196181-197185	PF03105	http://pfam.sanger.ac.uk/family?acc=PF03105

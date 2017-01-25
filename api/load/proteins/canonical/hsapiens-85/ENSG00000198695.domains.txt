@@ -1,0 +1,3 @@
+#>P	ENSG00000198695	ENST00000361681	ENSP00000354665	MT	14152	14673	-1	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6 [Source:HGNC Symbol;Acc:HGNC:7462]
+#>E	ENSE00001434974	1.0	14149-14673
+MT	14164	14628	-1.0	NADH_UbQ/plastoQ_OxRdtase_su6	59.4	14164-14628	PF00499	http://pfam.sanger.ac.uk/family?acc=PF00499

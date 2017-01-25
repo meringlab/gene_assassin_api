@@ -1,0 +1,4 @@
+#>P	YBL035C	YBL035C	YBL035C	II	151496	153610	-1	B subunit of DNA polymerase alpha-primase complex; required for initiation of DNA replication during mitotic and premeiotic DNA synthesis; also functions in telomere capping and length regulation [Source:SGD;Acc:S000000131]
+#>E	YBL035C.1	1.0	151493-153610
+II	151688	152428	-1.0	DNA_pol_alpha/epsilon_bsu	0	151688-152428	PF04042	http://pfam.sanger.ac.uk/family?acc=PF04042
+II	152738	153580	-1.0	Pol_alpha_B_N	0	152738-153580	PF08418	http://pfam.sanger.ac.uk/family?acc=PF08418

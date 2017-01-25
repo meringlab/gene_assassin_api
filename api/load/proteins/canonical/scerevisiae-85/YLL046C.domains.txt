@@ -1,0 +1,3 @@
+#>P	YLL046C	YLL046C	YLL046C	XII	46717	47463	-1	Ribonucleoprotein that contains two RNA recognition motifs (RRM); RNP1 has a paralog, SBP1, that arose from the whole genome duplication [Source:SGD;Acc:S000003969]
+#>E	YLL046C.1	1.0	46714-47463
+XII	47143	47355	-1.0	RRM_dom	64.2	47143-47355	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

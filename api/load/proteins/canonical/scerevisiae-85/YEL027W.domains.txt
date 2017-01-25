@@ -1,0 +1,4 @@
+#>P	YEL027W	YEL027W	YEL027W	V	100769	101248	1	Proteolipid subunit c of the V0 domain of vacuolar H(+)-ATPase; dicyclohexylcarbodiimide binding subunit; required for vacuolar acidification and important for copper and iron metal ion homeostasis [Source:SGD;Acc:S000000753]
+#>E	YEL027W.1	1.0	100769-101251
+V	101039	101221	1.0	ATPase_F0/V0-cplx_csu	0	101039-101221	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
+V	100802	100990	1.0	ATPase_F0/V0-cplx_csu	0	100802-100990	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137

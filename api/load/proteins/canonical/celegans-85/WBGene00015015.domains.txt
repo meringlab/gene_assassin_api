@@ -1,0 +1,3 @@
+#>P	WBGene00015015	B0047.4	B0047.4	II	2046056	2046656	-1	MATH (meprin-associated Traf homology) domain containing  [Source:RefSeq peptide;Acc:NP_494164]
+#>E	B0047.4.e2,B0047.4.e1	1,1	2046053-2046461,2046505-2046656
+II	2046197	2046551	-1	MATH/TRAF_dom	120.6	2046197-2046461,2046505-2046551	PF00917	http://pfam.sanger.ac.uk/family?acc=PF00917

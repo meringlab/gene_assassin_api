@@ -1,0 +1,6 @@
+#>P	YAL048C	YAL048C	YAL048C	I	52804	54789	-1	Outer mitochondrial membrane GTPase, subunit of the ERMES complex; potential regulatory subunit of the ERMES complex that links the ER to mitochondria and may promote inter-organellar calcium and phospholipid exchange as well as coordinating mitochondrial DNA replication and growth; cells lacking Gem1p contain collapsed, globular, or grape-like mitochondria; ortholog of metazoan Miro GTPases [Source:SGD;Acc:S000000046]
+#>E	YAL048C.1	1.0	52801-54789
+I	53479	53685	-1.0	EF_hand_assoc_1	0	53479-53685	PF08355	http://pfam.sanger.ac.uk/family?acc=PF08355
+I	54433	54771	-1.0	MIRO-like	0	54433-54771	PF08477	http://pfam.sanger.ac.uk/family?acc=PF08477
+I	53101	53439	-1.0	MIRO-like	0	53101-53439	PF08477	http://pfam.sanger.ac.uk/family?acc=PF08477
+I	53794	54033	-1.0	EF_hand_assoc_2	0	53794-54033	PF08356	http://pfam.sanger.ac.uk/family?acc=PF08356

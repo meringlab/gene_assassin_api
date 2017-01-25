@@ -1,0 +1,3 @@
+#>P	YDR005C	YDR005C	YDR005C	IV	456839	458103	-1	Highly conserved negative regulator of RNA polymerase III; involved in tRNA processing and stability; inhibits tRNA degradation via rapid tRNA decay (RTD) pathway; binds N-terminal domain of Rpc160p subunit of Pol III to prevent closed-complex formation; localization and activity are regulated by phosphorylation, mediated by TORC1, protein kinase A, and Sch9p; localizes to cytoplasm during vegetative growth and translocates to nucleus and nucleolus under stress conditions [Source:SGD;Acc:S000002412]
+#>E	YDR005C.2,YDR005C.1	1,1	456836-458017,458098-458103
+IV	457013	457501	-1	Maf1	0	457013-457501	PF09174	http://pfam.sanger.ac.uk/family?acc=PF09174

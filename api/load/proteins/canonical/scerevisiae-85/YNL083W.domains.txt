@@ -1,0 +1,5 @@
+#>P	YNL083W	YNL083W	YNL083W	XIV	471377	472858	1	ADP/ATP transporter; member of the Ca2+-binding subfamily of mitochondrial carriers, with two EF-hand motifs; transport activity of either Sal1p or Pet9p is critical for viability; polymorphic in different S. cerevisiae strains [Source:SGD;Acc:S000005027]
+#>E	YNL083W.1	1.0	471377-472861
+XIV	472067	472381	1.0	Mitochondrial_sb/sol_carrier	0	472067-472381	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XIV	472412	472660	1.0	Mitochondrial_sb/sol_carrier	0	472412-472660	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XIV	471641	471697	1.0	EF-hand-like_dom	0	471641-471697	PF13202	http://pfam.sanger.ac.uk/family?acc=PF13202

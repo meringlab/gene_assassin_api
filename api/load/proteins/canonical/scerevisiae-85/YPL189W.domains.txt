@@ -1,0 +1,3 @@
+#>P	YPL189W	YPL189W	YPL189W	XVI	189154	190980	1	Probable membrane protein; possible role in proton symport of glycerol; member of the MBOAT family of putative membrane-bound O-acyltransferases; GUP2 has a paralog, GUP1, that arose from the whole genome duplication [Source:SGD;Acc:S000006110]
+#>E	YPL189W.1	1.0	189154-190983
+XVI	189763	190824	1.0	MBOAT_fam	0	189763-190824	PF03062	http://pfam.sanger.ac.uk/family?acc=PF03062

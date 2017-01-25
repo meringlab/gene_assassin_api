@@ -1,0 +1,4 @@
+#>P	YDR332W	YDR332W	YDR332W	IV	1131001	1133067	1	Putative RNA helicase of the DEAH/D-box family; null mutant displays increased levels of spontaneous Rad52p foci; green fluorescent protein (GFP)-fusion protein localizes to the mitochondrion [Source:SGD;Acc:S000002740]
+#>E	YDR332W.1	1.0	1131001-1133070
+IV	1131889	1132113	1.0	Helicase_C	0	1131889-1132113	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+IV	1131097	1131585	1.0	Helicase/UvrB_dom	0	1131097-1131585	PF04851	http://pfam.sanger.ac.uk/family?acc=PF04851

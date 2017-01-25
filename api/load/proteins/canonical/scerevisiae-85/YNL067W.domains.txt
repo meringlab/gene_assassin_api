@@ -1,0 +1,4 @@
+#>P	YNL067W	YNL067W	YNL067W	XIV	499681	500253	1	Ribosomal 60S subunit protein L9B; homologous to mammalian ribosomal protein L9 and bacterial L6; RPL9B has a paralog, RPL9A, that arose from a single-locus duplication [Source:SGD;Acc:S000005011]
+#>E	YNL067W.1	1.0	499681-500256
+XIV	499714	499935	1.0	Ribosomal_L6_a/b-dom	0	499714-499935	PF00347	http://pfam.sanger.ac.uk/family?acc=PF00347
+XIV	499969	500214	1.0	Ribosomal_L6_a/b-dom	0	499969-500214	PF00347	http://pfam.sanger.ac.uk/family?acc=PF00347

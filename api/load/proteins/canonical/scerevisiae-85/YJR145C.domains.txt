@@ -1,0 +1,6 @@
+#>P	YJR145C	YJR145C	YJR145C	X	702030	703068	-1	Protein component of the small (40S) ribosomal subunit; mutation affects 20S pre-rRNA processing; homologous to mammalian ribosomal protein S4, no bacterial homolog; RPS4A has a paralog, RPS4B, that arose from the whole genome duplication [Source:SGD;Acc:S000003906]
+#>E	YJR145C.2,YJR145C.1	1,1	702027-702798,703055-703068
+X	702543	702686	-1	S4_RNA-bd	0	702543-702686	PF01479	http://pfam.sanger.ac.uk/family?acc=PF01479
+X	702693	703062	-1	Ribosomal_S4e_N	0	702693-702798,703055-703062	PF08071	http://pfam.sanger.ac.uk/family?acc=PF08071
+X	702303	702530	-1	Ribosomal_S4e_central	0	702303-702530	PF00900	http://pfam.sanger.ac.uk/family?acc=PF00900
+X	702180	702281	-1	KOW	0	702180-702281	PF00467	http://pfam.sanger.ac.uk/family?acc=PF00467

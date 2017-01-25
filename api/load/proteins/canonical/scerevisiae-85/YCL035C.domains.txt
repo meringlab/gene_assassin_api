@@ -1,0 +1,3 @@
+#>P	YCL035C	YCL035C	YCL035C	III	60844	61173	-1	Glutathione-dependent disulfide oxidoreductase; hydroperoxide and superoxide-radical responsive, heat-stable, with active site cysteine pair; protects cells from oxidative damage; GRX1 has a paralog, GRX2, that arose from the whole genome duplication; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000000540]
+#>E	YCL035C.1	1.0	60841-61173
+III	60919	61119	-1.0	Glutaredoxin	0	60919-61119	PF00462	http://pfam.sanger.ac.uk/family?acc=PF00462

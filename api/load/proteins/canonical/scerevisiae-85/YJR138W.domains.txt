@@ -1,0 +1,4 @@
+#>P	YJR138W	YJR138W	YJR138W	X	684567	689318	1	GTPase-activating protein (GAP), subunit of SEA and Iml1p complexes; SEA (Seh1-associated) complex is a coatomer-related complex that associates dynamically with the vacuole; Iml1p complex (Iml1p-Npr2p-Npr3p) is required for non-nitrogen-starvation (NNS)-induced autophagy; localized to either pre-autophagosomal structures (PAS) or non-PAS structures during NNS-induced autophagy; [Source:SGD;Acc:S000003899]
+#>E	YJR138W.1	1.0	684567-689321
+X	688170	688379	1.0	DEP_dom	0	688170-688379	PF00610	http://pfam.sanger.ac.uk/family?acc=PF00610
+X	685185	686021	1.0	DUF3608	0	685185-686021	PF12257	http://pfam.sanger.ac.uk/family?acc=PF12257

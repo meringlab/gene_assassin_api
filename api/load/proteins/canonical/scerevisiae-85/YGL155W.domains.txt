@@ -1,0 +1,6 @@
+#>P	YGL155W	YGL155W	YGL155W	VII	214081	215208	1	Beta subunit of geranylgeranyltransferase type I; catalyzes geranylgeranylation to the cysteine residue in proteins containing a C-terminal CaaX sequence ending in Leu or Phe; has substrates important for morphogenesis [Source:SGD;Acc:S000003123]
+#>E	YGL155W.1	1.0	214081-215211
+VII	215008	215136	1.0	Prenyltrans	0	215008-215136	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432
+VII	214648	214770	1.0	Prenyltrans	0	214648-214770	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432
+VII	214459	214617	1.0	Prenyltrans	0	214459-214617	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432
+VII	214891	214980	1.0	Prenyltrans	0	214891-214980	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432

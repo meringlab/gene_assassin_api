@@ -1,0 +1,3 @@
+#>P	YHR062C	YHR062C	YHR062C	VIII	222880	223758	-1	Subunit of both RNase MRP and nuclear RNase P; RNase MRP cleaves pre-rRNA, while nuclear RNase P cleaves tRNA precursors to generate mature 5' ends and facilitates turnover of nuclear RNAs; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000001104]
+#>E	YHR062C.1	1.0	222877-223758
+VIII	223081	223518	-1.0	RNase_P_p30	0	223081-223518	PF01876	http://pfam.sanger.ac.uk/family?acc=PF01876

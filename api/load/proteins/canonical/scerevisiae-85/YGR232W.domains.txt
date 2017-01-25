@@ -1,0 +1,5 @@
+#>P	YGR232W	YGR232W	YGR232W	VII	953960	954643	1	Assembly chaperone for the 19S proteasome regulatory particle base; proteasome-interacting protein involved in the assembly of the base subcomplex of the 19S proteasomal regulatory particle (RP); ortholog of human oncoprotein gankyrin, which interacts with the Rb tumor suppressor and CDK4/6 [Source:SGD;Acc:S000003464]
+#>E	YGR232W.1	1.0	953960-954646
+VII	954173	954271	1.0	Ankyrin_rpt	0	954173-954271	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+VII	954278	954373	1.0	Ankyrin_rpt	0	954278-954373	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+VII	954062	954157	1.0	Ankyrin_rpt	0	954062-954157	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023

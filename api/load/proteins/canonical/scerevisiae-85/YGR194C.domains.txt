@@ -1,0 +1,5 @@
+#>P	YGR194C	YGR194C	YGR194C	VII	886076	887875	-1	Xylulokinase; converts D-xylulose and ATP to xylulose 5-phosphate and ADP; rate limiting step in fermentation of xylulose; required for xylose fermentation by recombinant S. cerevisiae strains [Source:SGD;Acc:S000003426]
+#>E	YGR194C.1	1.0	886073-887875
+VII	886238	886933	-1.0	Carb_kinase_FGGY_C	0	886238-886933	PF02782	http://pfam.sanger.ac.uk/family?acc=PF02782
+VII	886967	887428	-1.0	Carb_kinase_FGGY_N	0	886967-887428	PF00370	http://pfam.sanger.ac.uk/family?acc=PF00370
+VII	887510	887812	-1.0	Carb_kinase_FGGY_N	0	887510-887812	PF00370	http://pfam.sanger.ac.uk/family?acc=PF00370

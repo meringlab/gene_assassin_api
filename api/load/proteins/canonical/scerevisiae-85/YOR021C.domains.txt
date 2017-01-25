@@ -1,0 +1,3 @@
+#>P	YOR021C	YOR021C	YOR021C	XV	372801	373439	-1	SPOUT methyltransferase; catalyzes omega-monomethylation of Rps3p on Arg-146; not an essential gene; predicted to be involved in rRNA processing and ribosome biogenesis and in biopolymer catabolism [Source:SGD;Acc:S000005547]
+#>E	YOR021C.1	1.0	372798-373439
+XV	372807	373439	-1.0	SAM-dep_RNA_MeTrfase_prd	0	372807-373439	PF04252	http://pfam.sanger.ac.uk/family?acc=PF04252

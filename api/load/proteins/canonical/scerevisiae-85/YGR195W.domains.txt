@@ -1,0 +1,4 @@
+#>P	YGR195W	YGR195W	YGR195W	VII	888882	889619	1	Exosome non-catalytic core component; involved in 3'-5' RNA processing and degradation in both the nucleus and the cytoplasm; has similarity to E. coli RNase PH and to human hRrp41p (EXOSC4) [Source:SGD;Acc:S000003427]
+#>E	YGR195W.1	1.0	888882-889622
+VII	889350	889535	1.0	ExoRNase_PH_dom2	0	889350-889535	PF03725	http://pfam.sanger.ac.uk/family?acc=PF03725
+VII	888942	889337	1.0	ExoRNase_PH_dom1	0	888942-889337	PF01138	http://pfam.sanger.ac.uk/family?acc=PF01138

@@ -1,0 +1,3 @@
+#>P	YOR059C	YOR059C	YOR059C	XV	438909	440258	-1	Phospholipase; contains lipase specific GXSXG motif; maintains lipid droplet (LD) morphology; induced by transcription factor Rpn4p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005585]
+#>E	YOR059C.1	1.0	438906-440258
+XV	439626	440252	-1.0	DUF676_lipase-like	0	439626-440252	PF05057	http://pfam.sanger.ac.uk/family?acc=PF05057

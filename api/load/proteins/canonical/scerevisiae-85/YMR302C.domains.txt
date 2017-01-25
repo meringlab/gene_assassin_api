@@ -1,0 +1,4 @@
+#>P	YMR302C	YMR302C	YMR302C	XIII	870076	872625	-1	Integral inner mitochondrial membrane protein; role in maintaining mitochondrial nucleoid structure and number; mutants exhibit an increased rate of mitochondrial DNA escape; shows some sequence similarity to exonucleases [Source:SGD;Acc:S000004917]
+#>E	YMR302C.1	1.0	870073-872625
+XIII	871828	872025	-1.0	RRM_dom	0	871828-872025	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+XIII	870187	871536	-1.0	Mt_escape_2	0	870187-871536	PF10443	http://pfam.sanger.ac.uk/family?acc=PF10443

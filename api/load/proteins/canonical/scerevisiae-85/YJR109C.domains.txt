@@ -1,0 +1,8 @@
+#>P	YJR109C	YJR109C	YJR109C	X	629588	632941	-1	Large subunit of carbamoyl phosphate synthetase; carbamoyl phosphate synthetase catalyzes a step in the synthesis of citrulline, an arginine precursor [Source:SGD;Acc:S000003870]
+#>E	YJR109C.1	1.0	629585-632941
+X	631241	631633	-1.0	CarbamoylP_synth_lsu_oligo	0	631241-631633	PF02787	http://pfam.sanger.ac.uk/family?acc=PF02787
+X	632513	632857	-1.0	CarbamoylP_synth_lsu_N	0	632513-632857	PF00289	http://pfam.sanger.ac.uk/family?acc=PF00289
+X	630878	631201	-1.0	CarbamoylP_synth_lsu_N	0	630878-631201	PF00289	http://pfam.sanger.ac.uk/family?acc=PF00289
+X	629729	629992	-1.0	MGS-like_dom	0	629729-629992	PF02142	http://pfam.sanger.ac.uk/family?acc=PF02142
+X	630269	630862	-1.0	CarbamoylP_synth_lsu_ATP-bd	0	630269-630862	PF02786	http://pfam.sanger.ac.uk/family?acc=PF02786
+X	631886	632497	-1.0	CarbamoylP_synth_lsu_ATP-bd	0	631886-632497	PF02786	http://pfam.sanger.ac.uk/family?acc=PF02786

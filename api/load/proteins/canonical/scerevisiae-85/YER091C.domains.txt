@@ -1,0 +1,4 @@
+#>P	YER091C	YER091C	YER091C	V	339867	342167	-1	Cobalamin-independent methionine synthase; involved in methionine biosynthesis and regeneration; requires a minimum of two glutamates on the methyltetrahydrofolate substrate, similar to bacterial metE homologs [Source:SGD;Acc:S000000893]
+#>E	YER091C.1	1.0	339864-342167
+V	339891	340853	-1.0	Methionine_synth	0	339891-340853	PF01717	http://pfam.sanger.ac.uk/family?acc=PF01717
+V	341196	342158	-1.0	Cbl-indep_Met_Synth_N	0	341196-342158	PF08267	http://pfam.sanger.ac.uk/family?acc=PF08267

@@ -1,0 +1,3 @@
+#>P	YPL032C	YPL032C	YPL032C	XVI	488890	491364	-1	Protein of unknown function; mutant phenotype suggests a potential role in vacuolar function; green fluorescent protein (GFP)-fusion protein localizes to the cell periphery, cytoplasm, bud, and bud neck; relocalizes from bud neck to cytoplasm upon DNA replication stress; SVL3 has a paralog, PAM1, that arose from the whole genome duplication [Source:SGD;Acc:S000005953]
+#>E	YPL032C.1	1.0	488887-491364
+XVI	490351	490737	-1.0	ApbA_C	28.4	490351-490737	PF08546	http://pfam.sanger.ac.uk/family?acc=PF08546

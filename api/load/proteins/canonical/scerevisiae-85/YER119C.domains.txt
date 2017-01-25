@@ -1,0 +1,3 @@
+#>P	YER119C	YER119C	YER119C	V	399499	400842	-1	Vacuolar aspartate and glutamate exporter; member of a family of seven genes (AVT1-7) related to vesicular GABA-glycine transporters; involved in compartmentalizing acidic amino acids in response to nitrogen starvation; AVT6 has a paralog, AVT5, that arose from the whole genome duplication [Source:SGD;Acc:S000000921]
+#>E	YER119C.1	1.0	399496-400842
+V	399526	400839	-1.0	AA_transpt_TM	0	399526-400839	PF01490	http://pfam.sanger.ac.uk/family?acc=PF01490

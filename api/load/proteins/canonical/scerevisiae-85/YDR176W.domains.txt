@@ -1,0 +1,3 @@
+#>P	YDR176W	YDR176W	YDR176W	IV	814452	816557	1	Subunit of chromatin modifying histone acetyltransferase complexes; member of the ADA complex, the SAGA complex, and the SLIK complex; transcriptional regulator involved in glucose repression of Gal4p-regulated genes [Source:SGD;Acc:S000002583]
+#>E	YDR176W.1	1.0	814452-816560
+IV	815967	816398	1.0	Histone_AcTrfase_su3	0	815967-816398	PF10198	http://pfam.sanger.ac.uk/family?acc=PF10198

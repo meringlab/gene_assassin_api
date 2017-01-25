@@ -1,0 +1,3 @@
+#>P	YDR062W	YDR062W	YDR062W	IV	576474	578156	1	Component of serine palmitoyltransferase; responsible along with Lcb1p for the first committed step in sphingolipid synthesis, which is the condensation of serine with palmitoyl-CoA to form 3-ketosphinganine [Source:SGD;Acc:S000002469]
+#>E	YDR062W.1	1.0	576474-578159
+IV	576939	578018	1.0	Aminotransferase_I/II	0	576939-578018	PF00155	http://pfam.sanger.ac.uk/family?acc=PF00155

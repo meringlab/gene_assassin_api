@@ -1,0 +1,5 @@
+#>P	YDR506C	YDR506C	YDR506C	IV	1459731	1461554	-1	Protein involved in meiotic progression; mutants are delayed in meiotic nuclear division and are defective in synaptonemal complex assembly; possible membrane-localized protein [Source:SGD;Acc:S000002914]
+#>E	YDR506C.1	1.0	1459728-1461554
+IV	1459911	1460315	-1.0	Cu-oxidase_2	0	1459911-1460315	PF07731	http://pfam.sanger.ac.uk/family?acc=PF07731
+IV	1460580	1460933	-1.0	Cu-oxidase	0	1460580-1460933	PF00394	http://pfam.sanger.ac.uk/family?acc=PF00394
+IV	1461066	1461269	-1.0	Cu-oxidase_3	0	1461066-1461269	PF07732	http://pfam.sanger.ac.uk/family?acc=PF07732

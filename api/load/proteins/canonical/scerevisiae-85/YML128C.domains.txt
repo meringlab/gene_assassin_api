@@ -1,0 +1,6 @@
+#>P	YML128C	YML128C	YML128C	XIII	15138	16676	-1	Protein of unknown function; mutant is defective in directing meiotic recombination events to homologous chromatids; the authentic, non-tagged protein is detected in highly purified mitochondria and is phosphorylated [Source:SGD;Acc:S000004597]
+#>E	YML128C.1	1.0	15135-16676
+XIII	16071	16184	-1.0	Stress_response_Ish1	0	16071-16184	PF10281	http://pfam.sanger.ac.uk/family?acc=PF10281
+XIII	16242	16352	-1.0	Stress_response_Ish1	0	16242-16352	PF10281	http://pfam.sanger.ac.uk/family?acc=PF10281
+XIII	15849	15962	-1.0	Stress_response_Ish1	0	15849-15962	PF10281	http://pfam.sanger.ac.uk/family?acc=PF10281
+XIII	15231	15338	-1.0	Stress_response_Ish1	0	15231-15338	PF10281	http://pfam.sanger.ac.uk/family?acc=PF10281

@@ -1,0 +1,3 @@
+#>P	YPR082C	YPR082C	YPR082C	XVI	704228	704656	-1	17-kDa component of the U4/U6aU5 tri-snRNP; plays an essential role in pre-mRNA splicing, orthologue of hDIM1, the human U5-specific 15-kDa protein [Source:SGD;Acc:S000006286]
+#>E	YPR082C.1	1.0	704225-704656
+XVI	704246	704644	-1.0	mRNA_splic_U5	0	704246-704644	PF02966	http://pfam.sanger.ac.uk/family?acc=PF02966

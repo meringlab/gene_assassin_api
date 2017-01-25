@@ -1,0 +1,4 @@
+#>P	YBR028C	YBR028C	YBR028C	II	294428	296002	-1	AGC kinase; phosphorylated by cAMP-dependent protein kinase (PKA) in a TORC1-dependent manner [Source:SGD;Acc:S000000232]
+#>E	YBR028C.1	1.0	294425-296002
+II	294770	295618	-1.0	Prot_kinase_cat_dom	0	294770-295618	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+II	294455	294583	-1.0	Pkinase_C	0	294455-294583	PF00433	http://pfam.sanger.ac.uk/family?acc=PF00433

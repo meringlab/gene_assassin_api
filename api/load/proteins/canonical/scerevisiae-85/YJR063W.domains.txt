@@ -1,0 +1,4 @@
+#>P	YJR063W	YJR063W	YJR063W	X	555195	555569	1	RNA polymerase I subunit A12.2; contains two zinc binding domains, and the N terminal domain is responsible for anchoring to the RNA pol I complex [Source:SGD;Acc:S000003824]
+#>E	YJR063W.1	1.0	555195-555572
+X	555447	555560	1.0	Znf_TFIIS	0	555447-555560	PF01096	http://pfam.sanger.ac.uk/family?acc=PF01096
+X	555213	555320	1.0	DNA-dir_RNA_pol_M/15kDasu	0	555213-555320	PF02150	http://pfam.sanger.ac.uk/family?acc=PF02150

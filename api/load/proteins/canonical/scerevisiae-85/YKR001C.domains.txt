@@ -1,0 +1,5 @@
+#>P	YKR001C	YKR001C	YKR001C	XI	440611	442722	-1	Dynamin-like GTPase required for vacuolar sorting; also involved in actin cytoskeleton organization, endocytosis, late Golgi-retention of some proteins, regulation of peroxisome biogenesis [Source:SGD;Acc:S000001709]
+#>E	YKR001C.1	1.0	440608-442722
+XI	440611	440886	-1.0	GED	0	440611-440886	PF02212	http://pfam.sanger.ac.uk/family?acc=PF02212
+XI	441976	442629	-1.0	Dynamin_GTPase	0	441976-442629	PF00350	http://pfam.sanger.ac.uk/family?acc=PF00350
+XI	441085	441951	-1.0	Dynamin_central	0	441085-441951	PF01031	http://pfam.sanger.ac.uk/family?acc=PF01031

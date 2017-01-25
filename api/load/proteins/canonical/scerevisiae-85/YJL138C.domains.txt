@@ -1,0 +1,4 @@
+#>P	YJL138C	YJL138C	YJL138C	X	153507	154691	-1	Translation initiation factor eIF4A; DEA(D/H)-box RNA helicase that couples ATPase activity to RNA binding and unwinding; forms a dumbbell structure of two compact domains connected by a linker; interacts with eIF4G; protein abundance increases in response to DNA replication stress; TIF2 has a paralog, TIF1, that arose from the whole genome duplication [Source:SGD;Acc:S000003674]
+#>E	YJL138C.1	1.0	153504-154691
+X	153627	153857	-1.0	Helicase_C	0	153627-153857	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+X	154062	154553	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	154062-154553	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

@@ -1,0 +1,4 @@
+#>P	YOR388C	YOR388C	YOR388C	XV	1071796	1072923	-1	NAD(+)-dependent formate dehydrogenase; may protect cells from exogenous formate [Source:SGD;Acc:S000005915]
+#>E	YOR388C.1	1.0	1071793-1072923
+XV	1071946	1072536	-1.0	D-isomer_2_OHA_DH_NAD-bd	0	1071946-1072536	PF02826	http://pfam.sanger.ac.uk/family?acc=PF02826
+XV	1071889	1072815	-1.0	D-isomer_2_OHA_DH_cat_dom	0	1071889-1072815	PF00389	http://pfam.sanger.ac.uk/family?acc=PF00389

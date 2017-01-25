@@ -1,0 +1,4 @@
+#>P	YNL068C	YNL068C	YNL068C	XIV	495704	498289	-1	Forkhead family transcription factor; plays a major role in the expression of G2/M phase genes; positively regulates transcriptional elongation; facilitates clustering and activation of early-firing replication origins; negative role in chromatin silencing at HML and HMR; substrate of the Cdc28p/Clb5p kinase; relocalizes to the cytosol in response to hypoxia; FKH2 has a paralog, FKH1, that arose from the whole genome duplication [Source:SGD;Acc:S000005012]
+#>E	YNL068C.1	1.0	495701-498289
+XIV	497774	498040	-1.0	FHA_dom	0	497774-498040	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498
+XIV	496991	497272	-1.0	TF_fork_head	0	496991-497272	PF00250	http://pfam.sanger.ac.uk/family?acc=PF00250

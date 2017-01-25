@@ -1,0 +1,6 @@
+#>P	YER069W	YER069W	YER069W	V	295410	297998	1	Acetylglutamate kinase and N-acetyl-gamma-glutamyl-phosphate reductase; N-acetyl-L-glutamate kinase (NAGK) catalyzes the 2nd and N-acetyl-gamma-glutamyl-phosphate reductase (NAGSA), the 3rd step in arginine biosynthesis; synthesized as a precursor which is processed in the mitochondrion to yield mature NAGK and NAGSA; enzymes form a metabolon complex with Arg2p; NAGK C-terminal domain stabilizes the enzymes, slows catalysis and is involved in feed-back inhibition by arginine [Source:SGD;Acc:S000000871]
+#>E	YER069W.1	1.0	295410-298001
+V	297033	297407	1.0	Semialdehyde_DH_NAD-bd	0	297033-297407	PF01118	http://pfam.sanger.ac.uk/family?acc=PF01118
+V	296406	296906	1.0	DUF619	0	296406-296906	PF04768	http://pfam.sanger.ac.uk/family?acc=PF04768
+V	297495	297908	1.0	Semialdhyde_DH_dimer_dom	0	297495-297908	PF02774	http://pfam.sanger.ac.uk/family?acc=PF02774
+V	295707	296360	1.0	Asp/Glu/Uridylate_kinase	0	295707-296360	PF00696	http://pfam.sanger.ac.uk/family?acc=PF00696

@@ -1,0 +1,4 @@
+#>P	YKL058W	YKL058W	YKL058W	XI	330166	330531	1	TFIIA small subunit; involved in transcriptional activation, acts as antirepressor or as coactivator; required, along with Toa1p, for ribosomal protein gene transcription in vivo; homologous to smallest subunit of human and Drosophila TFIIA; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001541]
+#>E	YKL058W.1	1.0	330166-330534
+XI	330328	330519	1.0	TFIIA_gsu_C	0	330328-330519	PF02751	http://pfam.sanger.ac.uk/family?acc=PF02751
+XI	330181	330324	1.0	TFIIA_gsu_N	0	330181-330324	PF02268	http://pfam.sanger.ac.uk/family?acc=PF02268

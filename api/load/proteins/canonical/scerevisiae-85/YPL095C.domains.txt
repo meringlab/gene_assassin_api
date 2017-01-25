@@ -1,0 +1,3 @@
+#>P	YPL095C	YPL095C	YPL095C	XVI	368074	369441	-1	Acyl-coenzymeA:ethanol O-acyltransferase; responsible for the major part of medium-chain fatty acid ethyl ester biosynthesis during fermentation; possesses short-chain esterase activity; may be involved in lipid metabolism and detoxification; EEB1 has a paralog, EHT1, that arose from the whole genome duplication [Source:SGD;Acc:S000006016]
+#>E	YPL095C.1	1.0	368071-369441
+XVI	368131	368844	-1.0	AB_hydrolase_1	91.2	368131-368844	PF00561	http://pfam.sanger.ac.uk/family?acc=PF00561

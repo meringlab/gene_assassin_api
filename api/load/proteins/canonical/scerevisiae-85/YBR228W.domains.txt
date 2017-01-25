@@ -1,0 +1,3 @@
+#>P	YBR228W	YBR228W	YBR228W	II	675313	676224	1	Endonuclease involved in DNA recombination and repair; subunit of a complex, with Slx4p, that hydrolyzes 5' branches from duplex DNA in response to stalled or converging replication forks; function overlaps with that of Sgs1p-Top3p [Source:SGD;Acc:S000000432]
+#>E	YBR228W.1	1.0	675313-676227
+II	675352	675585	1.0	UvrC_N	0	675352-675585	PF01541	http://pfam.sanger.ac.uk/family?acc=PF01541

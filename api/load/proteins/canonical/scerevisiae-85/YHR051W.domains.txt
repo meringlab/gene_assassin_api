@@ -1,0 +1,3 @@
+#>P	YHR051W	YHR051W	YHR051W	VIII	209705	210148	1	Subunit VI of cytochrome c oxidase (Complex IV); Complex IV is the terminal member of the mitochondrial inner membrane electron transport chain; expression is regulated by oxygen levels [Source:SGD;Acc:S000001093]
+#>E	YHR051W.1	1.0	209705-210151
+VIII	209834	210142	1.0	Cyt_c_oxidase_su5A	0	209834-210142	PF02284	http://pfam.sanger.ac.uk/family?acc=PF02284

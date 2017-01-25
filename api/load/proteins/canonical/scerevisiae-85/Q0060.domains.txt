@@ -1,0 +1,5 @@
+#>P	Q0060	Q0060	Q0060	Mito	13818	19993	1	Endonuclease I-SceIII; encoded by a mobile group I intron within the mitochondrial COX1 gene [Source:SGD;Acc:S000007263]
+#>E	Q0060.1,Q0060.2,Q0060.3	1,1,1	13818-13986,16435-16470,18954-19996
+Mito	19481	19852	1	Endonuc_LAG/HNH	0	19481-19852	PF00961	http://pfam.sanger.ac.uk/family?acc=PF00961
+Mito	19085	19357	1	Endonuc_LAG/HNH	0	19085-19357	PF00961	http://pfam.sanger.ac.uk/family?acc=PF00961
+Mito	13851	18991	1	Cyt_c_Oxase_su1	0	13851-13986,16435-16470,18954-18991	PF00115	http://pfam.sanger.ac.uk/family?acc=PF00115

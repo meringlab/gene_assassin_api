@@ -1,0 +1,4 @@
+#>P	YMR261C	YMR261C	YMR261C	XIII	790208	793369	-1	Regulatory subunit of trehalose-6-phosphate synthase/phosphatase; involved in synthesis of storage carbohydrate trehalose; expression is induced by stress conditions and repressed by the Ras-cAMP pathway; TPS3 has a paralog, TSL1, that arose from the whole genome duplication [Source:SGD;Acc:S000004874]
+#>E	YMR261C.1	1.0	790205-793369
+XIII	791078	792508	-1.0	Glyco_trans_20	0	791078-792508	PF00982	http://pfam.sanger.ac.uk/family?acc=PF00982
+XIII	790340	791017	-1.0	Trehalose_PPase	0	790340-791017	PF02358	http://pfam.sanger.ac.uk/family?acc=PF02358

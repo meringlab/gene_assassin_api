@@ -1,0 +1,6 @@
+#>P	YNL088W	YNL088W	YNL088W	XIV	457704	461987	1	Topoisomerase II; relieves torsional strain in DNA by cleaving and re-sealing the phosphodiester backbone of both positively and negatively supercoiled DNA; cleaves complementary strands; localizes to axial cores in meiosis; required for replication slow zone (RSZ) breakage following Mec1p inactivation [Source:SGD;Acc:S000005032]
+#>E	YNL088W.1	1.0	457704-461990
+XIV	459771	461183	1.0	Topo_IIA_A/C	0	459771-461183	PF00521	http://pfam.sanger.ac.uk/family?acc=PF00521
+XIV	457875	458309	1.0	ATPase-like_ATP-bd	0	457875-458309	PF02518	http://pfam.sanger.ac.uk/family?acc=PF02518
+XIV	458439	458942	1.0	Topo_IIA_bsu_dom2	0	458439-458942	PF00204	http://pfam.sanger.ac.uk/family?acc=PF00204
+XIV	459036	459344	1.0	Toprim_domain	0	459036-459344	PF01751	http://pfam.sanger.ac.uk/family?acc=PF01751

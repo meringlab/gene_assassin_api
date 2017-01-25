@@ -1,0 +1,5 @@
+#>P	YGR070W	YGR070W	YGR070W	VII	627806	631270	1	GDP/GTP exchange protein (GEP) for Rho1p; mutations are synthetically lethal with mutations in rom2, which also encodes a GEP; ROM1 has a paralog, ROM2, that arose from the whole genome duplication [Source:SGD;Acc:S000003302]
+#>E	YGR070W.1	1.0	627806-631273
+VII	629210	629752	1.0	DH-domain	0	629210-629752	PF00621	http://pfam.sanger.ac.uk/family?acc=PF00621
+VII	630350	631201	1.0	Citron	0	630350-631201	PF00780	http://pfam.sanger.ac.uk/family?acc=PF00780
+VII	628637	628840	1.0	DEP_dom	0	628637-628840	PF00610	http://pfam.sanger.ac.uk/family?acc=PF00610

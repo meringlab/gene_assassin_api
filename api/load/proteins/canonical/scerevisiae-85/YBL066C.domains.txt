@@ -1,0 +1,4 @@
+#>P	YBL066C	YBL066C	YBL066C	II	96672	100115	-1	Putative transcription factor; has homolog in Kluyveromyces lactis [Source:SGD;Acc:S000000162]
+#>E	YBL066C.1	1.0	96669-100115
+II	99828	99953	-1.0	Zn2-C6_fun-type_DNA-bd	0	99828-99953	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+II	98385	99056	-1.0	Transcription_factor_fun	0	98385-99056	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082

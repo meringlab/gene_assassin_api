@@ -1,0 +1,4 @@
+#>P	YKL008C	YKL008C	YKL008C	XI	427298	428551	-1	Ceramide synthase component; involved in synthesis of ceramide from C26(acyl)-coenzyme A and dihydrosphingosine or phytosphingosine, functionally equivalent to Lag1p; LAC1 has a paralog, LAG1, that arose from the whole genome duplication [Source:SGD;Acc:S000001491]
+#>E	YKL008C.1	1.0	427295-428551
+XI	428048	428227	-1.0	TRAM1	0	428048-428227	PF08390	http://pfam.sanger.ac.uk/family?acc=PF08390
+XI	427421	428035	-1.0	TLC-dom	0	427421-428035	PF03798	http://pfam.sanger.ac.uk/family?acc=PF03798

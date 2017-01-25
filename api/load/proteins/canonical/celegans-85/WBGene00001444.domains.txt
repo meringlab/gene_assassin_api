@@ -1,0 +1,10 @@
+#>P	WBGene00001444	F23B2.5a	F23B2.5a	IV	9144713	9145974	1	FMRFamide-like neuropeptides 1 PNFMRY-amide AGSDPNFLRF-amide SQPNFLRF-amide ASGDPNFLRF-amide SDPNFLRF-amide AAADPNFLRF-amide SADPNFLRF-amide PNFLRF-amide [Source:UniProtKB/Swiss-Prot;Acc:P41855]
+#>E	F23B2.5a.e1,F23B2.5a.e2,F23B2.5a.e3,F23B2.5a.e4,F23B2.5a.e5,F23B2.5a.e6	0,1,1,0,1,1	9144713-9144766,9144813-9144912,9145349-9145435,9145488-9145607,9145765-9145861,9145908-9145977
+IV	9145550	9145576	1	FMRFamid-related_peptide-like	60.6	9145550-9145576	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+IV	9145399	9145428	1	FMRFamid-related_peptide-like	60.6	9145399-9145428	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+IV	9145767	9145799	1	FMRFamid-related_peptide-like	60.6	9145767-9145799	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+IV	9145942	9145974	1	FMRFamid-related_peptide-like	60.6	9145942-9145974	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+IV	9145839	9145917	1	FMRFamid-related_peptide-like	60.6	9145839-9145861,9145908-9145917	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+IV	9145806	9145835	1	FMRFamid-related_peptide-like	60.6	9145806-9145835	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+IV	9145517	9145546	1	FMRFamid-related_peptide-like	60.6	9145517-9145546	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+IV	9145583	9145769	1	FMRFamid-related_peptide-like	60.6	9145583-9145607,9145765-9145769	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581

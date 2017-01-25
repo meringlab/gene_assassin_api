@@ -1,0 +1,5 @@
+#>P	YMR058W	YMR058W	YMR058W	XIII	388822	390729	1	Ferro-O2-oxidoreductase; multicopper oxidase that oxidizes ferrous (Fe2+) to ferric iron (Fe3+) for subsequent cellular uptake by transmembrane permease Ftr1p; required for high-affinity iron uptake and involved in mediating resistance to copper ion toxicity, belongs to class of integral membrane multicopper oxidases; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004662]
+#>E	YMR058W.1	1.0	388822-390732
+XIII	388915	389259	1.0	Cu-oxidase_3	0	388915-389259	PF07732	http://pfam.sanger.ac.uk/family?acc=PF07732
+XIII	389290	389724	1.0	Cu-oxidase	0	389290-389724	PF00394	http://pfam.sanger.ac.uk/family?acc=PF00394
+XIII	389905	390327	1.0	Cu-oxidase_2	0	389905-390327	PF07731	http://pfam.sanger.ac.uk/family?acc=PF07731

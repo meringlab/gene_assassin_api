@@ -1,0 +1,5 @@
+#>P	YDL056W	YDL056W	YDL056W	IV	352877	355375	1	Transcription factor; involved in regulation of cell cycle progression from G1 to S phase, forms a complex with Swi6p that binds to MluI cell cycle box regulatory element in promoters of DNA synthesis genes [Source:SGD;Acc:S000002214]
+#>E	YDL056W.1	1.0	352877-355378
+IV	354410	354499	1.0	Ankyrin_rpt	0	354410-354499	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+IV	354065	354151	1.0	Ankyrin_rpt	0	354065-354151	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+IV	352940	353140	1.0	KilA_N/APSES_HTH	0	352940-353140	PF04383	http://pfam.sanger.ac.uk/family?acc=PF04383

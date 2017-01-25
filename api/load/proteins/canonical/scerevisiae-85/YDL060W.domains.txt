@@ -1,0 +1,4 @@
+#>P	YDL060W	YDL060W	YDL060W	IV	341619	343982	1	Protein required for processing of 20S pre-rRNA in the cytoplasm; associates with pre-40S ribosomal particles; inhibits the premature association of 60S subunits with assembling 40S subunits in the cytoplasm; similar to Bms1p; relocalizes from nucleus to cytoplasm upon DNA replication stress [Source:SGD;Acc:S000002218]
+#>E	YDL060W.1	1.0	341619-343985
+IV	343071	343949	1.0	BMS1_TSR1_C	0	343071-343949	PF04950	http://pfam.sanger.ac.uk/family?acc=PF04950
+IV	342318	342551	1.0	AARP2CN	0	342318-342551	PF08142	http://pfam.sanger.ac.uk/family?acc=PF08142

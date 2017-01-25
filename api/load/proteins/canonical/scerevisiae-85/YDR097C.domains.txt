@@ -1,0 +1,7 @@
+#>P	YDR097C	YDR097C	YDR097C	IV	640112	643837	-1	Protein required for mismatch repair in mitosis and meiosis; forms a complex with Msh2p to repair both single-base & insertion-deletion mispairs; also involved in interstrand cross-link repair; potentially phosphorylated by Cdc28p [Source:SGD;Acc:S000002504]
+#>E	YDR097C.1	1.0	640109-643837
+IV	642560	642904	-1.0	DNA_mismatch_repair_MutS-lik_N	0	642560-642904	PF01624	http://pfam.sanger.ac.uk/family?acc=PF01624
+IV	641228	641500	-1.0	DNA_mismatch_repair_MutS_clamp	0	641228-641500	PF05190	http://pfam.sanger.ac.uk/family?acc=PF05190
+IV	640334	641014	-1.0	DNA_mismatch_repair_MutS_C	0	640334-641014	PF00488	http://pfam.sanger.ac.uk/family?acc=PF00488
+IV	642050	642451	-1.0	DNA_mismatch_repair_MutS_connt	0	642050-642451	PF05188	http://pfam.sanger.ac.uk/family?acc=PF05188
+IV	641105	641980	-1.0	DNA_mismatch_repair_MutS_core	0	641105-641980	PF05192	http://pfam.sanger.ac.uk/family?acc=PF05192

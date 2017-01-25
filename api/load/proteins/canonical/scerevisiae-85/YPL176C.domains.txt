@@ -1,0 +1,3 @@
+#>P	YPL176C	YPL176C	YPL176C	XVI	216015	218363	-1	Transferrin receptor-like protein; plasma membrane protein that binds Bsd2p and regulates ubiquitylation and vacuolar degradation of the metal transporter Smf1p; functionally redundant with Tre2p; TRE1 has a paralog, TRE2, that arose from the whole genome duplication [Source:SGD;Acc:S000006097]
+#>E	YPL176C.1	1.0	216012-218363
+XVI	216051	216443	-1.0	TFR-like_dimer_dom	0	216051-216443	PF04253	http://pfam.sanger.ac.uk/family?acc=PF04253

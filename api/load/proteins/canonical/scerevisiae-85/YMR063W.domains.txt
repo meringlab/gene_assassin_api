@@ -1,0 +1,3 @@
+#>P	YMR063W	YMR063W	YMR063W	XIII	397077	397793	1	Plasma membrane protein of unknown function; involved in the proteolytic activation of Rim101p in response to alkaline pH; interacts with Rim21p and Dfg16p to form a pH-sensing complex in the Rim101 pathway and is required to maintain Rim21p levels; has similarity to A. nidulans PalI; [Source:SGD;Acc:S000004667]
+#>E	YMR063W.1	1.0	397077-397796
+XIII	397092	397583	1.0	SUR7/PalI	86.2	397092-397583	PF06687	http://pfam.sanger.ac.uk/family?acc=PF06687

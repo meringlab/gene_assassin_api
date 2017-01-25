@@ -1,0 +1,5 @@
+#>P	YGL156W	YGL156W	YGL156W	VII	210416	213664	1	Vacuolar alpha mannosidase; involved in free oligosaccharide (fOS) degradation; delivered to the vacuole in a novel pathway separate from the secretory pathway [Source:SGD;Acc:S000003124]
+#>E	YGL156W.1	1.0	210416-213667
+VII	212504	213655	1.0	Glyco_hydro_38_C	0	212504-213655	PF07748	http://pfam.sanger.ac.uk/family?acc=PF07748
+VII	211283	212092	1.0	Glyco_hydro_38_core	0	211283-212092	PF01074	http://pfam.sanger.ac.uk/family?acc=PF01074
+VII	212108	212332	1.0	Glyco_hydro_38_cen_dom	0	212108-212332	PF09261	http://pfam.sanger.ac.uk/family?acc=PF09261

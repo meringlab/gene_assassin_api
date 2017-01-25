@@ -1,0 +1,4 @@
+#>P	YAL021C	YAL021C	YAL021C	I	110849	113359	-1	Component of the CCR4-NOT transcriptional complex; CCR4-NOT is involved in regulation of gene expression; component of the major cytoplasmic deadenylase, which is involved in mRNA poly(A) tail shortening [Source:SGD;Acc:S000000019]
+#>E	YAL021C.1	1.0	110846-113359
+I	112169	112285	-1.0	Leu-rich_rpt_4	0	112169-112285	PF12799	http://pfam.sanger.ac.uk/family?acc=PF12799
+I	110906	111838	-1.0	Endo/exonuclease/phosphatase	0	110906-111838	PF03372	http://pfam.sanger.ac.uk/family?acc=PF03372

@@ -1,0 +1,4 @@
+#>P	YDR206W	YDR206W	YDR206W	IV	862054	864705	1	Protein involved in translation inhibition and nonsense-mediated decay; interacts with cap binding protein Cdc33p and with Nam7p; localizes to P-bodies upon glucose starvation; mRNA abundance regulated by mRNA decay factors; EBS1 has a paralog, EST1, that arose from the whole genome duplication [Source:SGD;Acc:S000002614]
+#>E	YDR206W.1	1.0	862054-864708
+IV	862738	863598	1.0	Telomere_elong_Est1_DNA-bd	0	862738-863598	PF10373	http://pfam.sanger.ac.uk/family?acc=PF10373
+IV	862288	862701	1.0	EST1	0	862288-862701	PF10374	http://pfam.sanger.ac.uk/family?acc=PF10374

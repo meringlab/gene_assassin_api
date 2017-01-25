@@ -1,0 +1,8 @@
+#>P	ENSG00000171823	ENST00000339235	ENSP00000344855	12	1566751	1594066	-1	F-box and leucine rich repeat protein 14 [Source:HGNC Symbol;Acc:HGNC:28624]
+#>E	ENSE00001250508,ENSE00001374491	0,0	1566748-1566810,1592873-1594066
+12	1593929	1594039	-1	F-box_dom	35.9	1593929-1594039	PF12937	http://pfam.sanger.ac.uk/family?acc=PF12937
+12	1593662	1593715	-1	Leu-rich_rpt	65.1	1593662-1593715	PF13516	http://pfam.sanger.ac.uk/family?acc=PF13516
+12	1593494	1593562	-1	Leu-rich_rpt	65.1	1593494-1593562	PF13516	http://pfam.sanger.ac.uk/family?acc=PF13516
+12	1593317	1593379	-1	Leu-rich_rpt	65.1	1593317-1593379	PF13516	http://pfam.sanger.ac.uk/family?acc=PF13516
+12	1593242	1593307	-1	Leu-rich_rpt	65.1	1593242-1593307	PF13516	http://pfam.sanger.ac.uk/family?acc=PF13516
+12	1593011	1593076	-1	Leu-rich_rpt	65.1	1593011-1593076	PF13516	http://pfam.sanger.ac.uk/family?acc=PF13516

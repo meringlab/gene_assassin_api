@@ -1,0 +1,4 @@
+#>P	YMR220W	YMR220W	YMR220W	XIII	712316	713668	1	Phosphomevalonate kinase; an essential cytosolic enzyme that acts in the biosynthesis of isoprenoids and sterols, including ergosterol, from mevalonate [Source:SGD;Acc:S000004833]
+#>E	YMR220W.1	1.0	712316-713671
+XIII	713402	713560	1.0	GHMP_kinase_C	0	713402-713560	PF08544	http://pfam.sanger.ac.uk/family?acc=PF08544
+XIII	712760	712963	1.0	GHMP_kinase	0	712760-712963	PF00288	http://pfam.sanger.ac.uk/family?acc=PF00288

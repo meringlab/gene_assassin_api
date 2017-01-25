@@ -1,0 +1,3 @@
+#>P	YDR088C	YDR088C	YDR088C	IV	618500	619645	-1	RNA splicing factor; required for ATP-independent portion of 2nd catalytic step of spliceosomal RNA splicing; interacts with Prp18p; contains zinc knuckle domain [Source:SGD;Acc:S000002495]
+#>E	YDR088C.1	1.0	618497-619645
+IV	618521	619153	-1.0	Slu7	0	618521-619153	PF11708	http://pfam.sanger.ac.uk/family?acc=PF11708

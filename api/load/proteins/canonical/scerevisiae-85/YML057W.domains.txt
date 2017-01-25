@@ -1,0 +1,3 @@
+#>P	YML057W	YML057W	YML057W	XIII	160180	161991	1	Calcineurin A; one isoform (the other is Cna1p) of the catalytic subunit of calcineurin, a Ca++/calmodulin-regulated protein phosphatase which regulates Crz1p (a stress-response transcription factor), the other calcineurin subunit is CNB1; regulates the function of Aly1p alpha-arrestin; CMP2 has a paralog, CNA1, that arose from the whole genome duplication [Source:SGD;Acc:S000004521]
+#>E	YML057W.1	1.0	160180-161994
+XIII	160591	161265	1.0	Metallo_PEstase_dom	0	160591-161265	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149

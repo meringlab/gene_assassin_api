@@ -1,0 +1,3 @@
+#>P	YNL283C	YNL283C	YNL283C	XIV	105187	106695	-1	Sensor-transducer of the stress-activated PKC1-MPK1 signaling pathway; involved in maintenance of cell wall integrity and recovery from heat shock; required for the arrest of secretion response; WSC2 has a paralog, WSC3, that arose from the whole genome duplication [Source:SGD;Acc:S000005227]
+#>E	YNL283C.1	1.0	105184-106695
+XIV	106372	106614	-1.0	WSC_carb-bd	0	106372-106614	PF01822	http://pfam.sanger.ac.uk/family?acc=PF01822

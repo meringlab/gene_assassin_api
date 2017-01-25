@@ -1,0 +1,3 @@
+#>P	YDL188C	YDL188C	YDL188C	IV	123868	124998	-1	Catalytic subunit of protein phosphatase 2A (PP2A); functionally redundant with Pph21p; methylated at C terminus; forms alternate complexes with several regulatory subunits; involved in signal transduction and regulation of mitosis; protein abundance increases in response to DNA replication stress; PPH22 has a paralog, PPH21, that arose from the whole genome duplication [Source:SGD;Acc:S000002347]
+#>E	YDL188C.1	1.0	123865-124998
+IV	124066	124644	-1.0	Metallo_PEstase_dom	0	124066-124644	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149

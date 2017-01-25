@@ -1,0 +1,4 @@
+#>P	YDL132W	YDL132W	YDL132W	IV	224304	226748	1	Cullin; structural protein of SCF complexes (which also contain Skp1p, Cdc34p, Hrt1p and an F-box protein) involved in ubiquitination; SCF promotes the G1-S transition by targeting G1 cyclins and the Cln-CDK inhibitor Sic1p for degradation [Source:SGD;Acc:S000002290]
+#>E	YDL132W.1	1.0	224304-226751
+IV	224346	226388	1.0	Cullin_N	0	224346-226388	PF00888	http://pfam.sanger.ac.uk/family?acc=PF00888
+IV	226533	226724	1.0	Cullin_neddylation_domain	0	226533-226724	PF10557	http://pfam.sanger.ac.uk/family?acc=PF10557

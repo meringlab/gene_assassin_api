@@ -1,0 +1,3 @@
+#>P	YNL117W	YNL117W	YNL117W	XIV	406358	408019	1	Malate synthase, enzyme of the glyoxylate cycle; involved in utilization of non-fermentable carbon sources; expression is subject to carbon catabolite repression; localizes in peroxisomes during growth on oleic acid, otherwise cytosolic; can accept butyryl-CoA as acyl-CoA donor in addition to traditional substrate acetyl-CoA [Source:SGD;Acc:S000005061]
+#>E	YNL117W.1	1.0	406358-408022
+XIV	406415	407983	1.0	Malate_synthase	0	406415-407983	PF01274	http://pfam.sanger.ac.uk/family?acc=PF01274

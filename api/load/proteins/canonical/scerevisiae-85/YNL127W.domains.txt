@@ -1,0 +1,4 @@
+#>P	YNL127W	YNL127W	YNL127W	XIV	383987	386845	1	Protein involved in recovery from cell cycle arrest; acts in response to pheromone; also involved in regulation of intra-S DNA damage checkpoint and autophagy; is essential for dephosphorylation of Atg13p; interacts with Far3p, Far7p, Far8p, Far9p, Far10p and with the phosphatases Pph21p, Pph22p and Pph3p; has similarity to the N- and C-termini of N. crassa HAM-2; similar to human Fam40A and Fam40B [Source:SGD;Acc:S000005071]
+#>E	YNL127W.1	1.0	383987-386848
+XIV	385739	386830	1.0	DUF3402	0	385739-386830	PF11882	http://pfam.sanger.ac.uk/family?acc=PF11882
+XIV	384638	385450	1.0	N1221	0	384638-385450	PF07923	http://pfam.sanger.ac.uk/family?acc=PF07923

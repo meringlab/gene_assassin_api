@@ -1,0 +1,4 @@
+#>P	YDL101C	YDL101C	YDL101C	IV	280310	281848	-1	Cell-cycle checkpoint serine-threonine kinase; required for DNA damage-induced transcription of certain target genes, phosphorylation of Rad55p and Sml1p, and transient G2/M arrest after DNA damage; Mec1p and Dun1p function in same pathway to regulate both dNTP pools and telomere length; also regulates postreplicative DNA repair [Source:SGD;Acc:S000002259]
+#>E	YDL101C.1	1.0	280307-281848
+IV	280409	281245	-1.0	Prot_kinase_cat_dom	0	280409-281245	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+IV	281465	281683	-1.0	FHA_dom	0	281465-281683	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498

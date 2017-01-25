@@ -1,0 +1,6 @@
+#>P	YOR168W	YOR168W	YOR168W	XV	649303	651729	1	Glutamine tRNA synthetase; monomeric class I tRNA synthetase that catalyzes the specific glutaminylation of tRNA(Gln); N-terminal domain proposed to be involved in enzyme-tRNA interactions [Source:SGD;Acc:S000005694]
+#>E	YOR168W.1	1.0	649303-651732
+XV	649306	649791	1.0	Gln-tRNA-synth_Ib_RNA-bd_N	0	649306-649791	PF04558	http://pfam.sanger.ac.uk/family?acc=PF04558
+XV	650053	650994	1.0	Glu/Gln-tRNA-synth_Ib_cat-dom	0	650053-650994	PF00749	http://pfam.sanger.ac.uk/family?acc=PF00749
+XV	651004	651540	1.0	Glu/Gln-tRNA-synth_Ib_codon-bd	0	651004-651540	PF03950	http://pfam.sanger.ac.uk/family?acc=PF03950
+XV	649798	650031	1.0	Gln-tRNA-synth_Ib_RNA-bd_2	0	649798-650031	PF04557	http://pfam.sanger.ac.uk/family?acc=PF04557

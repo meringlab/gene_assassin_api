@@ -1,0 +1,4 @@
+#>P	YAL003W	YAL003W	YAL003W	I	142174	143157	1	Translation elongation factor 1 beta; stimulates nucleotide exchange to regenerate EF-1 alpha-GTP for the next elongation cycle; part of the EF-1 complex, which facilitates binding of aminoacyl-tRNA to the ribosomal A site [Source:SGD;Acc:S000000003]
+#>E	YAL003W.1,YAL003W.2	1,1	142174-142253,142620-143160
+I	142786	142869	1	EF-1_beta_acid_region_euk	0	142786-142869	PF10587	http://pfam.sanger.ac.uk/family?acc=PF10587
+I	142897	143157	1	Transl_elong_fac_EF1B_bsu/dsu	0	142897-143157	PF00736	http://pfam.sanger.ac.uk/family?acc=PF00736

@@ -1,0 +1,8 @@
+#>P	YFL009W	YFL009W	YFL009W	VI	116145	118481	1	F-box protein required for both the G1/S and G2/M phase transitions; modular substrate specificity factor which associates with core SCF (Cdc53p, Skp1p and Hrt1p/Rbx1p) to form the SCFCdc4 complex; SCFCdc4 acts as a ubiquitin-protein ligase directing ubiquitination of cyclin-dependent kinase (CDK) phosphorylated substrates, such as: Sic1p, Far1p, Cdc6p, Clb6p, and Cln3p [Source:SGD;Acc:S000001885]
+#>E	YFL009W.1	1.0	116145-118484
+VI	117825	117938	1.0	WD40_repeat	33.8	117825-117938	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VI	117288	117368	1.0	WD40_repeat	17.2	117288-117368	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VI	117711	117812	1.0	WD40_repeat	25	117711-117812	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VI	117387	117491	1.0	WD40_repeat	33	117387-117491	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VI	117501	117623	1.0	WD40_repeat	39.9	117501-117623	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VI	118020	118118	1.0	WD40_repeat	17.1	118020-118118	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

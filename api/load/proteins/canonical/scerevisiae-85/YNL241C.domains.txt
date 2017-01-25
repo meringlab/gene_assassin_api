@@ -1,0 +1,4 @@
+#>P	YNL241C	YNL241C	YNL241C	XIV	196429	197943	-1	Glucose-6-phosphate dehydrogenase (G6PD); catalyzes the first step of the pentose phosphate pathway; involved in adapting to oxidative stress; homolog of the human G6PD which is deficient in patients with hemolytic anemia; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005185]
+#>E	YNL241C.1	1.0	196426-197943
+XIV	197356	197898	-1.0	G6P_DH_NAD-bd	0	197356-197898	PF00479	http://pfam.sanger.ac.uk/family?acc=PF00479
+XIV	196480	197352	-1.0	G6P_DH_C	0	196480-197352	PF02781	http://pfam.sanger.ac.uk/family?acc=PF02781

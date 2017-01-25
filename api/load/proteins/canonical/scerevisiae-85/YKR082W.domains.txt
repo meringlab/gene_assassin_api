@@ -1,0 +1,4 @@
+#>P	YKR082W	YKR082W	YKR082W	XI	592825	596295	1	Subunit of Nup84p subcomplex of nuclear pore complex (NPC); contributes to nucleocytoplasmic transport, NPC biogenesis; is involved in establishment of a normal nucleocytoplasmic concentration gradient of GTPase Gsp1p; also plays roles in several processes that may require localization of genes or chromosomes at nuclear periphery, including double-strand break repair, transcription and chromatin silencing; relocalizes to cytosol in response to hypoxia; homolog of human NUP133 [Source:SGD;Acc:S000001790]
+#>E	YKR082W.1	1.0	592825-596298
+XI	593068	594249	1.0	Nucleoporin_Nup133/Nup155_N	0	593068-594249	PF08801	http://pfam.sanger.ac.uk/family?acc=PF08801
+XI	594469	595986	1.0	Nucleoporin_Nup133/Nup155_C	0	594469-595986	PF03177	http://pfam.sanger.ac.uk/family?acc=PF03177

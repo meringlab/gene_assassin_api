@@ -1,0 +1,4 @@
+#>P	YPL127C	YPL127C	YPL127C	XVI	308831	309604	-1	Histone H1, linker histone with roles in meiosis and sporulation; decreasing levels early in sporulation may promote meiosis, and increasing levels during sporulation facilitate compaction of spore chromatin; binds to promoters and within genes in mature spores; may be recruited by Ume6p to promoter regions, contributing to transcriptional repression outside of meiosis; suppresses DNA repair involving homologous recombination [Source:SGD;Acc:S000006048]
+#>E	YPL127C.1	1.0	308828-309604
+XVI	309254	309478	-1.0	Histone_H1/H5	0	309254-309478	PF00538	http://pfam.sanger.ac.uk/family?acc=PF00538
+XVI	308852	309076	-1.0	Histone_H1/H5	0	308852-309076	PF00538	http://pfam.sanger.ac.uk/family?acc=PF00538

@@ -1,0 +1,4 @@
+#>P	YMR213W	YMR213W	YMR213W	XIII	693381	695150	1	Essential splicing factor; associated with Prp19p and the spliceosome, contains an N-terminal c-Myb DNA binding motif necessary for cell viability but not for Prp19p association, evolutionarily conserved and homologous to S. pombe Cdc5p [Source:SGD;Acc:S000004826]
+#>E	YMR213W.1	1.0	693381-695153
+XIII	693570	693698	1.0	SANT_DNA-bd	0	693570-693698	PF00249	http://pfam.sanger.ac.uk/family?acc=PF00249
+XIII	693411	693548	1.0	SANT_DNA-bd	0	693411-693548	PF00249	http://pfam.sanger.ac.uk/family?acc=PF00249

@@ -1,0 +1,3 @@
+#>P	YBR231C	YBR231C	YBR231C	II	682182	683090	-1	Component of the SWR1 complex; complex exchanges histone variant H2AZ (Htz1p) for chromatin-bound histone H2A; protein abundance increases in response to DNA replication stress; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000000435]
+#>E	YBR231C.1	1.0	682179-683090
+II	682218	682433	-1.0	BCNT	0	682218-682433	PF07572	http://pfam.sanger.ac.uk/family?acc=PF07572

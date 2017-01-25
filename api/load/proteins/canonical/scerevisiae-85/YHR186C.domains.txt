@@ -1,0 +1,3 @@
+#>P	YHR186C	YHR186C	YHR186C	VIII	476002	480672	-1	Subunit of TORC1; TORC1 is a rapamycin-sensitive complex involved in growth control that contains Tor1p or Tor2p, Lst8p and Tco89p; contains four HEAT repeats and seven WD-40 repeats; may act as a scaffold protein to couple TOR and its effectors [Source:SGD;Acc:S000001229]
+#>E	YHR186C.1	1.0	475999-480672
+VIII	478240	478323	-1.0	HEAT	0	478240-478323	PF02985	http://pfam.sanger.ac.uk/family?acc=PF02985

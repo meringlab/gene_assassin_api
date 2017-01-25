@@ -1,0 +1,4 @@
+#>P	YML092C	YML092C	YML092C	XIII	85990	86739	-1	Alpha 2 subunit of the 20S proteasome [Source:SGD;Acc:S000004557]
+#>E	YML092C.1	1.0	85987-86739
+XIII	86098	86658	-1.0	Proteasome_sua/b	0	86098-86658	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227
+XIII	86659	86727	-1.0	Proteasome_asu_N	0	86659-86727	PF10584	http://pfam.sanger.ac.uk/family?acc=PF10584

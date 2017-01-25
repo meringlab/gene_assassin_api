@@ -1,0 +1,3 @@
+#>P	YGL220W	YGL220W	YGL220W	VII	82374	82733	1	Protein involved in negative regulation of iron regulon transcription; forms an iron independent complex with Fra2p, Grx3p, and Grx4p; null mutant fails to repress iron regulon and is sensitive to nickel [Source:SGD;Acc:S000003188]
+#>E	YGL220W.1	1.0	82374-82736
+VII	82512	82718	1.0	BolA	0	82512-82718	PF01722	http://pfam.sanger.ac.uk/family?acc=PF01722

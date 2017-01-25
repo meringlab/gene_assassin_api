@@ -1,0 +1,4 @@
+#>P	YJL105W	YJL105W	YJL105W	X	225055	226734	1	Protein of unknown function, contains a SET domain; SET4 has a paralog, SET3, that arose from the whole genome duplication [Source:SGD;Acc:S000003641]
+#>E	YJL105W.1	1.0	225055-226737
+X	225541	225681	1.0	Znf_PHD-finger	0	225541-225681	PF00628	http://pfam.sanger.ac.uk/family?acc=PF00628
+X	226129	226470	1.0	SET_dom	0	226129-226470	PF00856	http://pfam.sanger.ac.uk/family?acc=PF00856

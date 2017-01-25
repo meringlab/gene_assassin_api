@@ -1,0 +1,7 @@
+#>P	YLR429W	YLR429W	YLR429W	XII	990777	992729	1	Coronin; cortical actin cytoskeletal component that associates with the Arp2p/Arp3p complex to regulate its activity; plays a role in regulation of actin patch assembly [Source:SGD;Acc:S000004421]
+#>E	YLR429W.1	1.0	990777-992732
+XII	990786	990980	1.0	DUF1899	0	990786-990980	PF08953	http://pfam.sanger.ac.uk/family?acc=PF08953
+XII	991317	991406	1.0	WD40_repeat	0	991317-991406	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	991005	991106	1.0	WD40_repeat	0	991005-991106	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	991167	991283	1.0	WD40_repeat	0	991167-991283	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	991587	991973	1.0	DUF1900	0	991587-991973	PF08954	http://pfam.sanger.ac.uk/family?acc=PF08954

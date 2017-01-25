@@ -1,0 +1,5 @@
+#>P	YPL036W	YPL036W	YPL036W	XVI	482843	485683	1	Plasma membrane H+-ATPase; isoform of Pma1p, involved in pumping protons out of the cell; regulator of cytoplasmic pH and plasma membrane potential [Source:SGD;Acc:S000005957]
+#>E	YPL036W.1	1.0	482843-485686
+XVI	483164	483334	1.0	ATPase_P-typ_cation-transptr_N	0	483164-483334	PF00690	http://pfam.sanger.ac.uk/family?acc=PF00690
+XVI	484046	484867	1.0	Dehalogen-like_hydro	0	484046-484867	PF00702	http://pfam.sanger.ac.uk/family?acc=PF00702
+XVI	483365	484033	1.0	ATPase_P-typ_ATPase-assoc-dom	0	483365-484033	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122

@@ -1,0 +1,3 @@
+#>P	YAL026C	YAL026C	YAL026C	I	95633	99697	-1	Trans-golgi network aminophospholipid translocase (flippase); maintains membrane lipid asymmetry in post-Golgi secretory vesicles; contributes to clathrin-coated vesicle formation and endocytosis; subject to auto-inhibition by its C-terminal tail; mutations in human homolog ATP8B1 result in liver disease [Source:SGD;Acc:S000000024]
+#>E	YAL026C.1	1.0	95630-99697
+I	98135	98938	-1.0	ATPase_P-typ_ATPase-assoc-dom	0	98135-98938	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122

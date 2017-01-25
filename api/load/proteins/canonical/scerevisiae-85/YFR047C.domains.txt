@@ -1,0 +1,4 @@
+#>P	YFR047C	YFR047C	YFR047C	VI	244282	245166	-1	Quinolinate phosphoribosyl transferase; required for the de novo biosynthesis of NAD from tryptophan via kynurenine; expression regulated by Hst1p [Source:SGD;Acc:S000001943]
+#>E	YFR047C.1	1.0	244279-245166
+VI	244816	245091	-1.0	Quinolinate_PRibosylTrfase_N	0	244816-245091	PF02749	http://pfam.sanger.ac.uk/family?acc=PF02749
+VI	244291	244812	-1.0	Quinolinate_PRibosylTrfase_C	0	244291-244812	PF01729	http://pfam.sanger.ac.uk/family?acc=PF01729

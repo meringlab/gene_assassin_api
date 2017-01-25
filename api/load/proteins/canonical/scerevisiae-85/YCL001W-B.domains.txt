@@ -1,0 +1,3 @@
+#>P	YCL001W-B	YCL001W-B	YCL001W-B	III	113770	114021	1	Putative protein of unknown function; present in a region duplicated between chromosomes XIV and III; YCL001W-B has a paralog, DOM34, that arose from the whole genome duplication [Source:SGD;Acc:S000007596]
+#>E	YCL001W-B.1	1.0	113770-114024
+III	113770	113997	1.0	eRF1_3	0	113770-113997	PF03465	http://pfam.sanger.ac.uk/family?acc=PF03465

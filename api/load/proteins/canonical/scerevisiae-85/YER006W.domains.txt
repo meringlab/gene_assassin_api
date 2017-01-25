@@ -1,0 +1,4 @@
+#>P	YER006W	YER006W	YER006W	V	162723	164282	1	GTPase that associates with nuclear 60S pre-ribosomes; required for export of 60S ribosomal subunits from the nucleus [Source:SGD;Acc:S000000808]
+#>E	YER006W.1	1.0	162723-164285
+V	162765	162998	1.0	Gnl3_N_dom	0	162765-162998	PF08701	http://pfam.sanger.ac.uk/family?acc=PF08701
+V	163569	163865	1.0	GTP_binding_domain	0	163569-163865	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926

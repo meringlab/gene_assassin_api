@@ -1,0 +1,3 @@
+#>P	YNL124W	YNL124W	YNL124W	XIV	392892	394367	1	RNA-binding protein required for the assembly of box H/ACA snoRNPs; thus required for pre-rRNA processing; forms a complex with Shq1p and interacts with H/ACA snoRNP components Nhp2p and Cbf5p; similar to Gar1p [Source:SGD;Acc:S000005068]
+#>E	YNL124W.1	1.0	392892-394370
+XIV	393240	393704	1.0	H/ACA_rnp_Gar1/Naf1	0	393240-393704	PF04410	http://pfam.sanger.ac.uk/family?acc=PF04410

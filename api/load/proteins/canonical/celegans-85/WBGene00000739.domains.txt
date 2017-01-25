@@ -1,0 +1,5 @@
+#>P	WBGene00000739	T07H6.3.2	T07H6.3.2	X	6280016	6280918	1	COLlagen  [Source:RefSeq peptide;Acc:NP_001024894]
+#>E	T07H6.3.2.e2	0	6280016-6280921
+X	6280073	6280219	1	Col_cuticle_N	67.7	6280073-6280219	PF01484	http://pfam.sanger.ac.uk/family?acc=PF01484
+X	6280694	6280867	1	Collagen	74.9	6280694-6280867	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
+X	6280493	6280669	1	Collagen	74.9	6280493-6280669	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391

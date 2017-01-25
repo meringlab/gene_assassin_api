@@ -1,0 +1,3 @@
+#>P	YFL060C	YFL060C	YFL060C	VI	10304	10969	-1	Protein of unknown function; nearly identical to Sno2p; expression is induced before the diauxic shift and also in the absence of thiamin [Source:SGD;Acc:S000001834]
+#>E	YFL060C.1	1.0	10301-10969
+VI	10322	10951	-1.0	Glutamine_amidoTferase_suPdxT	0	10322-10951	PF01174	http://pfam.sanger.ac.uk/family?acc=PF01174

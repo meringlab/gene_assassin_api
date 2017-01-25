@@ -1,0 +1,4 @@
+#>P	YER043C	YER043C	YER043C	V	235773	237119	-1	S-adenosyl-L-homocysteine hydrolase; catabolizes S-adenosyl-L-homocysteine which is formed after donation of the activated methyl group of S-adenosyl-L-methionine (AdoMet) to an acceptor; regulates cellular lipid homoeostasis by regulating phosphatidylcholine(PC)synthesis and triacylglycerol (TG) levels [Source:SGD;Acc:S000000845]
+#>E	YER043C.1	1.0	235770-237119
+V	235776	237104	-1.0	Adenosylhomocysteinase	0	235776-237104	PF05221	http://pfam.sanger.ac.uk/family?acc=PF05221
+V	236055	236540	-1.0	Ado_hCys_hydrolase_NAD-bd	0	236055-236540	PF00670	http://pfam.sanger.ac.uk/family?acc=PF00670

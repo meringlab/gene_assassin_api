@@ -1,0 +1,6 @@
+#>P	YER162C	YER162C	YER162C	V	500633	502894	-1	Protein that recognizes and binds damaged DNA (with Rad23p) during NER; subunit of Nuclear Excision Repair Factor 2 (NEF2); also involved, with Rad23p, in turnover of ubiquitylated proteins; NER stands for nucleotide excision repair [Source:SGD;Acc:S000000964]
+#>E	YER162C.1	1.0	500630-502894
+V	501266	501427	-1.0	Rad4_beta-hairpin_dom2	0	501266-501427	PF10404	http://pfam.sanger.ac.uk/family?acc=PF10404
+V	501434	501607	-1.0	Rad4_beta-hairpin_dom1	0	501434-501607	PF10403	http://pfam.sanger.ac.uk/family?acc=PF10403
+V	501020	501244	-1.0	Rad4_beta-hairpin_dom3	0	501020-501244	PF10405	http://pfam.sanger.ac.uk/family?acc=PF10405
+V	501620	502042	-1.0	Rad4/PNGase_transGLS-fold	0	501620-502042	PF03835	http://pfam.sanger.ac.uk/family?acc=PF03835

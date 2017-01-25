@@ -1,0 +1,4 @@
+#>P	YDR081C	YDR081C	YDR081C	IV	607307	610081	-1	Transcription factor for thiamine-regulated genes; required for expression of the two isoforms of pyruvate decarboxylase (PDC1 and PDC5) along with thiamine biosynthetic genes; binds a DNA sequence in the PDC5 promoter; mutant fails to grow on 2% glucose and thus is scored as inviable under standard conditions [Source:SGD;Acc:S000002488]
+#>E	YDR081C.1	1.0	607304-610081
+IV	608864	609589	-1.0	DDE_SF_endonuclease_CENPB-like	0	608864-609589	PF03184	http://pfam.sanger.ac.uk/family?acc=PF03184
+IV	609680	609859	-1.0	Pogo/CenpB/PDC2_DNA-bd_HTH	0	609680-609859	PF03221	http://pfam.sanger.ac.uk/family?acc=PF03221

@@ -1,0 +1,5 @@
+#>P	YDL164C	YDL164C	YDL164C	IV	164990	167254	-1	DNA ligase found in the nucleus and mitochondria; an essential enzyme that joins Okazaki fragments during DNA replication; also acts in ribonucleotide excision repair, base excision repair, and recombination, [Source:SGD;Acc:S000002323]
+#>E	YDL164C.1	1.0	164987-167254
+IV	165461	166078	-1.0	DNA_ligase_ATP-dep_cent	0	165461-166078	PF01068	http://pfam.sanger.ac.uk/family?acc=PF01068
+IV	166283	166819	-1.0	DNA_ligase_ATP-dep_N	0	166283-166819	PF04675	http://pfam.sanger.ac.uk/family?acc=PF04675
+IV	165059	165388	-1.0	DNA_ligase_ATP-dep_C	0	165059-165388	PF04679	http://pfam.sanger.ac.uk/family?acc=PF04679

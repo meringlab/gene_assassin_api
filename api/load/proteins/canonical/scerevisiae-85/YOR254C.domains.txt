@@ -1,0 +1,4 @@
+#>P	YOR254C	YOR254C	YOR254C	XV	805035	807023	-1	Essential subunit of Sec63 complex; with Sec61 complex, Kar2p/BiP and Lhs1p forms a channel competent for SRP-dependent and post-translational SRP-independent protein targeting and import into the ER; other members are Sec63p, Sec62p, Sec66p and Sec72p [Source:SGD;Acc:S000005780]
+#>E	YOR254C.1	1.0	805032-807023
+XV	805431	806111	-1.0	Sec63-dom	0	805431-806111	PF02889	http://pfam.sanger.ac.uk/family?acc=PF02889
+XV	806448	806651	-1.0	DnaJ_N	0	806448-806651	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226

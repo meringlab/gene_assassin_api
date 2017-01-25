@@ -1,0 +1,4 @@
+#>P	YHR078W	YHR078W	YHR078W	VIII	256360	258015	1	High osmolarity-regulated gene of unknown function [Source:SGD;Acc:S000001120]
+#>E	YHR078W.1	1.0	256360-258018
+VIII	256900	257148	1.0	Golgi_pH-regulator_cons_dom	0	256900-257148	PF12537	http://pfam.sanger.ac.uk/family?acc=PF12537
+VIII	257278	257988	1.0	ABA_GPCR_dom	0	257278-257988	PF12430	http://pfam.sanger.ac.uk/family?acc=PF12430

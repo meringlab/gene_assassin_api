@@ -1,0 +1,4 @@
+#>P	YOL010W	YOL010W	YOL010W	XV	307938	309038	1	Endonuclease that cleaves pre-rRNA at site A2 for 18S rRNA biogenesis; subunit of U3-containing 90S preribosome processome complex involved in small ribosomal subunit assembly; stimulates Bms1p GTPase and U3 binding activity; similar to RNA cyclase-like proteins but no cyclase activity detected [Source:SGD;Acc:S000005370]
+#>E	YOL010W.1	1.0	307938-309041
+XV	308487	308792	1.0	RNA3'_term_phos_cycl_insert	0	308487-308792	PF05189	http://pfam.sanger.ac.uk/family?acc=PF05189
+XV	307956	308954	1.0	RNA3'_phos_cyclase_dom	0	307956-308954	PF01137	http://pfam.sanger.ac.uk/family?acc=PF01137

@@ -1,0 +1,4 @@
+#>P	YNR029C	YNR029C	YNR029C	XIV	677202	678488	-1	Putative protein of unknown function; deletion confers reduced fitness in saline [Source:SGD;Acc:S000005312]
+#>E	YNR029C.1	1.0	677199-678488
+XIV	677670	678275	-1.0	Cbl_biosynth_CobW-like	0	677670-678275	PF02492	http://pfam.sanger.ac.uk/family?acc=PF02492
+XIV	677208	677402	-1.0	Cbl_biosynth_CobW-like_C	0	677208-677402	PF07683	http://pfam.sanger.ac.uk/family?acc=PF07683

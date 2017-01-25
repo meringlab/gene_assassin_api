@@ -1,0 +1,5 @@
+#>P	YOL023W	YOL023W	YOL023W	XV	278056	280083	1	Mitochondrial translation initiation factor 2 [Source:SGD;Acc:S000005383]
+#>E	YOL023W.1	1.0	278056-280086
+XV	278245	278397	1.0	IF2_N	32.6	278245-278397	PF04760	http://pfam.sanger.ac.uk/family?acc=PF04760
+XV	278488	278991	1.0	ProtSyn_GTP-bd	118	278488-278991	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+XV	279424	279735	1.0	TIF_IF2_dom3	84.1	279424-279735	PF11987	http://pfam.sanger.ac.uk/family?acc=PF11987

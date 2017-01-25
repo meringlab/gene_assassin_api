@@ -1,0 +1,4 @@
+#>P	YDR256C	YDR256C	YDR256C	IV	968136	969680	-1	Catalase A; breaks down hydrogen peroxide in the peroxisomal matrix formed by acyl-CoA oxidase (Pox1p) during fatty acid beta-oxidation [Source:SGD;Acc:S000002664]
+#>E	YDR256C.1	1.0	968133-969680
+IV	968463	969614	-1.0	Catalase_core	0	968463-969614	PF00199	http://pfam.sanger.ac.uk/family?acc=PF00199
+IV	968184	968363	-1.0	Catalase_immune_responsive	0	968184-968363	PF06628	http://pfam.sanger.ac.uk/family?acc=PF06628

@@ -1,0 +1,3 @@
+#>P	YDL159W	YDL159W	YDL159W	IV	172481	174025	1	Signal transducing MAP kinase kinase; involved in pheromone response where it phosphorylates Fus3p; involved in the pseudohyphal/invasive growth pathway where it phosphorylates of Kss1p; phosphorylated by Ste11p; degraded by ubiquitin pathway [Source:SGD;Acc:S000002318]
+#>E	YDL159W.1	1.0	172481-174028
+IV	173057	173875	1.0	Prot_kinase_cat_dom	0	173057-173875	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

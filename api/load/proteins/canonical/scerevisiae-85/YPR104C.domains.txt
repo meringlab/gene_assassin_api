@@ -1,0 +1,4 @@
+#>P	YPR104C	YPR104C	YPR104C	XVI	733626	736433	-1	Regulator of ribosomal protein (RP) transcription; has forkhead associated domain that binds phosphorylated proteins; recruits coactivator Ifh1p or corepressor Crf1p to RP gene promoters; also has forkhead DNA-binding domain though in vitro DNA binding assays give inconsistent results; computational analyses suggest it binds DNA directly at highly active RP genes and indirectly through Rap1p motifs at others; suppresses RNA pol III and splicing factor prp4 mutants [Source:SGD;Acc:S000006308]
+#>E	YPR104C.1	1.0	733623-736433
+XVI	734787	735053	-1.0	TF_fork_head	117.1	734787-735053	PF00250	http://pfam.sanger.ac.uk/family?acc=PF00250
+XVI	735312	735533	-1.0	FHA_dom	44.5	735312-735533	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498

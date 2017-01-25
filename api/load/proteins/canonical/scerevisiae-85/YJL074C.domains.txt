@@ -1,0 +1,4 @@
+#>P	YJL074C	YJL074C	YJL074C	X	299160	302849	-1	Subunit of the multiprotein cohesin complex; required for sister chromatid cohesion in mitotic cells; also required, with Rec8p, for cohesion and recombination during meiosis; phylogenetically conserved SMC chromosomal ATPase family member [Source:SGD;Acc:S000003610]
+#>E	YJL074C.1	1.0	299157-302849
+X	300897	301250	-1.0	SMC_hinge	0	300897-301250	PF06470	http://pfam.sanger.ac.uk/family?acc=PF06470
+X	299229	302846	-1.0	RecF/RecN/SMC	0	299229-302846	PF02463	http://pfam.sanger.ac.uk/family?acc=PF02463

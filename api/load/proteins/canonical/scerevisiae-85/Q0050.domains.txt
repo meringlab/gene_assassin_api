@@ -1,0 +1,4 @@
+#>P	Q0050	Q0050	Q0050	Mito	13818	16319	1	Reverse transcriptase required for splicing of the COX1 pre-mRNA; encoded by a mobile group II intron within the mitochondrial COX1 gene [Source:SGD;Acc:S000007261]
+#>E	Q0050.1	1.0	13818-16322
+Mito	14760	15548	1.0	RVT	0	14760-15548	PF00078	http://pfam.sanger.ac.uk/family?acc=PF00078
+Mito	15624	16145	1.0	Domain_X	0	15624-16145	PF01348	http://pfam.sanger.ac.uk/family?acc=PF01348

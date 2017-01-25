@@ -1,0 +1,4 @@
+#>P	YLR355C	YLR355C	YLR355C	XII	838069	839253	-1	Acetohydroxyacid reductoisomerase and mtDNA binding protein; involved in branched-chain amino acid biosynthesis and maintenance of wild-type mitochondrial DNA; found in mitochondrial nucleoids [Source:SGD;Acc:S000004347]
+#>E	YLR355C.1	1.0	838066-839253
+XII	838531	839028	-1.0	IlvN	0	838531-839028	PF07991	http://pfam.sanger.ac.uk/family?acc=PF07991
+XII	838072	838512	-1.0	AcH_isomrdctse_C	0	838072-838512	PF01450	http://pfam.sanger.ac.uk/family?acc=PF01450

@@ -1,0 +1,3 @@
+#>P	YER026C	YER026C	YER026C	V	207647	208474	-1	Phosphatidylserine synthase; functions in phospholipid biosynthesis; catalyzes the reaction CDP-diaclyglycerol + L-serine = CMP + L-1-phosphatidylserine, transcriptionally repressed by myo-inositol and choline [Source:SGD;Acc:S000000828]
+#>E	YER026C.1	1.0	207644-208474
+V	207923	208231	-1.0	CDP-OH_P_trans	0	207923-208231	PF01066	http://pfam.sanger.ac.uk/family?acc=PF01066

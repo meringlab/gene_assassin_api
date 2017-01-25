@@ -1,0 +1,5 @@
+#>P	YDR364C	YDR364C	YDR364C	IV	1202846	1204210	-1	Pre-mRNA splicing factor; important for catalytic step II of pre-mRNA splicing and plays a role in cell cycle progression; required for DNA synthesis during mitosis and meiosis; has WD repeats [Source:SGD;Acc:S000002772]
+#>E	YDR364C.1	1.0	1202843-1204210
+IV	1203638	1203754	-1.0	WD40_repeat	31.4	1203638-1203754	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	1203509	1203622	-1.0	WD40_repeat	36.1	1203509-1203622	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	1203248	1203355	-1.0	WD40_repeat	33.5	1203248-1203355	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

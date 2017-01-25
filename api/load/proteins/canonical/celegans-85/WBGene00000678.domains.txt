@@ -1,0 +1,6 @@
+#>P	WBGene00000678	F58F6.1	F58F6.1	IV	1353704	1355295	-1	COLlagen  [Source:RefSeq peptide;Acc:NP_500070]
+#>E	F58F6.1.e2,F58F6.1.e1	1,1	1353701-1354299,1355049-1355295
+IV	1353746	1353907	-1	Collagen	91.3	1353746-1353907	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
+IV	1353983	1354135	-1	Collagen	91.3	1353983-1354135	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
+IV	1353872	1354033	-1	Collagen	91.3	1353872-1354033	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
+IV	1355125	1355274	-1	Col_cuticle_N	42.4	1355125-1355274	PF01484	http://pfam.sanger.ac.uk/family?acc=PF01484

@@ -1,0 +1,5 @@
+#>P	YDR448W	YDR448W	YDR448W	IV	1356065	1357366	1	Transcription coactivator; component of the ADA and SAGA transcriptional adaptor/HAT (histone acetyltransferase) complexes [Source:SGD;Acc:S000002856]
+#>E	YDR448W.1	1.0	1356065-1357369
+IV	1356257	1356385	1.0	SANT_DNA-bd	0	1356257-1356385	PF00249	http://pfam.sanger.ac.uk/family?acc=PF00249
+IV	1356065	1356202	1.0	Znf_ZZ	0	1356065-1356202	PF00569	http://pfam.sanger.ac.uk/family?acc=PF00569
+IV	1357130	1357360	1.0	SWIRM	0	1357130-1357360	PF04433	http://pfam.sanger.ac.uk/family?acc=PF04433

@@ -1,0 +1,6 @@
+#>P	YNL256W	YNL256W	YNL256W	XIV	164623	167094	1	Multifunctional enzyme of the folic acid biosynthesis pathway; has dihydropteroate synthetase, dihydro-6-hydroxymethylpterin pyrophosphokinase, and dihydroneopterin aldolase activities [Source:SGD;Acc:S000005200]
+#>E	YNL256W.1	1.0	164623-167097
+XIV	166147	166935	1.0	Pterin-binding	0	166147-166935	PF00809	http://pfam.sanger.ac.uk/family?acc=PF00809
+XIV	165523	165921	1.0	Hppk	0	165523-165921	PF01288	http://pfam.sanger.ac.uk/family?acc=PF01288
+XIV	165067	165393	1.0	FolB_dom	0	165067-165393	PF02152	http://pfam.sanger.ac.uk/family?acc=PF02152
+XIV	164692	164979	1.0	FolB_dom	0	164692-164979	PF02152	http://pfam.sanger.ac.uk/family?acc=PF02152

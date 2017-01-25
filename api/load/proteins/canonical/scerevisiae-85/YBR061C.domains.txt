@@ -1,0 +1,3 @@
+#>P	YBR061C	YBR061C	YBR061C	II	364790	365719	-1	2'-O-ribose methyltransferase; methylates the 2'-O-ribose of tRNA-Phe, tRNA-Trp, and tRNA-Leu at positions C32 and N34 of the tRNA anticodon loop; crucial biological role likely modification of tRNA-Phe; interacts with Trm732p and Rtt10p in 2'-O-methylation of C32 and N34 substrate tRNAs, respectively [Source:SGD;Acc:S000000265]
+#>E	YBR061C.1	1.0	364787-365719
+II	365099	365659	-1.0	rRNA_MeTrfase_RrmJ/FtsJ	0	365099-365659	PF01728	http://pfam.sanger.ac.uk/family?acc=PF01728

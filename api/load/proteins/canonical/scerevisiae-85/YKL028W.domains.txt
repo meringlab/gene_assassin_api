@@ -1,0 +1,4 @@
+#>P	YKL028W	YKL028W	YKL028W	XI	385758	387203	1	TFIIE large subunit; involved in recruitment of RNA polymerase II to the promoter, activation of TFIIH, and promoter opening [Source:SGD;Acc:S000001511]
+#>E	YKL028W.1	1.0	385758-387206
+XI	386121	386267	1.0	Znf_TFIIB	0	386121-386267	PF08271	http://pfam.sanger.ac.uk/family?acc=PF08271
+XI	385788	386108	1.0	TFIIEa/SarR/Rpc3_HTH_dom	0	385788-386108	PF02002	http://pfam.sanger.ac.uk/family?acc=PF02002

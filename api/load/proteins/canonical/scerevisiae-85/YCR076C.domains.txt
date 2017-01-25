@@ -1,0 +1,3 @@
+#>P	YCR076C	YCR076C	YCR076C	III	249296	250045	-1	Proteasome-binding protein; interacts physically with multiple subunits of the 20S proteasome and genetically with genes encoding 20S core particle and 19S regulatory particle subunits; exhibits boundary activity which blocks the propagation of heterochromatic silencing; contains a PI31 proteasome regulator domain and sequence similarity with human PSMF1, a proteasome inhibitor; not an essential gene [Source:SGD;Acc:S000000672]
+#>E	YCR076C.1	1.0	249293-250045
+III	249359	249553	-1.0	PI31_Prot_Reg	0	249359-249553	PF08577	http://pfam.sanger.ac.uk/family?acc=PF08577

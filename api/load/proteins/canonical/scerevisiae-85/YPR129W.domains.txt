@@ -1,0 +1,4 @@
+#>P	YPR129W	YPR129W	YPR129W	XVI	792687	793733	1	Repressor of translation initiation; binds eIF4G through its RGG domain and inhibits recruitment of the preinitiation complex; also contains an Lsm domain; may have a role in RNA processing; overproduction suppresses null mutation in clathrin heavy chain gene CHC1; forms cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000006333]
+#>E	YPR129W.1	1.0	792687-793736
+XVI	793287	793526	1.0	DFDF_motif	0	793287-793526	PF09532	http://pfam.sanger.ac.uk/family?acc=PF09532
+XVI	792687	792935	1.0	Lsm14_N	0	792687-792935	PF12701	http://pfam.sanger.ac.uk/family?acc=PF12701

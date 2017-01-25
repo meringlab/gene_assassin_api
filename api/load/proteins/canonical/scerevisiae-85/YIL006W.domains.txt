@@ -1,0 +1,5 @@
+#>P	YIL006W	YIL006W	YIL006W	IX	344062	345180	1	Mitochondrial NAD+ transporter; involved in the transport of NAD+ into the mitochondria (see also YEA6); member of the mitochondrial carrier subfamily; disputed role as a pyruvate transporter; has putative mouse and human orthologs; YIA6 has a paralog, YEA6, that arose from the whole genome duplication [Source:SGD;Acc:S000001268]
+#>E	YIL006W.1	1.0	344062-345183
+IX	344584	344853	1.0	Mitochondrial_sb/sol_carrier	0	344584-344853	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IX	344296	344565	1.0	Mitochondrial_sb/sol_carrier	0	344296-344565	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IX	344890	345159	1.0	Mitochondrial_sb/sol_carrier	0	344890-345159	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

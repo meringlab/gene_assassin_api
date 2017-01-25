@@ -1,0 +1,3 @@
+#>P	YPR065W	YPR065W	YPR065W	XVI	679693	680796	1	Heme-dependent repressor of hypoxic genes; mediates aerobic transcriptional repression of hypoxia induced genes such as COX5b and CYC7; repressor function regulated through decreased promoter occupancy in response to oxidative stress; contains an HMG domain that is responsible for DNA bending activity; involved in the hyperosmotic stress resistance [Source:SGD;Acc:S000006269]
+#>E	YPR065W.1	1.0	679693-680799
+XVI	679720	679941	1.0	HMG_superfamily	0	679720-679941	PF00505	http://pfam.sanger.ac.uk/family?acc=PF00505

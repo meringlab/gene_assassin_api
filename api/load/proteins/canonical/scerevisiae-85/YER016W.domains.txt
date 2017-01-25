@@ -1,0 +1,4 @@
+#>P	YER016W	YER016W	YER016W	V	188277	189308	1	Microtubule plus end-tracking protein; together with Kar9p makes up the cortical microtubule capture site and delays the exit from mitosis when the spindle is oriented abnormally [Source:SGD;Acc:S000000818]
+#>E	YER016W.1	1.0	188277-189311
+V	188910	189098	1.0	EB1_C	0	188910-189098	PF03271	http://pfam.sanger.ac.uk/family?acc=PF03271
+V	188304	188591	1.0	CH-domain	0	188304-188591	PF00307	http://pfam.sanger.ac.uk/family?acc=PF00307

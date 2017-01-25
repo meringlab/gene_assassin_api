@@ -1,0 +1,4 @@
+#>P	YLR452C	YLR452C	YLR452C	XII	1039273	1041366	-1	GTPase-activating protein for Gpa1p; regulates desensitization to alpha factor pheromone; also required to prevent receptor-independent signaling of the mating pathway; member of the RGS (regulator of G-protein signaling) family [Source:SGD;Acc:S000004444]
+#>E	YLR452C.1	1.0	1039270-1041366
+XII	1039759	1040106	-1.0	Regulat_G_prot_signal	0	1039759-1040106	PF00615	http://pfam.sanger.ac.uk/family?acc=PF00615
+XII	1040302	1040502	-1.0	DEP_dom	0	1040302-1040502	PF00610	http://pfam.sanger.ac.uk/family?acc=PF00610

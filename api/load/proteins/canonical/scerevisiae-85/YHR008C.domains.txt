@@ -1,0 +1,4 @@
+#>P	YHR008C	YHR008C	YHR008C	VIII	122892	123590	-1	Mitochondrial manganese superoxide dismutase; protects cells against oxygen toxicity; phosphorylated [Source:SGD;Acc:S000001050]
+#>E	YHR008C.1	1.0	122889-123590
+VIII	123246	123506	-1.0	Mn/Fe_SOD_N	0	123246-123506	PF00081	http://pfam.sanger.ac.uk/family?acc=PF00081
+VIII	122907	123218	-1.0	Mn/Fe_SOD_C	0	122907-123218	PF02777	http://pfam.sanger.ac.uk/family?acc=PF02777

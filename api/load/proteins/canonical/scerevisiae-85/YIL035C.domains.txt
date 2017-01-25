@@ -1,0 +1,3 @@
+#>P	YIL035C	YIL035C	YIL035C	IX	287793	288908	-1	Alpha catalytic subunit of casein kinase 2 (CK2); a Ser/Thr protein kinase with roles in cell growth and proliferation; CK2, comprised of CKA1, CKA2, CKB1 and CKB2, has many substrates including transcription factors and all RNA polymerases; regulates Fkh1p-mediated donor preference during mating-type switching [Source:SGD;Acc:S000001297]
+#>E	YIL035C.1	1.0	287790-288908
+IX	287820	288791	-1.0	Prot_kinase_cat_dom	0	287820-288791	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

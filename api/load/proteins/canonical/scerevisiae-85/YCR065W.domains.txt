@@ -1,0 +1,3 @@
+#>P	YCR065W	YCR065W	YCR065W	III	229310	231001	1	Forkhead transcription factor; drives S-phase specific expression of genes involved in chromosome segregation, spindle dynamics, and budding; suppressor of calmodulin mutants with specific SPB assembly defects; telomere maintenance role; regulates replicative lifespan; ortholog of C. elegans lifespan regulator PHA-4 [Source:SGD;Acc:S000000661]
+#>E	YCR065W.1	1.0	229310-231004
+III	229634	229894	1.0	TF_fork_head	0	229634-229894	PF00250	http://pfam.sanger.ac.uk/family?acc=PF00250

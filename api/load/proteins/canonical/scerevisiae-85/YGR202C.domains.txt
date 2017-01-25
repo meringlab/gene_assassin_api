@@ -1,0 +1,3 @@
+#>P	YGR202C	YGR202C	YGR202C	VII	903477	904748	-1	Cholinephosphate cytidylyltransferase; a rate-determining enzyme of the CDP-choline pathway for phosphatidylcholine synthesis, inhibited by Sec14p, activated upon lipid-binding; contains an element within the regulatory domain involved in both silencing and activation of enzymatic activity [Source:SGD;Acc:S000003434]
+#>E	YGR202C.1	1.0	903474-904748
+VII	904047	904430	-1.0	Cytidylyltransf	0	904047-904430	PF01467	http://pfam.sanger.ac.uk/family?acc=PF01467

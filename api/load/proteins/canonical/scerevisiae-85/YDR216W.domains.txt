@@ -1,0 +1,4 @@
+#>P	YDR216W	YDR216W	YDR216W	IV	895035	899003	1	Carbon source-responsive zinc-finger transcription factor; required for transcription of the glucose-repressed gene ADH2, of peroxisomal protein genes, and of genes required for ethanol, glycerol, and fatty acid utilization [Source:SGD;Acc:S000002624]
+#>E	YDR216W.1	1.0	895035-899006
+IV	895344	895412	1.0	Znf_C2H2	0	895344-895412	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+IV	895428	895499	1.0	Znf_C2H2	0	895428-895499	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

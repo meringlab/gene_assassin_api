@@ -1,0 +1,5 @@
+#>P	YDL141W	YDL141W	YDL141W	IV	203039	205108	1	Biotin:apoprotein ligase; covalently modifies proteins with the addition of biotin, required for acetyl-CoA carboxylase (Acc1p) holoenzyme formation [Source:SGD;Acc:S000002300]
+#>E	YDL141W.1	1.0	203039-205111
+IV	203039	204160	1.0	Biotin-prot_ligase_N	0	203039-204160	PF09825	http://pfam.sanger.ac.uk/family?acc=PF09825
+IV	204194	204697	1.0	BPL_LipA_LipB	0	204194-204697	PF03099	http://pfam.sanger.ac.uk/family?acc=PF03099
+IV	204905	205084	1.0	BPL_C	0	204905-205084	PF02237	http://pfam.sanger.ac.uk/family?acc=PF02237

@@ -1,0 +1,5 @@
+#>P	YGR091W	YGR091W	YGR091W	VII	666341	667822	1	Splicing factor; component of the U4/U6-U5 snRNP complex [Source:SGD;Acc:S000003323]
+#>E	YGR091W.1	1.0	666341-667825
+VII	667388	667759	1.0	Prp31_C	0	667388-667759	PF09785	http://pfam.sanger.ac.uk/family?acc=PF09785
+VII	666635	666778	1.0	NOSIC	0	666635-666778	PF08060	http://pfam.sanger.ac.uk/family?acc=PF08060
+VII	666929	667378	1.0	SnoRNA-bd_dom	0	666929-667378	PF01798	http://pfam.sanger.ac.uk/family?acc=PF01798

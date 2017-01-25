@@ -1,0 +1,3 @@
+#>P	YFL056C	YFL056C	YFL056C	VI	14796	15431	-1	Putative aryl-alcohol dehydrogenase; involved in oxidative stress response; similar to P. chrysosporium aryl-alcohol dehydrogenase; ORFs AAD6/YFL056C and AAD16/YFL057C are displaced from one another by -1 frameshift; members of the AAD gene family comprise three pairs (AAD3 + AAD15, AAD6/AAD16 + AAD4, AAD10 + AAD14) whose two genes are more related to one another than to other members of the family; expression induced in cells treated with the mycotoxin patulin [Source:SGD;Acc:S000001838]
+#>E	YFL056C.1	1.0	14793-15431
+VI	14916	15341	-1.0	NADP_OxRdtase_dom	0	14916-15341	PF00248	http://pfam.sanger.ac.uk/family?acc=PF00248

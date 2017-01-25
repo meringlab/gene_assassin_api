@@ -1,0 +1,3 @@
+#>P	YDR463W	YDR463W	YDR463W	IV	1386816	1388372	1	Transcription factor; contains a N-terminal regulatory motif (RI) that acts as a cytoplasmic retention determinant and as an Asi dependent degron in the nucleus; undergoes proteolytic processing by SPS (Ssy1p-Ptr3p-Ssy5p)-sensor component Ssy5p in response to extracellular amino acids; activates transcription of amino acid permease genes and may have a role in tRNA processing; STP1 has a paralog, STP2, that arose from the whole genome duplication [Source:SGD;Acc:S000002871]
+#>E	YDR463W.1	1.0	1386816-1388375
+IV	1387293	1387361	1.0	Znf_C2H2	0	1387293-1387361	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

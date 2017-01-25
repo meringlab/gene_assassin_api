@@ -1,0 +1,4 @@
+#>P	YOR046C	YOR046C	YOR046C	XV	414462	415907	-1	Cytoplasmic ATP-dependent RNA helicase of the DEAD-box family; involved in mRNA export from the nucleus, remodeling messenger ribonucleoprotein particles (mRNPs), with ATPase activity stimulated by Gle1p, IP6 and Nup159p; involved in translation termination along with Sup45p (eRF1); role in the cellular response to heat stress [Source:SGD;Acc:S000005572]
+#>E	YOR046C.1	1.0	414459-415907
+XV	414615	414863	-1.0	Helicase_C	0	414615-414863	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XV	415074	415559	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	415074-415559	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

@@ -1,0 +1,4 @@
+#>P	YGR214W	YGR214W	YGR214W	VII	920575	921785	1	Ribosomal 40S subunit protein S0A; required for maturation of 18S rRNA along with Rps0Bp; deletion of either RPS0 gene reduces growth rate, deletion of both genes is lethal; homologous to human ribosomal protein SA and bacterial S2; RPS0A has a paralog, RPS0B, that arose from the whole genome duplication; [Source:SGD;Acc:S000003446]
+#>E	YGR214W.1,YGR214W.2	1,1	920575-920664,921120-921788
+VII	921375	921578	1	Ribosomal_S2	0	921375-921578	PF00318	http://pfam.sanger.ac.uk/family?acc=PF00318
+VII	920623	921365	1	Ribosomal_S2	0	920623-920664,921120-921365	PF00318	http://pfam.sanger.ac.uk/family?acc=PF00318

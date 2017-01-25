@@ -1,0 +1,6 @@
+#>P	YKR086W	YKR086W	YKR086W	XI	599857	603069	1	DEAH-box RNA helicase involved in second catalytic step of splicing and in exon ligation; exhibits ATP-dependent RNA unwinding activity; mediates the release of Yju2p and Cwc25p in the second step; in the absence of ATP, stabilizes the binding of Cwc25p to the spliceosome in the first catalytic step; missense mutation in human ortholog DHX38 associated with early-onset retinitis pigmentosa [Source:SGD;Acc:S000001794]
+#>E	YKR086W.1	1.0	599857-603072
+XI	600925	601389	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	600925-601389	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+XI	601657	601935	1.0	Helicase_C	0	601657-601935	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XI	602494	602793	1.0	DUF1605	0	602494-602793	PF07717	http://pfam.sanger.ac.uk/family?acc=PF07717
+XI	602125	602394	1.0	Helicase-assoc_dom	0	602125-602394	PF04408	http://pfam.sanger.ac.uk/family?acc=PF04408

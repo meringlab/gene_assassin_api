@@ -1,0 +1,6 @@
+#>P	YFL004W	YFL004W	YFL004W	VI	131810	134293	1	Subunit of vacuolar transporter chaperone (VTC) complex; involved in membrane trafficking, vacuolar polyphosphate accumulation, microautophagy and non-autophagic vacuolar fusion; VTC2 has a paralog, VTC3, that arose from the whole genome duplication [Source:SGD;Acc:S000001890]
+#>E	YFL004W.1	1.0	131810-134296
+VI	133865	134059	1.0	DUF202	0	133865-134059	PF02656	http://pfam.sanger.ac.uk/family?acc=PF02656
+VI	131810	132085	1.0	SPX_N	0	131810-132085	PF03105	http://pfam.sanger.ac.uk/family?acc=PF03105
+VI	132110	132235	1.0	SPX_N	0	132110-132235	PF03105	http://pfam.sanger.ac.uk/family?acc=PF03105
+VI	132413	133402	1.0	VTC_domain	0	132413-133402	PF09359	http://pfam.sanger.ac.uk/family?acc=PF09359

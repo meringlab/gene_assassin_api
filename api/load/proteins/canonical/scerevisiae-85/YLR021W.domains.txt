@@ -1,0 +1,3 @@
+#>P	YLR021W	YLR021W	YLR021W	XII	183623	184159	1	Component of a heterodimeric Poc4p-Irc25p chaperone; involved in assembly of alpha subunits into the 20S proteasome; may regulate formation of proteasome isoforms with alternative subunits under different conditions [Source:SGD;Acc:S000004011]
+#>E	YLR021W.1	1.0	183623-184162
+XII	183623	184144	1.0	Psome_chaperone_3/4_fun	0	183623-184144	PF10448	http://pfam.sanger.ac.uk/family?acc=PF10448

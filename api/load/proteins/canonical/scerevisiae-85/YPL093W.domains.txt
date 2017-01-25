@@ -1,0 +1,4 @@
+#>P	YPL093W	YPL093W	YPL093W	XVI	370978	372918	1	Putative GTPase; associates with free 60S ribosomal subunits in the nucleolus and is required for 60S ribosomal subunit biogenesis; constituent of 66S pre-ribosomal particles; member of the ODN family of nucleolar G-proteins [Source:SGD;Acc:S000006014]
+#>E	YPL093W.1	1.0	370978-372921
+XVI	372160	372324	1.0	NOG_C	0	372160-372324	PF08155	http://pfam.sanger.ac.uk/family?acc=PF08155
+XVI	371677	371850	1.0	NOG1_Rossman_fold_dom	0	371677-371850	PF06858	http://pfam.sanger.ac.uk/family?acc=PF06858

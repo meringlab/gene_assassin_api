@@ -1,0 +1,4 @@
+#>P	YGR093W	YGR093W	YGR093W	VII	670388	671908	1	Splicing factor that modulates turnover of branched RNAs by Dbr1p; interacts with spliceosomal components and branched RNA splicing products; enhances Dbr1p debranching in vitro; conserved protein with domain organization identical from yeast to human; N-terminal homology to Dbr1p N-terminus, but Dbr1p catalytic residues not conserved; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000003325]
+#>E	YGR093W.1	1.0	670388-671911
+VII	671156	671530	1.0	Cwf19-like_C_dom-1	0	671156-671530	PF04677	http://pfam.sanger.ac.uk/family?acc=PF04677
+VII	671573	671893	1.0	Cwf19-like_C_dom-2	0	671573-671893	PF04676	http://pfam.sanger.ac.uk/family?acc=PF04676

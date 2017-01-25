@@ -1,0 +1,3 @@
+#>P	YCR008W	YCR008W	YCR008W	III	128470	130278	1	Ser/Thr protein kinase involved in salt tolerance; funtions in regulation of Trk1p-Trk2p potassium transporter; overexpression affects the Fe-S and lipoamide containing proteins in the mitochondrion; required for lipoylation of Lat1p, Kgd2p and Gcv3p; partially redundant with Hal5p; has similarity to Npr1p; localizes to the cytoplasm and mitochondrion [Source:SGD;Acc:S000000601]
+#>E	YCR008W.1	1.0	128470-130281
+III	129421	130236	1.0	Prot_kinase_cat_dom	0	129421-130236	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

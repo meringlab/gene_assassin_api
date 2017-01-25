@@ -1,0 +1,3 @@
+#>P	YDR511W	YDR511W	YDR511W	IV	1470017	1470415	1	Mitochondrial protein involved in assembly of succinate dehydrogenase; has a role in maturation of the Sdh2p subunit; localized to the mitochondrial intermembrane space; required for acetate utilization and gluconeogenesis; mutation in Drosophila ortholog SDHAF3 causes reduced succinate dehydrogenase activity and neuronal and muscular dysfunction; member of the LYR protein family [Source:SGD;Acc:S000002919]
+#>E	YDR511W.1	1.0	1470017-1470418
+IV	1470083	1470250	1.0	Complex1_LYR	0	1470083-1470250	PF05347	http://pfam.sanger.ac.uk/family?acc=PF05347

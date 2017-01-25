@@ -1,0 +1,5 @@
+#>P	YNL123W	YNL123W	YNL123W	XIV	394685	397675	1	Serine protease and general molecular chaperone; involved in response to heat stress and promotion of apoptosis; may contribute to lipid homeostasis; sequence similarity to the mammalian Omi/HtrA2 family of serine proteases [Source:SGD;Acc:S000005067]
+#>E	YNL123W.1	1.0	394685-397678
+XIV	395558	395809	1.0	PDZ/DHR/GLGF	0	395558-395809	PF00595	http://pfam.sanger.ac.uk/family?acc=PF00595
+XIV	395858	396091	1.0	PDZ-like_dom	0	395858-396091	PF12812	http://pfam.sanger.ac.uk/family?acc=PF12812
+XIV	397289	397516	1.0	PDZ-like_dom	0	397289-397516	PF12812	http://pfam.sanger.ac.uk/family?acc=PF12812

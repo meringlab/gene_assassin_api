@@ -1,6 +1,0 @@
-#>P	ENSDARG00000091521	ENSDART00000126424	ENSDARP00000106543	7	747449	751073	1	mitogen-activated protein kinase kinase kinase 11 [Source:HGNC Symbol;Acc:HGNC:6850]
-#>E	ENSDARE00000914712,ENSDARE00000948878	1,1	747449-747717,750587-751076
-7	750669	751052	1	Prot_kinase_dom	98.4	750669-751052	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
-7	750663	751052	1	Ser-Thr/Tyr_kinase_cat_dom	94.2	750663-751052	PF07714	http://pfam.sanger.ac.uk/family?acc=PF07714
-7	747545	747706	1	SH3_2	50.4	747545-747706	PF07653	http://pfam.sanger.ac.uk/family?acc=PF07653
-7	747542	747694	1	SH3_domain	47.4	747542-747694	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018

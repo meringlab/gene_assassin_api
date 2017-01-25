@@ -1,0 +1,4 @@
+#>P	YMR307W	YMR307W	YMR307W	XIII	887003	888679	1	Beta-1,3-glucanosyltransferase; required for cell wall assembly and also has a role in transcriptional silencing; localizes to cell surface via a glycosylphosphatidylinositol (GPI) anchor; also found at nuclear periphery; genetic interactions with histone H3 lysine acetyltransferases GCN5 and SAS3 indicate previously unsuspected functions for Gas1 in DNA damage response and cell cycle regulation [Source:SGD;Acc:S000004924]
+#>E	YMR307W.1	1.0	887003-888682
+XIII	888134	888358	1.0	X8	0	888134-888358	PF07983	http://pfam.sanger.ac.uk/family?acc=PF07983
+XIII	887060	887992	1.0	GAS1	0	887060-887992	PF03198	http://pfam.sanger.ac.uk/family?acc=PF03198

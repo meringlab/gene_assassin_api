@@ -1,0 +1,6 @@
+#>P	YKL173W	YKL173W	YKL173W	XI	122517	125540	1	GTPase component of U5 snRNP involved in mRNA splicing via spliceosome; binds directly to U5 snRNA; proposed to be involved in conformational changes of the spliceosome; similarity to ribosomal translocation factor EF-2 [Source:SGD;Acc:S000001656]
+#>E	YKL173W.1	1.0	122517-125543
+XI	123960	124250	1.0	Transl_elong_EFTu/EF1A_2	0	123960-124250	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144
+XI	122907	123488	1.0	ProtSyn_GTP-bd	0	122907-123488	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+XI	124743	125075	1.0	Transl_elong_EFG/EF2_IV	0	124743-125075	PF03764	http://pfam.sanger.ac.uk/family?acc=PF03764
+XI	125082	125357	1.0	Transl_elong_EFG/EF2_C	0	125082-125357	PF00679	http://pfam.sanger.ac.uk/family?acc=PF00679

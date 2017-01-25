@@ -1,0 +1,11 @@
+#>P	YGL206C	YGL206C	YGL206C	VII	102546	107504	-1	Clathrin heavy chain; subunit of the major coat protein involved in intracellular protein transport and endocytosis; the clathrin triskelion is a trimeric molecule composed of three heavy chains that radiate from a vertex and three light chains which bind noncovalently near the vertex of the triskelion; the light chain (CLC1) is thought to regulate function [Source:SGD;Acc:S000003174]
+#>E	YGL206C.1	1.0	102543-107504
+VII	105009	105425	-1.0	Clathrin_H-chain/VPS_repeat	0	105009-105425	PF00637	http://pfam.sanger.ac.uk/family?acc=PF00637
+VII	102798	103220	-1.0	Clathrin_H-chain/VPS_repeat	0	102798-103220	PF00637	http://pfam.sanger.ac.uk/family?acc=PF00637
+VII	103236	103667	-1.0	Clathrin_H-chain/VPS_repeat	0	103236-103667	PF00637	http://pfam.sanger.ac.uk/family?acc=PF00637
+VII	104133	104549	-1.0	Clathrin_H-chain/VPS_repeat	0	104133-104549	PF00637	http://pfam.sanger.ac.uk/family?acc=PF00637
+VII	105483	105872	-1.0	Clathrin_H-chain/VPS_repeat	0	105483-105872	PF00637	http://pfam.sanger.ac.uk/family?acc=PF00637
+VII	104583	104987	-1.0	Clathrin_H-chain/VPS_repeat	0	104583-104987	PF00637	http://pfam.sanger.ac.uk/family?acc=PF00637
+VII	103686	104102	-1.0	Clathrin_H-chain/VPS_repeat	0	103686-104102	PF00637	http://pfam.sanger.ac.uk/family?acc=PF00637
+VII	106425	106493	-1.0	Clathrin_H-chain_linker_core	0	106425-106493	PF09268	http://pfam.sanger.ac.uk/family?acc=PF09268
+VII	106938	107054	-1.0	Clathrin_H-chain_propeller_rpt	0	106938-107054	PF01394	http://pfam.sanger.ac.uk/family?acc=PF01394

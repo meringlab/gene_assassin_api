@@ -1,0 +1,3 @@
+#>P	YJL094C	YJL094C	YJL094C	X	251824	254442	-1	Putative K+/H+ antiporter; has a probable role in intracellular cation homeostasis; localized to Golgi vesicles and detected in highly purified mitochondria in high-throughput studies [Source:SGD;Acc:S000003630]
+#>E	YJL094C.1	1.0	251821-254442
+X	253168	254346	-1.0	Cation/H_exchanger	0	253168-254346	PF00999	http://pfam.sanger.ac.uk/family?acc=PF00999

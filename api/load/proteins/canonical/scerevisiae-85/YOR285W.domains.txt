@@ -1,0 +1,3 @@
+#>P	YOR285W	YOR285W	YOR285W	XV	849635	850051	1	Thiosulfate sulfurtransferase; contains a rhodanese-like domain; localized to the mitochondrial outer membrane; protein abundance increases in response to DNA replication stress; similar to the human TSTD gene [Source:SGD;Acc:S000005811]
+#>E	YOR285W.1	1.0	849635-850054
+XV	849719	850027	1.0	Rhodanese-like	0	849719-850027	PF00581	http://pfam.sanger.ac.uk/family?acc=PF00581

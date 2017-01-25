@@ -1,0 +1,5 @@
+#>P	YMR089C	YMR089C	YMR089C	XIII	445612	448086	-1	Mitochondrial inner membrane m-AAA protease component; mediates degradation of misfolded or unassembled proteins; also required for correct assembly of mitochondrial enzyme complexes [Source:SGD;Acc:S000004695]
+#>E	YMR089C.1	1.0	445609-448086
+XIII	447259	447537	-1.0	Pept_M41_FtsH_extracell	0	447259-447537	PF06480	http://pfam.sanger.ac.uk/family?acc=PF06480
+XIII	446536	446934	-1.0	ATPase_AAA_core	0	446536-446934	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+XIII	445744	446343	-1.0	Peptidase_M41	0	445744-446343	PF01434	http://pfam.sanger.ac.uk/family?acc=PF01434

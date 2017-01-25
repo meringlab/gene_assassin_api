@@ -1,0 +1,3 @@
+#>P	YDR289C	YDR289C	YDR289C	IV	1038283	1039509	-1	Protein involved in transcription termination by RNA polymerase II; interacts with exonuclease Rat1p and Rai1p; has an RPR domain (carboxy-terminal domain interacting domain); also involved in regulation of Ty1 transposition [Source:SGD;Acc:S000002697]
+#>E	YDR289C.1	1.0	1038280-1039509
+IV	1039150	1039341	-1.0	DUF618	0	1039150-1039341	PF04818	http://pfam.sanger.ac.uk/family?acc=PF04818

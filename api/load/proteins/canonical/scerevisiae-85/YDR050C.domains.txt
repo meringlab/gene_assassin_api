@@ -1,0 +1,3 @@
+#>P	YDR050C	YDR050C	YDR050C	IV	555729	556472	-1	Triose phosphate isomerase, abundant glycolytic enzyme; mRNA half-life is regulated by iron availability; transcription is controlled by activators Reb1p, Gcr1p, and Rap1p through binding sites in the 5' non-coding region; inhibition of Tpi1p activity by PEP (phosphoenolpyruvate) stimulates redox metabolism in respiring cells; E104D mutation in human TPI causes a rare autosomal disease [Source:SGD;Acc:S000002457]
+#>E	YDR050C.1	1.0	555726-556472
+IV	555741	556457	-1.0	Triosephosphate_isomerase	0	555741-556457	PF00121	http://pfam.sanger.ac.uk/family?acc=PF00121

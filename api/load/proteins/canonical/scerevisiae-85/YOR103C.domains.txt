@@ -1,0 +1,3 @@
+#>P	YOR103C	YOR103C	YOR103C	XV	516452	516841	-1	Epsilon subunit of the oligosaccharyltransferase complex; located in the ER lumen; catalyzes asparagine-linked glycosylation of newly synthesized proteins [Source:SGD;Acc:S000005629]
+#>E	YOR103C.1	1.0	516449-516841
+XV	516452	516778	-1.0	DAD	0	516452-516778	PF02109	http://pfam.sanger.ac.uk/family?acc=PF02109

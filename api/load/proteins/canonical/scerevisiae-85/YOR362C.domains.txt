@@ -1,0 +1,4 @@
+#>P	YOR362C	YOR362C	YOR362C	XV	1017883	1018746	-1	Alpha 7 subunit of the 20S proteasome; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005889]
+#>E	YOR362C.1	1.0	1017880-1018746
+XV	1018093	1018656	-1.0	Proteasome_sua/b	0	1018093-1018656	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227
+XV	1018657	1018725	-1.0	Proteasome_asu_N	0	1018657-1018725	PF10584	http://pfam.sanger.ac.uk/family?acc=PF10584

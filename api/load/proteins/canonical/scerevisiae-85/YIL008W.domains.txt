@@ -1,0 +1,3 @@
+#>P	YIL008W	YIL008W	YIL008W	IX	342536	342832	1	Ubiquitin-like protein involved in thiolation of cytoplasmic tRNAs; receives sulfur from the E1-like enzyme Uba4p and transfers it to tRNA; also functions as a protein tag with roles in nutrient sensing and oxidative stress response [Source:SGD;Acc:S000001270]
+#>E	YIL008W.1	1.0	342536-342835
+IX	342542	342832	1.0	Urm1	0	342542-342832	PF09138	http://pfam.sanger.ac.uk/family?acc=PF09138

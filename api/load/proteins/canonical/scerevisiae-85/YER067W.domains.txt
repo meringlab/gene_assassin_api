@@ -1,0 +1,3 @@
+#>P	YER067W	YER067W	YER067W	V	292066	292548	1	Protein of unknown function; involved in energy metabolism under respiratory conditions; protein abundance is increased upon intracellular iron depletion or in response to DNA replication stress; RGI1 has a paralog, RGI2, that arose from the whole genome duplication [Source:SGD;Acc:S000000869]
+#>E	YER067W.1	1.0	292066-292551
+V	292081	292536	1.0	DUF2578	0	292081-292536	PF10843	http://pfam.sanger.ac.uk/family?acc=PF10843

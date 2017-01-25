@@ -1,0 +1,4 @@
+#>P	YKL140W	YKL140W	YKL140W	XI	180779	182422	1	Steryl ester hydrolase; one of three gene products (Yeh1p, Yeh2p, Tgl1p) responsible for steryl ester hydrolase activity and involved in sterol homeostasis; localized to lipid particle membranes [Source:SGD;Acc:S000001623]
+#>E	YKL140W.1	1.0	180779-182425
+XI	180974	181150	1.0	AB_hydrolase_lipase	0	180974-181150	PF04083	http://pfam.sanger.ac.uk/family?acc=PF04083
+XI	181196	181999	1.0	AB_hydrolase_1	0	181196-181999	PF00561	http://pfam.sanger.ac.uk/family?acc=PF00561

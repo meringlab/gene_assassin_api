@@ -1,0 +1,3 @@
+#>P	YIR010W	YIR010W	YIR010W	IX	375431	377158	1	Essential component of the MIND kinetochore complex; joins kinetochore subunits contacting DNA to those contacting microtubules; phosphorylation of Dsn1p promotes interaction between outer and inner kinetochore proteins; N-terminal end interacts with monopolin subunit Csm1p and is essential for meiotic but not mitotic chromosome segregation; important for chromosome segregation; complex consists of Mtw1p Including Nnf1p-Nsl1p-Dsn1p (MIND); modified by sumoylation [Source:SGD;Acc:S000001449]
+#>E	YIR010W.1	1.0	375431-377161
+IX	376100	377146	1.0	Mtw1_DSN1	0	376100-377146	PF08202	http://pfam.sanger.ac.uk/family?acc=PF08202

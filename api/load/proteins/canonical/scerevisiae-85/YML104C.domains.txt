@@ -1,0 +1,5 @@
+#>P	YML104C	YML104C	YML104C	XIII	58942	62322	-1	Intermediate filament protein; required for nuclear and mitochondrial transmission to daughter buds; contains a Phox homology (PX) domain and specifically binds phosphatidylinositol 3-phosphate (PtdIns-3-P) [Source:SGD;Acc:S000004572]
+#>E	YML104C.1	1.0	58939-62322
+XIII	59626	59943	-1.0	Phox	0	59626-59943	PF00787	http://pfam.sanger.ac.uk/family?acc=PF00787
+XIII	61504	62070	-1.0	Phox_assoc	0	61504-62070	PF02194	http://pfam.sanger.ac.uk/family?acc=PF02194
+XIII	59002	59346	-1.0	Sorting_nexin_C	0	59002-59346	PF08628	http://pfam.sanger.ac.uk/family?acc=PF08628

@@ -1,0 +1,4 @@
+#>P	WBGene00018846	F54H12.6	F54H12.6	III	7972467	7973270	-1	Probable elongation factor 1-beta/1-delta 1  [Source:UniProtKB/Swiss-Prot;Acc:P34460]
+#>E	F54H12.6.e3,F54H12.6.e2,F54H12.6.e1	1,1,1	7972464-7972597,7972645-7973075,7973194-7973270
+III	7972802	7972885	-1	EF-1_beta_acid_region_euk	50.6	7972802-7972885	PF10587	http://pfam.sanger.ac.uk/family?acc=PF10587
+III	7972467	7972771	-1	Transl_elong_fac_EF1B_bsu/dsu	116.6	7972467-7972597,7972645-7972771	PF00736	http://pfam.sanger.ac.uk/family?acc=PF00736

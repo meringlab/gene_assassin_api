@@ -1,0 +1,4 @@
+#>P	YBR260C	YBR260C	YBR260C	II	732642	734639	-1	GTPase-activating protein (RhoGAP) for Rho3p and Rho4p; possibly involved in control of actin cytoskeleton organization [Source:SGD;Acc:S000000464]
+#>E	YBR260C.1	1.0	732639-734639
+II	734274	734519	-1.0	FCH	0	734274-734519	PF00611	http://pfam.sanger.ac.uk/family?acc=PF00611
+II	732720	733184	-1.0	RhoGAP_dom	0	732720-733184	PF00620	http://pfam.sanger.ac.uk/family?acc=PF00620

@@ -1,0 +1,8 @@
+#>P	YOR269W	YOR269W	YOR269W	XV	826385	827866	1	Involved in nuclear migration, part of the dynein/dynactin pathway; targets dynein to microtubule tips, which is necessary for sliding of microtubules along bud cortex; serves at interface between dynein's ATPase site and its microtubule binding stalk, causing individual dynein motors to remain attached to microtubules for long periods; synthetic lethal with bni1; homolog of human LIS1, mutations in which cause the severe brain disorder lissencephaly [Source:SGD;Acc:S000005795]
+#>E	YOR269W.1	1.0	826385-827869
+XV	827252	827347	1.0	WD40_repeat	0	827252-827347	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	827369	827542	1.0	WD40_repeat	0	827369-827542	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	827606	827713	1.0	WD40_repeat	0	827606-827713	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	827723	827848	1.0	WD40_repeat	0	827723-827848	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	827117	827233	1.0	WD40_repeat	0	827117-827233	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	826952	827086	1.0	WD40_repeat	0	826952-827086	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

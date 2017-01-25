@@ -1,0 +1,3 @@
+#>P	YPR132W	YPR132W	YPR132W	XVI	794965	795764	1	Ribosomal protein 28 (rp28) of the small (40S) ribosomal subunit; required for translational accuracy; homologous to mammalian ribosomal protein S23 and bacterial S12; RPS23B has a paralog, RPS23A, that arose from the whole genome duplication; deletion of both RPS23A and RPS23B is lethal [Source:SGD;Acc:S000006336]
+#>E	YPR132W.1,YPR132W.2	1,1	794965-795029,795395-795767
+XVI	794998	795761	1	Ribosomal_S12/S23	0	794998-795029,795395-795761	PF00164	http://pfam.sanger.ac.uk/family?acc=PF00164

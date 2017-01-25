@@ -1,0 +1,3 @@
+#>P	YDL100C	YDL100C	YDL100C	IV	282115	283176	-1	Guanine nucleotide exchange factor for Gpa1p; amplifies G protein signaling; functions as a chaperone under ATP-depleted oxidative stress conditions; subunit of the GET complex, which is involved in ATP dependent Golgi to ER trafficking and insertion of tail-anchored (TA) proteins into the ER membrane under non-stress conditions; has low-level ATPase activity; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002258]
+#>E	YDL100C.1	1.0	282112-283176
+IV	282172	283125	-1.0	Anion-transp_ATPase-like_dom	0	282172-283125	PF02374	http://pfam.sanger.ac.uk/family?acc=PF02374

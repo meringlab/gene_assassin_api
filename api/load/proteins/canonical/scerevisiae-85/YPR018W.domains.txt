@@ -1,0 +1,3 @@
+#>P	YPR018W	YPR018W	YPR018W	XVI	594476	596293	1	Largest subunit (p90) of the Chromatin Assembly Complex (CAF-1); chromatin assembly by CAF-1 is important for multiple processes including silencing at telomeres, mating type loci, and rDNA; maintenance of kinetochore structure; deactivation of the DNA damage checkpoint after DNA repair; chromatin dynamics during transcription; and repression of divergent noncoding transcription [Source:SGD;Acc:S000006222]
+#>E	YPR018W.1	1.0	594476-596296
+XVI	595505	595753	1.0	CAF1A	0	595505-595753	PF12253	http://pfam.sanger.ac.uk/family?acc=PF12253

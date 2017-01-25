@@ -1,0 +1,3 @@
+#>P	YHR039C-A	YHR039C-A	YHR039C-A	VIII	187176	187679	-1	Subunit G of the V1 peripheral membrane domain of V-ATPase; part of the electrogenic proton pump found throughout the endomembrane system; involved in vacuolar acidification; the V1 peripheral membrane domain of the vacuolar H+-ATPase (V-ATPase) has eight subunits [Source:SGD;Acc:S000002100]
+#>E	YHR039C-A.2,YHR039C-A.1	1,1	187173-187514,187677-187679
+VIII	187203	187514	-1	V-ATPase_G	0	187203-187514	PF03179	http://pfam.sanger.ac.uk/family?acc=PF03179

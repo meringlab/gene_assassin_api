@@ -1,0 +1,5 @@
+#>P	YPL134C	YPL134C	YPL134C	XVI	298574	299503	-1	Mitochondrial inner membrane transporter; 2-oxodicarboxylate transporter, exports 2-oxoadipate and 2-oxoglutarate from the mitochondrial matrix to the cytosol for lysine and glutamate biosynthesis and lysine catabolism; suppresses, in multicopy, an fmc1 null mutation; ODC1 has a paralog, ODC2, that arose from the whole genome duplication [Source:SGD;Acc:S000006055]
+#>E	YPL134C.1	1.0	298571-299503
+XVI	298598	298864	-1.0	Mitochondrial_sb/sol_carrier	0	298598-298864	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XVI	298886	299128	-1.0	Mitochondrial_sb/sol_carrier	0	298886-299128	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XVI	299171	299479	-1.0	Mitochondrial_sb/sol_carrier	0	299171-299479	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

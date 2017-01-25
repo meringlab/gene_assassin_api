@@ -1,0 +1,3 @@
+#>P	YDL124W	YDL124W	YDL124W	IV	240259	241194	1	NADPH-dependent alpha-keto amide reductase; reduces aromatic alpha-keto amides, aliphatic alpha-keto esters, and aromatic alpha-keto esters; member of the aldo-keto reductase (AKR) family; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002282]
+#>E	YDL124W.1	1.0	240259-241197
+IV	240322	241119	1.0	NADP_OxRdtase_dom	0	240322-241119	PF00248	http://pfam.sanger.ac.uk/family?acc=PF00248

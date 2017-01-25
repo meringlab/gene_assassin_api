@@ -1,0 +1,4 @@
+#>P	YLR305C	YLR305C	YLR305C	XII	738164	743863	-1	Phosphatidylinositol-4-kinase; functions in the Pkc1p protein kinase pathway; required for normal vacuole morphology, cell wall integrity, and actin cytoskeleton organization [Source:SGD;Acc:S000004296]
+#>E	YLR305C.1	1.0	738161-743863
+XII	739235	739819	-1.0	PInositide-3_kin_accessory_dom	0	739235-739819	PF00613	http://pfam.sanger.ac.uk/family?acc=PF00613
+XII	738326	738937	-1.0	PI3/4_kinase_cat_dom	0	738326-738937	PF00454	http://pfam.sanger.ac.uk/family?acc=PF00454

@@ -1,0 +1,3 @@
+#>P	YNL311C	YNL311C	YNL311C	XIV	49400	51688	-1	F-box protein of unknown function; predicted to be part of an SCF ubiquitin protease complex; involved in regulating protein levels of sulfur metabolism enzymes; may interact with ribosomes, based on co-purification experiments [Source:SGD;Acc:S000005255]
+#>E	YNL311C.1	1.0	49397-51688
+XIV	51410	51523	-1.0	F-box_dom_cyclin-like	0	51410-51523	PF00646	http://pfam.sanger.ac.uk/family?acc=PF00646

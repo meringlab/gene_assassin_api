@@ -1,0 +1,4 @@
+#>P	YPR122W	YPR122W	YPR122W	XVI	782045	785668	1	Haploid specific endoprotease of a-factor mating pheromone; performs one of two N-terminal cleavages during maturation of a-factor mating pheromone; required for axial budding pattern of haploid cells [Source:SGD;Acc:S000006326]
+#>E	YPR122W.1	1.0	782045-785671
+XVI	782150	782581	1.0	Pept_M16_N	133.3	782150-782581	PF00675	http://pfam.sanger.ac.uk/family?acc=PF00675
+XVI	782660	783193	1.0	Peptidase_M16_C	27.2	782660-783193	PF05193	http://pfam.sanger.ac.uk/family?acc=PF05193

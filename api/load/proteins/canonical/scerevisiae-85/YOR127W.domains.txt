@@ -1,0 +1,4 @@
+#>P	YOR127W	YOR127W	YOR127W	XV	561170	564190	1	GTPase-activating protein for polarity-establishment protein Cdc42p; implicated in control of septin organization, pheromone response, and haploid invasive growth; relocalizes from bud neck to cytoplasm upon DNA replication stress; RGA1 has a paralog, RGA2, that arose from the whole genome duplication [Source:SGD;Acc:S000005653]
+#>E	YOR127W.1	1.0	561170-564193
+XV	561377	561544	1.0	Znf_LIM	0	561377-561544	PF00412	http://pfam.sanger.ac.uk/family?acc=PF00412
+XV	563582	564115	1.0	RhoGAP_dom	0	563582-564115	PF00620	http://pfam.sanger.ac.uk/family?acc=PF00620

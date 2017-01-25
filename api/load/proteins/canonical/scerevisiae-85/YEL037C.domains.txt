@@ -1,0 +1,6 @@
+#>P	YEL037C	YEL037C	YEL037C	V	81410	82603	-1	Protein with ubiquitin-like N terminus; subunit of Nuclear Excision Repair Factor 2 (NEF2) with Rad4p that binds damaged DNA; enhances protein deglycosylation activity of Png1p; also involved, with Rad4p, in ubiquitylated protein turnover [Source:SGD;Acc:S000000763]
+#>E	YEL037C.1	1.0	81407-82603
+V	82379	82585	-1.0	Ubiquitin	0	82379-82585	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240
+V	81428	81535	-1.0	UBA/transl_elong_EF1B_N	0	81428-81535	PF00627	http://pfam.sanger.ac.uk/family?acc=PF00627
+V	82055	82159	-1.0	UBA/transl_elong_EF1B_N	0	82055-82159	PF00627	http://pfam.sanger.ac.uk/family?acc=PF00627
+V	81680	81823	-1.0	XPC-bd	0	81680-81823	PF09280	http://pfam.sanger.ac.uk/family?acc=PF09280

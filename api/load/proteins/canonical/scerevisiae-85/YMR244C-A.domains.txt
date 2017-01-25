@@ -1,0 +1,3 @@
+#>P	YMR244C-A	YMR244C-A	YMR244C-A	XIII	758520	758831	-1	Protein involved in cytochrome c oxidase (Complex IV) assembly; involved in delivery of copper to Complex IV; also required for efficient formation of respiratory supercomplexes comprised of Complexes III and IV; localizes to the mitochondrial intermembrane space; ortholog implicated in cardiac defects in zebrafish and human; transcription is induced in response to the DNA-damaging agent MMS; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004857]
+#>E	YMR244C-A.1	1.0	758517-758831
+XIII	758559	758783	-1.0	Cyt_c_oxidase_su6B	0	758559-758783	PF02297	http://pfam.sanger.ac.uk/family?acc=PF02297

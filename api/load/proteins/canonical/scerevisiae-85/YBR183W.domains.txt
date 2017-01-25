@@ -1,0 +1,3 @@
+#>P	YBR183W	YBR183W	YBR183W	II	596115	597062	1	Alkaline ceramidase; also has reverse (CoA-independent) ceramide synthase activity; catalyzes both breakdown and synthesis of phytoceramide; overexpression confers fumonisin B1 resistance; YPC1 has a paralog, YDC1, that arose from the whole genome duplication [Source:SGD;Acc:S000000387]
+#>E	YBR183W.1	1.0	596115-597065
+II	596157	596969	1.0	Ceramidase	0	596157-596969	PF05875	http://pfam.sanger.ac.uk/family?acc=PF05875

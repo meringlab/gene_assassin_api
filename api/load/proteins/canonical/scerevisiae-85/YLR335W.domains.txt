@@ -1,0 +1,4 @@
+#>P	YLR335W	YLR335W	YLR335W	XII	797430	799589	1	Nucleoporin involved in nucleocytoplasmic transport; binds to either the nucleoplasmic or cytoplasmic faces of the nuclear pore complex depending on Ran-GTP levels; also has a role in chromatin organization [Source:SGD;Acc:S000004327]
+#>E	YLR335W.1	1.0	797430-799592
+XII	799221	799583	1.0	RanBP	0	799221-799583	PF00638	http://pfam.sanger.ac.uk/family?acc=PF00638
+XII	797433	797645	1.0	NUP2/50/61	0	797433-797645	PF08911	http://pfam.sanger.ac.uk/family?acc=PF08911

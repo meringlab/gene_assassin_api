@@ -1,0 +1,4 @@
+#>P	YLR191W	YLR191W	YLR191W	XII	537272	538429	1	Peroxisomal importomer complex component; integral peroxisomal membrane protein required for docking and translocation of peroxisomal matrix proteins; interacts with the PTS1 signal recognition factor Pex5p and the PTS2 signal recognition factor Pex7p; forms a complex with Pex14p and Pex17p [Source:SGD;Acc:S000004181]
+#>E	YLR191W.1	1.0	537272-538432
+XII	538205	538360	1.0	SH3_domain	0	538205-538360	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+XII	537647	538120	1.0	Peroxin-13_N	0	537647-538120	PF04088	http://pfam.sanger.ac.uk/family?acc=PF04088

@@ -1,0 +1,4 @@
+#>P	YNL227C	YNL227C	YNL227C	XIV	220662	222431	-1	Co-chaperone that stimulates the ATPase activity of Ssa1p; required for a late step of ribosome biogenesis; associated with the cytosolic large ribosomal subunit; contains a J-domain; mutation causes defects in fluid-phase endocytosis [Source:SGD;Acc:S000005171]
+#>E	YNL227C.1	1.0	220659-222431
+XIV	221343	221420	-1.0	Znf_C2H2_jaz	0	221343-221420	PF12171	http://pfam.sanger.ac.uk/family?acc=PF12171
+XIV	222231	222419	-1.0	DnaJ_N	0	222231-222419	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226

@@ -1,0 +1,4 @@
+#>P	YBL079W	YBL079W	YBL079W	II	75259	79764	1	Subunit of the inner ring of the nuclear pore complex (NPC); contributes to NPC assembly and nucleocytoplasmic transport; both Nup170p and NUP157p are similar to human Nup155p; NUP170 has a paralog, NUP157, that arose from the whole genome duplication [Source:SGD;Acc:S000000175]
+#>E	YBL079W.1	1.0	75259-79767
+II	75685	77205	1.0	Nucleoporin_Nup133/Nup155_N	0	75685-77205	PF08801	http://pfam.sanger.ac.uk/family?acc=PF08801
+II	77752	79434	1.0	Nucleoporin_Nup133/Nup155_C	0	77752-79434	PF03177	http://pfam.sanger.ac.uk/family?acc=PF03177

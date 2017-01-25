@@ -1,0 +1,3 @@
+#>P	YMR044W	YMR044W	YMR044W	XIII	355384	356808	1	Member of a complex (Isw1b) with Isw1p and Ioc2p; interacts directly with H3K36me3 nucleosomes through its PWWP domain to recruit the Isw1b complex to open reading frames in a Set2p-dependent manner; Isw1b exhibits nucleosome-stimulated ATPase activity and acts within coding regions to coordinate transcription elongation with termination and processing [Source:SGD;Acc:S000004647]
+#>E	YMR044W.1	1.0	355384-356811
+XIII	355399	355602	1.0	PWWP	0	355399-355602	PF00855	http://pfam.sanger.ac.uk/family?acc=PF00855

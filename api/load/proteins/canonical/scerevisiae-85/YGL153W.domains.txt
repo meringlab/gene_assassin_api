@@ -1,0 +1,3 @@
+#>P	YGL153W	YGL153W	YGL153W	VII	216273	217295	1	Central component of the peroxisomal importomer complex; peroxisomal protein import machinery docking complex component; interacts with both PTS1 (Pex5p) and PTS2 (Pex7p), peroxisomal matrix protein signal recognition factors and membrane receptor Pex13p [Source:SGD;Acc:S000003121]
+#>E	YGL153W.1	1.0	216273-217298
+VII	216294	216641	1.0	Pex14_N	0	216294-216641	PF04695	http://pfam.sanger.ac.uk/family?acc=PF04695

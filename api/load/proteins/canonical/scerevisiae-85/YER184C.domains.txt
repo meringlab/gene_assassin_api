@@ -1,0 +1,4 @@
+#>P	YER184C	YER184C	YER184C	V	556299	558680	-1	Transcriptional activator of oleate genes; regulates genes involved in fatty acid utilization; zinc cluster protein; deletion confers sensitivity to Calcufluor white, and prevents growth on glycerol or lactate as sole carbon source [Source:SGD;Acc:S000000986]
+#>E	YER184C.1	1.0	556296-558680
+V	558528	558635	-1.0	Zn2-C6_fun-type_DNA-bd	0	558528-558635	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+V	557229	557897	-1.0	Transcription_factor_fun	0	557229-557897	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082

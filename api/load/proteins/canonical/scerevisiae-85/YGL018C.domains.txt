@@ -1,0 +1,4 @@
+#>P	YGL018C	YGL018C	YGL018C	VII	459113	459664	-1	Specialized J-protein that functions in Fe-S cluster biogenesis; functions with Hsp70 in Fe-S cluster biogenesis in mitochondria; involved in iron metabolism; contains a J domain typical to J-type chaperones; localizes to the mitochondrial matrix [Source:SGD;Acc:S000002986]
+#>E	YGL018C.1	1.0	459110-459664
+VII	459431	459622	-1.0	DnaJ_N	0	459431-459622	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226
+VII	459149	459367	-1.0	Heat_shock_cognate_B_oligo_C	0	459149-459367	PF07743	http://pfam.sanger.ac.uk/family?acc=PF07743

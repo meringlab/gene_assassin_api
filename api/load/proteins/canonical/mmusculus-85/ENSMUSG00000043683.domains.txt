@@ -1,0 +1,5 @@
+#>P	ENSMUSG00000043683	ENSMUST00000060253	ENSMUSP00000057996	17	56256909	56258870	1	feminization 1 homolog a (C. elegans) [Source:MGI Symbol;Acc:MGI:1335089]
+#>E	ENSMUSE00000382073	1.0	56256909-56258873
+17	56257452	56257619	1.0	Ankyrin_rpt-contain_dom	168.1	56257452-56257619	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796
+17	56256918	56257115	1.0	Ankyrin_rpt-contain_dom	168.1	56256918-56257115	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796
+17	56257170	56257445	1.0	Ankyrin_rpt-contain_dom	168.1	56257170-56257445	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796

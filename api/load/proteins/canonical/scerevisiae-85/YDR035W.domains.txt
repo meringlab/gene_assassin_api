@@ -1,0 +1,3 @@
+#>P	YDR035W	YDR035W	YDR035W	IV	521816	522925	1	3-deoxy-D-arabino-heptulosonate-7-phosphate (DAHP) synthase; catalyzes the first step in aromatic amino acid biosynthesis and is feedback-inhibited by phenylalanine or high concentration of tyrosine or tryptophan [Source:SGD;Acc:S000002442]
+#>E	YDR035W.1	1.0	521816-522928
+IV	521951	522877	1.0	DAHP1/KDSA	0	521951-522877	PF00793	http://pfam.sanger.ac.uk/family?acc=PF00793

@@ -1,0 +1,4 @@
+#>P	YKL222C	YKL222C	YKL222C	XI	3506	5620	-1	Protein of unknown function; may interact with ribosomes, based on co-purification experiments; similar to transcriptional regulators from the zinc cluster (binuclear cluster) family; null mutant is sensitive to caffeine [Source:SGD;Acc:S000001705]
+#>E	YKL222C.1	1.0	3503-5620
+XI	5450	5557	-1.0	Zn2-C6_fun-type_DNA-bd	0	5450-5557	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+XI	4259	5023	-1.0	Transcription_factor_fun	0	4259-5023	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082

@@ -1,0 +1,3 @@
+#>P	YJL057C	YJL057C	YJL057C	X	328121	330121	-1	Protein kinase of unknown cellular role; putative serine/threonine kinase; expression is induced during mild heat stress; deletion mutants are hypersensitive to copper sulphate and resistant to sorbate; interacts with an N-terminal fragment of Sst2p [Source:SGD;Acc:S000003593]
+#>E	YJL057C.1	1.0	328118-330121
+X	328556	329605	-1.0	Prot_kinase_cat_dom	0	328556-329605	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

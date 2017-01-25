@@ -1,0 +1,3 @@
+#>P	YDL214C	YDL214C	YDL214C	IV	74449	76545	-1	Serine/threonine protein kinase; inhibits pheromone induced signalling downstream of MAPK, possibly at the level of the Ste12p transcription factor; mutant has increased aneuploidy tolerance; PRR2 has a paralog, NPR1, that arose from the whole genome duplication [Source:SGD;Acc:S000002373]
+#>E	YDL214C.1	1.0	74446-76545
+IV	74587	75450	-1.0	Prot_kinase_cat_dom	0	74587-75450	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

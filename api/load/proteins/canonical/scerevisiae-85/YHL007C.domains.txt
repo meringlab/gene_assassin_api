@@ -1,0 +1,4 @@
+#>P	YHL007C	YHL007C	YHL007C	VIII	95121	97937	-1	Cdc42p-activated signal transducing kinase; involved in pheromone response, pseudohyphal/invasive growth, vacuole inheritance, down-regulation of sterol uptake; GBB motif binds Ste4p; member of the PAK (p21-activated kinase) family [Source:SGD;Acc:S000000999]
+#>E	YHL007C.1	1.0	95118-97937
+VIII	95325	96074	-1.0	Prot_kinase_cat_dom	0	95325-96074	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+VIII	96756	96929	-1.0	PAK_box_Rho-bd	0	96756-96929	PF00786	http://pfam.sanger.ac.uk/family?acc=PF00786

@@ -1,0 +1,4 @@
+#>P	YGL169W	YGL169W	YGL169W	VII	186059	187336	1	Protein involved in threonylcarbamoyl adenosine biosynthesis; Sua5p and Qri7p are necessary and sufficient for RNA t6A modification in vitro; null mutant lacks N6-threonylcarbamoyl adenosine (t6A) modification in the anticodon loop of ANN-decoding tRNA; member of conserved YrdC/Sua5 family; binds single-stranded telomeric DNA and null mutant has abnormal telomere length [Source:SGD;Acc:S000003137]
+#>E	YGL169W.1	1.0	186059-187339
+VII	186815	187318	1.0	SUA5	0	186815-187318	PF03481	http://pfam.sanger.ac.uk/family?acc=PF03481
+VII	186242	186808	1.0	Sua5/yciO/yrdC_N	0	186242-186808	PF01300	http://pfam.sanger.ac.uk/family?acc=PF01300

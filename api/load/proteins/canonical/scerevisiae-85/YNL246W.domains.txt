@@ -1,0 +1,3 @@
+#>P	YNL246W	YNL246W	YNL246W	XIV	185460	186346	1	NAP family histone chaperone; binds to histones and Rtt109p, stimulating histone acetyltransferase activity; possesses nucleosome assembly activity in vitro; proposed role in vacuolar protein sorting and in double-strand break repair; protein abundance increases in response to DNA replication stress; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000005190]
+#>E	YNL246W.1,YNL246W.2	1,1	185460-185491,185587-186349
+XIV	185606	186211	1	NAP_family	0	185606-186211	PF00956	http://pfam.sanger.ac.uk/family?acc=PF00956

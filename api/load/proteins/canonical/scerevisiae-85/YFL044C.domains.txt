@@ -1,0 +1,3 @@
+#>P	YFL044C	YFL044C	YFL044C	VI	44658	45560	-1	Deubiquitylation enzyme that binds to the chaperone-ATPase Cdc48p; may contribute to regulation of protein degradation by deubiquitylating substrates that have been ubiquitylated by Ufd2p; member of the Ovarian Tumor (OTU) family; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001850]
+#>E	YFL044C.1	1.0	44655-45560
+VI	44901	45212	-1.0	OTU	0	44901-45212	PF02338	http://pfam.sanger.ac.uk/family?acc=PF02338

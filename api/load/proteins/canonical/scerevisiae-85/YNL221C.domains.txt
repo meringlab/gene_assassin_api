@@ -1,0 +1,4 @@
+#>P	YNL221C	YNL221C	YNL221C	XIV	231071	233695	-1	Subunit of both RNase MRP and nuclear RNase P; RNase MRP cleaves pre-rRNA, while nuclear RNase P cleaves tRNA precursors to generate mature 5' ends and facilitates turnover of nuclear RNAs; binds to the RPR1 RNA subunit in RNase P [Source:SGD;Acc:S000005165]
+#>E	YNL221C.1	1.0	231068-233695
+XIV	232799	233512	-1.0	RNase_P/MRP_POP1	0	232799-233512	PF06978	http://pfam.sanger.ac.uk/family?acc=PF06978
+XIV	231713	232033	-1.0	POPLD	0	231713-232033	PF08170	http://pfam.sanger.ac.uk/family?acc=PF08170

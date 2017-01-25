@@ -1,0 +1,3 @@
+#>P	YER054C	YER054C	YER054C	V	262055	263698	-1	Putative regulatory subunit of protein phosphatase Glc7p; involved in glycogen metabolism; contains a conserved motif (GVNK motif) that is also found in Gac1p, Pig1p, and Pig2p; GIP2 has a paralog, PIG2, that arose from the whole genome duplication [Source:SGD;Acc:S000000856]
+#>E	YER054C.1	1.0	262052-263698
+V	262100	262393	-1.0	CBM_21	0	262100-262393	PF03370	http://pfam.sanger.ac.uk/family?acc=PF03370

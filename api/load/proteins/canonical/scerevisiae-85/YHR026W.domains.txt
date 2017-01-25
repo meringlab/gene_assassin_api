@@ -1,0 +1,4 @@
+#>P	YHR026W	YHR026W	YHR026W	VIII	160844	161482	1	Subunit c'' of the vacuolar ATPase; v-ATPase functions in acidification of the vacuole; one of three proteolipid subunits of the V0 domain [Source:SGD;Acc:S000001068]
+#>E	YHR026W.1	1.0	160844-161485
+VIII	161273	161464	1.0	ATPase_F0/V0-cplx_csu	0	161273-161464	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
+VIII	161018	161212	1.0	ATPase_F0/V0-cplx_csu	0	161018-161212	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137

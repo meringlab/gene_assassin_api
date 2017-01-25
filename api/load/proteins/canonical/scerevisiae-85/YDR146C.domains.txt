@@ -1,0 +1,4 @@
+#>P	YDR146C	YDR146C	YDR146C	IV	748616	750742	-1	Transcription factor that recruits Mediator and Swi/Snf complexes; activates transcription of genes expressed at the M/G1 phase boundary and in G1 phase; required for expression of the HO gene controlling mating type switching; localization to nucleus occurs during G1 and appears to be regulated by phosphorylation by Cdc28p kinase; SWI5 has a paralog, ACE2, that arose from the whole genome duplication [Source:SGD;Acc:S000002553]
+#>E	YDR146C.1	1.0	748613-750742
+IV	748931	749005	-1.0	Znf_C2H2	0	748931-749005	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+IV	749021	749095	-1.0	Znf_C2H2	0	749021-749095	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

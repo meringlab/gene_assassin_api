@@ -1,0 +1,3 @@
+#>P	YJL173C	YJL173C	YJL173C	X	96164	96529	-1	Subunit of heterotrimeric Replication Protein A (RPA); RPA is a highly conserved single-stranded DNA binding protein complex involved in DNA replication, repair, recombination; RPA protects against inappropriate telomere recombination, and upon telomere uncapping, prevents cell proliferation by a checkpoint-independent pathway; with Sgs1p-Top2p-Rmi1p, stimulates DNA catenation/decatenation activity of Top3p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003709]
+#>E	YJL173C.1	1.0	96161-96529
+X	96164	96529	-1.0	Rep_factor-A_3	0	96164-96529	PF08661	http://pfam.sanger.ac.uk/family?acc=PF08661

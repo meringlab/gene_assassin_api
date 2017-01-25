@@ -1,0 +1,3 @@
+#>P	YDR437W	YDR437W	YDR437W	IV	1337352	1337771	1	Subunit of GPI-GlcNAc transferase involved in synthesis of GlcNAc-PI; N-acetylglucosaminyl phosphatidylinositol (GlcNAc-PI) is the first intermediate in glycosylphosphatidylinositol (GPI) anchor synthesis; shares similarity with mammalian PIG-P [Source:SGD;Acc:S000002845]
+#>E	YDR437W.1	1.0	1337352-1337774
+IV	1337358	1337744	1.0	PIG-P	0	1337358-1337744	PF08510	http://pfam.sanger.ac.uk/family?acc=PF08510

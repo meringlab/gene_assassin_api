@@ -1,0 +1,3 @@
+#>P	YGL192W	YGL192W	YGL192W	VII	142246	144045	1	mRNA N6-adenosine methyltransferase required for entry into meiosis; mediates N6-adenosine methylation of bulk mRNA during the induction of sporulation which includes the meiotic regulators IME1, IME2 and IME4 itself; repressed in haploids via production of antisense IME4 transcripts; transcribed in diploid cells where antisense transcription is repressed; orthologous to human METTL3 (MT-A70) [Source:SGD;Acc:S000003160]
+#>E	YGL192W.1	1.0	142246-144048
+VII	143269	143757	1.0	MT-A70	0	143269-143757	PF05063	http://pfam.sanger.ac.uk/family?acc=PF05063

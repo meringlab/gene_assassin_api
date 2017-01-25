@@ -1,0 +1,3 @@
+#>P	YNL251C	YNL251C	YNL251C	XIV	172591	174315	-1	RNA-binding subunit of Nrd1 complex; complex interacts with exosome to mediate 3'-end formation of some mRNAs, snRNAs, snoRNAs, and CUTs; interacts with CTD of RNA pol II large subunit Rpo21p at phosphorylated Ser5 to direct transcription termination of non-polyadenylated transcripts; H3K4 trimethylation of transcribed regions by Set1p enhances recruitment of Nrd1p to those sites; role in regulation of mitochondrial abundance and cell size [Source:SGD;Acc:S000005195]
+#>E	YNL251C.1	1.0	172588-174315
+XIV	173128	173295	-1.0	RRM_dom	0	173128-173295	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

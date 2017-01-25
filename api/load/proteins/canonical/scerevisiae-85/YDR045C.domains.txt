@@ -1,0 +1,4 @@
+#>P	YDR045C	YDR045C	YDR045C	IV	547981	548310	-1	RNA polymerase III subunit C11; mediates pol III RNA cleavage activity and is important for termination of transcription; homologous to TFIIS [Source:SGD;Acc:S000002452]
+#>E	YDR045C.1	1.0	547978-548310
+IV	548200	548307	-1.0	DNA-dir_RNA_pol_M/15kDasu	0	548200-548307	PF02150	http://pfam.sanger.ac.uk/family?acc=PF02150
+IV	547987	548112	-1.0	Znf_TFIIS	0	547987-548112	PF01096	http://pfam.sanger.ac.uk/family?acc=PF01096

@@ -1,0 +1,3 @@
+#>P	YDR099W	YDR099W	YDR099W	IV	653607	654425	1	14-3-3 protein, minor isoform; controls proteome at post-transcriptional level, binds proteins and DNA, involved in regulation of many processes including exocytosis, vesicle transport, Ras/MAPK signaling, and rapamycin-sensitive signaling; protein increases in abundance and relative distribution to the nucleus increases upon DNA replication stress; BMH2 has a paralog, BMH1, that arose from the whole genome duplication [Source:SGD;Acc:S000002506]
+#>E	YDR099W.1	1.0	653607-654428
+IV	653619	654323	1.0	14-3-3_domain	0	653619-654323	PF00244	http://pfam.sanger.ac.uk/family?acc=PF00244

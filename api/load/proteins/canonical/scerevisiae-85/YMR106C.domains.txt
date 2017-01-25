@@ -1,0 +1,5 @@
+#>P	YMR106C	YMR106C	YMR106C	XIII	478304	480190	-1	Subunit of the telomeric Ku complex (Yku70p-Yku80p); involved in telomere length maintenance, structure and telomere position effect; required for localization of telomerase ribonucleoprotein via interaction with the TLC1 guide RNA; relocates to sites of double-strand cleavage to promote nonhomologous end joining during DSB repair [Source:SGD;Acc:S000004712]
+#>E	YMR106C.1	1.0	478301-480190
+XIII	479501	480178	-1.0	Ku_N	162	479501-480178	PF03731	http://pfam.sanger.ac.uk/family?acc=PF03731
+XIII	478826	479425	-1.0	DNA_helicase_ATP-dep_Ku	141.7	478826-479425	PF02735	http://pfam.sanger.ac.uk/family?acc=PF02735
+XIII	478490	478759	-1.0	Ku_C	64.7	478490-478759	PF03730	http://pfam.sanger.ac.uk/family?acc=PF03730

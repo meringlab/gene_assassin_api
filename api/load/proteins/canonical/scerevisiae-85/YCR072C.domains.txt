@@ -1,0 +1,11 @@
+#>P	YCR072C	YCR072C	YCR072C	III	240808	242352	-1	WD-repeat protein involved in ribosome biogenesis; may interact with ribosomes; required for maturation and efficient intra-nuclear transport or pre-60S ribosomal subunits, localizes to the nucleolus [Source:SGD;Acc:S000000668]
+#>E	YCR072C.1	1.0	240805-242352
+III	241192	241425	-1.0	WD40_repeat	16.9	241192-241425	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	241711	241824	-1.0	WD40_repeat	56.3	241711-241824	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	240937	241053	-1.0	WD40_repeat	41.3	240937-241053	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	241063	241176	-1.0	WD40_repeat	45.9	241063-241176	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	240814	240912	-1.0	WD40_repeat	32.2	240814-240912	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	241561	241680	-1.0	WD40_repeat	37.2	241561-241680	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	241837	241935	-1.0	WD40_repeat	25.5	241837-241935	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	241438	241548	-1.0	WD40_repeat	40	241438-241548	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	242116	242259	-1.0	NLE	26.2	242116-242259	PF08154	http://pfam.sanger.ac.uk/family?acc=PF08154

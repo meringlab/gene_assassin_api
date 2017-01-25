@@ -1,0 +1,4 @@
+#>P	YER048C	YER048C	YER048C	V	246985	248157	-1	Nuclear type II J heat shock protein of the E. coli dnaJ family; contains a leucine zipper-like motif, binds to non-native substrates for presentation to Ssa3p, may function during protein translocation, assembly and disassembly [Source:SGD;Acc:S000000850]
+#>E	YER048C.1	1.0	246982-248157
+V	247954	248142	-1.0	DnaJ_N	0	247954-248142	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226
+V	247030	247635	-1.0	DnaJ_X	0	247030-247635	PF14308	http://pfam.sanger.ac.uk/family?acc=PF14308

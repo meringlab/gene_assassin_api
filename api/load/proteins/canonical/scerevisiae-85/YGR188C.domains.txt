@@ -1,0 +1,5 @@
+#>P	YGR188C	YGR188C	YGR188C	VII	872047	875109	-1	Protein kinase involved in the cell cycle checkpoint into anaphase; in complex with Mad1p and Bub3p, prevents progression into anaphase in presence of spindle damage; Cdc28p-mediated phosphorylation at Bub1p-T566 is important for degradation in anaphase and adaptation of checkpoint to prolonged mitotic arrest; associates with centromere DNA via Skp1p; involved in Sgo1p relocalization in response to sister kinetochore tension; paralog MAD3 arose from whole genome duplication [Source:SGD;Acc:S000003420]
+#>E	YGR188C.1	1.0	872044-875109
+VII	874042	874239	-1.0	Mad3-like	0	874042-874239	PF08171	http://pfam.sanger.ac.uk/family?acc=PF08171
+VII	872323	872994	-1.0	Prot_kinase_cat_dom	0	872323-872994	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+VII	874603	875001	-1.0	Mad3_BUB1_I	0	874603-875001	PF08311	http://pfam.sanger.ac.uk/family?acc=PF08311

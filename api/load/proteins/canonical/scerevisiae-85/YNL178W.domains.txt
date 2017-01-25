@@ -1,0 +1,4 @@
+#>P	YNL178W	YNL178W	YNL178W	XIV	302680	303399	1	Protein component of the small (40S) ribosomal subunit; has apurinic/apyrimidinic (AP) endonuclease activity; essential for viability; homologous to mammalian ribosomal protein S3 and bacterial S3 [Source:SGD;Acc:S000005122]
+#>E	YNL178W.1	1.0	302680-303402
+XIV	302992	303243	1.0	Ribosomal_S3_C	0	302992-303243	PF00189	http://pfam.sanger.ac.uk/family?acc=PF00189
+XIV	302737	302958	1.0	KH_type_2	0	302737-302958	PF07650	http://pfam.sanger.ac.uk/family?acc=PF07650

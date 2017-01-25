@@ -1,0 +1,5 @@
+#>P	YOL006C	YOL006C	YOL006C	XV	313081	315387	-1	Topoisomerase I; nuclear enzyme that relieves torsional strain in DNA by cleaving and re-sealing the phosphodiester backbone; relaxes both positively and negatively supercoiled DNA; functions in replication, transcription, and recombination; role in processing ribonucleoside monophosphates in genomic DNA into irreversible single-strand breaks [Source:SGD;Acc:S000005366]
+#>E	YOL006C.1	1.0	313078-315387
+XV	314305	314961	-1.0	TopoI_DNA-bd_euk	0	314305-314961	PF02919	http://pfam.sanger.ac.uk/family?acc=PF02919
+XV	313615	314301	-1.0	TopoI_cat_euk	0	313615-314301	PF01028	http://pfam.sanger.ac.uk/family?acc=PF01028
+XV	313081	313293	-1.0	TopoI_C_dom	0	313081-313293	PF14370	http://pfam.sanger.ac.uk/family?acc=PF14370

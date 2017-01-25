@@ -1,0 +1,3 @@
+#>P	YKR097W	YKR097W	YKR097W	XI	631152	632798	1	Phosphoenolpyruvate carboxykinase; key enzyme in gluconeogenesis, catalyzes early reaction in carbohydrate biosynthesis, glucose represses transcription and accelerates mRNA degradation, regulated by Mcm1p and Cat8p, located in the cytosol [Source:SGD;Acc:S000001805]
+#>E	YKR097W.1	1.0	631152-632801
+XI	631242	632651	1.0	PEP_carboxykinase_ATP	0	631242-632651	PF01293	http://pfam.sanger.ac.uk/family?acc=PF01293

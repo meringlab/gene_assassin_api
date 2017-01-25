@@ -1,0 +1,3 @@
+#>P	YPR049C	YPR049C	YPR049C	XVI	661140	664673	-1	Adapter protein for pexophagy and the Cvt targeting pathway; directs receptor-bound cargo to the phagophore assembly site (PAS) for packaging into vesicles; required for recruiting other proteins to the PAS; recruits Dnm1p to facilitate fission of mitochondria that are destined for removal by mitophagy [Source:SGD;Acc:S000006253]
+#>E	YPR049C.1	1.0	661137-664673
+XVI	661158	661700	-1.0	Autophagy-rel_p11	142.5	661158-661700	PF10377	http://pfam.sanger.ac.uk/family?acc=PF10377

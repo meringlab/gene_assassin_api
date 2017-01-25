@@ -1,0 +1,4 @@
+#>P	YOL068C	YOL068C	YOL068C	XV	200371	201879	-1	NAD(+)-dependent histone deacetylase; essential subunit of the Sum1p/Rfm1p/Hst1p complex required for ORC-dependent silencing and mitotic repression; non-essential subunit of the Set3C deacetylase complex; involved in telomere maintenance; HST1 has a paralog, SIR2, that arose from the whole genome duplication [Source:SGD;Acc:S000005429]
+#>E	YOL068C.1	1.0	200368-201879
+XV	200623	201258	-1.0	NAD-dep_deAcase_sirtuin	0	200623-201258	PF02146	http://pfam.sanger.ac.uk/family?acc=PF02146
+XV	201259	201735	-1.0	NAD-dep_histone_deAcase_SIR2_N	0	201259-201735	PF04574	http://pfam.sanger.ac.uk/family?acc=PF04574

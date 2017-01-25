@@ -1,0 +1,3 @@
+#>P	YDR022C	YDR022C	YDR022C	IV	488075	488662	-1	Autophagy-specific protein required for autophagosome formation; may form a complex with Atg17p and Atg29p that localizes other proteins to the pre-autophagosomal structure; high-copy suppressor of CIK1 deletion [Source:SGD;Acc:S000002429]
+#>E	YDR022C.1	1.0	488072-488662
+IV	488075	488662	-1.0	Autophagy-rel_p31	0	488075-488662	PF09795	http://pfam.sanger.ac.uk/family?acc=PF09795

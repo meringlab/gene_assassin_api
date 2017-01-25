@@ -1,0 +1,4 @@
+#>P	YBL080C	YBL080C	YBL080C	II	73073	74695	-1	Subunit of the trimeric GatFAB AmidoTransferase(AdT) complex; involved in the formation of Q-tRNAQ; mutation is functionally complemented by the bacterial GatB ortholog [Source:SGD;Acc:S000000176]
+#>E	YBL080C.1	1.0	73070-74695
+II	73085	73576	-1.0	Asn/Gln_amidotransferase	0	73085-73576	PF02637	http://pfam.sanger.ac.uk/family?acc=PF02637
+II	73748	74611	-1.0	Asn/Gln-tRNA_Trfase_suB/E_cat	0	73748-74611	PF02934	http://pfam.sanger.ac.uk/family?acc=PF02934

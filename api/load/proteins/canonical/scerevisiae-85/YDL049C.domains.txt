@@ -1,0 +1,4 @@
+#>P	YDL049C	YDL049C	YDL049C	IV	365071	365874	-1	Protein with similarity to Kre9p; Kre9p is involved in cell wall beta 1,6-glucan synthesis; overproduction suppresses growth defects of a kre9 null mutant; required for propionic acid resistance [Source:SGD;Acc:S000002207]
+#>E	YDL049C.1	1.0	365068-365874
+IV	365491	365766	-1.0	CW_beta-glucan_synthesis	0	365491-365766	PF10342	http://pfam.sanger.ac.uk/family?acc=PF10342
+IV	365071	365391	-1.0	KRE9/KNH1	0	365071-365391	PF05390	http://pfam.sanger.ac.uk/family?acc=PF05390

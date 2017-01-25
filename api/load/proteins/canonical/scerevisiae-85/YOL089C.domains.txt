@@ -1,0 +1,4 @@
+#>P	YOL089C	YOL089C	YOL089C	XV	150401	153490	-1	Putative transcription factor containing a zinc finger; overexpression increases salt tolerance through increased expression of the ENA1 (Na+/Li+ extrusion pump) gene while gene disruption decreases both salt tolerance and ENA1 expression; HAL9 has a paralog, TBS1, that arose from the whole genome duplication [Source:SGD;Acc:S000005449]
+#>E	YOL089C.1	1.0	150398-153490
+XV	151535	152323	-1.0	Transcription_factor_fun	0	151535-152323	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082
+XV	152978	153091	-1.0	Zn2-C6_fun-type_DNA-bd	0	152978-153091	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

@@ -1,0 +1,5 @@
+#>P	YOR335C	YOR335C	YOR335C	XV	946236	949109	-1	Cytoplasmic and mitochondrial alanyl-tRNA synthetase; required for protein synthesis; point mutation (cdc64-1 allele) causes cell cycle arrest at G1; lethality of null mutation is functionally complemented by human homolog [Source:SGD;Acc:S000005862]
+#>E	YOR335C.1	1.0	946233-949109
+XV	947340	949073	-1.0	Ala-tRNA-synth_IIc_N	0	947340-949073	PF01411	http://pfam.sanger.ac.uk/family?acc=PF01411
+XV	946263	946481	-1.0	Pesterase_DHHA1	0	946263-946481	PF02272	http://pfam.sanger.ac.uk/family?acc=PF02272
+XV	946863	947042	-1.0	tRNA_SAD	0	946863-947042	PF07973	http://pfam.sanger.ac.uk/family?acc=PF07973

@@ -1,0 +1,4 @@
+#>P	ENSG00000198727	ENST00000361789	ENSP00000354554	MT	14747	15884	1	mitochondrially encoded cytochrome b [Source:HGNC Symbol;Acc:HGNC:7427]
+#>E	ENSE00001436074	1.0	14747-15887
+MT	15521	15823	1.0	Cyt_b/b6_C	116.5	15521-15823	PF00032	http://pfam.sanger.ac.uk/family?acc=PF00032
+MT	14801	15358	1.0	Di-haem_cyt_TM	276.6	14801-15358	PF00033	http://pfam.sanger.ac.uk/family?acc=PF00033

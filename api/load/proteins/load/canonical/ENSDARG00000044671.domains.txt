@@ -1,8 +1,0 @@
-#>P	ENSDARG00000044671	ENSDART00000065642	ENSDARP00000098282	1	60021250	60022767	-1	WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 1 [Source:ZFIN;Acc:ZDB-GENE-040426-2465]
-#>E	ENSDARE00000495420	1	60021247-60022767
-1	60021319	60021603	-1	Netrin_module_non-TIMP	32.2	60021319-60021603	PF01759	http://pfam.sanger.ac.uk/family?acc=PF01759
-1	60022099	60022332	-1	Ig_V-set	24.9	60022099-60022332	PF07686	http://pfam.sanger.ac.uk/family?acc=PF07686
-1	60022450	60022542	-1	Kazal_dom	25.8	60022450-60022542	PF07648	http://pfam.sanger.ac.uk/family?acc=PF07648
-1	60021835	60021984	-1	Prot_inh_Kunz-m	42.4	60021835-60021984	PF00014	http://pfam.sanger.ac.uk/family?acc=PF00014
-1	60021661	60021816	-1	Prot_inh_Kunz-m	64.7	60021661-60021816	PF00014	http://pfam.sanger.ac.uk/family?acc=PF00014
-1	60022063	60022338	-1	Ig_I-set	57.8	60022063-60022338	PF07679	http://pfam.sanger.ac.uk/family?acc=PF07679

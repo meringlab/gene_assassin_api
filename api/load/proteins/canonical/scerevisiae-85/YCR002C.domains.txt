@@ -1,0 +1,3 @@
+#>P	YCR002C	YCR002C	YCR002C	III	117383	118348	-1	Component of the septin ring, required for cytokinesis; septins are GTP-binding proteins that assemble into rod-like hetero-oligomers that can associate to form filaments; septin rings at the mother-bud neck act as scaffolds for recruiting cell division factors and as barriers to prevent diffusion of specific proteins between mother and daughter cells; N-terminus interacts with phosphatidylinositol-4,5-bisphosphate; protein abundance increases under DNA damage stress [Source:SGD;Acc:S000000595]
+#>E	YCR002C.1	1.0	117380-118348
+III	117428	118264	-1.0	Cell_div_GTP-bd	0	117428-118264	PF00735	http://pfam.sanger.ac.uk/family?acc=PF00735

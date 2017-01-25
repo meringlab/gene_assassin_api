@@ -1,0 +1,3 @@
+#>P	YOR368W	YOR368W	YOR368W	XV	1026843	1028045	1	Checkpoint protein; involved in the activation of the DNA damage and meiotic pachytene checkpoints; with Mec3p and Ddc1p, forms a clamp that is loaded onto partial duplex DNA; homolog of human and S. pombe Rad1 and U. maydis Rec1 proteins [Source:SGD;Acc:S000005895]
+#>E	YOR368W.1	1.0	1026843-1028048
+XV	1026873	1027652	1.0	Rad1_Rec1	0	1026873-1027652	PF02144	http://pfam.sanger.ac.uk/family?acc=PF02144

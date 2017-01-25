@@ -1,0 +1,4 @@
+#>P	YDR096W	YDR096W	YDR096W	IV	637139	639820	1	Histone demethylase and transcription factor; regulates genes during nutrient limitation; activity modulated by proteasome-mediated proteolysis; has JmjC and JmjN domain in N-terminus that interact, promoting stability and proper transcriptional activity; contains two transactivating domains downstream of Jmj domains and a C-terminal DNA binding domain; relocalizes to the cytosol in response to hypoxia; GIS1 has a paralog, RPH1, that arose from the whole genome duplication [Source:SGD;Acc:S000002503]
+#>E	YDR096W.1	1.0	637139-639823
+IV	637175	637276	1.0	TF_JmjN	0	637175-637276	PF02375	http://pfam.sanger.ac.uk/family?acc=PF02375
+IV	637712	638059	1.0	TF_JmjC_AAH	0	637712-638059	PF02373	http://pfam.sanger.ac.uk/family?acc=PF02373

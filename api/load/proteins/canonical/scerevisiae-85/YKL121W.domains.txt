@@ -1,0 +1,6 @@
+#>P	YKL121W	YKL121W	YKL121W	XI	214142	216697	1	Protein of unknown function; null mutant is resistant to 2-deoxy-D-glucose and displays abnormally elongated buds; DGR2 has a paralog, YMR102C, that arose from the whole genome duplication [Source:SGD;Acc:S000001604]
+#>E	YKL121W.1	1.0	214142-216700
+XI	214961	215062	1.0	WD40_repeat	0	214961-215062	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	214661	214744	1.0	WD40_repeat	0	214661-214744	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	215900	216004	1.0	WD40_repeat	0	215900-216004	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	215096	215188	1.0	WD40_repeat	0	215096-215188	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

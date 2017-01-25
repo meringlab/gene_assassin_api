@@ -1,0 +1,3 @@
+#>P	YHR030C	YHR030C	YHR030C	VIII	168893	170344	-1	Serine/threonine MAP kinase; involved in regulating maintenance of cell wall integrity, cell cycle progression, and nuclear mRNA retention in heat shock; required for mitophagy and pexophagy; affects recruitment of mitochondria to phagophore assembly site (PAS); plays a role in adaptive response of cells to cold; regulated by the PKC1-mediated signaling pathway; SLT2 has a paralog, KDX1, that arose from the whole genome duplication [Source:SGD;Acc:S000001072]
+#>E	YHR030C.1	1.0	168890-170344
+VIII	169391	170278	-1.0	Prot_kinase_cat_dom	0	169391-170278	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

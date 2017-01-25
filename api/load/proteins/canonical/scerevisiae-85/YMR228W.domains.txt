@@ -1,0 +1,3 @@
+#>P	YMR228W	YMR228W	YMR228W	XIII	724626	725648	1	Mitochondrial RNA polymerase specificity factor; has structural similarity to S-adenosylmethionine-dependent methyltransferases and functional similarity to bacterial sigma-factors; Mtf1p interacts with and stabilizes the Rpo41p-promoter complex, enhancing DNA bending and melting to facilitate pre-initiation open complex formation [Source:SGD;Acc:S000004841]
+#>E	YMR228W.1	1.0	724626-725651
+XIII	724659	725573	1.0	rRNA_Ade_methylase_transferase	0	724659-725573	PF00398	http://pfam.sanger.ac.uk/family?acc=PF00398

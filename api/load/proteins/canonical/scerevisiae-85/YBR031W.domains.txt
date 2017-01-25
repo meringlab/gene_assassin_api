@@ -1,0 +1,4 @@
+#>P	YBR031W	YBR031W	YBR031W	II	300166	301251	1	Ribosomal 60S subunit protein L4A; N-terminally acetylated; homologous to mammalian ribosomal protein L4 and bacterial L4; RPL4A has a paralog, RPL4B, that arose from the whole genome duplication [Source:SGD;Acc:S000000235]
+#>E	YBR031W.1	1.0	300166-301254
+II	300226	300945	1.0	Ribosomal_L4/L1e	0	300226-300945	PF00573	http://pfam.sanger.ac.uk/family?acc=PF00573
+II	300982	301215	1.0	Ribos_L4_C_dom	0	300982-301215	PF14374	http://pfam.sanger.ac.uk/family?acc=PF14374

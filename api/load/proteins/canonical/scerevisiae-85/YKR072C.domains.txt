@@ -1,0 +1,3 @@
+#>P	YKR072C	YKR072C	YKR072C	XI	576438	578123	-1	Negative regulatory subunit of protein phosphatase 1 (Ppz1p); involved in coenzyme A biosynthesis; subunit of phosphopantothenoylcysteine decarboxylase (PPCDC: Cab3p, Sis2p, Vhs3p) complex and the CoA-Synthesizing Protein Complex (CoA-SPC: Cab2p, Cab3p, Cab4p, Cab5p, Sis2p and Vhs3p); SIS2 has a paralog, VHS3, that arose from the whole genome duplication [Source:SGD;Acc:S000001780]
+#>E	YKR072C.1	1.0	576435-578123
+XI	576807	577334	-1.0	Flavoprotein	0	576807-577334	PF02441	http://pfam.sanger.ac.uk/family?acc=PF02441

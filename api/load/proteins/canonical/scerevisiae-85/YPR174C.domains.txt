@@ -1,0 +1,4 @@
+#>P	YPR174C	YPR174C	YPR174C	XVI	888046	888708	-1	Protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the nuclear periphery; potential Cdc28p substrate; binds phosphatidylinositols and phosphatidylethanolamine in a large-scale study; relative distribution to foci at the nuclear periphery increases upon DNA replication stress; YPR174C has a paralog, NBP1, that arose from the whole genome duplication [Source:SGD;Acc:S000006378]
+#>E	YPR174C.1	1.0	888043-888708
+XVI	888562	888696	-1.0	NBP1_fun	0	888562-888696	PF08537	http://pfam.sanger.ac.uk/family?acc=PF08537
+XVI	888061	888456	-1.0	NBP1_fun	0	888061-888456	PF08537	http://pfam.sanger.ac.uk/family?acc=PF08537

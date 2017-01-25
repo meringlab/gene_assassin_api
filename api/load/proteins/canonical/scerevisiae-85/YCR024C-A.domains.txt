@@ -1,0 +1,3 @@
+#>P	YCR024C-A	YCR024C-A	YCR024C-A	III	162948	163067	-1	Regulatory subunit for the plasma membrane H(+)-ATPase Pma1p; small single-membrane span proteolipid; forms unique helix and positively charged cytoplasmic domain that is able to specifically segregate phosphatidylserines; PMP1 has a paralog, PMP2, that arose from the whole genome duplication [Source:SGD;Acc:S000000619]
+#>E	YCR024C-A.1	1.0	162945-163067
+III	162948	163064	-1.0	ATPase_proteolipid	0	162948-163064	PF08114	http://pfam.sanger.ac.uk/family?acc=PF08114

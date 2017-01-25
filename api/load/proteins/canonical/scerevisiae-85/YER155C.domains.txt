@@ -1,0 +1,5 @@
+#>P	YER155C	YER155C	YER155C	V	476348	482848	-1	Rho GTPase activating protein (RhoGAP); involved in the control of cytoskeleton organization and cellular morphogenesis; required for bud emergence; potential GAP for Rho4p [Source:SGD;Acc:S000000957]
+#>E	YER155C.1	1.0	476345-482848
+V	479048	479452	-1.0	Ras-like_Gua-exchang_fac_N	0	479048-479452	PF00618	http://pfam.sanger.ac.uk/family?acc=PF00618
+V	480464	481081	-1.0	RasGRF_CDC25	0	480464-481081	PF00617	http://pfam.sanger.ac.uk/family?acc=PF00617
+V	476435	476908	-1.0	RhoGAP_dom	0	476435-476908	PF00620	http://pfam.sanger.ac.uk/family?acc=PF00620

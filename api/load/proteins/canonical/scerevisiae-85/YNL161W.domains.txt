@@ -1,0 +1,5 @@
+#>P	YNL161W	YNL161W	YNL161W	XIV	332597	334864	1	Serine/threonine protein kinase of the the RAM signaling network; Ndr/LATS family member; binds regulatory subunit Mob2p; involved in regulation of cellular morphogenesis, polarized growth, and septum destruction; phosphorylation by Cbk1p regulates localization and activity of Ace2p transcription factor and Ssd1p translational repressor; Cbk1p activity is regulated by both phosphorylation and specific localization; relocalizes to cytoplasm upon DNA replication stress [Source:SGD;Acc:S000005105]
+#>E	YNL161W.1	1.0	332597-334867
+XIV	334295	334612	1.0	Prot_kinase_cat_dom	0	334295-334612	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+XIV	333650	334117	1.0	Prot_kinase_cat_dom	0	333650-334117	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+XIV	334664	334840	1.0	Pkinase_C	0	334664-334840	PF00433	http://pfam.sanger.ac.uk/family?acc=PF00433

@@ -1,0 +1,3 @@
+#>P	YDR196C	YDR196C	YDR196C	IV	850277	850999	-1	Subunit of the CoA-Synthesizing Protein Complex (CoA-SPC); subunits of this complex are: Cab2p, Cab3p, Cab4p, Cab5p, Sis2p and Vhs3p; probable dephospho-CoA kinase (DPCK) that catalyzes the last step in coenzyme A biosynthesis; null mutant lethality is complemented by E. coli coaE (encoding DPCK); detected in purified mitochondria in high-throughput studies; also localized to lipid droplets [Source:SGD;Acc:S000002604]
+#>E	YDR196C.1	1.0	850274-850999
+IV	850439	850996	-1.0	Depp_CoAkinase	0	850439-850996	PF01121	http://pfam.sanger.ac.uk/family?acc=PF01121

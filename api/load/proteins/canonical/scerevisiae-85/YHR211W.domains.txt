@@ -1,0 +1,14 @@
+#>P	YHR211W	YHR211W	YHR211W	VIII	525392	528616	1	Lectin-like cell wall protein (flocculin) involved in flocculation; binds mannose chains on the surface of other cells, confers floc-forming ability that is chymotrypsin resistant but heat labile; FLO5 has a paralog, FLO1, that arose from a segmental duplication [Source:SGD;Acc:S000001254]
+#>E	YHR211W.1	1.0	525392-528619
+VIII	526757	526879	1.0	Flocculin	0	526757-526879	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+VIII	527165	527284	1.0	Flocculin	0	527165-527284	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+VIII	526211	526339	1.0	Flocculin	0	526211-526339	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+VIII	527027	527149	1.0	Flocculin	0	527027-527149	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+VIII	526622	526744	1.0	Flocculin	0	526622-526744	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+VIII	526487	526609	1.0	Flocculin	0	526487-526609	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+VIII	526892	527014	1.0	Flocculin	0	526892-527014	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+VIII	526346	526474	1.0	Flocculin	0	526346-526474	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+VIII	527732	527866	1.0	Flocculin_t3_rpt	0	527732-527866	PF13928	http://pfam.sanger.ac.uk/family?acc=PF13928
+VIII	528101	528235	1.0	Flocculin_t3_rpt	0	528101-528235	PF13928	http://pfam.sanger.ac.uk/family?acc=PF13928
+VIII	527948	528082	1.0	Flocculin_t3_rpt	0	527948-528082	PF13928	http://pfam.sanger.ac.uk/family?acc=PF13928
+VIII	525725	526123	1.0	PA14	0	525725-526123	PF07691	http://pfam.sanger.ac.uk/family?acc=PF07691

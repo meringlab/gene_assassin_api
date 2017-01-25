@@ -1,0 +1,4 @@
+#>P	YKL015W	YKL015W	YKL015W	XI	408544	411480	1	Transcriptional activator; binds specific gene recruitment sequences and is required for DNA zip code-mediated targeting of genes to nuclear periphery; regulates proline utilization genes, constitutively binds PUT1 and PUT2 promoters as a dimer, undergoes conformational change to form active state; binds other promoters only under activating conditions; differentially phosphorylated in presence of different nitrogen sources; has a Zn(2)-Cys(6) binuclear cluster domain [Source:SGD;Acc:S000001498]
+#>E	YKL015W.1	1.0	408544-411483
+XI	409600	410400	1.0	Transcription_factor_fun	0	409600-410400	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082
+XI	408640	408747	1.0	Zn2-C6_fun-type_DNA-bd	0	408640-408747	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

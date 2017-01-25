@@ -1,0 +1,9 @@
+#>P	YOR207C	YOR207C	YOR207C	XV	730011	733457	-1	Second-largest subunit of RNA polymerase III; RNA polymerase III is responsible for the transcription of tRNA and 5S RNA genes, and other low molecular weight RNAs [Source:SGD;Acc:S000005733]
+#>E	YOR207C.1	1.0	730008-733457
+XV	730032	730286	-1.0	RNA_pol_Rpb2_7	103.1	730032-730286	PF04560	http://pfam.sanger.ac.uk/family?acc=PF04560
+XV	731607	731795	-1.0	RNA_pol_Rpb2_4	91.9	731607-731795	PF04566	http://pfam.sanger.ac.uk/family?acc=PF04566
+XV	731427	731549	-1.0	RNA_pol_Rpb2_5	47.1	731427-731549	PF04567	http://pfam.sanger.ac.uk/family?acc=PF04567
+XV	732324	732854	-1.0	RNA_pol_Rpb2_2	147.6	732324-732854	PF04561	http://pfam.sanger.ac.uk/family?acc=PF04561
+XV	732138	733292	-1.0	RNA_pol_bsu_protrusion	208.2	732138-733292	PF04563	http://pfam.sanger.ac.uk/family?acc=PF04563
+XV	731895	732089	-1.0	RNA_pol_Rpb2_3	66	731895-732089	PF04565	http://pfam.sanger.ac.uk/family?acc=PF04565
+XV	730290	731411	-1.0	DNA-dir_RNA_pol_su2_6	400	730290-731411	PF00562	http://pfam.sanger.ac.uk/family?acc=PF00562

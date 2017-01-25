@@ -1,0 +1,4 @@
+#>P	YDL017W	YDL017W	YDL017W	IV	424209	425729	1	DDK (Dbf4-dependent kinase) catalytic subunit; required for origin firing and replication fork progression in mitotic S phase through phosphorylation of Mcm2-7p complexes and Cdc45p; kinase activity correlates with cyclical DBF4 expression; required for pre-meiotic DNA replication, meiotic DSB formation, recruitment of the monopolin complex to kinetochores during meiosis I and as a gene-specific regulator of the meiosis-specific transcription factor Ndt80p [Source:SGD;Acc:S000002175]
+#>E	YDL017W.1	1.0	424209-425732
+IV	425028	425195	1.0	Prot_kinase_cat_dom	0	425028-425195	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+IV	424305	424796	1.0	Prot_kinase_cat_dom	0	424305-424796	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

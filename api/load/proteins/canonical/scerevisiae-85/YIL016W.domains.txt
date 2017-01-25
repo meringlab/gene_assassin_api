@@ -1,0 +1,3 @@
+#>P	YIL016W	YIL016W	YIL016W	IX	321454	321930	1	Ribosome-associated protein; proposed to act in protein synthesis and nuclear pore complex biogenesis and maintenance as well as protein folding; has similarity to the mammalian BAG-1 protein [Source:SGD;Acc:S000001278]
+#>E	YIL016W.1	1.0	321454-321933
+IX	321670	321930	1.0	BAG_domain	69.3	321670-321930	PF02179	http://pfam.sanger.ac.uk/family?acc=PF02179

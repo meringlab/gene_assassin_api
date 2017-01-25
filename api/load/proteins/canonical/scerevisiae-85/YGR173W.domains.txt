@@ -1,0 +1,4 @@
+#>P	YGR173W	YGR173W	YGR173W	VII	843854	844957	1	Protein with a role in translation; forms a complex with Gir2p; has similarity to mammalian developmentally regulated GTP-binding protein [Source:SGD;Acc:S000003405]
+#>E	YGR173W.1	1.0	843854-844960
+VII	844046	844381	1.0	GTP_binding_domain	0	844046-844381	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926
+VII	844736	844951	1.0	TGS	0	844736-844951	PF02824	http://pfam.sanger.ac.uk/family?acc=PF02824

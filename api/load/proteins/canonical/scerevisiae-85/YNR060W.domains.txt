@@ -1,0 +1,5 @@
+#>P	YNR060W	YNR060W	YNR060W	XIV	739951	742107	1	Ferric reductase; reduces a specific subset of siderophore-bound iron prior to uptake by transporters; expression induced by low iron levels [Source:SGD;Acc:S000005343]
+#>E	YNR060W.1	1.0	739951-742110
+XIV	740770	741114	1.0	Flavoprotein_TM	0	740770-741114	PF01794	http://pfam.sanger.ac.uk/family?acc=PF01794
+XIV	741220	741522	1.0	FAD-bd_8	0	741220-741522	PF08022	http://pfam.sanger.ac.uk/family?acc=PF08022
+XIV	741538	742044	1.0	Fe_red_NAD-bd_6	0	741538-742044	PF08030	http://pfam.sanger.ac.uk/family?acc=PF08030

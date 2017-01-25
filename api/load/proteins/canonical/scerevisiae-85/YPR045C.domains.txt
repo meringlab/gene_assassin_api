@@ -1,0 +1,3 @@
+#>P	YPR045C	YPR045C	YPR045C	XVI	655143	656552	-1	Protein that may have a role in transcription elongation; forms a complex with Csn12p that is recruited to transcribed genes; possibly involved in splicing based on pre-mRNA accumulation defect for many intron-containing genes [Source:SGD;Acc:S000006249]
+#>E	YPR045C.1	1.0	655140-656552
+XVI	655329	655937	-1.0	SAC3/GANP/Nin1/mts3/eIF-3-p25	0	655329-655937	PF03399	http://pfam.sanger.ac.uk/family?acc=PF03399

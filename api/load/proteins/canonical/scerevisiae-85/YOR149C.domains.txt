@@ -1,0 +1,3 @@
+#>P	YOR149C	YOR149C	YOR149C	XV	609841	611388	-1	Alpha 1,2-mannosyltransferase; involved in glycosyl phosphatidyl inositol (GPI) biosynthesis; required for addition of the fourth, side branching mannose to the GPI core structure [Source:SGD;Acc:S000005675]
+#>E	YOR149C.1	1.0	609838-611388
+XV	610189	611373	-1.0	GPI_mannosylTrfase	0	610189-611373	PF03901	http://pfam.sanger.ac.uk/family?acc=PF03901

@@ -1,0 +1,10 @@
+#>P	YGL014W	YGL014W	YGL014W	VII	466141	468804	1	Member of the PUF protein family; PUF family is defined by the presence of Pumilio homology domains that confer RNA binding activity; preferentially binds mRNAs encoding nucleolar ribosomal RNA-processing factors [Source:SGD;Acc:S000002982]
+#>E	YGL014W.1	1.0	466141-468807
+VII	467833	467928	1.0	Pumilio_RNA-bd_rpt	0	467833-467928	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	468157	468258	1.0	Pumilio_RNA-bd_rpt	0	468157-468258	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	468619	468705	1.0	Pumilio_RNA-bd_rpt	0	468619-468705	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	468493	468570	1.0	Pumilio_RNA-bd_rpt	0	468493-468570	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	468265	468363	1.0	Pumilio_RNA-bd_rpt	0	468265-468363	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	468385	468471	1.0	Pumilio_RNA-bd_rpt	0	468385-468471	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	468049	468132	1.0	Pumilio_RNA-bd_rpt	0	468049-468132	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	467938	468024	1.0	Pumilio_RNA-bd_rpt	0	467938-468024	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806

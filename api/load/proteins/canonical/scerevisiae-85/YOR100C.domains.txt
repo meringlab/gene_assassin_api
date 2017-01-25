@@ -1,0 +1,5 @@
+#>P	YOR100C	YOR100C	YOR100C	XV	513298	514278	-1	Mitochondrial inner membrane carnitine transporter; required for carnitine-dependent transport of acetyl-CoA from peroxisomes to mitochondria during fatty acid beta-oxidation [Source:SGD;Acc:S000005626]
+#>E	YOR100C.1	1.0	513295-514278
+XV	513304	513570	-1.0	Mitochondrial_sb/sol_carrier	0	513304-513570	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XV	513607	513867	-1.0	Mitochondrial_sb/sol_carrier	0	513607-513867	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XV	513892	514176	-1.0	Mitochondrial_sb/sol_carrier	0	513892-514176	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

@@ -1,0 +1,3 @@
+#>P	YGR047C	YGR047C	YGR047C	VII	586395	589469	-1	Subunit of RNA polymerase III transcription initiation factor complex; one of six subunits of RNA polymerase III transcription initiation factor complex (TFIIIC); part of the TauA domain of TFIIIC that binds BoxA DNA promoter sites of tRNA and similar genes; has TPR motifs; human homolog is TFIIIC-102 [Source:SGD;Acc:S000003279]
+#>E	YGR047C.1	1.0	586392-589469
+VII	586500	586592	-1.0	TPR_repeat	0	586500-586592	PF13174	http://pfam.sanger.ac.uk/family?acc=PF13174

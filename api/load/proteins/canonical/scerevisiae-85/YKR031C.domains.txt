@@ -1,0 +1,4 @@
+#>P	YKR031C	YKR031C	YKR031C	XI	501347	506395	-1	Phospholipase D; catalyzes the hydrolysis of phosphatidylcholine, producing choline and phosphatidic acid; involved in Sec14p-independent secretion; required for meiosis and spore formation; differently regulated in secretion and meiosis; participates in transcription initiation and/or early elongation of specific genes; interacts with "foot domain" of RNA polymerase II; deletion results in abnormal CTD-Ser5 phosphorylation of RNA polymerase II at specific promoter regions [Source:SGD;Acc:S000001739]
+#>E	YKR031C.1	1.0	501344-506395
+XI	503942	504025	-1.0	PLipase_D/transphosphatidylase	0	503942-504025	PF00614	http://pfam.sanger.ac.uk/family?acc=PF00614
+XI	503042	503116	-1.0	PLipase_D/transphosphatidylase	0	503042-503116	PF00614	http://pfam.sanger.ac.uk/family?acc=PF00614

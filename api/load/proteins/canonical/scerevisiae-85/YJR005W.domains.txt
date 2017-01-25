@@ -1,0 +1,3 @@
+#>P	YJR005W	YJR005W	YJR005W	X	445923	448022	1	Beta-adaptin; large subunit of the clathrin associated protein complex (AP-2); involved in vesicle mediated transport; similar to mammalian beta-chain of the clathrin associated protein complex [Source:SGD;Acc:S000003765]
+#>E	YJR005W.1	1.0	445923-448025
+X	445959	447551	1.0	Clathrin/coatomer_adapt-like_N	0	445959-447551	PF01602	http://pfam.sanger.ac.uk/family?acc=PF01602

@@ -1,0 +1,5 @@
+#>P	YAR073W	YAR073W	YAR073W	I	227742	228950	1	Nonfunctional protein with homology to IMP dehydrogenase; blocked reading frame, located close to the telomere; not expressed at detectable levels; YAR073W and YAR075W comprise a continuous reading frame in most strains of S. cerevisiae; YAR073W/YAR075W together have a paralog, IMD2, that arose from a segmental duplication [Source:SGD;Acc:S000000095]
+#>E	YAR073W.1	1.0	227742-228953
+I	228279	228440	1.0	Cysta_beta_synth_core	0	228279-228440	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571
+I	228111	228251	1.0	Cysta_beta_synth_core	0	228111-228251	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571
+I	227847	228863	1.0	IMP_DH_GMPRt	0	227847-228863	PF00478	http://pfam.sanger.ac.uk/family?acc=PF00478

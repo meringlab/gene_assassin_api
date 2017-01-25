@@ -1,0 +1,4 @@
+#>P	YKL018W	YKL018W	YKL018W	XI	404102	405088	1	Subunit of the COMPASS (Set1C) histone H3K4 methyltransferase complex; required for Set1C stability and optimal activity; COMPASS methylates histone H3 on lys 4 and is involved in telomeric silencing; subunit of CPF (cleavage and polyadenylation factor), a complex involved in RNAP II transcription termination [Source:SGD;Acc:S000001501]
+#>E	YKL018W.1	1.0	404102-405091
+XI	404417	404524	1.0	WD40_repeat	0	404417-404524	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	404183	404263	1.0	WD40_repeat	0	404183-404263	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

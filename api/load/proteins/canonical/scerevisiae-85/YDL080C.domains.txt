@@ -1,0 +1,5 @@
+#>P	YDL080C	YDL080C	YDL080C	IV	310645	312471	-1	Regulatory protein that binds Pdc2p and Thi2p transcription factors; activates thiamine biosynthesis transcription factors Pdc2p and Thi2p by binding to them, but releases and de-activates them upon binding to thiamine pyrophosphate (TPP), the end product of the pathway; has similarity to decarboxylases but enzymatic activity is not detected [Source:SGD;Acc:S000002238]
+#>E	YDL080C.1	1.0	310642-312471
+IV	311545	311838	-1.0	Thiamin_PyroP_enz_cen_dom	0	311545-311838	PF00205	http://pfam.sanger.ac.uk/family?acc=PF00205
+IV	310888	311220	-1.0	TPP_enzyme-bd_C	0	310888-311220	PF02775	http://pfam.sanger.ac.uk/family?acc=PF02775
+IV	311908	312423	-1.0	Thiamin_PyroP_enz_TPP-bd_dom	0	311908-312423	PF02776	http://pfam.sanger.ac.uk/family?acc=PF02776

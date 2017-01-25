@@ -1,0 +1,3 @@
+#>P	YDR086C	YDR086C	YDR086C	IV	616931	617170	-1	Subunit of the Sec61p translocation complex (Sec61p-Sss1p-Sbh1p); this complex forms a channel for passage of secretory proteins through the endoplasmic reticulum membrane, and of the Ssh1p complex (Ssh1p-Sbh2p-Sss1p); interacts with Ost4p and Wbp1p [Source:SGD;Acc:S000002493]
+#>E	YDR086C.1	1.0	616928-617170
+IV	616934	617098	-1.0	Translocase_SecE/Sec61-g	0	616934-617098	PF00584	http://pfam.sanger.ac.uk/family?acc=PF00584

@@ -1,0 +1,3 @@
+#>P	YJL180C	YJL180C	YJL180C	X	87586	88560	-1	Assembly factor for the F1 sector of mitochondrial F1F0 ATP synthase; conserved protein; required for the assembly of alpha and beta subunits into the F1 sector of the mitochondrial F1F0 ATP synthase; mutation of human ATP12 reduces active ATP synthase levels and is associated with the disorder ATPAF2 deficiency [Source:SGD;Acc:S000003716]
+#>E	YJL180C.1	1.0	87583-88560
+X	87976	88407	-1.0	ATP12_ATPase-F1F0-assembly	0	87976-88407	PF07542	http://pfam.sanger.ac.uk/family?acc=PF07542

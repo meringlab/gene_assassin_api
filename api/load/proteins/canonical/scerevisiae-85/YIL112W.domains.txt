@@ -1,0 +1,5 @@
+#>P	YIL112W	YIL112W	YIL112W	IX	151595	154843	1	Subunit of the Set3 complex; complex is a meiotic-specific repressor of sporulation specific genes that contains deacetylase activity; potential Cdc28p substrate [Source:SGD;Acc:S000001374]
+#>E	YIL112W.1	1.0	151595-154846
+IX	153380	153469	1.0	Ankyrin_rpt	0	153380-153469	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+IX	152789	152881	1.0	Ankyrin_rpt	0	152789-152881	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+IX	152684	152773	1.0	Ankyrin_rpt	0	152684-152773	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023

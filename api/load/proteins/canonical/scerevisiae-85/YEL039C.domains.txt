@@ -1,0 +1,3 @@
+#>P	YEL039C	YEL039C	YEL039C	V	79639	79977	-1	Cytochrome c isoform 2, expressed under hypoxic conditions; also known as iso-2-cytochrome c; electron carrier of the mitochondrial intermembrane space that transfers electrons from ubiquinone-cytochrome c oxidoreductase to cytochrome c oxidase during cellular respiration; protein abundance increases in response to DNA replication stress; CYC7 has a paralog, CYC1, that arose from the whole genome duplication [Source:SGD;Acc:S000000765]
+#>E	YEL039C.1	1.0	79636-79977
+V	79651	79941	-1.0	Cyt_c_I	0	79651-79941	PF00034	http://pfam.sanger.ac.uk/family?acc=PF00034

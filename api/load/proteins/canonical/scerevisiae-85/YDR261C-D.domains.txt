@@ -1,0 +1,5 @@
+#>P	YDR261C-D	YDR261C-D	YDR261C-D	IV	987537	992349	-1	Retrotransposon TYA Gag and TYB Pol genes; in YDRCTY1-3 TYB is mutant and probably non-functional [Source:SGD;Acc:S000007395]
+#>E	YDR261C-D.2,YDR261C-D.1	1,1	987534-991043,991045-992349
+IV	987912	988514	-1	RVT_2	0	987912-988514	PF07727	http://pfam.sanger.ac.uk/family?acc=PF07727
+IV	990006	990365	-1	Integrase_cat-core	0	990006-990365	PF00665	http://pfam.sanger.ac.uk/family?acc=PF00665
+IV	992008	992301	-1	Retrotransposon_Ty1A_N	0	992008-992301	PF01021	http://pfam.sanger.ac.uk/family?acc=PF01021

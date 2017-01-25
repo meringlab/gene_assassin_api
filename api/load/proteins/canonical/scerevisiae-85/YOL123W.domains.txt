@@ -1,0 +1,4 @@
+#>P	YOL123W	YOL123W	YOL123W	XV	87844	89445	1	Subunit of cleavage factor I; cleavage factor I is a five-subunit complex required for the cleavage and polyadenylation of pre-mRNA 3' ends; RRM-containing heteronuclear RNA binding protein and hnRNPA/B family member that binds to poly (A) signal sequences; required for genome stability [Source:SGD;Acc:S000005483]
+#>E	YOL123W.1	1.0	87844-89448
+XV	88576	88782	1.0	RRM_dom	54.7	88576-88782	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+XV	88327	88527	1.0	RRM_dom	66.9	88327-88527	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

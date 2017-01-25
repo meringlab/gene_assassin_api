@@ -1,0 +1,3 @@
+#>P	YGL142C	YGL142C	YGL142C	VII	236272	238119	-1	Integral membrane protein involved in GPI anchor synthesis; putative alpha 1,2 mannosyltransferase required for addition of the third mannose onto the glycosylphosphatidylinositol (GPI) core structure; human PIG-Bp is a functional homolog [Source:SGD;Acc:S000003110]
+#>E	YGL142C.1	1.0	236269-238119
+VII	236668	238074	-1.0	GPI_mannosylTrfase	0	236668-238074	PF03901	http://pfam.sanger.ac.uk/family?acc=PF03901

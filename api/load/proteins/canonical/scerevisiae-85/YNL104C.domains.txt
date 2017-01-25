@@ -1,0 +1,4 @@
+#>P	YNL104C	YNL104C	YNL104C	XIV	424898	426754	-1	Alpha-isopropylmalate synthase (2-isopropylmalate synthase); the main isozyme responsible for the first step in the leucine biosynthesis pathway; LEU4 has a paralog, LEU9, that arose from the whole genome duplication [Source:SGD;Acc:S000005048]
+#>E	YNL104C.1	1.0	424895-426754
+XIV	425780	426550	-1.0	PYR_CT	0	425780-426550	PF00682	http://pfam.sanger.ac.uk/family?acc=PF00682
+XIV	424973	425389	-1.0	2-isopropylmalate_synth_dimer	0	424973-425389	PF08502	http://pfam.sanger.ac.uk/family?acc=PF08502

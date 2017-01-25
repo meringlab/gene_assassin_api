@@ -1,0 +1,3 @@
+#>P	YNR047W	YNR047W	YNR047W	XIV	708523	711201	1	Ser/Thr protein kinase; regulates the putative phospholipid translocases Lem3p-Dnf1p/Dnf2p; phosphorylates and inhibits upstream inhibitory kinase, Ypk1p; localizes to the cytoplasm, early endosome/TGN compartments, and plasma membrane; FPK1 has a paralog, KIN82, that arose from the whole genome duplication [Source:SGD;Acc:S000005330]
+#>E	YNR047W.1	1.0	708523-711204
+XIV	710008	710853	1.0	Prot_kinase_cat_dom	245.4	710008-710853	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

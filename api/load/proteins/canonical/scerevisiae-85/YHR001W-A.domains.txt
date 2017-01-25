@@ -1,0 +1,3 @@
+#>P	YHR001W-A	YHR001W-A	YHR001W-A	VIII	107826	108119	1	Subunit of the ubiqunol-cytochrome c oxidoreductase complex; this complex comprises part of the mitochondrial respiratory chain; members include Cobp, Rip1p, Cyt1p, Cor1p, Qcr2p, Qcr6p, Qcr7p, Qcr8p, Qcr9p, and Qcr10p and comprises part of the mitochondrial respiratory chain [Source:SGD;Acc:S000003529]
+#>E	YHR001W-A.1,YHR001W-A.2	1,1	107826-107831,107895-108122
+VIII	107928	108119	1	Cytochrome_b-c1_10	0	107928-108119	PF09796	http://pfam.sanger.ac.uk/family?acc=PF09796

@@ -1,0 +1,3 @@
+#>P	YMR164C	YMR164C	YMR164C	XIII	587277	589550	-1	Transcription factor; involved in regulation of invasive growth and starch degradation; controls the activation of FLO11 and STA2 in response to nutritional signals; forms a heterodimer with Flo8p that interacts with the Swi/Snf complex during transcriptional activation of FLO1, FLO11, and STA1 [Source:SGD;Acc:S000004774]
+#>E	YMR164C.1	1.0	587274-589550
+XIII	589314	589394	-1.0	LisH_dimerisation_subgr	30.8	589314-589394	PF08513	http://pfam.sanger.ac.uk/family?acc=PF08513

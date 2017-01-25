@@ -1,0 +1,8 @@
+#>P	YMR207C	YMR207C	YMR207C	XIII	677196	683564	-1	Mitochondrial acetyl-coenzyme A carboxylase; catalyzes production of malonyl-CoA in mitochondrial fatty acid biosynthesis; relocalizes from mitochondrion to cytoplasm upon DNA replication stress; HFA1 has a paralog, ACC1, that arose from the whole genome duplication [Source:SGD;Acc:S000004820]
+#>E	YMR207C.1	1.0	677193-683564
+XIII	682548	683093	-1.0	CarbamoylP_synth_lsu_ATP-bd	0	682548-683093	PF02786	http://pfam.sanger.ac.uk/family?acc=PF02786
+XIII	683247	683546	-1.0	CarbamoylP_synth_lsu_N	0	683247-683546	PF00289	http://pfam.sanger.ac.uk/family?acc=PF00289
+XIII	682122	682442	-1.0	Biotin_COase_C	0	682122-682442	PF02785	http://pfam.sanger.ac.uk/family?acc=PF02785
+XIII	679452	681506	-1.0	AcCoA_COase_cen	0	679452-681506	PF08326	http://pfam.sanger.ac.uk/family?acc=PF08326
+XIII	681507	681704	-1.0	Biotin_lipoyl	0	681507-681704	PF00364	http://pfam.sanger.ac.uk/family?acc=PF00364
+XIII	677487	679160	-1.0	Carboxyl_trans	0	677487-679160	PF01039	http://pfam.sanger.ac.uk/family?acc=PF01039

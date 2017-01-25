@@ -1,0 +1,4 @@
+#>P	YOL126C	YOL126C	YOL126C	XV	81790	82920	-1	Cytoplasmic malate dehydrogenase; one of three isozymes that catalyze interconversion of malate and oxaloacetate; involved in the glyoxylate cycle and gluconeogenesis during growth on two-carbon compounds; interacts with Pck1p and Fbp1 [Source:SGD;Acc:S000005486]
+#>E	YOL126C.1	1.0	81787-82920
+XV	82423	82881	-1.0	Lactate/malate_DH_N	0	82423-82881	PF00056	http://pfam.sanger.ac.uk/family?acc=PF00056
+XV	81811	82386	-1.0	Lactate/malate_DH_C	0	81811-82386	PF02866	http://pfam.sanger.ac.uk/family?acc=PF02866

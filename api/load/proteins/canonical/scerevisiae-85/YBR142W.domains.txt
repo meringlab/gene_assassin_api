@@ -1,0 +1,4 @@
+#>P	YBR142W	YBR142W	YBR142W	II	528317	530635	1	Essential nucleolar protein; putative DEAD-box RNA helicase required for maintenance of M1 dsRNA virus; involved in biogenesis of large (60S) ribosomal subunits [Source:SGD;Acc:S000000346]
+#>E	YBR142W.1	1.0	528317-530638
+II	529760	530038	1.0	Helicase_C	0	529760-530038	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+II	528899	529462	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	528899-529462	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

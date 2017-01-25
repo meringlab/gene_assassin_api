@@ -1,0 +1,7 @@
+#>P	ENSG00000255690	ENST00000539664	ENSP00000479256	7	28955614	28958046	-1	TLR4 interactor with leucine rich repeats [Source:HGNC Symbol;Acc:HGNC:22200]
+#>E	ENSE00002268540	1.0	28955611-28958046
+7	28956802	28956888	-1.0	Cys-rich_flank_reg_C	26.4	28956802-28956888	PF01463	http://pfam.sanger.ac.uk/family?acc=PF01463
+7	28957180	28957362	-1.0	Leu-rich_rpt	236.8	28957180-28957362	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+7	28957618	28957797	-1.0	Leu-rich_rpt	236.8	28957618-28957797	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+7	28957402	28957581	-1.0	Leu-rich_rpt	236.8	28957402-28957581	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+7	28956970	28957143	-1.0	Leu-rich_rpt	236.8	28956970-28957143	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855

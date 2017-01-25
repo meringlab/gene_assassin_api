@@ -1,0 +1,4 @@
+#>P	YGL044C	YGL044C	YGL044C	VII	416149	417036	-1	Component of the cleavage and polyadenylation factor I (CF I); CF 1, composed of the CF 1A complex (Rna14p, Rna15p, Clp1p, Pcf11p) and Hrp1, is involved in cleavage and polyadenylation of mRNA 3' ends; interacts with the A-rich polyadenylation signal in complex with Rna14p and Hrp1p; mutant displays reduced transcription elongation in the G-less-based run-on (GLRO) assay; required for gene looping and maintenance of genome stability [Source:SGD;Acc:S000003012]
+#>E	YGL044C.1	1.0	416146-417036
+VII	416767	416979	-1.0	RRM_dom	0	416767-416979	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+VII	416164	416274	-1.0	CSTF_C	0	416164-416274	PF14304	http://pfam.sanger.ac.uk/family?acc=PF14304

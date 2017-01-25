@@ -1,0 +1,4 @@
+#>P	YDL155W	YDL155W	YDL155W	IV	176773	178053	1	B-type cyclin involved in cell cycle progression; activates Cdc28p to promote the G2/M transition; may be involved in DNA replication and spindle assembly; accumulates during S phase and G2, then targeted for ubiquitin-mediated degradation; relative distribution to the nucleus increases upon DNA replication stress; CLB3 has a paralog, CLB4, that arose from the whole genome duplication [Source:SGD;Acc:S000002314]
+#>E	YDL155W.1	1.0	176773-178056
+IV	177667	178008	1.0	Cyclin_C	0	177667-178008	PF02984	http://pfam.sanger.ac.uk/family?acc=PF02984
+IV	177283	177660	1.0	Cyclin_N	0	177283-177660	PF00134	http://pfam.sanger.ac.uk/family?acc=PF00134

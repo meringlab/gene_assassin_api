@@ -1,0 +1,4 @@
+#>P	YPL259C	YPL259C	YPL259C	XVI	51247	52671	-1	Mu1-like medium subunit of the AP-1 complex; binds clathrin; involved in clathrin-dependent Golgi protein sorting; the AP-1 complex is the clathrin-associated protein complex [Source:SGD;Acc:S000006180]
+#>E	YPL259C.1	1.0	51244-52671
+XVI	51253	52182	-1.0	Clathrin_mu_C	0	51253-52182	PF00928	http://pfam.sanger.ac.uk/family?acc=PF00928
+XVI	52276	52527	-1.0	AP_mu_sigma_su	0	52276-52527	PF01217	http://pfam.sanger.ac.uk/family?acc=PF01217

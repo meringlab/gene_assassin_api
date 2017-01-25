@@ -1,0 +1,4 @@
+#>P	YOR194C	YOR194C	YOR194C	XV	711686	712543	-1	TFIIA large subunit; involved in transcriptional activation, acts as antirepressor or as coactivator; required, along with Toa2p, for ribosomal protein gene transcription in vivo; homologous to largest and second largest subunits of human and Drosophila TFIIA [Source:SGD;Acc:S000005720]
+#>E	YOR194C.1	1.0	711683-712543
+XV	711983	712519	-1.0	TFIIA_asu/bsu	0	711983-712519	PF03153	http://pfam.sanger.ac.uk/family?acc=PF03153
+XV	711689	712030	-1.0	TFIIA_asu/bsu	0	711689-712030	PF03153	http://pfam.sanger.ac.uk/family?acc=PF03153

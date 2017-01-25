@@ -1,0 +1,4 @@
+#>P	YBR154C	YBR154C	YBR154C	II	548365	549009	-1	RNA polymerase subunit ABC27; common to RNA polymerases I, II, and III; contacts DNA and affects transactivation [Source:SGD;Acc:S000000358]
+#>E	YBR154C.1	1.0	548362-549009
+II	548710	549003	-1.0	RNA_pol_Rpb5_N	0	548710-549003	PF03871	http://pfam.sanger.ac.uk/family?acc=PF03871
+II	548365	548586	-1.0	RNA_pol_subH/Rpb5_C	0	548365-548586	PF01191	http://pfam.sanger.ac.uk/family?acc=PF01191

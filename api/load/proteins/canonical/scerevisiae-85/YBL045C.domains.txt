@@ -1,0 +1,4 @@
+#>P	YBL045C	YBL045C	YBL045C	II	134146	135516	-1	Core subunit of the ubiquinol-cytochrome c reductase complex; the ubiquinol-cytochrome c reductase complex (bc1 complex) is a component of the mitochondrial inner membrane electron transport chain [Source:SGD;Acc:S000000141]
+#>E	YBL045C.1	1.0	134143-135516
+II	134974	135408	-1.0	Pept_M16_N	0	134974-135408	PF00675	http://pfam.sanger.ac.uk/family?acc=PF00675
+II	134410	134952	-1.0	Peptidase_M16_C	0	134410-134952	PF05193	http://pfam.sanger.ac.uk/family?acc=PF05193

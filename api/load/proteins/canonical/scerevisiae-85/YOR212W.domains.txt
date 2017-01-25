@@ -1,0 +1,7 @@
+#>P	YOR212W	YOR212W	YOR212W	XV	742910	744178	1	G protein beta subunit; forms a dimer with Ste18p to activate the mating signaling pathway, forms a heterotrimer with Gpa1p and Ste18p to dampen signaling; may recruit Rho1p to the polarized growth site during mating; contains WD40 repeats [Source:SGD;Acc:S000005738]
+#>E	YOR212W.1	1.0	742910-744181
+XV	743159	743269	1.0	WD40_repeat	0	743159-743269	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	743432	743533	1.0	WD40_repeat	0	743432-743533	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	744053	744166	1.0	WD40_repeat	0	744053-744166	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	743312	743392	1.0	WD40_repeat	0	743312-743392	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	743549	743677	1.0	WD40_repeat	0	743549-743677	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

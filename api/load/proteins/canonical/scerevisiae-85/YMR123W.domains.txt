@@ -1,0 +1,3 @@
+#>P	YMR123W	YMR123W	YMR123W	XIII	513593	513958	1	V-ATPase assembly factor; functions with other V-ATPase assembly factors in the ER to efficiently assemble the V-ATPase membrane sector (V0); protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004730]
+#>E	YMR123W.1	1.0	513593-513961
+XIII	513593	513820	1.0	ER_Pkr1	0	513593-513820	PF08636	http://pfam.sanger.ac.uk/family?acc=PF08636

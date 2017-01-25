@@ -1,0 +1,23 @@
+#>P	WBGene00001581	F57F4.3	F57F4.3	V	6392701	6399921	-1	GEI-4 (Four) Interacting protein  [Source:RefSeq peptide;Acc:NP_504626]
+#>E	F57F4.3.e5,F57F4.3.e4,F57F4.3.e3,F57F4.3.e2,F57F4.3.e1	1,1,1,1,1	6392698-6393086,6393170-6393356,6393409-6398944,6399523-6399746,6399796-6399921
+V	6398074	6398310	-1	ET_repeat	1273.4	6398074-6398310	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6394279	6394518	-1	ET_repeat	1273.4	6394279-6394518	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6396025	6396264	-1	ET_repeat	1273.4	6396025-6396264	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6399576	6399855	-1	ET_repeat	1273.4	6399576-6399746,6399796-6399855	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6394591	6394818	-1	ET_repeat	1273.4	6394591-6394818	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6393715	6393954	-1	ET_repeat	1273.4	6393715-6393954	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6398680	6398934	-1	ET_repeat	1273.4	6398680-6398934	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6396925	6397158	-1	ET_repeat	1273.4	6396925-6397158	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6395437	6395676	-1	ET_repeat	1273.4	6395437-6395676	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6395152	6395397	-1	ET_repeat	1273.4	6395152-6395397	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6393448	6393681	-1	ET_repeat	1273.4	6393448-6393681	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6398350	6398619	-1	ET_repeat	1273.4	6398350-6398619	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6394009	6394242	-1	ET_repeat	1273.4	6394009-6394242	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6395749	6395988	-1	ET_repeat	1273.4	6395749-6395988	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6396625	6396864	-1	ET_repeat	1273.4	6396625-6396864	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6397192	6397431	-1	ET_repeat	1273.4	6397192-6397431	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6393013	6393332	-1	ET_repeat	1273.4	6393013-6393086,6393170-6393332	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6397486	6397737	-1	ET_repeat	1273.4	6397486-6397737	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6396337	6396582	-1	ET_repeat	1273.4	6396337-6396582	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6397768	6398007	-1	ET_repeat	1273.4	6397768-6398007	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684
+V	6394855	6395094	-1	ET_repeat	1273.4	6394855-6395094	PF01684	http://pfam.sanger.ac.uk/family?acc=PF01684

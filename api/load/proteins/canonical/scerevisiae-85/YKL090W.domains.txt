@@ -1,0 +1,5 @@
+#>P	YKL090W	YKL090W	YKL090W	XI	271878	273206	1	Protein of unknown function; has two CUE domains that bind ubiquitin, which may facilitate intramolecular monoubiquitination [Source:SGD;Acc:S000001573]
+#>E	YKL090W.1	1.0	271878-273209
+XI	271902	272021	1.0	CUE	0	271902-272021	PF02845	http://pfam.sanger.ac.uk/family?acc=PF02845
+XI	272046	272162	1.0	CUE	0	272046-272162	PF02845	http://pfam.sanger.ac.uk/family?acc=PF02845
+XI	272916	273179	1.0	Smr/MutS2_C	0	272916-273179	PF01713	http://pfam.sanger.ac.uk/family?acc=PF01713

@@ -1,0 +1,5 @@
+#>P	YNL003C	YNL003C	YNL003C	XIV	624978	625829	-1	S-adenosylmethionine transporter of the mitochondrial inner membrane; member of the mitochondrial carrier family; required for biotin biosynthesis and respiratory growth [Source:SGD;Acc:S000004948]
+#>E	YNL003C.1	1.0	624975-625829
+XIV	625005	625271	-1.0	Mitochondrial_sb/sol_carrier	0	625005-625271	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XIV	625611	625823	-1.0	Mitochondrial_sb/sol_carrier	0	625611-625823	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XIV	625284	625547	-1.0	Mitochondrial_sb/sol_carrier	0	625284-625547	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

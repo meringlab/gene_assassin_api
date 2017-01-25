@@ -1,0 +1,3 @@
+#>P	YPL204W	YPL204W	YPL204W	XVI	164276	165757	1	Protein kinase; involved in regulating diverse events including vesicular trafficking, DNA repair, and chromosome segregation; binds the CTD of RNA pol II; phosphorylates the COPII coat; phosphorylates Tif6p which plays a critical role in 60S ribosomal subunit biogenesis; interacts with Sit4p phosphatase; homolog of mammalian casein kinase 1delta (CK1delta) [Source:SGD;Acc:S000006125]
+#>E	YPL204W.1	1.0	164276-165760
+XVI	164300	165067	1.0	Prot_kinase_cat_dom	0	164300-165067	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

@@ -1,0 +1,3 @@
+#>P	YDR505C	YDR505C	YDR505C	IV	1456698	1459220	-1	Asn and gln rich protein of unknown function; high-copy suppressor of POL1 (DNA polymerase alpha) and partial suppressor of CDC2 (polymerase delta) and CDC6 (pre-RC loading factor) mutations; overexpression results in growth inhibition; PSP1 has a paralog, YLR177W, that arose from the whole genome duplication [Source:SGD;Acc:S000002913]
+#>E	YDR505C.1	1.0	1456695-1459220
+IV	1456926	1457270	-1.0	PSP1_C	0	1456926-1457270	PF04468	http://pfam.sanger.ac.uk/family?acc=PF04468

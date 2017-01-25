@@ -1,0 +1,3 @@
+#>P	YLR200W	YLR200W	YLR200W	XII	549012	549353	1	Subunit of the heterohexameric Gim/prefoldin protein complex; involved in the folding of alpha-tubulin, beta-tubulin, and actin; prefoldin complex also localizes to chromatin of actively transcribed genes in the nucleus and facilitates transcriptional elongation [Source:SGD;Acc:S000004190]
+#>E	YLR200W.1	1.0	549012-549356
+XII	549018	549320	1.0	PFD_beta-like	0	549018-549320	PF01920	http://pfam.sanger.ac.uk/family?acc=PF01920

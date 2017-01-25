@@ -1,0 +1,6 @@
+#>P	YHR120W	YHR120W	YHR120W	VIII	349574	352450	1	DNA-binding protein of the mitochondria; involved in repair of mitochondrial DNA; has ATPase activity and binds to DNA mismatches; has homology to E. coli MutS; transcription is induced during meiosis [Source:SGD;Acc:S000001162]
+#>E	YHR120W.1	1.0	349574-352453
+VIII	350231	350593	1.0	DNA_mismatch_repair_MutS_connt	0	350231-350593	PF05188	http://pfam.sanger.ac.uk/family?acc=PF05188
+VIII	351737	352447	1.0	DNA_mismatch_repair_MutS_C	0	351737-352447	PF00488	http://pfam.sanger.ac.uk/family?acc=PF00488
+VIII	349814	350155	1.0	DNA_mismatch_repair_MutS-lik_N	0	349814-350155	PF01624	http://pfam.sanger.ac.uk/family?acc=PF01624
+VIII	350678	351712	1.0	DNA_mismatch_repair_MutS_core	0	350678-351712	PF05192	http://pfam.sanger.ac.uk/family?acc=PF05192

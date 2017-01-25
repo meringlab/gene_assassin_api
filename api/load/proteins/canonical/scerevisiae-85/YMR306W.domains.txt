@@ -1,0 +1,4 @@
+#>P	YMR306W	YMR306W	YMR306W	XIII	881159	886513	1	Protein involved in spore wall assembly; has similarity to 1,3-beta-D-glucan synthase catalytic subunits Fks1p and Gsc2p; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies [Source:SGD;Acc:S000004923]
+#>E	YMR306W.1	1.0	881159-886516
+XIII	883235	885784	1.0	Glyco_trans_48	0	883235-885784	PF02364	http://pfam.sanger.ac.uk/family?acc=PF02364
+XIII	881699	882034	1.0	FKS1-like_dom1	0	881699-882034	PF14288	http://pfam.sanger.ac.uk/family?acc=PF14288

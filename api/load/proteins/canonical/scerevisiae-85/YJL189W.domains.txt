@@ -1,0 +1,3 @@
+#>P	YJL189W	YJL189W	YJL189W	X	75933	76471	1	Ribosomal 60S subunit protein L39; required for ribosome biogenesis; loss of both Rpl31p and Rpl39p confers lethality; also exhibits genetic interactions with SIS1 and PAB1; homologous to mammalian ribosomal protein L39, no bacterial homolog [Source:SGD;Acc:S000003725]
+#>E	YJL189W.1,YJL189W.2	1,1	75933-75938,76325-76474
+X	76343	76471	1	Ribosomal_L39	0	76343-76471	PF00832	http://pfam.sanger.ac.uk/family?acc=PF00832

@@ -1,0 +1,3 @@
+#>P	WBGene00004144	R11G11.7	R11G11.7	V	504039	504569	1	Prion-like-(Q/N-rich)-domain-bearing protein  [Source:RefSeq peptide;Acc:NP_503225]
+#>E	R11G11.7.e1,R11G11.7.e2	1,1	504039-504227,504297-504572
+V	504132	504512	1	DUF148	112.9	504132-504227,504297-504512	PF02520	http://pfam.sanger.ac.uk/family?acc=PF02520

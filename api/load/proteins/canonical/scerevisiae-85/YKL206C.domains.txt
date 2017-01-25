@@ -1,0 +1,3 @@
+#>P	YKL206C	YKL206C	YKL206C	XI	49009	49809	-1	Protein involved in 20S proteasome assembly; forms a heterodimer with Pba1p that binds to proteasome precursors; interaction with Pba1p-Add66p may affect function of the mature proteasome and its role in maintaining respiratory metabolism; similar to human PAC2 constituent of the PAC1-PAC2 complex involved in proteasome assembly [Source:SGD;Acc:S000001689]
+#>E	YKL206C.1	1.0	49006-49809
+XI	49129	49800	-1.0	Proteasome_assmbl_chaperone_2	0	49129-49800	PF09754	http://pfam.sanger.ac.uk/family?acc=PF09754

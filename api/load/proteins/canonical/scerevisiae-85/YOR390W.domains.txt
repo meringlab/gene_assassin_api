@@ -1,0 +1,4 @@
+#>P	YOR390W	YOR390W	YOR390W	XV	1076784	1077908	1	Protein involved in fluoride export; nearly identical to FEX2, and deletion of both proteins results in a large increase in fluoride sensitivity compared with the single mutant; contains two FEX domains connected by a linker; part of a widespread family of conserved fluoride export proteins [Source:SGD;Acc:S000005917]
+#>E	YOR390W.1	1.0	1076784-1077911
+XV	1076850	1077104	1.0	Camphor-R_CrcB	0	1076850-1077104	PF02537	http://pfam.sanger.ac.uk/family?acc=PF02537
+XV	1077504	1077863	1.0	Camphor-R_CrcB	0	1077504-1077863	PF02537	http://pfam.sanger.ac.uk/family?acc=PF02537

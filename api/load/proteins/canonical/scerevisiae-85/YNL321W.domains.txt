@@ -1,0 +1,5 @@
+#>P	YNL321W	YNL321W	YNL321W	XIV	34696	37419	1	Calcium/H+ antiporter localized to the endoplasmic reticulum membrane; member of the calcium exchanger (CAX) family; potential Cdc28p substrate [Source:SGD;Acc:S000005265]
+#>E	YNL321W.1	1.0	34696-37422
+XIV	36955	37389	1.0	NaCa_Exmemb	0	36955-37389	PF01699	http://pfam.sanger.ac.uk/family?acc=PF01699
+XIV	36313	36744	1.0	NaCa_Exmemb	0	36313-36744	PF01699	http://pfam.sanger.ac.uk/family?acc=PF01699
+XIV	35407	35586	1.0	DUF307	0	35407-35586	PF03733	http://pfam.sanger.ac.uk/family?acc=PF03733

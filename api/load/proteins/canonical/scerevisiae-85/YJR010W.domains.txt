@@ -1,0 +1,4 @@
+#>P	YJR010W	YJR010W	YJR010W	X	456239	457771	1	ATP sulfurylase; catalyzes the primary step of intracellular sulfate activation, essential for assimilatory reduction of sulfate to sulfide, involved in methionine metabolism [Source:SGD;Acc:S000003771]
+#>E	YJR010W.1	1.0	456239-457774
+X	456746	457399	1.0	Sulfurylase_cat_dom	0	456746-457399	PF01747	http://pfam.sanger.ac.uk/family?acc=PF01747
+X	456245	456724	1.0	ATP-Sase_PUA-like_dom	0	456245-456724	PF14306	http://pfam.sanger.ac.uk/family?acc=PF14306

@@ -1,0 +1,5 @@
+#>P	YDR168W	YDR168W	YDR168W	IV	790328	791845	1	Essential Hsp90p co-chaperone; necessary for passage through the START phase of the cell cycle; stabilizes protein kinase nascent chains and participates along with Hsp90p in their folding [Source:SGD;Acc:S000002575]
+#>E	YDR168W.1	1.0	790328-791848
+IV	790883	791428	1.0	Cdc37_Hsp90-bd	0	790883-791428	PF08565	http://pfam.sanger.ac.uk/family?acc=PF08565
+IV	790331	790876	1.0	Cdc37_N_dom	0	790331-790876	PF03234	http://pfam.sanger.ac.uk/family?acc=PF03234
+IV	791489	791773	1.0	Cdc37_C	0	791489-791773	PF08564	http://pfam.sanger.ac.uk/family?acc=PF08564

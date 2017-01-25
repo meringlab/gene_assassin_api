@@ -1,0 +1,6 @@
+#>P	YKL104C	YKL104C	YKL104C	XI	243223	245373	-1	Glutamine-fructose-6-phosphate amidotransferase; catalyzes the formation of glucosamine-6-P and glutamate from fructose-6-P and glutamine in the first step of chitin biosynthesis; GFA1 has a paralogous region, comprising ORFs YMR084W-YMR085W, that arose from the whole genome duplication [Source:SGD;Acc:S000001587]
+#>E	YKL104C.1	1.0	243220-245373
+XI	245233	245370	-1.0	GATase_2	0	245233-245370	PF00310	http://pfam.sanger.ac.uk/family?acc=PF00310
+XI	244747	245157	-1.0	GATase_2	0	244747-245157	PF00310	http://pfam.sanger.ac.uk/family?acc=PF00310
+XI	243814	244191	-1.0	SIS	0	243814-244191	PF01380	http://pfam.sanger.ac.uk/family?acc=PF01380
+XI	243277	243678	-1.0	SIS	0	243277-243678	PF01380	http://pfam.sanger.ac.uk/family?acc=PF01380

@@ -1,0 +1,3 @@
+#>P	YLR406C	YLR406C	YLR406C	XII	931068	931755	-1	Ribosomal 60S subunit protein L31B; associates with karyopherin Sxm1p; loss of both Rpl31p and Rpl39p confers lethality; homologous to mammalian ribosomal protein L31, no bacterial homolog; RPL31B has a paralog, RPL31A, that arose from the whole genome duplication [Source:SGD;Acc:S000004398]
+#>E	YLR406C.2,YLR406C.1	1,1	931065-931349,931699-931755
+XII	931146	931743	-1	Ribosomal_L31e	0	931146-931349,931699-931743	PF01198	http://pfam.sanger.ac.uk/family?acc=PF01198

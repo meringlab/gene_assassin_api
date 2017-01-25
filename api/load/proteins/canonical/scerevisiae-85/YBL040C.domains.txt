@@ -1,0 +1,3 @@
+#>P	YBL040C	YBL040C	YBL040C	II	142115	142868	-1	HDEL receptor; an integral membrane protein that binds to the HDEL motif in proteins destined for retention in the endoplasmic reticulum; has a role in maintenance of normal levels of ER-resident proteins [Source:SGD;Acc:S000000136]
+#>E	YBL040C.2,YBL040C.1	1,1	142112-142749,142847-142868
+II	142244	142687	-1	ER_ret_rcpt	0	142244-142687	PF00810	http://pfam.sanger.ac.uk/family?acc=PF00810

@@ -1,0 +1,4 @@
+#>P	YHR024C	YHR024C	YHR024C	VIII	157747	159192	-1	Alpha subunit of the mitochondrial processing protease (MPP); essential processing enzyme that cleaves the N-terminal targeting sequences from mitochondrially imported proteins [Source:SGD;Acc:S000001066]
+#>E	YHR024C.1	1.0	157744-159192
+VIII	158668	159108	-1.0	Pept_M16_N	0	158668-159108	PF00675	http://pfam.sanger.ac.uk/family?acc=PF00675
+VIII	158071	158649	-1.0	Peptidase_M16_C	0	158071-158649	PF05193	http://pfam.sanger.ac.uk/family?acc=PF05193

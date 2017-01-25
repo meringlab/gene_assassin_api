@@ -1,0 +1,4 @@
+#>P	YPL216W	YPL216W	YPL216W	XVI	143821	147126	1	Putative protein of unknown function; not an essential gene; YPL216W has a paralog, ITC1, that arose from the whole genome duplication [Source:SGD;Acc:S000006137]
+#>E	YPL216W.1	1.0	143821-147129
+XVI	144955	145080	1.0	DDT_dom	0	144955-145080	PF02791	http://pfam.sanger.ac.uk/family?acc=PF02791
+XVI	143890	144192	1.0	WSTF_Acf1_Cbp146	0	143890-144192	PF10537	http://pfam.sanger.ac.uk/family?acc=PF10537

@@ -1,0 +1,4 @@
+#>P	YIL129C	YIL129C	YIL129C	IX	106110	113237	-1	Component of the RAM signaling network; is involved in regulation of Ace2p activity and cellular morphogenesis, interacts with protein kinase Cbk1p and also with Kic1p [Source:SGD;Acc:S000001391]
+#>E	YIL129C.1	1.0	106107-113237
+IX	110577	112199	-1.0	Cell_morpho_N	0	110577-112199	PF14222	http://pfam.sanger.ac.uk/family?acc=PF14222
+IX	106764	107546	-1.0	Cell_Morphogen_C	0	106764-107546	PF14225	http://pfam.sanger.ac.uk/family?acc=PF14225

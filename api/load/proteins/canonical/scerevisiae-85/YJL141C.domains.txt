@@ -1,0 +1,3 @@
+#>P	YJL141C	YJL141C	YJL141C	X	147970	150390	-1	Serine-threonine protein kinase; component of a glucose-sensing system that inhibits growth in response to glucose availability; upon nutrient deprivation Yak1p phosphorylates Pop2p to regulate mRNA deadenylation, the co-repressor Crf1p to inhibit transcription of ribosomal genes, and the stress-responsive transcription factors Hsf1p and Msn2p; nuclear localization negatively regulated by the Ras/PKA signaling pathway in the presence of glucose [Source:SGD;Acc:S000003677]
+#>E	YJL141C.1	1.0	147967-150390
+X	148279	149280	-1.0	Prot_kinase_cat_dom	0	148279-149280	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

@@ -1,0 +1,6 @@
+#>P	YLR069C	YLR069C	YLR069C	XII	271633	273915	-1	Mitochondrial elongation factor involved in translational elongation [Source:SGD;Acc:S000004059]
+#>E	YLR069C.1	1.0	271630-273915
+XII	271669	271929	-1.0	Transl_elong_EFG/EF2_C	0	271669-271929	PF00679	http://pfam.sanger.ac.uk/family?acc=PF00679
+XII	272554	272754	-1.0	Transl_elong_EFTu/EF1A_2	0	272554-272754	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144
+XII	272875	273711	-1.0	ProtSyn_GTP-bd	0	272875-273711	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+XII	271933	272295	-1.0	Transl_elong_EFG/EF2_IV	0	271933-272295	PF03764	http://pfam.sanger.ac.uk/family?acc=PF03764

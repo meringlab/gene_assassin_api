@@ -1,0 +1,3 @@
+#>P	YGL086W	YGL086W	YGL086W	VII	347119	349365	1	Coiled-coil protein involved in spindle-assembly checkpoint; required for inhibition of karyopherin/importin Pse1p (aka Kap121p) upon spindle assembly checkpoint arrest; phosphorylated by Mps1p upon checkpoint activation which leads to inhibition of anaphase promoting complex activity; forms a complex with Mad2p; gene dosage imbalance between MAD1 and MAD2 leads to chromosome instability [Source:SGD;Acc:S000003054]
+#>E	YGL086W.1	1.0	347119-349368
+VII	348232	349356	1.0	MAD	0	348232-349356	PF05557	http://pfam.sanger.ac.uk/family?acc=PF05557

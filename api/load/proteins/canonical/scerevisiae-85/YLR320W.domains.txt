@@ -1,0 +1,3 @@
+#>P	YLR320W	YLR320W	YLR320W	XII	771940	776301	1	Subunit of E3 ubiquitin ligase complex involved in replication repair; stabilizes protein components of the replication fork, such as the fork-pausing complex and leading strand polymerase, preventing fork collapse and promoting efficient recovery during replication stress; required for accurate meiotic chromosome segregation [Source:SGD;Acc:S000004312]
+#>E	YLR320W.1	1.0	771940-776304
+XII	774211	775593	1.0	MeCH4sulfonate_sens_MMS22	0	774211-775593	PF09462	http://pfam.sanger.ac.uk/family?acc=PF09462

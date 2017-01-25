@@ -1,0 +1,3 @@
+#>P	YGR185C	YGR185C	YGR185C	VII	866339	867520	-1	Cytoplasmic tyrosyl-tRNA synthetase; required for cytoplasmic protein synthesis; interacts with positions 34 and 35 of the tRNATyr anticodon; mutations in human ortholog YARS are associated with Charcot-Marie-Tooth (CMT) neuropathies; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003417]
+#>E	YGR185C.1	1.0	866336-867520
+VII	866516	867412	-1.0	aa-tRNA-synth_Ic	0	866516-867412	PF00579	http://pfam.sanger.ac.uk/family?acc=PF00579

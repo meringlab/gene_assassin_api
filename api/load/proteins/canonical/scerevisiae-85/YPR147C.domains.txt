@@ -1,0 +1,3 @@
+#>P	YPR147C	YPR147C	YPR147C	XVI	825648	826559	-1	Putative protein of unknown function; may have a role in lipid metabolism, based on localization to lipid droplets; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm and is induced in response to the DNA-damaging agent MMS [Source:SGD;Acc:S000006351]
+#>E	YPR147C.1	1.0	825645-826559
+XVI	825684	826472	-1.0	DUF2305	0	825684-826472	PF10230	http://pfam.sanger.ac.uk/family?acc=PF10230

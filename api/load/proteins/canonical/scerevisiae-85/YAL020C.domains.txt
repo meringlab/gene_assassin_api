@@ -1,0 +1,4 @@
+#>P	YAL020C	YAL020C	YAL020C	I	113617	114615	-1	Protein required for modification of wobble nucleosides in tRNA; acts with Elongator complex, Kti11p, and Kti12p; has a potential role in regulatory interactions between microtubules and the cell cycle [Source:SGD;Acc:S000000018]
+#>E	YAL020C.1	1.0	113614-114615
+I	114463	114606	-1.0	Reg_chr_condens	0	114463-114606	PF00415	http://pfam.sanger.ac.uk/family?acc=PF00415
+I	114034	114174	-1.0	Reg_chr_condens	0	114034-114174	PF00415	http://pfam.sanger.ac.uk/family?acc=PF00415

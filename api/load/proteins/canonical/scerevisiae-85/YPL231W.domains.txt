@@ -1,0 +1,5 @@
+#>P	YPL231W	YPL231W	YPL231W	XVI	108652	114312	1	Alpha subunit of fatty acid synthetase; complex catalyzes the synthesis of long-chain saturated fatty acids; contains the acyl-carrier protein domain and beta-ketoacyl reductase, beta-ketoacyl synthase and self-pantetheinylation activities [Source:SGD;Acc:S000006152]
+#>E	YPL231W.1	1.0	108652-114315
+XVI	113953	114294	1.0	4-PPantetheinyl_Trfase	0	113953-114294	PF01648	http://pfam.sanger.ac.uk/family?acc=PF01648
+XVI	113215	113484	1.0	Ketoacyl_synth_C	0	113215-113484	PF02801	http://pfam.sanger.ac.uk/family?acc=PF02801
+XVI	112192	112815	1.0	Ketoacyl_synth_N	0	112192-112815	PF00109	http://pfam.sanger.ac.uk/family?acc=PF00109

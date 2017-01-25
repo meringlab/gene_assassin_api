@@ -1,0 +1,4 @@
+#>P	YBR060C	YBR060C	YBR060C	II	360655	362514	-1	Subunit of the origin recognition complex (ORC); ORC directs DNA replication by binding to replication origins and is also involved in transcriptional silencing; interacts with Spp1p and with trimethylated histone H3; phosphorylated by Cdc28p [Source:SGD;Acc:S000000264]
+#>E	YBR060C.1	1.0	360652-362514
+II	360688	361740	-1.0	ORC2	0	360688-361740	PF04084	http://pfam.sanger.ac.uk/family?acc=PF04084
+II	362260	362292	-1.0	AT_hook_DNA-bd_motif	0	362260-362292	PF02178	http://pfam.sanger.ac.uk/family?acc=PF02178

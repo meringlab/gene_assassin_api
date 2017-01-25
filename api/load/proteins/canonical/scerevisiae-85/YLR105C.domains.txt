@@ -1,0 +1,3 @@
+#>P	YLR105C	YLR105C	YLR105C	XII	347050	348180	-1	Subunit of the tRNA splicing endonuclease; tRNA splicing endonuclease is composed of Sen2p, Sen15p, Sen34p, and Sen54p; Sen2p contains the active site for tRNA 5' splice site cleavage and has similarity to Sen34p and to Archaeal tRNA splicing endonuclease [Source:SGD;Acc:S000004095]
+#>E	YLR105C.1	1.0	347047-348180
+XII	347173	347406	-1.0	tRNA_intron_Endonuc_cat-like	0	347173-347406	PF01974	http://pfam.sanger.ac.uk/family?acc=PF01974

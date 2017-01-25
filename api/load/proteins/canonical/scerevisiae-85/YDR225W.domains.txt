@@ -1,0 +1,3 @@
+#>P	YDR225W	YDR225W	YDR225W	IV	915530	915925	1	Histone H2A; core histone protein required for chromatin assembly and chromosome function; one of two nearly identical subtypes (see also HTA2); DNA damage-dependent phosphorylation by Mec1p facilitates DNA repair; acetylated by Nat4p; N-terminally propionylated in vivo [Source:SGD;Acc:S000002633]
+#>E	YDR225W.1	1.0	915530-915928
+IV	915584	915805	1.0	Histone_core_D	0	915584-915805	PF00125	http://pfam.sanger.ac.uk/family?acc=PF00125

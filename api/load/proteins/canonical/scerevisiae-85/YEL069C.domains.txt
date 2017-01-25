@@ -1,0 +1,3 @@
+#>P	YEL069C	YEL069C	YEL069C	V	21540	23231	-1	Hexose transporter; induced in the presence of non-fermentable carbon sources, induced by low levels of glucose, repressed by high levels of glucose; HXT13 has a paralog, HXT17, that arose from a segmental duplication [Source:SGD;Acc:S000000795]
+#>E	YEL069C.1	1.0	21537-23231
+V	21675	23054	-1.0	Sub_transporter	0	21675-23054	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083

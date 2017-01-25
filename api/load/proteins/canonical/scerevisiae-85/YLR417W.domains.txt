@@ -1,0 +1,4 @@
+#>P	YLR417W	YLR417W	YLR417W	XII	955010	956707	1	Component of the ESCRT-II complex; contains the GLUE (GRAM Like Ubiquitin binding in EAP45) domain which is involved in interactions with ESCRT-I and ubiquitin-dependent sorting of proteins into the endosome; plays a role in the formation of mutant huntingtin (Htt) aggregates in yeast [Source:SGD;Acc:S000004409]
+#>E	YLR417W.1	1.0	955010-956710
+XII	955976	956653	1.0	EAP30	0	955976-956653	PF04157	http://pfam.sanger.ac.uk/family?acc=PF04157
+XII	955031	955294	1.0	VPS36_ESCRT-II	0	955031-955294	PF11605	http://pfam.sanger.ac.uk/family?acc=PF11605

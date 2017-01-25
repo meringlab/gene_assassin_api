@@ -1,0 +1,4 @@
+#>P	YDR429C	YDR429C	YDR429C	IV	1324480	1325301	-1	eIF3g subunit of the eukaryotic translation initiation factor 3 (eIF3); subunit of the core complex of eIF3; is essential for translation; stimulates resumption of ribosomal scanning during translation reinitiation [Source:SGD;Acc:S000002837]
+#>E	YDR429C.1	1.0	1324477-1325301
+IV	1324522	1324713	-1.0	RRM_dom	0	1324522-1324713	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+IV	1324921	1325289	-1.0	eIF3g_N	0	1324921-1325289	PF12353	http://pfam.sanger.ac.uk/family?acc=PF12353

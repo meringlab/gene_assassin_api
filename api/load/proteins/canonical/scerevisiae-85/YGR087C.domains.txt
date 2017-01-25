@@ -1,0 +1,5 @@
+#>P	YGR087C	YGR087C	YGR087C	VII	651293	652981	-1	Minor isoform of pyruvate decarboxylase; decarboxylates pyruvate to acetaldehyde, involved in amino acid catabolism; transcription is glucose- and ethanol-dependent, and is strongly induced during sulfur limitation [Source:SGD;Acc:S000003319]
+#>E	YGR087C.1	1.0	651290-652981
+VII	652022	652381	-1.0	Thiamin_PyroP_enz_cen_dom	0	652022-652381	PF00205	http://pfam.sanger.ac.uk/family?acc=PF00205
+VII	652451	652969	-1.0	Thiamin_PyroP_enz_TPP-bd_dom	0	652451-652969	PF02776	http://pfam.sanger.ac.uk/family?acc=PF02776
+VII	651452	651763	-1.0	TPP_enzyme-bd_C	0	651452-651763	PF02775	http://pfam.sanger.ac.uk/family?acc=PF02775

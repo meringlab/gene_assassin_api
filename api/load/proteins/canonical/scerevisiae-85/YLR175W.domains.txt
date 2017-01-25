@@ -1,0 +1,5 @@
+#>P	YLR175W	YLR175W	YLR175W	XII	506134	507582	1	Pseudouridine synthase catalytic subunit of box H/ACA snoRNPs; acts on large and small rRNAs, on snRNA U2, and on some mRNAs; mutations in human ortholog dyskerin cause the disorder dyskeratosis congenita; small nucleolar ribonucleoprotein particles are also known as snoRNPs [Source:SGD;Acc:S000004165]
+#>E	YLR175W.1	1.0	506134-507585
+XII	506371	506721	1.0	PsdUridine_synth	0	506371-506721	PF01509	http://pfam.sanger.ac.uk/family?acc=PF01509
+XII	506185	506361	1.0	Dyskerin-like	0	506185-506361	PF08068	http://pfam.sanger.ac.uk/family?acc=PF08068
+XII	506932	507150	1.0	PUA	0	506932-507150	PF01472	http://pfam.sanger.ac.uk/family?acc=PF01472

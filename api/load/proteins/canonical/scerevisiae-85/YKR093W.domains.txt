@@ -1,0 +1,3 @@
+#>P	YKR093W	YKR093W	YKR093W	XI	615730	617532	1	Integral membrane peptide transporter; mediates transport of di- and tri-peptides; conserved protein that contains 12 transmembrane domains; PTR2 expression is regulated by the N-end rule pathway via repression by Cup9p [Source:SGD;Acc:S000001801]
+#>E	YKR093W.1	1.0	615730-617535
+XI	616192	617271	1.0	Oligopeptide_transporter	0	616192-617271	PF00854	http://pfam.sanger.ac.uk/family?acc=PF00854

@@ -1,0 +1,7 @@
+#>P	YGL100W	YGL100W	YGL100W	VII	313234	314280	1	Component of two distinct complexes; subunit of the Nup84 nuclear pore sub-complex (NPC) and the Seh1-associated (SEA) complex; the the NUP84 subcomplex contributes to nucleocytoplasmic transport and NPC biogenesis; the SEA complex is a coatamer-related complex that associates dynamically with the vacuole; homologous to human SEH1 [Source:SGD;Acc:S000003068]
+#>E	YGL100W.1	1.0	313234-314283
+VII	313525	313647	1.0	WD40_repeat	0	313525-313647	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	313849	313965	1.0	WD40_repeat	0	313849-313965	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	314119	314229	1.0	WD40_repeat	0	314119-314229	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	313372	313488	1.0	WD40_repeat	0	313372-313488	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	313249	313344	1.0	WD40_repeat	0	313249-313344	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

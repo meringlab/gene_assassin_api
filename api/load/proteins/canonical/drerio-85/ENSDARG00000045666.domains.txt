@@ -1,0 +1,8 @@
+#>P	ENSDARG00000045666	ENSDART00000067147	ENSDARP00000067146	14	444214	447612	-1	ankyrin repeat domain 50 [Source:HGNC Symbol;Acc:HGNC:29223]
+#>E	ENSDARE00000510312	1.0	444211-447612
+14	445867	446052	-1.0	Ankyrin_rpt-contain_dom	344.4	445867-446052	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796
+14	446659	446910	-1.0	Ankyrin_rpt-contain_dom	344.4	446659-446910	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796
+14	446257	446535	-1.0	Ankyrin_rpt-contain_dom	344.4	446257-446535	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796
+14	445654	445857	-1.0	Ankyrin_rpt-contain_dom	344.4	445654-445857	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796
+14	445375	445632	-1.0	Ankyrin_rpt-contain_dom	344.4	445375-445632	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796
+14	446563	446655	-1.0	Ankyrin_rpt	225.1	446563-446655	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023

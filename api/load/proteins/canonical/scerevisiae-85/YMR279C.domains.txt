@@ -1,0 +1,3 @@
+#>P	YMR279C	YMR279C	YMR279C	XIII	824732	826351	-1	Putative boron transporter involved in boron efflux and resistance; overexpression mutant but not null mutant displays boron tolerance phenotype; identified as a heat-induced gene in a high-throughout screen; YMR279C is not an essential gene; YMR279C has a paralog, ATR1, that arose from the whole genome duplication [Source:SGD;Acc:S000004892]
+#>E	YMR279C.1	1.0	824729-826351
+XIII	824921	826123	-1.0	MFS	0	824921-826123	PF07690	http://pfam.sanger.ac.uk/family?acc=PF07690

@@ -1,0 +1,4 @@
+#>P	YIR034C	YIR034C	YIR034C	IX	419618	420736	-1	Saccharopine dehydrogenase (NAD+, L-lysine-forming); catalyzes the conversion of saccharopine to L-lysine, which is the final step in the lysine biosynthesis pathway; also has mRNA binding activity [Source:SGD;Acc:S000001473]
+#>E	YIR034C.1	1.0	419615-420736
+IX	420311	420715	-1.0	AlaDH/PNT_N	0	420311-420715	PF05222	http://pfam.sanger.ac.uk/family?acc=PF05222
+IX	419786	420193	-1.0	AlaDH/PNT_NAD(H)-bd	0	419786-420193	PF01262	http://pfam.sanger.ac.uk/family?acc=PF01262

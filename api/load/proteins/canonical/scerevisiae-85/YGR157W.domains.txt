@@ -1,0 +1,4 @@
+#>P	YGR157W	YGR157W	YGR157W	VII	802440	805046	1	Phosphatidylethanolamine methyltransferase (PEMT); catalyzes the first step in the conversion of phosphatidylethanolamine to phosphatidylcholine during the methylation pathway of phosphatidylcholine biosynthesis [Source:SGD;Acc:S000003389]
+#>E	YGR157W.1	1.0	802440-805049
+VII	803091	803402	1.0	PEMT	0	803091-803402	PF04191	http://pfam.sanger.ac.uk/family?acc=PF04191
+VII	803850	804173	1.0	PEMT	0	803850-804173	PF04191	http://pfam.sanger.ac.uk/family?acc=PF04191

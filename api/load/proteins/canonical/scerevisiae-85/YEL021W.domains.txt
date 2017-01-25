@@ -1,0 +1,3 @@
+#>P	YEL021W	YEL021W	YEL021W	V	116167	116967	1	Orotidine-5'-phosphate (OMP) decarboxylase; catalyzes the sixth enzymatic step in the de novo biosynthesis of pyrimidines, converting OMP into uridine monophosphate (UMP); converts 5-FOA into 5-fluorouracil, a toxic compound [Source:SGD;Acc:S000000747]
+#>E	YEL021W.1	1.0	116167-116970
+V	116254	116919	1.0	OMPdeCOase_dom	0	116254-116919	PF00215	http://pfam.sanger.ac.uk/family?acc=PF00215

@@ -1,0 +1,3 @@
+#>P	YPL148C	YPL148C	YPL148C	XVI	272297	272815	-1	Phosphopantetheine:protein transferase (PPTase); activates mitochondrial acyl carrier protein (Acp1p) by phosphopantetheinylation [Source:SGD;Acc:S000006069]
+#>E	YPL148C.1	1.0	272294-272815
+XVI	272318	272776	-1.0	4-PPantetheinyl_Trfase	0	272318-272776	PF01648	http://pfam.sanger.ac.uk/family?acc=PF01648

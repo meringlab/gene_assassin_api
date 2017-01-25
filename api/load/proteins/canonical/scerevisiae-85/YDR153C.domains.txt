@@ -1,0 +1,3 @@
+#>P	YDR153C	YDR153C	YDR153C	IV	766739	767971	-1	Protein containing an N-terminal epsin-like domain; involved in clathrin recruitment and traffic between the Golgi and endosomes; associates with the clathrin adaptor Gga2p, clathrin adaptor complex AP-1, and clathrin [Source:SGD;Acc:S000002560]
+#>E	YDR153C.1	1.0	766736-767971
+IV	767432	767884	-1.0	Epsin_dom_N	0	767432-767884	PF01417	http://pfam.sanger.ac.uk/family?acc=PF01417

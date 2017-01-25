@@ -1,0 +1,3 @@
+#>P	YIL103W	YIL103W	YIL103W	IX	171751	173025	1	Protein required for synthesis of diphthamide; required along with Dph2p, Kti11p, Jjj3p, and Dph5p; diphthamide is a modified histidine residue of translation elongation factor 2 (Eft1p or Eft2p); may act in a complex with Dph2p and Kti11p [Source:SGD;Acc:S000001365]
+#>E	YIL103W.1	1.0	171751-173028
+IX	172045	172977	1.0	Diphthamide_synth_DHP1/DHP2	0	172045-172977	PF01866	http://pfam.sanger.ac.uk/family?acc=PF01866

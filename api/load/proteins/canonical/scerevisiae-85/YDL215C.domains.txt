@@ -1,0 +1,3 @@
+#>P	YDL215C	YDL215C	YDL215C	IV	70643	73918	-1	NAD(+)-dependent glutamate dehydrogenase; degrades glutamate to ammonia and alpha-ketoglutarate; expression sensitive to nitrogen catabolite repression and intracellular ammonia levels; genetically interacts with GDH3 by suppressing stress-induced apoptosis [Source:SGD;Acc:S000002374]
+#>E	YDL215C.1	1.0	70640-73918
+IV	70961	71779	-1.0	Glu/Leu/Phe/Val_DH_C	0	70961-71779	PF00208	http://pfam.sanger.ac.uk/family?acc=PF00208

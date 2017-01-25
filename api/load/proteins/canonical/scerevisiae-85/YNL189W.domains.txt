@@ -1,0 +1,11 @@
+#>P	YNL189W	YNL189W	YNL189W	XIV	284260	285885	1	Karyopherin alpha homolog; forms a dimer with karyopherin beta Kap95p to mediate import of nuclear proteins, binds the nuclear localization signal of the substrate during import; involved in cotranslational protein degradation; binds ribosome-bound nascent polypeptides; Srp1p and Sts1p couple proteasomes to nascent polypeptides emerging from the ribosome for cotranslational degradation [Source:SGD;Acc:S000005133]
+#>E	YNL189W.1	1.0	284260-285888
+XIV	284287	284586	1.0	Importin-a_IBB	0	284287-284586	PF01749	http://pfam.sanger.ac.uk/family?acc=PF01749
+XIV	285511	285627	1.0	Armadillo	0	285511-285627	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+XIV	285247	285369	1.0	Armadillo	0	285247-285369	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+XIV	285007	285117	1.0	Armadillo	0	285007-285117	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+XIV	284746	284862	1.0	Armadillo	0	284746-284862	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+XIV	285373	285492	1.0	Armadillo	0	285373-285492	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+XIV	285124	285240	1.0	Armadillo	0	285124-285240	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+XIV	284872	284991	1.0	Armadillo	0	284872-284991	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514
+XIV	284617	284739	1.0	Armadillo	0	284617-284739	PF00514	http://pfam.sanger.ac.uk/family?acc=PF00514

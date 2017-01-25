@@ -1,0 +1,3 @@
+#>P	YGR062C	YGR062C	YGR062C	VII	616331	617278	-1	Protein required for membrane insertion of C-terminus of Cox2p; mitochondrial integral inner membrane protein; interacts genetically and physically with Mss2p and Pnt1p; similar to S. cerevisiae Oxa1, N. crassa Oxa2p, and E. coli YidC [Source:SGD;Acc:S000003294]
+#>E	YGR062C.1	1.0	616328-617278
+VII	616346	617113	-1.0	Membrane_insertion_OxaA/YidC	0	616346-617113	PF02096	http://pfam.sanger.ac.uk/family?acc=PF02096

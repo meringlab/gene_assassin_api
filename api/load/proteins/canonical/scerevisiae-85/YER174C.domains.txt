@@ -1,0 +1,4 @@
+#>P	YER174C	YER174C	YER174C	V	538437	539168	-1	Glutathione-dependent oxidoreductase; hydroperoxide and superoxide-radical responsive; monothiol glutaredoxin subfamily member along with Grx3p and Grx5p; protects cells from oxidative damage; with Grx3p, binds to Aft1p in iron-replete conditions, promoting its dissociation from promoters; mutant has increased aneuploidy tolerance; transcription regulated by Yap5p; GRX4 has a paralog, GRX3, that arose from the whole genome duplication [Source:SGD;Acc:S000000976]
+#>E	YER174C.1	1.0	538434-539168
+V	538506	538697	-1.0	Glutaredoxin	0	538506-538697	PF00462	http://pfam.sanger.ac.uk/family?acc=PF00462
+V	538863	539147	-1.0	Thioredoxin_domain	0	538863-539147	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085

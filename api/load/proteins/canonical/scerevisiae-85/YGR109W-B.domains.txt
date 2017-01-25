@@ -1,0 +1,6 @@
+#>P	YGR109W-B	YGR109W-B	YGR109W-B	VII	707610	712251	1	Retrotransposon TYA Gag and TYB Pol genes; transcribed/translated as one unit; polyprotein is processed to make a nucleocapsid-like protein (Gag), reverse transcriptase (RT), protease (PR), and integrase (IN); similar to retroviral genes [Source:SGD;Acc:S000007347]
+#>E	YGR109W-B.1,YGR109W-B.2	1,1	707610-708459,708461-712254
+VII	711121	711450	1	Integrase_cat-core	0	711121-711450	PF00665	http://pfam.sanger.ac.uk/family?acc=PF00665
+VII	707817	708080	1	Retrotrans_gag	0	707817-708080	PF03732	http://pfam.sanger.ac.uk/family?acc=PF03732
+VII	709525	710001	1	RVT	0	709525-710001	PF00078	http://pfam.sanger.ac.uk/family?acc=PF00078
+VII	708466	708996	1	Peptidase_A2B	0	708466-708996	PF12384	http://pfam.sanger.ac.uk/family?acc=PF12384

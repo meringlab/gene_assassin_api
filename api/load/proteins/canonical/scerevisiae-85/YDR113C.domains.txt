@@ -1,0 +1,3 @@
+#>P	YDR113C	YDR113C	YDR113C	IV	680499	681617	-1	Securin; inhibits anaphase by binding separin Esp1p; blocks cyclin destruction and mitotic exit, essential for meiotic progression and mitotic cell cycle arrest; localization is cell-cycle dependent and regulated by Cdc28p phosphorylation [Source:SGD;Acc:S000002520]
+#>E	YDR113C.1	1.0	680496-681617
+IV	680550	681593	-1.0	Securin_separation_inhibitor	269.4	680550-681593	PF04856	http://pfam.sanger.ac.uk/family?acc=PF04856

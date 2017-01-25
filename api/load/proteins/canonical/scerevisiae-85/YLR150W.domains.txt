@@ -1,0 +1,3 @@
+#>P	YLR150W	YLR150W	YLR150W	XII	440467	441285	1	Protein required for optimal translation under nutrient stress; perturbs association of Yef3p with ribosomes; involved in TOR signaling; binds G4 quadruplex and purine motif triplex nucleic acid; helps maintain telomere structure; protein abundance increases in response to DNA replication stress; serves as a ribosome preservation factor both during quiescence and recovery [Source:SGD;Acc:S000004140]
+#>E	YLR150W.1	1.0	440467-441288
+XII	440473	440652	1.0	Stm1_N	0	440473-440652	PF09598	http://pfam.sanger.ac.uk/family?acc=PF09598

@@ -1,0 +1,5 @@
+#>P	YHR099W	YHR099W	YHR099W	VIII	302761	313992	1	Subunit of SAGA and NuA4 histone acetyltransferase complexes; interacts with acidic activators (e.g., Gal4p) which leads to transcription activation; similar to human TRRAP, which is a cofactor for c-Myc mediated oncogenic transformation [Source:SGD;Acc:S000001141]
+#>E	YHR099W.1	1.0	302761-313995
+VIII	312961	313785	1.0	PI3/4_kinase_cat_dom	0	312961-313785	PF00454	http://pfam.sanger.ac.uk/family?acc=PF00454
+VIII	311029	312078	1.0	PIK-rel_kinase_FAT	0	311029-312078	PF02259	http://pfam.sanger.ac.uk/family?acc=PF02259
+VIII	313897	313992	1.0	FATC	0	313897-313992	PF02260	http://pfam.sanger.ac.uk/family?acc=PF02260

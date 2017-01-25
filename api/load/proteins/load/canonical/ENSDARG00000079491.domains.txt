@@ -1,5 +1,0 @@
-#>P	ENSDARG00000079491	ENSDART00000109628	ENSDARP00000097504	6	49307801	49309249	1	potassium channel, voltage gated shaker related subfamily A, member 3 [Source:HGNC Symbol;Acc:HGNC:6221]
-#>E	ENSDARE00000845559	1.0	49307801-49309252
-6	49308779	49309003	1.0	2pore_dom_K_chnl_dom	49.7	49308779-49309003	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
-6	49307903	49308175	1.0	T1-type_BTB	97.0	49307903-49308175	PF02214	http://pfam.sanger.ac.uk/family?acc=PF02214
-6	49308455	49309000	1.0	Ion_trans_dom	113.9	49308455-49309000	PF00520	http://pfam.sanger.ac.uk/family?acc=PF00520

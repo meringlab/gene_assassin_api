@@ -1,0 +1,8 @@
+#>P	YOR272W	YOR272W	YOR272W	XV	832813	834192	1	Constituent of 66S pre-ribosomal particles; forms a complex with Nop7p and Erb1p that is required for maturation of the large ribosomal subunit; has seven C-terminal WD repeats [Source:SGD;Acc:S000005798]
+#>E	YOR272W.1	1.0	832813-834195
+XV	833404	833517	1.0	WD40_repeat	0	833404-833517	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	833215	833325	1.0	WD40_repeat	0	833215-833325	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	833914	834024	1.0	WD40_repeat	0	833914-834024	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	833650	833760	1.0	WD40_repeat	0	833650-833760	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	833116	833205	1.0	WD40_repeat	0	833116-833205	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	832831	833028	1.0	NLE	0	832831-833028	PF08154	http://pfam.sanger.ac.uk/family?acc=PF08154

@@ -1,0 +1,3 @@
+#>P	YDL021W	YDL021W	YDL021W	IV	413953	414885	1	Homolog of Gpm1p phosphoglycerate mutase; converts 3-phosphoglycerate to 2-phosphoglycerate in glycolysis; may be non-functional; GPM2 has a paralog, GPM3, that arose from the whole genome duplication [Source:SGD;Acc:S000002179]
+#>E	YDL021W.1	1.0	413953-414888
+IV	413983	414699	1.0	His_Pase_superF_clade-1	0	413983-414699	PF00300	http://pfam.sanger.ac.uk/family?acc=PF00300

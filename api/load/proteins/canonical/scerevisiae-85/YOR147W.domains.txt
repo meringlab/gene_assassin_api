@@ -1,0 +1,4 @@
+#>P	YOR147W	YOR147W	YOR147W	XV	606607	608472	1	Mitochondrial inner membrane protein with similarity to Mdm31p; required for normal mitochondrial morphology and inheritance; interacts genetically with MMM1, MDM10, MDM12, and MDM34; variation between SK1 and S288C at residues 182 and 262 impacts invasive growth and mitochondrial network structure [Source:SGD;Acc:S000005673]
+#>E	YOR147W.1	1.0	606607-608475
+XV	606874	607104	1.0	MDM31_MDM32_fun	0	606874-607104	PF08118	http://pfam.sanger.ac.uk/family?acc=PF08118
+XV	607276	607908	1.0	MDM31_MDM32_fun	0	607276-607908	PF08118	http://pfam.sanger.ac.uk/family?acc=PF08118

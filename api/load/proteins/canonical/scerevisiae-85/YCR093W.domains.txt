@@ -1,0 +1,4 @@
+#>P	YCR093W	YCR093W	YCR093W	III	280117	286440	1	Component of the CCR4-NOT1 core complex; this complex has multiple roles in regulating mRNA levels including regulation of transcription and destabilizing mRNAs by deadenylation; basal transcription factor [Source:SGD;Acc:S000000689]
+#>E	YCR093W.1	1.0	280117-286443
+III	283369	283803	1.0	CCR4-Not_Not1su_DUF3819	0	283369-283803	PF12842	http://pfam.sanger.ac.uk/family?acc=PF12842
+III	285211	286356	1.0	CCR4-Not_Not1_C	0	285211-286356	PF04054	http://pfam.sanger.ac.uk/family?acc=PF04054

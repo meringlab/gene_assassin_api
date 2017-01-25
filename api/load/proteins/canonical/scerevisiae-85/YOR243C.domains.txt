@@ -1,0 +1,3 @@
+#>P	YOR243C	YOR243C	YOR243C	XV	790214	792241	-1	Pseudouridine synthase; catalyzes pseudouridylation at positions 35 and 56 in U2 snRNA, position 50 in 5S rRNA, position 13 in cytoplasmic tRNAs, and position 35 in pre-tRNA(Tyr); also pseudouridylates some mRNAs; relocates from nucleus to cytoplasm during heat shock and differentially modifies some mRNAs during heat shock; conserved in archaea, vertebrates, and some bacteria [Source:SGD;Acc:S000005769]
+#>E	YOR243C.1	1.0	790211-792241
+XV	790268	791590	-1.0	PsdUridine_synth_TruD	208.7	790268-791590	PF01142	http://pfam.sanger.ac.uk/family?acc=PF01142

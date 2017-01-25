@@ -1,0 +1,3 @@
+#>P	YBR270C	YBR270C	YBR270C	II	742764	744398	-1	Subunit of TORC2 membrane-associated complex; involved in regulation of actin cytoskeletal dynamics during polarized growth and cell wall integrity; interacts with Slm1p and Slm2p, homologous PH domain-containing TORC2 substrates; BIT2 has a paralog, BIT61, that arose from the whole genome duplication [Source:SGD;Acc:S000000474]
+#>E	YBR270C.1	1.0	742761-744398
+II	742947	743429	-1.0	HbrB	0	742947-743429	PF08539	http://pfam.sanger.ac.uk/family?acc=PF08539

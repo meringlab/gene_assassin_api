@@ -1,0 +1,7 @@
+#>P	YKL203C	YKL203C	YKL203C	XI	55938	63359	-1	PIK-related protein kinase and rapamycin target; subunit of TORC1, a complex that regulates growth in response to nutrients and TORC2, a complex that regulates cell-cycle dependent polarization of the actin cytoskeleton; involved in meiosis; TOR2 has a paralog, TOR1, that arose from the whole genome duplication [Source:SGD;Acc:S000001686]
+#>E	YKL203C.1	1.0	55935-63359
+XI	56250	56993	-1.0	PI3/4_kinase_cat_dom	0	56250-56993	PF00454	http://pfam.sanger.ac.uk/family?acc=PF00454
+XI	55938	56033	-1.0	FATC	0	55938-56033	PF02260	http://pfam.sanger.ac.uk/family?acc=PF02260
+XI	57816	58958	-1.0	PIK-rel_kinase_FAT	0	57816-58958	PF02259	http://pfam.sanger.ac.uk/family?acc=PF02259
+XI	60375	60854	-1.0	DUF3385_TOR	0	60375-60854	PF11865	http://pfam.sanger.ac.uk/family?acc=PF11865
+XI	57198	57497	-1.0	FKBP_rapamycin-assoc_FKBP12-bd	0	57198-57497	PF08771	http://pfam.sanger.ac.uk/family?acc=PF08771

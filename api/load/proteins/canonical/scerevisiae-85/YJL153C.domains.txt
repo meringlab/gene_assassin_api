@@ -1,0 +1,4 @@
+#>P	YJL153C	YJL153C	YJL153C	X	134335	135933	-1	Inositol-3-phosphate synthase; involved in synthesis of inositol phosphates and inositol-containing phospholipids; transcription is coregulated with other phospholipid biosynthetic genes by Ino2p and Ino4p, which bind the UASINO DNA element [Source:SGD;Acc:S000003689]
+#>E	YJL153C.1	1.0	134332-135933
+X	134389	135738	-1.0	Myo-inos-1-P_Synthase	0	134389-135738	PF07994	http://pfam.sanger.ac.uk/family?acc=PF07994
+X	134617	134964	-1.0	Myo-inos-1-P_Synthase_GAPDH	0	134617-134964	PF01658	http://pfam.sanger.ac.uk/family?acc=PF01658

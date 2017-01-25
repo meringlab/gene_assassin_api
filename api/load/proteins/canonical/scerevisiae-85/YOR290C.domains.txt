@@ -1,0 +1,6 @@
+#>P	YOR290C	YOR290C	YOR290C	XV	855150	860258	-1	Catalytic subunit of the SWI/SNF chromatin remodeling complex; involved in transcriptional regulation; contains DNA-stimulated ATPase activity; functions interdependently in transcriptional activation with Snf5p and Snf6p [Source:SGD;Acc:S000005816]
+#>E	YOR290C.1	1.0	855147-860258
+XV	856656	856895	-1.0	Helicase_C	0	856656-856895	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XV	855336	855551	-1.0	Bromodomain	0	855336-855551	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439
+XV	859413	859520	-1.0	Gln-Leu-Gln_QLQ	0	859413-859520	PF08880	http://pfam.sanger.ac.uk/family?acc=PF08880
+XV	857067	857951	-1.0	SNF2_N	0	857067-857951	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176

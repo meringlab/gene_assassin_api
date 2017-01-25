@@ -1,0 +1,4 @@
+#>P	YNL231C	YNL231C	YNL231C	XIV	215990	217042	-1	Phosphatidylinositol transfer protein (PITP); controlled by the multiple drug resistance regulator Pdr1p; localizes to lipid particles and microsomes; controls levels of various lipids, may regulate lipid synthesis; homologous to Pdr17p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005175]
+#>E	YNL231C.1	1.0	215987-217042
+XIV	216173	216631	-1.0	CRAL-TRIO_dom	0	216173-216631	PF00650	http://pfam.sanger.ac.uk/family?acc=PF00650
+XIV	216710	216910	-1.0	CRAL/TRIO_N_dom	0	216710-216910	PF03765	http://pfam.sanger.ac.uk/family?acc=PF03765

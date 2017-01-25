@@ -1,0 +1,7 @@
+#>P	YJL031C	YJL031C	YJL031C	X	386371	387438	-1	Alpha subunit of Type II geranylgeranyltransferase; required for vesicular transport between the endoplasmic reticulum and the Golgi; provides a membrane attachment moiety to Rab-like proteins Ypt1p and Sec4p [Source:SGD;Acc:S000003568]
+#>E	YJL031C.2,YJL031C.1	1,1	386368-387348,387436-387438
+X	387004	387093	-1	Prenyl_trans_a	0	387004-387093	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239
+X	387133	387213	-1	Prenyl_trans_a	0	387133-387213	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239
+X	386638	386721	-1	Prenyl_trans_a	0	386638-386721	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239
+X	386887	386973	-1	Prenyl_trans_a	0	386887-386973	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239
+X	386770	386856	-1	Prenyl_trans_a	0	386770-386856	PF01239	http://pfam.sanger.ac.uk/family?acc=PF01239

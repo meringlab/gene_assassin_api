@@ -1,0 +1,3 @@
+#>P	YKR039W	YKR039W	YKR039W	XI	515063	516868	1	General amino acid permease; Gap1p senses the presence of amino acid substrates to regulate localization to the plasma membrane when needed; essential for invasive growth [Source:SGD;Acc:S000001747]
+#>E	YKR039W.1	1.0	515063-516871
+XI	515342	516736	1.0	AA-permease_dom	0	515342-516736	PF00324	http://pfam.sanger.ac.uk/family?acc=PF00324

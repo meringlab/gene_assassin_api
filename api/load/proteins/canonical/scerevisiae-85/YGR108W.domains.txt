@@ -1,0 +1,4 @@
+#>P	YGR108W	YGR108W	YGR108W	VII	703636	705048	1	B-type cyclin involved in cell cycle progression; activates Cdc28p to promote the transition from G2 to M phase; accumulates during G2 and M, then targeted via a destruction box motif for ubiquitin-mediated degradation by the proteasome; CLB1 has a paralog, CLB2, that arose from the whole genome duplication [Source:SGD;Acc:S000003340]
+#>E	YGR108W.1	1.0	703636-705051
+VII	704653	704988	1.0	Cyclin_C	0	704653-704988	PF02984	http://pfam.sanger.ac.uk/family?acc=PF02984
+VII	704269	704643	1.0	Cyclin_N	0	704269-704643	PF00134	http://pfam.sanger.ac.uk/family?acc=PF00134

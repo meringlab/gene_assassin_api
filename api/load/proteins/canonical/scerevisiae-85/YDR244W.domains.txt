@@ -1,0 +1,5 @@
+#>P	YDR244W	YDR244W	YDR244W	IV	950563	952398	1	Peroxisomal membrane signal receptor for peroxisomal matrix proteins; receptor for the C-terminal tripeptide signal sequence (PTS1) of peroxisomal matrix proteins; required for peroxisomal matrix protein import; also proposed to have PTS1-receptor independent functions [Source:SGD;Acc:S000002652]
+#>E	YDR244W.1	1.0	950563-952401
+IV	951943	952032	1.0	TPR-1	0	951943-952032	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+IV	952042	952134	1.0	TPR-1	0	952042-952134	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+IV	951604	951702	1.0	TPR_repeat	0	951604-951702	PF13181	http://pfam.sanger.ac.uk/family?acc=PF13181

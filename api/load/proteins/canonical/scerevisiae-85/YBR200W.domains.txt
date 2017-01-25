@@ -1,0 +1,6 @@
+#>P	YBR200W	YBR200W	YBR200W	II	620872	622524	1	Protein containing SH3-domains; involved in establishing cell polarity and morphogenesis; functions as a scaffold protein for complexes that include Cdc24p, Ste5p, Ste20p, and Rsr1p [Source:SGD;Acc:S000000404]
+#>E	YBR200W.1	1.0	620872-622527
+II	622303	622521	1.0	OPR_PB1	0	622303-622521	PF00564	http://pfam.sanger.ac.uk/family?acc=PF00564
+II	621103	621240	1.0	SH3_domain	0	621103-621240	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+II	621352	621498	1.0	SH3_domain	0	621352-621498	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+II	621748	622065	1.0	Phox	0	621748-622065	PF00787	http://pfam.sanger.ac.uk/family?acc=PF00787

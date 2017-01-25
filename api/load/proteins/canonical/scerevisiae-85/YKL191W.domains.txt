@@ -1,0 +1,4 @@
+#>P	YKL191W	YKL191W	YKL191W	XI	81035	82636	1	Protein required for synthesis of diphthamide; required along with Dph1p, Kti11p, Jjj3p, and Dph5p; diphthamide is a modified histidine residue of translation elongation factor 2 (Eft1p or Eft2p); may act in a complex with Dph1p and Kti11p [Source:SGD;Acc:S000001674]
+#>E	YKL191W.1	1.0	81035-82639
+XI	81239	81616	1.0	Diphthamide_synth_DHP1/DHP2	0	81239-81616	PF01866	http://pfam.sanger.ac.uk/family?acc=PF01866
+XI	81899	82228	1.0	Diphthamide_synth_DHP1/DHP2	0	81899-82228	PF01866	http://pfam.sanger.ac.uk/family?acc=PF01866

@@ -1,0 +1,3 @@
+#>P	YDR403W	YDR403W	YDR403W	IV	1274602	1276209	1	Sporulation-specific enzyme required for spore wall maturation; involved in the production of a soluble LL-dityrosine-containing precursor of the spore wall; transcripts accumulate at the time of prospore enclosure [Source:SGD;Acc:S000002811]
+#>E	YDR403W.1	1.0	1274602-1276212
+IV	1275214	1276146	1.0	DIT1_PvcA	0	1275214-1276146	PF05141	http://pfam.sanger.ac.uk/family?acc=PF05141

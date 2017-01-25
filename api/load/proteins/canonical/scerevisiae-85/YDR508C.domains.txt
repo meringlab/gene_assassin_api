@@ -1,0 +1,3 @@
+#>P	YDR508C	YDR508C	YDR508C	IV	1466456	1468444	-1	High-affinity glutamine permease; also transports Leu, Ser, Thr, Cys, Met and Asn; expression is fully dependent on Grr1p and modulated by the Ssy1p-Ptr3p-Ssy5p (SPS) sensor of extracellular amino acids; GNP1 has a paralog, AGP1, that arose from the whole genome duplication [Source:SGD;Acc:S000002916]
+#>E	YDR508C.1	1.0	1466453-1468444
+IV	1466591	1467988	-1.0	AA-permease_dom	0	1466591-1467988	PF00324	http://pfam.sanger.ac.uk/family?acc=PF00324

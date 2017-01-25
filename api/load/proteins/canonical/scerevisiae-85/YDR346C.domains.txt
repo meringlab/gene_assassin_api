@@ -1,0 +1,3 @@
+#>P	YDR346C	YDR346C	YDR346C	IV	1167217	1168659	-1	Protein with a potential role in cell survival pathways; required for the diauxic growth shift; expression in mammalian cells increases survival under conditions inducing apoptosis; mutant has increased aneuploidy tolerance [Source:SGD;Acc:S000002754]
+#>E	YDR346C.1	1.0	1167214-1168659
+IV	1167256	1168500	-1.0	Oxidative_stress_survival	0	1167256-1168500	PF08622	http://pfam.sanger.ac.uk/family?acc=PF08622

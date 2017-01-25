@@ -1,0 +1,3 @@
+#>P	YDL075W	YDL075W	YDL075W	IV	322226	322985	1	Ribosomal 60S subunit protein L31A; associates with karyopherin Sxm1p; loss of both Rpl31p and Rpl39p confers lethality; homologous to mammalian ribosomal protein L31, no bacterial homolog; RPL31A has a paralog, RPL31B, that arose from the whole genome duplication [Source:SGD;Acc:S000002233]
+#>E	YDL075W.1,YDL075W.2	1,1	322226-322282,322704-322988
+IV	322238	322907	1	Ribosomal_L31e	0	322238-322282,322704-322907	PF01198	http://pfam.sanger.ac.uk/family?acc=PF01198

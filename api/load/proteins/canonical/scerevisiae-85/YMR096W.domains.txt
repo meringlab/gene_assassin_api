@@ -1,0 +1,3 @@
+#>P	YMR096W	YMR096W	YMR096W	XIII	458408	459298	1	Protein involved in vitamin B6 biosynthesis; member of a stationary phase-induced gene family; coregulated with SNO1; interacts with Sno1p and with Yhr198p, perhaps as a multiprotein complex containing other Snz and Sno proteins [Source:SGD;Acc:S000004702]
+#>E	YMR096W.1	1.0	458408-459301
+XIII	458420	459043	1.0	Snz1p/Sor1	0	458420-459043	PF01680	http://pfam.sanger.ac.uk/family?acc=PF01680

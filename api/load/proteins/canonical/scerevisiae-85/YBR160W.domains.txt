@@ -1,0 +1,3 @@
+#>P	YBR160W	YBR160W	YBR160W	II	560078	560971	1	Cyclin-dependent kinase (CDK) catalytic subunit; master regulator of mitotic and meiotic cell cycles; alternately associates with G1 (CLNs), S and G2/M (CLBs) phase cyclins, which provide substrate specificity; regulates cell cycle and basal transcription, chromosome duplication and segregation, lipid biosynthesis, membrane trafficking, polarized growth, and morphogenesis; abundance increases in DNA replication stress; transcript induction in osmostress involves antisense RNA [Source:SGD;Acc:S000000364]
+#>E	YBR160W.1	1.0	560078-560974
+II	560099	560962	1.0	Prot_kinase_cat_dom	237.7	560099-560962	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

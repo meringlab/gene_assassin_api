@@ -1,0 +1,3 @@
+#>P	YCR054C	YCR054C	YCR054C	III	218379	220067	-1	Essential protein of unknown function; with orthologs in Ashbya gossypii and Candida albicans; similar to human ATXN10, mutations in which cause spinocerebellar ataxia type 10; codon usage corresponds to that observed for yeast genes expressed at low levels; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000000650]
+#>E	YCR054C.1	1.0	218376-220067
+III	218433	218732	-1.0	Ataxin-10_domain	0	218433-218732	PF09759	http://pfam.sanger.ac.uk/family?acc=PF09759

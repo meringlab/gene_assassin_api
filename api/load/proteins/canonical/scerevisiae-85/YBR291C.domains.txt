@@ -1,0 +1,5 @@
+#>P	YBR291C	YBR291C	YBR291C	II	783676	784572	-1	Mitochondrial inner membrane citrate transporter; member of the mitochondrial carrier family [Source:SGD;Acc:S000000495]
+#>E	YBR291C.1	1.0	783673-784572
+II	783964	784245	-1.0	Mitochondrial_sb/sol_carrier	0	783964-784245	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+II	783682	783930	-1.0	Mitochondrial_sb/sol_carrier	0	783682-783930	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+II	784270	784545	-1.0	Mitochondrial_sb/sol_carrier	0	784270-784545	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

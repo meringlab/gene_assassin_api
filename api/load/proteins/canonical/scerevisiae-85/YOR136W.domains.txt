@@ -1,0 +1,3 @@
+#>P	YOR136W	YOR136W	YOR136W	XV	580250	581356	1	Subunit of mitochondrial NAD(+)-dependent isocitrate dehydrogenase; complex catalyzes the oxidation of isocitrate to alpha-ketoglutarate in the TCA cycle; phosphorylated [Source:SGD;Acc:S000005662]
+#>E	YOR136W.1	1.0	580250-581359
+XV	580364	581344	1.0	IsoPropMal-DH-like_dom	0	580364-581344	PF00180	http://pfam.sanger.ac.uk/family?acc=PF00180

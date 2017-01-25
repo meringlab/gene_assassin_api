@@ -1,0 +1,3 @@
+#>P	WBGene00019725	M02B7.4b	M02B7.4b	IV	3801996	3803372	-1	Asparagine Linked Glycosylation (ALG) homolog, Nematode  [Source:RefSeq peptide;Acc:NP_001294286]
+#>E	M02B7.4a.e4,M02B7.4b.e2,M02B7.4b.e1	1,0,0	3801993-3802278,3802880-3803202,3803247-3803372
+IV	3802047	3803196	-1	Oligosacch_biosynth_Alg14	186.8	3802047-3802278,3802880-3803196	PF08660	http://pfam.sanger.ac.uk/family?acc=PF08660

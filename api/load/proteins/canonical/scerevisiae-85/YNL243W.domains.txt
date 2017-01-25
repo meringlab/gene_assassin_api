@@ -1,0 +1,4 @@
+#>P	YNL243W	YNL243W	YNL243W	XIV	188051	190954	1	Adaptor protein that links actin to clathrin and endocytosis; involved in membrane cytoskeleton assembly and cell polarization; present in the actin cortical patch of the emerging bud tip; dimer in vivo [Source:SGD;Acc:S000005187]
+#>E	YNL243W.1	1.0	188051-190957
+XIV	190352	190942	1.0	ILWEQ	0	190352-190942	PF01608	http://pfam.sanger.ac.uk/family?acc=PF01608
+XIV	188063	188857	1.0	ANTH	0	188063-188857	PF07651	http://pfam.sanger.ac.uk/family?acc=PF07651

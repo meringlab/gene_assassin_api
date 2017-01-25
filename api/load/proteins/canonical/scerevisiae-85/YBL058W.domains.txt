@@ -1,0 +1,4 @@
+#>P	YBL058W	YBL058W	YBL058W	II	111437	112705	1	UBX (ubiquitin regulatory X) domain-containing protein; regulates Glc7p phosphatase activity; shp1 mutants are impaired in growth and mitotic progression; functions in growth and mitotic progression require Cdc48p binding; mitotic phenotype is caused by reduced Glc7p activity; interacts with ubiquitylated proteins, required for degradation of a ubiquitylated model substrate [Source:SGD;Acc:S000000154]
+#>E	YBL058W.1	1.0	111437-112708
+II	112145	112369	1.0	SEP_domain	0	112145-112369	PF08059	http://pfam.sanger.ac.uk/family?acc=PF08059
+II	112469	112702	1.0	UBX	0	112469-112702	PF00789	http://pfam.sanger.ac.uk/family?acc=PF00789

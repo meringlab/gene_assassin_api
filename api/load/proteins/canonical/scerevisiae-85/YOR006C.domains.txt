@@ -1,0 +1,4 @@
+#>P	YOR006C	YOR006C	YOR006C	XV	337683	338621	-1	Protein required for 20S pre-rRNA processing; involved in processing of the 20S pre-rRNA at site D to generate mature 18S rRNA; green fluorescent protein (GFP)-fusion protein localizes to both the cytoplasm and the nucleus; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000005532]
+#>E	YOR006C.1	1.0	337680-338621
+XV	338382	338486	-1.0	RNaseL-inhib_metal-bd_dom	0	338382-338486	PF04068	http://pfam.sanger.ac.uk/family?acc=PF04068
+XV	337989	338372	-1.0	DUF367	0	337989-338372	PF04034	http://pfam.sanger.ac.uk/family?acc=PF04034

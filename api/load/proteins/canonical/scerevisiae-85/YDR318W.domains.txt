@@ -1,0 +1,3 @@
+#>P	YDR318W	YDR318W	YDR318W	IV	1103758	1104944	1	Component of the kinetochore sub-complex COMA; COMA (Ctf19p, Okp1p, Mcm21p, Ame1p) bridges kinetochore subunits in contact with centromeric DNA with subunits bound to microtubules during kinetochore assembly; involved in minichromosome maintenance; modified by sumoylation; orthologous to human centromere constitutive-associated network (CCAN) subunit CENP-O and fission yeast mal2 [Source:SGD;Acc:S000002726]
+#>E	YDR318W.1,YDR318W.2	1,1	1103758-1103809,1103893-1104947
+IV	1104444	1104704	1	Centromere_CenpO	0	1104444-1104704	PF09496	http://pfam.sanger.ac.uk/family?acc=PF09496

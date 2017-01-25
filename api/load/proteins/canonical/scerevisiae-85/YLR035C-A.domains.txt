@@ -1,0 +1,4 @@
+#>P	YLR035C-A	YLR035C-A	YLR035C-A	XII	215443	218907	-1	Retrotransposon TYA Gag and TYB Pol genes; polyprotein is processed to make a nucleocapsid-like protein (Gag), reverse transcriptase (RT), protease (PR), and integrase (IN); YLR035C-A is part of a mutant retrotransposon [Source:SGD;Acc:S000007225]
+#>E	YLR035C-A.1	1.0	215440-218907
+XII	216271	216873	-1.0	RVT_2	0	216271-216873	PF07727	http://pfam.sanger.ac.uk/family?acc=PF07727
+XII	218365	218724	-1.0	Integrase_cat-core	0	218365-218724	PF00665	http://pfam.sanger.ac.uk/family?acc=PF00665

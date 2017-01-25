@@ -1,0 +1,6 @@
+#>P	YIL078W	YIL078W	YIL078W	IX	212499	214700	1	Threonyl-tRNA synthetase; essential cytoplasmic protein [Source:SGD;Acc:S000001340]
+#>E	YIL078W.1	1.0	212499-214703
+IX	213267	213413	1.0	tRNA_SAD	0	213267-213413	PF07973	http://pfam.sanger.ac.uk/family?acc=PF07973
+IX	214383	214664	1.0	Anticodon-bd	0	214383-214664	PF03129	http://pfam.sanger.ac.uk/family?acc=PF03129
+IX	213576	214061	1.0	aa-tRNA-synt_IIb_cons-dom	0	213576-214061	PF00587	http://pfam.sanger.ac.uk/family?acc=PF00587
+IX	212724	212897	1.0	TGS	0	212724-212897	PF02824	http://pfam.sanger.ac.uk/family?acc=PF02824

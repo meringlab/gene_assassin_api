@@ -1,0 +1,6 @@
+#>P	YGR246C	YGR246C	YGR246C	VII	982485	984272	-1	TFIIIB B-related factor; one of three subunits of RNA polymerase III transcription initiation factor TFIIIB, binds TFIIIC and TBP and recruits RNA pol III to promoters, amino-terminal half is homologous to TFIIB [Source:SGD;Acc:S000003478]
+#>E	YGR246C.1	1.0	982482-984272
+VII	984138	984266	-1.0	Znf_TFIIB	41.6	984138-984266	PF08271	http://pfam.sanger.ac.uk/family?acc=PF08271
+VII	983508	983729	-1.0	TFIIB_cyclin	94.6	983508-983729	PF00382	http://pfam.sanger.ac.uk/family?acc=PF00382
+VII	983802	984008	-1.0	TFIIB_cyclin	86.4	983802-984008	PF00382	http://pfam.sanger.ac.uk/family?acc=PF00382
+VII	982488	982874	-1.0	BRF1_TBP-bd	113.6	982488-982874	PF07741	http://pfam.sanger.ac.uk/family?acc=PF07741

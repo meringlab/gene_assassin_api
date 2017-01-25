@@ -1,0 +1,4 @@
+#>P	YGR003W	YGR003W	YGR003W	VII	500132	502363	1	Ubiquitin-protein ligase; forms a complex with Elc1p that polyubiquitylates monoubiquitylated RNA polymerase II to trigger its proteolysis; cullin family member with similarity to Cdc53p and human CUL3 [Source:SGD;Acc:S000003235]
+#>E	YGR003W.1	1.0	500132-502366
+VII	500207	502045	1.0	Cullin_N	0	500207-502045	PF00888	http://pfam.sanger.ac.uk/family?acc=PF00888
+VII	502151	502342	1.0	Cullin_neddylation_domain	0	502151-502342	PF10557	http://pfam.sanger.ac.uk/family?acc=PF10557

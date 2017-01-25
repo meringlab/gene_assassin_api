@@ -1,0 +1,3 @@
+#>P	YBR135W	YBR135W	YBR135W	II	504854	505303	1	Cyclin-dependent protein kinase regulatory subunit and adaptor; interacts with Cdc28p(Cdk1p); required for G1/S and G2/M phase transitions and budding; mediates the phosphorylation and degradation of Sic1p; modulates proteolysis of M-phase targets through interactions with the proteasome; role in transcriptional regulation, recruiting proteasomal subunits to target gene promoters [Source:SGD;Acc:S000000339]
+#>E	YBR135W.1	1.0	504854-505306
+II	504935	505168	1.0	Cyclin-dep_kinase_reg-sub	0	504935-505168	PF01111	http://pfam.sanger.ac.uk/family?acc=PF01111

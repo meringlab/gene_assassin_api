@@ -1,0 +1,5 @@
+#>P	YIL079C	YIL079C	YIL079C	IX	210926	212005	-1	Zinc knuckle protein; involved in nuclear RNA processing and degradation as a component of the TRAMP complex; stimulates the poly(A) polymerase activity of Pap2p in vitro; AIR1 has a paralog, AIR2, that arose from the whole genome duplication; although Air1p and Air2p are homologous TRAMP subunits, they have nonredundant roles in regulation of substrate specificity of the exosome [Source:SGD;Acc:S000001341]
+#>E	YIL079C.1	1.0	210923-212005
+IX	211619	211669	-1.0	Znf_CCHC	0	211619-211669	PF00098	http://pfam.sanger.ac.uk/family?acc=PF00098
+IX	211439	211483	-1.0	Znf_CCHC	0	211439-211483	PF00098	http://pfam.sanger.ac.uk/family?acc=PF00098
+IX	211733	211786	-1.0	Znf_CCHC	0	211733-211786	PF00098	http://pfam.sanger.ac.uk/family?acc=PF00098

@@ -1,0 +1,4 @@
+#>P	YGL180W	YGL180W	YGL180W	VII	160065	162755	1	Protein serine/threonine kinase; required for vesicle formation in autophagy and the cytoplasm-to-vacuole targeting (Cvt) pathway; structurally required for phagophore assembly site formation; during autophagy forms a complex with Atg13p and Atg17p; essential for cell cycle progression from G2/M to G1 under nitrogen starvation [Source:SGD;Acc:S000003148]
+#>E	YGL180W.1	1.0	160065-162758
+VII	161820	162743	1.0	Ser/Thr_kinase_C	0	161820-162743	PF12063	http://pfam.sanger.ac.uk/family?acc=PF12063
+VII	160134	161030	1.0	Prot_kinase_cat_dom	0	160134-161030	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

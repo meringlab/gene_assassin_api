@@ -1,0 +1,4 @@
+#>P	YDR419W	YDR419W	YDR419W	IV	1303174	1305069	1	DNA polymerase eta; involved in translesion synthesis during post-replication repair; catalyzes the synthesis of DNA opposite cyclobutane pyrimidine dimers and other lesions; involved in formation of post-replicative damage-induced genome-wide cohesion; may also have a role in protection against mitochondrial mutagenesis; mutations in human pol eta are responsible for XPV [Source:SGD;Acc:S000002827]
+#>E	YDR419W.1	1.0	1303174-1305072
+IV	1303258	1304001	1.0	DNA_repair_prot_UmuC-like	0	1303258-1304001	PF00817	http://pfam.sanger.ac.uk/family?acc=PF00817
+IV	1304281	1304658	1.0	DNA_pol_Y-fam_little_finger	0	1304281-1304658	PF11799	http://pfam.sanger.ac.uk/family?acc=PF11799

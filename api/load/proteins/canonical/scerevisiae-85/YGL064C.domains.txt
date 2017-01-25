@@ -1,0 +1,4 @@
+#>P	YGL064C	YGL064C	YGL064C	VII	381526	383208	-1	Mitochondrial ATP-dependent RNA helicase of the DEAD-box family; required for assembly of the large subunit of mitochondrial ribosomes; binds to the large subunit rRNA, 21S_rRNA; localizes to the matrix face of the mitochondrial inner membrane and associates with the large subunit precursor and with mature ribosomes [Source:SGD;Acc:S000003032]
+#>E	YGL064C.1	1.0	381523-383208
+VII	382228	382794	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	382228-382794	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+VII	381619	381984	-1.0	Helicase_C	0	381619-381984	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

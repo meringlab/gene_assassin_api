@@ -1,0 +1,4 @@
+#>P	YER024W	YER024W	YER024W	V	202192	204960	1	Carnitine acetyltransferase; has similarity to Yat1p, which is a carnitine acetyltransferase associated with the mitochondrial outer membrane [Source:SGD;Acc:S000000826]
+#>E	YER024W.1	1.0	202192-204963
+V	202921	204339	1.0	Carn_acyl_trans	0	202921-204339	PF00755	http://pfam.sanger.ac.uk/family?acc=PF00755
+V	202255	202752	1.0	Carn_acyl_trans	0	202255-202752	PF00755	http://pfam.sanger.ac.uk/family?acc=PF00755

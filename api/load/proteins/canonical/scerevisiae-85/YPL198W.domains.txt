@@ -1,0 +1,4 @@
+#>P	YPL198W	YPL198W	YPL198W	XVI	173152	174699	1	Ribosomal 60S subunit protein L7B; required for processing of 27SA3 pre-rRNA to 27SB pre-rRNA during assembly of large ribosomal subunit; depletion leads to a turnover of pre-rRNA; contains a conserved C-terminal Nucleic acid Binding Domain (NDB2); binds to Domain II of 25S and 5.8S rRNAs; homologous to mammalian ribosomal protein L7 and bacterial L30; RPL7B has a paralog, RPL7A, that arose from the whole genome duplication [Source:SGD;Acc:S000006119]
+#>E	YPL198W.1,YPL198W.2,YPL198W.3	1,1,1	173152-173162,173572-173665,174073-174702
+XVI	173591	174210	1	Ribosomal_L30_N	0	173591-173665,174073-174210	PF08079	http://pfam.sanger.ac.uk/family?acc=PF08079
+XVI	174214	174369	1	Ribosomal_L30_ferredoxin-like	0	174214-174369	PF00327	http://pfam.sanger.ac.uk/family?acc=PF00327

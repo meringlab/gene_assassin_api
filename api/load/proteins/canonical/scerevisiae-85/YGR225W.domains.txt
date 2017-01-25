@@ -1,0 +1,4 @@
+#>P	YGR225W	YGR225W	YGR225W	VII	945145	947016	1	Activator of meiotic anaphase promoting complex (APC/C); Cdc20p family member; required for initiation of spore wall assembly; required for Clb1p degradation during meiosis; prevents premature assembly of the meiosis I spindle, required for DSB induced prophase I arrest [Source:SGD;Acc:S000003457]
+#>E	YGR225W.1,YGR225W.2	1,1	945145-946327,946421-947019
+VII	946531	946632	1	WD40_repeat	0	946531-946632	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	946294	946491	1	WD40_repeat	0	946294-946327,946421-946491	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

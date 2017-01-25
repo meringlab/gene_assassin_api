@@ -1,0 +1,5 @@
+#>P	YLR026C	YLR026C	YLR026C	XII	195453	196472	-1	cis-Golgi t-SNARE syntaxin; required for vesicular transport between the ER and the Golgi complex; binds at least 9 SNARE proteins [Source:SGD;Acc:S000004016]
+#>E	YLR026C.1	1.0	195450-196472
+XII	195990	196319	-1.0	Syntaxin_N	71.4	195990-196319	PF00804	http://pfam.sanger.ac.uk/family?acc=PF00804
+XII	195537	195713	-1.0	T_SNARE_dom	66.3	195537-195713	PF05739	http://pfam.sanger.ac.uk/family?acc=PF05739
+XII	196389	196472	-1.0	Integral_membrane_Sed5p	50.5	196389-196472	PF11416	http://pfam.sanger.ac.uk/family?acc=PF11416

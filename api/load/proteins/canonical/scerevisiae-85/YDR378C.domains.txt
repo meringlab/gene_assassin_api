@@ -1,0 +1,3 @@
+#>P	YDR378C	YDR378C	YDR378C	IV	1229352	1229609	-1	Lsm (Like Sm) protein; part of heteroheptameric complexes (Lsm2p-7p and either Lsm1p or 8p): cytoplasmic Lsm1p complex involved in mRNA decay; nuclear Lsm8p complex part of U6 snRNP and possibly involved in processing tRNA, snoRNA, and rRNA [Source:SGD;Acc:S000002786]
+#>E	YDR378C.1	1.0	1229349-1229609
+IV	1229364	1229567	-1.0	LSM_domain	0	1229364-1229567	PF01423	http://pfam.sanger.ac.uk/family?acc=PF01423

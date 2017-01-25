@@ -1,0 +1,3 @@
+#>P	YBR159W	YBR159W	YBR159W	II	558685	559725	1	Microsomal beta-keto-reductase; contains oleate response element (ORE) sequence in the promoter region; mutants exhibit reduced VLCFA synthesis, accumulate high levels of dihydrosphingosine, phytosphingosine and medium-chain ceramides [Source:SGD;Acc:S000000363]
+#>E	YBR159W.1	1.0	558685-559728
+II	558877	559404	1.0	DH_sc/Rdtase_SDR	0	558877-559404	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106

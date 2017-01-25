@@ -1,0 +1,5 @@
+#>P	ENSMUSG00000064367	ENSMUST00000082418	ENSMUSP00000081001	MT	11742	13562	1	mitochondrially encoded NADH dehydrogenase 5 [Source:MGI Symbol;Acc:MGI:102496]
+#>E	ENSMUSE00000521545	1.0	11742-13565
+MT	12141	12995	1.0	ND/Mrp_mem	248.5	12141-12995	PF00361	http://pfam.sanger.ac.uk/family?acc=PF00361
+MT	13005	13544	1.0	NADH_DH_su5_C	179.4	13005-13544	PF06455	http://pfam.sanger.ac.uk/family?acc=PF06455
+MT	11937	12104	1.0	Proton_antipo_N	48.5	11937-12104	PF00662	http://pfam.sanger.ac.uk/family?acc=PF00662

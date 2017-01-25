@@ -1,0 +1,3 @@
+#>P	YER180C-A	YER180C-A	YER180C-A	V	550868	551122	-1	Protein interacting with Arl3p; Arl3p is a GTPase of the Ras superfamily involved in vesicle-tethering at the Golgi; putative ortholog of human SCOCO [Source:SGD;Acc:S000028437]
+#>E	YER180C-A.1	1.0	550865-551122
+V	550874	551035	-1.0	DUF2205_coiled-coil	0	550874-551035	PF10224	http://pfam.sanger.ac.uk/family?acc=PF10224

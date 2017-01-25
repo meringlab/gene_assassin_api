@@ -1,0 +1,12 @@
+#>P	YLR129W	YLR129W	YLR129W	XII	399657	402485	1	Nucleolar protein; specifically associated with the U3 snoRNA, part of the large ribonucleoprotein complex known as the small subunit (SSU) processome, required for 18S rRNA biogenesis, part of the active pre-rRNA processing complex [Source:SGD;Acc:S000004119]
+#>E	YLR129W.1	1.0	399657-402488
+XII	401358	401456	1.0	WD40_repeat	0	401358-401456	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	401247	401330	1.0	WD40_repeat	0	401247-401330	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	401598	401711	1.0	WD40_repeat	0	401598-401711	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	401058	401159	1.0	WD40_repeat	0	401058-401159	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	400806	400910	1.0	WD40_repeat	0	400806-400910	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	400239	400346	1.0	WD40_repeat	0	400239-400346	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	399993	400103	1.0	WD40_repeat	0	399993-400103	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	401469	401585	1.0	WD40_repeat	0	401469-401585	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	400122	400226	1.0	WD40_repeat	0	400122-400226	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XII	402057	402392	1.0	SSU_processome_Utp12	0	402057-402392	PF04003	http://pfam.sanger.ac.uk/family?acc=PF04003

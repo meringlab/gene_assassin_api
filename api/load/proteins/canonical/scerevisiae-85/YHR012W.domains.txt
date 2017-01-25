@@ -1,0 +1,3 @@
+#>P	YHR012W	YHR012W	YHR012W	VIII	129481	130445	1	Subunit of the membrane-associated retromer complex; endosomal protein; essential for endosome-to-Golgi retrograde transport; forms a subcomplex with Vps35p and Vps26p that selects cargo proteins for endosome-to-Golgi retrieval [Source:SGD;Acc:S000001054]
+#>E	YHR012W.1,YHR012W.2	1,1	129481-129528,129648-130448
+VIII	129481	130070	1	Calcineurin-like_PEstase_dom	0	129481-129528,129648-130070	PF12850	http://pfam.sanger.ac.uk/family?acc=PF12850

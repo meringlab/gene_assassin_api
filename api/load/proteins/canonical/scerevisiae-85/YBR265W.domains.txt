@@ -1,0 +1,3 @@
+#>P	YBR265W	YBR265W	YBR265W	II	738582	739541	1	3-ketosphinganine reductase; catalyzes the second step in phytosphingosine synthesis; essential for growth in the absence of exogenous dihydrosphingosine or phytosphingosine; localized to lipid droplets; member of short chain dehydrogenase/reductase protein family [Source:SGD;Acc:S000000469]
+#>E	YBR265W.1	1.0	738582-739544
+II	738606	739175	1.0	DH_sc/Rdtase_SDR	0	738606-739175	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106

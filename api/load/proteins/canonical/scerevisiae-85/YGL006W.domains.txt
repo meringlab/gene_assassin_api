@@ -1,0 +1,6 @@
+#>P	YGL006W	YGL006W	YGL006W	VII	485921	489439	1	Vacuolar Ca2+ ATPase involved in depleting cytosol of Ca2+ ions; prevents growth inhibition by activation of calcineurin in the presence of elevated concentrations of calcium; similar to mammalian PMCA1a [Source:SGD;Acc:S000002974]
+#>E	YGL006W.1	1.0	485921-489442
+VII	486104	486301	1.0	ATPase_P-typ_cation-transptr_N	0	486104-486301	PF00690	http://pfam.sanger.ac.uk/family?acc=PF00690
+VII	486398	487225	1.0	ATPase_P-typ_ATPase-assoc-dom	0	486398-487225	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122
+VII	487238	488479	1.0	Dehalogen-like_hydro	0	487238-488479	PF00702	http://pfam.sanger.ac.uk/family?acc=PF00702
+VII	488696	489274	1.0	ATPase_P-typ_cation-transptr_C	0	488696-489274	PF00689	http://pfam.sanger.ac.uk/family?acc=PF00689

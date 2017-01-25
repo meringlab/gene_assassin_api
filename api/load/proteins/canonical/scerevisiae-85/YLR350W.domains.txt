@@ -1,0 +1,3 @@
+#>P	YLR350W	YLR350W	YLR350W	XII	828730	829377	1	Protein that mediates sphingolipid homeostasis; evolutionarily conserved, required for resistance to agents that induce unfolded protein response; Orm1p and Orm2p together control membrane biogenesis by coordinating lipid homeostasis with protein quality control; protein abundance increases in response to DNA replication stress; ORM2 has a paralog, ORM1, that arose from the whole genome duplication [Source:SGD;Acc:S000004342]
+#>E	YLR350W.1	1.0	828730-829380
+XII	828934	829338	1.0	ORMDL	0	828934-829338	PF04061	http://pfam.sanger.ac.uk/family?acc=PF04061

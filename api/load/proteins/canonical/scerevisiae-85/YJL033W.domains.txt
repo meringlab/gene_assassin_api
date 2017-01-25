@@ -1,0 +1,5 @@
+#>P	YJL033W	YJL033W	YJL033W	X	383837	386146	1	DEAD box RNA helicase; component of the SSU; interacts with Bfr2p and Enp2p; high-copy number suppression of a U14 snoRNA processing mutant suggests an involvement in 18S rRNA synthesis [Source:SGD;Acc:S000003570]
+#>E	YJL033W.1	1.0	383837-386149
+X	384029	384538	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	384029-384538	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+X	385118	385306	1.0	DUF4217	0	385118-385306	PF13959	http://pfam.sanger.ac.uk/family?acc=PF13959
+X	384776	385000	1.0	Helicase_C	0	384776-385000	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

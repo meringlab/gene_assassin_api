@@ -1,0 +1,4 @@
+#>P	YHR074W	YHR074W	YHR074W	VIII	246193	248334	1	Glutamine-dependent NAD(+) synthetase; essential for the formation of NAD(+) from nicotinic acid adenine dinucleotide [Source:SGD;Acc:S000001116]
+#>E	YHR074W.1	1.0	246193-248337
+VIII	246211	246792	1.0	Ntlse/CNhydtse	0	246211-246792	PF00795	http://pfam.sanger.ac.uk/family?acc=PF00795
+VIII	247219	248007	1.0	NAD/GMP_synthase	0	247219-248007	PF02540	http://pfam.sanger.ac.uk/family?acc=PF02540

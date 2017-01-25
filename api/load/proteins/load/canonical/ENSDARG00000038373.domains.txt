@@ -1,4 +1,0 @@
-#>P	ENSDARG00000038373	ENSDART00000055981	ENSDARP00000107515	3	12404621	12405940	-1	potassium inwardly-rectifying channel, subfamily J, member 2b [Source:ZFIN;Acc:ZDB-GENE-091204-290]
-#>E	ENSDARE00000409181	1.0	12404618-12405940
-3	12404807	12405793	-1.0	K_chnl_inward-rec_Kir	538.3	12404807-12405793	PF01007	http://pfam.sanger.ac.uk/family?acc=PF01007
-3	12405794	12405940	-1.0	K_chnl_inward-rec_Kir_N	63.6	12405794-12405940	PF08466	http://pfam.sanger.ac.uk/family?acc=PF08466

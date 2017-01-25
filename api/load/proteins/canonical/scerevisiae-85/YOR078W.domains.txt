@@ -1,0 +1,3 @@
+#>P	YOR078W	YOR078W	YOR078W	XV	472725	473366	1	Component of small ribosomal subunit (SSU) processosome; this complex contains U3 snoRNA; required at post-transcriptional step for efficient retrotransposition; absence results in decreased Ty1 Gag:GFP protein levels; originally isolated as bud-site selection mutant that displays a random budding pattern [Source:SGD;Acc:S000005604]
+#>E	YOR078W.1	1.0	472725-473369
+XV	473052	473351	1.0	U3_snoRNA_assoc	0	473052-473351	PF08297	http://pfam.sanger.ac.uk/family?acc=PF08297

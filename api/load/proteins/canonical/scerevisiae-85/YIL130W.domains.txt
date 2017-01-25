@@ -1,0 +1,4 @@
+#>P	YIL130W	YIL130W	YIL130W	IX	102782	105673	1	Zinc cluster protein proposed to be a transcriptional regulator; regulator involved in the stress response; null mutants have a respiratory deficiency, calcofluor white sensitivity and slightly increased cycloheximide resistance [Source:SGD;Acc:S000001392]
+#>E	YIL130W.1	1.0	102782-105676
+IX	102836	102946	1.0	Zn2-C6_fun-type_DNA-bd	0	102836-102946	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+IX	103532	104293	1.0	Transcription_factor_fun	0	103532-104293	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082

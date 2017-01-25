@@ -1,0 +1,4 @@
+#>P	YOR303W	YOR303W	YOR303W	XV	882899	884131	1	Small subunit of carbamoyl phosphate synthetase; carbamoyl phosphate synthetase catalyzes a step in the synthesis of citrulline, an arginine precursor; translationally regulated by an attenuator peptide encoded by YOR302W within the CPA1 mRNA 5'-leader [Source:SGD;Acc:S000005829]
+#>E	YOR303W.1	1.0	882899-884134
+XV	883460	883999	1.0	GATASE_1	0	883460-883999	PF00117	http://pfam.sanger.ac.uk/family?acc=PF00117
+XV	882917	883333	1.0	CarbamoylP_synth_ssu_N	0	882917-883333	PF00988	http://pfam.sanger.ac.uk/family?acc=PF00988

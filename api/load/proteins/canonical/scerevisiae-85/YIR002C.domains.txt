@@ -1,0 +1,4 @@
+#>P	YIR002C	YIR002C	YIR002C	IX	357418	360396	-1	3'-5' DNA helicase involved in error-free bypass of DNA lesions; binds flap DNA in error-free bypass pathway, stimulates activity of Rad27p and Dna2p; prevents crossovers between ectopic sequences by removing substrates for Mus81-Mms4 or Rad1-Rad10 cleavage; similar to FANCM human Fanconi anemia complementation group protein that with MHF complex is involved in stabilizing and remodeling blocked replication forks; member of SF2 DExD/H superfamily of helicases [Source:SGD;Acc:S000001441]
+#>E	YIR002C.1	1.0	357415-360396
+IX	358564	358752	-1.0	Helicase_C	0	358564-358752	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+IX	359665	360138	-1.0	Helicase/UvrB_dom	0	359665-360138	PF04851	http://pfam.sanger.ac.uk/family?acc=PF04851

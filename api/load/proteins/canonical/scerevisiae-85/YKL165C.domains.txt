@@ -1,0 +1,4 @@
+#>P	YKL165C	YKL165C	YKL165C	XI	137935	140691	-1	Protein involved in GPI anchor synthesis; multimembrane-spanning protein that localizes to the endoplasmic reticulum; highly conserved among eukaryotes; GPI stands for glycosylphosphatidylinositol [Source:SGD;Acc:S000001648]
+#>E	YKL165C.1	1.0	137932-140691
+XI	138070	139368	-1.0	GPI_EtnP_transferase_1_C	0	138070-139368	PF04987	http://pfam.sanger.ac.uk/family?acc=PF04987
+XI	139567	140538	-1.0	Phosphodiest/P_Trfase	0	139567-140538	PF01663	http://pfam.sanger.ac.uk/family?acc=PF01663

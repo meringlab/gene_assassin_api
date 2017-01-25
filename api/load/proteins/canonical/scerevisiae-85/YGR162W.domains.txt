@@ -1,0 +1,4 @@
+#>P	YGR162W	YGR162W	YGR162W	VII	824059	826914	1	Translation initiation factor eIF4G; subunit of the mRNA cap-binding protein complex (eIF4F) that also contains eIF4E (Cdc33p); interacts with Pab1p and with eIF4A (Tif1p); also has a role in biogenesis of the large ribosomal subunit; TIF4631 has a paralog, TIF4632, that arose from the whole genome duplication [Source:SGD;Acc:S000003394]
+#>E	YGR162W.1	1.0	824059-826917
+VII	825250	825471	1.0	eIF4G1_eIF4E-bd	0	825250-825471	PF12152	http://pfam.sanger.ac.uk/family?acc=PF12152
+VII	825877	826608	1.0	MIF4G-like_typ-3	0	825877-826608	PF02854	http://pfam.sanger.ac.uk/family?acc=PF02854

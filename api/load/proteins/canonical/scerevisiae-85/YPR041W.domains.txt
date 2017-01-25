@@ -1,0 +1,4 @@
+#>P	YPR041W	YPR041W	YPR041W	XVI	648704	649918	1	Translation initiation factor eIF5; functions both as a GTPase-activating protein to mediate hydrolysis of ribosome-bound GTP and as a GDP dissociation inhibitor to prevent recycling of eIF2 [Source:SGD;Acc:S000006245]
+#>E	YPR041W.1	1.0	648704-649921
+XVI	649661	649912	1.0	eIF5C	0	649661-649912	PF02020	http://pfam.sanger.ac.uk/family?acc=PF02020
+XVI	648710	649087	1.0	Transl_init_fac_IF2/IF5	0	648710-649087	PF01873	http://pfam.sanger.ac.uk/family?acc=PF01873

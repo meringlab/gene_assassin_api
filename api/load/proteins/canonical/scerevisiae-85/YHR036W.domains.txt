@@ -1,0 +1,3 @@
+#>P	YHR036W	YHR036W	YHR036W	VIII	180345	181757	1	Essential nuclear envelope integral membrane protein; identified as a suppressor of a conditional mutation in the major karyopherin, CRM1; homologous to and interacts with Brr6p, a nuclear envelope protein involved in nuclear export [Source:SGD;Acc:S000001078]
+#>E	YHR036W.1	1.0	180345-181760
+VIII	181224	181631	1.0	Brl1/Brr6_dom	0	181224-181631	PF10104	http://pfam.sanger.ac.uk/family?acc=PF10104

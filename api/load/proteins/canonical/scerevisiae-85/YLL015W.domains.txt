@@ -1,0 +1,6 @@
+#>P	YLL015W	YLL015W	YLL015W	XII	116432	121108	1	ABC type transmembrane transporter of MRP/CFTR family; found in vacuolar membrane, involved in the transport of unconjugated bilirubin and in heavy metal detoxification via glutathione conjugates, along with Ycf1p [Source:SGD;Acc:S000003938]
+#>E	YLL015W.1	1.0	116432-121111
+XII	120458	120883	1.0	ABC_transporter-like	0	120458-120883	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XII	118466	118816	1.0	ABC_transporter-like	0	118466-118816	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XII	117311	118123	1.0	ABC_transptr_TM_dom	0	117311-118123	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664
+XII	119372	120187	1.0	ABC_transptr_TM_dom	0	119372-120187	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664

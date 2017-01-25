@@ -1,0 +1,6 @@
+#>P	YOR011W	YOR011W	YOR011W	XV	349679	353860	1	Plasma membrane sterol transporter of the ATP-binding cassette family; required, along with Pdr11p, for uptake of exogenous sterols and their incorporation into the plasma membrane; activity is stimulated by phosphatidylserine; sterol uptake is required for anaerobic growth because sterol biosynthesis requires oxygen; AUS1 has a paralog, PDR11, that arose from the whole genome duplication [Source:SGD;Acc:S000005537]
+#>E	YOR011W.1	1.0	349679-353863
+XV	349886	350275	1.0	ABC_transporter-like	0	349886-350275	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XV	352862	353497	1.0	ABC_2_trans	0	352862-353497	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+XV	350786	351415	1.0	ABC_2_trans	0	350786-351415	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+XV	351446	351682	1.0	PDR_CDR_ABC	0	351446-351682	PF06422	http://pfam.sanger.ac.uk/family?acc=PF06422

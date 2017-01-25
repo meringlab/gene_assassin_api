@@ -1,0 +1,3 @@
+#>P	YDR320C-A	YDR320C-A	YDR320C-A	IV	1108283	1108498	-1	Essential subunit of the Dam1 complex (aka DASH complex); complex couples kinetochores to the force produced by MT depolymerization thereby aiding in chromosome segregation; is transferred to the kinetochore prior to mitosis [Source:SGD;Acc:S000007604]
+#>E	YDR320C-A.1	1.0	1108280-1108498
+IV	1108283	1108498	-1.0	DASH_Dad4	0	1108283-1108498	PF08650	http://pfam.sanger.ac.uk/family?acc=PF08650

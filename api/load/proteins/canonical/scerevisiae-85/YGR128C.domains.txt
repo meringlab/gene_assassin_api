@@ -1,0 +1,3 @@
+#>P	YGR128C	YGR128C	YGR128C	VII	747953	750091	-1	Nucleolar protein required for export of tRNAs from the nucleus; also copurifies with the small subunit (SSU) processome containing the U3 snoRNA that is involved in processing of pre-18S rRNA [Source:SGD;Acc:S000003360]
+#>E	YGR128C.1	1.0	747950-750091
+VII	747953	750091	-1.0	U3_sm_nucleolar_RNA_assoc_p8	0	747953-750091	PF10395	http://pfam.sanger.ac.uk/family?acc=PF10395

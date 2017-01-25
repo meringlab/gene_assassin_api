@@ -1,0 +1,8 @@
+#>P	YLR207W	YLR207W	YLR207W	XII	556788	559286	1	ER membrane protein that plays a central role in ERAD; forms HRD complex with Hrd1p and ER-associated protein degradation (ERAD) determinants that engages in lumen to cytosol communication and coordination of ERAD events [Source:SGD;Acc:S000004197]
+#>E	YLR207W.1	1.0	556788-559289
+XII	557910	557972	1.0	Sel1-like	0	557910-557972	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+XII	557220	557345	1.0	Sel1-like	0	557220-557345	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+XII	557364	557447	1.0	Sel1-like	0	557364-557447	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+XII	558672	558776	1.0	Sel1-like	0	558672-558776	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+XII	558516	558572	1.0	Sel1-like	0	558516-558572	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238
+XII	558030	558107	1.0	Sel1-like	0	558030-558107	PF08238	http://pfam.sanger.ac.uk/family?acc=PF08238

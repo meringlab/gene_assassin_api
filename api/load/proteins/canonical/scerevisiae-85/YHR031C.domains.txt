@@ -1,0 +1,3 @@
+#>P	YHR031C	YHR031C	YHR031C	VIII	170802	172970	-1	DNA helicase involved in rDNA replication and Ty1 transposition; binds to and suppresses DNA damage at G4 motifs in vivo; relieves replication fork pauses at telomeric regions; structurally and functionally related to Pif1p [Source:SGD;Acc:S000001073]
+#>E	YHR031C.1	1.0	170799-172970
+VIII	171684	172277	-1.0	DNA_helicase_PIF1	0	171684-172277	PF05970	http://pfam.sanger.ac.uk/family?acc=PF05970

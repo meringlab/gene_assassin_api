@@ -1,0 +1,4 @@
+#>P	YJL176C	YJL176C	YJL176C	X	92056	94530	-1	Subunit of the SWI/SNF chromatin remodeling complex; SWI/SNF regulates transcription by remodeling chromosomes; contains SANT domain that is required for SWI/SNF assembly; is essential for displacement of histone H2A-H2B dimers during ATP-dependent remodeling; required for transcription of many genes, including ADH1, ADH2, GAL1, HO, INO1 and SUC2; relocates to the cytosol under hypoxic conditions [Source:SGD;Acc:S000003712]
+#>E	YJL176C.1	1.0	92053-94530
+X	93352	93615	-1.0	SWIRM	0	93352-93615	PF04433	http://pfam.sanger.ac.uk/family?acc=PF04433
+X	92827	92955	-1.0	SANT_DNA-bd	0	92827-92955	PF00249	http://pfam.sanger.ac.uk/family?acc=PF00249

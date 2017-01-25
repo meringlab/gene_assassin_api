@@ -1,0 +1,4 @@
+#>P	YOR081C	YOR081C	YOR081C	XV	476942	479188	-1	Bifunctional triacylglycerol lipase and LPA acyltransferase; lipid particle-localized triacylglycerol (TAG) lipase involved in triacylglycerol mobilization; catalyzes acylation of lysophosphatidic acid (LPA); potential Cdc28p substrate; TGL5 has a paralog, TGL4, that arose from the whole genome duplication [Source:SGD;Acc:S000005607]
+#>E	YOR081C.1	1.0	476939-479188
+XV	478037	478642	-1.0	Patatin/PLipase_A2-rel	0	478037-478642	PF01734	http://pfam.sanger.ac.uk/family?acc=PF01734
+XV	478658	479050	-1.0	Triacylglycerol_lipase	0	478658-479050	PF11815	http://pfam.sanger.ac.uk/family?acc=PF11815

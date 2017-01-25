@@ -1,0 +1,3 @@
+#>P	YGR083C	YGR083C	YGR083C	VII	644863	646815	-1	Delta subunit of the translation initiation factor eIF2B; the guanine-nucleotide exchange factor for eIF2; activity subsequently regulated by phosphorylated eIF2; first identified as a negative regulator of GCN4 expression [Source:SGD;Acc:S000003315]
+#>E	YGR083C.1	1.0	644860-646815
+VII	644905	645963	-1.0	IF-2B-related	0	644905-645963	PF01008	http://pfam.sanger.ac.uk/family?acc=PF01008

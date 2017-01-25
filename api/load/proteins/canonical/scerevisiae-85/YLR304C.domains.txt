@@ -1,0 +1,4 @@
+#>P	YLR304C	YLR304C	YLR304C	XII	735215	737548	-1	Aconitase; required for the tricarboxylic acid (TCA) cycle and also independently required for mitochondrial genome maintenance; phosphorylated; component of the mitochondrial nucleoid; mutation leads to glutamate auxotrophy [Source:SGD;Acc:S000004295]
+#>E	YLR304C.1	1.0	735212-737548
+XII	735425	735814	-1.0	AconitaseA/IPMdHydase_ssu_swvl	0	735425-735814	PF00694	http://pfam.sanger.ac.uk/family?acc=PF00694
+XII	736049	737371	-1.0	Acoase/IPM_deHydtase_lsu_aba	0	736049-737371	PF00330	http://pfam.sanger.ac.uk/family?acc=PF00330

@@ -1,0 +1,6 @@
+#>P	YDR038C	YDR038C	YDR038C	IV	527425	530697	-1	Protein with similarity to P-type ATPase sodium pumps; member of the Na+ efflux ATPase family [Source:SGD;Acc:S000002445]
+#>E	YDR038C.1	1.0	527422-530697
+IV	527566	528165	-1.0	ATPase_P-typ_cation-transptr_C	0	527566-528165	PF00689	http://pfam.sanger.ac.uk/family?acc=PF00689
+IV	528391	529602	-1.0	Dehalogen-like_hydro	0	528391-529602	PF00702	http://pfam.sanger.ac.uk/family?acc=PF00702
+IV	529621	530412	-1.0	ATPase_P-typ_ATPase-assoc-dom	0	529621-530412	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122
+IV	530443	530649	-1.0	ATPase_P-typ_cation-transptr_N	0	530443-530649	PF00690	http://pfam.sanger.ac.uk/family?acc=PF00690

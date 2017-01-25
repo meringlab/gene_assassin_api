@@ -1,0 +1,3 @@
+#>P	YDR232W	YDR232W	YDR232W	IV	927452	929095	1	5-aminolevulinate synthase; catalyzes the first step in the heme biosynthetic pathway; an N-terminal signal sequence is required for localization to the mitochondrial matrix; expression is regulated by Hap2p-Hap3p [Source:SGD;Acc:S000002640]
+#>E	YDR232W.1	1.0	927452-929098
+IV	927791	928891	1.0	Aminotransferase_I/II	0	927791-928891	PF00155	http://pfam.sanger.ac.uk/family?acc=PF00155

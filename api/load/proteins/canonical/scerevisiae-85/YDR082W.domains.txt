@@ -1,0 +1,4 @@
+#>P	YDR082W	YDR082W	YDR082W	IV	610441	611922	1	Telomere end-binding and capping protein; plays a key role with Pol12p in linking telomerase action with completion of lagging strand synthesis, and in a regulatory step required for telomere capping; similar to human Stn1 [Source:SGD;Acc:S000002489]
+#>E	YDR082W.1	1.0	610441-611925
+IV	611524	611916	1.0	STN1_C	0	611524-611916	PF12659	http://pfam.sanger.ac.uk/family?acc=PF12659
+IV	610450	611307	1.0	Telomere_reg-Stn1_N	0	610450-611307	PF10451	http://pfam.sanger.ac.uk/family?acc=PF10451

@@ -1,0 +1,4 @@
+#>P	YIL075C	YIL075C	YIL075C	IX	217866	220700	-1	Subunit of the 26S proteasome; substrate of the N-acetyltransferase Nat1p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001337]
+#>E	YIL075C.1	1.0	217863-220700
+IX	219168	219263	-1.0	APC_proteasome	0	219168-219263	PF01851	http://pfam.sanger.ac.uk/family?acc=PF01851
+IX	219267	219368	-1.0	APC_proteasome	0	219267-219368	PF01851	http://pfam.sanger.ac.uk/family?acc=PF01851

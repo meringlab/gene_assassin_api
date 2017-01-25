@@ -1,0 +1,3 @@
+#>P	YOR008C	YOR008C	YOR008C	XV	341281	342414	-1	Sensor-transducer of the stress-activated PKC1-MPK1 kinase pathway; involved in maintenance of cell wall integrity; required for mitophagy; involved in organization of the actin cytoskeleton; secretory pathway Wsc1p is required for the arrest of secretion response [Source:SGD;Acc:S000005534]
+#>E	YOR008C.1	1.0	341278-342414
+XV	342115	342345	-1.0	WSC_carb-bd	0	342115-342345	PF01822	http://pfam.sanger.ac.uk/family?acc=PF01822

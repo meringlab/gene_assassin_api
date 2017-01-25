@@ -1,0 +1,4 @@
+#>P	YGR254W	YGR254W	YGR254W	VII	1000927	1002237	1	Enolase I, a phosphopyruvate hydratase; catalyzes conversion of 2-phosphoglycerate to phosphoenolpyruvate during glycolysis and the reverse reaction during gluconeogenesis; expression repressed in response to glucose; protein abundance increases in response to DNA replication stress; N-terminally propionylated in vivo; ENO1 has a paralog, ENO2, that arose from the whole genome duplication [Source:SGD;Acc:S000003486]
+#>E	YGR254W.1	1.0	1000927-1002240
+VII	1000933	1001328	1.0	Enolase_N	0	1000933-1001328	PF03952	http://pfam.sanger.ac.uk/family?acc=PF03952
+VII	1001359	1002225	1.0	Enolase_C	0	1001359-1002225	PF00113	http://pfam.sanger.ac.uk/family?acc=PF00113

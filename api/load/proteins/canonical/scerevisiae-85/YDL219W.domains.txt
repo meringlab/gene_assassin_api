@@ -1,0 +1,3 @@
+#>P	YDL219W	YDL219W	YDL219W	IV	65242	65762	1	D-Tyr-tRNA(Tyr) deacylase; functions in protein translation, may affect nonsense suppression via alteration of the protein synthesis machinery; ubiquitous among eukaryotes [Source:SGD;Acc:S000002378]
+#>E	YDL219W.1,YDL219W.2	1,1	65242-65306,65378-65765
+IV	65245	65756	1	DTyrtRNA_deacyls	0	65245-65306,65378-65756	PF02580	http://pfam.sanger.ac.uk/family?acc=PF02580

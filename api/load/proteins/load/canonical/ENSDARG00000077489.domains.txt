@@ -1,9 +1,0 @@
-#>P	ENSDARG00000077489	ENSDART00000152518	ENSDARP00000126977	20	87627	96710	1	leucine rich repeat and fibronectin type III domain containing 2 [Source:HGNC Symbol;Acc:HGNC:21226]
-#>E	ENSDARE00001130251,ENSDARE00001113459	0,0	87627-89002,95744-96713
-20	88866	95822	1	Fibronectin_type3	24.3	88866-89002,95744-95822	PF00041	http://pfam.sanger.ac.uk/family?acc=PF00041
-20	88533	88706	1	Immunoglobulin	24.8	88533-88706	PF00047	http://pfam.sanger.ac.uk/family?acc=PF00047
-20	88221	88271	1	Leu-rich_rpt	9.6	88221-88271	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-20	88077	88124	1	Leu-rich_rpt	10.4	88077-88124	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-20	87999	88067	1	Leu-rich_rpt	9.9	87999-88067	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-20	87930	87995	1	Leu-rich_rpt	9.9	87930-87995	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-20	88494	88754	1	Ig_I-set	55.3	88494-88754	PF07679	http://pfam.sanger.ac.uk/family?acc=PF07679

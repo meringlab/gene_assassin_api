@@ -1,0 +1,4 @@
+#>P	YHR047C	YHR047C	YHR047C	VIII	198743	201310	-1	Arginine/alanine amino peptidase; overproduction stimulates glycogen accumulation; AAP1 has a paralog, APE2, that arose from the whole genome duplication [Source:SGD;Acc:S000001089]
+#>E	YHR047C.1	1.0	198740-201310
+VIII	200144	201295	-1.0	Peptidase_M1_N	0	200144-201295	PF01433	http://pfam.sanger.ac.uk/family?acc=PF01433
+VIII	198815	199762	-1.0	Pept_M1_aminopeptidase_C	0	198815-199762	PF11838	http://pfam.sanger.ac.uk/family?acc=PF11838

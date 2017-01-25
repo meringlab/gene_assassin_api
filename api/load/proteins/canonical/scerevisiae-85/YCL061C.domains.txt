@@ -1,0 +1,3 @@
+#>P	YCL061C	YCL061C	YCL061C	III	18819	22106	-1	S-phase checkpoint protein required for DNA replication; couples DNA helicase and DNA polymerase; interacts with and stabilizes Pol2p at stalled replication forks during stress, where it forms a pausing complex with Tof1p and is phosphorylated by Mec1p; with Hog1p defines a novel S-phase checkpoint that permits eukaryotic cells to prevent conflicts between DNA replication and transcription; protects uncapped telomeres; degradation via Dia2p help cells resume cell cycle [Source:SGD;Acc:S000000566]
+#>E	YCL061C.1	1.0	18816-22106
+III	19554	19976	-1.0	Repl_chkpnt_MRC1_dom	167	19554-19976	PF09444	http://pfam.sanger.ac.uk/family?acc=PF09444

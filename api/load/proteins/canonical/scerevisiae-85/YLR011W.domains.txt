@@ -1,0 +1,3 @@
+#>P	YLR011W	YLR011W	YLR011W	XII	169103	169675	1	FMN-dependent NAD(P)H:quinone reductase; role in apoptosis-like cell death; may be involved in quinone detoxification; expression elevated at low temperature; sequesters the Cin5p transcription factor in the cytoplasm in complex with the proteasome under reducing conditions [Source:SGD;Acc:S000004001]
+#>E	YLR011W.1	1.0	169103-169678
+XII	169103	169561	1.0	FMN_red	0	169103-169561	PF03358	http://pfam.sanger.ac.uk/family?acc=PF03358

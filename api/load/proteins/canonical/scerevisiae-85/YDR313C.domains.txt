@@ -1,0 +1,4 @@
+#>P	YDR313C	YDR313C	YDR313C	IV	1089222	1090079	-1	RING-type ubiquitin ligase of the endosomal and vacuolar membranes; binds phosphatidylinositol(3)-phosphate; contains a FYVE finger domain [Source:SGD;Acc:S000002721]
+#>E	YDR313C.1	1.0	1089219-1090079
+IV	1089303	1089410	-1.0	Znf_RING	0	1089303-1089410	PF13639	http://pfam.sanger.ac.uk/family?acc=PF13639
+IV	1089819	1090043	-1.0	Znf_FYVE	0	1089819-1090043	PF01363	http://pfam.sanger.ac.uk/family?acc=PF01363

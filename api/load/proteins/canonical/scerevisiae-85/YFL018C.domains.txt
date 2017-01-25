@@ -1,0 +1,5 @@
+#>P	YFL018C	YFL018C	YFL018C	VI	101631	103127	-1	Dihydrolipoamide dehydrogenase; the lipoamide dehydrogenase component (E3) of the pyruvate dehydrogenase and 2-oxoglutarate dehydrogenase multi-enzyme complexes; PDH complex is concentrated in spots within the mitochondrial matrix, often near the ERMES complex and near peroxisomes; LPD1 has a paralog, IRC15, that arose from the whole genome duplication [Source:SGD;Acc:S000001876]
+#>E	YFL018C.1	1.0	101628-103127
+VI	101664	101990	-1.0	Pyr_nucl-diS_OxRdtase_dimer	0	101664-101990	PF02852	http://pfam.sanger.ac.uk/family?acc=PF02852
+VI	102081	103046	-1.0	Pyr_nucl-diS_OxRdtase_FAD/NAD	0	102081-103046	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992
+VI	102270	102512	-1.0	Pyr_OxRdtase_NAD-bd_dom	0	102270-102512	PF00070	http://pfam.sanger.ac.uk/family?acc=PF00070

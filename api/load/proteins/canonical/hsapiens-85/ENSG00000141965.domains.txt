@@ -1,0 +1,5 @@
+#>P	ENSG00000141965	ENST00000269856	ENSP00000269856	19	4791855	4793861	1	fem-1 homolog A [Source:HGNC Symbol;Acc:HGNC:16934]
+#>E	ENSE00000951494	1.0	4791855-4793864
+19	4792398	4792565	1.0	Ankyrin_rpt-contain_dom	173.7	4792398-4792565	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796
+19	4792116	4792391	1.0	Ankyrin_rpt-contain_dom	173.7	4792116-4792391	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796
+19	4791864	4792061	1.0	Ankyrin_rpt-contain_dom	173.7	4791864-4792061	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796

@@ -1,0 +1,4 @@
+#>P	YNL035C	YNL035C	YNL035C	XIV	568525	569691	-1	Nuclear protein of unknown function; relocalizes to the cytosol in response to hypoxia; contains WD-40 domains; not an essential gene; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004980]
+#>E	YNL035C.1	1.0	568522-569691
+XIV	568729	568785	-1.0	WD40_repeat	0	568729-568785	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIV	569161	569259	-1.0	WD40_repeat	0	569161-569259	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

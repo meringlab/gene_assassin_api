@@ -1,0 +1,5 @@
+#>P	YIR033W	YIR033W	YIR033W	IX	416124	419462	1	ER membrane protein involved in regulation of OLE1 transcription; inactive ER form dimerizes and one subunit is then activated by ubiquitin/proteasome-dependent processing followed by nuclear targeting; MGA2 has a paralog, SPT23, that arose from the whole genome duplication [Source:SGD;Acc:S000001472]
+#>E	YIR033W.1	1.0	416124-419465
+IX	417711	417923	1.0	IPT_TIG_rcpt	0	417711-417923	PF01833	http://pfam.sanger.ac.uk/family?acc=PF01833
+IX	418380	418457	1.0	Ankyrin_rpt	0	418380-418457	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+IX	418281	418373	1.0	Ankyrin_rpt	0	418281-418373	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023

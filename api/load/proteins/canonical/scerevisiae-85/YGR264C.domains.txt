@@ -1,0 +1,4 @@
+#>P	YGR264C	YGR264C	YGR264C	VII	1019601	1021853	-1	Methionyl-tRNA synthetase; forms a complex with glutamyl-tRNA synthetase (Gus1p) and Arc1p, which increases the catalytic efficiency of both tRNA synthetases; also has a role in nuclear export of tRNAs [Source:SGD;Acc:S000003496]
+#>E	YGR264C.1	1.0	1019598-1021853
+VII	1021458	1021823	-1.0	Met-tRNA-synth_N	0	1021458-1021823	PF09635	http://pfam.sanger.ac.uk/family?acc=PF09635
+VII	1020087	1021262	-1.0	aa-tRNA-synt_I	0	1020087-1021262	PF09334	http://pfam.sanger.ac.uk/family?acc=PF09334

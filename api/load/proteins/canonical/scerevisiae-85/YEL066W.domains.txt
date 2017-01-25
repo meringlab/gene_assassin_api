@@ -1,0 +1,3 @@
+#>P	YEL066W	YEL066W	YEL066W	V	26667	27203	1	D-Amino acid N-acetyltransferase that detoxifies D-amino acids; catalyzes N-acetylation of D-amino acids through ordered bi-bi mechanism in which acetyl-CoA is first substrate bound and CoA is last product liberated; acetylates histones and polyamines, also autoacetylates [Source:SGD;Acc:S000000792]
+#>E	YEL066W.1	1.0	26667-27206
+V	26928	27170	1.0	AcTrfase_GCN5-related_dom	0	26928-27170	PF00583	http://pfam.sanger.ac.uk/family?acc=PF00583

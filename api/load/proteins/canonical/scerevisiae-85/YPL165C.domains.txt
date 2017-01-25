@@ -1,0 +1,3 @@
+#>P	YPL165C	YPL165C	YPL165C	XVI	237959	239077	-1	SET domain protein of unknown function; deletion heterozygote is sensitive to compounds that target ergosterol biosynthesis, may be involved in compound availability [Source:SGD;Acc:S000006086]
+#>E	YPL165C.1	1.0	237956-239077
+XVI	238067	238192	-1.0	SET_dom	0	238067-238192	PF00856	http://pfam.sanger.ac.uk/family?acc=PF00856

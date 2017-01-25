@@ -1,0 +1,3 @@
+#>P	YOR344C	YOR344C	YOR344C	XV	977197	978069	-1	Serine-rich protein that contains a bHLH DNA binding motif; binds E-boxes of glycolytic genes and contributes to their activation; may function as a transcriptional activator in Ty1-mediated gene expression; bHLH stands for basic-helix-loop-helix [Source:SGD;Acc:S000005871]
+#>E	YOR344C.1	1.0	977194-978069
+XV	977272	977529	-1.0	HLH_DNA-bd	0	977272-977529	PF00010	http://pfam.sanger.ac.uk/family?acc=PF00010

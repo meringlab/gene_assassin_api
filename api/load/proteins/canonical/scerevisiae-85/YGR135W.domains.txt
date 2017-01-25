@@ -1,0 +1,4 @@
+#>P	YGR135W	YGR135W	YGR135W	VII	761392	762165	1	Alpha 3 subunit of the 20S proteasome; the only nonessential 20S subunit; may be replaced by the alpha 4 subunit (Pre6p) under stress conditions to create a more active proteasomal isoform [Source:SGD;Acc:S000003367]
+#>E	YGR135W.1	1.0	761392-762168
+VII	761476	762039	1.0	Proteasome_sua/b	198.1	761476-762039	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227
+VII	761407	761472	1.0	Proteasome_asu_N	48.3	761407-761472	PF10584	http://pfam.sanger.ac.uk/family?acc=PF10584

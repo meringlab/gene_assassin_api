@@ -1,0 +1,4 @@
+#>P	YGR080W	YGR080W	YGR080W	VII	642010	643005	1	Twinfilin; highly conserved actin monomer-sequestering protein involved in regulation of the cortical actin cytoskeleton; coordinates actin filament severing and monomer sequestering at sites of rapid actin turnover; composed of two cofilin-like regions, localizes actin monomers to sites of rapid filament assembly [Source:SGD;Acc:S000003312]
+#>E	YGR080W.1	1.0	642010-643008
+VII	642550	642906	1.0	Actin-bd_cofilin/tropomyosin	0	642550-642906	PF00241	http://pfam.sanger.ac.uk/family?acc=PF00241
+VII	642046	642378	1.0	Actin-bd_cofilin/tropomyosin	0	642046-642378	PF00241	http://pfam.sanger.ac.uk/family?acc=PF00241

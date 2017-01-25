@@ -1,0 +1,3 @@
+#>P	YGR072W	YGR072W	YGR072W	VII	634304	635464	1	Component of the nonsense-mediated mRNA decay (NMD) pathway; along with Nam7p and Nmd2p; involved in decay of mRNA containing nonsense codons; involved in telomere maintenance [Source:SGD;Acc:S000003304]
+#>E	YGR072W.1	1.0	634304-635467
+VII	634538	635134	1.0	Nonsense_mediated_decay_UPF3	0	634538-635134	PF03467	http://pfam.sanger.ac.uk/family?acc=PF03467

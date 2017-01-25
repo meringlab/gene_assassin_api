@@ -1,0 +1,3 @@
+#>P	YBR201W	YBR201W	YBR201W	II	623576	624208	1	ER membrane protein that promotes export of misfolded polypeptides; required for ER-associated protein degradation of misfolded or unassembled proteins; initiates export of aberrant polypeptides from ER lumen by threading them into the ER membrane and routing them to Hrd1p for ubiquitylation; N- and C- termini protrude into the cytoplasm; similar to Dfm1p; homolog of mammalian derlin-1 [Source:SGD;Acc:S000000405]
+#>E	YBR201W.1	1.0	623576-624211
+II	623609	624181	1.0	DER1	0	623609-624181	PF04511	http://pfam.sanger.ac.uk/family?acc=PF04511

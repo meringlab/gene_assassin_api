@@ -1,0 +1,4 @@
+#>P	WBGene00001076	F54D8.1	F54D8.1	III	5107333	5108440	1	DumPY: shorter than wild-type  [Source:RefSeq peptide;Acc:NP_498086]
+#>E	F54D8.1.e1,F54D8.1.e2	1,1	5107333-5107747,5107800-5108443
+III	5107988	5108161	1	Collagen	69.7	5107988-5108161	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
+III	5107351	5107500	1	Col_cuticle_N	43.3	5107351-5107500	PF01484	http://pfam.sanger.ac.uk/family?acc=PF01484

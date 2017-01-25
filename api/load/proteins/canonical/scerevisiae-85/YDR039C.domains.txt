@@ -1,0 +1,6 @@
+#>P	YDR039C	YDR039C	YDR039C	IV	531310	534582	-1	P-type ATPase sodium pump; involved in Na+ efflux to allow salt tolerance; likely not involved in Li+ efflux [Source:SGD;Acc:S000002446]
+#>E	YDR039C.1	1.0	531307-534582
+IV	532276	533487	-1.0	Dehalogen-like_hydro	0	532276-533487	PF00702	http://pfam.sanger.ac.uk/family?acc=PF00702
+IV	533506	534297	-1.0	ATPase_P-typ_ATPase-assoc-dom	0	533506-534297	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122
+IV	534328	534534	-1.0	ATPase_P-typ_cation-transptr_N	0	534328-534534	PF00690	http://pfam.sanger.ac.uk/family?acc=PF00690
+IV	531451	532050	-1.0	ATPase_P-typ_cation-transptr_C	0	531451-532050	PF00689	http://pfam.sanger.ac.uk/family?acc=PF00689

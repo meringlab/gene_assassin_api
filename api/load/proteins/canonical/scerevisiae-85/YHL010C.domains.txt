@@ -1,0 +1,5 @@
+#>P	YHL010C	YHL010C	YHL010C	VIII	81967	83721	-1	Putative protein of unknown function required for growth on ethanol; contains a zinc finger region and has homology to human BRAP2, which is a cytoplasmic protein that binds nuclear localization sequences [Source:SGD;Acc:S000001002]
+#>E	YHL010C.1	1.0	81964-83721
+VIII	82879	83007	-1.0	Znf_RING	0	82879-83007	PF13639	http://pfam.sanger.ac.uk/family?acc=PF13639
+VIII	82642	82821	-1.0	Znf_UBP	0	82642-82821	PF02148	http://pfam.sanger.ac.uk/family?acc=PF02148
+VIII	83092	83400	-1.0	BRAP2	0	83092-83400	PF07576	http://pfam.sanger.ac.uk/family?acc=PF07576

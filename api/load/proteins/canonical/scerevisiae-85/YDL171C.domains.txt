@@ -1,0 +1,8 @@
+#>P	YDL171C	YDL171C	YDL171C	IV	149206	155640	-1	NAD(+)-dependent glutamate synthase (GOGAT); synthesizes glutamate from glutamine and alpha-ketoglutarate; with Gln1p, forms the secondary pathway for glutamate biosynthesis from ammonia; expression regulated by nitrogen source; assembles into filaments as cells approach stationary phase and under cytosolic acidification and starvation conditions [Source:SGD;Acc:S000002330]
+#>E	YDL171C.1	1.0	149203-155640
+IV	153220	154098	-1.0	Glu_synth_centr_N	0	153220-154098	PF04898	http://pfam.sanger.ac.uk/family?acc=PF04898
+IV	151099	151692	-1.0	Glu_synth_asu_C	0	151099-151692	PF01493	http://pfam.sanger.ac.uk/family?acc=PF01493
+IV	151924	153036	-1.0	Glu_synth_centr_C	0	151924-153036	PF01645	http://pfam.sanger.ac.uk/family?acc=PF01645
+IV	154360	155481	-1.0	GATase_2	0	154360-155481	PF00310	http://pfam.sanger.ac.uk/family?acc=PF00310
+IV	149356	150288	-1.0	Pyr_nucl-diS_OxRdtase_FAD/NAD	0	149356-150288	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992
+IV	150070	150288	-1.0	Pyr_OxRdtase_NAD-bd_dom	0	150070-150288	PF00070	http://pfam.sanger.ac.uk/family?acc=PF00070

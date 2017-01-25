@@ -1,0 +1,4 @@
+#>P	YBR035C	YBR035C	YBR035C	II	306272	306955	-1	Pyridoxine (pyridoxamine) phosphate oxidase; has homologs in E. coli and Myxococcus xanthus; transcription is under the general control of nitrogen metabolism [Source:SGD;Acc:S000000239]
+#>E	YBR035C.1	1.0	306269-306955
+II	306272	306400	-1.0	Pyridoxamine_oxidase_dimer_C	0	306272-306400	PF10590	http://pfam.sanger.ac.uk/family?acc=PF10590
+II	306563	306790	-1.0	Pyridox_Oxase_FMN-bd	0	306563-306790	PF01243	http://pfam.sanger.ac.uk/family?acc=PF01243

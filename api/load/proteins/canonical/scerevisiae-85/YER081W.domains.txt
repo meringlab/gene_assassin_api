@@ -1,0 +1,4 @@
+#>P	YER081W	YER081W	YER081W	V	322686	324092	1	3-phosphoglycerate dehydrogenase; catalyzes the first step in serine and glycine biosynthesis; SER3 has a paralog, SER33, that arose from the whole genome duplication [Source:SGD;Acc:S000000883]
+#>E	YER081W.1	1.0	322686-324095
+V	322866	323828	1.0	D-isomer_2_OHA_DH_cat_dom	0	322866-323828	PF00389	http://pfam.sanger.ac.uk/family?acc=PF00389
+V	323178	323732	1.0	D-isomer_2_OHA_DH_NAD-bd	0	323178-323732	PF02826	http://pfam.sanger.ac.uk/family?acc=PF02826

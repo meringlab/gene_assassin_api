@@ -1,0 +1,7 @@
+#>P	YLR419W	YLR419W	YLR419W	XII	958428	962732	1	Putative helicase with limited sequence similarity to human Rb protein; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; YLR419W is not an essential gene [Source:SGD;Acc:S000004411]
+#>E	YLR419W.1	1.0	958428-962735
+XII	959697	960011	1.0	RWD-domain	0	959697-960011	PF05773	http://pfam.sanger.ac.uk/family?acc=PF05773
+XII	961938	962501	1.0	DUF1605	0	961938-962501	PF07717	http://pfam.sanger.ac.uk/family?acc=PF07717
+XII	961551	961826	1.0	Helicase-assoc_dom	0	961551-961826	PF04408	http://pfam.sanger.ac.uk/family?acc=PF04408
+XII	961089	961361	1.0	Helicase_C	0	961089-961361	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XII	960255	960725	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	960255-960725	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

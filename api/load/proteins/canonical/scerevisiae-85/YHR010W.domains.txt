@@ -1,0 +1,3 @@
+#>P	YHR010W	YHR010W	YHR010W	VIII	126521	127489	1	Ribosomal 60S subunit protein L27A; homologous to mammalian ribosomal protein L27, no bacterial homolog; RPL27A has a paralog, RPL27B, that arose from the whole genome duplication [Source:SGD;Acc:S000001052]
+#>E	YHR010W.1,YHR010W.2	1,1	126521-126551,127113-127492
+VIII	127235	127489	1	Ribosomal_L27e	0	127235-127489	PF01777	http://pfam.sanger.ac.uk/family?acc=PF01777

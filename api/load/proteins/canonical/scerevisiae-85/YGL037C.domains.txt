@@ -1,0 +1,3 @@
+#>P	YGL037C	YGL037C	YGL037C	VII	427300	427947	-1	Nicotinamidase that converts nicotinamide to nicotinic acid; part of the NAD(+) salvage pathway; required for life span extension by calorie restriction; PNC1 expression responds to all known stimuli that extend replicative life span; protein increases in abundance and relative distribution to cytoplasmic foci decreases upon DNA replication stress [Source:SGD;Acc:S000003005]
+#>E	YGL037C.1	1.0	427297-427947
+VII	427369	427941	-1.0	Isochorismatase-like	0	427369-427941	PF00857	http://pfam.sanger.ac.uk/family?acc=PF00857

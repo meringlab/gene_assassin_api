@@ -1,0 +1,3 @@
+#>P	YER047C	YER047C	YER047C	V	243813	246503	-1	Putative ATPase of the AAA family; interacts with the Sin1p transcriptional repressor in the two-hybrid system [Source:SGD;Acc:S000000849]
+#>E	YER047C.1	1.0	243810-246503
+V	244134	244583	-1.0	ATPase_AAA_core	0	244134-244583	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

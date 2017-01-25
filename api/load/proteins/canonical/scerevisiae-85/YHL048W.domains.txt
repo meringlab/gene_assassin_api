@@ -1,0 +1,4 @@
+#>P	YHL048W	YHL048W	YHL048W	VIII	6401	7543	1	Nuclear membrane protein; member of the DUP380 subfamily of conserved, often subtelomerically-encoded proteins; regulation suggests a potential role in the unfolded protein response [Source:SGD;Acc:S000001040]
+#>E	YHL048W.1	1.0	6401-7546
+VIII	7154	7459	1.0	DUP	0	7154-7459	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674
+VIII	6596	6901	1.0	DUP	0	6596-6901	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674

@@ -1,0 +1,4 @@
+#>P	YMR182C	YMR182C	YMR182C	XIII	624535	625167	-1	Putative zinc finger DNA binding transcription factor; contains two N-terminal C2H2 zinc fingers and C-terminal proline rich domain; overproduction impairs cell growth and induces expression of genes involved in monosaccharide catabolism and aldehyde metabolism; regulates expression of of Y' telomeric elements and subtelomeric COS genes; relocalizes to the cytosol in response to hypoxia; RGM1 has a paralog, USV1, that arose from the whole genome duplication [Source:SGD;Acc:S000004794]
+#>E	YMR182C.1	1.0	624532-625167
+XIII	624949	625020	-1.0	Znf_C2H2	0	624949-625020	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+XIII	625036	625113	-1.0	Znf_C2H2	0	625036-625113	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

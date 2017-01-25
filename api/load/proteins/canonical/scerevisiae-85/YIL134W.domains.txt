@@ -1,0 +1,5 @@
+#>P	YIL134W	YIL134W	YIL134W	IX	97395	98327	1	Protein required for transport of flavin adenine dinucleotide (FAD); a synthesis product of riboflavin, across the mitochondrial membrane [Source:SGD;Acc:S000001396]
+#>E	YIL134W.1	1.0	97395-98330
+IX	98088	98324	1.0	Mitochondrial_sb/sol_carrier	0	98088-98324	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IX	97410	97706	1.0	Mitochondrial_sb/sol_carrier	0	97410-97706	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IX	97764	98024	1.0	Mitochondrial_sb/sol_carrier	0	97764-98024	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

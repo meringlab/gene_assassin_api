@@ -1,0 +1,3 @@
+#>P	YLR209C	YLR209C	YLR209C	XII	560800	561732	-1	Purine nucleoside phosphorylase; specifically metabolizes inosine and guanosine nucleosides; involved in the nicotinamide riboside salvage pathway [Source:SGD;Acc:S000004199]
+#>E	YLR209C.1	1.0	560797-561732
+XII	560812	561618	-1.0	Nucleoside_phosphorylase_d	0	560812-561618	PF01048	http://pfam.sanger.ac.uk/family?acc=PF01048

@@ -1,0 +1,5 @@
+#>P	YNL023C	YNL023C	YNL023C	XIV	588266	591160	-1	Protein that binds to Fpr1p; confers rapamycin resistance by competing with rapamycin for Fpr1p binding; accumulates in the nucleus upon treatment of cells with rapamycin; has similarity to D. melanogaster shuttle craft and human NFX1 [Source:SGD;Acc:S000004968]
+#>E	YNL023C.1	1.0	588263-591160
+XIV	589343	589405	-1.0	Znf_NFX1	0	589343-589405	PF01422	http://pfam.sanger.ac.uk/family?acc=PF01422
+XIV	589703	589759	-1.0	Znf_NFX1	0	589703-589759	PF01422	http://pfam.sanger.ac.uk/family?acc=PF01422
+XIV	588779	588943	-1.0	R3H_ss-bd	0	588779-588943	PF01424	http://pfam.sanger.ac.uk/family?acc=PF01424

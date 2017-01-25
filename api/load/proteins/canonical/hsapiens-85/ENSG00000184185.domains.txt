@@ -1,0 +1,4 @@
+#>P	ENSG00000184185	ENST00000583088	ENSP00000463778	17	21415343	21416641	1	potassium voltage-gated channel subfamily J member 12 [Source:HGNC Symbol;Acc:HGNC:6258]
+#>E	ENSE00002732101	0	21415343-21416644
+17	21415349	21415480	1	K_chnl_inward-rec_Kir_N	86.9	21415349-21415480	PF08466	http://pfam.sanger.ac.uk/family?acc=PF08466
+17	21415481	21416440	1	K_chnl_inward-rec_Kir	524.7	21415481-21416440	PF01007	http://pfam.sanger.ac.uk/family?acc=PF01007

@@ -1,0 +1,5 @@
+#>P	YOL125W	YOL125W	YOL125W	XV	83834	85261	1	2'-O-methyltransferase; responsible for modification of tRNA at position 4; C-terminal domain has similarity to Rossmann-fold (RFM) superfamily of RNA methyltransferases [Source:SGD;Acc:S000005485]
+#>E	YOL125W.1	1.0	83834-85264
+XV	84044	84124	1.0	TRM13/UPF0224_CHHC_Znf_dom	0	84044-84124	PF05253	http://pfam.sanger.ac.uk/family?acc=PF05253
+XV	83885	83974	1.0	Znf_CCCH-type_TRM13	0	83885-83974	PF11722	http://pfam.sanger.ac.uk/family?acc=PF11722
+XV	84368	85252	1.0	Methyltransferase_TRM13	0	84368-85252	PF05206	http://pfam.sanger.ac.uk/family?acc=PF05206

@@ -1,0 +1,5 @@
+#>P	YDL102W	YDL102W	YDL102W	IV	276872	280162	1	Catalytic subunit of DNA polymerase delta; required for chromosomal DNA replication during mitosis and meiosis, intragenic recombination, repair of double strand DNA breaks, and DNA replication during nucleotide excision repair (NER) [Source:SGD;Acc:S000002260]
+#>E	YDL102W.1	1.0	276872-280165
+IV	279896	280114	1.0	Znf-C4pol	0	279896-280114	PF14260	http://pfam.sanger.ac.uk/family?acc=PF14260
+IV	278534	279802	1.0	DNA-dir_DNA_pol_B_multi_dom	0	278534-279802	PF00136	http://pfam.sanger.ac.uk/family?acc=PF00136
+IV	277298	278317	1.0	DNA-dir_DNA_pol_B_exonuc	0	277298-278317	PF03104	http://pfam.sanger.ac.uk/family?acc=PF03104

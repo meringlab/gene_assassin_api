@@ -1,0 +1,3 @@
+#>P	YHR021C	YHR021C	YHR021C	VIII	147874	148669	-1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S27, no bacterial homolog; RPS27B has a paralog, RPS27A, that arose from the whole genome duplication [Source:SGD;Acc:S000001063]
+#>E	YHR021C.2,YHR021C.1	1,1	147871-148116,148667-148669
+VIII	147874	148038	-1	Ribosomal_S27e	0	147874-148038	PF01667	http://pfam.sanger.ac.uk/family?acc=PF01667

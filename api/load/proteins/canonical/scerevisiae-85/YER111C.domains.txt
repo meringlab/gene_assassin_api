@@ -1,0 +1,5 @@
+#>P	YER111C	YER111C	YER111C	V	382598	385876	-1	DNA binding component of the SBF complex (Swi4p-Swi6p); a transcriptional activator that in concert with MBF (Mbp1-Swi6p) regulates late G1-specific transcription of targets including cyclins and genes required for DNA synthesis and repair; Slt2p-independent regulator of cold growth; acetylation at two sites, K1016 and K1066, regulates interaction with Swi6p [Source:SGD;Acc:S000000913]
+#>E	YER111C.1	1.0	382595-385876
+V	385505	385708	-1.0	KilA_N/APSES_HTH	0	385505-385708	PF04383	http://pfam.sanger.ac.uk/family?acc=PF04383
+V	384224	384316	-1.0	Ankyrin_rpt	0	384224-384316	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+V	383861	383953	-1.0	Ankyrin_rpt	0	383861-383953	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023

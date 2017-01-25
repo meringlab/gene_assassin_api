@@ -1,0 +1,3 @@
+#>P	YDR083W	YDR083W	YDR083W	IV	612073	613248	1	Nucleolar S-adenosylmethionine-dependent rRNA methyltransferase; methylates adenine (m1A) of the large subunit (LSU) rRNA at position 645; involved in pre-rRNA cleavage at site A2; mutation is synthetically lethal with a gar1 mutation; deletion disrupts telomere maintenance by influencing the expression of neighboring gene STN1 [Source:SGD;Acc:S000002490]
+#>E	YDR083W.1	1.0	612073-613251
+IV	612409	613104	1.0	Methyltransferase-rel	0	612409-613104	PF05148	http://pfam.sanger.ac.uk/family?acc=PF05148

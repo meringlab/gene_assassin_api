@@ -1,0 +1,4 @@
+#>P	YMR176W	YMR176W	YMR176W	XIII	611740	615972	1	Subunit of the Snt2C complex; physically associates with Snt2p and Rpd3p; along with Snt2p, recruits Rpd3p to a small number of promoters; also colocalizes with Snt2p, independently of Rpd3p, to promoters of stress response genes in response to oxidative stress; contains ATP/GTP-binding site motif A; null mutant exhibits increased cellular volume, large drooping buds with elongated necks; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000004788]
+#>E	YMR176W.1	1.0	611740-615975
+XIII	615457	615606	1.0	Znf_PHD-finger	0	615457-615606	PF00628	http://pfam.sanger.ac.uk/family?acc=PF00628
+XIII	612292	612564	1.0	ARID/BRIGHT_DNA-bd	0	612292-612564	PF01388	http://pfam.sanger.ac.uk/family?acc=PF01388

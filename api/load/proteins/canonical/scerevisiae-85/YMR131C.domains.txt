@@ -1,0 +1,6 @@
+#>P	YMR131C	YMR131C	YMR131C	XIII	533166	534698	-1	Nuclear protein involved in early steps of ribosome biogenesis; physically interacts with the ribosomal protein Rpl3p; essential gene [Source:SGD;Acc:S000004738]
+#>E	YMR131C.1	1.0	533163-534698
+XIII	534171	534377	-1.0	Histone-bd_RBBP4	0	534171-534377	PF12265	http://pfam.sanger.ac.uk/family?acc=PF12265
+XIII	533514	533603	-1.0	WD40_repeat	0	533514-533603	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	533649	533738	-1.0	WD40_repeat	0	533649-533738	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	533361	533474	-1.0	WD40_repeat	0	533361-533474	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

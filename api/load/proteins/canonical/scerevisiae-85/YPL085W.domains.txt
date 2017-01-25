@@ -1,0 +1,4 @@
+#>P	YPL085W	YPL085W	YPL085W	XVI	387067	393651	1	COPII vesicle coat protein required for ER transport vesicle budding; essential factor in endoplasmic reticulum exit site (ERES) formation, as well as in COPII-mediated ER-to-Golgi traffic; bound to periphery of ER membranes and may act to stabilize initial COPII complexes; interacts with Sec23p, Sec24p and Sec31p [Source:SGD;Acc:S000006006]
+#>E	YPL085W.1	1.0	387067-393654
+XVI	387940	388767	1.0	Sec16_N	0	387940-388767	PF12935	http://pfam.sanger.ac.uk/family?acc=PF12935
+XVI	390040	390339	1.0	Sec16_CCD	0	390040-390339	PF12932	http://pfam.sanger.ac.uk/family?acc=PF12932

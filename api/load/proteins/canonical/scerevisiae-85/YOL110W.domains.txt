@@ -1,0 +1,3 @@
+#>P	YOL110W	YOL110W	YOL110W	XV	109176	109886	1	Palmitoyltransferase subunit; this complex adds a palmitoyl lipid moiety to heterolipidated substrates such as Ras1p and Ras2p through a thioester linkage; palmitoylation is required for Ras2p membrane localization; Palmitoyltransferase is composed of Shr5p and Erf2 [Source:SGD;Acc:S000005470]
+#>E	YOL110W.1	1.0	109176-109889
+XV	109389	109868	1.0	Golgin_A_7/ERF4	0	109389-109868	PF10256	http://pfam.sanger.ac.uk/family?acc=PF10256

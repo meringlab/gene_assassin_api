@@ -1,0 +1,3 @@
+#>P	YJR033C	YJR033C	YJR033C	X	492381	496451	-1	Subunit of RAVE complex (Rav1p, Rav2p, Skp1p); the RAVE complex promotes assembly of the V-ATPase holoenzyme; required for transport between the early and late endosome/PVC and for localization of TGN membrane proteins; potential Cdc28p substrate [Source:SGD;Acc:S000003794]
+#>E	YJR033C.1	1.0	492378-496451
+X	492879	494741	-1.0	Rav1p_C	914.5	492879-494741	PF12234	http://pfam.sanger.ac.uk/family?acc=PF12234

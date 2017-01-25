@@ -1,0 +1,3 @@
+#>P	YPL096W	YPL096W	YPL096W	XVI	366927	368015	1	Conserved peptide N-glycanase; required for deglycosylation of misfolded glycoproteins during proteasome-dependent degradation; localizes to the cytoplasm and nucleus; activity is enhanced by interaction with Rad23p [Source:SGD;Acc:S000006017]
+#>E	YPL096W.1	1.0	366927-368018
+XVI	367572	367751	1.0	Rad4/PNGase_transGLS-fold	0	367572-367751	PF03835	http://pfam.sanger.ac.uk/family?acc=PF03835

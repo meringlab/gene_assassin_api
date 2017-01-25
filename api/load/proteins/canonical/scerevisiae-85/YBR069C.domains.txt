@@ -1,0 +1,3 @@
+#>P	YBR069C	YBR069C	YBR069C	II	376577	378433	-1	Amino acid transporter for valine, leucine, isoleucine, and tyrosine; low-affinity tryptophan and histidine transporter; overexpression confers FK506 and FTY720 resistance; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000000273]
+#>E	YBR069C.1	1.0	376574-378433
+II	376766	378142	-1.0	AA-permease_dom	0	376766-378142	PF00324	http://pfam.sanger.ac.uk/family?acc=PF00324

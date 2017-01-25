@@ -1,0 +1,3 @@
+#>P	YNL009W	YNL009W	YNL009W	XIV	614821	616080	1	Peroxisomal NADP-dependent isocitrate dehydrogenase; catalyzes oxidation of isocitrate to alpha-ketoglutarate with the formation of NADP(H+), required for growth on unsaturated fatty acids; IDP3 has a paralog, IDP2, that arose from the whole genome duplication [Source:SGD;Acc:S000004954]
+#>E	YNL009W.1	1.0	614821-616083
+XIV	614833	616017	1.0	IsoPropMal-DH-like_dom	0	614833-616017	PF00180	http://pfam.sanger.ac.uk/family?acc=PF00180

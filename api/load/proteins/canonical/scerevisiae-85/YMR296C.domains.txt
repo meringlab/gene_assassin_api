@@ -1,0 +1,3 @@
+#>P	YMR296C	YMR296C	YMR296C	XIII	859218	860891	-1	Component of serine palmitoyltransferase; responsible along with Lcb2p for the first committed step in sphingolipid synthesis, which is the condensation of serine with palmitoyl-CoA to form 3-ketosphinganine [Source:SGD;Acc:S000004911]
+#>E	YMR296C.1	1.0	859215-860891
+XIII	859257	860459	-1.0	Aminotransferase_I/II	0	859257-860459	PF00155	http://pfam.sanger.ac.uk/family?acc=PF00155

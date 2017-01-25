@@ -1,0 +1,4 @@
+#>P	YDR518W	YDR518W	YDR518W	IV	1478608	1480158	1	Protein disulfide isomerase of the endoplasmic reticulum lumen; EUG1 has a paralog, PDI1, that arose from the whole genome duplication; function overlaps with that of Pdi1p; may interact with nascent polypeptides in the ER [Source:SGD;Acc:S000002926]
+#>E	YDR518W.1	1.0	1478608-1480161
+IV	1479739	1480059	1.0	Thioredoxin_domain	0	1479739-1480059	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085
+IV	1478713	1479015	1.0	Thioredoxin_domain	0	1478713-1479015	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085

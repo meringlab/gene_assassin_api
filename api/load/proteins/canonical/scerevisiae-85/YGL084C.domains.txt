@@ -1,0 +1,3 @@
+#>P	YGL084C	YGL084C	YGL084C	VII	350619	352298	-1	Plasma membrane protein involved in remodeling GPI anchors; member of the MBOAT family of putative membrane-bound O-acyltransferases; role in misfolded protein quality control; proposed to be involved in glycerol transport; GUP1 has a paralog, GUP2, that arose from the whole genome duplication [Source:SGD;Acc:S000003052]
+#>E	YGL084C.1	1.0	350616-352298
+VII	350772	351788	-1.0	MBOAT_fam	0	350772-351788	PF03062	http://pfam.sanger.ac.uk/family?acc=PF03062

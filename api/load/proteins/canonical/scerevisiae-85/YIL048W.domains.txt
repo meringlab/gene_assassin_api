@@ -1,0 +1,4 @@
+#>P	YIL048W	YIL048W	YIL048W	IX	261437	264889	1	Putative aminophospholipid translocase (flippase); involved in endocytosis and vacuolar biogenesis; localizes to endosomes and the Golgi aparatus [Source:SGD;Acc:S000001310]
+#>E	YIL048W.1	1.0	261437-264892
+IX	262112	262876	1.0	ATPase_P-typ_ATPase-assoc-dom	0	262112-262876	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122
+IX	262934	264118	1.0	Dehalogen-like_hydro	0	262934-264118	PF00702	http://pfam.sanger.ac.uk/family?acc=PF00702

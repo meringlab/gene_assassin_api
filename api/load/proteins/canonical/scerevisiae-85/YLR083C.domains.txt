@@ -1,0 +1,3 @@
+#>P	YLR083C	YLR083C	YLR083C	XII	294094	296094	-1	Protein with a role in cellular adhesion and filamentous growth; also endosome-to-vacuole sorting; similar to Tmn3p; member of Transmembrane Nine family of proteins with 9 transmembrane segments; EMP70 has a paralog, TMN2, that arose from the whole genome duplication [Source:SGD;Acc:S000004073]
+#>E	YLR083C.1	1.0	294091-296094
+XII	294223	295881	-1.0	EMP70	0	294223-295881	PF02990	http://pfam.sanger.ac.uk/family?acc=PF02990

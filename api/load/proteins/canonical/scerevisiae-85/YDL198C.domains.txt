@@ -1,0 +1,4 @@
+#>P	YDL198C	YDL198C	YDL198C	IV	103652	104551	-1	Mitochondrial GTP/GDP transporter; essential for mitochondrial genome maintenance; has a role in mitochondrial iron transport; member of the mitochondrial carrier family [Source:SGD;Acc:S000002357]
+#>E	YDL198C.1	1.0	103649-104551
+IV	103682	103930	-1.0	Mitochondrial_sb/sol_carrier	0	103682-103930	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IV	103955	104197	-1.0	Mitochondrial_sb/sol_carrier	0	103955-104197	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

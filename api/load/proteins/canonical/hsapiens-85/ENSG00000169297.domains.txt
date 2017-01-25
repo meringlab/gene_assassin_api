@@ -1,0 +1,7 @@
+#>P	ENSG00000169297	ENST00000378970	ENSP00000368253	X	30304582	30309363	-1	nuclear receptor subfamily 0 group B member 1 [Source:HGNC Symbol;Acc:HGNC:7960]
+#>E	ENSE00001479408,ENSE00001819343	0,0	30304579-30304823,30308196-30309363
+X	30304642	30308610	-1	Nucl_hrmn_rcpt_lig-bd	73.1	30304642-30304823,30308196-30308610	PF00104	http://pfam.sanger.ac.uk/family?acc=PF00104
+X	30308821	30308964	-1	Nuclear_receptor_repeat	334.7	30308821-30308964	PF14046	http://pfam.sanger.ac.uk/family?acc=PF14046
+X	30309217	30309363	-1	Nuclear_receptor_repeat	334.7	30309217-30309363	PF14046	http://pfam.sanger.ac.uk/family?acc=PF14046
+X	30309019	30309162	-1	Nuclear_receptor_repeat	334.7	30309019-30309162	PF14046	http://pfam.sanger.ac.uk/family?acc=PF14046
+X	30308626	30308763	-1	Nuclear_receptor_repeat	334.7	30308626-30308763	PF14046	http://pfam.sanger.ac.uk/family?acc=PF14046

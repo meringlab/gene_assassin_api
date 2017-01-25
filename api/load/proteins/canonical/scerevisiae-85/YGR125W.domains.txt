@@ -1,0 +1,5 @@
+#>P	YGR125W	YGR125W	YGR125W	VII	742325	745432	1	Putative protein of unknown function; deletion mutant has decreased rapamycin resistance but normal wormannin resistance; green fluorescent protein (GFP)-fusion protein localizes to the vacuole [Source:SGD;Acc:S000003357]
+#>E	YGR125W.1	1.0	742325-745435
+VII	743291	744127	1.0	Sulph_transpt	0	743291-744127	PF00916	http://pfam.sanger.ac.uk/family?acc=PF00916
+VII	745127	745342	1.0	cNMP-bd_dom	0	745127-745342	PF00027	http://pfam.sanger.ac.uk/family?acc=PF00027
+VII	744296	744655	1.0	SO4_transptr/STAS	0	744296-744655	PF01740	http://pfam.sanger.ac.uk/family?acc=PF01740

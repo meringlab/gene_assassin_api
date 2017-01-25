@@ -1,0 +1,3 @@
+#>P	YDR126W	YDR126W	YDR126W	IV	703234	704241	1	Palmitoyltransferase that acts on transmembrane proteins; including the SNAREs Snc1p, Syn8p, Tlg1p and likely all SNAREs; contains an Asp-His-His-Cys-cysteine rich (DHHC-CRD) domain; may have a role in vacuole fusion [Source:SGD;Acc:S000002533]
+#>E	YDR126W.1	1.0	703234-704244
+IV	703573	703980	1.0	Znf_DHHC_palmitoyltrfase	0	703573-703980	PF01529	http://pfam.sanger.ac.uk/family?acc=PF01529

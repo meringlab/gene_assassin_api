@@ -1,0 +1,5 @@
+#>P	YPL217C	YPL217C	YPL217C	XVI	139623	143171	-1	GTPase required for ribosomal subunit synthesis and rRNA processing; required for synthesis of 40S ribosomal subunits and for processing the 35S pre-rRNA at sites A0, A1, and A2; interacts with Rcl1p, which stimulates its GTPase and U3 snoRNA binding activities; has similarity to Tsr1p [Source:SGD;Acc:S000006138]
+#>E	YPL217C.1	1.0	139620-143171
+XVI	142248	142517	-1.0	AARP2CN	0	142248-142517	PF08142	http://pfam.sanger.ac.uk/family?acc=PF08142
+XVI	142545	142847	-1.0	ProtSyn_GTP-bd	0	142545-142847	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+XVI	140145	141050	-1.0	BMS1_TSR1_C	0	140145-141050	PF04950	http://pfam.sanger.ac.uk/family?acc=PF04950

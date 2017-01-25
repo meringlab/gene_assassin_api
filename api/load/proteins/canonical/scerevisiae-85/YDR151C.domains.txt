@@ -1,0 +1,4 @@
+#>P	YDR151C	YDR151C	YDR151C	IV	764181	765155	-1	Member of the CCCH zinc finger family; similar to mammalian Tis11 protein, which activates transcription and also has a role in mRNA degradation; may function with Tis11p in iron homeostasis; CTH1 has a paralog, TIS11, that arose from the whole genome duplication [Source:SGD;Acc:S000002558]
+#>E	YDR151C.1	1.0	764178-765155
+IV	764352	764429	-1.0	Znf_CCCH	0	764352-764429	PF00642	http://pfam.sanger.ac.uk/family?acc=PF00642
+IV	764466	764543	-1.0	Znf_CCCH	0	764466-764543	PF00642	http://pfam.sanger.ac.uk/family?acc=PF00642

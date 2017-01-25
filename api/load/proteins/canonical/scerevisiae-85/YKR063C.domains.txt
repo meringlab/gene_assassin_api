@@ -1,0 +1,3 @@
+#>P	YKR063C	YKR063C	YKR063C	XI	560792	562297	-1	Protein required for pre-rRNA processing at both ends of ITS2; functions with Grc3p in a conserved mechanism to modulate rRNA processing and ribosome biogenesis; may coordinate the action of the Rat1p-Rai1p exoRNAse; required for the G1/S cell cycle transition; human ortholog is Las1L; mutants require the SSD1-v allele for viability [Source:SGD;Acc:S000001771]
+#>E	YKR063C.1	1.0	560789-562297
+XI	561812	562282	-1.0	Las1	0	561812-562282	PF04031	http://pfam.sanger.ac.uk/family?acc=PF04031

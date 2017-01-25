@@ -1,0 +1,3 @@
+#>P	YPR043W	YPR043W	YPR043W	XVI	654166	654844	1	Ribosomal 60S subunit protein L43A; null mutation confers a dominant lethal phenotype; homologous to mammalian ribosomal protein L37A, no bacterial homolog; RPL43A has a paralog, RPL43B, that arose from the whole genome duplication [Source:SGD;Acc:S000006247]
+#>E	YPR043W.1,YPR043W.2	1,1	654166-654167,654571-654847
+XVI	654572	654838	1	Ribosomal_L37ae	0	654572-654838	PF01780	http://pfam.sanger.ac.uk/family?acc=PF01780

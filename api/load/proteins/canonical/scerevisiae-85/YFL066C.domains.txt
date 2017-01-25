@@ -1,0 +1,4 @@
+#>P	YFL066C	YFL066C	YFL066C	VI	1440	2615	-1	Helicase-like protein encoded within the telomeric Y' element; induced by treatment with 8-methoxypsoralen and UVA irradiation [Source:SGD;Acc:S000001828]
+#>E	YFL066C.1	1.0	1437-2615
+VI	1611	1820	-1.0	Helicase_C	0	1611-1820	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+VI	2130	2600	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	2130-2600	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

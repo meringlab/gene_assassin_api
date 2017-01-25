@@ -1,0 +1,5 @@
+#>P	YNL064C	YNL064C	YNL064C	XIV	505871	507097	-1	Type I HSP40 co-chaperone; involved in regulation of HSP90 and HSP70 functions; critical for determining cell size at Start as a function of growth rate; involved in protein translocation across membranes; member of the DnaJ family [Source:SGD;Acc:S000005008]
+#>E	YNL064C.1	1.0	505868-507097
+XIV	506897	507079	-1.0	DnaJ_N	0	506897-507079	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226
+XIV	506474	506671	-1.0	HSP_DnaJ_Cys-rich_dom	0	506474-506671	PF00684	http://pfam.sanger.ac.uk/family?acc=PF00684
+XIV	506072	506305	-1.0	DnaJ_C	0	506072-506305	PF01556	http://pfam.sanger.ac.uk/family?acc=PF01556

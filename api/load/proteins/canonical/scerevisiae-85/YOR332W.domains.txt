@@ -1,0 +1,3 @@
+#>P	YOR332W	YOR332W	YOR332W	XV	943656	944354	1	Subunit E of the V1 domain of the vacuolar H+-ATPase (V-ATPase); V-ATPase is an electrogenic proton pump found throughout the endomembrane system; V1 domain has eight subunits; required for the V1 domain to assemble onto the vacuolar membrane; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005859]
+#>E	YOR332W.1	1.0	943656-944357
+XV	943722	944324	1.0	ATPase_V1/A1-cplx_esu	0	943722-944324	PF01991	http://pfam.sanger.ac.uk/family?acc=PF01991

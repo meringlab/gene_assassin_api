@@ -1,0 +1,3 @@
+#>P	YGR247W	YGR247W	YGR247W	VII	984966	985682	1	Cyclic nucleotide phosphodiesterase; hydrolyzes ADP-ribose 1'', 2''-cyclic phosphate to ADP-ribose 1''-phosphate; may have a role in tRNA splicing; no detectable phenotype is conferred by null mutation or by overexpression; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003479]
+#>E	YGR247W.1	1.0	984966-985685
+VII	984966	985682	1.0	Cyclic-nucl_3Pdiesterase	0	984966-985682	PF07823	http://pfam.sanger.ac.uk/family?acc=PF07823

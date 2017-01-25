@@ -1,0 +1,4 @@
+#>P	YPL212C	YPL212C	YPL212C	XVI	151518	153149	-1	tRNA:pseudouridine synthase; introduces pseudouridines at positions 26-28, 34-36, 65, and 67 of tRNA; also acts on U2 snRNA; also pseudouridylates some mRNAs, and pseudouridylation level varies with growth phase; nuclear protein that appears to be involved in tRNA export; PUS1 has a paralog, PUS2, that arose from the whole genome duplication [Source:SGD;Acc:S000006133]
+#>E	YPL212C.1	1.0	151515-153149
+XVI	151953	152246	-1.0	PsdUridine_synth_TruA_a/b_dom	34.1	151953-152246	PF01416	http://pfam.sanger.ac.uk/family?acc=PF01416
+XVI	152604	152912	-1.0	PsdUridine_synth_TruA_a/b_dom	41	152604-152912	PF01416	http://pfam.sanger.ac.uk/family?acc=PF01416

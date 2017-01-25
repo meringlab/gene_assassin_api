@@ -1,0 +1,3 @@
+#>P	YOL136C	YOL136C	YOL136C	XV	67564	68754	-1	6-phosphofructo-2-kinase; catalyzes synthesis of fructose-2,6-bisphosphate; inhibited by phosphoenolpyruvate and sn-glycerol 3-phosphate, expression induced by glucose and sucrose, transcriptional regulation involves protein kinase A [Source:SGD;Acc:S000005496]
+#>E	YOL136C.1	1.0	67561-68754
+XV	67783	68502	-1.0	6Phosfructo_kin	0	67783-68502	PF01591	http://pfam.sanger.ac.uk/family?acc=PF01591

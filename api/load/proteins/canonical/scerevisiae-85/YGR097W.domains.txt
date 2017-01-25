@@ -1,0 +1,3 @@
+#>P	YGR097W	YGR097W	YGR097W	VII	678695	682132	1	Component of RNA polymerase II holoenzyme; phosphorylated in response to oxidative stress; has a role in destruction of Ssn8p; proposed to function in activation of the glycerol channel Fps1p; ASK10 has a paralog, RGC1, that arose from the whole genome duplication [Source:SGD;Acc:S000003329]
+#>E	YGR097W.1	1.0	678695-682135
+VII	680138	680854	1.0	Pleckstrin_homology	0	680138-680854	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169

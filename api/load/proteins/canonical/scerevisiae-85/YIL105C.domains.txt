@@ -1,0 +1,3 @@
+#>P	YIL105C	YIL105C	YIL105C	IX	167584	169641	-1	Phosphoinositide PI4,5P(2) binding protein, forms a complex with Slm2p; acts downstream of Mss4p in a pathway regulating actin cytoskeleton organization in response to stress; phosphorylated by the TORC2 complex; protein abundance increases in response to DNA replication stress; SLM1 has a paralog, SLM2, that arose from the whole genome duplication [Source:SGD;Acc:S000001367]
+#>E	YIL105C.1	1.0	167581-169641
+IX	167899	168234	-1.0	Pleckstrin_homology	59.5	167899-168234	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169

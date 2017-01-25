@@ -1,0 +1,4 @@
+#>P	YGR286C	YGR286C	YGR286C	VII	1063816	1064940	-1	Biotin synthase; catalyzes the conversion of dethiobiotin to biotin, which is the last step of the biotin biosynthesis pathway; complements E. coli bioB mutant [Source:SGD;Acc:S000003518]
+#>E	YGR286C.1	1.0	1063813-1064940
+VII	1063843	1064139	-1.0	Biotin/thiamin_synth-assoc	0	1063843-1064139	PF06968	http://pfam.sanger.ac.uk/family?acc=PF06968
+VII	1064191	1064655	-1.0	rSAM	0	1064191-1064655	PF04055	http://pfam.sanger.ac.uk/family?acc=PF04055

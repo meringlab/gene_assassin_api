@@ -1,0 +1,3 @@
+#>P	YLR182W	YLR182W	YLR182W	XII	517940	520348	1	Transcription cofactor; forms complexes with Swi4p and Mbp1p to regulate transcription at the G1/S transition; involved in meiotic gene expression; also binds Stb1p to regulate transcription at START; cell wall stress induces phosphorylation by Mpk1p, which regulates Swi6p localization; required for the unfolded protein response, independently of its known transcriptional coactivators [Source:SGD;Acc:S000004172]
+#>E	YLR182W.1	1.0	517940-520351
+XII	518888	518971	1.0	Ankyrin_rpt	0	518888-518971	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023

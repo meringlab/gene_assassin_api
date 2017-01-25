@@ -1,0 +1,5 @@
+#>P	YDR172W	YDR172W	YDR172W	IV	808324	810378	1	Translation termination factor eRF3; has a role in mRNA deadenylation and decay; altered protein conformation creates the [PSI(+)] prion that modifies cellular fitness, alters translational fidelity by affecting reading frame selection, and results in a nonsense suppressor phenotype; many stress-response genes are repressed in the presence of [PSI(+)] [Source:SGD;Acc:S000002579]
+#>E	YDR172W.1	1.0	808324-810381
+IV	810046	810372	1.0	Transl_elong_EFTu/EF1A_C	0	810046-810372	PF03143	http://pfam.sanger.ac.uk/family?acc=PF03143
+IV	809827	810033	1.0	Transl_elong_EFTu/EF1A_2	0	809827-810033	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144
+IV	809095	809757	1.0	ProtSyn_GTP-bd	0	809095-809757	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009

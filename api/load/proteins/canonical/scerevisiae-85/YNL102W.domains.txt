@@ -1,0 +1,6 @@
+#>P	YNL102W	YNL102W	YNL102W	XIV	430087	434490	1	Catalytic subunit of the DNA polymerase I alpha-primase complex; required for the initiation of DNA replication during mitotic DNA synthesis and premeiotic DNA synthesis [Source:SGD;Acc:S000005046]
+#>E	YNL102W.1	1.0	430087-434493
+XIV	431212	432243	1.0	DNA-dir_DNA_pol_B_exonuc	0	431212-432243	PF03104	http://pfam.sanger.ac.uk/family?acc=PF03104
+XIV	430117	430317	1.0	DNA_pol_a_cat_su_N	0	430117-430317	PF12254	http://pfam.sanger.ac.uk/family?acc=PF12254
+XIV	433885	434475	1.0	Znf_DNA-dir_DNA_pol_B_alpha	0	433885-434475	PF08996	http://pfam.sanger.ac.uk/family?acc=PF08996
+XIV	432466	433827	1.0	DNA-dir_DNA_pol_B_multi_dom	0	432466-433827	PF00136	http://pfam.sanger.ac.uk/family?acc=PF00136

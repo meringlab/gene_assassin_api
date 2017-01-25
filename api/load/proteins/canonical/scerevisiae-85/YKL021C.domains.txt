@@ -1,0 +1,6 @@
+#>P	YKL021C	YKL021C	YKL021C	XI	397347	398750	-1	Protein involved in an early step of 60S ribosomal subunit biogenesis; essential for cell growth and replication of killer M1 dsRNA virus; contains four beta-transducin repeats [Source:SGD;Acc:S000001504]
+#>E	YKL021C.1	1.0	397344-398750
+XI	397599	397706	-1.0	WD40_repeat	0	397599-397706	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	398355	398456	-1.0	WD40_repeat	0	398355-398456	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	398187	398342	-1.0	WD40_repeat	0	398187-398342	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XI	398058	398174	-1.0	WD40_repeat	0	398058-398174	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

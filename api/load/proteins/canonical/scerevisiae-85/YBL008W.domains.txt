@@ -1,0 +1,9 @@
+#>P	YBL008W	YBL008W	YBL008W	II	209653	212172	1	Subunit of the HIR complex; HIR is a nucleosome assembly complex involved in regulation of histone gene transcription; contributes to nucleosome formation, heterochromatic gene silencing, and formation of functional kinetochores [Source:SGD;Acc:S000000104]
+#>E	YBL008W.1	1.0	209653-212175
+II	210721	210801	1.0	WD40_repeat	0	210721-210801	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	209872	209970	1.0	WD40_repeat	0	209872-209970	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	210163	210270	1.0	WD40_repeat	0	210163-210270	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	210034	210147	1.0	WD40_repeat	0	210034-210147	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	209707	209787	1.0	WD40_repeat	0	209707-209787	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	211105	211170	1.0	HIRA_B_motif	0	211105-211170	PF09453	http://pfam.sanger.ac.uk/family?acc=PF09453
+II	211855	212064	1.0	Hira	0	211855-212064	PF07569	http://pfam.sanger.ac.uk/family?acc=PF07569

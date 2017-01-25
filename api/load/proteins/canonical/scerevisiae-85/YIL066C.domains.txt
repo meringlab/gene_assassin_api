@@ -1,0 +1,5 @@
+#>P	YIL066C	YIL066C	YIL066C	IX	238102	240708	-1	Minor isoform of large subunit of ribonucleotide-diphosphate reductase; the RNR complex catalyzes rate-limiting step in dNTP synthesis, regulated by DNA replication and DNA damage checkpoint pathways via localization of small subunits; RNR3 has a paralog, RNR1, that arose from the whole genome duplication [Source:SGD;Acc:S000001328]
+#>E	YIL066C.1	1.0	238099-240708
+IX	240073	240285	-1.0	Ribncl_Rdtase_lsu_N	80.2	240073-240285	PF00317	http://pfam.sanger.ac.uk/family?acc=PF00317
+IX	238480	240066	-1.0	Ribncl_red_lg_C	707.4	238480-240066	PF02867	http://pfam.sanger.ac.uk/family?acc=PF02867
+IX	240442	240708	-1.0	ATP-cone	56.7	240442-240708	PF03477	http://pfam.sanger.ac.uk/family?acc=PF03477
