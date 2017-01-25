@@ -6,6 +6,7 @@ const when = require('when');
 const bunyan = require('bunyan');
 const _und = require('underscore')
 const MongoClient = require('mongodb').MongoClient
+const Logger = require('mongodb').Logger
 
 function Storage(_db) {
     var db = _db;
@@ -91,7 +92,7 @@ function Storage(_db) {
         when.all(tasks).then(function(results) {
             var queryOptions = {
                 species: species,
-                "assembly": "Zv9", //TODO
+                // "assembly": "Zv9", //TODO
                 type: 'guideFrequencies',
                 "interval": interval,
                 //limit: 1000,
@@ -276,13 +277,25 @@ exports = module.exports = function (URL, callback) {
         module: "storage/exports"
     });
     log.info('using server: ' + URL)
+    const mongodbOptions = {
+        "server": {
+            "poolSize" : 100, //5 by default
+            "sslValidate": false,
+            "ssl": false,
+            "reconnectTries": 100,
+            "reconnectInterval": 30000,
+        }
+    };
 
-    MongoClient.connect(URL, function (err, _db) {
+    MongoClient.connect(URL, mongodbOptions, function (err, _db) {
         if (err) {
             log.error('failed to connect to ' + URL, err)
             callback(err, undefined)
             //throw Error(err)
             return
+        }
+        if (process.env.NODE_ENV === 'development') {
+            Logger.setLevel('debug');
         }
         log.info("Connected correctly to server");
         callback(undefined, new Storage(_db));
