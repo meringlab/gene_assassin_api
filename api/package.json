@@ -24,7 +24,7 @@
     "express-negotiate": "0.0.5",
     "glob": "^5.0.13",
     "morgan": "~1.6.1",
-    "mongodb": "~2.0",
+    "mongodb": "~2.2",
     "serve-favicon": "~2.3.0",
     "underscore": "^1.8.3",
     "when": "^3.7.3"
