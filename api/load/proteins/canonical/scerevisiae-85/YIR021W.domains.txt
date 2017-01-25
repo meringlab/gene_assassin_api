@@ -1,0 +1,3 @@
+#>P	YIR021W	YIR021W	YIR021W	IX	397294	398382	1	Splicing protein; required for splicing of two mitochondrial group I introns (BI3 in COB and AI5beta in COX1); forms a splicing complex, containing four subunits of Mrs1p and two subunits of the BI3-encoded maturase, that binds to the BI3 RNA; MRS1 has a paralog, CCE1, that arose from the whole genome duplication [Source:SGD;Acc:S000001460]
+#>E	YIR021W.1	1.0	397294-398385
+IX	397324	398361	1.0	Ydc2_cat	0	397324-398361	PF09159	http://pfam.sanger.ac.uk/family?acc=PF09159

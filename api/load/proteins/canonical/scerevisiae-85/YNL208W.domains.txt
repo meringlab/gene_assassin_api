@@ -1,0 +1,3 @@
+#>P	YNL208W	YNL208W	YNL208W	XIV	254418	255014	1	Protein of unknown function; may interact with ribosomes, based on co-purification experiments; authentic, non-tagged protein is detected in purified mitochondria in high-throughput studies; potential orthologs found in other fungi [Source:SGD;Acc:S000005152]
+#>E	YNL208W.1	1.0	254418-255017
+XIV	254559	254672	1.0	Gly_zipper_2TM_dom	0	254559-254672	PF05433	http://pfam.sanger.ac.uk/family?acc=PF05433

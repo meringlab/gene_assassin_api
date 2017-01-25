@@ -1,0 +1,4 @@
+#>P	YBL013W	YBL013W	YBL013W	II	202056	203258	1	Methionyl-tRNA formyltransferase; catalyzes the formylation of initiator Met-tRNA in mitochondria; potential Cdc28p substrate [Source:SGD;Acc:S000000109]
+#>E	YBL013W.1	1.0	202056-203261
+II	202146	202751	1.0	Formyl_transf_N	0	202146-202751	PF00551	http://pfam.sanger.ac.uk/family?acc=PF00551
+II	202878	203210	1.0	Formyl_trans_C	0	202878-203210	PF02911	http://pfam.sanger.ac.uk/family?acc=PF02911

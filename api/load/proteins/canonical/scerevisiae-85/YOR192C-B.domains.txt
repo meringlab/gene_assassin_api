@@ -1,0 +1,6 @@
+#>P	YOR192C-B	YOR192C-B	YOR192C-B	XV	704422	709732	-1	Retrotransposon TYA Gag and TYB Pol genes; transcribed/translated as one unit; polyprotein is processed to make a nucleocapsid-like protein (Gag), reverse transcriptase (RT), protease (PR), and integrase (IN); similar to retroviral genes [Source:SGD;Acc:S000007354]
+#>E	YOR192C-B.2,YOR192C-B.1	1,1	704419-708438,708440-709732
+XV	707401	707760	-1	Integrase_cat-core	0	707401-707760	PF00665	http://pfam.sanger.ac.uk/family?acc=PF00665
+XV	705250	705852	-1	RVT_2	0	705250-705852	PF07727	http://pfam.sanger.ac.uk/family?acc=PF07727
+XV	709391	709684	-1	Retrotransposon_Ty1A_N	0	709391-709684	PF01021	http://pfam.sanger.ac.uk/family?acc=PF01021
+XV	707809	707997	-1	GAG-pre-integrase_dom	0	707809-707997	PF13976	http://pfam.sanger.ac.uk/family?acc=PF13976

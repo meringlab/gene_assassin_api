@@ -1,0 +1,3 @@
+#>P	YLR066W	YLR066W	YLR066W	XII	267169	267720	1	Subunit of signal peptidase complex; complex catalyzes cleavage of N-terminal signal sequences of proteins targeted to the secretory pathway; homologous to mammalian SPC22/23; other members of the complex are Spc1p, Spc2p, and Sec11p [Source:SGD;Acc:S000004056]
+#>E	YLR066W.1	1.0	267169-267723
+XII	267181	267714	1.0	SPC22	0	267181-267714	PF04573	http://pfam.sanger.ac.uk/family?acc=PF04573

@@ -1,0 +1,3 @@
+#>P	YDR427W	YDR427W	YDR427W	IV	1322205	1323383	1	Non-ATPase regulatory subunit of the 26S proteasome; similar to putative proteasomal subunits in other species; null mutant is temperature sensitive and exhibits cell cycle and proteasome assembly defects; protein abundance increases in response to DNA replication stress; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000002835]
+#>E	YDR427W.1	1.0	1322205-1323386
+IV	1322952	1323257	1.0	PCI_dom	0	1322952-1323257	PF01399	http://pfam.sanger.ac.uk/family?acc=PF01399

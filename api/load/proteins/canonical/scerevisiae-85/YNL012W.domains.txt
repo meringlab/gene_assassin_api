@@ -1,0 +1,4 @@
+#>P	YNL012W	YNL012W	YNL012W	XIV	609686	611662	1	Meiosis-specific prospore protein; required for meiotic spindle pole body duplication and separation; required to produce bending force necessary for proper prospore membrane assembly during sporulation; has similarity to phospholipase B [Source:SGD;Acc:S000004957]
+#>E	YNL012W.1,YNL012W.2	1,1	609686-609790,609875-611665
+XIV	610493	611659	1	LysoPLipase_cat_dom	0	610493-611659	PF01735	http://pfam.sanger.ac.uk/family?acc=PF01735
+XIV	610019	610294	1	LysoPLipase_cat_dom	0	610019-610294	PF01735	http://pfam.sanger.ac.uk/family?acc=PF01735

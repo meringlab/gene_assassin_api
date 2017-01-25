@@ -1,0 +1,7 @@
+#>P	YJL112W	YJL112W	YJL112W	X	205305	207446	1	Peripheral protein of cytosolic face of mitochondrial outer membrane; required for mitochondrial fission; interacts with Fis1p and with the dynamin-related GTPase Dnm1p; contains WD repeats; MDV1 has a paralog, CAF4, that arose from the whole genome duplication [Source:SGD;Acc:S000003648]
+#>E	YJL112W.1	1.0	205305-207449
+X	205668	205817	1.0	Mt_division_protein_1	0	205668-205817	PF11542	http://pfam.sanger.ac.uk/family?acc=PF11542
+X	206604	206711	1.0	WD40_repeat	0	206604-206711	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+X	206781	206888	1.0	WD40_repeat	0	206781-206888	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+X	206481	206585	1.0	WD40_repeat	0	206481-206585	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+X	207090	207200	1.0	WD40_repeat	0	207090-207200	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

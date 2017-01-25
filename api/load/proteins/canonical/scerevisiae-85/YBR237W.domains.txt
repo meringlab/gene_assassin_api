@@ -1,0 +1,4 @@
+#>P	YBR237W	YBR237W	YBR237W	II	691969	694515	1	RNA helicase in the DEAD-box family; necessary for prespliceosome formation, bridges U1 and U2 snRNPs and enables stable U2 snRNP association with intron RNA [Source:SGD;Acc:S000000441]
+#>E	YBR237W.1	1.0	691969-694518
+II	693598	693825	1.0	Helicase_C	0	693598-693825	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+II	692806	693327	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	692806-693327	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

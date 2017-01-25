@@ -1,0 +1,5 @@
+#>P	YOR217W	YOR217W	YOR217W	XV	749301	751883	1	Subunit of heteropentameric Replication factor C (RF-C); RF-C is a DNA binding protein and ATPase that acts as a clamp loader of the proliferating cell nuclear antigen (PCNA) processivity factor for DNA polymerases delta and epsilon [Source:SGD;Acc:S000005743]
+#>E	YOR217W.1	1.0	749301-751886
+XV	749760	749990	1.0	BRCT	0	749760-749990	PF00533	http://pfam.sanger.ac.uk/family?acc=PF00533
+XV	751161	751628	1.0	DNA_replication_fac_RFC1_C	0	751161-751628	PF08519	http://pfam.sanger.ac.uk/family?acc=PF08519
+XV	750348	750647	1.0	ATPase_AAA_core	0	750348-750647	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

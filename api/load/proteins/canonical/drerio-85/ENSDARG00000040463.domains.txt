@@ -1,0 +1,5 @@
+#>P	ENSDARG00000040463	ENSDART00000162015	ENSDARP00000131320	14	4075001	4075909	1	solute carrier family 25, member 51b [Source:ZFIN;Acc:ZDB-GENE-140328-2]
+#>E	ENSDARE00001217836	0	4075001-4075912
+14	4075373	4075624	1	Mitochondrial_sb/sol_carrier	126.5	4075373-4075624	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+14	4075100	4075339	1	Mitochondrial_sb/sol_carrier	126.5	4075100-4075339	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+14	4075646	4075906	1	Mitochondrial_sb/sol_carrier	126.5	4075646-4075906	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

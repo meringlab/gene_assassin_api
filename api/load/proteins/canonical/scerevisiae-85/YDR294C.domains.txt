@@ -1,0 +1,3 @@
+#>P	YDR294C	YDR294C	YDR294C	IV	1050462	1052228	-1	Dihydrosphingosine phosphate lyase; regulates intracellular levels of sphingolipid long-chain base phosphates (LCBPs), degrades phosphorylated long chain bases, prefers C16 dihydrosphingosine-l-phosphate as a substrate [Source:SGD;Acc:S000002702]
+#>E	YDR294C.1	1.0	1050459-1052228
+IV	1050780	1051643	-1.0	PyrdxlP-dep_de-COase	0	1050780-1051643	PF00282	http://pfam.sanger.ac.uk/family?acc=PF00282

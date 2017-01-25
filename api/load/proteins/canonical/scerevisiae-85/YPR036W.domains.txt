@@ -1,0 +1,4 @@
+#>P	YPR036W	YPR036W	YPR036W	XVI	643836	645269	1	Subunit H of the V1 peripheral membrane domain of V-ATPase; part of the electrogenic proton pump found throughout the endomembrane system; serves as an activator or a structural stabilizer of the V-ATPase; the V1 peripheral membrane domain of the vacuolar H+-ATPase (V-ATPase) has eight subunits [Source:SGD;Acc:S000006240]
+#>E	YPR036W.1	1.0	643836-645272
+XVI	643866	644873	1.0	ATPase_V1-cplx_hsu	0	643866-644873	PF03224	http://pfam.sanger.ac.uk/family?acc=PF03224
+XVI	644886	645269	1.0	ATPase_V1-cplx_hsu_C	0	644886-645269	PF11698	http://pfam.sanger.ac.uk/family?acc=PF11698

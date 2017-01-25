@@ -1,0 +1,5 @@
+#>P	YHR119W	YHR119W	YHR119W	VIII	346043	349282	1	Histone methyltransferase, subunit of the COMPASS (Set1C) complex; COMPASS methylates histone H3K4; Set1p-dependent H3K4 trimethylation recruits Nrd1p, allowing efficient termination of snoRNAs and cryptic unstable transcripts (CUTs) by Nrd1p-Nab3p-Sen1p pathway; modulates histone acetylation levels in promoter proximal regions to ensure efficient Nrd1p-dependent termination; required in transcriptional silencing near telomeres and at silent mating type loci; has a SET domain [Source:SGD;Acc:S000001161]
+#>E	YHR119W.1	1.0	346043-349285
+VIII	348302	348826	1.0	COMPASS_Set1_N-SET	0	348302-348826	PF11764	http://pfam.sanger.ac.uk/family?acc=PF11764
+VIII	348890	349204	1.0	SET_dom	0	348890-349204	PF00856	http://pfam.sanger.ac.uk/family?acc=PF00856
+VIII	347306	347491	1.0	SET_assoc	0	347306-347491	PF11767	http://pfam.sanger.ac.uk/family?acc=PF11767

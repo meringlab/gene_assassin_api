@@ -1,0 +1,3 @@
+#>P	YNL130C	YNL130C	YNL130C	XIV	379561	380831	-1	Cholinephosphotransferase; required for phosphatidylcholine biosynthesis and for inositol-dependent regulation of EPT1 transcription; CPT1 has a paralog, EPT1, that arose from the whole genome duplication [Source:SGD;Acc:S000005074]
+#>E	YNL130C.2,YNL130C.1	1,1	379558-380689,380782-380831
+XIV	380296	380607	-1	CDP-OH_P_trans	0	380296-380607	PF01066	http://pfam.sanger.ac.uk/family?acc=PF01066

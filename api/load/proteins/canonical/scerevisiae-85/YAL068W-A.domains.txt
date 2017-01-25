@@ -1,0 +1,3 @@
+#>P	YAL068W-A	YAL068W-A	YAL068W-A	I	538	789	1	Dubious open reading frame; unlikely to encode a functional protein, based on available experimental and comparative sequence data; identified by gene-trapping, microarray-based expression analysis, and genome-wide homology searching [Source:SGD;Acc:S000028594]
+#>E	YAL068W-A.1	1.0	538-792
+I	538	789	1.0	DUF468	0	538-789	PF04318	http://pfam.sanger.ac.uk/family?acc=PF04318

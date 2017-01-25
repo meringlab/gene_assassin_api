@@ -1,0 +1,4 @@
+#>P	YAL060W	YAL060W	YAL060W	I	35155	36300	1	NAD-dependent (R,R)-butanediol dehydrogenase; catalyzes oxidation of (R,R)-2,3-butanediol to (3R)-acetoin, oxidation of meso-butanediol to (3S)-acetoin, and reduction of acetoin; enhances use of 2,3-butanediol as an aerobic carbon source [Source:SGD;Acc:S000000056]
+#>E	YAL060W.1	1.0	35155-36303
+I	35233	35634	1.0	ADH_GroES-like	0	35233-35634	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240
+I	35752	36144	1.0	ADH_C	0	35752-36144	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107

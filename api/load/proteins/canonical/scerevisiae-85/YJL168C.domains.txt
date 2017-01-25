@@ -1,0 +1,4 @@
+#>P	YJL168C	YJL168C	YJL168C	X	102230	104428	-1	Histone methyltransferase with a role in transcriptional elongation; methylates H3 lysine 36 (H3K36), which suppresses incorporation of acetylated histones and signals for the deacetylation of these histones within transcribed genes; associates with the C-terminal domain(CTD) of Rpo21p; H3K36me3 (trimethylation) requires Spt6p, proline 38 on H3, CTD of Rpo21p, Ctk1p, and C-terminal SRI domain of Ste2p; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000003704]
+#>E	YJL168C.1	1.0	102227-104428
+X	103718	104038	-1.0	SET_dom	0	103718-104038	PF00856	http://pfam.sanger.ac.uk/family?acc=PF00856
+X	102290	102559	-1.0	SRI	0	102290-102559	PF08236	http://pfam.sanger.ac.uk/family?acc=PF08236

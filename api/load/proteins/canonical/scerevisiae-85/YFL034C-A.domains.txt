@@ -1,0 +1,3 @@
+#>P	YFL034C-A	YFL034C-A	YFL034C-A	VI	64246	64932	-1	Ribosomal 60S subunit protein L22B; homologous to mammalian ribosomal protein L22, no bacterial homolog; RPL22B has a paralog, RPL22A, that arose from the whole genome duplication [Source:SGD;Acc:S000006436]
+#>E	YFL034C-A.2,YFL034C-A.1	1,1	64243-64599,64921-64932
+VI	64255	64590	-1	Ribosomal_L22e	0	64255-64590	PF01776	http://pfam.sanger.ac.uk/family?acc=PF01776

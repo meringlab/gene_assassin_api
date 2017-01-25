@@ -1,0 +1,3 @@
+#>P	YKL139W	YKL139W	YKL139W	XI	182958	184541	1	Catalytic (alpha) subunit of C-terminal domain kinase I (CTDK-I); phosphorylates both RNA pol II subunit Rpo21p to affect transcription and pre-mRNA 3' end processing, and ribosomal protein Rps2p to increase translational fidelity; required for H3K36 trimethylation but not dimethylation by Set2p; similar to the Drosophila dCDK12 and human CDK12 and probably CDK13 [Source:SGD;Acc:S000001622]
+#>E	YKL139W.1	1.0	182958-184544
+XI	183516	184364	1.0	Prot_kinase_cat_dom	0	183516-184364	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

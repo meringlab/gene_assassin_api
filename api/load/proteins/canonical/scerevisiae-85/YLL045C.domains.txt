@@ -1,0 +1,3 @@
+#>P	YLL045C	YLL045C	YLL045C	XII	47862	48629	-1	Ribosomal 60S subunit protein L8B; required for processing of 27SA3 pre-rRNA to 27SB pre-rRNA during assembly of large ribosomal subunit; depletion leads to a turnover of pre-rRNA; L8 binds to Domain I of 25S and 5.8 S rRNAs; mutation results in decreased amounts of free 60S subunits; homologous to mammalian ribosomal protein L7A, no bacterial homolog; RPL8B has a paralog, RPL8A, that arose from the whole genome duplication [Source:SGD;Acc:S000003968]
+#>E	YLL045C.1	1.0	47859-48629
+XII	48009	48272	-1.0	Ribosomal_L7Ae/L30e/S12e/Gad45	0	48009-48272	PF01248	http://pfam.sanger.ac.uk/family?acc=PF01248

@@ -1,0 +1,3 @@
+#>P	YKR065C	YKR065C	YKR065C	XI	565302	565892	-1	Constituent of the TIM23 complex; proposed alternatively to be a component of the import motor (PAM complex) or to interact with and modulate the core TIM23 (Translocase of the Inner mitochondrial Membrane) complex; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001773]
+#>E	YKR065C.1	1.0	565299-565892
+XI	565302	565808	-1.0	Pam17	0	565302-565808	PF08566	http://pfam.sanger.ac.uk/family?acc=PF08566

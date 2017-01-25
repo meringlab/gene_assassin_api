@@ -1,0 +1,4 @@
+#>P	YML097C	YML097C	YML097C	XIII	78338	79690	-1	Guanine nucleotide exchange factor (GEF); involved in vesicle-mediated vacuolar transport, including Golgi-endosome trafficking and sorting through the multivesicular body (MVB); specifically stimulates the intrinsic guanine nucleotide exchange activity of Rab family members (Vps21p/Ypt52p/Ypt53p); partially redundant with GEF MUK1; required for localization of the CORVET complex to endosomes; similar to mammalian ras inhibitors; contains a VPS9 domain; binds ubiquitin [Source:SGD;Acc:S000004563]
+#>E	YML097C.1	1.0	78335-79690
+XIII	78341	78457	-1.0	CUE	0	78341-78457	PF02845	http://pfam.sanger.ac.uk/family?acc=PF02845
+XIII	78770	79069	-1.0	VPS9	0	78770-79069	PF02204	http://pfam.sanger.ac.uk/family?acc=PF02204

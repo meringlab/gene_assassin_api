@@ -1,0 +1,3 @@
+#>P	YKL080W	YKL080W	YKL080W	XI	285030	286205	1	Subunit C of the V1 peripheral membrane domain of V-ATPase; part of the electrogenic proton pump found throughout the endomembrane system; required for the V1 domain to assemble onto the vacuolar membrane; the V1 peripheral membrane domain of vacuolar H+-ATPase (V-ATPase) has eight subunits [Source:SGD;Acc:S000001563]
+#>E	YKL080W.1	1.0	285030-286208
+XI	285060	286187	1.0	ATPase_V1-cplx_csu	0	285060-286187	PF03223	http://pfam.sanger.ac.uk/family?acc=PF03223

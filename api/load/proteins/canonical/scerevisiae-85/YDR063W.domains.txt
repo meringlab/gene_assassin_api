@@ -1,0 +1,3 @@
+#>P	YDR063W	YDR063W	YDR063W	IV	578663	579109	1	Protein that interacts with Arp2/3 complex; interacts with Arp2/3 complex to stimulate actin filament debranching and inhibit actin nucleation; has similarity to Cof1p and also to human glia maturation factor (GMF); null mutant displays elevated mitochondrial genome loss [Source:SGD;Acc:S000002470]
+#>E	YDR063W.1	1.0	578663-579112
+IV	578744	579097	1.0	Actin-bd_cofilin/tropomyosin	0	578744-579097	PF00241	http://pfam.sanger.ac.uk/family?acc=PF00241

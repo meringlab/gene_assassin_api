@@ -1,0 +1,5 @@
+#>P	WBGene00009562	F39H2.1.2	F39H2.1.2	I	8658912	8659765	1	FMRF-Like Peptide  [Source:RefSeq peptide;Acc:NP_492344]
+#>E	F39H2.1.2.e1,F39H2.1.1.e2,F39H2.1.2.e3	0,1,0	8658912-8659037,8659292-8659362,8659684-8659768
+I	8659358	8659693	1	FMRFamid-related_peptide-like	22.5	8659358-8659362,8659684-8659693	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+I	8659322	8659336	1	FMRFamid-related_peptide-like	22.5	8659322-8659336	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+I	8659715	8659729	1	FMRFamid-related_peptide-like	22.5	8659715-8659729	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581

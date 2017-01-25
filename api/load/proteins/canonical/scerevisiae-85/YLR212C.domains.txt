@@ -1,0 +1,4 @@
+#>P	YLR212C	YLR212C	YLR212C	XII	564863	566281	-1	Gamma-tubulin; involved in nucleating microtubules from both the cytoplasmic and nuclear faces of the spindle pole body; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004202]
+#>E	YLR212C.1	1.0	564860-566281
+XII	565634	566272	-1.0	Tubulin_FtsZ_GTPase	0	565634-566272	PF00091	http://pfam.sanger.ac.uk/family?acc=PF00091
+XII	565109	565495	-1.0	Tubulin/FtsZ_2-layer-sand-dom	0	565109-565495	PF03953	http://pfam.sanger.ac.uk/family?acc=PF03953

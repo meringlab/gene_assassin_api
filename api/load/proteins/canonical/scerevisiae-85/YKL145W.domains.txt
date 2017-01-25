@@ -1,0 +1,3 @@
+#>P	YKL145W	YKL145W	YKL145W	XI	174213	175613	1	ATPase of the 19S regulatory particle of the 26S proteasome; one of six ATPases of the regulatory particle; involved in the degradation of ubiquitinated substrates; required for optimal CDC20 transcription; interacts with Rpn12p and Ubr1p; mutant has aneuploidy tolerance [Source:SGD;Acc:S000001628]
+#>E	YKL145W.1	1.0	174213-175616
+XI	174948	175346	1.0	ATPase_AAA_core	0	174948-175346	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

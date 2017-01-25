@@ -1,0 +1,4 @@
+#>P	YIL162W	YIL162W	YIL162W	IX	37385	38980	1	Invertase; sucrose hydrolyzing enzyme; a secreted, glycosylated form is regulated by glucose repression, and an intracellular, nonglycosylated enzyme is produced constitutively [Source:SGD;Acc:S000001424]
+#>E	YIL162W.1	1.0	37385-38983
+IX	37478	38392	1.0	Glyco_hydro_32_N	0	37478-38392	PF00251	http://pfam.sanger.ac.uk/family?acc=PF00251
+IX	38591	38860	1.0	Glyco_hydro_32_C	0	38591-38860	PF08244	http://pfam.sanger.ac.uk/family?acc=PF08244

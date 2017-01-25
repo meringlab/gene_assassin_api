@@ -1,0 +1,3 @@
+#>P	YEL032W	YEL032W	YEL032W	V	86937	89849	1	Protein involved in DNA replication; component of the Mcm2-7 hexameric helicase complex that binds chromatin as a part of the pre-replicative complex [Source:SGD;Acc:S000000758]
+#>E	YEL032W.1	1.0	86937-89852
+V	87972	89138	1.0	MCM_DNA-dep_ATPase	0	87972-89138	PF00493	http://pfam.sanger.ac.uk/family?acc=PF00493

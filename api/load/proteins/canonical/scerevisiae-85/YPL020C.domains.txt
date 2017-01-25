@@ -1,0 +1,3 @@
+#>P	YPL020C	YPL020C	YPL020C	XVI	512316	514178	-1	Protease that specifically cleaves Smt3p protein conjugates; required for cell cycle progression; associates with nucleoporins and may interact with septin rings during telophase; sequestered to the nucleolus under stress conditions [Source:SGD;Acc:S000005941]
+#>E	YPL020C.1	1.0	512313-514178
+XVI	512340	512840	-1.0	Peptidase_C48	0	512340-512840	PF02902	http://pfam.sanger.ac.uk/family?acc=PF02902

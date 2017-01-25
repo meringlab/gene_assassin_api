@@ -1,0 +1,4 @@
+#>P	YIR003W	YIR003W	YIR003W	IX	360885	362921	1	Protein of unknown function; involved in mitochondrial migration along actin filament; may interact with ribosomes; GFP-fusion protein colocalizes with Sac1p to the actin cytoskeleton [Source:SGD;Acc:S000001442]
+#>E	YIR003W.1	1.0	360885-362924
+IX	361467	362501	1.0	DUF3210	0	361467-362501	PF11489	http://pfam.sanger.ac.uk/family?acc=PF11489
+IX	360984	361505	1.0	DUF3210	0	360984-361505	PF11489	http://pfam.sanger.ac.uk/family?acc=PF11489

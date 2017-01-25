@@ -1,0 +1,5 @@
+#>P	YLR425W	YLR425W	YLR425W	XII	982894	986814	1	Guanine nucleotide exchange factor (GEF) that modulate Rho1p activity; involved in the cell integrity signaling pathway; interacts with Rgl1p; localization of Tus1p to the bed neck is regulated by Rgl1p; multicopy suppressor of tor2 mutation and ypk1 ypk2 double mutation; potential Cdc28p substrate [Source:SGD;Acc:S000004417]
+#>E	YLR425W.1	1.0	982894-986817
+XII	985042	985521	1.0	Pleckstrin_homology	0	985042-985521	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169
+XII	985741	986715	1.0	Citron	0	985741-986715	PF00780	http://pfam.sanger.ac.uk/family?acc=PF00780
+XII	984355	984861	1.0	DH-domain	0	984355-984861	PF00621	http://pfam.sanger.ac.uk/family?acc=PF00621

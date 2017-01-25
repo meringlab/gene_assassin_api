@@ -1,0 +1,4 @@
+#>P	YKR059W	YKR059W	YKR059W	XI	554987	556171	1	Translation initiation factor eIF4A; DEA(D/H)-box RNA helicase that couples ATPase activity to RNA binding and unwinding; forms a dumbbell structure of two compact domains connected by a linker; interacts with eIF4G; protein abundance increases in response to DNA replication stress; TIF1 has a paralog, TIF2, that arose from the whole genome duplication [Source:SGD;Acc:S000001767]
+#>E	YKR059W.1	1.0	554987-556174
+XI	555821	556051	1.0	Helicase_C	0	555821-556051	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XI	555125	555616	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	555125-555616	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

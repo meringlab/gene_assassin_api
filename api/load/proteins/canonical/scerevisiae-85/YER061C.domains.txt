@@ -1,0 +1,4 @@
+#>P	YER061C	YER061C	YER061C	V	278301	279626	-1	Mitochondrial beta-keto-acyl synthase; possible role in fatty acid synthesis; required for mitochondrial respiration [Source:SGD;Acc:S000000863]
+#>E	YER061C.1	1.0	278298-279626
+V	278832	279620	-1.0	Ketoacyl_synth_N	0	278832-279620	PF00109	http://pfam.sanger.ac.uk/family?acc=PF00109
+V	278454	278807	-1.0	Ketoacyl_synth_C	0	278454-278807	PF02801	http://pfam.sanger.ac.uk/family?acc=PF02801

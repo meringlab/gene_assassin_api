@@ -1,0 +1,3 @@
+#>P	YBR235W	YBR235W	YBR235W	II	686901	690260	1	Vacuolar membrane cation-chloride cotransporter (CCC); likely mediates K+ and Cl- cotransport into the vacuole; has a role in potassium homeostasis and salt tolerance; similar to mammalian electroneutral Na(+)-(K+)-C1- cotransporter family [Source:SGD;Acc:S000000439]
+#>E	YBR235W.1	1.0	686901-690263
+II	687102	688529	1.0	AA-permease_dom	0	687102-688529	PF00324	http://pfam.sanger.ac.uk/family?acc=PF00324

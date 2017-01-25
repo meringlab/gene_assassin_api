@@ -1,0 +1,5 @@
+#>P	YLR371W	YLR371W	YLR371W	XII	862714	866781	1	GDP/GTP exchange factor (GEF) for Rho1p and Rho2p; mutations are synthetically lethal with mutations in rom1, which also encodes a GEF; Rom2p localization to the bud surface is dependent on Ack1p; ROM2 has a paralog, ROM1, that arose from the whole genome duplication [Source:SGD;Acc:S000004363]
+#>E	YLR371W.1	1.0	862714-866784
+XII	864703	865248	1.0	DH-domain	0	864703-865248	PF00621	http://pfam.sanger.ac.uk/family?acc=PF00621
+XII	865834	866709	1.0	Citron	0	865834-866709	PF00780	http://pfam.sanger.ac.uk/family?acc=PF00780
+XII	864007	864216	1.0	DEP_dom	0	864007-864216	PF00610	http://pfam.sanger.ac.uk/family?acc=PF00610

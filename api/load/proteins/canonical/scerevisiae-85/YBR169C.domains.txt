@@ -1,0 +1,3 @@
+#>P	YBR169C	YBR169C	YBR169C	II	573918	575996	-1	Member of the heat shock protein 70 (HSP70) family; may be involved in protein folding; localized to the cytoplasm; SSE2 has a paralog, SSE1, that arose from the whole genome duplication [Source:SGD;Acc:S000000373]
+#>E	YBR169C.1	1.0	573915-575996
+II	574071	575984	-1.0	Hsp_70	0	574071-575984	PF00012	http://pfam.sanger.ac.uk/family?acc=PF00012

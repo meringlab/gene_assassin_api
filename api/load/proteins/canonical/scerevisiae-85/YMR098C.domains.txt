@@ -1,0 +1,4 @@
+#>P	YMR098C	YMR098C	YMR098C	XIII	460774	462609	-1	Mitochondrial protein required for the stability of Oli1p (Atp9p) mRNA; also required for the Oli1p ring formation; YMR098C is not an essential gene [Source:SGD;Acc:S000004704]
+#>E	YMR098C.1	1.0	460771-462609
+XIII	461872	462300	-1.0	Oligomer_dom	0	461872-462300	PF02410	http://pfam.sanger.ac.uk/family?acc=PF02410
+XIII	460825	461706	-1.0	ATP25_mRNA_stabil_dom	0	460825-461706	PF13929	http://pfam.sanger.ac.uk/family?acc=PF13929

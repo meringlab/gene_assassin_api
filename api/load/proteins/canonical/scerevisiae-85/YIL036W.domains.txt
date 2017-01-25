@@ -1,0 +1,3 @@
+#>P	YIL036W	YIL036W	YIL036W	IX	285666	287426	1	Basic leucine zipper (bZIP) transcription factor, in ATF/CREB family; mediates transcriptional activation of NCE103 (encoding carbonic anhydrase) in response to low CO2 levels such as in the ambient air; proposed to be a regulator of oleate responsive genes; involved in utilization of non-optimal carbon sources and chromosome stability; relocalizes to the cytosol in response to hypoxia; CST6 has a paralog, ACA1, that arose from the whole genome duplication [Source:SGD;Acc:S000001298]
+#>E	YIL036W.1	1.0	285666-287429
+IX	286938	287114	1.0	bZIP	0	286938-287114	PF00170	http://pfam.sanger.ac.uk/family?acc=PF00170

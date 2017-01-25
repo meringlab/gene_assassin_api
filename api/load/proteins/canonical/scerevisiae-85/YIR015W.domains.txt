@@ -1,0 +1,3 @@
+#>P	YIR015W	YIR015W	YIR015W	IX	381948	382379	1	Subunit of nuclear RNase P; nuclear RNase P cleaves tRNA precursors to generate mature 5' ends and facilitates turnover of nuclear RNAs; not shared between RNase MRP and RNase P, in contrast to all other RNase P protein subunits; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001454]
+#>E	YIR015W.1	1.0	381948-382382
+IX	382050	382292	1.0	Rpr2	0	382050-382292	PF04032	http://pfam.sanger.ac.uk/family?acc=PF04032

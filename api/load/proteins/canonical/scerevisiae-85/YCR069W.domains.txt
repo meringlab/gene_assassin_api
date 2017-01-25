@@ -1,0 +1,3 @@
+#>P	YCR069W	YCR069W	YCR069W	III	239055	240008	1	Peptidyl-prolyl cis-trans isomerase (cyclophilin); catalyzes the cis-trans isomerization of peptide bonds N-terminal to proline residues; has a potential role in the secretory pathway; CPR4 has a paralog, CPR8, that arose from the whole genome duplication [Source:SGD;Acc:S000000665]
+#>E	YCR069W.1	1.0	239055-240011
+III	239250	239708	1.0	Cyclophilin-like_PPIase_dom	0	239250-239708	PF00160	http://pfam.sanger.ac.uk/family?acc=PF00160

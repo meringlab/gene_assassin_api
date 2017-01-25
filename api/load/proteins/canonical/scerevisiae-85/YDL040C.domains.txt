@@ -1,0 +1,4 @@
+#>P	YDL040C	YDL040C	YDL040C	IV	378877	381438	-1	Subunit of protein N-terminal acetyltransferase NatA; NatA is comprised of Nat1p, Ard1p, and Nat5p; N-terminally acetylates many proteins, which influences multiple processes such as the cell cycle, heat-shock resistance, mating, sporulation, and telomeric silencing [Source:SGD;Acc:S000002198]
+#>E	YDL040C.1	1.0	378874-381438
+IV	380617	380709	-1.0	TPR_2	0	380617-380709	PF07719	http://pfam.sanger.ac.uk/family?acc=PF07719
+IV	379231	379797	-1.0	Alpha-AcTfrase15_NatA	0	379231-379797	PF12569	http://pfam.sanger.ac.uk/family?acc=PF12569

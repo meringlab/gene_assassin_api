@@ -1,0 +1,4 @@
+#>P	YDR148C	YDR148C	YDR148C	IV	753678	755066	-1	Dihydrolipoyl transsuccinylase; component of the mitochondrial alpha-ketoglutarate dehydrogenase complex, which catalyzes the oxidative decarboxylation of alpha-ketoglutarate to succinyl-CoA in the TCA cycle; phosphorylated [Source:SGD;Acc:S000002555]
+#>E	YDR148C.1	1.0	753675-755066
+IV	754629	754844	-1.0	Biotin_lipoyl	0	754629-754844	PF00364	http://pfam.sanger.ac.uk/family?acc=PF00364
+IV	753681	754370	-1.0	2-oxoacid_DH_actylTfrase	0	753681-754370	PF00198	http://pfam.sanger.ac.uk/family?acc=PF00198

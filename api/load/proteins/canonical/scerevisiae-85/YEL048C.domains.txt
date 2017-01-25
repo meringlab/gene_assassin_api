@@ -1,0 +1,3 @@
+#>P	YEL048C	YEL048C	YEL048C	V	64712	65167	-1	Component of transport protein particle (TRAPP) complex II; TRAPPII is a multimeric guanine nucleotide-exchange factor for the GTPase Ypt1p, regulating intra-Golgi and endosome-Golgi traffic; promotes association of TRAPPII-specific subunits with the TRAPP core complex; sedlin related; human Sedlin mutations cause SEDT, a skeletal disorder [Source:SGD;Acc:S000000774]
+#>E	YEL048C.1	1.0	64709-65167
+V	64760	65137	-1.0	Sedlin	0	64760-65137	PF04628	http://pfam.sanger.ac.uk/family?acc=PF04628

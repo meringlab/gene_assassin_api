@@ -1,0 +1,3 @@
+#>P	YEL036C	YEL036C	YEL036C	V	83053	84552	-1	Subunit of the alpha-1,6 mannosyltransferase complex; type II membrane protein; has a role in retention of glycosyltransferases in the Golgi; involved in osmotic sensitivity and resistance to aminonitrophenyl propanediol [Source:SGD;Acc:S000000762]
+#>E	YEL036C.1	1.0	83050-84552
+V	83584	84375	-1.0	Anp1	0	83584-84375	PF03452	http://pfam.sanger.ac.uk/family?acc=PF03452

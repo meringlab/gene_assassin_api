@@ -1,0 +1,3 @@
+#>P	YPR168W	YPR168W	YPR168W	XVI	878076	878546	1	Subunit of the RNA polymerase II mediator complex; associates with core polymerase subunits to form the RNA polymerase II holoenzyme; required for transcriptional activation and has a role in basal transcription; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000006372]
+#>E	YPR168W.1	1.0	878076-878549
+XVI	878130	878504	1.0	Mediator_Med10	0	878130-878504	PF09748	http://pfam.sanger.ac.uk/family?acc=PF09748

@@ -1,0 +1,3 @@
+#>P	YFR032C-A	YFR032C-A	YFR032C-A	VI	223261	223437	-1	Ribosomal 60S subunit protein L29; not essential for translation, but required for proper joining of large and small ribosomal subunits and for normal translation rate; homologous to mammalian ribosomal protein L29, no bacterial homolog [Source:SGD;Acc:S000006437]
+#>E	YFR032C-A.1	1.0	223258-223437
+VI	223312	223431	-1.0	Ribosomal_L29e	0	223312-223431	PF01779	http://pfam.sanger.ac.uk/family?acc=PF01779

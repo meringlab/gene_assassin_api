@@ -1,0 +1,4 @@
+#>P	WBGene00004816	Y105C5B.13	Y105C5B.13	IV	15946807	15947382	1	SKp1 Related (ubiquitin ligase complex component)  [Source:RefSeq peptide;Acc:NP_502902]
+#>E	Y105C5B.13.e1	1.0	15946807-15947385
+IV	15947107	15947322	1.0	Skp1_comp_dimer	82.6	15947107-15947322	PF01466	http://pfam.sanger.ac.uk/family?acc=PF01466
+IV	15946870	15947055	1.0	Skp1_comp_POZ	62.7	15946870-15947055	PF03931	http://pfam.sanger.ac.uk/family?acc=PF03931

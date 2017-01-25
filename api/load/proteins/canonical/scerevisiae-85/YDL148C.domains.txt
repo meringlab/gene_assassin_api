@@ -1,0 +1,4 @@
+#>P	YDL148C	YDL148C	YDL148C	IV	188157	190586	-1	Nucleolar protein; forms a complex with Noc4p that mediates maturation and nuclear export of 40S ribosomal subunits; also present in the small subunit processome complex, which is required for processing of pre-18S rRNA [Source:SGD;Acc:S000002307]
+#>E	YDL148C.1	1.0	188154-190586
+IV	189501	190469	-1.0	Nop14	0	189501-190469	PF04147	http://pfam.sanger.ac.uk/family?acc=PF04147
+IV	188202	189473	-1.0	Nop14	0	188202-189473	PF04147	http://pfam.sanger.ac.uk/family?acc=PF04147

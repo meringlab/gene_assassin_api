@@ -1,0 +1,5 @@
+#>P	YEL058W	YEL058W	YEL058W	V	43252	44922	1	Essential N-acetylglucosamine-phosphate mutase; converts GlcNAc-6-P to GlcNAc-1-P, which is a precursor for the biosynthesis of chitin and for the formation of N-glycosylated mannoproteins and glycosylphosphatidylinositol anchors [Source:SGD;Acc:S000000784]
+#>E	YEL058W.1	1.0	43252-44925
+V	44683	44910	1.0	A-D-PHexomutase_C	0	44683-44910	PF00408	http://pfam.sanger.ac.uk/family?acc=PF00408
+V	43837	44172	1.0	A-D-PHexomutase_a/b/a-II	0	43837-44172	PF02879	http://pfam.sanger.ac.uk/family?acc=PF02879
+V	43426	43512	1.0	A-D-PHexomutase_a/b/a-I	0	43426-43512	PF02878	http://pfam.sanger.ac.uk/family?acc=PF02878

@@ -1,0 +1,4 @@
+#>P	YOR022C	YOR022C	YOR022C	XV	373713	375857	-1	Putative carboxylic ester hydrolase; similar to bovine phospholipase A1; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies [Source:SGD;Acc:S000005548]
+#>E	YOR022C.1	1.0	373710-375857
+XV	373977	374303	-1.0	DDHD	0	373977-374303	PF02862	http://pfam.sanger.ac.uk/family?acc=PF02862
+XV	373758	373973	-1.0	DDHD	0	373758-373973	PF02862	http://pfam.sanger.ac.uk/family?acc=PF02862

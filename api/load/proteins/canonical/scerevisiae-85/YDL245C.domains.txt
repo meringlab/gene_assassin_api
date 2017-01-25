@@ -1,0 +1,3 @@
+#>P	YDL245C	YDL245C	YDL245C	IV	11660	13360	-1	Protein of unknown function with similarity to hexose transporters; expression is induced by low levels of glucose and repressed by high levels of glucose [Source:SGD;Acc:S000002404]
+#>E	YDL245C.1	1.0	11657-13360
+IV	11795	13174	-1.0	Sub_transporter	0	11795-13174	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083

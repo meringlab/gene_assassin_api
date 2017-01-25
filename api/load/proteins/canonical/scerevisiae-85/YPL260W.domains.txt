@@ -1,0 +1,4 @@
+#>P	YPL260W	YPL260W	YPL260W	XVI	49303	50955	1	Putative substrate of cAMP-dependent protein kinase (PKA); green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm and nucleus; YPL260W is not an essential gene; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000006181]
+#>E	YPL260W.1	1.0	49303-50958
+XVI	49924	50418	1.0	UPF0662	0	49924-50418	PF10303	http://pfam.sanger.ac.uk/family?acc=PF10303
+XVI	50578	50850	1.0	UPF0662	0	50578-50850	PF10303	http://pfam.sanger.ac.uk/family?acc=PF10303

@@ -1,0 +1,4 @@
+#>P	YML068W	YML068W	YML068W	XIII	137550	138941	1	Protein that modulates the efficiency of translation termination; interacts with translation release factors eRF1 (Sup45p) and eRF3 (Sup35p) in vitro, contains a zinc finger domain characteristic of the TRIAD class of proteins [Source:SGD;Acc:S000004533]
+#>E	YML068W.1	1.0	137550-138944
+XIII	138729	138845	1.0	Znf_C6HC	0	138729-138845	PF01485	http://pfam.sanger.ac.uk/family?acc=PF01485
+XIII	138363	138563	1.0	Znf_C6HC	0	138363-138563	PF01485	http://pfam.sanger.ac.uk/family?acc=PF01485

@@ -1,0 +1,3 @@
+#>P	YNL116W	YNL116W	YNL116W	XIV	408341	409906	1	Ubiquitin-protein ligase (E3); controls septin dynamics and spindle position checkpoint (SPOC) with ligase Dma1p by regulating recruitment of Elm1p to bud neck; regulates levels of eIF2 subunit Gcd11p, as well as abundance, localization, and ubiquitination of Cdk inhibitory kinase Swe1p; ortholog of human RNF8, similar to human Chfr; contains FHA and RING finger domains; DMA2 has a paralog, DMA1, that arose from the whole genome duplication [Source:SGD;Acc:S000005060]
+#>E	YNL116W.1	1.0	408341-409909
+XIV	409292	409477	1.0	FHA_dom	0	409292-409477	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498

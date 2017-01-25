@@ -1,0 +1,7 @@
+#>P	WBGene00019326	K02F3.2b	K02F3.2b	III	845861	850273	1	Probable calcium-binding mitochondrial carrier K02F3.2  [Source:UniProtKB/Swiss-Prot;Acc:Q21153]
+#>E	K02F3.2a.e1,K02F3.2a.e2,K02F3.2a.e3,K02F3.2b.e4,K02F3.2a.e4,K02F3.2a.e5,K02F3.2a.e6,K02F3.2a.e7,K02F3.2a.e8	1,1,1,0,1,1,1,1,1	845861-846002,846059-846455,847045-847270,847691-847714,848341-848502,848719-848889,848963-849416,849651-849914,849966-850276
+III	849260	849748	1	Mitochondrial_sb/sol_carrier	226.8	849260-849416,849651-849748	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+III	848975	849256	1	Mitochondrial_sb/sol_carrier	226.8	848975-849256	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+III	849788	850099	1	Mitochondrial_sb/sol_carrier	226.8	849788-849914,849966-850099	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+III	846133	846279	1	EF_hand_dom	57.5	846133-846279	PF13833	http://pfam.sanger.ac.uk/family?acc=PF13833
+III	847118	847192	1	EF_hand_dom	51.1	847118-847192	PF13405	http://pfam.sanger.ac.uk/family?acc=PF13405

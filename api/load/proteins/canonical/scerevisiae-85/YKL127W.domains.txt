@@ -1,0 +1,6 @@
+#>P	YKL127W	YKL127W	YKL127W	XI	203541	205250	1	Phosphoglucomutase, minor isoform; catalyzes the conversion from glucose-1-phosphate to glucose-6-phosphate, which is a key step in hexose metabolism; PGM1 has a paralog, PGM2, that arose from the whole genome duplication [Source:SGD;Acc:S000001610]
+#>E	YKL127W.1	1.0	203541-205253
+XI	205017	205175	1.0	A-D-PHexomutase_C	0	205017-205175	PF00408	http://pfam.sanger.ac.uk/family?acc=PF00408
+XI	203586	204020	1.0	A-D-PHexomutase_a/b/a-I	0	203586-204020	PF02878	http://pfam.sanger.ac.uk/family?acc=PF02878
+XI	204117	204440	1.0	A-D-PHexomutase_a/b/a-II	0	204117-204440	PF02879	http://pfam.sanger.ac.uk/family?acc=PF02879
+XI	204471	204830	1.0	A-D-PHexomutase_a/b/a-III	0	204471-204830	PF02880	http://pfam.sanger.ac.uk/family?acc=PF02880

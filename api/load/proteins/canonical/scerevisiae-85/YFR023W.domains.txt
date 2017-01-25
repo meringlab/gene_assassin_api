@@ -1,0 +1,4 @@
+#>P	YFR023W	YFR023W	YFR023W	VI	199874	201706	1	Poly(A) binding protein, suppressor of DNA polymerase epsilon mutation; PES4 has a paralog, MIP6, that arose from the whole genome duplication [Source:SGD;Acc:S000001919]
+#>E	YFR023W.1	1.0	199874-201709
+VI	200786	200989	1.0	RRM_dom	0	200786-200989	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+VI	200150	200362	1.0	RRM_dom	0	200150-200362	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

@@ -1,0 +1,6 @@
+#>P	YBR245C	YBR245C	YBR245C	II	708153	711539	-1	ATPase subunit of imitation-switch (ISWI) class chromatin remodelers; with Ioc3p forms Isw1a complex involved in repression of transcription initiation; with Ioc2p and Ioc4p forms Isw1b complex involved in regulation of transcription elongation; Isw1b recruited to ORFs by H3K36 methylation and acts with Chd1p to prevent trans-histone exchange over coding regions; Isw1p import into nucleus depends on C-terminal bipartite nuclear targeting signal KRIR X19 KKAK [Source:SGD;Acc:S000000449]
+#>E	YBR245C.1	1.0	708150-711539
+II	709692	709919	-1.0	Helicase_C	0	709692-709919	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+II	708369	708722	-1.0	SLIDE	0	708369-708722	PF09111	http://pfam.sanger.ac.uk/family?acc=PF09111
+II	708891	709214	-1.0	ATPase_nucl-remodel_HAND-dom	0	708891-709214	PF09110	http://pfam.sanger.ac.uk/family?acc=PF09110
+II	710094	710945	-1.0	SNF2_N	0	710094-710945	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176

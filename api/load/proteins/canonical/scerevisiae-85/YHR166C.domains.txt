@@ -1,0 +1,7 @@
+#>P	YHR166C	YHR166C	YHR166C	VIII	437173	439050	-1	Subunit of the Anaphase-Promoting Complex/Cyclosome (APC/C); APC/C is a ubiquitin-protein ligase required for degradation of anaphase inhibitors, including mitotic cyclins, during the metaphase/anaphase transition [Source:SGD;Acc:S000001209]
+#>E	YHR166C.1	1.0	437170-439050
+VIII	437563	437655	-1.0	TPR-1	0	437563-437655	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+VIII	437662	437757	-1.0	TPR-1	0	437662-437757	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+VIII	437767	437859	-1.0	TPR-1	0	437767-437859	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+VIII	438322	438402	-1.0	TPR_repeat	0	438322-438402	PF13181	http://pfam.sanger.ac.uk/family?acc=PF13181
+VIII	438619	439023	-1.0	APC8	0	438619-439023	PF04049	http://pfam.sanger.ac.uk/family?acc=PF04049

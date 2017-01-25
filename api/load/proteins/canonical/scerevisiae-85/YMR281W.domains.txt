@@ -1,0 +1,3 @@
+#>P	YMR281W	YMR281W	YMR281W	XIII	832339	833250	1	ER membrane protein involved in the second step of GPI anchor assembly; the second step is the de-N-acetylation of the N-acetylglucosaminylphosphatidylinositol intermediate; functional homolog of human PIG-Lp; GPI stands for glycosylphosphatidylinositol [Source:SGD;Acc:S000004894]
+#>E	YMR281W.1	1.0	832339-833253
+XIII	832513	832893	1.0	GlcNAc_PIno_de-acetylase	0	832513-832893	PF02585	http://pfam.sanger.ac.uk/family?acc=PF02585

@@ -1,0 +1,3 @@
+#>P	YPR030W	YPR030W	YPR030W	XVI	627880	631242	1	Nuclear ubiquitin protein ligase binding protein; may regulate utilization of nonfermentable carbon sources and endocytosis of plasma membrane proteins; overproduction suppresses chs5 spa2 lethality at high temp; ubiquitinated by Rsp5p, deubiquitinated by Ubp2p; CSR2 has a paralog, ECM21, that arose from the whole genome duplication [Source:SGD;Acc:S000006234]
+#>E	YPR030W.1	1.0	627880-631245
+XVI	629791	630657	1.0	Arrestin_C-like	53.5	629791-630657	PF02752	http://pfam.sanger.ac.uk/family?acc=PF02752

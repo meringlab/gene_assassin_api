@@ -1,0 +1,3 @@
+#>P	YCR097W	YCR097W	YCR097W	III	293835	294318	1	Silenced copy of a1 at HMR; homeobox corepressor that interacts with Alpha2p to repress haploid-specific gene transcription in diploid cells [Source:SGD;Acc:S000000694]
+#>E	YCR097W.1,YCR097W.2,YCR097W.3	1,1,1	293835-293939,293994-294239,294292-294321
+III	294105	294318	1	Homeobox	0	294105-294239,294292-294318	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046

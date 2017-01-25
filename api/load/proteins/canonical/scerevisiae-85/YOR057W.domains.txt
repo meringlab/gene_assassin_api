@@ -1,0 +1,4 @@
+#>P	YOR057W	YOR057W	YOR057W	XV	432186	433370	1	Cochaperone protein; regulates activity of adenylyl cyclase Cyr1p; involved in kinetochore complex assembly; associates with the SCF (Skp1p/Cdc53p/F box protein) ubiquitin ligase complex; acts as a linker between Skp1p and HSP90 complexes; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005583]
+#>E	YOR057W.1	1.0	432186-433373
+XV	432741	432986	1.0	CS_domain	0	432741-432986	PF04969	http://pfam.sanger.ac.uk/family?acc=PF04969
+XV	433146	433370	1.0	SGS	0	433146-433370	PF05002	http://pfam.sanger.ac.uk/family?acc=PF05002

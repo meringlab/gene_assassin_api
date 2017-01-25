@@ -1,0 +1,3 @@
+#>P	WBGene00019800	PAR2.1	PAR2.1	III	8768314	8769150	1	Single-stranded DNA-binding protein, mitochondrial  [Source:UniProtKB/Swiss-Prot;Acc:P34496]
+#>E	PAR2.1.e1,PAR2.1.e2,PAR2.1.e3	1,1,1	8768314-8768406,8768459-8768523,8768799-8769153
+III	8768800	8769114	1	Primosome_PriB/ssb	92.2	8768800-8769114	PF00436	http://pfam.sanger.ac.uk/family?acc=PF00436

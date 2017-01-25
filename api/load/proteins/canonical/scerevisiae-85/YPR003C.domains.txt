@@ -1,0 +1,4 @@
+#>P	YPR003C	YPR003C	YPR003C	XVI	561507	563768	-1	Putative sulfate permease; physically interacts with Hsp82p; green fluorescent protein (GFP)-fusion protein localizes to the ER; YPR003C is not an essential gene [Source:SGD;Acc:S000006207]
+#>E	YPR003C.1	1.0	561504-563768
+XVI	562281	563114	-1.0	Sulph_transpt	0	562281-563114	PF00916	http://pfam.sanger.ac.uk/family?acc=PF00916
+XVI	561648	562037	-1.0	SO4_transptr/STAS	0	561648-562037	PF01740	http://pfam.sanger.ac.uk/family?acc=PF01740

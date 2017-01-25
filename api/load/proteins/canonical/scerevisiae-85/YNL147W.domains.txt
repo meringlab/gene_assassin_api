@@ -1,0 +1,3 @@
+#>P	YNL147W	YNL147W	YNL147W	XIV	350940	351380	1	Lsm (Like Sm) protein; part of heteroheptameric complexes (Lsm2p-7p and either Lsm1p or 8p): cytoplasmic Lsm1p complex involved in mRNA decay; nuclear Lsm8p complex part of U6 snRNP and possibly involved in processing tRNA, snoRNA, and rRNA; protein abundance increases and forms cytoplasmic foci in response to DNA replication stress [Source:SGD;Acc:S000005091]
+#>E	YNL147W.1,YNL147W.2	1,1	350940-350957,351054-351383
+XIV	351120	351341	1	LSM_domain	0	351120-351341	PF01423	http://pfam.sanger.ac.uk/family?acc=PF01423

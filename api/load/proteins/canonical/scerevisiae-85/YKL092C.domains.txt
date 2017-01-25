@@ -1,0 +1,4 @@
+#>P	YKL092C	YKL092C	YKL092C	XI	266148	269459	-1	GTPase activating factor for Rsr1p/Bud1p; plays a role in spindle position checkpoint distinct from its role in bud site selection; required for both axial and bipolar budding patterns; mutants exhibit random budding in all cell types [Source:SGD;Acc:S000001575]
+#>E	YKL092C.1	1.0	266145-269459
+XI	267297	267836	-1.0	RasGAP	0	267297-267836	PF00616	http://pfam.sanger.ac.uk/family?acc=PF00616
+XI	268227	268349	-1.0	C2_Ca-dep	0	268227-268349	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168

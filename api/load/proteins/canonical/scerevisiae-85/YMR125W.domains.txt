@@ -1,0 +1,5 @@
+#>P	YMR125W	YMR125W	YMR125W	XIII	517539	520443	1	Large subunit of the nuclear mRNA cap-binding protein complex; interacts with Npl3p to carry nuclear poly(A)+ mRNA to cytoplasm; also involved in nuclear mRNA degradation and telomere maintenance; orthologous to mammalian CBP80 [Source:SGD;Acc:S000004732]
+#>E	YMR125W.1,YMR125W.2	1,1	517539-517563,517886-520446
+XIII	519607	520329	1	MIF4G-like_typ-2	0	519607-520329	PF09090	http://pfam.sanger.ac.uk/family?acc=PF09090
+XIII	518899	519486	1	MIF4G-like_typ-1	0	518899-519486	PF09088	http://pfam.sanger.ac.uk/family?acc=PF09088
+XIII	517987	518649	1	MIF4G-like_typ-3	0	517987-518649	PF02854	http://pfam.sanger.ac.uk/family?acc=PF02854

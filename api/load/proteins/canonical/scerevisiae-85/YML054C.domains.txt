@@ -1,0 +1,4 @@
+#>P	YML054C	YML054C	YML054C	XIII	165536	167308	-1	Cytochrome b2 (L-lactate cytochrome-c oxidoreductase); component of the mitochondrial intermembrane space, required for lactate utilization; expression is repressed by glucose and anaerobic conditions [Source:SGD;Acc:S000004518]
+#>E	YML054C.1	1.0	165533-167308
+XIII	166835	167038	-1.0	Cyt_B5	0	166835-167038	PF00173	http://pfam.sanger.ac.uk/family?acc=PF00173
+XIII	165632	166675	-1.0	FMN-dep_DH	0	165632-166675	PF01070	http://pfam.sanger.ac.uk/family?acc=PF01070

@@ -1,0 +1,3 @@
+#>P	YCR098C	YCR098C	YCR098C	III	297052	298605	-1	Plasma membrane permease; mediates uptake of glycerophosphoinositol and glycerophosphocholine as sources of the nutrients inositol and phosphate; expression and transport rate are regulated by phosphate and inositol availability [Source:SGD;Acc:S000000695]
+#>E	YCR098C.1	1.0	297049-298605
+III	297208	298476	-1.0	Sub_transporter	0	297208-298476	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083

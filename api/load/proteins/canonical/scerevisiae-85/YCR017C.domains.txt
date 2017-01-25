@@ -1,0 +1,4 @@
+#>P	YCR017C	YCR017C	YCR017C	III	144776	147634	-1	Putative sensor/transporter protein involved in cell wall biogenesis; contains 14-16 transmembrane segments and several putative glycosylation and phosphorylation sites; null mutation is synthetically lethal with pkc1 deletion [Source:SGD;Acc:S000000610]
+#>E	YCR017C.1	1.0	144773-147634
+III	147014	147616	-1.0	Frag1/DRAM/Sfk1	0	147014-147616	PF10277	http://pfam.sanger.ac.uk/family?acc=PF10277
+III	145301	145534	-1.0	Endo/exonuclease/phosphatase	0	145301-145534	PF03372	http://pfam.sanger.ac.uk/family?acc=PF03372

@@ -1,0 +1,4 @@
+#>P	YKR084C	YKR084C	YKR084C	XI	597058	598890	-1	GTPase with similarity to translation release factors; together with binding partner Dom34p, facilitates ribosomal subunit dissociation and peptidyl-tRNA release when translation is stalled, particularly in 3' UTRs; genetically implicated in mRNA no-go decay; HBS1 has a paralog, SKI7, that arose from the whole genome duplication [Source:SGD;Acc:S000001792]
+#>E	YKR084C.1	1.0	597055-598890
+XI	597808	598392	-1.0	ProtSyn_GTP-bd	0	597808-598392	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+XI	597421	597633	-1.0	Transl_elong_EFTu/EF1A_2	0	597421-597633	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144

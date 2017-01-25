@@ -1,0 +1,3 @@
+#>P	YGL050W	YGL050W	YGL050W	VII	405776	406594	1	tRNA methyltransferase required for synthesis of wybutosine; a modified guanosine found at the 3'-position adjacent to the anticodon of phenylalanine tRNA which supports reading frame maintenance by stabilizing codon-anticodon interactions [Source:SGD;Acc:S000003018]
+#>E	YGL050W.1	1.0	405776-406597
+VII	405797	406459	1.0	tRNA_yW-synthesising	0	405797-406459	PF02676	http://pfam.sanger.ac.uk/family?acc=PF02676

@@ -1,0 +1,4 @@
+#>P	YKL149C	YKL149C	YKL149C	XI	167615	168829	-1	RNA lariat debranching enzyme; catalyzes debranching of lariat introns formed during pre-mRNA splicing; required for efficient Ty1 transposition; knockdown of human homolog Dbr1 rescues toxicity of RNA-binding proteins TDP-43 and FUS which are implicated in amyotrophic lateral sclerosis (ALS), suggests potential therapeutic target for ALS and related TDP-43 proteinopathies [Source:SGD;Acc:S000001632]
+#>E	YKL149C.1	1.0	167612-168829
+XI	168128	168820	-1.0	Metallo_PEstase_dom	0	168128-168820	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149
+XI	167774	167953	-1.0	DBR1_C	0	167774-167953	PF05011	http://pfam.sanger.ac.uk/family?acc=PF05011

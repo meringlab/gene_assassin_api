@@ -1,0 +1,4 @@
+#>P	YNR075W	YNR075W	YNR075W	XIV	779916	781037	1	Protein of unknown function; member of the DUP380 subfamily of conserved, often subtelomerically-encoded proteins [Source:SGD;Acc:S000005358]
+#>E	YNR075W.1	1.0	779916-781040
+XIV	780096	780392	1.0	DUP	0	780096-780392	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674
+XIV	780663	780956	1.0	DUP	0	780663-780956	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674

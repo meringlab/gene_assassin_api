@@ -1,0 +1,3 @@
+#>P	YBR149W	YBR149W	YBR149W	II	539987	541018	1	NADP+ dependent arabinose dehydrogenase; involved in carbohydrate metabolism; purified as homodimer; naturally occurs with a N-terminus degradation product [Source:SGD;Acc:S000000353]
+#>E	YBR149W.1	1.0	539987-541021
+II	540092	540919	1.0	NADP_OxRdtase_dom	0	540092-540919	PF00248	http://pfam.sanger.ac.uk/family?acc=PF00248

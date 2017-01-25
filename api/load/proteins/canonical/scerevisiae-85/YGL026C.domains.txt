@@ -1,0 +1,4 @@
+#>P	YGL026C	YGL026C	YGL026C	VII	446415	448535	-1	Tryptophan synthase; catalyzes the last step of tryptophan biosynthesis; regulated by the general control system of amino acid biosynthesis [Source:SGD;Acc:S000002994]
+#>E	YGL026C.1	1.0	446412-448535
+VII	446544	447488	-1.0	PyrdxlP-dep_enz_bsu	0	446544-447488	PF00291	http://pfam.sanger.ac.uk/family?acc=PF00291
+VII	447759	448511	-1.0	Trp_synthase_suA	0	447759-448511	PF00290	http://pfam.sanger.ac.uk/family?acc=PF00290

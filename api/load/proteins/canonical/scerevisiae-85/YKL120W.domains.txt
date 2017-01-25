@@ -1,0 +1,5 @@
+#>P	YKL120W	YKL120W	YKL120W	XI	217344	218315	1	Mitochondrial inner membrane transporter; transports oxaloacetate, sulfate, thiosulfate, and isopropylmalate; member of the mitochondrial carrier family [Source:SGD;Acc:S000001603]
+#>E	YKL120W.1	1.0	217344-218318
+XI	218025	218285	1.0	Mitochondrial_sb/sol_carrier	0	218025-218285	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XI	217722	218009	1.0	Mitochondrial_sb/sol_carrier	0	217722-218009	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XI	217404	217685	1.0	Mitochondrial_sb/sol_carrier	0	217404-217685	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

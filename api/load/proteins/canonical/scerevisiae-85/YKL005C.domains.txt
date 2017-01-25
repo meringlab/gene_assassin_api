@@ -1,0 +1,5 @@
+#>P	YKL005C	YKL005C	YKL005C	XI	433096	434877	-1	Negative regulator of transcription elongation; contains a TFIIS-like domain that associates with chromatin and a PHD domain that interacts with H3K4me3; multicopy suppressor of temperature-sensitive ess1 mutations, binds RNA polymerase II large subunit [Source:SGD;Acc:S000001488]
+#>E	YKL005C.1	1.0	433093-434877
+XI	434479	434655	-1.0	Znf_PHD-finger	0	434479-434655	PF00628	http://pfam.sanger.ac.uk/family?acc=PF00628
+XI	433789	434097	-1.0	TFIIS_cen_dom	0	433789-434097	PF07500	http://pfam.sanger.ac.uk/family?acc=PF07500
+XI	433237	433479	-1.0	SPOC_C	0	433237-433479	PF07744	http://pfam.sanger.ac.uk/family?acc=PF07744

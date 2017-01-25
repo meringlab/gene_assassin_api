@@ -1,0 +1,9 @@
+#>P	YHR165C	YHR165C	YHR165C	VIII	429710	436948	-1	Component of U4/U6-U5 snRNP complex; involved in second catalytic step of splicing; participates in spliceosomal assembly through its interaction with U1 snRNA; largest and most evolutionarily conserved protein of the spliceosome; mutations in its human ortholog, PRPF8, cause Retinitis pigmentosa and missplicing in Myelodysplastic syndrome. [Source:SGD;Acc:S000001208]
+#>E	YHR165C.1	1.0	429707-436948
+VIII	432704	433108	-1.0	Prp8_U5-snRNA-bd	0	432704-433108	PF10597	http://pfam.sanger.ac.uk/family?acc=PF10597
+VIII	434327	435541	-1.0	PROCN	0	434327-435541	PF08083	http://pfam.sanger.ac.uk/family?acc=PF08083
+VIII	436103	436558	-1.0	Pre-mRNA-splicing_factor-8	0	436103-436558	PF08082	http://pfam.sanger.ac.uk/family?acc=PF08082
+VIII	431930	432409	-1.0	Prp8_U6-snRNA-bd	0	431930-432409	PF10596	http://pfam.sanger.ac.uk/family?acc=PF10596
+VIII	430766	431455	-1.0	PRP8_domainIV	0	430766-431455	PF12134	http://pfam.sanger.ac.uk/family?acc=PF12134
+VIII	433496	433774	-1.0	RRM_spliceosomal_PrP8	0	433496-433774	PF10598	http://pfam.sanger.ac.uk/family?acc=PF10598
+VIII	429713	430087	-1.0	PRO_C	0	429713-430087	PF08084	http://pfam.sanger.ac.uk/family?acc=PF08084

@@ -1,0 +1,5 @@
+#>P	YOR124C	YOR124C	YOR124C	XV	554827	558642	-1	Ubiquitin-specific protease; removes ubiquitin from ubiquitinated proteins; deubiquitinates Rsp5p and is required for MVB sorting of membrane proteins; can cleave polyubiquitin and has isopeptidase activity [Source:SGD;Acc:S000005650]
+#>E	YOR124C.1	1.0	554824-558642
+XV	556717	556890	-1.0	UCH_repeat_domain	68.6	556717-556890	PF13446	http://pfam.sanger.ac.uk/family?acc=PF13446
+XV	556480	556674	-1.0	UCH_repeat_domain	61.5	556480-556674	PF13446	http://pfam.sanger.ac.uk/family?acc=PF13446
+XV	554878	556446	-1.0	Peptidase_C19	207.8	554878-556446	PF00443	http://pfam.sanger.ac.uk/family?acc=PF00443

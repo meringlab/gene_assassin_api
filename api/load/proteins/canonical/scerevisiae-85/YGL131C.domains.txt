@@ -1,0 +1,5 @@
+#>P	YGL131C	YGL131C	YGL131C	VII	261651	265859	-1	Subunit of Snt2C complex, RING finger ubiquitin ligase (E3); physically associates with Ecm5p and Rpd3p; along with Ecm5p, recruits Rpd3p to small number of promoters; colocalizes with Ecm5p, independently of Rpd3p, to promoters of stress response genes upon oxidative stress; involved in ubiquitylation, degradation of excess histones; interacts with Ubc4p; role in regulating genes encoding amine transporters; relocalizes from nucleus to cytoplasm upon DNA replication stress [Source:SGD;Acc:S000003099]
+#>E	YGL131C.1	1.0	261648-265859
+VII	265107	265493	-1.0	BAH_dom	0	265107-265493	PF01426	http://pfam.sanger.ac.uk/family?acc=PF01426
+VII	262572	262742	-1.0	Znf_PHD-finger	0	262572-262742	PF00628	http://pfam.sanger.ac.uk/family?acc=PF00628
+VII	264756	264905	-1.0	Znf_PHD-finger	0	264756-264905	PF00628	http://pfam.sanger.ac.uk/family?acc=PF00628

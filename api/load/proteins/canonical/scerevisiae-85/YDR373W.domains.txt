@@ -1,0 +1,5 @@
+#>P	YDR373W	YDR373W	YDR373W	IV	1222759	1223328	1	N-myristoylated calcium-binding protein; may have a role in intracellular signaling through its regulation of the phosphatidylinositol 4-kinase Pik1p; member of the recoverin/frequenin branch of the EF-hand superfamily [Source:SGD;Acc:S000002781]
+#>E	YDR373W.1	1.0	1222759-1223331
+IV	1223203	1223271	1.0	EF-hand	0	1223203-1223271	PF00036	http://pfam.sanger.ac.uk/family?acc=PF00036
+IV	1222957	1223031	1.0	EF-hand	0	1222957-1223031	PF00036	http://pfam.sanger.ac.uk/family?acc=PF00036
+IV	1223059	1223139	1.0	EF-hand	0	1223059-1223139	PF00036	http://pfam.sanger.ac.uk/family?acc=PF00036

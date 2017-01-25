@@ -1,0 +1,4 @@
+#>P	YJL069C	YJL069C	YJL069C	X	310925	312706	-1	Small-subunit processome protein involved in pre-18S rRNA maturation; part of a subunit of the 90S preribosomal particle capable of interacting directly with the 5' ETS of the 35S pre-rRNA; contains WD40 repeats [Source:SGD;Acc:S000003605]
+#>E	YJL069C.1	1.0	310922-312706
+X	311879	311971	-1.0	WD40_repeat	0	311879-311971	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+X	310937	311020	-1.0	WD40_repeat	0	310937-311020	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

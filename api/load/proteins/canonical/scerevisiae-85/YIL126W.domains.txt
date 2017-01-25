@@ -1,0 +1,5 @@
+#>P	YIL126W	YIL126W	YIL126W	IX	117992	122068	1	ATPase component of the RSC chromatin remodeling complex; required for expression of early meiotic genes; promotes base excision repair in chromatin; essential helicase-related protein homologous to Snf2p [Source:SGD;Acc:S000001388]
+#>E	YIL126W.1	1.0	117992-122071
+IX	120467	120706	1.0	Helicase_C	0	120467-120706	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+IX	119408	120295	1.0	SNF2_N	0	119408-120295	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176
+IX	121781	122026	1.0	Bromodomain	0	121781-122026	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439

@@ -1,0 +1,4 @@
+#>P	YCL009C	YCL009C	YCL009C	III	104622	105548	-1	Regulatory subunit of acetolactate synthase; acetolactate synthase catalyzes the first step of branched-chain amino acid biosynthesis; enhances activity of the Ilv2p catalytic subunit, localizes to mitochondria [Source:SGD;Acc:S000000515]
+#>E	YCL009C.1	1.0	104619-105548
+III	104709	104900	-1.0	Acetolactate_synth_ssu_C	0	104709-104900	PF10369	http://pfam.sanger.ac.uk/family?acc=PF10369
+III	105123	105317	-1.0	ACT-bd	0	105123-105317	PF01842	http://pfam.sanger.ac.uk/family?acc=PF01842

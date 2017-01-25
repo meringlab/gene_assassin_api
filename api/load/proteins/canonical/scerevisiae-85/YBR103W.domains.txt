@@ -1,0 +1,6 @@
+#>P	YBR103W	YBR103W	YBR103W	II	447709	449313	1	WD40 repeat-containing subunit of Set3C histone deacetylase complex; complex represses early/middle sporulation genes; antagonizes telomeric silencing; binds specifically to the Sir4p N-terminus [Source:SGD;Acc:S000000307]
+#>E	YBR103W.1	1.0	447709-449316
+II	448366	448452	1.0	WD40_repeat	0	448366-448452	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	448891	448992	1.0	WD40_repeat	0	448891-448992	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	448756	448869	1.0	WD40_repeat	0	448756-448869	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	447724	447804	1.0	LisH_dimerisation_subgr	0	447724-447804	PF08513	http://pfam.sanger.ac.uk/family?acc=PF08513

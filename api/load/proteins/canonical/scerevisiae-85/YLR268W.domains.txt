@@ -1,0 +1,4 @@
+#>P	YLR268W	YLR268W	YLR268W	XII	680200	680841	1	R-SNARE protein; assembles into SNARE complex with Bet1p, Bos1p and Sed5p; cycles between the ER and Golgi complex; involved in anterograde and retrograde transport between the ER and Golgi; synaptobrevin homolog [Source:SGD;Acc:S000004258]
+#>E	YLR268W.1	1.0	680200-680844
+XII	680587	680838	1.0	Synaptobrevin	0	680587-680838	PF00957	http://pfam.sanger.ac.uk/family?acc=PF00957
+XII	680299	680547	1.0	Longin	0	680299-680547	PF13774	http://pfam.sanger.ac.uk/family?acc=PF13774

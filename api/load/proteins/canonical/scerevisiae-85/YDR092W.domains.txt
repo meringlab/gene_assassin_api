@@ -1,0 +1,3 @@
+#>P	YDR092W	YDR092W	YDR092W	IV	629876	630602	1	E2 ubiquitin-conjugating enzyme; involved in the error-free DNA postreplication repair pathway; interacts with Mms2p to assemble ubiquitin chains at the Ub Lys-63 residue; DNA damage triggers redistribution from the cytoplasm to the nucleus [Source:SGD;Acc:S000002499]
+#>E	YDR092W.1,YDR092W.2	1,1	629876-629905,630174-630605
+IV	629894	630572	1	UBQ-conjugat_E2	0	629894-629905,630174-630572	PF00179	http://pfam.sanger.ac.uk/family?acc=PF00179

@@ -1,0 +1,4 @@
+#>P	YGR258C	YGR258C	YGR258C	VII	1007674	1010766	-1	Single-stranded DNA endonuclease; cleaves single-stranded DNA during nucleotide excision repair to excise damaged DNA; subunit of Nucleotide Excision Repair Factor 3 (NEF3); homolog of human XPG protein [Source:SGD;Acc:S000003490]
+#>E	YGR258C.1	1.0	1007671-1010766
+VII	1010476	1010766	-1.0	XPG_DNA_repair_N	0	1010476-1010766	PF00752	http://pfam.sanger.ac.uk/family?acc=PF00752
+VII	1008175	1008426	-1.0	XPG/RAD2_endonuclease	0	1008175-1008426	PF00867	http://pfam.sanger.ac.uk/family?acc=PF00867

@@ -1,0 +1,3 @@
+#>P	YNL337W	YNL337W	YNL337W	XIV	7165	7416	1	Dubious open reading frame; unlikely to encode a functional protein, based on available experimental and comparative sequence data [Source:SGD;Acc:S000005281]
+#>E	YNL337W.1	1.0	7165-7419
+XIV	7165	7416	1.0	DUF468	0	7165-7416	PF04318	http://pfam.sanger.ac.uk/family?acc=PF04318

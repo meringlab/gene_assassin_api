@@ -1,0 +1,3 @@
+#>P	YLR274W	YLR274W	YLR274W	XII	691555	693879	1	Component of the Mcm2-7 hexameric helicase complex; MCM complex is important for priming origins of DNA replication in G1 and becomes an active ATP-dependent helicase that promotes DNA melting and elongation when activated by Cdc7p-Dbf4p in S-phase [Source:SGD;Acc:S000004264]
+#>E	YLR274W.1	1.0	691555-693882
+XII	692611	693618	1.0	MCM_DNA-dep_ATPase	478.8	692611-693618	PF00493	http://pfam.sanger.ac.uk/family?acc=PF00493

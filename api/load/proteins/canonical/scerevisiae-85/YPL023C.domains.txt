@@ -1,0 +1,3 @@
+#>P	YPL023C	YPL023C	YPL023C	XVI	504342	506312	-1	Protein with MTHFR activity in vitro; null mutant has no phenotype and is prototrophic for methionine; MET13 encodes major isozyme of methylenetetrahydrofolate reductase (MTHFR) [Source:SGD;Acc:S000005944]
+#>E	YPL023C.1	1.0	504339-506312
+XVI	505410	506285	-1.0	Mehydrof_redctse	0	505410-506285	PF02219	http://pfam.sanger.ac.uk/family?acc=PF02219

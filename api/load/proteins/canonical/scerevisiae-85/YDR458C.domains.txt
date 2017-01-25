@@ -1,0 +1,4 @@
+#>P	YDR458C	YDR458C	YDR458C	IV	1380058	1382046	-1	Inner nuclear membrane (INM) protein; contains helix-extension-helix (HEH) motif, nuclear localization signal sequence; targeting to the INM requires the Srp1p-Kap95p karyopherins and the Ran cycle; HEH2 has a paralog, SRC1, that arose from the whole genome duplication [Source:SGD;Acc:S000002866]
+#>E	YDR458C.1	1.0	1380055-1382046
+IV	1380064	1381068	-1.0	Inner-Nucl-membr_MAN1	0	1380064-1381068	PF09402	http://pfam.sanger.ac.uk/family?acc=PF09402
+IV	1381921	1382025	-1.0	HeH/LEM_domain	0	1381921-1382025	PF12949	http://pfam.sanger.ac.uk/family?acc=PF12949

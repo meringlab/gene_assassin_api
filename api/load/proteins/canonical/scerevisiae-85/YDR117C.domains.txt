@@ -1,0 +1,4 @@
+#>P	YDR117C	YDR117C	YDR117C	IV	683949	685643	-1	Protein of unknown function that associates with ribosomes; has a putative RNA binding domain; in mammals the corresponding protein, eIF2D, has been shown to possess translation initiation factor activity [Source:SGD;Acc:S000002524]
+#>E	YDR117C.1	1.0	683946-685643
+IV	684366	684554	-1.0	SWIB_MDM2_domain	0	684366-684554	PF02201	http://pfam.sanger.ac.uk/family?acc=PF02201
+IV	683997	684233	-1.0	TIF_SUI1	0	683997-684233	PF01253	http://pfam.sanger.ac.uk/family?acc=PF01253

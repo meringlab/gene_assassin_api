@@ -1,0 +1,4 @@
+#>P	YNL274C	YNL274C	YNL274C	XIV	121121	122170	-1	Glyoxylate reductase; null mutation results in increased biomass after diauxic shift; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005218]
+#>E	YNL274C.1	1.0	121118-122170
+XIV	121262	121798	-1.0	D-isomer_2_OHA_DH_NAD-bd	0	121262-121798	PF02826	http://pfam.sanger.ac.uk/family?acc=PF02826
+XIV	121169	121984	-1.0	D-isomer_2_OHA_DH_cat_dom	0	121169-121984	PF00389	http://pfam.sanger.ac.uk/family?acc=PF00389

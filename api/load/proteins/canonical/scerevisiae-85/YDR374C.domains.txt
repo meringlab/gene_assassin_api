@@ -1,0 +1,3 @@
+#>P	YDR374C	YDR374C	YDR374C	IV	1223477	1224394	-1	Posttranscriptional regulator of phosphate metabolism; facilitates PHO4 mRNA degradation by interacting with Pop2p; regulates PHO4 mRNA stability by binding to PHO4's 3'UTR in a phosphate-dependent manner; contains highly conserved YTH (YT521-B Homology) domain that exhibits RNA-binding activity; functional homolog of human YTHDF2 [Source:SGD;Acc:S000002782]
+#>E	YDR374C.1	1.0	1223474-1224394
+IV	1223516	1223935	-1.0	YTH_domain	0	1223516-1223935	PF04146	http://pfam.sanger.ac.uk/family?acc=PF04146

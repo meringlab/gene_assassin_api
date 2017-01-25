@@ -1,0 +1,3 @@
+#>P	YLR126C	YLR126C	YLR126C	XII	394768	395520	-1	Putative glutamine amidotransferase; has Aft1p-binding motif in the promoter; may be involved in copper and iron homeostasis; YLR126C is not an essential protein; relocalizes from nucleus to cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000004116]
+#>E	YLR126C.1	1.0	394765-395520
+XII	394885	395211	-1.0	GATASE_1	0	394885-395211	PF00117	http://pfam.sanger.ac.uk/family?acc=PF00117

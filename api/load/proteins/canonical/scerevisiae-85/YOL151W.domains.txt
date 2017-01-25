@@ -1,0 +1,3 @@
+#>P	YOL151W	YOL151W	YOL151W	XV	43694	44719	1	3-methylbutanal reductase and NADPH-dependent methylglyoxal reductase; stress induced (osmotic, ionic, oxidative, heat shock and heavy metals); regulated by the HOG pathway; restores resistance to glycolaldehyde by coupling reduction of glycolaldehyde to ethylene glycol and oxidation of NADPH to NADP+; protein abundance increases in response to DNA replication stress; methylglyoxal reductase (NADPH-dependent) is also known as D-lactaldehyde dehydrogenase [Source:SGD;Acc:S000005511]
+#>E	YOL151W.1	1.0	43694-44722
+XV	43700	44464	1.0	Epimerase_deHydtase	0	43700-44464	PF01370	http://pfam.sanger.ac.uk/family?acc=PF01370

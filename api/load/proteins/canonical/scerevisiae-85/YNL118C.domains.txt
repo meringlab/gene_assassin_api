@@ -1,0 +1,4 @@
+#>P	YNL118C	YNL118C	YNL118C	XIV	402655	405564	-1	Catalytic subunit of the Dcp1p-Dcp2p decapping enzyme complex; removes the 5' cap structure from mRNAs prior to their degradation; also enters the nucleus and positively regulates transcription initiation; nudix hydrolase family member; forms cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000005062]
+#>E	YNL118C.1	1.0	402652-405564
+XIV	404893	405246	-1.0	NUDIX_hydrolase_dom	0	404893-405246	PF00293	http://pfam.sanger.ac.uk/family?acc=PF00293
+XIV	405265	405516	-1.0	mRNA_decapping_BoxA	0	405265-405516	PF05026	http://pfam.sanger.ac.uk/family?acc=PF05026

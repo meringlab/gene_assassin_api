@@ -1,0 +1,4 @@
+#>P	YGL245W	YGL245W	YGL245W	VII	39023	41146	1	Glutamyl-tRNA synthetase (GluRS); forms a complex with methionyl-tRNA synthetase (Mes1p) and Arc1p; complex formation increases the catalytic efficiency of both tRNA synthetases and ensures their correct localization to the cytoplasm; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003214]
+#>E	YGL245W.1	1.0	39023-41149
+VII	39623	40540	1.0	Glu/Gln-tRNA-synth_Ib_cat-dom	0	39623-40540	PF00749	http://pfam.sanger.ac.uk/family?acc=PF00749
+VII	40547	41065	1.0	Glu/Gln-tRNA-synth_Ib_codon-bd	0	40547-41065	PF03950	http://pfam.sanger.ac.uk/family?acc=PF03950

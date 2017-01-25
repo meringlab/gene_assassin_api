@@ -1,0 +1,3 @@
+#>P	YLR456W	YLR456W	YLR456W	XII	1055070	1055681	1	Putative pyridoxal 5'-phosphate synthase; null mutant displays increased resistance to antifungal agents gliotoxin, cycloheximide and H2O2; YLR456W has a paralog, YPR172W, that arose from the whole genome duplication [Source:SGD;Acc:S000004448]
+#>E	YLR456W.1	1.0	1055070-1055684
+XII	1055094	1055345	1.0	Pyridox_Oxase_FMN-bd	0	1055094-1055345	PF01243	http://pfam.sanger.ac.uk/family?acc=PF01243

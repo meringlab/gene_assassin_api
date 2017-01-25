@@ -1,0 +1,4 @@
+#>P	YOR261C	YOR261C	YOR261C	XV	815918	816931	-1	Essential non-ATPase regulatory subunit of the 26S proteasome; has similarity to the human p40 proteasomal subunit and to another S. cerevisiae regulatory subunit, Rpn11p [Source:SGD;Acc:S000005787]
+#>E	YOR261C.1	1.0	815915-816931
+XV	816584	816919	-1.0	Mov34_MPN_PAD1	0	816584-816919	PF01398	http://pfam.sanger.ac.uk/family?acc=PF01398
+XV	816047	816442	-1.0	Rpn11/EIF3F_C	0	816047-816442	PF13012	http://pfam.sanger.ac.uk/family?acc=PF13012

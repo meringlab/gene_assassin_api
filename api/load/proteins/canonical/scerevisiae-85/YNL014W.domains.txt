@@ -1,0 +1,4 @@
+#>P	YNL014W	YNL014W	YNL014W	XIV	606319	609450	1	Translational elongation factor EF-3; member of the ABC superfamily; stimulates EF-1 alpha-dependent binding of aminoacyl-tRNA by the ribosome; normally expressed in zinc deficient cells; HEF3 has a paralog, YEF3, that arose from the whole genome duplication [Source:SGD;Acc:S000004959]
+#>E	YNL014W.1	1.0	606319-609453
+XIV	608440	609093	1.0	ABC_transporter-like	0	608440-609093	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XIV	607792	608034	1.0	ABC_transporter-like	0	607792-608034	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

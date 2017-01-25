@@ -1,0 +1,3 @@
+#>P	YNL273W	YNL273W	YNL273W	XIV	122883	126596	1	Subunit of a replication-pausing checkpoint complex; Tof1p-Mrc1p-Csm3p acts at the stalled replication fork to promote sister chromatid cohesion after DNA damage, facilitating gap repair of damaged DNA; interacts with the MCM helicase; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000005217]
+#>E	YNL273W.1	1.0	122883-126599
+XIV	123015	123983	1.0	Timeless	0	123015-123983	PF04821	http://pfam.sanger.ac.uk/family?acc=PF04821

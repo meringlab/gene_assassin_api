@@ -1,0 +1,3 @@
+#>P	YOR230W	YOR230W	YOR230W	XV	770800	772110	1	Transcriptional modulator; involved in regulation of meiosis, silencing, and expression of RNR genes; required for nuclear localization of the ribonucleotide reductase small subunit Rnr2p and Rnr4p; contains WD repeats [Source:SGD;Acc:S000005756]
+#>E	YOR230W.1	1.0	770800-772113
+XV	771484	771549	1.0	WD40_repeat	0	771484-771549	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

@@ -1,0 +1,3 @@
+#>P	YKL116C	YKL116C	YKL116C	XI	221347	222900	-1	Serine/threonine protein kinase; inhibits pheromone induced signaling downstream of MAPK, possibly at the level of the Ste12p transcription factor [Source:SGD;Acc:S000001599]
+#>E	YKL116C.1	1.0	221344-222900
+XI	221377	222327	-1.0	Prot_kinase_cat_dom	0	221377-222327	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

@@ -1,0 +1,4 @@
+#>P	YPL043W	YPL043W	YPL043W	XVI	469939	471993	1	Nucleolar protein; essential for processing and maturation of 27S pre-rRNA and large ribosomal subunit biogenesis; constituent of 66S pre-ribosomal particles; contains four RNA recognition motifs (RRMs) [Source:SGD;Acc:S000005964]
+#>E	YPL043W.1	1.0	469939-471996
+XVI	470020	470226	1.0	RRM_dom	0	470020-470226	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+XVI	470812	470988	1.0	RRM_dom	0	470812-470988	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

@@ -1,0 +1,6 @@
+#>P	YJL160C	YJL160C	YJL160C	X	117965	118825	-1	Putative protein of unknown function; member of the PIR (proteins with internal repeats) family of cell wall proteins; non-essential gene that is required for sporulation; mRNA is weakly cell cycle regulated, peaking in mitosis; YJL160C has a paralog, PIR1, that arose from the whole genome duplication [Source:SGD;Acc:S000003696]
+#>E	YJL160C.1	1.0	117962-118825
+X	118532	118582	-1.0	Yeast_PIR	0	118532-118582	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+X	118589	118642	-1.0	Yeast_PIR	0	118589-118642	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+X	118346	118396	-1.0	Yeast_PIR	0	118346-118396	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+X	118463	118516	-1.0	Yeast_PIR	0	118463-118516	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399

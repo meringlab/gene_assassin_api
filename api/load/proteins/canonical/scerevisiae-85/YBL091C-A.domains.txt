@@ -1,0 +1,3 @@
+#>P	YBL091C-A	YBL091C-A	YBL091C-A	II	46568	47180	-1	Protein involved in regulation of phospholipid metabolism; one of 6 proteins (Ist2p, Scs2p, Scs22p, Tcb1p, Tcb2p, Tcb3p) that connect ER to the plasma membrane (PM) and regulate PM phosphatidylinositol-4-phosphate (PI4P) levels by controlling access of Sac1p phosphatase to its substrate PI4P in the PM; similar to D. melanogaster inturned protein; SCS22 has a paralog, SCS2, that arose from the whole genome duplication [Source:SGD;Acc:S000007228]
+#>E	YBL091C-A.2,YBL091C-A.1	1,1	46565-47058,47147-47180
+II	46805	47177	-1	Major_sperm	0	46805-47058,47147-47177	PF00635	http://pfam.sanger.ac.uk/family?acc=PF00635

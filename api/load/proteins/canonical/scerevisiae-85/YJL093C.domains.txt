@@ -1,0 +1,4 @@
+#>P	YJL093C	YJL093C	YJL093C	X	254740	256812	-1	Outward-rectifier potassium channel of the plasma membrane; has two pore domains in tandem, each of which forms a functional channel permeable to potassium; carboxy tail functions to prevent inner gate closures; target of K1 toxin [Source:SGD;Acc:S000003629]
+#>E	YJL093C.1	1.0	254737-256812
+X	255433	255645	-1.0	Ion_trans_2	0	255433-255645	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885
+X	255835	256053	-1.0	Ion_trans_2	0	255835-256053	PF07885	http://pfam.sanger.ac.uk/family?acc=PF07885

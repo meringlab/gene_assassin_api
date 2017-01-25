@@ -1,0 +1,3 @@
+#>P	YDR072C	YDR072C	YDR072C	IV	589764	591344	-1	Inositolphosphotransferase; involved in synthesis of mannose-(inositol-P)2-ceramide (M(IP)2C), the most abundant sphingolipid; can mutate to resistance to the antifungals syringomycin E and DmAMP1 and to K. lactis zymocin [Source:SGD;Acc:S000002479]
+#>E	YDR072C.1	1.0	589761-591344
+IV	589899	590690	-1.0	P_Acid_Pase_2/haloperoxidase	0	589899-590690	PF01569	http://pfam.sanger.ac.uk/family?acc=PF01569

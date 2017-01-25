@@ -1,0 +1,4 @@
+#>P	YDR418W	YDR418W	YDR418W	IV	1301616	1302110	1	Ribosomal 60S subunit protein L12B; rpl12a rpl12b double mutant exhibits slow growth and slow translation; homologous to mammalian ribosomal protein L12 and bacterial L11; RPL12B has a paralog, RPL12A, that arose from the whole genome duplication [Source:SGD;Acc:S000002826]
+#>E	YDR418W.1	1.0	1301616-1302113
+IV	1301835	1302044	1.0	Ribosomal_L11_C	41.4	1301835-1302044	PF00298	http://pfam.sanger.ac.uk/family?acc=PF00298
+IV	1301649	1301822	1.0	Ribosomal_L11_N	60.2	1301649-1301822	PF03946	http://pfam.sanger.ac.uk/family?acc=PF03946

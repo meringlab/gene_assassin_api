@@ -1,0 +1,4 @@
+#>P	YCR077C	YCR077C	YCR077C	III	250241	252628	-1	Deadenylation-dependent mRNA-decapping factor; also required for faithful chromosome transmission, maintenance of rDNA locus stability, and protection of mRNA 3'-UTRs from trimming; associated with topoisomerase II; binds to mRNAs under glucose starvation, most often in the 3' UTR; functionally linked to Pab1p; forms cytoplasmic foci upon DNA replication stress; phosphorylation by PKA inhibits P body foci formation [Source:SGD;Acc:S000000673]
+#>E	YCR077C.1	1.0	250238-252628
+III	251957	252628	-1.0	Topo_II-assoc_PAT1	0	251957-252628	PF09770	http://pfam.sanger.ac.uk/family?acc=PF09770
+III	250265	251908	-1.0	Topo_II-assoc_PAT1	0	250265-251908	PF09770	http://pfam.sanger.ac.uk/family?acc=PF09770

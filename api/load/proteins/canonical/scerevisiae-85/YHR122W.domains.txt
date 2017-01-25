@@ -1,0 +1,3 @@
+#>P	YHR122W	YHR122W	YHR122W	VIII	353625	354317	1	Component of cytosolic iron-sulfur protein assembly (CIA) machinery; acts at a late step of Fe-S cluster assembly; forms the CIA targeting complex with Cia1p and Met18p that directs Fe-S cluster incorporation into a subset of proteins involved in methionine biosynthesis, DNA replication and repair, transcription, and telomere maintenance; ortholog of human FAM96B [Source:SGD;Acc:S000001164]
+#>E	YHR122W.1	1.0	353625-354320
+VIII	353943	354167	1.0	DUF59	0	353943-354167	PF01883	http://pfam.sanger.ac.uk/family?acc=PF01883

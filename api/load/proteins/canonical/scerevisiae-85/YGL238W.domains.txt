@@ -1,0 +1,5 @@
+#>P	YGL238W	YGL238W	YGL238W	VII	49552	52431	1	Nuclear envelope protein that mediates the nuclear export of Srp1p; Srp1p (importin alpha) is a homolog of metazoan CAS protein; required for accurate chromosome segregation [Source:SGD;Acc:S000003207]
+#>E	YGL238W.1	1.0	49552-52434
+VII	49999	51111	1.0	Exportin/Importin_Cse1-like	0	49999-51111	PF08506	http://pfam.sanger.ac.uk/family?acc=PF08506
+VII	51112	52416	1.0	CAS_CSE1_C	0	51112-52416	PF03378	http://pfam.sanger.ac.uk/family?acc=PF03378
+VII	49618	49839	1.0	Importin-beta_N	0	49618-49839	PF03810	http://pfam.sanger.ac.uk/family?acc=PF03810

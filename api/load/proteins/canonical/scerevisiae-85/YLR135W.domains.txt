@@ -1,0 +1,3 @@
+#>P	YLR135W	YLR135W	YLR135W	XII	413281	415524	1	Endonuclease involved in processing DNA; acts during recombination and repair; promotes template switching during break-induced replication (BIR), causing non-reciprocal translocations (NRTs); cleaves branched structures in a complex with Slx1p; involved interstrand cross-link repair and in Rad1p/Rad10p-dependent removal of 3'-nonhomologous tails during DSBR via single-strand annealing; relative distribution to nuclear foci increases upon DNA replication stress [Source:SGD;Acc:S000004125]
+#>E	YLR135W.1	1.0	413281-415527
+XII	413593	415518	1.0	Structure-sp_endonuc_su_SLX4	0	413593-415518	PF09494	http://pfam.sanger.ac.uk/family?acc=PF09494

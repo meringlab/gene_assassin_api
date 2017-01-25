@@ -1,0 +1,3 @@
+#>P	YLR196W	YLR196W	YLR196W	XII	543968	545695	1	Protein with WD-40 repeats involved in rRNA processing; associates with trans-acting ribosome biogenesis factors; similar to beta-transducin superfamily [Source:SGD;Acc:S000004186]
+#>E	YLR196W.1	1.0	543968-545698
+XII	544805	544912	1.0	WD40_repeat	0	544805-544912	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

@@ -1,0 +1,3 @@
+#>P	YBR186W	YBR186W	YBR186W	II	600553	602357	1	Hexameric ring ATPase that remodels chromosome axis protein Hop1p; nucleolar component of the pachytene checkpoint, which prevents chromosome segregation when recombination and chromosome synapsis are defective; also represses meiotic interhomolog recombination in rDNA; required for meiotic double-stranded break formation [Source:SGD;Acc:S000000390]
+#>E	YBR186W.1,YBR186W.2	1,1	600553-602103,602217-602360
+II	601480	601950	1	ATPase_AAA_core	0	601480-601950	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

@@ -1,0 +1,4 @@
+#>P	YDL205C	YDL205C	YDL205C	IV	92765	93745	-1	Porphobilinogen deaminase; catalyzes the conversion of 4-porphobilinogen to hydroxymethylbilane, the third step in heme biosynthesis; localizes to the cytoplasm and nucleus; expression is regulated by Hap2p-Hap3p, but not by levels of heme [Source:SGD;Acc:S000002364]
+#>E	YDL205C.1	1.0	92762-93745
+IV	93071	93730	-1.0	Porphobilin_deaminase_N	0	93071-93730	PF01379	http://pfam.sanger.ac.uk/family?acc=PF01379
+IV	92816	93043	-1.0	Porphobilinogen_deaminase_C	0	92816-93043	PF03900	http://pfam.sanger.ac.uk/family?acc=PF03900

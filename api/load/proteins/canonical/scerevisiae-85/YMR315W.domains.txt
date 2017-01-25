@@ -1,0 +1,4 @@
+#>P	YMR315W	YMR315W	YMR315W	XIII	902800	903846	1	Protein with NADP(H) oxidoreductase activity; transcription is regulated by Stb5p in response to NADPH depletion induced by diamide; promoter contains a putative Stb5p binding site; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004932]
+#>E	YMR315W.1	1.0	902800-903849
+XIII	903214	903537	1.0	OxRdtase_C	0	903214-903537	PF02894	http://pfam.sanger.ac.uk/family?acc=PF02894
+XIII	902809	903174	1.0	Oxidoreductase_N	0	902809-903174	PF01408	http://pfam.sanger.ac.uk/family?acc=PF01408

@@ -1,0 +1,3 @@
+#>P	YAR014C	YAR014C	YAR014C	I	166745	168871	-1	Protein involved in bud-site selection; Bud14p-Glc7p complex is a cortical regulator of dynein; inhibitor of the actin assembly factor Bnr1p (formin); diploid mutants display a random budding pattern instead of the wild-type bipolar pattern; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000000069]
+#>E	YAR014C.1	1.0	166742-168871
+I	167936	168076	-1.0	SH3_domain	0	167936-168076	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018

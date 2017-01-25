@@ -1,0 +1,4 @@
+#>P	YLR410W	YLR410W	YLR410W	XII	937541	940978	1	Inositol hexakisphosphate and inositol heptakisphosphate kinase; inositol heptakisphosphate (IP7) production is important for phosphate signaling; involved in cortical actin cytoskeleton function, and invasive pseudohyphal growth analogous to S. pombe asp1; inositol hexakisphosphate is also known as IP6 [Source:SGD;Acc:S000004402]
+#>E	YLR410W.1	1.0	937541-940981
+XII	939155	940681	1.0	His_Pase_superF_clade-2	0	939155-940681	PF00328	http://pfam.sanger.ac.uk/family?acc=PF00328
+XII	938723	939010	1.0	ATP-grasp_RimK-type	0	938723-939010	PF08443	http://pfam.sanger.ac.uk/family?acc=PF08443

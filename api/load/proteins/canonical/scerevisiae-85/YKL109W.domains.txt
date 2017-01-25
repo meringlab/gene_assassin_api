@@ -1,0 +1,3 @@
+#>P	YKL109W	YKL109W	YKL109W	XI	232227	233888	1	Transcription factor; subunit of the heme-activated, glucose-repressed Hap2p/3p/4p/5p CCAAT-binding complex, a transcriptional activator and global regulator of respiratory gene expression; provides the principal activation function of the complex; involved in diauxic shift [Source:SGD;Acc:S000001592]
+#>E	YKL109W.1	1.0	232227-233891
+XI	232419	232466	1.0	Hap4_TF_heteromerisation	30.9	232419-232466	PF10297	http://pfam.sanger.ac.uk/family?acc=PF10297

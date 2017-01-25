@@ -1,0 +1,4 @@
+#>P	YFL037W	YFL037W	YFL037W	VI	56336	57706	1	Beta-tubulin; associates with alpha-tubulin (Tub1p and Tub3p) to form tubulin dimer, which polymerizes to form microtubules; mutation in human ortholog is associated with congenital fibrosis of the extraocular muscles (CFEOM) with polymicrogyria [Source:SGD;Acc:S000001857]
+#>E	YFL037W.1	1.0	56336-57709
+VI	56342	57001	1.0	Tubulin_FtsZ_GTPase	0	56342-57001	PF00091	http://pfam.sanger.ac.uk/family?acc=PF00091
+VI	57116	57481	1.0	Tubulin/FtsZ_2-layer-sand-dom	0	57116-57481	PF03953	http://pfam.sanger.ac.uk/family?acc=PF03953

@@ -1,0 +1,3 @@
+#>P	YPR167C	YPR167C	YPR167C	XVI	876850	877632	-1	3'-phosphoadenylsulfate reductase; reduces 3'-phosphoadenylyl sulfate to adenosine-3',5'-bisphosphate and free sulfite using reduced thioredoxin as cosubstrate, involved in sulfate assimilation and methionine metabolism [Source:SGD;Acc:S000006371]
+#>E	YPR167C.1	1.0	876847-877632
+XVI	876958	877503	-1.0	PAPS_reduct	0	876958-877503	PF01507	http://pfam.sanger.ac.uk/family?acc=PF01507

@@ -1,0 +1,5 @@
+#>P	YKL215C	YKL215C	YKL215C	XI	26830	30687	-1	5-oxoprolinase; enzyme is ATP-dependent and functions as a dimer; similar to mouse Oplah gene; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001698]
+#>E	YKL215C.1	1.0	26827-30687
+XI	30019	30669	-1.0	Hydant_A_N	0	30019-30669	PF05378	http://pfam.sanger.ac.uk/family?acc=PF05378
+XI	26833	28452	-1.0	Hydantoinase_B	0	26833-28452	PF02538	http://pfam.sanger.ac.uk/family?acc=PF02538
+XI	29083	29964	-1.0	Hydantoinase_A	0	29083-29964	PF01968	http://pfam.sanger.ac.uk/family?acc=PF01968

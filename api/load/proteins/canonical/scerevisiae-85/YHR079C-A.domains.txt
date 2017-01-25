@@ -1,0 +1,3 @@
+#>P	YHR079C-A	YHR079C-A	YHR079C-A	VIII	262195	262553	-1	Meiosis-specific protein involved in meiotic recombination; involved in DMC1-dependent meiotic recombination; forms heterodimer with Mei5p; proposed to be an assembly factor for Dmc1p [Source:SGD;Acc:S000001957]
+#>E	YHR079C-A.2,YHR079C-A.1	1,1	262192-262354,262441-262553
+VIII	262195	262511	-1	DNA-repair_Swi5	0	262195-262354,262441-262511	PF07061	http://pfam.sanger.ac.uk/family?acc=PF07061

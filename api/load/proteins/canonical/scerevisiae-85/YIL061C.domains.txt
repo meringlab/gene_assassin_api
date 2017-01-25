@@ -1,0 +1,4 @@
+#>P	YIL061C	YIL061C	YIL061C	IX	244660	245559	-1	Component of U1 snRNP required for mRNA splicing via spliceosome; substrate of the arginine methyltransferase Hmt1p; may interact with poly(A) polymerase to regulate polyadenylation; homolog of human U1 70K protein; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001323]
+#>E	YIL061C.1	1.0	244657-245559
+IX	245062	245235	-1.0	RRM_dom	0	245062-245235	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+IX	245266	245547	-1.0	U1snRNP70_N	0	245266-245547	PF12220	http://pfam.sanger.ac.uk/family?acc=PF12220

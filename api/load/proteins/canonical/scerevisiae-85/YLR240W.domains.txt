@@ -1,0 +1,5 @@
+#>P	YLR240W	YLR240W	YLR240W	XII	617533	620157	1	Phosphatidylinositol (PI) 3-kinase that synthesizes PI-3-phosphate; forms membrane-associated signal transduction complex with Vps15p to regulate protein sorting; activated by the GTP-bound form of Gpa1p; a fraction is localized, with Vps15p, to nuclear pores at nucleus-vacuole junctions and may facilitate transcription elongation for genes positioned at the nuclear periphery [Source:SGD;Acc:S000004230]
+#>E	YLR240W.1	1.0	617533-620160
+XII	618415	619134	1.0	PInositide-3_kin_accessory_dom	0	618415-619134	PF00613	http://pfam.sanger.ac.uk/family?acc=PF00613
+XII	619387	619992	1.0	PI3/4_kinase_cat_dom	0	619387-619992	PF00454	http://pfam.sanger.ac.uk/family?acc=PF00454
+XII	617689	618084	1.0	PI3K_C2	0	617689-618084	PF00792	http://pfam.sanger.ac.uk/family?acc=PF00792

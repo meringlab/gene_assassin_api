@@ -1,0 +1,4 @@
+#>P	YJL172W	YJL172W	YJL172W	X	97737	99464	1	Vacuolar carboxypeptidase S; expression is induced under low-nitrogen conditions [Source:SGD;Acc:S000003708]
+#>E	YJL172W.1	1.0	97737-99467
+X	98226	99446	1.0	Peptidase_M20	0	98226-99446	PF01546	http://pfam.sanger.ac.uk/family?acc=PF01546
+X	98598	99065	1.0	Peptidase_M20_dimer	0	98598-99065	PF07687	http://pfam.sanger.ac.uk/family?acc=PF07687

@@ -1,0 +1,3 @@
+#>P	YER087W	YER087W	YER087W	V	330576	332303	1	Protein with similarity to tRNA synthetases; non-tagged protein is detected in purified mitochondria; null mutant is viable and displays elevated frequency of mitochondrial genome loss [Source:SGD;Acc:S000000889]
+#>E	YER087W.1	1.0	330576-332306
+V	330747	331229	1.0	aa-tRNA-synt_IIb_cons-dom	0	330747-331229	PF00587	http://pfam.sanger.ac.uk/family?acc=PF00587

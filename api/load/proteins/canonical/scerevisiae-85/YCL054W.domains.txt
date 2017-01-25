@@ -1,0 +1,5 @@
+#>P	YCL054W	YCL054W	YCL054W	III	31449	33971	1	AdoMet-dependent methyltransferase; involved in rRNA processing and 60S ribosomal subunit maturation; methylates G2922 in the tRNA docking site of the large subunit rRNA and in the absence of snR52, U2921; suppressor of PAB1 mutants [Source:SGD;Acc:S000000559]
+#>E	YCL054W.1	1.0	31449-33974
+III	31521	32054	1.0	rRNA_MeTrfase_RrmJ/FtsJ	0	31521-32054	PF01728	http://pfam.sanger.ac.uk/family?acc=PF01728
+III	32145	32618	1.0	rRNA_MeTfrase_Spb1_DUF3381	0	32145-32618	PF11861	http://pfam.sanger.ac.uk/family?acc=PF11861
+III	33285	33956	1.0	rRNA_MeTfrase_Spb1_C	0	33285-33956	PF07780	http://pfam.sanger.ac.uk/family?acc=PF07780

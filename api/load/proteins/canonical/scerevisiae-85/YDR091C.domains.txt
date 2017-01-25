@@ -1,0 +1,6 @@
+#>P	YDR091C	YDR091C	YDR091C	IV	626711	628534	-1	Essential Fe-S protein; required for ribosome biogenesis, translation initiation/termination; facilitates binding of multifactor complex (MFC) of initiation factors to small ribosomal subunit; Dom34-Hbs1 complex and Rli1p work in dissociating inactive ribosomes, thereby facilitating translation restart; forms complex with Lto1p and Yae1p; dependency on ROS-labile FeS clusters, activity in nuclear ribosomal-subunit export impaired by mild oxidative stress [Source:SGD;Acc:S000002498]
+#>E	YDR091C.1	1.0	626708-628534
+IV	628322	628387	-1.0	4Fe4S-bd_dom	0	628322-628387	PF00037	http://pfam.sanger.ac.uk/family?acc=PF00037
+IV	627050	627361	-1.0	ABC_transporter-like	0	627050-627361	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+IV	627788	628186	-1.0	ABC_transporter-like	0	627788-628186	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+IV	628424	628516	-1.0	RNaseL-inhib_metal-bd_dom	0	628424-628516	PF04068	http://pfam.sanger.ac.uk/family?acc=PF04068

@@ -1,0 +1,3 @@
+#>P	YJL053W	YJL053W	YJL053W	X	335898	337034	1	Vacuolar protein component of the retromer; forms part of the multimeric membrane-associated retromer complex involved in vacuolar protein sorting along with Vps35p, Vps29p, Vps17p, and Vps5p; essential for endosome-to-Golgi retrograde protein transport; interacts with Ypt7p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003589]
+#>E	YJL053W.1	1.0	335898-337037
+X	335910	336986	1.0	VPS26	0	335910-336986	PF03643	http://pfam.sanger.ac.uk/family?acc=PF03643

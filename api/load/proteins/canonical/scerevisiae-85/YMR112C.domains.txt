@@ -1,0 +1,3 @@
+#>P	YMR112C	YMR112C	YMR112C	XIII	494103	494495	-1	Subunit of the RNA polymerase II mediator complex; associates with core polymerase subunits to form the RNA polymerase II holoenzyme; essential protein [Source:SGD;Acc:S000004718]
+#>E	YMR112C.1	1.0	494100-494495
+XIII	494121	494429	-1.0	Mediator_Med11	0	494121-494429	PF10280	http://pfam.sanger.ac.uk/family?acc=PF10280

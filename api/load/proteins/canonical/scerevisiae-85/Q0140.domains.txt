@@ -1,0 +1,3 @@
+#>P	Q0140	Q0140	Q0140	Mito	48901	50094	1	Mitochondrial ribosomal protein of the small subunit; mitochondrially-encoded; polymorphic in different strains due to variation in number of AAT (asparagine) codons; translated near the mitochondrial inner membrane; may have a role in loss of mitochondrial DNA under stress conditions [Source:SGD;Acc:S000007275]
+#>E	Q0140.1	1.0	48901-50097
+Mito	49000	50094	1.0	Ribosomal_VAR1	0	49000-50094	PF05316	http://pfam.sanger.ac.uk/family?acc=PF05316

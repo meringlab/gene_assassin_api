@@ -1,0 +1,5 @@
+#>P	WBGene00020140	T01B11.4	T01B11.4	IV	8459230	8460277	-1	Adenine Nucleotide Translocator  [Source:RefSeq peptide;Acc:NP_501440]
+#>E	T01B11.4.e3,T01B11.4.e2,T01B11.4.e1	1,1,1	8459227-8459596,8459642-8460203,8460268-8460277
+IV	8459512	8459835	-1	Mitochondrial_sb/sol_carrier	215.6	8459512-8459596,8459642-8459835	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IV	8459860	8460144	-1	Mitochondrial_sb/sol_carrier	215.6	8459860-8460144	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IV	8459233	8459499	-1	Mitochondrial_sb/sol_carrier	215.6	8459233-8459499	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

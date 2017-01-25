@@ -1,0 +1,4 @@
+#>P	YML087C	YML087C	YML087C	XIII	94434	95369	-1	Putative protein of unknown function, highly conserved across species; homolog of human CYB5R4; null mutant displays reduced frequency of mitochondrial genome loss; AIM33 has a paralog, PGA3, that arose from the whole genome duplication [Source:SGD;Acc:S000004552]
+#>E	YML087C.1	1.0	94431-95369
+XIII	94509	94826	-1.0	OxRdtase_FAD/NAD-bd	0	94509-94826	PF00175	http://pfam.sanger.ac.uk/family?acc=PF00175
+XIII	94854	95144	-1.0	OxRdtase_FAD-bd_dom	0	94854-95144	PF00970	http://pfam.sanger.ac.uk/family?acc=PF00970

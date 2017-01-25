@@ -1,0 +1,3 @@
+#>P	YER015W	YER015W	YER015W	V	184541	186772	1	Medium chain fatty acyl-CoA synthetase; activates imported fatty acids; accepts a wide range of fatty acid chain lengths with a preference for medium chains, C9:0-C13:0; localized to the peroxisome [Source:SGD;Acc:S000000817]
+#>E	YER015W.1	1.0	184541-186775
+V	185006	186409	1.0	AMP-dep_Synth/Lig	0	185006-186409	PF00501	http://pfam.sanger.ac.uk/family?acc=PF00501

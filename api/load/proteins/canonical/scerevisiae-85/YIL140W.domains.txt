@@ -1,0 +1,4 @@
+#>P	YIL140W	YIL140W	YIL140W	IX	85366	87834	1	Integral plasma membrane protein; required for axial budding in haploid cells; localizes to the incipient bud site and bud neck; glycosylated by Pmt4p; potential Cdc28p substrate [Source:SGD;Acc:S000001402]
+#>E	YIL140W.1	1.0	85366-87837
+IX	86848	86964	1.0	SKG6/AXL2_alpha-helix_TM	0	86848-86964	PF08693	http://pfam.sanger.ac.uk/family?acc=PF08693
+IX	85930	86052	1.0	He_PIG	0	85930-86052	PF05345	http://pfam.sanger.ac.uk/family?acc=PF05345

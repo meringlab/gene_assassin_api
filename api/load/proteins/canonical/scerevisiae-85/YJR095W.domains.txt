@@ -1,0 +1,5 @@
+#>P	YJR095W	YJR095W	YJR095W	X	609773	610738	1	Mitochondrial succinate-fumarate transporter; transports succinate into and fumarate out of the mitochondrion; required for ethanol and acetate utilization [Source:SGD;Acc:S000003856]
+#>E	YJR095W.1	1.0	609773-610741
+X	609797	610081	1.0	Mitochondrial_sb/sol_carrier	0	609797-610081	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+X	610409	610690	1.0	Mitochondrial_sb/sol_carrier	0	610409-610690	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+X	610100	610390	1.0	Mitochondrial_sb/sol_carrier	0	610100-610390	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

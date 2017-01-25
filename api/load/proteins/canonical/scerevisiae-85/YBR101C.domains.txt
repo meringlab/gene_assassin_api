@@ -1,0 +1,3 @@
+#>P	YBR101C	YBR101C	YBR101C	II	443824	444693	-1	Hsp70 (Ssa1p) nucleotide exchange factor; required for the release of misfolded proteins from the Hsp70 system to the Ub-proteasome machinery for destruction; cytosolic homolog of Sil1p, which is the nucleotide exchange factor for BiP (Kar2p) in the endoplasmic reticulum; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000000305]
+#>E	YBR101C.1	1.0	443821-444693
+II	444448	444693	-1.0	Nucleotide_exch_fac_Fes1	0	444448-444693	PF08609	http://pfam.sanger.ac.uk/family?acc=PF08609

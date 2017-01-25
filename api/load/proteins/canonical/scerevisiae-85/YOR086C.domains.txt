@@ -1,0 +1,6 @@
+#>P	YOR086C	YOR086C	YOR086C	XV	483222	486779	-1	Lipid-binding ER protein involved in ER-plasma membrane tethering; one of 6 proteins (Ist2p, Scs2p, Scs22p, Tcb1p, Tcb2p, Tcb3p) that connect ER to plasma membrane and regulate PI4P levels by controlling access of Sac1p phosphatase to its substrate PI4P in PM; contains 3 calcium and lipid binding domains; non-tagged protein also localizes to mitochondria; C-termini of Tcb1p, Tcb2p and Tcb3p interact; TCB1 has a paralog, TCB2, that arose from the whole genome duplication [Source:SGD;Acc:S000005612]
+#>E	YOR086C.1	1.0	483219-486779
+XV	483549	483800	-1.0	C2_Ca-dep	0	483549-483800	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
+XV	485370	485618	-1.0	C2_Ca-dep	0	485370-485618	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
+XV	484983	485150	-1.0	C2_Ca-dep	0	484983-485150	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
+XV	484560	484799	-1.0	C2_Ca-dep	0	484560-484799	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168

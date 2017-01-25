@@ -1,0 +1,3 @@
+#>P	YML024W	YML024W	YML024W	XIII	225889	226694	1	Ribosomal protein 51 (rp51) of the small (40s) subunit; homologous to mammalian ribosomal protein S17, no bacterial homolog; RPS17A has a paralog, RPS17B, that arose from the whole genome duplication [Source:SGD;Acc:S000004486]
+#>E	YML024W.1,YML024W.2	1,1	225889-225891,226290-226697
+XIII	225889	226646	1	Ribosomal_S17e	0	225889-225891,226290-226646	PF00833	http://pfam.sanger.ac.uk/family?acc=PF00833

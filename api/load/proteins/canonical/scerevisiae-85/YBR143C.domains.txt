@@ -1,0 +1,5 @@
+#>P	YBR143C	YBR143C	YBR143C	II	530872	532182	-1	Polypeptide release factor (eRF1) in translation termination; mutant form acts as a recessive omnipotent suppressor; methylated by Mtq2p-Trm112p in ternary complex eRF1-eRF3-GTP; mutation of methylation site confers resistance to zymocin; has a role in cytokinesis through interaction with Mlc1p [Source:SGD;Acc:S000000347]
+#>E	YBR143C.1	1.0	530869-532182
+II	531364	531759	-1.0	eRF1_2	0	531364-531759	PF03464	http://pfam.sanger.ac.uk/family?acc=PF03464
+II	531772	532170	-1.0	eRF1_1_Pelota	0	531772-532170	PF03463	http://pfam.sanger.ac.uk/family?acc=PF03463
+II	530947	531354	-1.0	eRF1_3	0	530947-531354	PF03465	http://pfam.sanger.ac.uk/family?acc=PF03465

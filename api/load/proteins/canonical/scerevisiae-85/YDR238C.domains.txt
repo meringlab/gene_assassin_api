@@ -1,0 +1,4 @@
+#>P	YDR238C	YDR238C	YDR238C	IV	937898	940816	-1	Essential beta-coat protein of the COPI coatomer; involved in ER-to-Golgi protein trafficking and maintenance of normal ER morphology; shares 43% sequence identity with mammalian beta-coat protein (beta-COP) [Source:SGD;Acc:S000002646]
+#>E	YDR238C.1	1.0	937895-940816
+IV	937937	938767	-1.0	Coatomer_bsu_C	0	937937-938767	PF07718	http://pfam.sanger.ac.uk/family?acc=PF07718
+IV	939194	940756	-1.0	Clathrin/coatomer_adapt-like_N	0	939194-940756	PF01602	http://pfam.sanger.ac.uk/family?acc=PF01602

@@ -1,0 +1,4 @@
+#>P	YGR240C	YGR240C	YGR240C	VII	970774	973734	-1	Alpha subunit of heterooctameric phosphofructokinase; involved in glycolysis, indispensable for anaerobic growth, activated by fructose-2,6-bisphosphate and AMP, mutation inhibits glucose induction of cell cycle-related genes [Source:SGD;Acc:S000003472]
+#>E	YGR240C.1	1.0	970771-973734
+VII	972187	973119	-1.0	Phosphofructokinase_dom	0	972187-973119	PF00365	http://pfam.sanger.ac.uk/family?acc=PF00365
+VII	971080	971952	-1.0	Phosphofructokinase_dom	0	971080-971952	PF00365	http://pfam.sanger.ac.uk/family?acc=PF00365

@@ -1,0 +1,4 @@
+#>P	YKR080W	YKR080W	YKR080W	XI	590395	591354	1	NAD-dependent 5,10-methylenetetrahydrafolate dehydrogenase; plays a catalytic role in oxidation of cytoplasmic one-carbon units; expression is regulated by Bas1p and Bas2p, repressed by adenine, and may be induced by inositol and choline [Source:SGD;Acc:S000001788]
+#>E	YKR080W.1	1.0	590395-591357
+XI	590416	590757	1.0	THF_DH/CycHdrlase_cat_dom	0	590416-590757	PF00763	http://pfam.sanger.ac.uk/family?acc=PF00763
+XI	590824	591021	1.0	THF_DH/CycHdrlase_NAD-bd_dom	0	590824-591021	PF02882	http://pfam.sanger.ac.uk/family?acc=PF02882

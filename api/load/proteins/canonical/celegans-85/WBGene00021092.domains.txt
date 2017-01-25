@@ -1,0 +1,4 @@
+#>P	WBGene00021092	W08F4.2	W08F4.2	II	587933	588923	1	F-box B protein  [Source:RefSeq peptide;Acc:NP_493764]
+#>E	W08F4.2.e1,W08F4.2.e2	1,1	587933-588015,588077-588926
+II	588525	588713	1	F-box-assoc_dom_typ2	48.3	588525-588713	PF07735	http://pfam.sanger.ac.uk/family?acc=PF07735
+II	587948	588131	1	F-box_dom	23.9	587948-588015,588077-588131	PF00646	http://pfam.sanger.ac.uk/family?acc=PF00646

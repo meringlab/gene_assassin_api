@@ -1,0 +1,3 @@
+#>P	YCL026C-A	YCL026C-A	YCL026C-A	III	74707	75285	-1	Type II nitroreductase, using NADH as reductant; mutants are defective in fatty acid mediated repression of genes involved in fatty acid biosynthesis indicative of a role in lipid signaling; involved in the oxidative stress response; transcription induction by cadmium and selenite indicates a possible role in the metal stress response; expression induced in cells treated with the mycotoxin patulin [Source:SGD;Acc:S000000589]
+#>E	YCL026C-A.1	1.0	74704-75285
+III	74767	75255	-1.0	Nitroreductase-like	28.3	74767-75255	PF00881	http://pfam.sanger.ac.uk/family?acc=PF00881

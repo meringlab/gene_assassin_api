@@ -1,0 +1,5 @@
+#>P	YLR148W	YLR148W	YLR148W	XII	434641	437394	1	Component of CORVET membrane tethering complex; vacuolar peripheral membrane protein that promotes vesicular docking/fusion reactions in conjunction with SNARE proteins, required for vacuolar biogenesis [Source:SGD;Acc:S000004138]
+#>E	YLR148W.1	1.0	434641-437397
+XII	436393	436857	1.0	Clathrin_H-chain/VPS_repeat	0	436393-436857	PF00637	http://pfam.sanger.ac.uk/family?acc=PF00637
+XII	435280	435777	1.0	Pep3_Vps18	0	435280-435777	PF05131	http://pfam.sanger.ac.uk/family?acc=PF05131
+XII	436882	437196	1.0	VPS39/TGF_beta_rcpt-assoc_2	0	436882-437196	PF10367	http://pfam.sanger.ac.uk/family?acc=PF10367

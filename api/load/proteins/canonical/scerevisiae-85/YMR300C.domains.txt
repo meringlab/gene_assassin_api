@@ -1,0 +1,4 @@
+#>P	YMR300C	YMR300C	YMR300C	XIII	865562	867091	-1	Phosphoribosylpyrophosphate amidotransferase (PRPPAT); catalyzes first step of the 'de novo' purine nucleotide biosynthetic pathway; also known as amidophosphoribosyltransferase [Source:SGD;Acc:S000004915]
+#>E	YMR300C.1	1.0	865559-867091
+XIII	866453	866899	-1.0	GATase_2	0	866453-866899	PF00310	http://pfam.sanger.ac.uk/family?acc=PF00310
+XIII	865889	866251	-1.0	PRibTrfase	0	865889-866251	PF00156	http://pfam.sanger.ac.uk/family?acc=PF00156

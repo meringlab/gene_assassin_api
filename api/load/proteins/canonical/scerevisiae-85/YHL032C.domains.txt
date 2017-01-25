@@ -1,0 +1,4 @@
+#>P	YHL032C	YHL032C	YHL032C	VIII	36382	38508	-1	Glycerol kinase; converts glycerol to glycerol-3-phosphate; glucose repression of expression is mediated by Adr1p and Ino2p-Ino4p; derepression of expression on non-fermentable carbon sources is mediated by Opi1p and Rsf1p [Source:SGD;Acc:S000001024]
+#>E	YHL032C.1	1.0	36379-38508
+VIII	36634	37305	-1.0	Carb_kinase_FGGY_C	0	36634-37305	PF02782	http://pfam.sanger.ac.uk/family?acc=PF02782
+VIII	37330	38082	-1.0	Carb_kinase_FGGY_N	0	37330-38082	PF00370	http://pfam.sanger.ac.uk/family?acc=PF00370

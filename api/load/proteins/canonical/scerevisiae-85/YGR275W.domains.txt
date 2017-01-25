@@ -1,0 +1,3 @@
+#>P	YGR275W	YGR275W	YGR275W	VII	1043276	1043746	1	Component of both the SWI/SNF and RSC chromatin remodeling complexes; suggested role in chromosome maintenance; possible weak regulator of Ty1 transposition; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003507]
+#>E	YGR275W.1	1.0	1043276-1043749
+VII	1043288	1043695	1.0	Tscrpt_reg_Rtt102p	0	1043288-1043695	PF09510	http://pfam.sanger.ac.uk/family?acc=PF09510

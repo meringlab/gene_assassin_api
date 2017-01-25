@@ -1,0 +1,4 @@
+#>P	YCL039W	YCL039W	YCL039W	III	52645	54879	1	Subunit of GID Complex that binds directly to central component Vid30p; GID complex is involved in proteasome-dependent catabolite inactivation of fructose-1,6-bisphosphatase; Gid7p contains six WD40 repeats; computational analysis suggests that Gid7p and Moh1p have similar functions [Source:SGD;Acc:S000000544]
+#>E	YCL039W.1	1.0	52645-54882
+III	54718	54867	1.0	WD40_repeat	23	54718-54867	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	54640	54705	1.0	WD40_repeat	14.7	54640-54705	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

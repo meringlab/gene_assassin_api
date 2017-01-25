@@ -1,0 +1,8 @@
+#>P	YBR233W	YBR233W	YBR233W	II	683428	684666	1	RNA binding protein; has similarity to mammalian heterogeneous nuclear RNP K protein, involved in the regulation of telomere position effect and telomere length; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000000437]
+#>E	YBR233W.1	1.0	683428-684669
+II	684448	684573	1.0	KH_type_1	0	684448-684573	PF13014	http://pfam.sanger.ac.uk/family?acc=PF13014
+II	683905	684030	1.0	KH_type_1	0	683905-684030	PF13014	http://pfam.sanger.ac.uk/family?acc=PF13014
+II	683656	683781	1.0	KH_type_1	0	683656-683781	PF13014	http://pfam.sanger.ac.uk/family?acc=PF13014
+II	684424	684609	1.0	KH_type_1	0	684424-684609	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013
+II	683878	684066	1.0	KH_type_1	0	683878-684066	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013
+II	683635	683817	1.0	KH_type_1	0	683635-683817	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013

@@ -1,0 +1,3 @@
+#>P	YHR083W	YHR083W	YHR083W	VIII	272627	273613	1	Component of the sorting and assembly machinery (SAM) complex; the SAM (or TOB) complex is located in the mitochondrial outer membrane; the complex binds precursors of beta-barrel proteins and facilitates their insertion into the outer membrane [Source:SGD;Acc:S000001125]
+#>E	YHR083W.1	1.0	272627-273616
+VIII	272639	273025	1.0	DUF2731	0	272639-273025	PF10806	http://pfam.sanger.ac.uk/family?acc=PF10806

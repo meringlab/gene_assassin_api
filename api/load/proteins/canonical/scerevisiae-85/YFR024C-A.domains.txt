@@ -1,0 +1,4 @@
+#>P	YFR024C-A	YFR024C-A	YFR024C-A	VI	201963	203433	-1	Protein containing a C-terminal SH3 domain; binds Las17p, which is a homolog of human Wiskott-Aldrich Syndrome protein involved in actin patch assembly and actin polymerization; protein abundance increases in response to DNA replication stress; LSB3 has a paralog, YSC84, that arose from the whole genome duplication [Source:SGD;Acc:S000002968]
+#>E	YFR024C-A.2,YFR024C-A.1	1,1	201960-203292,203387-203433
+VI	202701	203081	-1	Ysc84_actin-binding	0	202701-203081	PF04366	http://pfam.sanger.ac.uk/family?acc=PF04366
+VI	201981	202124	-1	SH3_domain	0	201981-202124	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018

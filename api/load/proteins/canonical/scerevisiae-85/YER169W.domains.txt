@@ -1,0 +1,5 @@
+#>P	YER169W	YER169W	YER169W	V	523369	525756	1	JmjC domain-containing histone demethylase; specifically demethylates H3K36 tri- and dimethyl modification states; associates with actively transcribed (RNAP II) regions in vivo and specifically targets H3K36 in its trimethylation state as its substrate; transcriptional repressor of PHR1; Rph1p phosphorylation during DNA damage is under control of the MEC1-RAD53 pathway; target of stess-induced hormesis; RPH1 has a paralog, GIS1, that arose from the whole genome duplication [Source:SGD;Acc:S000000971]
+#>E	YER169W.1	1.0	523369-525759
+V	525580	525645	1.0	Znf_C2H2	0	525580-525645	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+V	524032	524382	1.0	TF_JmjC_AAH	0	524032-524382	PF02373	http://pfam.sanger.ac.uk/family?acc=PF02373
+V	523411	523512	1.0	TF_JmjN	0	523411-523512	PF02375	http://pfam.sanger.ac.uk/family?acc=PF02375

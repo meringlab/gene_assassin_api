@@ -1,0 +1,4 @@
+#>P	YOR275C	YOR275C	YOR275C	XV	839087	841069	-1	Protein involved in proteolytic activation of Rim101p; part of response to alkaline pH; PalA/AIP1/Alix family member; interaction with the ESCRT-III subunit Snf7p suggests a relationship between pH response and multivesicular body formation [Source:SGD;Acc:S000005801]
+#>E	YOR275C.1	1.0	839084-841069
+XV	839993	841060	-1.0	BRO1_dom	0	839993-841060	PF03097	http://pfam.sanger.ac.uk/family?acc=PF03097
+XV	839123	839908	-1.0	ALIX_V_dom	0	839123-839908	PF13949	http://pfam.sanger.ac.uk/family?acc=PF13949

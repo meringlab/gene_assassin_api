@@ -1,0 +1,3 @@
+#>P	YDR449C	YDR449C	YDR449C	IV	1357583	1358902	-1	Nucleolar protein; component of the small subunit (SSU) processome containing the U3 snoRNA that is involved in processing of pre-18S rRNA [Source:SGD;Acc:S000002857]
+#>E	YDR449C.1	1.0	1357580-1358902
+IV	1358627	1358881	-1.0	U3_snoRNA_assoc-6	0	1358627-1358881	PF08640	http://pfam.sanger.ac.uk/family?acc=PF08640

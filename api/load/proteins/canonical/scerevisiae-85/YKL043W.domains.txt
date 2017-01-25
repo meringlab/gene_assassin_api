@@ -1,0 +1,3 @@
+#>P	YKL043W	YKL043W	YKL043W	XI	356748	357845	1	Transcriptional activator that enhances pseudohyphal growth; physically interacts with the Tup1-Cyc8 complex and recruits Tup1p to its targets; regulates expression of FLO11, an adhesin required for pseudohyphal filament formation; similar to StuA, an A. nidulans developmental regulator; potential Cdc28p substrate; PHD1 has a paralog, SOK2, that arose from the whole genome duplication [Source:SGD;Acc:S000001526]
+#>E	YKL043W.1	1.0	356748-357848
+XI	357369	357551	1.0	KilA_N/APSES_HTH	0	357369-357551	PF04383	http://pfam.sanger.ac.uk/family?acc=PF04383

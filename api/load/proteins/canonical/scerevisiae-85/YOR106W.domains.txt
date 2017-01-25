@@ -1,0 +1,3 @@
+#>P	YOR106W	YOR106W	YOR106W	XV	519121	519969	1	Syntaxin-like vacuolar t-SNARE; functions with Vam7p in vacuolar protein trafficking; mediates docking/fusion of late transport intermediates with the vacuole; has an acidic di-leucine sorting signal and C-terminal transmembrane region [Source:SGD;Acc:S000005632]
+#>E	YOR106W.1	1.0	519121-519972
+XV	519703	519891	1.0	T_SNARE_dom	0	519703-519891	PF05739	http://pfam.sanger.ac.uk/family?acc=PF05739

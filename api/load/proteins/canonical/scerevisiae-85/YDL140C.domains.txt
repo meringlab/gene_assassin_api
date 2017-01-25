@@ -1,0 +1,25 @@
+#>P	YDL140C	YDL140C	YDL140C	IV	205363	210561	-1	RNA polymerase II largest subunit B220; part of central core; phosphorylation of C-terminal heptapeptide repeat domain regulates association with transcription and splicing factors; similar to bacterial beta-prime [Source:SGD;Acc:S000002299]
+#>E	YDL140C.1	1.0	205360-210561
+IV	205684	205725	-1.0	RNA_pol_II_repeat_euk	0	205684-205725	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205852	205893	-1.0	RNA_pol_II_repeat_euk	0	205852-205893	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205600	205641	-1.0	RNA_pol_II_repeat_euk	0	205600-205641	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205831	205872	-1.0	RNA_pol_II_repeat_euk	0	205831-205872	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205810	205851	-1.0	RNA_pol_II_repeat_euk	0	205810-205851	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205642	205683	-1.0	RNA_pol_II_repeat_euk	0	205642-205683	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205558	205599	-1.0	RNA_pol_II_repeat_euk	0	205558-205599	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205873	205914	-1.0	RNA_pol_II_repeat_euk	0	205873-205914	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205432	205473	-1.0	RNA_pol_II_repeat_euk	0	205432-205473	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205516	205557	-1.0	RNA_pol_II_repeat_euk	0	205516-205557	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205726	205767	-1.0	RNA_pol_II_repeat_euk	0	205726-205767	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205474	205515	-1.0	RNA_pol_II_repeat_euk	0	205474-205515	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205894	205935	-1.0	RNA_pol_II_repeat_euk	0	205894-205935	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205915	205950	-1.0	RNA_pol_II_repeat_euk	0	205915-205950	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205936	205974	-1.0	RNA_pol_II_repeat_euk	0	205936-205974	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	205768	205809	-1.0	RNA_pol_II_repeat_euk	0	205768-205809	PF05001	http://pfam.sanger.ac.uk/family?acc=PF05001
+IV	209044	209538	-1.0	RNA_pol_asu	0	209044-209538	PF00623	http://pfam.sanger.ac.uk/family?acc=PF00623
+IV	208162	208479	-1.0	RNA_pol_Rpb1_4	0	208162-208479	PF05000	http://pfam.sanger.ac.uk/family?acc=PF05000
+IV	208555	209034	-1.0	RNA_pol_Rpb1_3	0	208555-209034	PF04983	http://pfam.sanger.ac.uk/family?acc=PF04983
+IV	206374	208143	-1.0	RNA_pol_Rpb1_5	0	206374-208143	PF04998	http://pfam.sanger.ac.uk/family?acc=PF04998
+IV	209542	210528	-1.0	RNA_pol_Rpb1_1	0	209542-210528	PF04997	http://pfam.sanger.ac.uk/family?acc=PF04997
+IV	206740	207141	-1.0	RNA_pol_Rpb1_7	0	206740-207141	PF04990	http://pfam.sanger.ac.uk/family?acc=PF04990
+IV	207394	207945	-1.0	RNA_pol_Rpb1_6	0	207394-207945	PF04992	http://pfam.sanger.ac.uk/family?acc=PF04992

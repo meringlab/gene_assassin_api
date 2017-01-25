@@ -1,0 +1,4 @@
+#>P	YBR297W	YBR297W	YBR297W	II	800523	801926	1	MAL-activator protein; part of complex locus MAL3; nonfunctional in genomic reference strain S288C [Source:SGD;Acc:S000000501]
+#>E	YBR297W.1	1.0	800523-801929
+II	800781	801461	1.0	Transcription_factor_fun	0	800781-801461	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082
+II	800538	800648	1.0	Zn2-C6_fun-type_DNA-bd	0	800538-800648	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

@@ -1,0 +1,3 @@
+#>P	YAL012W	YAL012W	YAL012W	I	130799	131980	1	Cystathionine gamma-lyase; catalyzes one of the two reactions involved in the transsulfuration pathway that yields cysteine from homocysteine with the intermediary formation of cystathionine; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000000010]
+#>E	YAL012W.1	1.0	130799-131983
+I	130826	131968	1.0	Cys/Met-Metab_PyrdxlP-dep_enz	0	130826-131968	PF01053	http://pfam.sanger.ac.uk/family?acc=PF01053

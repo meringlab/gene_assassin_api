@@ -1,0 +1,3 @@
+#>P	YDR309C	YDR309C	YDR309C	IV	1079051	1080199	-1	Redundant rho-like GTPase Cdc42p effector; involved in initiation of budding and cellular polarization; interacts with Cdc42p via the Cdc42/Rac-interactive binding (CRIB) domain and with PI(4,5)P2 via a polybasic region; GIC2 has a paralog, GIC1, that arose from the whole genome duplication [Source:SGD;Acc:S000002717]
+#>E	YDR309C.1	1.0	1079048-1080199
+IV	1079621	1079803	-1.0	PAK_box_Rho-bd	0	1079621-1079803	PF00786	http://pfam.sanger.ac.uk/family?acc=PF00786

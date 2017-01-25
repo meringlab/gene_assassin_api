@@ -1,0 +1,4 @@
+#>P	YDR280W	YDR280W	YDR280W	IV	1020747	1021661	1	Exosome non-catalytic core component; involved in 3'-5' RNA processing and degradation in both the nucleus and the cytoplasm; has similarity to E. coli RNase PH and to human hRrp45p (PM/SCL-75, EXOSC9); protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002688]
+#>E	YDR280W.1	1.0	1020747-1021664
+IV	1021317	1021556	1.0	ExoRNase_PH_dom2	0	1021317-1021556	PF03725	http://pfam.sanger.ac.uk/family?acc=PF03725
+IV	1020840	1021241	1.0	ExoRNase_PH_dom1	0	1020840-1021241	PF01138	http://pfam.sanger.ac.uk/family?acc=PF01138

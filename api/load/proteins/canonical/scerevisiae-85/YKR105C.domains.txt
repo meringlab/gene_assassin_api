@@ -1,0 +1,4 @@
+#>P	YKR105C	YKR105C	YKR105C	XI	658719	660464	-1	Plasma membrane protein of the Major Facilitator Superfamily (MFS); involved in amino acid uptake and drug sensitivity; VBA5 has a paralog, VBA3, that arose from a segmental duplication [Source:SGD;Acc:S000001813]
+#>E	YKR105C.1	1.0	658716-660464
+XI	659163	659507	-1.0	Sub_transporter	0	659163-659507	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083
+XI	659520	660335	-1.0	MFS	0	659520-660335	PF07690	http://pfam.sanger.ac.uk/family?acc=PF07690

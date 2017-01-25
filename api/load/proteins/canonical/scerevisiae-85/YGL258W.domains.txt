@@ -1,0 +1,3 @@
+#>P	YGL258W	YGL258W	YGL258W	VII	11110	11727	1	Protein of unknown function; highly induced in zinc-depleted conditions and has increased expression in NAP1 deletion mutants; VEL1 has a paralog, YOR387C, that arose from a single-locus duplication [Source:SGD;Acc:S000003227]
+#>E	YGL258W.1	1.0	11110-11730
+VII	11125	11724	1.0	Velum_formation_protein	0	11125-11724	PF10339	http://pfam.sanger.ac.uk/family?acc=PF10339

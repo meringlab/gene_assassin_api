@@ -1,0 +1,4 @@
+#>P	YMR275C	YMR275C	YMR275C	XIII	815654	818581	-1	Ubiquitin-binding component of the Rsp5p E3-ubiquitin ligase complex; disruption causes temperature-sensitive growth, overexpression causes missorting of amino acid permeases; BUL1 has a paralog, BUL2, that arose from the whole genome duplication [Source:SGD;Acc:S000004888]
+#>E	YMR275C.1	1.0	815651-818581
+XIII	816956	818239	-1.0	Bul1_N	0	816956-818239	PF04425	http://pfam.sanger.ac.uk/family?acc=PF04425
+XIII	815663	816514	-1.0	Bul1_C	0	815663-816514	PF04426	http://pfam.sanger.ac.uk/family?acc=PF04426

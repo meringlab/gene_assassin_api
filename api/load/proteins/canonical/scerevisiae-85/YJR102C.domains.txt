@@ -1,0 +1,3 @@
+#>P	YJR102C	YJR102C	YJR102C	X	619160	619765	-1	Component of the ESCRT-II complex; ESCRT-II is involved in ubiquitin-dependent sorting of proteins into the endosome [Source:SGD;Acc:S000003863]
+#>E	YJR102C.1	1.0	619157-619765
+X	619256	619747	-1.0	ESCRT-II_cplx_vps25-sub	0	619256-619747	PF05871	http://pfam.sanger.ac.uk/family?acc=PF05871

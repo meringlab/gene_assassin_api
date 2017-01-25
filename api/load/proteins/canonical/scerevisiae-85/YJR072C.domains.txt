@@ -1,0 +1,3 @@
+#>P	YJR072C	YJR072C	YJR072C	X	570970	572124	-1	Member of the conserved GPN-loop GTPase family; has a role in transport of RNA polymerase II to the nucleus; exhibits GTP-dependent binding to PolII; has ATPase activity; involved in sister chromatid cohesion; phosphorylated by the Pcl1p-Pho85p kinase complex; human homolog XAB1 interacts with human RNA polymerase II; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003833]
+#>E	YJR072C.1	1.0	570967-572124
+X	571354	572103	-1.0	Uncharacterised_ATP-bd	286.5	571354-572103	PF03029	http://pfam.sanger.ac.uk/family?acc=PF03029

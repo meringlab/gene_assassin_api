@@ -1,0 +1,4 @@
+#>P	YDR226W	YDR226W	YDR226W	IV	916486	917151	1	Adenylate kinase, required for purine metabolism; localized to the cytoplasm and the mitochondria; lacks cleavable signal sequence; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002634]
+#>E	YDR226W.1	1.0	916486-917154
+IV	916516	917076	1.0	Adenylate_kin	203.2	916516-917076	PF00406	http://pfam.sanger.ac.uk/family?acc=PF00406
+IV	916885	916992	1.0	Adenylate_kinase_lid-dom	51.3	916885-916992	PF05191	http://pfam.sanger.ac.uk/family?acc=PF05191

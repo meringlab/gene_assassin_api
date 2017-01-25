@@ -1,0 +1,3 @@
+#>P	YKL002W	YKL002W	YKL002W	XI	437778	438541	1	Class E Vps protein of the ESCRT-III complex; required for sorting of integral membrane proteins into lumenal vesicles of multivesicular bodies, and for delivery of newly synthesized vacuolar enzymes to the vacuole, involved in endocytosis [Source:SGD;Acc:S000001485]
+#>E	YKL002W.1,YKL002W.2	1,1	437778-437837,437906-438544
+XI	437906	438412	1	Snf7	0	437906-438412	PF03357	http://pfam.sanger.ac.uk/family?acc=PF03357

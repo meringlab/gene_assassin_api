@@ -1,0 +1,4 @@
+#>P	YDL003W	YDL003W	YDL003W	IV	444683	446380	1	Essential alpha-kleisin subunit of the cohesin complex; required for sister chromatid cohesion in mitosis and meiosis; apoptosis induces cleavage and translocation of a C-terminal fragment to mitochondria; expression peaks in S phase [Source:SGD;Acc:S000002161]
+#>E	YDL003W.1	1.0	444683-446383
+IV	446198	446359	1.0	Rad21/Rec8_C_eu	0	446198-446359	PF04824	http://pfam.sanger.ac.uk/family?acc=PF04824
+IV	444722	445015	1.0	Rad21_Rec8_N	0	444722-445015	PF04825	http://pfam.sanger.ac.uk/family?acc=PF04825

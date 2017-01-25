@@ -1,0 +1,3 @@
+#>P	YER065C	YER065C	YER065C	V	285244	286914	-1	Isocitrate lyase; catalyzes the formation of succinate and glyoxylate from isocitrate, a key reaction of the glyoxylate cycle; expression of ICL1 is induced by growth on ethanol and repressed by growth on glucose [Source:SGD;Acc:S000000867]
+#>E	YER065C.1	1.0	285241-286914
+V	285265	286848	-1.0	Isocitrate_lyase/Pmutase	0	285265-286848	PF00463	http://pfam.sanger.ac.uk/family?acc=PF00463

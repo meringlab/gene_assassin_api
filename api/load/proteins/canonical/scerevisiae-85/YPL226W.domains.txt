@@ -1,0 +1,5 @@
+#>P	YPL226W	YPL226W	YPL226W	XVI	121767	125354	1	ATP binding cassette protein; cosediments with polysomes and is required for biogenesis of the small ribosomal subunit; Asn/Gln-rich rich region supports [NU+] prion formation and susceptibility to [PSI+] prion induction [Source:SGD;Acc:S000006147]
+#>E	YPL226W.1	1.0	121767-125357
+XVI	124593	124748	1.0	Chromo_domain	0	124593-124748	PF00385	http://pfam.sanger.ac.uk/family?acc=PF00385
+XVI	123690	123914	1.0	ABC_transporter-like	0	123690-123914	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XVI	124323	124949	1.0	ABC_transporter-like	0	124323-124949	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

@@ -1,0 +1,4 @@
+#>P	YPR029C	YPR029C	YPR029C	XVI	624472	626967	-1	Gamma-adaptin; large subunit of the clathrin-associated protein (AP-1) complex; binds clathrin; involved in vesicle mediated transport [Source:SGD;Acc:S000006233]
+#>E	YPR029C.1	1.0	624469-626967
+XVI	624490	624792	-1.0	Clathrin_a/b/g-adaptin_app_Ig	0	624490-624792	PF02883	http://pfam.sanger.ac.uk/family?acc=PF02883
+XVI	625117	626907	-1.0	Clathrin/coatomer_adapt-like_N	0	625117-626907	PF01602	http://pfam.sanger.ac.uk/family?acc=PF01602

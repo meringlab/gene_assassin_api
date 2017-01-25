@@ -1,0 +1,3 @@
+#>P	YNL201C	YNL201C	YNL201C	XIV	260630	263203	-1	Subunit of protein phosphatase PP4 complex; Pph3p and Psy2p form the active complex, Psy4p may provide additional substrate specificity; regulates recovery from the DNA damage checkpoint, the gene conversion- and single-strand annealing-mediated pathways of meiotic double-strand break repair and efficient Non-Homologous End-Joining (NHEJ) pathway; Pph3p and Psy2p localize to foci on meiotic chromosomes; putative homolog of mammalian R3 [Source:SGD;Acc:S000005145]
+#>E	YNL201C.1	1.0	260627-263203
+XIV	262028	262630	-1.0	DUF625	0	262028-262630	PF04802	http://pfam.sanger.ac.uk/family?acc=PF04802

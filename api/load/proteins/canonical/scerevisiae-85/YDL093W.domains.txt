@@ -1,0 +1,4 @@
+#>P	YDL093W	YDL093W	YDL093W	IV	289909	292137	1	Protein O-mannosyltransferase; transfers mannose residues from dolichyl phosphate-D-mannose to protein serine/threonine residues; acts in a complex with Pmt3p, can instead interact with Pmt2p in some conditions; target for new antifungals [Source:SGD;Acc:S000002251]
+#>E	YDL093W.1	1.0	289909-292140
+IV	290923	291447	1.0	MIR_motif	0	290923-291447	PF02815	http://pfam.sanger.ac.uk/family?acc=PF02815
+IV	290059	290787	1.0	Glyco_trans_39	0	290059-290787	PF02366	http://pfam.sanger.ac.uk/family?acc=PF02366

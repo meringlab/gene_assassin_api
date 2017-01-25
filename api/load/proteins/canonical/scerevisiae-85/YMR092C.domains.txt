@@ -1,0 +1,7 @@
+#>P	YMR092C	YMR092C	YMR092C	XIII	451635	453479	-1	Actin cortical patch component; interacts with the actin depolymerizing factor cofilin; inhibits elongation of aged ADP-actin filaments decorated with cofilin to maintain a high level of assembly-competent actin species; required to restrict cofilin localization to cortical patches; putative regulator of cytokinesis; contains WD repeats; protein increases in abundance and relocalizes from cytoplasm to plasma membrane upon DNA replication stress [Source:SGD;Acc:S000004698]
+#>E	YMR092C.1	1.0	451632-453479
+XIII	452640	452720	-1.0	WD40_repeat	0	452640-452720	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	451647	451754	-1.0	WD40_repeat	0	451647-451754	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	452775	452861	-1.0	WD40_repeat	0	452775-452861	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	451773	451892	-1.0	WD40_repeat	0	451773-451892	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	453201	453302	-1.0	WD40_repeat	0	453201-453302	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

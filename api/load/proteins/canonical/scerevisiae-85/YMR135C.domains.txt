@@ -1,0 +1,3 @@
+#>P	YMR135C	YMR135C	YMR135C	XIII	538692	540056	-1	Subunit of GID Complex, binds strongly to central component Vid30p; GID Complex is involved in proteasome-dependent catabolite inactivation of fructose-1,6-bisphosphatase; recruits Rmd5p, Fyv10 and Vid28p to GID Complex; contains LisH, CTLH, and CRA domains that mediate binding to Vid30p (LisH) and Rmd5p and Vid28p (CTLH and CRA); dosage-dependent regulator of START [Source:SGD;Acc:S000004742]
+#>E	YMR135C.1	1.0	538689-540056
+XIII	539163	539669	-1.0	CTLH/CRA	0	539163-539669	PF10607	http://pfam.sanger.ac.uk/family?acc=PF10607

@@ -1,0 +1,4 @@
+#>P	YGL181W	YGL181W	YGL181W	VII	157906	159093	1	Protein involved in Arf3p regulation and in transcription regulation; localizes to the nucleus and to endocytic patches; contains an N-terminal Zn-finger and ArfGAP homology domain, a C-terminal glutamine-rich region, and a UBA (ubiquitin associated) domain; gts1 mutations affect budding, cell size, heat tolerance, sporulation, life span, ultradian rhythms, endocytosis; expression oscillates in a pattern similar to metabolic oscillations [Source:SGD;Acc:S000003149]
+#>E	YGL181W.1	1.0	157906-159096
+VII	157948	158304	1.0	ArfGAP	0	157948-158304	PF01412	http://pfam.sanger.ac.uk/family?acc=PF01412
+VII	158488	158598	1.0	UBA/transl_elong_EF1B_N	0	158488-158598	PF00627	http://pfam.sanger.ac.uk/family?acc=PF00627

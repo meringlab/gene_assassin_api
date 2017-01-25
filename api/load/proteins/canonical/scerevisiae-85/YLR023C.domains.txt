@@ -1,0 +1,3 @@
+#>P	YLR023C	YLR023C	YLR023C	XII	185501	187129	-1	Membrane protein involved in zinc ion homeostasis; member of the four-protein IZH family, expression induced by zinc deficiency; deletion reduces sensitivity to elevated zinc and shortens lag phase, overexpression reduces Zap1p activity [Source:SGD;Acc:S000004013]
+#>E	YLR023C.1	1.0	185498-187129
+XII	185543	186376	-1.0	HlyIII-related	0	185543-186376	PF03006	http://pfam.sanger.ac.uk/family?acc=PF03006

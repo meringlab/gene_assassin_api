@@ -1,0 +1,4 @@
+#>P	YOL138C	YOL138C	YOL138C	XV	61328	65350	-1	Subunit of the SEA (Seh1-associated) complex; SEA is a coatomer-related complex that associates dynamically with the vacuole; null mutation suppresses cdc13-1 temperature sensitivity; has N-terminal WD-40 repeats and a C-terminal RING motif [Source:SGD;Acc:S000005498]
+#>E	YOL138C.1	1.0	61325-65350
+XV	64163	64264	-1.0	WD40_repeat	0	64163-64264	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	64490	64600	-1.0	WD40_repeat	0	64490-64600	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

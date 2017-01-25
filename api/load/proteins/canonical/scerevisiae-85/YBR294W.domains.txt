@@ -1,0 +1,4 @@
+#>P	YBR294W	YBR294W	YBR294W	II	789235	791811	1	High affinity sulfate permease of the SulP anion transporter family; sulfate uptake is mediated by specific sulfate transporters Sul1p and Sul2p, which control the concentration of endogenous activated sulfate intermediates [Source:SGD;Acc:S000000498]
+#>E	YBR294W.1	1.0	789235-791814
+II	789901	790803	1.0	Sulph_transpt	0	789901-790803	PF00916	http://pfam.sanger.ac.uk/family?acc=PF00916
+II	791143	791556	1.0	SO4_transptr/STAS	0	791143-791556	PF01740	http://pfam.sanger.ac.uk/family?acc=PF01740

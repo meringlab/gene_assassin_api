@@ -1,0 +1,3 @@
+#>P	YGL053W	YGL053W	YGL053W	VII	402589	403299	1	Pheromone-regulated protein; contains with 2 predicted transmembrane segments and an FF sequence, a motif involved in COPII binding; forms a complex with Prp9p in the ER; member of DUP240 gene family; PRM8 has a paralog, PRM9, that arose from a segmental duplication [Source:SGD;Acc:S000003021]
+#>E	YGL053W.1	1.0	402589-403302
+VII	402784	403101	1.0	DUP	0	402784-403101	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674

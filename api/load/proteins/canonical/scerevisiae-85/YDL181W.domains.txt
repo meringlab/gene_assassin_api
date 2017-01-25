@@ -1,0 +1,3 @@
+#>P	YDL181W	YDL181W	YDL181W	IV	135179	135433	1	Protein that inhibits ATP hydrolysis by the F1F0-ATP synthase; inhibitory function is enhanced by stabilizing proteins Stf1p and Stf2p; has a calmodulin-binding motif and binds calmodulin in vitro; INH1 has a paralog, STF1, that arose from the whole genome duplication [Source:SGD;Acc:S000002340]
+#>E	YDL181W.1	1.0	135179-135436
+IV	135203	135421	1.0	ATPase_inhibitor_IATP_mt	0	135203-135421	PF04568	http://pfam.sanger.ac.uk/family?acc=PF04568

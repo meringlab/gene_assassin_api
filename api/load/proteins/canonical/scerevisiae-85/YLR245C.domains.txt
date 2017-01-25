@@ -1,0 +1,3 @@
+#>P	YLR245C	YLR245C	YLR245C	XII	626505	626930	-1	Cytidine deaminase; catalyzes the modification of cytidine to uridine in vitro but native RNA substrates have not been identified, localizes to both the nucleus and cytoplasm [Source:SGD;Acc:S000004235]
+#>E	YLR245C.1	1.0	626502-626930
+XII	626589	626903	-1.0	CMP_dCMP_Zn-bd	0	626589-626903	PF00383	http://pfam.sanger.ac.uk/family?acc=PF00383

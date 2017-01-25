@@ -1,0 +1,3 @@
+#>P	YCL017C	YCL017C	YCL017C	III	92780	94270	-1	Cysteine desulfurase; involved in iron-sulfur cluster (Fe/S) biogenesis and in thio-modification of mitochondrial and cytoplasmic tRNAs; essential protein located predominantly in mitochondria [Source:SGD;Acc:S000000522]
+#>E	YCL017C.1	1.0	92777-94270
+III	92885	93973	-1.0	Aminotrans_V/Cys_dSase	0	92885-93973	PF00266	http://pfam.sanger.ac.uk/family?acc=PF00266

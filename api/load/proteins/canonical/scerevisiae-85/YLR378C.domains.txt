@@ -1,0 +1,4 @@
+#>P	YLR378C	YLR378C	YLR378C	XII	875739	877178	-1	Conserved ER protein translocation channel; essential subunit of Sec61 complex (Sec61p, Sbh1p, and Sss1p); forms channel for SRP-dependent protein import; with Sec63 complex allows SRP-independent protein import into ER; involved in posttranslational soluble protein import into the ER, ERAD of soluble substrates, and misfolded soluble protein export from the ER [Source:SGD;Acc:S000004370]
+#>E	YLR378C.1	1.0	875736-877178
+XII	876954	877058	-1.0	Translocon_Sec61/SecY_plug_dom	0	876954-877058	PF10559	http://pfam.sanger.ac.uk/family?acc=PF10559
+XII	875799	876953	-1.0	SecY	0	875799-876953	PF00344	http://pfam.sanger.ac.uk/family?acc=PF00344

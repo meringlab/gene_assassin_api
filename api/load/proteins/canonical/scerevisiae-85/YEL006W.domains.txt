@@ -1,0 +1,5 @@
+#>P	YEL006W	YEL006W	YEL006W	V	144327	145331	1	Putative mitochondrial NAD+ transporter; member of the mitochondrial carrier subfamily (see also YIA6); has putative human ortholog; YEA6 has a paralog, YIA6, that arose from the whole genome duplication [Source:SGD;Acc:S000000732]
+#>E	YEL006W.1	1.0	144327-145334
+V	145047	145319	1.0	Mitochondrial_sb/sol_carrier	0	145047-145319	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+V	144732	145004	1.0	Mitochondrial_sb/sol_carrier	0	144732-145004	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+V	144447	144710	1.0	Mitochondrial_sb/sol_carrier	0	144447-144710	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

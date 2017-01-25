@@ -1,0 +1,3 @@
+#>P	YDR499W	YDR499W	YDR499W	IV	1447830	1450070	1	Essential protein required for the DNA integrity checkpoint pathways; interacts physically with Mec1p; putative homolog of S. pombe Rad26 and human ATRIP; forms nuclear foci upon DNA replication stress [Source:SGD;Acc:S000002907]
+#>E	YDR499W.1	1.0	1447830-1450073
+IV	1448058	1450064	1.0	DNA_damage_chkpnt_Lcd1	0	1448058-1450064	PF09798	http://pfam.sanger.ac.uk/family?acc=PF09798

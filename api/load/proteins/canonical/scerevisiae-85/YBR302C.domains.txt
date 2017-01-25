@@ -1,0 +1,4 @@
+#>P	YBR302C	YBR302C	YBR302C	II	810343	811479	-1	Protein of unknown function; member of the DUP380 subfamily of conserved, often subtelomerically-encoded proteins [Source:SGD;Acc:S000000506]
+#>E	YBR302C.1	1.0	810340-811479
+II	810424	810744	-1.0	DUP	0	810424-810744	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674
+II	810979	811284	-1.0	DUP	0	810979-811284	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674

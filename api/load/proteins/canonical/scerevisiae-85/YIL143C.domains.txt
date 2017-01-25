@@ -1,0 +1,4 @@
+#>P	YIL143C	YIL143C	YIL143C	IX	80513	83041	-1	Component of RNA polymerase transcription factor TFIIH holoenzyme; has DNA-dependent ATPase/helicase activity and is required, with Rad3p, for unwinding promoter DNA; interacts functionally with TFIIB and has roles in transcription start site selection and in gene looping to juxtapose initiation and termination regions; involved in DNA repair; relocalizes to the cytosol in response to hypoxia; homolog of human ERCC3 [Source:SGD;Acc:S000001405]
+#>E	YIL143C.1	1.0	80510-83041
+IX	81491	81961	-1.0	Helicase/UvrB_dom	0	81491-81961	PF04851	http://pfam.sanger.ac.uk/family?acc=PF04851
+IX	80960	81166	-1.0	Helicase_C	0	80960-81166	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

@@ -1,0 +1,5 @@
+#>P	YPR026W	YPR026W	YPR026W	XVI	615379	619011	1	Acid trehalase required for utilization of extracellular trehalose; involved in intracellular trehalose degradation during growth recovery after saline stress [Source:SGD;Acc:S000006230]
+#>E	YPR026W.1	1.0	615379-619014
+XVI	616798	617871	1.0	Glyco_hydro_65_M	0	616798-617871	PF03632	http://pfam.sanger.ac.uk/family?acc=PF03632
+XVI	615775	616623	1.0	Glyco_hydro_65_N	0	615775-616623	PF03636	http://pfam.sanger.ac.uk/family?acc=PF03636
+XVI	617923	618090	1.0	Glyco_hydro_65_C	0	617923-618090	PF03633	http://pfam.sanger.ac.uk/family?acc=PF03633

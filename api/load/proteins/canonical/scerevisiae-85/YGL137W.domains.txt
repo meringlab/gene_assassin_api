@@ -1,0 +1,7 @@
+#>P	YGL137W	YGL137W	YGL137W	VII	249869	252735	1	Essential beta'-coat protein of the COPI coatomer; involved in ER-to-Golgi and Golgi-to-ER transport; contains WD40 domains that mediate cargo selective interactions; 45% sequence identity to mammalian beta'-COP [Source:SGD;Acc:S000003105]
+#>E	YGL137W.1,YGL137W.2	1,1	249869-249886,250087-252738
+VII	251044	252399	1	Coatomer_WD-assoc_reg	0	251044-252399	PF04053	http://pfam.sanger.ac.uk/family?acc=PF04053
+VII	250465	250575	1	WD40_repeat	0	250465-250575	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	250330	250443	1	WD40_repeat	0	250330-250443	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	250723	250836	1	WD40_repeat	0	250723-250836	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	250612	250710	1	WD40_repeat	0	250612-250710	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

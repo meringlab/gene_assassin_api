@@ -1,0 +1,4 @@
+#>P	YDL051W	YDL051W	YDL051W	IV	363952	364776	1	RNA binding protein required for maturation of tRNA and U6 snRNA; acts as a molecular chaperone for RNAs transcribed by polymerase III; homologous to human La (SS-B) autoantigen [Source:SGD;Acc:S000002209]
+#>E	YDL051W.1	1.0	363952-364779
+IV	364381	364533	1.0	RRM_dom	0	364381-364533	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+IV	364051	364221	1.0	Lupus_La_RNA-bd	0	364051-364221	PF05383	http://pfam.sanger.ac.uk/family?acc=PF05383

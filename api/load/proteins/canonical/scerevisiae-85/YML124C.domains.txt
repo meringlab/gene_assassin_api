@@ -1,0 +1,4 @@
+#>P	YML124C	YML124C	YML124C	XIII	22051	23683	-1	Alpha-tubulin; associates with beta-tubulin (Tub2p) to form tubulin dimer, which polymerizes to form microtubules; expressed at lower level than Tub1p; TUB3 has a paralog, TUB1, that arose from the whole genome duplication [Source:SGD;Acc:S000004593]
+#>E	YML124C.2,YML124C.1	1,1	22048-23360,23659-23683
+XIII	22207	22596	-1	Tubulin/FtsZ_2-layer-sand-dom	0	22207-22596	PF03953	http://pfam.sanger.ac.uk/family?acc=PF03953
+XIII	22708	23677	-1	Tubulin_FtsZ_GTPase	0	22708-23360,23659-23677	PF00091	http://pfam.sanger.ac.uk/family?acc=PF00091

@@ -1,0 +1,4 @@
+#>P	YNL007C	YNL007C	YNL007C	XIV	618510	619565	-1	Type II HSP40 co-chaperone that interacts with the HSP70 protein Ssa1p; shuttles between cytosol and nucleus; mediates delivery of misfolded proteins into the nucleus for degradation; involved in proteasomal degradation of misfolded cytosolic proteins; protein abundance increases in response to DNA replication stress; polyQ aggregates sequester Sis1p and interfere with clearance of misfolded proteins; similar to bacterial DnaJ proteins and mammalian DnaJB1 [Source:SGD;Acc:S000004952]
+#>E	YNL007C.1	1.0	618507-619565
+XIV	619371	619547	-1.0	DnaJ_N	0	619371-619547	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226
+XIV	618528	618767	-1.0	DnaJ_C	0	618528-618767	PF01556	http://pfam.sanger.ac.uk/family?acc=PF01556

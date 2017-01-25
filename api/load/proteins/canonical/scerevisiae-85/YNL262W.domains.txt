@@ -1,0 +1,5 @@
+#>P	YNL262W	YNL262W	YNL262W	XIV	148212	154877	1	Catalytic subunit of DNA polymerase (II) epsilon; a chromosomal DNA replication polymerase that exhibits processivity and proofreading exonuclease activity; participates in leading-strand synthesis during DNA replication; also involved in DNA synthesis during DNA repair; interacts extensively with Mrc1p [Source:SGD;Acc:S000005206]
+#>E	YNL262W.1	1.0	148212-154880
+XIV	148578	149537	1.0	DNA-dir_DNA_pol_B_exonuc	0	148578-149537	PF03104	http://pfam.sanger.ac.uk/family?acc=PF03104
+XIV	150123	151502	1.0	DNA-dir_DNA_pol_B_multi_dom	0	150123-151502	PF00136	http://pfam.sanger.ac.uk/family?acc=PF00136
+XIV	152793	153968	1.0	DNA_pol_e_suA_C	0	152793-153968	PF08490	http://pfam.sanger.ac.uk/family?acc=PF08490

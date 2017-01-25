@@ -1,0 +1,4 @@
+#>P	YOR204W	YOR204W	YOR204W	XV	722911	724722	1	ATP-dependent DEAD (Asp-Glu-Ala-Asp)-box RNA helicase; required for translation initiation of all yeast mRNAs; binds to mRNA cap-associated factors, and binding stimulates Ded1p RNA-dependent ATPase activity; mutation in human homolog DBY is associated with male infertility; human homolog DDX3X complements ded1 null mutation; DED1 has a paralog, DBP1, that arose from the whole genome duplication [Source:SGD;Acc:S000005730]
+#>E	YOR204W.1	1.0	722911-724725
+XV	723406	723960	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	723406-723960	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+XV	724162	724392	1.0	Helicase_C	0	724162-724392	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

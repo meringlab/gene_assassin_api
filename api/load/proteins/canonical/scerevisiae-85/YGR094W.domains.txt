@@ -1,0 +1,4 @@
+#>P	YGR094W	YGR094W	YGR094W	VII	672186	675497	1	Mitochondrial and cytoplasmic valyl-tRNA synthetase [Source:SGD;Acc:S000003326]
+#>E	YGR094W.1	1.0	672186-675500
+VII	672654	674525	1.0	aa-tRNA-synth_Ia	0	672654-674525	PF00133	http://pfam.sanger.ac.uk/family?acc=PF00133
+VII	674658	675101	1.0	V/L/I-tRNA-synth_anticodon-bd	0	674658-675101	PF08264	http://pfam.sanger.ac.uk/family?acc=PF08264

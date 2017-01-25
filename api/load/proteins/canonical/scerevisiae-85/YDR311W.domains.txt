@@ -1,0 +1,5 @@
+#>P	YDR311W	YDR311W	YDR311W	IV	1085065	1086990	1	Subunit of TFIIH and nucleotide excision repair factor 3 complexes; required for nucleotide excision repair, target for transcriptional activators; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000002719]
+#>E	YDR311W.1	1.0	1085065-1086993
+IV	1085578	1085745	1.0	BSD	0	1085578-1085745	PF03909	http://pfam.sanger.ac.uk/family?acc=PF03909
+IV	1085788	1085964	1.0	BSD	0	1085788-1085964	PF03909	http://pfam.sanger.ac.uk/family?acc=PF03909
+IV	1085065	1085277	1.0	TFIIH_BTF_p62_N	0	1085065-1085277	PF08567	http://pfam.sanger.ac.uk/family?acc=PF08567

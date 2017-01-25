@@ -1,0 +1,5 @@
+#>P	YGL116W	YGL116W	YGL116W	VII	289809	291638	1	Activator of anaphase-promoting complex/cyclosome (APC/C); APC/C is required for metaphase/anaphase transition; directs ubiquitination of mitotic cyclins, Pds1p, and other anaphase inhibitors; cell-cycle regulated; potential Cdc28p substrate; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000003084]
+#>E	YGL116W.1	1.0	289809-291641
+VII	291078	291182	1.0	WD40_repeat	20.6	291078-291182	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	290940	291047	1.0	WD40_repeat	29.5	290940-291047	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	291366	291464	1.0	WD40_repeat	15.5	291366-291464	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

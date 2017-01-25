@@ -1,0 +1,3 @@
+#>P	YER179W	YER179W	YER179W	V	548421	549514	1	Meiosis-specific recombinase required for repair of double-strand breaks; also required for pairing between homologous chromosomes; homolog of Rad51p and the bacterial RecA protein; binds ssDNA and dsDNA, forms helical filaments; stimulated by Rdh54p [Source:SGD;Acc:S000000981]
+#>E	YER179W.1,YER179W.2	1,1	548421-548552,548645-549517
+V	548729	549508	1	DNA_recomb/repair_Rad51_C	0	548729-549508	PF08423	http://pfam.sanger.ac.uk/family?acc=PF08423

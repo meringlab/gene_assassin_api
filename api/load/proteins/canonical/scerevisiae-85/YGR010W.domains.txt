@@ -1,0 +1,3 @@
+#>P	YGR010W	YGR010W	YGR010W	VII	511545	512729	1	Nicotinic acid mononucleotide adenylyltransferase; catalyzes the transfer of the adenylyl moiety of ATP to nicotinamide mononucleotide to form NAD; involved in de novo and salvage synthesis of NAD(+); homolog of human NMNAT; NMA2 has a paralog, NMA1, that arose from the whole genome duplication [Source:SGD;Acc:S000003242]
+#>E	YGR010W.1	1.0	511545-512732
+VII	512031	512603	1.0	Cytidylyltransf	122.3	512031-512603	PF01467	http://pfam.sanger.ac.uk/family?acc=PF01467

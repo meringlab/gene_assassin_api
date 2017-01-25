@@ -1,0 +1,3 @@
+#>P	YKL060C	YKL060C	YKL060C	XI	326411	327487	-1	Fructose 1,6-bisphosphate aldolase; required for glycolysis and gluconeogenesis; catalyzes conversion of fructose 1,6 bisphosphate to glyceraldehyde-3-P and dihydroxyacetone-P; locates to mitochondrial outer surface upon oxidative stress; N-terminally propionylated in vivo [Source:SGD;Acc:S000001543]
+#>E	YKL060C.1	1.0	326408-327487
+XI	326417	327439	-1.0	Ketose_bisP_aldolase_II	0	326417-327439	PF01116	http://pfam.sanger.ac.uk/family?acc=PF01116

@@ -1,0 +1,4 @@
+#>P	YPR145W	YPR145W	YPR145W	XVI	822620	824335	1	Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN1 has a paralog, ASN2, that arose from the whole genome duplication [Source:SGD;Acc:S000006349]
+#>E	YPR145W.1	1.0	822620-824338
+XVI	822758	823117	1.0	GATase_2	0	822758-823117	PF13537	http://pfam.sanger.ac.uk/family?acc=PF13537
+XVI	823253	824056	1.0	Asn_synthase	0	823253-824056	PF00733	http://pfam.sanger.ac.uk/family?acc=PF00733

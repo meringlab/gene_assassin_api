@@ -1,0 +1,9 @@
+#>P	YBR208C	YBR208C	YBR208C	II	636706	642210	-1	Urea amidolyase; contains both urea carboxylase and allophanate hydrolase activities, degrades urea to CO2 and NH3; expression sensitive to nitrogen catabolite repression and induced by allophanate, an intermediate in allantoin degradation; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000000412]
+#>E	YBR208C.1	1.0	636703-642210
+II	636718	636900	-1.0	Biotin_lipoyl	0	636718-636900	PF00364	http://pfam.sanger.ac.uk/family?acc=PF00364
+II	639364	639972	-1.0	CarbamoylP_synth_lsu_ATP-bd	0	639364-639972	PF02786	http://pfam.sanger.ac.uk/family?acc=PF02786
+II	639001	639312	-1.0	Biotin_COase_C	0	639001-639312	PF02785	http://pfam.sanger.ac.uk/family?acc=PF02785
+II	639988	640314	-1.0	CarbamoylP_synth_lsu_N	0	639988-640314	PF00289	http://pfam.sanger.ac.uk/family?acc=PF00289
+II	640864	642108	-1.0	Amidase	0	640864-642108	PF01425	http://pfam.sanger.ac.uk/family?acc=PF01425
+II	638056	638907	-1.0	Allophan_hydro_2	0	638056-638907	PF02626	http://pfam.sanger.ac.uk/family?acc=PF02626
+II	637252	637899	-1.0	Allophan_hydro_1	0	637252-637899	PF02682	http://pfam.sanger.ac.uk/family?acc=PF02682

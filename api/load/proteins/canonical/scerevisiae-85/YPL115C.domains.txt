@@ -1,0 +1,5 @@
+#>P	YPL115C	YPL115C	YPL115C	XVI	332103	335486	-1	Rho GTPase activating protein (RhoGAP); involved in control of the cytoskeleton organization; targets the essential Rho-GTPase Cdc42p, which controls establishment and maintenance of cell polarity, including bud-site assembly [Source:SGD;Acc:S000006036]
+#>E	YPL115C.1	1.0	332100-335486
+XVI	333276	333581	-1.0	Pleckstrin_homology	0	333276-333581	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169
+XVI	333627	333917	-1.0	Phox	0	333627-333917	PF00787	http://pfam.sanger.ac.uk/family?acc=PF00787
+XVI	332211	332708	-1.0	RhoGAP_dom	0	332211-332708	PF00620	http://pfam.sanger.ac.uk/family?acc=PF00620

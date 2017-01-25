@@ -1,0 +1,4 @@
+#>P	YLR138W	YLR138W	YLR138W	XII	418437	421391	1	Na+/H+ antiporter; involved in sodium and potassium efflux through the plasma membrane; required for alkali cation tolerance at acidic pH [Source:SGD;Acc:S000004128]
+#>E	YLR138W.1	1.0	418437-421394
+XII	419832	421268	1.0	Cation/H_antiporter_C	0	419832-421268	PF08619	http://pfam.sanger.ac.uk/family?acc=PF08619
+XII	418497	419750	1.0	Cation/H_exchanger	0	418497-419750	PF00999	http://pfam.sanger.ac.uk/family?acc=PF00999

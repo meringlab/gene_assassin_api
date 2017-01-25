@@ -1,0 +1,3 @@
+#>P	YDL037C	YDL037C	YDL037C	IV	384604	385587	-1	Protein of unconfirmed function; similar to cell surface flocculin Flo11p; ORF exhibits genomic organization compatible with a translational readthrough-dependent mode of expression [Source:SGD;Acc:S000002195]
+#>E	YDL037C.1	1.0	384601-385587
+IV	385162	385584	-1.0	Uncharacterised_Flo11-rel_N	0	385162-385584	PF10182	http://pfam.sanger.ac.uk/family?acc=PF10182

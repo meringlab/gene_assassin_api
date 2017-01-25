@@ -1,0 +1,5 @@
+#>P	YGR270W	YGR270W	YGR270W	VII	1027370	1031506	1	Protein that localizes to chromatin; has a role in regulation of histone gene expression; has a bromodomain-like region that interacts with the N-terminal tail of histone H3, and an ATPase domain; relocalizes to the cytosol in response to hypoxia; potentially phosphorylated by Cdc28p [Source:SGD;Acc:S000003502]
+#>E	YGR270W.1	1.0	1027370-1031509
+VII	1030499	1030615	1.0	Bromodomain	0	1030499-1030615	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439
+VII	1029683	1029991	1.0	ATPase_AAA_core	0	1029683-1029991	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+VII	1028717	1029124	1.0	ATPase_AAA_core	0	1028717-1029124	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

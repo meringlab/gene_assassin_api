@@ -1,0 +1,3 @@
+#>P	YCR083W	YCR083W	YCR083W	III	259578	259958	1	Mitochondrial thioredoxin; highly conserved oxidoreductase required to maintain the redox homeostasis of the cell, forms the mitochondrial thioredoxin system with Trr2p, redox state is maintained by both Trr2p and Glr1p [Source:SGD;Acc:S000000679]
+#>E	YCR083W.1	1.0	259578-259961
+III	259668	259952	1.0	Thioredoxin_domain	0	259668-259952	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085

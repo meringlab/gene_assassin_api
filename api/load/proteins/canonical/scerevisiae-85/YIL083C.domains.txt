@@ -1,0 +1,4 @@
+#>P	YIL083C	YIL083C	YIL083C	IX	203559	204653	-1	Subunit of the CoA-Synthesizing Protein Complex (CoA-SPC); subunits of this complex are: Cab2p, Cab3p, Cab4p, Cab5p, Sis2p and Vhs3p; probable phosphopantothenoylcysteine synthetase (PPCS), which catalyzes the second step of coenzyme A biosynthesis from pantothenate; null mutant lethality is complemented by E. coli coaBC (encoding a bifunctional enzyme with PPCS activity) [Source:SGD;Acc:S000001345]
+#>E	YIL083C.1	1.0	203556-204653
+IX	204270	204437	-1.0	DNA/pantothenate-metab_flavo_C	26	204270-204437	PF04127	http://pfam.sanger.ac.uk/family?acc=PF04127
+IX	203715	204044	-1.0	DNA/pantothenate-metab_flavo_C	20.6	203715-204044	PF04127	http://pfam.sanger.ac.uk/family?acc=PF04127

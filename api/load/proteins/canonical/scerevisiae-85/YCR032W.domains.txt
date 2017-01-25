@@ -1,0 +1,3 @@
+#>P	YCR032W	YCR032W	YCR032W	III	179520	186020	1	Protein homologous to Chediak-Higashi syndrome and Beige proteins; both of which are implicated in disease syndromes in human and mouse, respectively, due to defective lysosomal trafficking; mutant phenotype and genetic interactions suggest a role in protein sorting [Source:SGD;Acc:S000000628]
+#>E	YCR032W.1	1.0	179520-186023
+III	184191	185036	1.0	BEACH_dom	0	184191-185036	PF02138	http://pfam.sanger.ac.uk/family?acc=PF02138

@@ -1,0 +1,3 @@
+#>P	YPR131C	YPR131C	YPR131C	XVI	793914	794498	-1	Catalytic subunit of the NatB N-terminal acetyltransferase; NatB catalyzes acetylation of the amino-terminal methionine residues of all proteins beginning with Met-Asp or Met-Glu and of some proteins beginning with Met-Asn or Met-Met [Source:SGD;Acc:S000006335]
+#>E	YPR131C.1	1.0	793911-794498
+XVI	794097	794327	-1.0	AcTrfase_GCN5-related_dom	0	794097-794327	PF00583	http://pfam.sanger.ac.uk/family?acc=PF00583

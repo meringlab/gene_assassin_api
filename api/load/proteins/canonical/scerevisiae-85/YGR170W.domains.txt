@@ -1,0 +1,5 @@
+#>P	YGR170W	YGR170W	YGR170W	VII	837142	840555	1	Phosphatidylserine decarboxylase of the Golgi and vacuolar membranes; converts phosphatidylserine to phosphatidylethanolamine; controls vacuolar membrane phospholipid content by regulating phospholipids in compartments that will eventually give rise to the vacuole; loss of Psd2p causes a specific reduction in vacuolar membrane PE levels while total PE levels are not significantly affected [Source:SGD;Acc:S000003402]
+#>E	YGR170W.1	1.0	837142-840558
+VII	839752	840378	1.0	PS_Dcarbxylase	0	839752-840378	PF02666	http://pfam.sanger.ac.uk/family?acc=PF02666
+VII	837196	837402	1.0	C2_Ca-dep	0	837196-837402	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
+VII	838645	838887	1.0	C2_Ca-dep	0	838645-838887	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168

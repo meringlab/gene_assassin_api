@@ -1,0 +1,4 @@
+#>P	YMR233W	YMR233W	YMR233W	XIII	739185	739862	1	Non-essential sumoylated protein of unknown function; similar to components of human SWI/SNF complex including SMRD3; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm, nucleus and nucleolus; TRI1 has a paralog, UAF30, that arose from the whole genome duplication [Source:SGD;Acc:S000004846]
+#>E	YMR233W.1	1.0	739185-739865
+XIII	739545	739763	1.0	SWIB_MDM2_domain	0	739545-739763	PF02201	http://pfam.sanger.ac.uk/family?acc=PF02201
+XIII	739215	739349	1.0	DEK_C	0	739215-739349	PF08766	http://pfam.sanger.ac.uk/family?acc=PF08766

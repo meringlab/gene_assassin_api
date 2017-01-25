@@ -1,0 +1,3 @@
+#>P	YIR037W	YIR037W	YIR037W	IX	423128	423616	1	Thiol peroxidase; functions as a hydroperoxide receptor to sense intracellular hydroperoxide levels and transduce a redox signal to the Yap1p transcription factor; HYR1 has a paralog, GPX1, that arose from the whole genome duplication [Source:SGD;Acc:S000001476]
+#>E	YIR037W.1	1.0	423128-423619
+IX	423137	423460	1.0	Glutathione_peroxidase	0	423137-423460	PF00255	http://pfam.sanger.ac.uk/family?acc=PF00255

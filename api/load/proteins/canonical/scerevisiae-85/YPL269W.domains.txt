@@ -1,0 +1,4 @@
+#>P	YPL269W	YPL269W	YPL269W	XVI	33013	34944	1	Karyogamy protein; required for correct positioning of the mitotic spindle and for orienting cytoplasmic microtubules; localizes at the shmoo tip in mating cells and at the tip of the growing bud in small-budded cells through anaphase [Source:SGD;Acc:S000006190]
+#>E	YPL269W.1	1.0	33013-34947
+XVI	33124	34470	1.0	Karyogamy_KAR9	0	33124-34470	PF08580	http://pfam.sanger.ac.uk/family?acc=PF08580
+XVI	34468	34884	1.0	Karyogamy_KAR9	0	34468-34884	PF08580	http://pfam.sanger.ac.uk/family?acc=PF08580

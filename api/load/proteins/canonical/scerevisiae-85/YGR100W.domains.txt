@@ -1,0 +1,4 @@
+#>P	YGR100W	YGR100W	YGR100W	VII	690245	693094	1	Cytoplasmic GTPase-activating protein; activates Ypt/Rab transport GTPases Ypt6p, Ypt31p and Sec4p; involved in recycling of internalized proteins and regulation of Golgi secretory function [Source:SGD;Acc:S000003332]
+#>E	YGR100W.1	1.0	690245-693097
+VII	690986	691600	1.0	RabGAP/TBC_dom	0	690986-691600	PF00566	http://pfam.sanger.ac.uk/family?acc=PF00566
+VII	690329	690589	1.0	GRAM	0	690329-690589	PF02893	http://pfam.sanger.ac.uk/family?acc=PF02893

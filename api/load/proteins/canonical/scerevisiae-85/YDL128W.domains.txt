@@ -1,0 +1,4 @@
+#>P	YDL128W	YDL128W	YDL128W	IV	232652	233884	1	Vacuolar membrane antiporter with Ca2+/H+ and K+/H+ exchange activity; involved in control of cytosolic Ca2+ and K+ concentrations; has similarity to sodium/calcium exchangers, including the bovine Na+/Ca2+,K+ antiporter [Source:SGD;Acc:S000002286]
+#>E	YDL128W.1	1.0	232652-233887
+IV	232856	233302	1.0	NaCa_Exmemb	0	232856-233302	PF01699	http://pfam.sanger.ac.uk/family?acc=PF01699
+IV	233438	233833	1.0	NaCa_Exmemb	0	233438-233833	PF01699	http://pfam.sanger.ac.uk/family?acc=PF01699

@@ -1,0 +1,4 @@
+#>P	YLR249W	YLR249W	YLR249W	XII	636780	639911	1	Gamma subunit of translational elongation factor eEF1B; stimulates the binding of aminoacyl-tRNA (AA-tRNA) to ribosomes by releasing eEF1A (Tef1p/Tef2p) from the ribosomal complex; contains two ABC cassettes; binds and hydrolyzes ATP; YEF3 has a paralog, HEF3, that arose from the whole genome duplication [Source:SGD;Acc:S000004239]
+#>E	YLR249W.1	1.0	636780-639914
+XII	638253	638495	1.0	ABC_transporter-like	0	638253-638495	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XII	638901	639554	1.0	ABC_transporter-like	0	638901-639554	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

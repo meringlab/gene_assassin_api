@@ -1,0 +1,4 @@
+#>P	YMR313C	YMR313C	YMR313C	XIII	899382	901307	-1	Bifunctional triacylglycerol lipase and LPE acyltransferase; major lipid particle-localized triacylglycerol (TAG) lipase; catalyzes acylation of lysophosphatidylethanolamine (LPE), a function which is essential for sporulation; protein level and stability of Tgl3p are markedly reduced in the absence of lipid droplets; required with Tgl4p for timely bud formation [Source:SGD;Acc:S000004930]
+#>E	YMR313C.1	1.0	899379-901307
+XIII	900420	900698	-1.0	Patatin/PLipase_A2-rel	0	900420-900698	PF01734	http://pfam.sanger.ac.uk/family?acc=PF01734
+XIII	900720	901121	-1.0	Triacylglycerol_lipase	0	900720-901121	PF11815	http://pfam.sanger.ac.uk/family?acc=PF11815

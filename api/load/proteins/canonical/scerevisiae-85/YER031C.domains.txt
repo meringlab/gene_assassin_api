@@ -1,0 +1,3 @@
+#>P	YER031C	YER031C	YER031C	V	214079	214747	-1	Rab family GTPase; involved in the exocytic pathway; mediates intra-Golgi traffic or the budding of post-Golgi vesicles from the trans-Golgi; YPT31 has a paralog, YPT32, that arose from the whole genome duplication [Source:SGD;Acc:S000000833]
+#>E	YER031C.1	1.0	214076-214747
+V	214223	214705	-1.0	Small_GTPase	206.6	214223-214705	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071

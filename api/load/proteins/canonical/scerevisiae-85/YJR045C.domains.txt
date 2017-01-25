@@ -1,0 +1,3 @@
+#>P	YJR045C	YJR045C	YJR045C	X	519641	521602	-1	Hsp70 family ATPase; constituent of the import motor component of the Translocase of the Inner Mitochondrial membrane (TIM23 complex); involved in protein translocation and folding; subunit of SceI endonuclease; SSC1 has a paralog, ECM10, that arose from the whole genome duplication [Source:SGD;Acc:S000003806]
+#>E	YJR045C.1	1.0	519638-521602
+X	519704	521509	-1.0	Hsp_70	0	519704-521509	PF00012	http://pfam.sanger.ac.uk/family?acc=PF00012

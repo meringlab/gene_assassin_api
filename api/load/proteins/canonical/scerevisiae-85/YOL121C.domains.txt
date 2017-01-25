@@ -1,0 +1,3 @@
+#>P	YOL121C	YOL121C	YOL121C	XV	92029	92850	-1	Protein component of the small (40S) ribosomal subunit; required for assembly and maturation of pre-40 S particles; homologous to mammalian ribosomal protein S19, no bacterial homolog; mutations in human RPS19 are associated with Diamond Blackfan anemia; RPS19A has a paralog, RPS19B, that arose from the whole genome duplication [Source:SGD;Acc:S000005481]
+#>E	YOL121C.2,YOL121C.1	1,1	92026-92440,92831-92850
+XV	92032	92841	-1	Ribosomal_S19e	0	92032-92440,92831-92841	PF01090	http://pfam.sanger.ac.uk/family?acc=PF01090

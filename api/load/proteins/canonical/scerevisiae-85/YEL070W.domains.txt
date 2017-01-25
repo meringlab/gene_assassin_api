@@ -1,0 +1,4 @@
+#>P	YEL070W	YEL070W	YEL070W	V	19589	21094	1	Putative mannitol dehydrogenase; deletion suppressor of mpt5 mutation; DSF1 has a paralog, YNR073C, that arose from a segmental duplication [Source:SGD;Acc:S000000796]
+#>E	YEL070W.1	1.0	19589-21097
+V	19694	20188	1.0	Mannitol_DH_N	0	19694-20188	PF01232	http://pfam.sanger.ac.uk/family?acc=PF01232
+V	20276	21013	1.0	Mannitol_DH_C	0	20276-21013	PF08125	http://pfam.sanger.ac.uk/family?acc=PF08125

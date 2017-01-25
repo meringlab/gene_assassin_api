@@ -1,0 +1,5 @@
+#>P	YNR007C	YNR007C	YNR007C	XIV	639185	640114	-1	E2-like enzyme; involved in autophagy and the cytoplasm-to-vacuole targeting (Cvt) pathway; plays a role in formation of Atg8p-phosphatidylethanolamine conjugates, which are involved in membrane dynamics during autophagy and Cvt; interaction with Atg8p is regulated by its acetylation by Esa1p (catalytic subunit of NuA4 histone acetyltransferase complex) while attenuation of Atg3 acetylation is mediated by histone deacetylase Rpd3p [Source:SGD;Acc:S000005290]
+#>E	YNR007C.1	1.0	639182-640114
+XIV	639659	640114	-1.0	Autophagy-rel_prot_3_N	0	639659-640114	PF03986	http://pfam.sanger.ac.uk/family?acc=PF03986
+XIV	639410	639601	-1.0	Autophagy-rel_prot_3	0	639410-639601	PF03987	http://pfam.sanger.ac.uk/family?acc=PF03987
+XIV	639194	639268	-1.0	Autophagy-rel_prot_3_C	0	639194-639268	PF10381	http://pfam.sanger.ac.uk/family?acc=PF10381

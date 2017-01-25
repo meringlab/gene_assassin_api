@@ -1,0 +1,8 @@
+#>P	YDR267C	YDR267C	YDR267C	IV	1002513	1003502	-1	Component of cytosolic iron-sulfur protein assembly (CIA) machinery; acts at a late step of Fe-S cluster assembly; forms the CIA targeting complex with Cia2p and Met18p that directs Fe-S cluster incorporation into a subset of proteins involved in methionine biosynthesis, DNA replication and repair, transcription, and telomere maintenance; contains WD40 repeats; ortholog of human Ciao1 protein [Source:SGD;Acc:S000002675]
+#>E	YDR267C.1	1.0	1002510-1003502
+IV	1003389	1003457	-1.0	WD40_repeat	0	1003389-1003457	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	1003098	1003208	-1.0	WD40_repeat	0	1003098-1003208	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	1003248	1003340	-1.0	WD40_repeat	0	1003248-1003340	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	1002528	1002617	-1.0	WD40_repeat	0	1002528-1002617	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	1002822	1002944	-1.0	WD40_repeat	0	1002822-1002944	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	1002960	1003073	-1.0	WD40_repeat	0	1002960-1003073	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

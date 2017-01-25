@@ -1,0 +1,4 @@
+#>P	YMR060C	YMR060C	YMR060C	XIII	391535	392515	-1	Component of the Sorting and Assembly Machinery (SAM) complex; the SAM (or TOB) complex is located in the mitochondrial outer membrane; binds precursors of beta-barrel proteins and facilitates their outer membrane insertion; contributes to SAM complex stability [Source:SGD;Acc:S000004664]
+#>E	YMR060C.1	1.0	391532-392515
+XIII	392270	392500	-1.0	Tom37/metaxin	0	392270-392500	PF10568	http://pfam.sanger.ac.uk/family?acc=PF10568
+XIII	391691	392179	-1.0	Tom37/metaxin	0	391691-392179	PF11801	http://pfam.sanger.ac.uk/family?acc=PF11801

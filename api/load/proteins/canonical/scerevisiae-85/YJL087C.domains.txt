@@ -1,0 +1,5 @@
+#>P	YJL087C	YJL087C	YJL087C	X	270005	272485	-1	tRNA ligase; required for tRNA splicing and for both splicing and translation of HAC1 mRNA in the UPR; has phosphodiesterase, polynucleotide kinase, and ligase activities; localized at the inner nuclear envelope and partially to polysomes [Source:SGD;Acc:S000003623]
+#>E	YJL087C.1	1.0	270002-272485
+X	271610	272299	-1.0	RNA_ligase_T4-RnlA-like	0	271610-272299	PF09511	http://pfam.sanger.ac.uk/family?acc=PF09511
+X	270008	270793	-1.0	tRNA_lig_PDEase_fun	0	270008-270793	PF08302	http://pfam.sanger.ac.uk/family?acc=PF08302
+X	270806	271309	-1.0	tRNA_lig_kin_fun	0	270806-271309	PF08303	http://pfam.sanger.ac.uk/family?acc=PF08303

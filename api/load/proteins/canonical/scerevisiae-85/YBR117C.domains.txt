@@ -1,0 +1,5 @@
+#>P	YBR117C	YBR117C	YBR117C	II	474395	476437	-1	Transketolase; catalyzes conversion of xylulose-5-phosphate and ribose-5-phosphate to sedoheptulose-7-phosphate and glyceraldehyde-3-phosphate in the pentose phosphate pathway; needed for synthesis of aromatic amino acids; TKL2 has a paralog, TKL1, that arose from the whole genome duplication [Source:SGD;Acc:S000000321]
+#>E	YBR117C.1	1.0	474392-476437
+II	474470	474802	-1.0	Transketolase_C	0	474470-474802	PF02780	http://pfam.sanger.ac.uk/family?acc=PF02780
+II	474842	475375	-1.0	Transketolase-like_Pyr-bd	0	474842-475375	PF02779	http://pfam.sanger.ac.uk/family?acc=PF02779
+II	475421	476416	-1.0	Transketolase_N	0	475421-476416	PF00456	http://pfam.sanger.ac.uk/family?acc=PF00456

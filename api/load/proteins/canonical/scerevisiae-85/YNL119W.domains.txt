@@ -1,0 +1,3 @@
+#>P	YNL119W	YNL119W	YNL119W	XIV	401040	402518	1	Protein required for uridine thiolation of Lys(UUU) and Glu(UUC) tRNAs; required for the thiolation of uridine at the wobble position of Lys(UUU) and Glu(UUC) tRNAs; has a role in urmylation and in invasive and pseudohyphal growth; inhibits replication of Brome mosaic virus in S. cerevisiae [Source:SGD;Acc:S000005063]
+#>E	YNL119W.1	1.0	401040-402521
+XIV	401724	402098	1.0	Thiouridylase_cyt_su2	0	401724-402098	PF10288	http://pfam.sanger.ac.uk/family?acc=PF10288

@@ -1,0 +1,3 @@
+#>P	YOR083W	YOR083W	YOR083W	XV	479533	480417	1	Repressor of G1 transcription; binds to SCB binding factor (SBF) at SCB target promoters in early G1; phosphorylation of Whi5p by the CDK, Cln3p/Cdc28p relieves repression and promoter binding by Whi5; periodically expressed in G1; WHI5 has a paralog, SRL3, that arose from the whole genome duplication [Source:SGD;Acc:S000005609]
+#>E	YOR083W.1	1.0	479533-480420
+XV	480073	480147	1.0	TF_Nrm1/Whi5	0	480073-480147	PF08528	http://pfam.sanger.ac.uk/family?acc=PF08528

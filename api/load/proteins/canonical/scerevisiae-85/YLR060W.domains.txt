@@ -1,0 +1,4 @@
+#>P	YLR060W	YLR060W	YLR060W	XII	260979	262763	1	Beta subunit of cytoplasmic phenylalanyl-tRNA synthetase; forms a tetramer with Frs2p to generate active enzyme; able to hydrolyze mis-aminoacylated tRNA-Phe, which could contribute to translational quality control [Source:SGD;Acc:S000004050]
+#>E	YLR060W.1	1.0	260979-262766
+XII	261864	262073	1.0	tRNA_synthase_B5-dom	0	261864-262073	PF03484	http://pfam.sanger.ac.uk/family?acc=PF03484
+XII	261288	261779	1.0	B3/B4_tRNA-bd	0	261288-261779	PF03483	http://pfam.sanger.ac.uk/family?acc=PF03483

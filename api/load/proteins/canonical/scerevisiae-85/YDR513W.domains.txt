@@ -1,0 +1,3 @@
+#>P	YDR513W	YDR513W	YDR513W	IV	1471017	1471445	1	Cytoplasmic glutaredoxin; thioltransferase, glutathione-dependent disulfide oxidoreductase involved in maintaining redox state of target proteins, also exhibits glutathione peroxidase activity, expression induced in response to stress; GRX2 has two in-frame start codons resulting in a shorter isoform that is retained in the cytosol and a longer form translocated to the mitochondrial matrix; GRX2 has a paralog, GRX1, that arose from the whole genome duplication [Source:SGD;Acc:S000002921]
+#>E	YDR513W.1	1.0	1471017-1471448
+IV	1471173	1471373	1.0	Glutaredoxin	0	1471173-1471373	PF00462	http://pfam.sanger.ac.uk/family?acc=PF00462

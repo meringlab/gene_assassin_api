@@ -1,0 +1,4 @@
+#>P	YBR088C	YBR088C	YBR088C	II	424993	425766	-1	Proliferating cell nuclear antigen (PCNA); functions as the sliding clamp for DNA polymerase delta; may function as a docking site for other proteins required for mitotic and meiotic chromosomal DNA replication and for DNA repair [Source:SGD;Acc:S000000292]
+#>E	YBR088C.1	1.0	424990-425766
+II	425008	425388	-1.0	Pr_cel_nuc_antig_C	0	425008-425388	PF02747	http://pfam.sanger.ac.uk/family?acc=PF02747
+II	425395	425766	-1.0	Pr_cel_nuc_antig_N	0	425395-425766	PF00705	http://pfam.sanger.ac.uk/family?acc=PF00705

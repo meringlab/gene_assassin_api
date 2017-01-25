@@ -1,0 +1,3 @@
+#>P	YOR322C	YOR322C	YOR322C	XV	918609	921062	-1	Alpha-arrestin involved in ubiquitin-dependent endocytosis; regulates endocytosis of plasma membrane proteins by recruiting the ubiquitin ligase Rsp5p to its targets; involved in the basal internalization and turnover of alpha-factor receptor Ste2p; recruits ubiquitin ligase Rsp5p to Ste2p via its 2 PPXY motifs; inhibited by Npr1p-mediated phosphorylation, which affects translocation between the cytosol and the plasma membrane [Source:SGD;Acc:S000005849]
+#>E	YOR322C.1	1.0	918606-921062
+XV	920025	920633	-1.0	LDB19_N	0	920025-920633	PF13002	http://pfam.sanger.ac.uk/family?acc=PF13002

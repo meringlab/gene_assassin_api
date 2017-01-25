@@ -1,0 +1,3 @@
+#>P	YGL241W	YGL241W	YGL241W	VII	45445	48456	1	Karyopherin, responsible for nuclear import of specific proteins; cargoes include Spt15p, Sua7p, histones H2A and H2B, and Nap1p; amino terminus shows similarity to those of other importins, particularly Cse1p; localization is primarily nuclear; function is regulated by sumoylation; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003210]
+#>E	YGL241W.1	1.0	45445-48459
+VII	45505	45735	1.0	Importin-beta_N	0	45505-45735	PF03810	http://pfam.sanger.ac.uk/family?acc=PF03810

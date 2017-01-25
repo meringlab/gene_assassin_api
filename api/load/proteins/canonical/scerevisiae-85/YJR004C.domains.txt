@@ -1,0 +1,3 @@
+#>P	YJR004C	YJR004C	YJR004C	X	442912	444861	-1	Alpha-agglutinin of alpha-cells; binds to Aga1p during agglutination, N-terminal half is homologous to the immunoglobulin superfamily and contains binding site for a-agglutinin, C-terminal half is highly glycosylated and contains GPI anchor [Source:SGD;Acc:S000003764]
+#>E	YJR004C.1	1.0	442909-444861
+X	443962	444714	-1.0	Agglutinin-like_N	0	443962-444714	PF11766	http://pfam.sanger.ac.uk/family?acc=PF11766

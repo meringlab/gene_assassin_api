@@ -1,0 +1,3 @@
+#>P	YAR075W	YAR075W	YAR075W	I	228844	229314	1	Non-functional protein with homology IMP dehydrogenase; YAR073W/IMD1 and YAR075W comprise a continuous reading frame in most strains of S. cerevisiae; YAR073W/YAR075W together have a paralog, IMD2, that arose from a segmental duplication [Source:SGD;Acc:S000002145]
+#>E	YAR075W.1	1.0	228844-229317
+I	228862	229269	1.0	IMP_DH_GMPRt	0	228862-229269	PF00478	http://pfam.sanger.ac.uk/family?acc=PF00478

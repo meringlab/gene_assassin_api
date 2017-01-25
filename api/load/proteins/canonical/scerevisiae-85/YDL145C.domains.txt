@@ -1,0 +1,9 @@
+#>P	YDL145C	YDL145C	YDL145C	IV	194574	198176	-1	Alpha subunit of COPI vesicle coatomer complex; complex surrounds transport vesicles in the early secretory pathway [Source:SGD;Acc:S000002304]
+#>E	YDL145C.1	1.0	194571-198176
+IV	197469	197576	-1.0	WD40_repeat	35.9	197469-197576	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	197682	197792	-1.0	WD40_repeat	38.2	197682-197792	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	197808	197921	-1.0	WD40_repeat	35.4	197808-197921	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	197334	197435	-1.0	WD40_repeat	33.1	197334-197435	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	197934	198050	-1.0	WD40_repeat	39	197934-198050	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	194580	195692	-1.0	Coatomer_asu_C	231.6	194580-195692	PF06957	http://pfam.sanger.ac.uk/family?acc=PF06957
+IV	195867	197150	-1.0	Coatomer_WD-assoc_reg	461.3	195867-197150	PF04053	http://pfam.sanger.ac.uk/family?acc=PF04053

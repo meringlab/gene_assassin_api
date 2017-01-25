@@ -1,0 +1,4 @@
+#>P	YDR021W	YDR021W	YDR021W	IV	486804	488000	1	Nucleolar protein required for maturation of 18S rRNA; member of the eIF4A subfamily of DEAD-box ATP-dependent RNA helicases [Source:SGD;Acc:S000002428]
+#>E	YDR021W.1	1.0	486804-488003
+IV	487656	487883	1.0	Helicase_C	0	487656-487883	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+IV	486945	487445	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	486945-487445	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

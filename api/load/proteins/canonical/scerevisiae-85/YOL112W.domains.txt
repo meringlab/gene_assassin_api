@@ -1,0 +1,3 @@
+#>P	YOL112W	YOL112W	YOL112W	XV	106710	108185	1	GTPase-activating protein of the Ras superfamily; acts primarily on Sec4p, localizes to the bud site and bud tip; msb3 msb4 double mutation causes defects in secretion and actin organization; similar to the TBC-domain Tre2 oncogene; MSB4 has a paralog, MSB3, that arose from the whole genome duplication [Source:SGD;Acc:S000005472]
+#>E	YOL112W.1	1.0	106710-108188
+XV	107160	107870	1.0	RabGAP/TBC_dom	0	107160-107870	PF00566	http://pfam.sanger.ac.uk/family?acc=PF00566

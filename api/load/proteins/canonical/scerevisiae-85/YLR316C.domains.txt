@@ -1,0 +1,3 @@
+#>P	YLR316C	YLR316C	YLR316C	XII	765269	766358	-1	Subunit of tRNA-specific adenosine-34 deaminase; forms a heterodimer with Tad2p that converts adenosine to inosine at the wobble position of several tRNAs [Source:SGD;Acc:S000004308]
+#>E	YLR316C.3,YLR316C.2,YLR316C.1	1,1,1	765266-766073,766130-766181,766250-766358
+XII	765419	765739	-1	CMP_dCMP_Zn-bd	0	765419-765739	PF00383	http://pfam.sanger.ac.uk/family?acc=PF00383

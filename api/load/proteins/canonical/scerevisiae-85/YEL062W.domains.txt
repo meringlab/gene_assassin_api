@@ -1,0 +1,3 @@
+#>P	YEL062W	YEL062W	YEL062W	V	34407	36251	1	Subunit of SEA (Seh1-associated), Npr2/3, and Iml1p complexes; Npr2/3 complex mediates downregulation of TORC1 activity upon amino acid limitation; SEA complex is a coatomer-related complex that associates dynamically with the vacuole; Iml1p complex is required for non-nitrogen-starvation (NNS)-induced autophagy; Iml1p interacts primarily with phosphorylated Npr2p; homolog of human tumor suppressor NPRL2; target of Grr1p; required for growth on urea and proline [Source:SGD;Acc:S000000788]
+#>E	YEL062W.1	1.0	34407-36254
+V	34425	35978	1.0	NPR2	0	34425-35978	PF06218	http://pfam.sanger.ac.uk/family?acc=PF06218

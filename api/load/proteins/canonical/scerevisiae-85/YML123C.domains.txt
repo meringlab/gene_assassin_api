@@ -1,0 +1,3 @@
+#>P	YML123C	YML123C	YML123C	XIII	24040	25800	-1	High-affinity inorganic phosphate (Pi) transporter; also low-affinity manganese transporter; regulated by Pho4p and Spt7p; mutation confers resistance to arsenate; exit from the ER during maturation requires Pho86p; cells overexpressing Pho84p accumulate heavy metals but do not develop symptoms of metal toxicity [Source:SGD;Acc:S000004592]
+#>E	YML123C.1	1.0	24037-25800
+XIII	24130	25596	-1.0	Sub_transporter	0	24130-25596	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083

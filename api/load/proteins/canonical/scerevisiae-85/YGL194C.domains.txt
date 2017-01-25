@@ -1,0 +1,3 @@
+#>P	YGL194C	YGL194C	YGL194C	VII	140371	141726	-1	Histone deacetylase and subunit of Set3 and Rpd3L complexes; required for gene activation via specific deacetylation of lysines in H3 and H4 histone tails; subunit of the Set3 complex, a meiotic-specific repressor of sporulation specific genes that contains deacetylase activity; co-localizes with Cmr1p in nuclear foci in response to DNA damage by MMS [Source:SGD;Acc:S000003162]
+#>E	YGL194C.1	1.0	140368-141726
+VII	140716	141603	-1.0	His_deacetylse_dom	0	140716-141603	PF00850	http://pfam.sanger.ac.uk/family?acc=PF00850

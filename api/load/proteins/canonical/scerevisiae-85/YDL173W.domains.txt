@@ -1,0 +1,5 @@
+#>P	YDL173W	YDL173W	YDL173W	IV	148191	149075	1	Putative protein of unknown function; hyperphosphorylated upon rapamycin treatment in a Tap42p-dependent manner; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; PAR32 is not an essential gene [Source:SGD;Acc:S000002332]
+#>E	YDL173W.1	1.0	148191-149078
+IV	148224	148298	1.0	DUF3602	0	148224-148298	PF12223	http://pfam.sanger.ac.uk/family?acc=PF12223
+IV	148338	148472	1.0	DUF3602	0	148338-148472	PF12223	http://pfam.sanger.ac.uk/family?acc=PF12223
+IV	148530	148682	1.0	DUF3602	0	148530-148682	PF12223	http://pfam.sanger.ac.uk/family?acc=PF12223

@@ -1,0 +1,4 @@
+#>P	YCL032W	YCL032W	YCL032W	III	63441	64478	1	Adaptor protein for various signaling pathways; involved in mating response, invasive/filamentous growth, osmotolerance; acts as an adaptor that links G protein-associated Cdc42p-Ste20p complex to the effector Ste11p to modulate signal transduction [Source:SGD;Acc:S000000537]
+#>E	YCL032W.1	1.0	63441-64481
+III	63528	63752	1.0	SAM_Ste50p	0	63528-63752	PF09235	http://pfam.sanger.ac.uk/family?acc=PF09235
+III	64179	64421	1.0	Ras-assoc	0	64179-64421	PF00788	http://pfam.sanger.ac.uk/family?acc=PF00788

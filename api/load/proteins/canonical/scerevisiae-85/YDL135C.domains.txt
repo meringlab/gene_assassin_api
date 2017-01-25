@@ -1,0 +1,3 @@
+#>P	YDL135C	YDL135C	YDL135C	IV	218683	219288	-1	Rho GDP dissociation inhibitor; involved in the localization and regulation of Cdc42p and Rho1p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002294]
+#>E	YDL135C.1	1.0	218680-219288
+IV	218683	219279	-1.0	Rho_GDI	0	218683-219279	PF02115	http://pfam.sanger.ac.uk/family?acc=PF02115

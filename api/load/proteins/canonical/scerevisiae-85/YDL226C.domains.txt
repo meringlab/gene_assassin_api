@@ -1,0 +1,3 @@
+#>P	YDL226C	YDL226C	YDL226C	IV	51118	52173	-1	ADP-ribosylation factor GTPase activating protein (ARF GAP); involved in ER-Golgi transport; required for prospore membrane formation; regulates phospholipase Spo14p; shares functional similarity with Glo3p; GCS1 has a paralog, SPS18, that arose from the whole genome duplication [Source:SGD;Acc:S000002385]
+#>E	YDL226C.1	1.0	51115-52173
+IV	51820	52134	-1.0	ArfGAP	0	51820-52134	PF01412	http://pfam.sanger.ac.uk/family?acc=PF01412

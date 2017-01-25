@@ -1,0 +1,3 @@
+#>P	YER159C	YER159C	YER159C	V	491533	491958	-1	Subunit of a heterodimeric NC2 transcription regulator complex; complex binds to TBP and can repress transcription by preventing preinitiation complex assembly or stimulate activated transcription; homologous to human NC2alpha; complex also includes Ncb2p [Source:SGD;Acc:S000000961]
+#>E	YER159C.1	1.0	491530-491958
+V	491623	491805	-1.0	CBFA_NFYB_domain	0	491623-491805	PF00808	http://pfam.sanger.ac.uk/family?acc=PF00808

@@ -1,0 +1,3 @@
+#>P	YKR018C	YKR018C	YKR018C	XI	473726	475900	-1	Protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm and nucleus; protein abundance increases in response to DNA replication stress; YKR018C has a paralog, IML2, that arose from the whole genome duplication [Source:SGD;Acc:S000001726]
+#>E	YKR018C.1	1.0	473723-475900
+XI	474014	475795	-1.0	OMP_IML2_mit/TPR_39	0	474014-475795	PF10300	http://pfam.sanger.ac.uk/family?acc=PF10300

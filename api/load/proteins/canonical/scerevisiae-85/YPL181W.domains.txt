@@ -1,0 +1,3 @@
+#>P	YPL181W	YPL181W	YPL181W	XVI	203421	204938	1	Component of the Rpd3L histone deacetylase complex; relieves transcriptional repression by binding to the Cyc8p-Tup1p corepressor and recruiting the SAGA complex to the repressed promoter; contains a PHD finger domain [Source:SGD;Acc:S000006102]
+#>E	YPL181W.1	1.0	203421-204941
+XVI	203640	203786	1.0	Znf_PHD-finger	0	203640-203786	PF00628	http://pfam.sanger.ac.uk/family?acc=PF00628

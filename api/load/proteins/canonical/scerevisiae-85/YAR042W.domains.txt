@@ -1,0 +1,6 @@
+#>P	YAR042W	YAR042W	YAR042W	I	192619	196182	1	Protein similar to mammalian oxysterol-binding protein; contains ankyrin repeats; localizes to the Golgi and the nucleus-vacuole junction; SWH1 has a paralog, OSH2, that arose from the whole genome duplication [Source:SGD;Acc:S000000081]
+#>E	YAR042W.1	1.0	192619-196185
+I	193468	193752	1.0	Pleckstrin_homology	30.8	193468-193752	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169
+I	192685	192975	1.0	Ankyrin_rpt-contain_dom	27.9	192685-192975	PF12796	http://pfam.sanger.ac.uk/family?acc=PF12796
+I	193207	193299	1.0	Ankyrin_rpt	18.6	193207-193299	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+I	195016	196140	1.0	Oxysterol-bd	438.8	195016-196140	PF01237	http://pfam.sanger.ac.uk/family?acc=PF01237

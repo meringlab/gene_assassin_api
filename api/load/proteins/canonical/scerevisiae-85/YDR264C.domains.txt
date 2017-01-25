@@ -1,0 +1,7 @@
+#>P	YDR264C	YDR264C	YDR264C	IV	996032	998323	-1	Palmitoyl transferase involved in protein palmitoylation; acts as a negative regulator of pheromone response pathway; required for endocytosis of pheromone receptors; involved in cell shape control; contains ankyrin repeats; AKR1 has a paralog, AKR2, that arose from the whole genome duplication [Source:SGD;Acc:S000002672]
+#>E	YDR264C.1	1.0	996029-998323
+IV	997910	997993	-1.0	Ankyrin_rpt	0	997910-997993	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+IV	997592	997684	-1.0	Ankyrin_rpt	0	997592-997684	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+IV	997802	997891	-1.0	Ankyrin_rpt	0	997802-997891	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+IV	997490	997585	-1.0	Ankyrin_rpt	0	997490-997585	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+IV	996506	997021	-1.0	Znf_DHHC_palmitoyltrfase	0	996506-997021	PF01529	http://pfam.sanger.ac.uk/family?acc=PF01529

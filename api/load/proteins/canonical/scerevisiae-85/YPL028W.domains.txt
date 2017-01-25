@@ -1,0 +1,4 @@
+#>P	YPL028W	YPL028W	YPL028W	XVI	498096	499289	1	Acetyl-CoA C-acetyltransferase (acetoacetyl-CoA thiolase); cytosolic enzyme that transfers an acetyl group from one acetyl-CoA molecule to another, forming acetoacetyl-CoA; involved in the first step in mevalonate biosynthesis [Source:SGD;Acc:S000005949]
+#>E	YPL028W.1	1.0	498096-499292
+XVI	498102	498893	1.0	Thiolase_N	0	498102-498893	PF00108	http://pfam.sanger.ac.uk/family?acc=PF00108
+XVI	498915	499286	1.0	Thiolase_C	0	498915-499286	PF02803	http://pfam.sanger.ac.uk/family?acc=PF02803

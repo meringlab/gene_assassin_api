@@ -1,0 +1,4 @@
+#>P	YDR012W	YDR012W	YDR012W	IV	471853	472938	1	Ribosomal 60S subunit protein L4B; homologous to mammalian ribosomal protein L4 and bacterial L4; RPL4B has a paralog, RPL4A, that arose from the whole genome duplication [Source:SGD;Acc:S000002419]
+#>E	YDR012W.1	1.0	471853-472941
+IV	471913	472632	1.0	Ribosomal_L4/L1e	0	471913-472632	PF00573	http://pfam.sanger.ac.uk/family?acc=PF00573
+IV	472669	472902	1.0	Ribos_L4_C_dom	0	472669-472902	PF14374	http://pfam.sanger.ac.uk/family?acc=PF14374

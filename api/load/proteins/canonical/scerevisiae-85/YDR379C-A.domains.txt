@@ -1,0 +1,4 @@
+#>P	YDR379C-A	YDR379C-A	YDR379C-A	IV	1233281	1233517	-1	Mitochondrial protein involved in assembly of succinate dehydrogenase; has a role in maturation of the Sdh2p subunit; member of the LYR protein family; mutations in human ortholog SDHAF1 are associated with infantile leukoencephalopathy [Source:SGD;Acc:S000007605]
+#>E	YDR379C-A.1	1.0	1233278-1233517
+IV	1233317	1233490	-1.0	Complex1_LYR	0	1233317-1233490	PF05347	http://pfam.sanger.ac.uk/family?acc=PF05347
+IV	1233317	1233490	-1.0	Complex1_LYR	0	1233317-1233490	PF13232	http://pfam.sanger.ac.uk/family?acc=PF13232

@@ -1,0 +1,4 @@
+#>P	YMR272C	YMR272C	YMR272C	XIII	809626	810777	-1	Sphingolipid alpha-hydroxylase; functions in the alpha-hydroxylation of sphingolipid-associated very long chain fatty acids, has both cytochrome b5-like and hydroxylase/desaturase domains, not essential for growth [Source:SGD;Acc:S000004885]
+#>E	YMR272C.1	1.0	809623-810777
+XIII	810511	810744	-1.0	Cyt_B5	0	810511-810744	PF00173	http://pfam.sanger.ac.uk/family?acc=PF00173
+XIII	809728	810093	-1.0	Fatty_acid_hydroxylase	0	809728-810093	PF04116	http://pfam.sanger.ac.uk/family?acc=PF04116

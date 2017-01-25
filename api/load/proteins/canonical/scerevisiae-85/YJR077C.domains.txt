@@ -1,0 +1,5 @@
+#>P	YJR077C	YJR077C	YJR077C	X	577258	578190	-1	Mitochondrial phosphate carrier; imports inorganic phosphate into mitochondria; functionally redundant with Pic2p but more abundant than Pic2p under normal conditions; phosphorylated [Source:SGD;Acc:S000003838]
+#>E	YJR077C.1	1.0	577255-578190
+X	577297	577557	-1.0	Mitochondrial_sb/sol_carrier	0	577297-577557	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+X	577597	577839	-1.0	Mitochondrial_sb/sol_carrier	0	577597-577839	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+X	577879	578142	-1.0	Mitochondrial_sb/sol_carrier	0	577879-578142	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

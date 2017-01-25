@@ -1,0 +1,5 @@
+#>P	YMR093W	YMR093W	YMR093W	XIII	454015	455553	1	Nucleolar protein; component of the small subunit (SSU) processome containing the U3 snoRNA that is involved in processing of pre-18S rRNA [Source:SGD;Acc:S000004699]
+#>E	YMR093W.1	1.0	454015-455556
+XIII	454489	454605	1.0	WD40_repeat	27.6	454489-454605	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	454417	454473	1.0	WD40_repeat	14.2	454417-454473	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	455098	455547	1.0	U3_snoRNA-assocProt_15_C	174.4	455098-455547	PF09384	http://pfam.sanger.ac.uk/family?acc=PF09384

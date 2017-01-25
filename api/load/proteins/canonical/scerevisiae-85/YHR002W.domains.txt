@@ -1,0 +1,5 @@
+#>P	YHR002W	YHR002W	YHR002W	VIII	108812	109882	1	Mitochondrial carrier protein; involved in the accumulation of CoA in the mitochondrial matrix; homolog of human Graves disease protein; does not encode an isozyme of Leu4p, as first hypothesized [Source:SGD;Acc:S000001044]
+#>E	YHR002W.1	1.0	108812-109885
+VIII	109595	109867	1.0	Mitochondrial_sb/sol_carrier	0	109595-109867	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+VIII	108908	109183	1.0	Mitochondrial_sb/sol_carrier	0	108908-109183	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+VIII	109202	109510	1.0	Mitochondrial_sb/sol_carrier	0	109202-109510	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

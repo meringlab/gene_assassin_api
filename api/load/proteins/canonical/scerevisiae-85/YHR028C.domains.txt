@@ -1,0 +1,4 @@
+#>P	YHR028C	YHR028C	YHR028C	VIII	164981	167434	-1	Dipeptidyl aminopeptidase; synthesized as a glycosylated precursor; localizes to the vacuolar membrane; similar to Ste13p [Source:SGD;Acc:S000001070]
+#>E	YHR028C.1	1.0	164978-167434
+VIII	165911	166993	-1.0	Peptidase_S9B	0	165911-166993	PF00930	http://pfam.sanger.ac.uk/family?acc=PF00930
+VIII	164993	165598	-1.0	Peptidase_S9	0	164993-165598	PF00326	http://pfam.sanger.ac.uk/family?acc=PF00326

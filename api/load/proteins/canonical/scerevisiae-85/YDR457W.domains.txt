@@ -1,0 +1,6 @@
+#>P	YDR457W	YDR457W	YDR457W	IV	1369790	1379593	1	E3 ubiquitin ligase of the hect-domain class; has a role in mRNA export from the nucleus and may regulate transcriptional coactivators; involved in degradation of excess histones; interacts with Dia2p and is required for Dia2p degradation; required to target Cdc6p for ubiquitin-mediated destruction during G1 phase [Source:SGD;Acc:S000002865]
+#>E	YDR457W.1	1.0	1369790-1379596
+IV	1378676	1379590	1.0	HECT	0	1378676-1379590	PF00632	http://pfam.sanger.ac.uk/family?acc=PF00632
+IV	1371131	1371859	1.0	E3_Ub_ligase_DUF913	0	1371131-1371859	PF06025	http://pfam.sanger.ac.uk/family?acc=PF06025
+IV	1376786	1376992	1.0	DUF4414	0	1376786-1376992	PF14377	http://pfam.sanger.ac.uk/family?acc=PF14377
+IV	1370066	1370956	1.0	E3_Ub_ligase_DUF908	0	1370066-1370956	PF06012	http://pfam.sanger.ac.uk/family?acc=PF06012

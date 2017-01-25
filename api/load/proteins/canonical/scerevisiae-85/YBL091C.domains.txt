@@ -1,0 +1,3 @@
+#>P	YBL091C	YBL091C	YBL091C	II	47366	48628	-1	Methionine aminopeptidase; catalyzes the cotranslational removal of N-terminal methionine from nascent polypeptides; function is partially redundant with that of Map1p [Source:SGD;Acc:S000000187]
+#>E	YBL091C.1	1.0	47363-48628
+II	47411	48316	-1.0	Pept_M24_structural-domain	112.5	47411-48316	PF00557	http://pfam.sanger.ac.uk/family?acc=PF00557

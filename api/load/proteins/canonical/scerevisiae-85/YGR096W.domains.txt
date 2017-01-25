@@ -1,0 +1,5 @@
+#>P	YGR096W	YGR096W	YGR096W	VII	676621	677562	1	Mitochondrial membrane transporter; mediates uptake of the essential cofactor thiamine pyrophosphate (ThPP) into mitochondria; expression appears to be regulated by carbon source; member of the mitochondrial carrier family [Source:SGD;Acc:S000003328]
+#>E	YGR096W.1	1.0	676621-677565
+VII	677263	677556	1.0	Mitochondrial_sb/sol_carrier	0	677263-677556	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+VII	676957	677199	1.0	Mitochondrial_sb/sol_carrier	0	676957-677199	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+VII	676660	676935	1.0	Mitochondrial_sb/sol_carrier	0	676660-676935	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

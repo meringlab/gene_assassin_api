@@ -1,0 +1,5 @@
+#>P	WBGene00008505	F01G4.6b.1	F01G4.6b.1	IV	11147665	11148959	-1	Phosphate carrier protein, mitochondrial  [Source:UniProtKB/Swiss-Prot;Acc:P40614]
+#>E	F01G4.6a.1.e4,F01G4.6a.1.e3,F01G4.6a.1.e2,F01G4.6b.1.e1	0,1,1,0	11147662-11147739,11147788-11148516,11148560-11148681,11148725-11148959
+IV	11147728	11148015	-1	Mitochondrial_sb/sol_carrier	157.8	11147728-11147739,11147788-11148015	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IV	11148058	11148306	-1	Mitochondrial_sb/sol_carrier	157.8	11148058-11148306	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IV	11148352	11148646	-1	Mitochondrial_sb/sol_carrier	157.8	11148352-11148516,11148560-11148646	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

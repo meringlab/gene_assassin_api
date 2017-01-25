@@ -1,0 +1,4 @@
+#>P	YOL086C	YOL086C	YOL086C	XV	159551	160594	-1	Alcohol dehydrogenase; fermentative isozyme active as homo- or heterotetramers; required for the reduction of acetaldehyde to ethanol, the last step in the glycolytic pathway; ADH1 has a paralog, ADH5, that arose from the whole genome duplication [Source:SGD;Acc:S000005446]
+#>E	YOL086C.1	1.0	159548-160594
+XV	159665	160051	-1.0	ADH_C	0	159665-160051	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107
+XV	160184	160501	-1.0	ADH_GroES-like	0	160184-160501	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240

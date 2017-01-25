@@ -1,0 +1,4 @@
+#>P	YER105C	YER105C	YER105C	V	367841	372013	-1	Subunit of the inner ring of the nuclear pore complex (NPC); contributes to NPC assembly and tethering of DNA to the nuclear periphery; both Nup170p and NUP157p are similar to human Nup155p; NUP157 has a paralog, NUP170, that arose from the whole genome duplication [Source:SGD;Acc:S000000907]
+#>E	YER105C.1	1.0	367838-372013
+V	368144	369778	-1.0	Nucleoporin_Nup133/Nup155_C	0	368144-369778	PF03177	http://pfam.sanger.ac.uk/family?acc=PF03177
+V	370184	371617	-1.0	Nucleoporin_Nup133/Nup155_N	0	370184-371617	PF08801	http://pfam.sanger.ac.uk/family?acc=PF08801

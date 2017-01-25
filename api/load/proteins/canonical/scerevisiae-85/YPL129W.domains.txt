@@ -1,0 +1,3 @@
+#>P	YPL129W	YPL129W	YPL129W	XVI	305298	306134	1	Subunit of TFIID, TFIIF, INO80, SWI/SNF, and NuA3 complexes; involved in RNA polymerase II transcription initiation and in chromatin modification; contains a YEATS domain [Source:SGD;Acc:S000006050]
+#>E	YPL129W.1,YPL129W.2	1,1	305298-305306,305412-306137
+XVI	305490	305738	1	YEATS	0	305490-305738	PF03366	http://pfam.sanger.ac.uk/family?acc=PF03366

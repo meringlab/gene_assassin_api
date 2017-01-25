@@ -1,0 +1,3 @@
+#>P	YBR204C	YBR204C	YBR204C	II	632257	633381	-1	Serine hydrolase; exhibits active esterase plus weak triacylglycerol lipase activities; proposed role in lipid homeostasis, regulating phospholipid and non-polar lipid levels and required for mobilization of LD-stored lipids; localizes to the lipid droplet (LD) surface; contains a classical serine containing catalytic triad (GxSxG motif) [Source:SGD;Acc:S000000408]
+#>E	YBR204C.1	1.0	632254-633381
+II	632293	633033	-1.0	AB_hydrolase_1	0	632293-633033	PF00561	http://pfam.sanger.ac.uk/family?acc=PF00561

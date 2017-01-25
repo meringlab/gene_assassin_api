@@ -1,0 +1,4 @@
+#>P	YDL144C	YDL144C	YDL144C	IV	198665	199732	-1	Protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm and nucleus; YDL144C is not an essential gene; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002303]
+#>E	YDL144C.1	1.0	198662-199732
+IV	198737	199111	-1.0	ApbA_C	0	198737-199111	PF08546	http://pfam.sanger.ac.uk/family?acc=PF08546
+IV	199202	199723	-1.0	ApbA_N	0	199202-199723	PF02558	http://pfam.sanger.ac.uk/family?acc=PF02558

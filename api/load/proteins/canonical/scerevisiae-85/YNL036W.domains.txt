@@ -1,0 +1,3 @@
+#>P	YNL036W	YNL036W	YNL036W	XIV	559814	560476	1	Carbonic anhydrase; metalloenzyme that catalyzes CO2 hydration to bicarbonate, which is an important metabolic substrate, and protons; not expressed under conditions of high CO2, such as inside a growing colony, but transcription is induced in response to low CO2 levels, such as on the colony surface in ambient air; poorly transcribed under aerobic conditions and at an undetectable level under anaerobic conditions; abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004981]
+#>E	YNL036W.1	1.0	559814-560479
+XIV	559967	560437	1.0	Carbonic_anhydrase	0	559967-560437	PF00484	http://pfam.sanger.ac.uk/family?acc=PF00484

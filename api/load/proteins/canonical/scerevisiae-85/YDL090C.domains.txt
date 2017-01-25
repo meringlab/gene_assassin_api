@@ -1,0 +1,7 @@
+#>P	YDL090C	YDL090C	YDL090C	IV	295037	296329	-1	Beta subunit of the CAAX farnesyltransferase (FTase); this complex prenylates the a-factor mating pheromone and Ras proteins; required for the membrane localization of Ras proteins and a-factor; homolog of the mammalian FTase beta subunit [Source:SGD;Acc:S000002248]
+#>E	YDL090C.1	1.0	295034-296329
+IV	295817	295945	-1.0	Prenyltrans	0	295817-295945	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432
+IV	295208	295342	-1.0	Prenyltrans	0	295208-295342	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432
+IV	295367	295498	-1.0	Prenyltrans	0	295367-295498	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432
+IV	295658	295792	-1.0	Prenyltrans	0	295658-295792	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432
+IV	295514	295636	-1.0	Prenyltrans	0	295514-295636	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432

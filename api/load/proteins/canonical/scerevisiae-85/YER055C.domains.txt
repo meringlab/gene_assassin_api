@@ -1,0 +1,4 @@
+#>P	YER055C	YER055C	YER055C	V	264895	265785	-1	ATP phosphoribosyltransferase; a hexameric enzyme, catalyzes the first step in histidine biosynthesis; mutations cause histidine auxotrophy and sensitivity to Cu, Co, and Ni salts; transcription is regulated by general amino acid control [Source:SGD;Acc:S000000857]
+#>E	YER055C.1	1.0	264892-265785
+V	265126	265614	-1.0	ATP_PRibTrfase_cat	0	265126-265614	PF01634	http://pfam.sanger.ac.uk/family?acc=PF01634
+V	264901	265125	-1.0	HisG_C	0	264901-265125	PF08029	http://pfam.sanger.ac.uk/family?acc=PF08029

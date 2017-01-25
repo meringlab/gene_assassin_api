@@ -1,0 +1,3 @@
+#>P	YFR036W	YFR036W	YFR036W	VI	226963	227334	1	Subunit of the Anaphase-Promoting Complex/Cyclosome (APC/C); which is a ubiquitin-protein ligase required for degradation of anaphase inhibitors, including mitotic cyclins, during the metaphase/anaphase transition; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000001932]
+#>E	YFR036W.1	1.0	226963-227337
+VI	226963	227217	1.0	APC_suCDC26	0	226963-227217	PF10471	http://pfam.sanger.ac.uk/family?acc=PF10471

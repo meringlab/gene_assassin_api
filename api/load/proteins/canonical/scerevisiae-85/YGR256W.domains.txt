@@ -1,0 +1,4 @@
+#>P	YGR256W	YGR256W	YGR256W	VII	1004624	1006099	1	6-phosphogluconate dehydrogenase (decarboxylating); catalyzes an NADPH regenerating reaction in the pentose phosphate pathway; required for growth on D-glucono-delta-lactone; GND2 has a paralog, GND1, that arose from the whole genome duplication [Source:SGD;Acc:S000003488]
+#>E	YGR256W.1	1.0	1004624-1006102
+VII	1005164	1006030	1.0	6PGDH_C	0	1005164-1006030	PF00393	http://pfam.sanger.ac.uk/family?acc=PF00393
+VII	1004642	1005154	1.0	6PGDH_NADP-bd	0	1004642-1005154	PF03446	http://pfam.sanger.ac.uk/family?acc=PF03446

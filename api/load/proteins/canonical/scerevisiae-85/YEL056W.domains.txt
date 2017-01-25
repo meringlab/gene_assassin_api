@@ -1,0 +1,5 @@
+#>P	YEL056W	YEL056W	YEL056W	V	47168	48370	1	Subunit of the Hat1p-Hat2p histone acetyltransferase complex; required for high affinity binding of the complex to free histone H4, thereby enhancing Hat1p activity; similar to human RbAp46 and 48; has a role in telomeric silencing [Source:SGD;Acc:S000000782]
+#>E	YEL056W.1	1.0	47168-48373
+V	47627	47734	1.0	WD40_repeat	0	47627-47734	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+V	48023	48139	1.0	WD40_repeat	0	48023-48139	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+V	47198	47413	1.0	Histone-bd_RBBP4	0	47198-47413	PF12265	http://pfam.sanger.ac.uk/family?acc=PF12265

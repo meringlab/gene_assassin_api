@@ -1,0 +1,3 @@
+#>P	YDR372C	YDR372C	YDR372C	IV	1221115	1222149	-1	Golgi phosphatidylinositol-4-kinase effector and PtdIns4P sensor; interacts with the cytosolic domains of cis and medial glycosyltransferases, and in the PtdIns4P-bound state mediates the targeting of these enzymes to the Golgi; interacts with the catalytic domain of Sac1p, the major cellular PtdIns4P phosphatase, to direct dephosphosphorylation of the Golgi pool of PtdIns4P; tetramerization required for function; ortholog of human GOLPH3/GPP34/GMx33 [Source:SGD;Acc:S000002780]
+#>E	YDR372C.1	1.0	1221112-1222149
+IV	1221202	1221945	-1.0	GPP34	0	1221202-1221945	PF05719	http://pfam.sanger.ac.uk/family?acc=PF05719

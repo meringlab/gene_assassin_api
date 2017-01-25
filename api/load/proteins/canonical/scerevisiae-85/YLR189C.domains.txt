@@ -1,0 +1,6 @@
+#>P	YLR189C	YLR189C	YLR189C	XII	530800	534393	-1	UDP-glucose:sterol glucosyltransferase; conserved enzyme involved in synthesis of sterol glucoside membrane lipids; in contrast to ATG26 from P. pastoris, S. cerevisiae ATG26 is not involved in autophagy [Source:SGD;Acc:S000004179]
+#>E	YLR189C.1	1.0	530797-534393
+XII	532486	532686	-1.0	GRAM	0	532486-532686	PF02893	http://pfam.sanger.ac.uk/family?acc=PF02893
+XII	530992	531474	-1.0	UDP_glucos_trans	0	530992-531474	PF00201	http://pfam.sanger.ac.uk/family?acc=PF00201
+XII	531760	532167	-1.0	Glyco_trans_28	0	531760-532167	PF03033	http://pfam.sanger.ac.uk/family?acc=PF03033
+XII	533395	533676	-1.0	Pleckstrin_homology	0	533395-533676	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169

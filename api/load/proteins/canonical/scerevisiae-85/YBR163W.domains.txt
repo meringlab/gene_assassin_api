@@ -1,0 +1,4 @@
+#>P	YBR163W	YBR163W	YBR163W	II	565723	567477	1	Mitochondrial 5'-3' exonuclease and sliding exonuclease; required for mitochondrial genome maintenance; distantly related to the RecB nuclease domain of bacterial RecBCD recombinases; may be regulated by the transcription factor Ace2 [Source:SGD;Acc:S000000367]
+#>E	YBR163W.1	1.0	565723-567480
+II	566503	567402	1.0	Defects_morphology_1-like_mit	0	566503-567402	PF09810	http://pfam.sanger.ac.uk/family?acc=PF09810
+II	566086	566445	1.0	Defects_morphology_1-like_mit	0	566086-566445	PF09810	http://pfam.sanger.ac.uk/family?acc=PF09810

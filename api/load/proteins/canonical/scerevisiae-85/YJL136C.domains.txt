@@ -1,0 +1,3 @@
+#>P	YJL136C	YJL136C	YJL136C	X	156553	157273	-1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S21, no bacterial homolog; RPS21B has a paralog, RPS21A, that arose from the whole genome duplication [Source:SGD;Acc:S000003672]
+#>E	YJL136C.2,YJL136C.1	1,1	156550-156789,157250-157273
+X	156571	157273	-1	Ribosomal_S21e	0	156571-156789,157250-157273	PF01249	http://pfam.sanger.ac.uk/family?acc=PF01249

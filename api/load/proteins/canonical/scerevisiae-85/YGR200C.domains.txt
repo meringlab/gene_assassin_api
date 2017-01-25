@@ -1,0 +1,10 @@
+#>P	YGR200C	YGR200C	YGR200C	VII	899907	902270	-1	Subunit of Elongator complex; Elongator is required for modification of wobble nucleosides in tRNA; target of Kluyveromyces lactis zymocin [Source:SGD;Acc:S000003432]
+#>E	YGR200C.1	1.0	899904-902270
+VII	900225	900317	-1.0	WD40_repeat	0	900225-900317	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	901344	901436	-1.0	WD40_repeat	0	901344-901436	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	902010	902114	-1.0	WD40_repeat	0	902010-902114	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	901572	901691	-1.0	WD40_repeat	0	901572-901691	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	900369	900467	-1.0	WD40_repeat	0	900369-900467	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	901035	901124	-1.0	WD40_repeat	0	901035-901124	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	901884	901988	-1.0	WD40_repeat	0	901884-901988	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	900525	900620	-1.0	WD40_repeat	0	900525-900620	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

@@ -1,0 +1,5 @@
+#>P	YGL043W	YGL043W	YGL043W	VII	417483	418409	1	General transcription elongation factor TFIIS; enables RNA polymerase II to read through blocks to elongation by stimulating cleavage of nascent transcripts stalled at transcription arrest sites; maintains RNAPII elongation activity on ribosomal protein genes during conditions of transcriptional stress [Source:SGD;Acc:S000003011]
+#>E	YGL043W.1	1.0	417483-418412
+VII	418287	418403	1.0	Znf_TFIIS	0	418287-418403	PF01096	http://pfam.sanger.ac.uk/family?acc=PF01096
+VII	417555	417710	1.0	TFIIS_N	0	417555-417710	PF08711	http://pfam.sanger.ac.uk/family?acc=PF08711
+VII	417915	418253	1.0	TFIIS_cen_dom	0	417915-418253	PF07500	http://pfam.sanger.ac.uk/family?acc=PF07500

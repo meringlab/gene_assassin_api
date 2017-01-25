@@ -1,0 +1,3 @@
+#>P	Q0075	Q0075	Q0075	Mito	24156	25252	1	Protein of unknown function; encoded within an intron of the mitochondrial COX1 gene; translational initiation codon is predicted to be ATA rather than ATG [Source:SGD;Acc:S000007266]
+#>E	Q0075.1,Q0075.2	1,1	24156-24870,24906-25255
+Mito	24756	25081	1	Endonuc_LAG/HNH	0	24756-24870,24906-25081	PF00961	http://pfam.sanger.ac.uk/family?acc=PF00961

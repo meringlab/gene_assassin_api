@@ -1,0 +1,5 @@
+#>P	YDR341C	YDR341C	YDR341C	IV	1151806	1153626	-1	Arginyl-tRNA synthetase; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; YDR341C has a paralog, MSR1, that arose from the whole genome duplication [Source:SGD;Acc:S000002749]
+#>E	YDR341C.1	1.0	1151803-1153626
+IV	1152202	1153257	-1.0	Arg-tRNA-synth_Ia_core	0	1152202-1153257	PF00750	http://pfam.sanger.ac.uk/family?acc=PF00750
+IV	1153285	1153524	-1.0	Arg-tRNA-synth_N	0	1153285-1153524	PF03485	http://pfam.sanger.ac.uk/family?acc=PF03485
+IV	1151806	1152162	-1.0	DALR_anticod-bd	0	1151806-1152162	PF05746	http://pfam.sanger.ac.uk/family?acc=PF05746

@@ -1,0 +1,4 @@
+#>P	YEL061C	YEL061C	YEL061C	V	36538	39537	-1	Kinesin motor protein; involved in mitotic spindle assembly and chromosome segregation [Source:SGD;Acc:S000000787]
+#>E	YEL061C.1	1.0	36535-39537
+V	38845	39414	-1.0	Kinesin_motor_dom	0	38845-39414	PF00225	http://pfam.sanger.ac.uk/family?acc=PF00225
+V	38107	38637	-1.0	Kinesin_motor_dom	0	38107-38637	PF00225	http://pfam.sanger.ac.uk/family?acc=PF00225

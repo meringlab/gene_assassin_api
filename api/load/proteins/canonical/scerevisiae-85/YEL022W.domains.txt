@@ -1,0 +1,3 @@
+#>P	YEL022W	YEL022W	YEL022W	V	111421	115797	1	Guanine nucleotide exchange factor for ADP ribosylation factors (ARFs); involved in vesicular transport between the Golgi and ER, Golgi organization, and actin cytoskeleton organization; GEA2 has a paralog, GEA1, that arose from the whole genome duplication [Source:SGD;Acc:S000000748]
+#>E	YEL022W.1	1.0	111421-115800
+V	113089	113688	1.0	Sec7	0	113089-113688	PF01369	http://pfam.sanger.ac.uk/family?acc=PF01369

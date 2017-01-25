@@ -1,0 +1,4 @@
+#>P	YKL193C	YKL193C	YKL193C	XI	78869	79882	-1	Regulatory subunit of the type 1 protein phosphatase (PP1) Glc7p; whether it functions as a positive or negative regulator of Glc7p is controversial; involved in the regulation of Glc7p nuclear localization and function [Source:SGD;Acc:S000001676]
+#>E	YKL193C.1	1.0	78866-79882
+XI	79484	79603	-1.0	Leu-rich_rpt_4	0	79484-79603	PF12799	http://pfam.sanger.ac.uk/family?acc=PF12799
+XI	79148	79276	-1.0	Leu-rich_rpt_4	0	79148-79276	PF12799	http://pfam.sanger.ac.uk/family?acc=PF12799

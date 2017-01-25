@@ -1,0 +1,4 @@
+#>P	YLL008W	YLL008W	YLL008W	XII	131729	133984	1	Nucleolar DEAD-box protein required for ribosome assembly and function; including synthesis of 60S ribosomal subunits; constituent of 66S pre-ribosomal particles [Source:SGD;Acc:S000003931]
+#>E	YLL008W.1	1.0	131729-133987
+XII	132494	133003	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	132494-133003	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+XII	133235	133450	1.0	Helicase_C	0	133235-133450	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

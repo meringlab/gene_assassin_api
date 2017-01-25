@@ -1,0 +1,3 @@
+#>P	YIL094C	YIL094C	YIL094C	IX	186520	187632	-1	Homo-isocitrate dehydrogenase; an NAD-linked mitochondrial enzyme required for the fourth step in the biosynthesis of lysine, in which homo-isocitrate is oxidatively decarboxylated to alpha-ketoadipate [Source:SGD;Acc:S000001356]
+#>E	YIL094C.1	1.0	186517-187632
+IX	186532	187560	-1.0	IsoPropMal-DH-like_dom	0	186532-187560	PF00180	http://pfam.sanger.ac.uk/family?acc=PF00180

@@ -1,0 +1,4 @@
+#>P	YBL076C	YBL076C	YBL076C	II	81046	84261	-1	Cytoplasmic isoleucine-tRNA synthetase; target of the G1-specific inhibitor reveromycin A [Source:SGD;Acc:S000000172]
+#>E	YBL076C.1	1.0	81043-84261
+II	81709	82185	-1.0	V/L/I-tRNA-synth_anticodon-bd	0	81709-82185	PF08264	http://pfam.sanger.ac.uk/family?acc=PF08264
+II	82342	84213	-1.0	aa-tRNA-synth_Ia	0	82342-84213	PF00133	http://pfam.sanger.ac.uk/family?acc=PF00133

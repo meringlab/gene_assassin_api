@@ -1,0 +1,3 @@
+#>P	YMR326C	YMR326C	YMR326C	XIII	923497	923802	-1	Dubious open reading frame; unlikely to encode a functional protein, based on available experimental and comparative sequence data; overlaps the telomere on the right arm of chromosome 13 [Source:SGD;Acc:S000004945]
+#>E	YMR326C.1	1.0	923494-923802
+XIII	923563	923802	-1.0	DUF468	0	923563-923802	PF04318	http://pfam.sanger.ac.uk/family?acc=PF04318

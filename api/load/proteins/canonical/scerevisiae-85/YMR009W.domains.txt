@@ -1,0 +1,3 @@
+#>P	YMR009W	YMR009W	YMR009W	XIII	284102	284638	1	Acireductone dioxygenease involved in the methionine salvage pathway; ortholog of human MTCBP-1; transcribed as polycistronic mRNA with YMR010W and regulated post-transcriptionally by RNase III (Rnt1p) cleavage; ADI1 mRNA is induced in heat shock conditions [Source:SGD;Acc:S000004611]
+#>E	YMR009W.1	1.0	284102-284641
+XIII	284108	284569	1.0	Acireductn_dOase_family	0	284108-284569	PF03079	http://pfam.sanger.ac.uk/family?acc=PF03079

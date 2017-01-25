@@ -1,0 +1,10 @@
+#>P	YCR084C	YCR084C	YCR084C	III	260314	262452	-1	General repressor of transcription; forms complex with Cyc8p, involved in the establishment of repressive chromatin structure through interactions with histones H3 and H4, appears to enhance expression of some genes [Source:SGD;Acc:S000000680]
+#>E	YCR084C.1	1.0	260311-262452
+III	262183	262422	-1.0	Tscrpt_rep_Tup1_N	0	262183-262422	PF08581	http://pfam.sanger.ac.uk/family?acc=PF08581
+III	261346	261444	-1.0	WD40_repeat	0	261346-261444	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	261040	261117	-1.0	WD40_repeat	0	261040-261117	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	260335	260466	-1.0	WD40_repeat	0	260335-260466	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	260788	260880	-1.0	WD40_repeat	0	260788-260880	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	260641	260736	-1.0	WD40_repeat	0	260641-260736	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	260479	260595	-1.0	WD40_repeat	0	260479-260595	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+III	260914	261027	-1.0	WD40_repeat	0	260914-261027	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

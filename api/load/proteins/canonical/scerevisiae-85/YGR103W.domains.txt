@@ -1,0 +1,4 @@
+#>P	YGR103W	YGR103W	YGR103W	VII	695417	697231	1	Component of several different pre-ribosomal particles; forms a complex with Ytm1p and Erb1p that is required for maturation of the large ribosomal subunit; required for exit from G<sub>0</sub> and the initiation of cell proliferation [Source:SGD;Acc:S000003335]
+#>E	YGR103W.1	1.0	695417-697234
+VII	696488	696724	1.0	BRCT	0	696488-696724	PF00533	http://pfam.sanger.ac.uk/family?acc=PF00533
+VII	695426	696262	1.0	Pescadillo	0	695426-696262	PF06732	http://pfam.sanger.ac.uk/family?acc=PF06732

@@ -1,0 +1,3 @@
+#>P	YOR233W	YOR233W	YOR233W	XV	775846	778245	1	Serine/threonine protein kinase; inhibits the mitotic exit network (MEN) when the spindle position checkpoint is activated; localized asymmetrically to mother cell cortex, spindle pole body and bud neck; KIN4 has a paralog, FRK1, that arose from the whole genome duplication [Source:SGD;Acc:S000005759]
+#>E	YOR233W.1	1.0	775846-778248
+XV	775984	776784	1.0	Prot_kinase_cat_dom	0	775984-776784	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

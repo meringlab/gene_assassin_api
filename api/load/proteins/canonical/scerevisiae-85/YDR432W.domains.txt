@@ -1,0 +1,4 @@
+#>P	YDR432W	YDR432W	YDR432W	IV	1328783	1330024	1	RNA-binding protein; promotes elongation, regulates termination, and carries poly(A) mRNA from nucleus to cytoplasm; represses translation initiation by binding eIF4G; required for pre-mRNA splicing; interacts with E3 ubiquitin ligase Bre1p, linking histone ubiquitination to mRNA processing; may have role in telomere maintenance; dissociation from mRNAs promoted by Mtr10p; phosphorylated by Sky1p in cytoplasm; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002840]
+#>E	YDR432W.1	1.0	1328783-1330027
+IV	1329161	1329346	1.0	RRM_dom	0	1329161-1329346	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+IV	1329386	1329586	1.0	RRM_dom	0	1329386-1329586	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

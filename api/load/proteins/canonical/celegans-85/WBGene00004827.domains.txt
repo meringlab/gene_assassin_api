@@ -1,0 +1,4 @@
+#>P	WBGene00004827	K08H2.1	K08H2.1	X	13226137	13226664	-1	SKp1 Related (ubiquitin ligase complex component)  [Source:RefSeq peptide;Acc:NP_510194]
+#>E	K08H2.1.e1	1.0	13226134-13226664
+X	13226455	13226643	-1.0	Skp1_comp_POZ	84.7	13226455-13226643	PF03931	http://pfam.sanger.ac.uk/family?acc=PF03931
+X	13226254	13226421	-1.0	Skp1_comp_dimer	41.9	13226254-13226421	PF01466	http://pfam.sanger.ac.uk/family?acc=PF01466

@@ -1,0 +1,4 @@
+#>P	YGL055W	YGL055W	YGL055W	VII	398628	400157	1	Delta(9) fatty acid desaturase; required for monounsaturated fatty acid synthesis and for normal distribution of mitochondria [Source:SGD;Acc:S000003023]
+#>E	YGL055W.1	1.0	398628-400160
+VII	399864	400085	1.0	Cyt_B5	0	399864-400085	PF00173	http://pfam.sanger.ac.uk/family?acc=PF00173
+VII	399051	399689	1.0	Fatty_acid_desaturase-1	0	399051-399689	PF00487	http://pfam.sanger.ac.uk/family?acc=PF00487

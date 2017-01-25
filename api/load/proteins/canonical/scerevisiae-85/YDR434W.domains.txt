@@ -1,0 +1,3 @@
+#>P	YDR434W	YDR434W	YDR434W	IV	1331237	1332838	1	Transmembrane protein; subunit of the glycosylphosphatidylinositol transamidase complex that adds GPIs to newly synthesized proteins; human PIG-S homolog [Source:SGD;Acc:S000002842]
+#>E	YDR434W.1	1.0	1331237-1332841
+IV	1331273	1332751	1.0	PtdIno-glycan_biosynth_class_S	0	1331273-1332751	PF10510	http://pfam.sanger.ac.uk/family?acc=PF10510

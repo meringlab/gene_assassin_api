@@ -1,0 +1,3 @@
+#>P	YBR102C	YBR102C	YBR102C	II	445065	447323	-1	Exocyst subunit with dual roles in exocytosis and spliceosome assembly; subunit of the the exocyst complex which mediates polarized targeting and tethering of post-Golgi secretory vesicles to active sites of exocytosis at the plasma membrane (PM) prior to SNARE-mediated fusion; required for exocyst assembly and targeting the complex to specific sites on the bud tip PM; associates the U1 snRNP; role in pre-mRNA splicing and prespliceosome formation; possible Cdc28 substrate [Source:SGD;Acc:S000000306]
+#>E	YBR102C.1	1.0	445062-447323
+II	446544	446792	-1.0	Vps51	0	446544-446792	PF08700	http://pfam.sanger.ac.uk/family?acc=PF08700

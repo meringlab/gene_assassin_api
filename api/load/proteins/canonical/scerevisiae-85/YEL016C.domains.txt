@@ -1,0 +1,3 @@
+#>P	YEL016C	YEL016C	YEL016C	V	124740	126218	-1	Nucleotide pyrophosphatase/phosphodiesterase; mediates extracellular nucleotide phosphate hydrolysis along with Npp1p and Pho5p; activity and expression enhanced during conditions of phosphate starvation; involved in spore wall assembly; NPP2 has a paralog, NPP1, that arose from the whole genome duplication, and an npp1 npp2 double mutant exhibits reduced dityrosine fluorescence relative to the single mutants [Source:SGD;Acc:S000000742]
+#>E	YEL016C.1	1.0	124737-126218
+V	124905	125987	-1.0	Phosphodiest/P_Trfase	0	124905-125987	PF01663	http://pfam.sanger.ac.uk/family?acc=PF01663

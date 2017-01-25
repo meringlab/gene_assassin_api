@@ -1,0 +1,3 @@
+#>P	YDR079C-A	YDR079C-A	YDR079C-A	IV	603596	603811	-1	Component of RNA polymerase II general transcription factor TFIIH; involved in transcription initiation and in nucleotide-excision repair; relocalizes to the cytosol in response to hypoxia; homolog of Chlamydomonas reinhardtii REX1-S protein involved in DNA repair [Source:SGD;Acc:S000007603]
+#>E	YDR079C-A.1	1.0	603593-603811
+IV	603614	603811	-1.0	Nuc_excision_repair_TFIIH_TTDA	0	603614-603811	PF06331	http://pfam.sanger.ac.uk/family?acc=PF06331

@@ -1,0 +1,3 @@
+#>P	YER020W	YER020W	YER020W	V	195168	196514	1	Nucleotide binding alpha subunit of the heterotrimeric G protein; interacts with the receptor Gpr1p, has signaling role in response to nutrients; required for the recruitment of Ras-GTP at the plasma membrane and in the nucleus [Source:SGD;Acc:S000000822]
+#>E	YER020W.1	1.0	195168-196517
+V	195315	196508	1.0	Gprotein_alpha_su	0	195315-196508	PF00503	http://pfam.sanger.ac.uk/family?acc=PF00503

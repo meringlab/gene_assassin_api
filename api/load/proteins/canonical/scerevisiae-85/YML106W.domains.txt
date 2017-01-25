@@ -1,0 +1,3 @@
+#>P	YML106W	YML106W	YML106W	XIII	56773	57450	1	Major orotate phosphoribosyltransferase (OPRTase) isozyme; catalyzes the fifth enzymatic step in de novo biosynthesis of pyrimidines, converting orotate into orotidine-5'-phosphate; URA5 has a paralog, URA10, that arose from the whole genome duplication [Source:SGD;Acc:S000004574]
+#>E	YML106W.1	1.0	56773-57453
+XIII	56899	57255	1.0	PRibTrfase	0	56899-57255	PF00156	http://pfam.sanger.ac.uk/family?acc=PF00156

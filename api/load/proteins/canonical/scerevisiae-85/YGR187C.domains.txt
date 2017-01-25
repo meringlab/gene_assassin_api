@@ -1,0 +1,4 @@
+#>P	YGR187C	YGR187C	YGR187C	VII	870235	871416	-1	Nonessential protein of unknown function; predicted to be involved in ribosome biogenesis; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; similar to mammalian BRP16 (Brain protein 16); relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000003419]
+#>E	YGR187C.1	1.0	870232-871416
+VII	870334	870501	-1.0	UPF0507_C	0	870334-870501	PF04064	http://pfam.sanger.ac.uk/family?acc=PF04064
+VII	870514	871128	-1.0	UPF0507	0	870514-871128	PF04063	http://pfam.sanger.ac.uk/family?acc=PF04063

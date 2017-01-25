@@ -1,0 +1,5 @@
+#>P	YHR168W	YHR168W	YHR168W	VIII	440377	441930	1	Putative GTPase; member of the Obg family; peripheral protein of the mitochondrial inner membrane that associates with the large ribosomal subunit; required for mitochondrial translation, possibly via a role in ribosome assembly [Source:SGD;Acc:S000001211]
+#>E	YHR168W.1	1.0	440377-441933
+VIII	441400	441759	1.0	GTP_binding_domain	0	441400-441759	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926
+VIII	441232	441387	1.0	GTP1_OBG_dom	0	441232-441387	PF01018	http://pfam.sanger.ac.uk/family?acc=PF01018
+VIII	440647	440964	1.0	GTP1_OBG_dom	0	440647-440964	PF01018	http://pfam.sanger.ac.uk/family?acc=PF01018

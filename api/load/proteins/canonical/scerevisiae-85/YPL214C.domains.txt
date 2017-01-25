@@ -1,0 +1,4 @@
+#>P	YPL214C	YPL214C	YPL214C	XVI	148572	150191	-1	Thiamine-phosphate diphosphorylase and hydroxyethylthiazole kinase; required for thiamine biosynthesis; GFP-fusion protein localizes to the cytoplasm in a punctate pattern [Source:SGD;Acc:S000006135]
+#>E	YPL214C.1	1.0	148569-150191
+XVI	148614	149429	-1.0	Hyethyz_kinase	0	148614-149429	PF02110	http://pfam.sanger.ac.uk/family?acc=PF02110
+XVI	149556	150158	-1.0	TMP_synthase	0	149556-150158	PF02581	http://pfam.sanger.ac.uk/family?acc=PF02581

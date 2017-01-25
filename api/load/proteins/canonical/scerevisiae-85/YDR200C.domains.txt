@@ -1,0 +1,3 @@
+#>P	YDR200C	YDR200C	YDR200C	IV	854282	856093	-1	Protein required for cytoplasm to vacuole targeting of proteins; forms a complex with Far3p and Far7p to Far11p involved in recovery from pheromone-induced cell cycle arrest; mutant has increased aneuploidy tolerance; VPS64 has a paralog, FAR10, that arose from the whole genome duplication [Source:SGD;Acc:S000002608]
+#>E	YDR200C.1	1.0	854279-856093
+IV	855275	855442	-1.0	FHA_dom	63.7	855275-855442	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498

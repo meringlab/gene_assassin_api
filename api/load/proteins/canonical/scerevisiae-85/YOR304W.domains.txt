@@ -1,0 +1,6 @@
+#>P	YOR304W	YOR304W	YOR304W	XV	884514	887873	1	ATP-dependent DNA translocase involved in chromatin remodeling; ATPase component that, with Itc1p, forms a complex required for repression of a-specific genes, INO1, and early meiotic genes during mitotic growth; the Isw2 complex exhibits basal levels of chromatin binding throughout the genome as well as target-specific chromatin interactions; targeted by Ume6p- and Sua7p-dependent DNA looping to many loci genome-wide [Source:SGD;Acc:S000005831]
+#>E	YOR304W.1	1.0	884514-887876
+XV	886098	886325	1.0	Helicase_C	0	886098-886325	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XV	887340	887693	1.0	SLIDE	0	887340-887693	PF09111	http://pfam.sanger.ac.uk/family?acc=PF09111
+XV	885072	885923	1.0	SNF2_N	0	885072-885923	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176
+XV	886773	887171	1.0	ATPase_nucl-remodel_HAND-dom	0	886773-887171	PF09110	http://pfam.sanger.ac.uk/family?acc=PF09110

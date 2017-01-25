@@ -1,0 +1,5 @@
+#>P	YML059C	YML059C	YML059C	XIII	153222	158258	-1	Serine esterase; homolog of human neuropathy target esterase (NTE); Nte1p-mediated phosphatidylcholine turnover influences transcription factor Opi1p localization, affecting transcriptional regulation of phospholipid biosynthesis genes [Source:SGD;Acc:S000004524]
+#>E	YML059C.1	1.0	153219-158258
+XIII	155076	155375	-1.0	cNMP-bd_dom	0	155076-155375	PF00027	http://pfam.sanger.ac.uk/family?acc=PF00027
+XIII	155460	155795	-1.0	cNMP-bd_dom	0	155460-155795	PF00027	http://pfam.sanger.ac.uk/family?acc=PF00027
+XIII	153654	154142	-1.0	Patatin/PLipase_A2-rel	0	153654-154142	PF01734	http://pfam.sanger.ac.uk/family?acc=PF01734

@@ -1,0 +1,4 @@
+#>P	YGL078C	YGL078C	YGL078C	VII	360291	361859	-1	RNA-Dependent ATPase, member of DExD/H-box family; involved in cleavage of site A3 within the ITS1 spacer during rRNA processing; not essential for growth, but deletion causes severe slow-growth phenotype [Source:SGD;Acc:S000003046]
+#>E	YGL078C.1	1.0	360288-361859
+VII	360498	360725	-1.0	Helicase_C	0	360498-360725	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+VII	360948	361454	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	360948-361454	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

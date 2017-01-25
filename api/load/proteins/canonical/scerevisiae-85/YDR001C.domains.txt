@@ -1,0 +1,4 @@
+#>P	YDR001C	YDR001C	YDR001C	IV	450223	452475	-1	Neutral trehalase, degrades trehalose; required for thermotolerance and may mediate resistance to other cellular stresses; may be phosphorylated by Cdc28p; inhibited by Dcs1p; NTH1 has a paralog, NTH2, that arose from the whole genome duplication [Source:SGD;Acc:S000002408]
+#>E	YDR001C.1	1.0	450220-452475
+IV	450313	451989	-1.0	Glyco_hydro_37	0	450313-451989	PF01204	http://pfam.sanger.ac.uk/family?acc=PF01204
+IV	452071	452160	-1.0	Trehalase_Ca-bd	0	452071-452160	PF07492	http://pfam.sanger.ac.uk/family?acc=PF07492

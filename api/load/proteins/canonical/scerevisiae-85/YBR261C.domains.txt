@@ -1,0 +1,3 @@
+#>P	YBR261C	YBR261C	YBR261C	II	734835	735530	-1	AdoMet-dependent proline methyltransferase; catalyzes the dimethylation of ribosomal proteins Rpl12 and Rps25 at N-terminal proline residues; has a role in protein synthesis; fusion protein localizes to the cytoplasm [Source:SGD;Acc:S000000465]
+#>E	YBR261C.1	1.0	734832-735530
+II	734847	735515	-1.0	DUF858_MeTrfase_lik	0	734847-735515	PF05891	http://pfam.sanger.ac.uk/family?acc=PF05891

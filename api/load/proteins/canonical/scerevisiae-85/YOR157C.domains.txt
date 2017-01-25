@@ -1,0 +1,4 @@
+#>P	YOR157C	YOR157C	YOR157C	XV	630969	631751	-1	Beta 2 subunit of the 20S proteasome; endopeptidase with trypsin-like activity that cleaves after basic residues; synthesized as a proprotein before being proteolytically processed for assembly into 20S particle; human homolog is subunit Z [Source:SGD;Acc:S000005683]
+#>E	YOR157C.1	1.0	630966-631751
+XV	631131	631673	-1.0	Proteasome_sua/b	0	631131-631673	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227
+XV	630981	631088	-1.0	Proteasome_bsu_C	0	630981-631088	PF12465	http://pfam.sanger.ac.uk/family?acc=PF12465

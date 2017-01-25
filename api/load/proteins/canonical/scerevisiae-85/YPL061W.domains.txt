@@ -1,0 +1,3 @@
+#>P	YPL061W	YPL061W	YPL061W	XVI	432588	434087	1	Cytosolic aldehyde dehydrogenase; activated by Mg2+ and utilizes NADP+ as the preferred coenzyme; required for conversion of acetaldehyde to acetate; constitutively expressed; locates to the mitochondrial outer surface upon oxidative stress [Source:SGD;Acc:S000005982]
+#>E	YPL061W.1	1.0	432588-434090
+XVI	432696	434075	1.0	Aldehyde_DH_dom	0	432696-434075	PF00171	http://pfam.sanger.ac.uk/family?acc=PF00171

@@ -1,0 +1,3 @@
+#>P	YOR232W	YOR232W	YOR232W	XV	774573	775256	1	Mitochondrial matrix cochaperone; nucleotide release factor for Ssc1p in protein translocation and folding; also acts as cochaperone for Ssq1p in folding of Fe-S cluster proteins; acts as oxidative sensor to regulate mitochondrial Ssc1p; in presence of oxidative stress, dimeric Mge1p becomes a monomer and unable to regulate Ssc1p function; homolog of E. coli GrpE and human Mge1 (GRPEL1), which also responds to oxidative stress [Source:SGD;Acc:S000005758]
+#>E	YOR232W.1	1.0	774573-775259
+XV	774738	775244	1.0	GrpE	0	774738-775244	PF01025	http://pfam.sanger.ac.uk/family?acc=PF01025

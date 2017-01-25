@@ -1,0 +1,5 @@
+#>P	YNL163C	YNL163C	YNL163C	XIV	326744	330073	-1	Cytoplasmic GTPase/eEF2-like factor involved in ribosomal biogenesis; with Sdo1p, a guanine nucleotide exchange factor (GEF), promotes release of Tif6p from 60S ribosomal subunits in the cytoplasm so that they can assemble with 40S subunits to generate mature ribosomes; required for quality control check of newly made large ribosomal subunits before they are released into the pool of translating ribosomes [Source:SGD;Acc:S000005107]
+#>E	YNL163C.1	1.0	326741-330073
+XIV	329303	330019	-1.0	ProtSyn_GTP-bd	0	329303-330019	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+XIV	328124	328327	-1.0	Transl_elong_EFTu/EF1A_2	0	328124-328327	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144
+XIV	326912	327154	-1.0	Transl_elong_EFG/EF2_C	0	326912-327154	PF00679	http://pfam.sanger.ac.uk/family?acc=PF00679

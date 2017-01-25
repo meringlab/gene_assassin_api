@@ -1,0 +1,3 @@
+#>P	YPR154W	YPR154W	YPR154W	XVI	834565	835209	1	Negative regulator of actin nucleation-promoting factor activity; interacts with Las17p, a homolog of human Wiskott-Aldrich Syndrome protein (WASP), via an N-terminal SH3 domain, and along with LSB1 cooperatively inhibits the nucleation of actin filaments; short-lived protein whose levels increase in response to thermal stress; induces the formation of the [PIN+] and [RNQ+] prions when overproduced; PIN3 has a paralog, LSB1, that arose from the whole genome duplication [Source:SGD;Acc:S000006358]
+#>E	YPR154W.1	1.0	834565-835212
+XVI	834745	834879	1.0	SH3_domain	0	834745-834879	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018

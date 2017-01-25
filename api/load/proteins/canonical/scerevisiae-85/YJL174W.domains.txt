@@ -1,0 +1,4 @@
+#>P	YJL174W	YJL174W	YJL174W	X	95092	95919	1	Glycoprotein involved in cell wall beta-glucan assembly; null mutation leads to severe growth defects, aberrant multibudded morphology, and mating defects [Source:SGD;Acc:S000003710]
+#>E	YJL174W.1	1.0	95092-95922
+X	95602	95916	1.0	KRE9/KNH1	0	95602-95916	PF05390	http://pfam.sanger.ac.uk/family?acc=PF05390
+X	95164	95493	1.0	CW_beta-glucan_synthesis	0	95164-95493	PF10342	http://pfam.sanger.ac.uk/family?acc=PF10342

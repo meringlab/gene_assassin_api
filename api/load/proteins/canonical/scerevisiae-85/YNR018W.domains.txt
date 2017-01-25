@@ -1,0 +1,3 @@
+#>P	YNR018W	YNR018W	YNR018W	XIV	664270	664941	1	Cytochrome c oxidase subunit; has a role in assembly of respiratory supercomplexes; similar to Rcf1p, and either Rcf1p or Rcf2p is required for late-stage assembly of the Cox12p and Cox13p subunits and for cytochrome c oxidase activity; associates with the cytochrome c oxidase - cytochrome bc1 supercomplex; null mutant accumulates reactive oxygen species; member of the conserved hypoxia induced gene family; C. elegans homolog is functional in yeast [Source:SGD;Acc:S000005301]
+#>E	YNR018W.1	1.0	664270-664944
+XIV	664690	664761	1.0	Hypoxia_induced_domain	0	664690-664761	PF04588	http://pfam.sanger.ac.uk/family?acc=PF04588

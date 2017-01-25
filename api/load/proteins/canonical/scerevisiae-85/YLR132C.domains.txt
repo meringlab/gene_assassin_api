@@ -1,0 +1,3 @@
+#>P	YLR132C	YLR132C	YLR132C	XII	407286	408155	-1	Putative phosphodiesterase specific for U6 snRNA 3' end modification; trims the 3' poly(u) tract to leave a terminal 3' phosphate; human homolog, hUSB1 (aka C16orf57) produces a 2',3' cyclic phosphate; mutations in hUSB1 are associated with a rare skin condition (OMIM 604173); essential protein that localizes to the nucleus and mitochondria; overexpression suppresses the respiratory defects of oxa1 and mtf2 mutants [Source:SGD;Acc:S000004122]
+#>E	YLR132C.1	1.0	407283-408155
+XII	407292	407945	-1.0	UPF0406	0	407292-407945	PF09749	http://pfam.sanger.ac.uk/family?acc=PF09749

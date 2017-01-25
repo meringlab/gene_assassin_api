@@ -1,0 +1,3 @@
+#>P	YAL017W	YAL017W	YAL017W	I	120225	124292	1	PAS domain-containing serine/threonine protein kinase; coordinately regulates protein synthesis and carbohydrate metabolism and storage in response to a unknown metabolite that reflects nutritional status; PSK1 has a paralog, PSK2, that arose from the whole genome duplication [Source:SGD;Acc:S000000015]
+#>E	YAL017W.1	1.0	120225-124295
+I	123516	124286	1.0	Prot_kinase_cat_dom	0	123516-124286	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

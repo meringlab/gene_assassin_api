@@ -1,0 +1,4 @@
+#>P	YER170W	YER170W	YER170W	V	525974	526648	1	Mitochondrial adenylate kinase; catalyzes the reversible synthesis of GTP and AMP from GDP and ADP; may serve as a back-up for synthesizing GTP or ADP depending on metabolic conditions; 3' sequence of ADK2 varies with strain background [Source:SGD;Acc:S000000972]
+#>E	YER170W.1	1.0	525974-526651
+V	526028	526597	1.0	Adenylate_kin	0	526028-526597	PF00406	http://pfam.sanger.ac.uk/family?acc=PF00406
+V	526406	526513	1.0	Adenylate_kinase_lid-dom	0	526406-526513	PF05191	http://pfam.sanger.ac.uk/family?acc=PF05191

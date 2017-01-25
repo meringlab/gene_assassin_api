@@ -1,0 +1,4 @@
+#>P	YKR089C	YKR089C	YKR089C	XI	605636	608365	-1	Multifunctional lipase/hydrolase/phospholipase; triacylglycerol lipase, steryl ester hydrolase, and Ca2+-independent phospholipase A2; catalyzes acyl-CoA dependent acylation of LPA to PA; required with Tgl3p for timely bud formation; phosphorylated and activated by Cdc28p; TGL4 has a paralog, TGL5, that arose from the whole genome duplication [Source:SGD;Acc:S000001797]
+#>E	YKR089C.1	1.0	605633-608365
+XI	607538	607930	-1.0	Triacylglycerol_lipase	0	607538-607930	PF11815	http://pfam.sanger.ac.uk/family?acc=PF11815
+XI	606929	607522	-1.0	Patatin/PLipase_A2-rel	0	606929-607522	PF01734	http://pfam.sanger.ac.uk/family?acc=PF01734

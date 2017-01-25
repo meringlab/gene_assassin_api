@@ -1,0 +1,4 @@
+#>P	YBR234C	YBR234C	YBR234C	II	685441	686592	-1	Subunit of the ARP2/3 complex; ARP2/3 is required for the motility and integrity of cortical actin patches [Source:SGD;Acc:S000000438]
+#>E	YBR234C.1	1.0	685438-686592
+II	686050	686157	-1.0	WD40_repeat	0	686050-686157	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	686323	686424	-1.0	WD40_repeat	0	686323-686424	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

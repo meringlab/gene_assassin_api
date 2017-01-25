@@ -1,0 +1,3 @@
+#>P	YMR043W	YMR043W	YMR043W	XIII	353871	354728	1	Transcription factor; involved in cell-type-specific transcription and pheromone response; plays a central role in the formation of both repressor and activator complexes; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000004646]
+#>E	YMR043W.1	1.0	353871-354731
+XIII	353940	354092	1.0	TF_MADSbox	0	353940-354092	PF00319	http://pfam.sanger.ac.uk/family?acc=PF00319

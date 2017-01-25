@@ -1,0 +1,3 @@
+#>P	YJL082W	YJL082W	YJL082W	X	281185	283377	1	Protein of unknown function; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; protein abundance increases in response to DNA replication stress; IML2 has a paralog, YKR018C, that arose from the whole genome duplication [Source:SGD;Acc:S000003618]
+#>E	YJL082W.1	1.0	281185-283380
+X	281296	283086	1.0	OMP_IML2_mit/TPR_39	0	281296-283086	PF10300	http://pfam.sanger.ac.uk/family?acc=PF10300

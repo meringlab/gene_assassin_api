@@ -1,0 +1,3 @@
+#>P	YPR172W	YPR172W	YPR172W	XVI	885796	886395	1	Putative pyridoxal 5'-phosphate synthase; transcriptionally activated by Yrm1p along with genes involved in multidrug resistance; YPR172W has a paralog, YLR456W, that arose from the whole genome duplication [Source:SGD;Acc:S000006376]
+#>E	YPR172W.1	1.0	885796-886398
+XVI	885817	886053	1.0	Pyridox_Oxase_FMN-bd	0	885817-886053	PF01243	http://pfam.sanger.ac.uk/family?acc=PF01243

@@ -1,0 +1,4 @@
+#>P	YBR295W	YBR295W	YBR295W	II	792849	796496	1	Cadmium transporting P-type ATPase; may also have a role in copper and iron homeostasis; stabilized by Cd binding, which prevents ubiquitination; S288C and other lab strains contain a G970R mutation which eliminates Cd transport function [Source:SGD;Acc:S000000499]
+#>E	YBR295W.1	1.0	792849-796499
+II	794841	795524	1.0	ATPase_P-typ_ATPase-assoc-dom	0	794841-795524	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122
+II	795543	796202	1.0	Dehalogen-like_hydro	0	795543-796202	PF00702	http://pfam.sanger.ac.uk/family?acc=PF00702

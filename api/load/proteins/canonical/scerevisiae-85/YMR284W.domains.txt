@@ -1,0 +1,5 @@
+#>P	YMR284W	YMR284W	YMR284W	XIII	838187	839992	1	Subunit of the telomeric Ku complex (Yku70p-Yku80p); involved in telomere length maintenance, structure and telomere position effect; required for localization of telomerase ribonucleoprotein to nucleus via interaction with the TLC1 guide RNA; relocates to sites of double-strand cleavage to promote nonhomologous end joining during DSB repair [Source:SGD;Acc:S000004897]
+#>E	YMR284W.1	1.0	838187-839995
+XIII	839654	839935	1.0	Ku_C	80.3	839654-839935	PF03730	http://pfam.sanger.ac.uk/family?acc=PF03730
+XIII	838280	838987	1.0	Ku_N	189.8	838280-838987	PF03731	http://pfam.sanger.ac.uk/family?acc=PF03731
+XIII	839012	839608	1.0	DNA_helicase_ATP-dep_Ku	144.6	839012-839608	PF02735	http://pfam.sanger.ac.uk/family?acc=PF02735

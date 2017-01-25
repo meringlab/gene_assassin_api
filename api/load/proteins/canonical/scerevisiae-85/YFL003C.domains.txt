@@ -1,0 +1,6 @@
+#>P	YFL003C	YFL003C	YFL003C	VI	134524	137157	-1	Protein involved in meiotic recombination; required for normal levels of crossing over, colocalizes with Zip2p to discrete foci on meiotic chromosomes, has homology to bacterial MutS protein [Source:SGD;Acc:S000001891]
+#>E	YFL003C.1	1.0	134521-137157
+VI	134710	135393	-1.0	DNA_mismatch_repair_MutS_C	0	134710-135393	PF00488	http://pfam.sanger.ac.uk/family?acc=PF00488
+VI	135415	136350	-1.0	DNA_mismatch_repair_MutS_core	0	135415-136350	PF05192	http://pfam.sanger.ac.uk/family?acc=PF05192
+VI	136408	136845	-1.0	DNA_mismatch_repair_MutS_connt	0	136408-136845	PF05188	http://pfam.sanger.ac.uk/family?acc=PF05188
+VI	135535	135816	-1.0	DNA_mismatch_repair_MutS_clamp	0	135535-135816	PF05190	http://pfam.sanger.ac.uk/family?acc=PF05190

@@ -1,0 +1,4 @@
+#>P	YDL206W	YDL206W	YDL206W	IV	90176	92461	1	Putative protein of unknown function; YDL206W is not an essential protein [Source:SGD;Acc:S000002365]
+#>E	YDL206W.1	1.0	90176-92464
+IV	90317	90766	1.0	NaCa_Exmemb	102.5	90317-90766	PF01699	http://pfam.sanger.ac.uk/family?acc=PF01699
+IV	91979	92434	1.0	NaCa_Exmemb	102.5	91979-92434	PF01699	http://pfam.sanger.ac.uk/family?acc=PF01699

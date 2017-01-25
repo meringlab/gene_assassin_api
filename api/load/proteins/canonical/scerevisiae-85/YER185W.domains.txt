@@ -1,0 +1,3 @@
+#>P	YER185W	YER185W	YER185W	V	559454	560362	1	Plasma membrane protein involved in protoprophyrin and heme transport; roles in the uptake of protoprophyrin IX and the efflux of heme; expression is induced under both low-heme and low-oxygen conditions; member of the fungal lipid-translocating exporter (LTE) family of proteins [Source:SGD;Acc:S000000987]
+#>E	YER185W.1	1.0	559454-560365
+V	559697	560359	1.0	RTA1	316	559697-560359	PF04479	http://pfam.sanger.ac.uk/family?acc=PF04479

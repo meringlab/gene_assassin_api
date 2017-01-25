@@ -1,0 +1,3 @@
+#>P	YLR437C	YLR437C	YLR437C	XII	1011625	1012023	-1	Protein that regulates nuclear localization of Rnr2p and Rnr4p; phosphorylated by Dun1p in response to DNA damage and degraded; N-terminal half shows similarity to S. pombe Spd1 protein; DIF1 has a paralog, SML1, that arose from the whole genome duplication [Source:SGD;Acc:S000004429]
+#>E	YLR437C.1	1.0	1011622-1012023
+XII	1011655	1011915	-1.0	RNR_inhibitor	0	1011655-1011915	PF08591	http://pfam.sanger.ac.uk/family?acc=PF08591

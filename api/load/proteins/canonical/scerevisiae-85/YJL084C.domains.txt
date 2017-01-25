@@ -1,0 +1,4 @@
+#>P	YJL084C	YJL084C	YJL084C	X	274865	278002	-1	Alpha arrestin; controls nutrient-mediated intracellular sorting of permease Gap1p; interacts with AP-1 subunit Apl4p; phosphorylated by Npr1p and also by cyclin-CDK complex Pcl7p-Pho85p; promotes endocytosis of plasma membrane proteins; ALY2 has a paralog, ALY1, that arose from the whole genome duplication [Source:SGD;Acc:S000003620]
+#>E	YJL084C.1	1.0	274862-278002
+X	276425	276925	-1.0	Arrestin_C-like	0	276425-276925	PF02752	http://pfam.sanger.ac.uk/family?acc=PF02752
+X	276977	277210	-1.0	Arrestin-like_N	0	276977-277210	PF00339	http://pfam.sanger.ac.uk/family?acc=PF00339

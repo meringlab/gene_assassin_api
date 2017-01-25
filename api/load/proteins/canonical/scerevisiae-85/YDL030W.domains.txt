@@ -1,0 +1,4 @@
+#>P	YDL030W	YDL030W	YDL030W	IV	397537	399126	1	Subunit of the SF3a splicing factor complex; required for spliceosome assembly; acts after the formation of the U1 snRNP-pre-mRNA complex [Source:SGD;Acc:S000002188]
+#>E	YDL030W.1	1.0	397537-399129
+IV	398374	398451	1.0	Znf_C2H2_jaz	0	398374-398451	PF12171	http://pfam.sanger.ac.uk/family?acc=PF12171
+IV	398482	399123	1.0	DUF3449	0	398482-399123	PF11931	http://pfam.sanger.ac.uk/family?acc=PF11931

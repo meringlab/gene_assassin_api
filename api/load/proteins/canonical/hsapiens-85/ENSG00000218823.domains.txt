@@ -1,0 +1,5 @@
+#>P	ENSG00000218823	ENST00000404991	ENSP00000384700	7	4859900	4861810	-1	poly(A) polymerase beta [Source:HGNC Symbol;Acc:HGNC:15970]
+#>E	ENSE00001558102	1.0	4859897-4861810
+7	4860719	4861747	-1.0	PolA_pol_cen_dom	384.2	4860719-4861747	PF04928	http://pfam.sanger.ac.uk/family?acc=PF04928
+7	4860512	4860712	-1.0	PolA_pol_RNA-bd_dom	92.1	4860512-4860712	PF04926	http://pfam.sanger.ac.uk/family?acc=PF04926
+7	4861286	4861546	-1.0	Polymerase_NTP_transf_dom	50.6	4861286-4861546	PF01909	http://pfam.sanger.ac.uk/family?acc=PF01909

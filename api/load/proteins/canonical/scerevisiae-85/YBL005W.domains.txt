@@ -1,0 +1,4 @@
+#>P	YBL005W	YBL005W	YBL005W	II	217470	220397	1	Transcriptional activator of the pleiotropic drug resistance network; regulates expression of ATP-binding cassette (ABC) transporters through binding to cis-acting PDRE sites (PDR responsive elements); post-translationally up-regulated in cells lacking functional mitochondrial genome; involved in diauxic shift; relative distribution to nucleus increases upon DNA replication stress; APCC(Cdh1) substrate; PDR3 has a paralog, PDR1, that arose from the whole genome duplication [Source:SGD;Acc:S000000101]
+#>E	YBL005W.1	1.0	217470-220400
+II	218304	219329	1.0	Transcription_factor_fun	0	218304-219329	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082
+II	217506	217610	1.0	Zn2-C6_fun-type_DNA-bd	0	217506-217610	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

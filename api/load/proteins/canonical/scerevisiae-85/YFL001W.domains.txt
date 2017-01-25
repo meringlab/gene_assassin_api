@@ -1,0 +1,4 @@
+#>P	YFL001W	YFL001W	YFL001W	VI	147131	148456	1	tRNA:pseudouridine synthase; introduces pseudouridines at position 38 or 39 in tRNA; also responsible for pseudouracil modification of some mRNAs; important for maintenance of translation efficiency and normal cell growth, localizes to both the nucleus and cytoplasm; non-essential for viability [Source:SGD;Acc:S000001895]
+#>E	YFL001W.1	1.0	147131-148459
+VI	147419	147775	1.0	PsdUridine_synth_TruA_a/b_dom	0	147419-147775	PF01416	http://pfam.sanger.ac.uk/family?acc=PF01416
+VI	147845	148168	1.0	PsdUridine_synth_TruA_a/b_dom	0	147845-148168	PF01416	http://pfam.sanger.ac.uk/family?acc=PF01416

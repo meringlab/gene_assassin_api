@@ -1,0 +1,5 @@
+#>P	YOL095C	YOL095C	YOL095C	XV	139230	141347	-1	Mitochondrial inner membrane localized ATP-dependent DNA helicase; required for the maintenance of the mitochondrial genome; not required for mitochondrial transcription; has homology to E. coli helicase uvrD [Source:SGD;Acc:S000005455]
+#>E	YOL095C.1	1.0	139227-141347
+XV	141009	141338	-1.0	Helicase_SF1_UvrD-rel	0	141009-141338	PF00580	http://pfam.sanger.ac.uk/family?acc=PF00580
+XV	140577	140942	-1.0	Helicase_SF1_UvrD-rel	0	140577-140942	PF00580	http://pfam.sanger.ac.uk/family?acc=PF00580
+XV	139449	140543	-1.0	DNA_helicase_UvrD-like_C	0	139449-140543	PF13361	http://pfam.sanger.ac.uk/family?acc=PF13361

@@ -1,0 +1,4 @@
+#>P	YGR032W	YGR032W	YGR032W	VII	548264	553948	1	Catalytic subunit of 1,3-beta-glucan synthase; involved in formation of the inner layer of the spore wall; activity positively regulated by Rho1p and negatively by Smk1p; GSC2 has a paralog, FKS1, that arose from the whole genome duplication [Source:SGD;Acc:S000003264]
+#>E	YGR032W.1	1.0	548264-553951
+VII	549218	549550	1.0	FKS1-like_dom1	136.5	549218-549550	PF14288	http://pfam.sanger.ac.uk/family?acc=PF14288
+VII	550739	553213	1.0	Glyco_trans_48	1459.9	550739-553213	PF02364	http://pfam.sanger.ac.uk/family?acc=PF02364

@@ -1,0 +1,3 @@
+#>P	YJR069C	YJR069C	YJR069C	X	568809	569399	-1	Nucleoside triphosphate pyrophosphohydrolase; active against a wide range of substrates including ITP, dITP and XTP; mediates exclusion of noncanonical purines and pyrimidines from deoxyribonucleoside triphosphate pools; functions together with YJL055W to mediate resistance to 5-FU; specifically reduces the incorporation of 5-FU into RNA without affecting uptake or incorporation of uracil into RNA; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003830]
+#>E	YJR069C.1	1.0	568806-569399
+X	568824	569384	-1.0	Ham1p-like	0	568824-569384	PF01725	http://pfam.sanger.ac.uk/family?acc=PF01725

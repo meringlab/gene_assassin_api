@@ -1,0 +1,4 @@
+#>P	YNR006W	YNR006W	YNR006W	XIV	636986	638851	1	Endosomal protein that forms a complex with Hse1p; required for recycling Golgi proteins, forming lumenal membranes and sorting ubiquitinated proteins destined for degradation; has Ubiquitin Interaction Motifs which bind ubiquitin (Ubi4p) [Source:SGD;Acc:S000005289]
+#>E	YNR006W.1	1.0	636986-638854
+XIV	637502	637672	1.0	Znf_FYVE	0	637502-637672	PF01363	http://pfam.sanger.ac.uk/family?acc=PF01363
+XIV	636998	637420	1.0	VHS	0	636998-637420	PF00790	http://pfam.sanger.ac.uk/family?acc=PF00790

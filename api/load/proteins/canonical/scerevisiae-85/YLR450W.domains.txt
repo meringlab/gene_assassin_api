@@ -1,0 +1,4 @@
+#>P	YLR450W	YLR450W	YLR450W	XII	1032627	1035761	1	HMG-CoA reductase; converts HMG-CoA to mevalonate, a rate-limiting step in sterol biosynthesis; one of two isozymes; overproduction induces assembly of peripheral ER membrane arrays and short nuclear-associated membrane stacks; forms foci at the nuclear periphery upon DNA replication stress; HMG2 has a paralog, HMG1, that arose from the whole genome duplication [Source:SGD;Acc:S000004442]
+#>E	YLR450W.1	1.0	1032627-1035764
+XII	1034544	1035689	1.0	HMG_CoA_Rdtase	0	1034544-1035689	PF00368	http://pfam.sanger.ac.uk/family?acc=PF00368
+XII	1032654	1033106	1.0	HMG-CoA_N_dom	0	1032654-1033106	PF13323	http://pfam.sanger.ac.uk/family?acc=PF13323

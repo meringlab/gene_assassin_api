@@ -1,0 +1,3 @@
+#>P	YDR322C-A	YDR322C-A	YDR322C-A	IV	1112006	1112293	-1	Subunit e of mitochondrial F1F0-ATPase; ATPase is a large, evolutionarily conserved enzyme complex required for ATP synthesis; essential for the dimeric and oligomeric state of ATP synthase, which in turn determines the shape of inner membrane cristae [Source:SGD;Acc:S000007255]
+#>E	YDR322C-A.1	1.0	1112003-1112293
+IV	1112069	1112287	-1.0	ATPase_F0-cplx_esu_mt	0	1112069-1112287	PF05680	http://pfam.sanger.ac.uk/family?acc=PF05680

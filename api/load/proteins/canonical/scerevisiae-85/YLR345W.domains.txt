@@ -1,0 +1,4 @@
+#>P	YLR345W	YLR345W	YLR345W	XII	820511	822037	1	Similar to 6-phosphofructo-2-kinase enzymes; mRNA expression is repressed by the Rfx1p-Tup1p-Ssn6p repressor complex; YLR345W is not an essential gene [Source:SGD;Acc:S000004337]
+#>E	YLR345W.1	1.0	820511-822040
+XII	820727	821380	1.0	6Phosfructo_kin	265.1	820727-821380	PF01591	http://pfam.sanger.ac.uk/family?acc=PF01591
+XII	821390	821908	1.0	His_Pase_superF_clade-1	74	821390-821908	PF00300	http://pfam.sanger.ac.uk/family?acc=PF00300

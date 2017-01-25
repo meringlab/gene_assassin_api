@@ -1,0 +1,3 @@
+#>P	YMR061W	YMR061W	YMR061W	XIII	392755	394785	1	Component of the cleavage and polyadenylation factor I (CF I); CF 1, composed of the CF 1A complex (Rna14p, Rna15p, Clp1p, Pcf11p) and Hrp1, is involved in cleavage and polyadenylation of mRNA 3' ends; bridges interaction between Rna15p and Hrp1p in the CF I complex; mutant displays reduced transcription elongation in the G-less-based run-on (GLRO) assay; required for gene looping and maintenance of genome stability; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000004665]
+#>E	YMR061W.1	1.0	392755-394788
+XIII	393991	394761	1.0	Suf	0	393991-394761	PF05843	http://pfam.sanger.ac.uk/family?acc=PF05843

@@ -1,0 +1,4 @@
+#>P	YDR159W	YDR159W	YDR159W	IV	771877	775779	1	mRNA export factor; required for biogenesis of the small ribosomal subunit; component of TREX-2 complex (Sac3p-Thp1p-Sus1p-Cdc31p) involved in transcription elongation and mRNA export from the nucleus; involved in post-transcriptional tethering of active genes to the nuclear periphery and to non-nascent mRNP; similar to the human germinal center-associated nuclear protein (GANP) [Source:SGD;Acc:S000002566]
+#>E	YDR159W.1	1.0	771877-775782
+IV	774052	774279	1.0	CID_dom	0	774052-774279	PF12209	http://pfam.sanger.ac.uk/family?acc=PF12209
+IV	772621	773325	1.0	SAC3/GANP/Nin1/mts3/eIF-3-p25	0	772621-773325	PF03399	http://pfam.sanger.ac.uk/family?acc=PF03399

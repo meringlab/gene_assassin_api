@@ -1,0 +1,6 @@
+#>P	YBL032W	YBL032W	YBL032W	II	160184	161326	1	RNA binding protein involved in asymmetric localization of ASH1 mRNA; represses translation of ASH1 mRNA, an effect reversed by Yck1p-dependent phosphoryation; regulates telomere position effect and length; similarity to hnRNP-K [Source:SGD;Acc:S000000128]
+#>E	YBL032W.1	1.0	160184-161329
+II	160682	160810	1.0	KH_type_1	0	160682-160810	PF13014	http://pfam.sanger.ac.uk/family?acc=PF13014
+II	160661	160834	1.0	KH_type_1	0	160661-160834	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013
+II	160340	160495	1.0	KH_type_1	0	160340-160495	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013
+II	160964	161161	1.0	KH_type_1	0	160964-161161	PF00013	http://pfam.sanger.ac.uk/family?acc=PF00013

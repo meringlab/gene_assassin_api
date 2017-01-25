@@ -1,0 +1,3 @@
+#>P	YLR176C	YLR176C	YLR176C	XII	507800	510232	-1	Major transcriptional repressor of DNA-damage-regulated genes; recruits repressors Tup1p and Cyc8p to their promoters; involved in DNA damage and replication checkpoint pathway; similar to a family of mammalian DNA binding RFX1-4 proteins [Source:SGD;Acc:S000004166]
+#>E	YLR176C.1	1.0	507797-510232
+XII	509183	509401	-1.0	RFX_DNA-bd	0	509183-509401	PF02257	http://pfam.sanger.ac.uk/family?acc=PF02257

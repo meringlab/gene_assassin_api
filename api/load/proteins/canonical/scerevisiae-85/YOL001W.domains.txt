@@ -1,0 +1,3 @@
+#>P	YOL001W	YOL001W	YOL001W	XV	325249	326127	1	Cyclin; interacts with cyclin-dependent kinase Pho85p; regulates the response to nutrient levels and environmental conditions, including the response to phosphate limitation and stress-dependent calcium signaling [Source:SGD;Acc:S000005361]
+#>E	YOL001W.1	1.0	325249-326130
+XV	325348	325758	1.0	Cyclin_PHO80-like	0	325348-325758	PF08613	http://pfam.sanger.ac.uk/family?acc=PF08613

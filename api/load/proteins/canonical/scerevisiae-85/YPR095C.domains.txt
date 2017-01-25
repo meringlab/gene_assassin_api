@@ -1,0 +1,3 @@
+#>P	YPR095C	YPR095C	YPR095C	XVI	721040	724717	-1	Guanine nucleotide exchange factor (GEF) for Arf proteins; promotes activation of Arl1p, which recruits Imh1p to the Golgi; involved in vesicular transport; member of the Sec7-domain family; contains a PH domain [Source:SGD;Acc:S000006299]
+#>E	YPR095C.1	1.0	721037-724717
+XVI	722855	723391	-1.0	Sec7	0	722855-723391	PF01369	http://pfam.sanger.ac.uk/family?acc=PF01369

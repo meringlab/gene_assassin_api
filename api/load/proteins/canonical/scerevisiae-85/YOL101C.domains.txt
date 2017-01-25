@@ -1,0 +1,3 @@
+#>P	YOL101C	YOL101C	YOL101C	XV	126985	127920	-1	Membrane protein involved in zinc ion homeostasis; member of the four-protein IZH family; expression induced by fatty acids and altered zinc levels; deletion reduces sensitivity to excess zinc; possible role in sterol metabolism; protein increases in abundance and relocalizes from nucleus to ER upon DNA replication stress; IZH4 has a paralog, IZH1, that arose from the whole genome duplication [Source:SGD;Acc:S000005461]
+#>E	YOL101C.1	1.0	126982-127920
+XV	127057	127743	-1.0	HlyIII-related	95.1	127057-127743	PF03006	http://pfam.sanger.ac.uk/family?acc=PF03006

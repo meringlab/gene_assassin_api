@@ -1,0 +1,4 @@
+#>P	YPL104W	YPL104W	YPL104W	XVI	355700	357673	1	Mitochondrial aspartyl-tRNA synthetase; required for acylation of aspartyl-tRNA; yeast and bacterial aspartyl-, asparaginyl-, and lysyl-tRNA synthetases contain regions with high sequence similarity, suggesting a common ancestral gene [Source:SGD;Acc:S000006025]
+#>E	YPL104W.1	1.0	355700-357676
+XVI	355850	356083	1.0	NA-bd_OB_tRNA-helicase	0	355850-356083	PF01336	http://pfam.sanger.ac.uk/family?acc=PF01336
+XVI	356144	357580	1.0	aa-tRNA-synt_II	0	356144-357580	PF00152	http://pfam.sanger.ac.uk/family?acc=PF00152

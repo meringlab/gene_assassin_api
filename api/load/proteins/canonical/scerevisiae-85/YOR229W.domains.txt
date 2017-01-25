@@ -1,0 +1,3 @@
+#>P	YOR229W	YOR229W	YOR229W	XV	768409	769809	1	Transcriptional modulator; involved in regulation of meiosis, silencing, and expression of RNR genes; involved in response to replication stress; contains WD repeats; relocalizes to the cytosol in response to hypoxia; WTM2 has a paralog, UME1, that arose from the whole genome duplication [Source:SGD;Acc:S000005755]
+#>E	YOR229W.1	1.0	768409-769812
+XV	769159	769227	1.0	WD40_repeat	0	769159-769227	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

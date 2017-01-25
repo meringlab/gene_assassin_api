@@ -1,0 +1,3 @@
+#>P	YLR242C	YLR242C	YLR242C	XII	622921	623883	-1	Cortical ER protein; implicated in the membrane insertion of tail-anchored C-terminal single transmembrane domain proteins; may function in transport of glycosylphosphatidylinositol intermediates into ER lumen; required for normal intracellular sterol distribution; human ARV1 required for normal cholesterol and bile acid homeostasis; similar to Nup120p [Source:SGD;Acc:S000004232]
+#>E	YLR242C.1	1.0	622918-623883
+XII	623110	623883	-1.0	Arv1	0	623110-623883	PF04161	http://pfam.sanger.ac.uk/family?acc=PF04161

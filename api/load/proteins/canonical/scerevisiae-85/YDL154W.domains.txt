@@ -1,0 +1,4 @@
+#>P	YDL154W	YDL154W	YDL154W	IV	178334	181036	1	Protein of the MutS family; forms a dimer with Msh4p that facilitates crossovers between homologs during meiosis; msh5-Y823H mutation confers tolerance to DNA alkylating agents; homologs present in C. elegans and humans [Source:SGD;Acc:S000002313]
+#>E	YDL154W.1	1.0	178334-181039
+IV	179087	180064	1.0	DNA_mismatch_repair_MutS_core	0	179087-180064	PF05192	http://pfam.sanger.ac.uk/family?acc=PF05192
+IV	180083	180868	1.0	DNA_mismatch_repair_MutS_C	0	180083-180868	PF00488	http://pfam.sanger.ac.uk/family?acc=PF00488

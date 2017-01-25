@@ -1,0 +1,4 @@
+#>P	YMR276W	YMR276W	YMR276W	XIII	818827	819945	1	Nuclear-enriched ubiquitin-like polyubiquitin-binding protein; required for spindle pole body (SPB) duplication and for transit through the G2/M phase of the cell cycle; involved in proteolysis; interacts with the proteasome; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004889]
+#>E	YMR276W.1	1.0	818827-819948
+XIII	818854	819048	1.0	Ubiquitin	0	818854-819048	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240
+XIII	819820	819930	1.0	UBA/transl_elong_EF1B_N	0	819820-819930	PF00627	http://pfam.sanger.ac.uk/family?acc=PF00627

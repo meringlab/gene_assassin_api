@@ -1,0 +1,4 @@
+#>P	YIL047C	YIL047C	YIL047C	IX	265118	267823	-1	Plasma membrane protein of unknown function; truncation and overexpression suppresses lethality of G-alpha protein deficiency [Source:SGD;Acc:S000001309]
+#>E	YIL047C.1	1.0	265115-267823
+IX	266912	267823	-1.0	SPX_N	0	266912-267823	PF03105	http://pfam.sanger.ac.uk/family?acc=PF03105
+IX	265457	266515	-1.0	EXS_C	0	265457-266515	PF03124	http://pfam.sanger.ac.uk/family?acc=PF03124

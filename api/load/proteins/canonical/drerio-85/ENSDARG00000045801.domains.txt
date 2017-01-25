@@ -1,0 +1,8 @@
+#>P	ENSDARG00000045801	ENSDART00000067322	ENSDARP00000067321	4	8609295	8610494	-1	F-box and leucine-rich repeat protein 14b [Source:ZFIN;Acc:ZDB-GENE-030131-3556]
+#>E	ENSDARE00000512022	1.0	8609292-8610494
+4	8609922	8609990	-1.0	Leu-rich_rpt	85.7	8609922-8609990	PF13516	http://pfam.sanger.ac.uk/family?acc=PF13516
+4	8609439	8609501	-1.0	Leu-rich_rpt	85.7	8609439-8609501	PF13516	http://pfam.sanger.ac.uk/family?acc=PF13516
+4	8610090	8610146	-1.0	Leu-rich_rpt	85.7	8610090-8610146	PF13516	http://pfam.sanger.ac.uk/family?acc=PF13516
+4	8609670	8609741	-1.0	Leu-rich_rpt	85.7	8609670-8609741	PF13516	http://pfam.sanger.ac.uk/family?acc=PF13516
+4	8609745	8609813	-1.0	Leu-rich_rpt	85.7	8609745-8609813	PF13516	http://pfam.sanger.ac.uk/family?acc=PF13516
+4	8610357	8610467	-1.0	F-box_dom	38.3	8610357-8610467	PF12937	http://pfam.sanger.ac.uk/family?acc=PF12937

@@ -1,0 +1,4 @@
+#>P	YDL168W	YDL168W	YDL168W	IV	159604	160761	1	Bifunctional alcohol dehydrogenase and formaldehyde dehydrogenase; formaldehyde dehydrogenase activity is glutathione-dependent; functions in formaldehyde detoxification and formation of long chain and complex alcohols, regulated by Hog1p-Sko1p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002327]
+#>E	YDL168W.1	1.0	159604-160764
+IV	159712	160092	1.0	ADH_GroES-like	0	159712-160092	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240
+IV	160225	160611	1.0	ADH_C	0	160225-160611	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107

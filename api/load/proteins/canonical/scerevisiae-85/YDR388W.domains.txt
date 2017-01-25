@@ -1,0 +1,4 @@
+#>P	YDR388W	YDR388W	YDR388W	IV	1250186	1251631	1	Actin-associated protein with roles in endocytosis and exocytosis; interacts with Rvs161p to regulate actin cytoskeleton, endocytosis, and viability following starvation or osmotic stress; recruited to bud tips by Gyl1p and Gyp5p during polarized growth; homolog of mammalian amphiphysin [Source:SGD;Acc:S000002796]
+#>E	YDR388W.1	1.0	1250186-1251634
+IV	1251464	1251604	1.0	SH3_domain	0	1251464-1251604	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+IV	1250201	1250923	1.0	BAR_dom	0	1250201-1250923	PF03114	http://pfam.sanger.ac.uk/family?acc=PF03114

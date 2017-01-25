@@ -1,0 +1,3 @@
+#>P	YNL318C	YNL318C	YNL318C	XIV	38710	40329	-1	Protein with similarity to hexose transporter family members; expression is induced in low glucose and repressed in high glucose; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies [Source:SGD;Acc:S000005262]
+#>E	YNL318C.1	1.0	38707-40329
+XIV	38719	40143	-1.0	Sub_transporter	0	38719-40143	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083

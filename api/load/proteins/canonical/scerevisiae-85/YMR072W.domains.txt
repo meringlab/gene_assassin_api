@@ -1,0 +1,4 @@
+#>P	YMR072W	YMR072W	YMR072W	XIII	411569	412117	1	Mitochondrial DNA-binding protein; involved in mitochondrial DNA replication and recombination, member of HMG1 DNA-binding protein family; activity may be regulated by protein kinase A phosphorylation; ABF2 has a paralog, IXR1, that arose from the whole genome duplication [Source:SGD;Acc:S000004676]
+#>E	YMR072W.1	1.0	411569-412120
+XIII	411695	411898	1.0	HMG_superfamily	0	411695-411898	PF00505	http://pfam.sanger.ac.uk/family?acc=PF00505
+XIII	411914	412111	1.0	HMG_superfamily	0	411914-412111	PF00505	http://pfam.sanger.ac.uk/family?acc=PF00505

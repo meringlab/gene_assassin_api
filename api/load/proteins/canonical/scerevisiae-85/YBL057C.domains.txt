@@ -1,0 +1,3 @@
+#>P	YBL057C	YBL057C	YBL057C	II	112804	113427	-1	One of two mitochondrially-localized peptidyl-tRNA hydrolases; negatively regulates the ubiquitin-proteasome pathway via interactions with ubiquitin-like ubiquitin-associated proteins; dispensable for cell growth; see also PTH1 [Source:SGD;Acc:S000000153]
+#>E	YBL057C.1	1.0	112801-113427
+II	112804	113169	-1.0	Pep_tRNA_hydro_PTH2	0	112804-113169	PF01981	http://pfam.sanger.ac.uk/family?acc=PF01981

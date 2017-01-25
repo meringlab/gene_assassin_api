@@ -1,0 +1,6 @@
+#>P	YBR058C	YBR058C	YBR058C	II	353675	356017	-1	Ubiquitin-specific protease; specifically disassembles unanchored ubiquitin chains; involved in fructose-1,6-bisphosphatase (Fbp1p) degradation; similar to human isopeptidase T [Source:SGD;Acc:S000000262]
+#>E	YBR058C.1	1.0	353672-356017
+II	353963	354067	-1.0	UBA/transl_elong_EF1B_N	0	353963-354067	PF00627	http://pfam.sanger.ac.uk/family?acc=PF00627
+II	354149	354259	-1.0	UBA/transl_elong_EF1B_N	0	354149-354259	PF00627	http://pfam.sanger.ac.uk/family?acc=PF00627
+II	353684	355054	-1.0	Peptidase_C19	0	353684-355054	PF00443	http://pfam.sanger.ac.uk/family?acc=PF00443
+II	355229	355444	-1.0	Znf_UBP	0	355229-355444	PF02148	http://pfam.sanger.ac.uk/family?acc=PF02148

@@ -1,0 +1,3 @@
+#>P	YAR019C	YAR019C	YAR019C	I	172214	175135	-1	Protein kinase of the Mitotic Exit Network; localized to the spindle pole bodies at late anaphase; promotes mitotic exit by directly switching on the kinase activity of Dbf2p; required for spindle disassembly after meiosis II; relocalizes to the cytoplasm upon DNA replication stress [Source:SGD;Acc:S000000072]
+#>E	YAR019C.1	1.0	172211-175135
+I	174320	175063	-1.0	Prot_kinase_cat_dom	0	174320-175063	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

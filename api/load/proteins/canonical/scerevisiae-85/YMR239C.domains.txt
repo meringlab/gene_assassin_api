@@ -1,0 +1,4 @@
+#>P	YMR239C	YMR239C	YMR239C	XIII	748265	749677	-1	Nuclear dsRNA-specific ribonuclease (RNase III); involved in rDNA transcription, rRNA processing and U2 snRNA 3' end formation by cleavage of a stem-loop structure at the 3' end of U2 snRNA; involved in polyadenylation-independent transcription termination; involved in the cell wall stress response, regulating the degradation of cell wall integrity and morphogenesis checkpoint genes [Source:SGD;Acc:S000004852]
+#>E	YMR239C.1	1.0	748262-749677
+XIII	748379	748570	-1.0	Ds-RNA-bd	0	748379-748570	PF00035	http://pfam.sanger.ac.uk/family?acc=PF00035
+XIII	748697	748966	-1.0	RNase_III	0	748697-748966	PF00636	http://pfam.sanger.ac.uk/family?acc=PF00636

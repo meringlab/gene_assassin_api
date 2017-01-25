@@ -1,0 +1,4 @@
+#>P	YML133C	YML133C	YML133C	XIII	464	4684	-1	Putative Y' element ATP-dependent helicase; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; YML133C contains an intron [Source:SGD;Acc:S000004602]
+#>E	YML133C.2,YML133C.1	1,1	461-3791,3891-4684
+XIII	2450	2659	-1	Helicase_C	0	2450-2659	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XIII	2969	3445	-1	DNA/RNA_helicase_DEAD/DEAH_N	0	2969-3445	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

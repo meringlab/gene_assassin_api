@@ -1,0 +1,4 @@
+#>P	YNL167C	YNL167C	YNL167C	XIV	319419	321359	-1	Basic leucine zipper transcription factor of the ATF/CREB family; forms a complex with Tup1p and Cyc8p to both activate and repress transcription; cytosolic and nuclear protein involved in osmotic and oxidative stress responses [Source:SGD;Acc:S000005111]
+#>E	YNL167C.1	1.0	319416-321359
+XIV	321270	321320	-1.0	TF_Aft1_OSM	0	321270-321320	PF11785	http://pfam.sanger.ac.uk/family?acc=PF11785
+XIV	319926	320081	-1.0	bZIP	0	319926-320081	PF00170	http://pfam.sanger.ac.uk/family?acc=PF00170

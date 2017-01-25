@@ -1,0 +1,4 @@
+#>P	YJL206C	YJL206C	YJL206C	X	47662	49935	-1	Putative protein of unknown function; similar to transcriptional regulators from the Zn[2]-Cys[6] binuclear cluster protein family; mRNA is weakly cell cycle regulated, peaking in S phase; induced rapidly upon MMS treatment [Source:SGD;Acc:S000003741]
+#>E	YJL206C.1	1.0	47659-49935
+X	49693	49803	-1.0	Zn2-C6_fun-type_DNA-bd	0	49693-49803	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+X	48598	49353	-1.0	Transcription_factor_fun	0	48598-49353	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082

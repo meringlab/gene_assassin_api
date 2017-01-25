@@ -1,0 +1,4 @@
+#>P	YGR046W	YGR046W	YGR046W	VII	584895	586049	1	Mitochondrial phosphatidate cytidylyltransferase (CDP-DAG synthase); required for cardiolipin biosynthesis; viability of null mutant is strain-dependent; mRNA is targeted to the bud; mutant displays defect in mitochondrial protein import, likely due to altered membrane lipid composition [Source:SGD;Acc:S000003278]
+#>E	YGR046W.1	1.0	584895-586052
+VII	585912	586034	1.0	Mmp37	0	585912-586034	PF09139	http://pfam.sanger.ac.uk/family?acc=PF09139
+VII	585231	585869	1.0	Mmp37	0	585231-585869	PF09139	http://pfam.sanger.ac.uk/family?acc=PF09139

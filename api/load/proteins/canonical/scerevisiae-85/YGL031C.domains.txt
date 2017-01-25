@@ -1,0 +1,3 @@
+#>P	YGL031C	YGL031C	YGL031C	VII	437470	437934	-1	Ribosomal 60S subunit protein L24A; not essential for translation but may be required for normal translation rate; homologous to mammalian ribosomal protein L24, no bacterial homolog; RPL24A has a paralog, RPL24B, that arose from the whole genome duplication [Source:SGD;Acc:S000002999]
+#>E	YGL031C.1	1.0	437467-437934
+VII	437722	437934	-1.0	Ribosomal_L24e_rel	0	437722-437934	PF01246	http://pfam.sanger.ac.uk/family?acc=PF01246

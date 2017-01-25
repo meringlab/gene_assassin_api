@@ -1,0 +1,4 @@
+#>P	YLR266C	YLR266C	YLR266C	XII	675622	677724	-1	Transcription factor; targets include ATP-binding cassette (ABC) transporters, major facilitator superfamily transporters, and other genes involved in the pleiotropic drug resistance (PDR) phenomenon; PDR8 has a paralog, YRR1, that arose from the whole genome duplication [Source:SGD;Acc:S000004256]
+#>E	YLR266C.1	1.0	675619-677724
+XII	676258	677160	-1.0	Transcription_factor_fun	0	676258-677160	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082
+XII	677536	677640	-1.0	Zn2-C6_fun-type_DNA-bd	0	677536-677640	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

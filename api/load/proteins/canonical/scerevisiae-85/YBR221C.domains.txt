@@ -1,0 +1,4 @@
+#>P	YBR221C	YBR221C	YBR221C	II	665156	666253	-1	E1 beta subunit of the pyruvate dehydrogenase (PDH) complex; PDH is an evolutionarily conserved multi-protein complex found in mitochondria [Source:SGD;Acc:S000000425]
+#>E	YBR221C.1	1.0	665153-666253
+II	665615	666142	-1.0	Transketolase-like_Pyr-bd	0	665615-666142	PF02779	http://pfam.sanger.ac.uk/family?acc=PF02779
+II	665195	665560	-1.0	Transketolase_C	0	665195-665560	PF02780	http://pfam.sanger.ac.uk/family?acc=PF02780

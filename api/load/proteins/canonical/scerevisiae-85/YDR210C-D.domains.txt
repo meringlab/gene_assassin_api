@@ -1,0 +1,5 @@
+#>P	YDR210C-D	YDR210C-D	YDR210C-D	IV	878662	883927	-1	Retrotransposon TYA Gag and TYB Pol genes; transcribed/translated as one unit; polyprotein is processed to make a nucleocapsid-like protein (Gag), reverse transcriptase (RT), protease (PR), and integrase (IN); similar to retroviral genes [Source:SGD;Acc:S000007410]
+#>E	YDR210C-D.2,YDR210C-D.1	1,1	878659-882621,882623-883927
+IV	883586	883879	-1	Retrotransposon_Ty1A_N	0	883586-883879	PF01021	http://pfam.sanger.ac.uk/family?acc=PF01021
+IV	879490	880092	-1	RVT_2	0	879490-880092	PF07727	http://pfam.sanger.ac.uk/family?acc=PF07727
+IV	881584	881943	-1	Integrase_cat-core	0	881584-881943	PF00665	http://pfam.sanger.ac.uk/family?acc=PF00665

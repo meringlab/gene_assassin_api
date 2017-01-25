@@ -1,0 +1,4 @@
+#>P	YIR004W	YIR004W	YIR004W	IX	363221	364516	1	Cytosolic J-domain-containing protein; required for peroxisomal protein import and involved in peroxisome assembly, homologous to E. coli DnaJ [Source:SGD;Acc:S000001443]
+#>E	YIR004W.1	1.0	363221-364519
+IX	363830	364489	1.0	DnaJ_X	0	363830-364489	PF14308	http://pfam.sanger.ac.uk/family?acc=PF14308
+IX	363236	363424	1.0	DnaJ_N	0	363236-363424	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226

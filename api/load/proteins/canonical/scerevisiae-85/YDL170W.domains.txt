@@ -1,0 +1,4 @@
+#>P	YDL170W	YDL170W	YDL170W	IV	156318	157901	1	Transcriptional activator for GABA-dependent induction of GABA genes; binds to DNA elements found in the promoters of target genes and increases their expression in the presence of GABA (gamma-aminobutyrate); zinc finger transcription factor of the Zn(2)-Cys(6) binuclear cluster domain type; localized to the nucleus; examples of GABA genes include UGA1, UGA2, and UGA4 [Source:SGD;Acc:S000002329]
+#>E	YDL170W.1	1.0	156318-157904
+IV	156360	156476	1.0	Zn2-C6_fun-type_DNA-bd	33.4	156360-156476	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+IV	156678	157901	1.0	DUF3468	213.4	156678-157901	PF11951	http://pfam.sanger.ac.uk/family?acc=PF11951

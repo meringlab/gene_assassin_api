@@ -1,0 +1,3 @@
+#>P	YPL030W	YPL030W	YPL030W	XVI	493543	495243	1	tRNA(Ser) Um(44) 2'-O-methyltransferase; involved in maintaining levels of the tRNA-Ser species tS(CGA) and tS(UGA); conserved among metazoans and fungi but there does not appear to be a homolog in plants; TRM44 is a non-essential gene [Source:SGD;Acc:S000005951]
+#>E	YPL030W.1	1.0	493543-495246
+XVI	494311	494652	1.0	tRNA_uracil_MeTrfase	0	494311-494652	PF07757	http://pfam.sanger.ac.uk/family?acc=PF07757

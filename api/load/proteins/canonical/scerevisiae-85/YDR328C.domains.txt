@@ -1,0 +1,4 @@
+#>P	YDR328C	YDR328C	YDR328C	IV	1125437	1126018	-1	Evolutionarily conserved kinetochore protein; part of multiple protein complexes, including the SCF ubiquitin ligase complex, the CBF3 complex that binds centromeric DNA, and the RAVE complex that regulates assembly of the V-ATPase; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002736]
+#>E	YDR328C.1	1.0	1125434-1126018
+IV	1125722	1125829	-1.0	Skp1_comp_POZ	0	1125722-1125829	PF03931	http://pfam.sanger.ac.uk/family?acc=PF03931
+IV	1125443	1125670	-1.0	Skp1_comp_dimer	0	1125443-1125670	PF01466	http://pfam.sanger.ac.uk/family?acc=PF01466

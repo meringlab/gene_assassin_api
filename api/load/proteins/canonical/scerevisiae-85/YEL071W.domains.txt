@@ -1,0 +1,4 @@
+#>P	YEL071W	YEL071W	YEL071W	V	16355	17842	1	D-lactate dehydrogenase; part of the retrograde regulon which consists of genes whose expression is stimulated by damage to mitochondria and reduced in cells grown with glutamate as the sole nitrogen source, located in the cytoplasm [Source:SGD;Acc:S000000797]
+#>E	YEL071W.1	1.0	16355-17845
+V	16562	16966	1.0	Oxid_FAD_bind_N	0	16562-16966	PF01565	http://pfam.sanger.ac.uk/family?acc=PF01565
+V	17081	17836	1.0	FAD-linked_oxidase_C	0	17081-17836	PF02913	http://pfam.sanger.ac.uk/family?acc=PF02913

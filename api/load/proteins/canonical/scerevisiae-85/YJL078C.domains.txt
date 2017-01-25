@@ -1,0 +1,3 @@
+#>P	YJL078C	YJL078C	YJL078C	X	291339	293981	-1	Cell wall-associated protein involved in export of acetylated sterols; member of the CAP protein superfamily (cysteine-rich secretory proteins (CRISP), antigen 5, and pathogenesis related 1 proteins); role in mating efficiency; expression of full-length transcript is daughter cell-specific; in response to alpha factor, a short transcript starting at +452 is expressed and the long form is repressed by Ste12p [Source:SGD;Acc:S000003614]
+#>E	YJL078C.1	1.0	291336-293981
+X	293550	293894	-1.0	CAP_domain	0	293550-293894	PF00188	http://pfam.sanger.ac.uk/family?acc=PF00188

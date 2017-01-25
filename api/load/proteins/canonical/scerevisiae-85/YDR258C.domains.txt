@@ -1,0 +1,5 @@
+#>P	YDR258C	YDR258C	YDR258C	IV	971811	974243	-1	Oligomeric mitochondrial matrix chaperone; cooperates with Ssc1p in mitochondrial thermotolerance after heat shock; able to prevent the aggregation of misfolded proteins as well as resolubilize protein aggregates [Source:SGD;Acc:S000002666]
+#>E	YDR258C.1	1.0	971808-974243
+IV	971886	972128	-1.0	Clp_ATPase_C	0	971886-972128	PF10431	http://pfam.sanger.ac.uk/family?acc=PF10431
+IV	972144	972650	-1.0	ATPase_AAA-2	0	972144-972650	PF07724	http://pfam.sanger.ac.uk/family?acc=PF07724
+IV	973515	973826	-1.0	ATPase_AAA_core	0	973515-973826	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

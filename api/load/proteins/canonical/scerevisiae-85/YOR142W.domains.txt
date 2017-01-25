@@ -1,0 +1,4 @@
+#>P	YOR142W	YOR142W	YOR142W	XV	593057	594043	1	Alpha subunit of succinyl-CoA ligase; succinyl-CoA ligase is a mitochondrial enzyme of the TCA cycle that catalyzes the nucleotide-dependent conversion of succinyl-CoA to succinate; phosphorylated [Source:SGD;Acc:S000005668]
+#>E	YOR142W.1	1.0	593057-594046
+XV	593597	593980	1.0	CoA_ligase	0	593597-593980	PF00549	http://pfam.sanger.ac.uk/family?acc=PF00549
+XV	593159	593437	1.0	CoA-bd	0	593159-593437	PF02629	http://pfam.sanger.ac.uk/family?acc=PF02629

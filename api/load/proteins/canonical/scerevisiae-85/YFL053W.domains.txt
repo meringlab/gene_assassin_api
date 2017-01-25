@@ -1,0 +1,4 @@
+#>P	YFL053W	YFL053W	YFL053W	VI	23423	25195	1	Dihydroxyacetone kinase; required for detoxification of dihydroxyacetone (DHA); involved in stress adaptation [Source:SGD;Acc:S000001841]
+#>E	YFL053W.1	1.0	23423-25198
+VI	24653	25180	1.0	Dak2	0	24653-25180	PF02734	http://pfam.sanger.ac.uk/family?acc=PF02734
+VI	23471	24454	1.0	Dak1	0	23471-24454	PF02733	http://pfam.sanger.ac.uk/family?acc=PF02733

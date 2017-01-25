@@ -1,0 +1,3 @@
+#>P	YMR118C	YMR118C	YMR118C	XIII	502147	502734	-1	Putative mitochondrial inner membrane protein of unknown function; although similar to paralogous Sdh3p, Shh3p is not a stoichiometric subunit of either succinate dehydrogenase or of the TIM22 translocase; SHH3 has a paralog, SDH3, that arose from the whole genome duplication [Source:SGD;Acc:S000004724]
+#>E	YMR118C.1	1.0	502144-502734
+XIII	502162	502527	-1.0	Succ_DH_Fumarate_Rdtase_TM-su	86.2	502162-502527	PF01127	http://pfam.sanger.ac.uk/family?acc=PF01127

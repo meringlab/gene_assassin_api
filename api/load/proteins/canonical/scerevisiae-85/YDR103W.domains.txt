@@ -1,0 +1,4 @@
+#>P	YDR103W	YDR103W	YDR103W	IV	658350	661100	1	Pheromone-responsive MAPK scaffold protein; couples activation of the G-protein-coupled pheromone receptor to MAPK activation; intramolecular interaction of PH and VWA domains blocks activation of assembled signaling cascade components (Ste11p, Ste7p and Fus3p) under basal conditions; Gbeta-gamma (Ste4p-Ste18p)-dependent docking at the plasma membrane and binding of PI(4,5)P2 by the PH domain relieves autoinhibition, resulting in pheromone-dependent pathway activation [Source:SGD;Acc:S000002510]
+#>E	YDR103W.1	1.0	658350-661103
+IV	659208	659297	1.0	Scaffold_Ste5_Fus5-binding	0	659208-659297	PF11610	http://pfam.sanger.ac.uk/family?acc=PF11610
+IV	660129	660701	1.0	Ste5_Fus3-bd	0	660129-660701	PF12194	http://pfam.sanger.ac.uk/family?acc=PF12194

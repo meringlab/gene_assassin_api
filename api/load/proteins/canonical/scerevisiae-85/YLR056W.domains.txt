@@ -1,0 +1,3 @@
+#>P	YLR056W	YLR056W	YLR056W	XII	253861	254955	1	C-5 sterol desaturase; glycoprotein that catalyzes the introduction of a C-5(6) double bond into episterol, a precursor in ergosterol biosynthesis; mutants are viable, but cannot grow on non-fermentable carbon sources; substrate of the HRD ubiquitin ligase [Source:SGD;Acc:S000004046]
+#>E	YLR056W.1	1.0	253861-254958
+XII	254419	254736	1.0	Fatty_acid_hydroxylase	0	254419-254736	PF04116	http://pfam.sanger.ac.uk/family?acc=PF04116

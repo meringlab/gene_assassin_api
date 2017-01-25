@@ -1,0 +1,4 @@
+#>P	YOR396W	YOR396W	YOR396W	XV	1085473	1090860	1	One of several telomeric Y' element-encoded DNA helicases; known as Y'-Help1 (Y'-HELicase Protein 1) [Source:SGD;Acc:S000007526]
+#>E	YOR396W.1	1.0	1085473-1090863
+XV	1087879	1088355	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	1087879-1088355	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+XV	1088665	1088874	1.0	Helicase_C	0	1088665-1088874	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

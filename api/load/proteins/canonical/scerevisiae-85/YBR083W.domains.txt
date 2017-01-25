@@ -1,0 +1,3 @@
+#>P	YBR083W	YBR083W	YBR083W	II	409169	410626	1	Transcription factor targeting filamentation genes and Ty1 expression; Ste12p activation of most filamentation gene promoters depends on Tec1p and Tec1p transcriptional activity is dependent on its association with Ste12p; binds to TCS elements upstream of filamentation genes, which are regulated by Tec1p/Ste12p/Dig1p complex; competes with Dig2p for binding to Ste12p/Dig1p; positive regulator of chronological life span; TEA/ATTS DNA-binding domain family member [Source:SGD;Acc:S000000287]
+#>E	YBR083W.1	1.0	409169-410629
+II	409370	410626	1.0	TEA/ATTS	0	409370-410626	PF01285	http://pfam.sanger.ac.uk/family?acc=PF01285

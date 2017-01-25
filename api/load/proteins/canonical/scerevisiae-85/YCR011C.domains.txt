@@ -1,0 +1,4 @@
+#>P	YCR011C	YCR011C	YCR011C	III	133727	136873	-1	Putative ATP-dependent permease of the ABC transporter family [Source:SGD;Acc:S000000604]
+#>E	YCR011C.1	1.0	133724-136873
+III	133916	134551	-1.0	ABC_2_trans	0	133916-134551	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+III	135200	135586	-1.0	ABC_transporter-like	0	135200-135586	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

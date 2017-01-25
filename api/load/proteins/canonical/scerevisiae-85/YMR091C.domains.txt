@@ -1,0 +1,3 @@
+#>P	YMR091C	YMR091C	YMR091C	XIII	450061	451365	-1	Component of the RSC chromatin remodeling complex; interacts with Rsc3p, Rsc30p, Ldb7p, and Htl1p to form a module important for a broad range of RSC functions; involved in nuclear protein import and maintenance of proper telomere length [Source:SGD;Acc:S000004697]
+#>E	YMR091C.1	1.0	450058-451365
+XIII	450604	451011	-1.0	CRC_Rsc7/Swp82	0	450604-451011	PF08624	http://pfam.sanger.ac.uk/family?acc=PF08624

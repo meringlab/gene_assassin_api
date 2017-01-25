@@ -1,0 +1,3 @@
+#>P	YLR422W	YLR422W	YLR422W	XII	965897	971692	1	Protein of unknown function with similarity to human DOCK proteins; interacts with Ino4p; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm, YLR422W is not an essential protein; DOCK proteins act as guanine nucleotide exchange factors [Source:SGD;Acc:S000004414]
+#>E	YLR422W.1	1.0	965897-971695
+XII	970862	971344	1.0	DOCK	73.6	970862-971344	PF06920	http://pfam.sanger.ac.uk/family?acc=PF06920

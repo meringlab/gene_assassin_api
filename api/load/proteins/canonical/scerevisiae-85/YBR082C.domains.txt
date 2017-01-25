@@ -1,0 +1,3 @@
+#>P	YBR082C	YBR082C	YBR082C	II	406631	407169	-1	Ubiquitin-conjugating enzyme (E2); key E2 partner with Ubc1p for the anaphase-promoting complex (APC); mediates degradation of abnormal or excess proteins, including calmodulin and histone H3; regulates levels of DNA Polymerase-{alpha} to promote efficient and accurate DNA replication; interacts with many SCF ubiquitin protein ligases; component of the cellular stress response; UBC4 has a paralog, UBC5, that arose from the whole genome duplication [Source:SGD;Acc:S000000286]
+#>E	YBR082C.2,YBR082C.1	1,1	406628-407027,407123-407169
+II	406649	407154	-1	UBQ-conjugat_E2	0	406649-407027,407123-407154	PF00179	http://pfam.sanger.ac.uk/family?acc=PF00179

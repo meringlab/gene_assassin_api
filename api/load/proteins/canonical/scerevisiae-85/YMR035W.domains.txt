@@ -1,0 +1,3 @@
+#>P	YMR035W	YMR035W	YMR035W	XIII	341142	341672	1	Catalytic subunit of mitochondrial inner membrane peptidase complex; required for maturation of mitochondrial proteins of the intermembrane space; complex contains two catalytic subunits (Imp1p and Imp2p that differ in substrate specificity), and Som1p [Source:SGD;Acc:S000004638]
+#>E	YMR035W.1	1.0	341142-341675
+XIII	341247	341450	1.0	Peptidase_S24_S26	0	341247-341450	PF00717	http://pfam.sanger.ac.uk/family?acc=PF00717

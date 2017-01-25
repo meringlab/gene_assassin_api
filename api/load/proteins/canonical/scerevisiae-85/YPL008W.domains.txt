@@ -1,0 +1,4 @@
+#>P	YPL008W	YPL008W	YPL008W	XVI	539385	541967	1	Probable DNA helicase; involved in sister-chromatid cohesion and genome integrity and interstrand cross-link repair; interacts with ECO1 and CTF18; mutants are defective in silencing, rDNA recombination, aging and the heat shock response; FANCJ-like helicase family member; mutations in the human homolog, DDX11/ChLR1, cause Warsaw breakage syndrome [Source:SGD;Acc:S000005929]
+#>E	YPL008W.1	1.0	539385-541970
+XVI	540087	540629	1.0	DEAD_2	0	540087-540629	PF06733	http://pfam.sanger.ac.uk/family?acc=PF06733
+XVI	541341	541886	1.0	Helicase_ATP-dep_c2	0	541341-541886	PF13307	http://pfam.sanger.ac.uk/family?acc=PF13307

@@ -1,0 +1,5 @@
+#>P	YHR042W	YHR042W	YHR042W	VIII	190543	192615	1	NADP-cytochrome P450 reductase; involved in ergosterol biosynthesis; associated and coordinately regulated with Erg11p [Source:SGD;Acc:S000001084]
+#>E	YHR042W.1	1.0	190543-192618
+VIII	192154	192507	1.0	OxRdtase_FAD/NAD-bd	0	192154-192507	PF00175	http://pfam.sanger.ac.uk/family?acc=PF00175
+VIII	191326	191982	1.0	FAD-binding_1	0	191326-191982	PF00667	http://pfam.sanger.ac.uk/family?acc=PF00667
+VIII	190729	191139	1.0	Flavodoxin/NO_synth	0	190729-191139	PF00258	http://pfam.sanger.ac.uk/family?acc=PF00258

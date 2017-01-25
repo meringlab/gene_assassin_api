@@ -1,0 +1,4 @@
+#>P	YHR015W	YHR015W	YHR015W	VIII	134554	136530	1	Putative RNA-binding protein; interacts with Mex67p, which is a component of the nuclear pore involved in nuclear mRNA export; MIP6 has a paralog, PES4, that arose from the whole genome duplication [Source:SGD;Acc:S000001057]
+#>E	YHR015W.1	1.0	134554-136533
+VIII	134890	135102	1.0	RRM_dom	0	134890-135102	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+VIII	135496	135699	1.0	RRM_dom	0	135496-135699	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

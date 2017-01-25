@@ -1,0 +1,5 @@
+#>P	YEL011W	YEL011W	YEL011W	V	133120	135231	1	Glycogen branching enzyme, involved in glycogen accumulation; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm in a punctate pattern; relocalizes from nucleus to cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000000737]
+#>E	YEL011W.1	1.0	133120-135234
+V	134941	135225	1.0	A-amylase_b_C	0	134941-135225	PF02806	http://pfam.sanger.ac.uk/family?acc=PF02806
+V	133780	134046	1.0	Glyco_hydro_13_cat_dom	0	133780-134046	PF00128	http://pfam.sanger.ac.uk/family?acc=PF00128
+V	133303	133563	1.0	Glyco_hydro_13_N	0	133303-133563	PF02922	http://pfam.sanger.ac.uk/family?acc=PF02922

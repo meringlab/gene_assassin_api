@@ -1,0 +1,7 @@
+#>P	YLL026W	YLL026W	YLL026W	XII	88623	91346	1	Disaggregase; heat shock protein that cooperates with Ydj1p (Hsp40) and Ssa1p (Hsp70) to refold and reactivate previously denatured, aggregated proteins; responsive to stresses including: heat, ethanol, and sodium arsenite; involved in [PSI+] propagation; protein becomes more abundant and forms cytoplasmic foci in response to DNA replication stress; potentiated Hsp104p variants decrease TDP-43 proteotoxicity by eliminating its cytoplasmic aggregation [Source:SGD;Acc:S000003949]
+#>E	YLL026W.1	1.0	88623-91349
+XII	89247	89603	1.0	ATPase_AAA_core	0	89247-89603	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+XII	90945	91193	1.0	Clp_ATPase_C	0	90945-91193	PF10431	http://pfam.sanger.ac.uk/family?acc=PF10431
+XII	90441	90926	1.0	ATPase_AAA-2	0	90441-90926	PF07724	http://pfam.sanger.ac.uk/family?acc=PF07724
+XII	88917	89069	1.0	Clp_N	0	88917-89069	PF02861	http://pfam.sanger.ac.uk/family?acc=PF02861
+XII	88674	88754	1.0	Clp_N	0	88674-88754	PF02861	http://pfam.sanger.ac.uk/family?acc=PF02861

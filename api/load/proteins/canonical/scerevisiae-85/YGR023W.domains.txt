@@ -1,0 +1,3 @@
+#>P	YGR023W	YGR023W	YGR023W	VII	529264	530916	1	Putative plasma membrane sensor; involved in cell integrity signaling and stress response during glucose starvation and oxidative stress; has structural and functional similarity to Mid2p; MTL1 has a paralog, MID2, that arose from the whole genome duplication [Source:SGD;Acc:S000003255]
+#>E	YGR023W.1	1.0	529264-530919
+VII	530200	530661	1.0	Mid2	0	530200-530661	PF04478	http://pfam.sanger.ac.uk/family?acc=PF04478

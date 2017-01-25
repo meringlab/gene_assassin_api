@@ -1,0 +1,3 @@
+#>P	YOR280C	YOR280C	YOR280C	XV	844995	845792	-1	Putative serine hydrolase; likely target of Cyc8p-Tup1p-Rfx1p transcriptional regulation; sequence is similar to S. cerevisiae Fsh1p and Fsh2p and the human candidate tumor suppressor OVCA2 [Source:SGD;Acc:S000005806]
+#>E	YOR280C.1	1.0	844992-845792
+XV	845130	845792	-1.0	Serine_hydrolase_FSH	0	845130-845792	PF03959	http://pfam.sanger.ac.uk/family?acc=PF03959

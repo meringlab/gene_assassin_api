@@ -1,0 +1,3 @@
+#>P	YJL165C	YJL165C	YJL165C	X	106897	109461	-1	Putative protein kinase; overexpression increases sodium and lithium tolerance, whereas gene disruption increases cation and low pH sensitivity and impairs potassium uptake, suggesting a role in regulation of Trk1p and/or Trk2p transporters; HAL5 has a paralog, KKQ8, that arose from the whole genome duplication [Source:SGD;Acc:S000003701]
+#>E	YJL165C.1	1.0	106894-109461
+X	106951	107670	-1.0	Prot_kinase_cat_dom	0	106951-107670	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

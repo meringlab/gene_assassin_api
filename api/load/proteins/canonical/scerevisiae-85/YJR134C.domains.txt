@@ -1,0 +1,4 @@
+#>P	YJR134C	YJR134C	YJR134C	X	673732	675852	-1	Protein of unknown function; required for wild-type growth rate on galactose and mannose; localizes to COPI coated vesicles and the Golgi apparatus [Source:SGD;Acc:S000003895]
+#>E	YJR134C.1	1.0	673729-675852
+X	675169	675381	-1.0	TMF_DNA-bd	0	675169-675381	PF12329	http://pfam.sanger.ac.uk/family?acc=PF12329
+X	673753	674112	-1.0	TMF_TATA-bd	0	673753-674112	PF12325	http://pfam.sanger.ac.uk/family?acc=PF12325

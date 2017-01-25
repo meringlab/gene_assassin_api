@@ -1,0 +1,4 @@
+#>P	YMR067C	YMR067C	YMR067C	XIII	404326	405573	-1	UBX domain-containing protein that interacts with Cdc48p; involved in degradation of polyubiquitinated proteins via the ERAD (ER-associated degradation) pathway; modulates the Cdc48p-Nplp-Ufd1p AAA ATPase complex during its role in delivery of misfolded proteins to the proteasome; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004671]
+#>E	YMR067C.1	1.0	404323-405573
+XIII	404527	404757	-1.0	UBX	64.3	404527-404757	PF00789	http://pfam.sanger.ac.uk/family?acc=PF00789
+XIII	405361	405561	-1.0	TUG	77.9	405361-405561	PF11470	http://pfam.sanger.ac.uk/family?acc=PF11470

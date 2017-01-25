@@ -1,0 +1,4 @@
+#>P	YJL099W	YJL099W	YJL099W	X	239414	241651	1	Member of the ChAPs (Chs5p-Arf1p-binding proteins) family; part of the exomer complex that mediates export of specific cargo proteins, including Chs3p, from the Golgi to the plasma membrane; primary component of the Chs5/6 complex that binds directly to membranes; CHS6 has a paralog, BCH2, that arose from the whole genome duplication [Source:SGD;Acc:S000003635]
+#>E	YJL099W.1	1.0	239414-241654
+X	239678	240658	1.0	ChAPs	0	239678-240658	PF09295	http://pfam.sanger.ac.uk/family?acc=PF09295
+X	240989	241087	1.0	ChAPs	0	240989-241087	PF09295	http://pfam.sanger.ac.uk/family?acc=PF09295

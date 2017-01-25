@@ -1,0 +1,3 @@
+#>P	YKL166C	YKL166C	YKL166C	XI	134512	135705	-1	cAMP-dependent protein kinase catalytic subunit; promotes vegetative growth in response to nutrients via the Ras-cAMP signaling pathway; partially redundant with Tpk1p and Tpk2p; localizes to P-bodies during stationary phase; TPK3 has a paralog, TPK1, that arose from the whole genome duplication [Source:SGD;Acc:S000001649]
+#>E	YKL166C.1	1.0	134509-135705
+XI	134680	135444	-1.0	Prot_kinase_cat_dom	244.1	134680-135444	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

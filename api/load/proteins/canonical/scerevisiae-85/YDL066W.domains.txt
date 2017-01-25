@@ -1,0 +1,3 @@
+#>P	YDL066W	YDL066W	YDL066W	IV	334835	336118	1	Mitochondrial NADP-specific isocitrate dehydrogenase; catalyzes the oxidation of isocitrate to alpha-ketoglutarate; not required for mitochondrial respiration and may function to divert alpha-ketoglutarate to biosynthetic processes [Source:SGD;Acc:S000002224]
+#>E	YDL066W.1	1.0	334835-336121
+IV	334898	336082	1.0	IsoPropMal-DH-like_dom	0	334898-336082	PF00180	http://pfam.sanger.ac.uk/family?acc=PF00180

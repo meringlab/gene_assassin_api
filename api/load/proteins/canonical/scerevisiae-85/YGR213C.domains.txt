@@ -1,0 +1,3 @@
+#>P	YGR213C	YGR213C	YGR213C	VII	918515	919465	-1	Protein involved in 7-aminocholesterol resistance; has seven potential membrane-spanning regions; expression is induced under both low-heme and low-oxygen conditions; member of the fungal lipid-translocating exporter (LTE) family of protein; RTA1 has a paralog, YLR046C, that arose from the whole genome duplication [Source:SGD;Acc:S000003445]
+#>E	YGR213C.1	1.0	918512-919465
+VII	918593	919258	-1.0	RTA1	0	918593-919258	PF04479	http://pfam.sanger.ac.uk/family?acc=PF04479

@@ -1,0 +1,4 @@
+#>P	YLL018C	YLL018C	YLL018C	XII	109905	111575	-1	Aspartyl-tRNA synthetase, primarily cytoplasmic; homodimeric enzyme that catalyzes the specific aspartylation of tRNA(Asp); class II aminoacyl tRNA synthetase; binding to its own mRNA may confer autoregulation; shares five highly conserved amino acids with human that when mutated cause leukoencephalopathy characterized by hypomyelination with brain stem and spinal cord involvement and leg spasticity (HBSL) [Source:SGD;Acc:S000003941]
+#>E	YLL018C.1	1.0	109902-111575
+XII	109923	110894	-1.0	aa-tRNA-synt_II	0	109923-110894	PF00152	http://pfam.sanger.ac.uk/family?acc=PF00152
+XII	110988	111251	-1.0	NA-bd_OB_tRNA-helicase	0	110988-111251	PF01336	http://pfam.sanger.ac.uk/family?acc=PF01336

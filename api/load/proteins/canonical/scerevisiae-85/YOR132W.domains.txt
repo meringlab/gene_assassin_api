@@ -1,0 +1,4 @@
+#>P	YOR132W	YOR132W	YOR132W	XV	573175	574827	1	Subunit of the membrane-associated retromer complex; essential for endosome-to-Golgi retrograde protein transport; peripheral membrane protein that assembles onto the membrane with Vps5p to promote vesicle formation; required for recruiting the retromer complex to the endosome membranes [Source:SGD;Acc:S000005658]
+#>E	YOR132W.1	1.0	573175-574830
+XV	573994	574527	1.0	Vps5_C	0	573994-574527	PF09325	http://pfam.sanger.ac.uk/family?acc=PF09325
+XV	573502	573843	1.0	Phox	0	573502-573843	PF00787	http://pfam.sanger.ac.uk/family?acc=PF00787

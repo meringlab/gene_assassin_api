@@ -1,0 +1,3 @@
+#>P	YLR186W	YLR186W	YLR186W	XII	523632	524387	1	Methyltransferase for rRNA; catalyzes methylation of the pseudouridine residue 1191 of 18S rRNA; member of the SPOUT methyltransferase family; required for maturation of 18S rRNA and for 40S ribosomal subunit production independently of methyltransferase activity; forms homodimers; human ortholog is mutated in Bowen-Conradi syndrome, and the equivalent mutation in yeast affects Emg1p dimerization and localization but not its methyltransferase activity [Source:SGD;Acc:S000004176]
+#>E	YLR186W.1	1.0	523632-524390
+XII	523758	524369	1.0	Rbsml_bgen_MeTrfase_EMG1/NEP1	0	523758-524369	PF03587	http://pfam.sanger.ac.uk/family?acc=PF03587

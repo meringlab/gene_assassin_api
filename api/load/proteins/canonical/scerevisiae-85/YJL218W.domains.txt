@@ -1,0 +1,5 @@
+#>P	YJL218W	YJL218W	YJL218W	X	21973	22560	1	Putative acetyltransferase; similar to bacterial galactoside O-acetyltransferases; induced by oleate in an OAF1/PIP2-dependent manner; promoter contains an oleate response element consensus sequence; non-essential gene [Source:SGD;Acc:S000003754]
+#>E	YJL218W.1	1.0	21973-22563
+X	22195	22299	1.0	Hexapep_transf	0	22195-22299	PF00132	http://pfam.sanger.ac.uk/family?acc=PF00132
+X	22363	22464	1.0	Hexapep_transf	0	22363-22464	PF00132	http://pfam.sanger.ac.uk/family?acc=PF00132
+X	22000	22146	1.0	Maltose/galactoside_AcTrfase	0	22000-22146	PF12464	http://pfam.sanger.ac.uk/family?acc=PF12464

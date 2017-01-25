@@ -1,0 +1,3 @@
+#>P	YHR064C	YHR064C	YHR064C	VIII	225528	227141	-1	Hsp70 protein that interacts with Zuo1p (a DnaJ homolog); interacts with Zuo1p to form a ribosome-associated complex that binds the ribosome via the Zuo1p subunit; also involved in pleiotropic drug resistance via sequential activation of PDR1 and PDR5; binds ATP [Source:SGD;Acc:S000001106]
+#>E	YHR064C.1	1.0	225525-227141
+VIII	225774	227129	-1.0	Hsp_70	0	225774-227129	PF00012	http://pfam.sanger.ac.uk/family?acc=PF00012

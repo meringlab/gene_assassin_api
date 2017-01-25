@@ -1,0 +1,3 @@
+#>P	YBR087W	YBR087W	YBR087W	II	423765	424826	1	Subunit of heteropentameric Replication factor C (RF-C); RF-C is a DNA binding protein and ATPase that acts as a clamp loader of the proliferating cell nuclear antigen (PCNA) processivity factor for DNA polymerases delta and epsilon [Source:SGD;Acc:S000000291]
+#>E	YBR087W.1	1.0	423765-424829
+II	424548	424811	1.0	Rep_factor-C	0	424548-424811	PF08542	http://pfam.sanger.ac.uk/family?acc=PF08542

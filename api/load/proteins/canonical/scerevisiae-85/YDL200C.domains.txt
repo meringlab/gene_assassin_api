@@ -1,0 +1,4 @@
+#>P	YDL200C	YDL200C	YDL200C	IV	100504	101067	-1	DNA repair methyltransferase (6-O-methylguanine-DNA methylase); involved in protection against DNA alkylation damage [Source:SGD;Acc:S000002359]
+#>E	YDL200C.1	1.0	100501-101067
+IV	100531	100773	-1.0	MethylDNA_cys_MeTrfase_DNA-bd	0	100531-100773	PF01035	http://pfam.sanger.ac.uk/family?acc=PF01035
+IV	100783	101055	-1.0	MethylG_MeTrfase	0	100783-101055	PF02870	http://pfam.sanger.ac.uk/family?acc=PF02870

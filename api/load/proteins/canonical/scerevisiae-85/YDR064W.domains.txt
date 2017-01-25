@@ -1,0 +1,4 @@
+#>P	YDR064W	YDR064W	YDR064W	IV	579458	580449	1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S13 and bacterial S15 [Source:SGD;Acc:S000002471]
+#>E	YDR064W.1,YDR064W.2	1,1	579458-579478,580018-580452
+IV	580192	580446	1	Ribosomal_S15	0	580192-580446	PF00312	http://pfam.sanger.ac.uk/family?acc=PF00312
+IV	579458	580176	1	Ribosomal_S13/S15_N	0	579458-579478,580018-580176	PF08069	http://pfam.sanger.ac.uk/family?acc=PF08069

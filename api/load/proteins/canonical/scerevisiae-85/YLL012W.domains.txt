@@ -1,0 +1,3 @@
+#>P	YLL012W	YLL012W	YLL012W	XII	125534	127252	1	Steryl ester hydrolase; one of three gene products (Yeh1p, Yeh2p, Tgl1p) responsible for steryl ester hydrolase activity and involved in sterol homeostasis; localized to lipid particle membranes; YEH1 has a paralog, YEH2, that arose from the whole genome duplication [Source:SGD;Acc:S000003935]
+#>E	YLL012W.1	1.0	125534-127255
+XII	126068	126256	1.0	AB_hydrolase_lipase	0	126068-126256	PF04083	http://pfam.sanger.ac.uk/family?acc=PF04083

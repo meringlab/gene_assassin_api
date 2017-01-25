@@ -1,0 +1,4 @@
+#>P	YEL077C	YEL077C	YEL077C	V	267	4097	-1	Helicase-like protein encoded within the telomeric Y' element [Source:SGD;Acc:S000006409]
+#>E	YEL077C.1	1.0	264-4097
+V	2940	3413	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	2940-3413	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+V	2421	2630	-1.0	Helicase_C	0	2421-2630	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

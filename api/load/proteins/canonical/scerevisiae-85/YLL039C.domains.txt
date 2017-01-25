@@ -1,0 +1,7 @@
+#>P	YLL039C	YLL039C	YLL039C	XII	64065	65207	-1	Ubiquitin; becomes conjugated to proteins, marking them for selective degradation via the ubiquitin-26S proteasome system; essential for the cellular stress response; encoded as a polyubiquitin precursor comprised of 5 head-to-tail repeats; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003962]
+#>E	YLL039C.1	1.0	64062-65207
+XII	64758	64964	-1.0	Ubiquitin	0	64758-64964	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240
+XII	64302	64508	-1.0	Ubiquitin	0	64302-64508	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240
+XII	64986	65192	-1.0	Ubiquitin	0	64986-65192	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240
+XII	64074	64280	-1.0	Ubiquitin	0	64074-64280	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240
+XII	64530	64736	-1.0	Ubiquitin	0	64530-64736	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240

@@ -1,0 +1,3 @@
+#>P	YOR161C	YOR161C	YOR161C	XV	636942	638558	-1	Protein of unknown function; has similarity to Torpedo californica tCTL1p, which is postulated to be a choline transporter, neither null mutation nor overexpression affects choline transport [Source:SGD;Acc:S000005687]
+#>E	YOR161C.1	1.0	636939-638558
+XV	637017	638003	-1.0	Choline_transptr-like	0	637017-638003	PF04515	http://pfam.sanger.ac.uk/family?acc=PF04515

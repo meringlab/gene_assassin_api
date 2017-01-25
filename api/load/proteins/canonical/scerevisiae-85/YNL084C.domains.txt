@@ -1,0 +1,4 @@
+#>P	YNL084C	YNL084C	YNL084C	XIV	470056	471102	-1	EH domain-containing protein involved in endocytosis; actin cytoskeletal organization and cell wall morphogenesis; forms a complex with Sla1p and Pan1p [Source:SGD;Acc:S000005028]
+#>E	YNL084C.1	1.0	470053-471102
+XIV	470392	470547	-1.0	END3	0	470392-470547	PF12761	http://pfam.sanger.ac.uk/family?acc=PF12761
+XIV	470068	470280	-1.0	END3	0	470068-470280	PF12761	http://pfam.sanger.ac.uk/family?acc=PF12761

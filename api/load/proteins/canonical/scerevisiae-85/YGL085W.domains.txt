@@ -1,0 +1,3 @@
+#>P	YGL085W	YGL085W	YGL085W	VII	349616	350437	1	Putative protein of unknown function; mutant has long chronological lifespan; has homology to Staphylococcus aureus nuclease; GFP-fusion protein localizes to mitochondria; is induced in response to the DNA-damaging agent MMS [Source:SGD;Acc:S000003053]
+#>E	YGL085W.1	1.0	349616-350440
+VII	350063	350395	1.0	Staphylococcal_nuclease	0	350063-350395	PF00565	http://pfam.sanger.ac.uk/family?acc=PF00565

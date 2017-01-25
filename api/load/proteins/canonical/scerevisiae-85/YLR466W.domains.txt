@@ -1,0 +1,4 @@
+#>P	YLR466W	YLR466W	YLR466W	XII	1067087	1071232	1	Helicase encoded by the Y' element of subtelomeric regions; highly expressed in the mutants lacking the telomerase component TLC1; potentially phosphorylated by Cdc28p [Source:SGD;Acc:S000004458]
+#>E	YLR466W.1	1.0	1067087-1071235
+XII	1069037	1069246	1.0	Helicase_C	0	1069037-1069246	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XII	1068251	1068727	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	1068251-1068727	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

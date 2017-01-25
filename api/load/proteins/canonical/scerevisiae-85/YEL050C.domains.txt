@@ -1,0 +1,4 @@
+#>P	YEL050C	YEL050C	YEL050C	V	59673	60851	-1	Mitochondrial ribosomal protein of the large subunit (L2); has similarity to E. coli L2 ribosomal protein; mutant allele (fat21) causes inability to utilize oleate, and induce oleic acid oxidation; may interfere with activity of the Adr1p transcription factor [Source:SGD;Acc:S000000776]
+#>E	YEL050C.1	1.0	59670-60851
+V	59760	60146	-1.0	Ribosomal_L2_C	0	59760-60146	PF03947	http://pfam.sanger.ac.uk/family?acc=PF03947
+V	60228	60458	-1.0	Rbsml_prot_L2_RNA-bd_dom	0	60228-60458	PF00181	http://pfam.sanger.ac.uk/family?acc=PF00181

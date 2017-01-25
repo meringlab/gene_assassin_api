@@ -1,0 +1,5 @@
+#>P	YOL113W	YOL113W	YOL113W	XV	104326	106290	1	Member of the PAK family of serine/threonine protein kinases; similar to Ste20p; involved in down-regulation of sterol uptake; proposed to be a downstream effector of Cdc42p during polarized growth; SKM1 has a paralog, CLA4, that arose from the whole genome duplication [Source:SGD;Acc:S000005473]
+#>E	YOL113W.1	1.0	104326-106293
+XV	104692	104865	1.0	PAK_box_Rho-bd	0	104692-104865	PF00786	http://pfam.sanger.ac.uk/family?acc=PF00786
+XV	104335	104667	1.0	Pleckstrin_homology	0	104335-104667	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169
+XV	105403	106239	1.0	Prot_kinase_cat_dom	0	105403-106239	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

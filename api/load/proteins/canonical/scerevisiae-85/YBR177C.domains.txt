@@ -1,0 +1,3 @@
+#>P	YBR177C	YBR177C	YBR177C	II	584810	586162	-1	Acyl-coenzymeA:ethanol O-acyltransferase; plays a minor role in medium-chain fatty acid ethyl ester biosynthesis; possesses short-chain esterase activity; localizes to lipid particles and the mitochondrial outer membrane; EHT1 has a paralog, EEB1, that arose from the whole genome duplication [Source:SGD;Acc:S000000381]
+#>E	YBR177C.1	1.0	584807-586162
+II	584861	585577	-1.0	AB_hydrolase_1	0	584861-585577	PF00561	http://pfam.sanger.ac.uk/family?acc=PF00561

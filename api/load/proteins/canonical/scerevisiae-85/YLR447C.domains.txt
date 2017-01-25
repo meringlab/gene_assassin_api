@@ -1,0 +1,3 @@
+#>P	YLR447C	YLR447C	YLR447C	XII	1026859	1027893	-1	Subunit d of the V0 integral membrane domain of V-ATPase; part of the electrogenic proton pump found in the endomembrane system; required for V1 domain assembly on the vacuolar membrane; the V0 integral membrane domain of vacuolar H+-ATPase (V-ATPase) has five subunits [Source:SGD;Acc:S000004439]
+#>E	YLR447C.1	1.0	1026856-1027893
+XII	1026868	1027857	-1.0	ATPase_V0/A0-cplx_csu/dsu	0	1026868-1027857	PF01992	http://pfam.sanger.ac.uk/family?acc=PF01992

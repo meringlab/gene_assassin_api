@@ -1,0 +1,5 @@
+#>P	YKR024C	YKR024C	YKR024C	XI	485147	487372	-1	Putative ATP-dependent RNA helicase of the DEAD-box family; involved in ribosomal biogenesis; required at post-transcriptional step for efficient retrotransposition; essential for growth under anaerobic conditions [Source:SGD;Acc:S000001732]
+#>E	YKR024C.1	1.0	485144-487372
+XI	486293	486871	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	486293-486871	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+XI	485273	485458	-1.0	DUF4217	0	485273-485458	PF13959	http://pfam.sanger.ac.uk/family?acc=PF13959
+XI	485699	485938	-1.0	Helicase_C	0	485699-485938	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

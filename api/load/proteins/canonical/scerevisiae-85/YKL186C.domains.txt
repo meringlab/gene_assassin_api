@@ -1,0 +1,3 @@
+#>P	YKL186C	YKL186C	YKL186C	XI	92747	93298	-1	mRNA transport regulator; essential nuclear protein; Mex67p and Mtr2p form a mRNA export complex which binds to RNA [Source:SGD;Acc:S000001669]
+#>E	YKL186C.1	1.0	92744-93298
+XI	92747	93259	-1.0	Nucl_pore_RNA_shuttling_Mtr2	0	92747-93259	PF10429	http://pfam.sanger.ac.uk/family?acc=PF10429

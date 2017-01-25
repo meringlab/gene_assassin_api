@@ -1,0 +1,5 @@
+#>P	YPR137W	YPR137W	YPR137W	XVI	802359	804077	1	Protein involved in pre-rRNA processing; associated with U3 snRNP; component of small ribosomal subunit (SSU) processosome; ortholog of the human U3-55k protein [Source:SGD;Acc:S000006341]
+#>E	YPR137W.1	1.0	802359-804080
+XVI	803049	803150	1.0	WD40_repeat	0	803049-803150	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XVI	803775	803858	1.0	WD40_repeat	0	803775-803858	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XVI	803301	803408	1.0	WD40_repeat	0	803301-803408	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

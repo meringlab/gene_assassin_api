@@ -1,0 +1,3 @@
+#>P	YDR208W	YDR208W	YDR208W	IV	868224	870560	1	Phosphatidylinositol-4-phosphate 5-kinase; involved in actin cytoskeleton organization and cell morphogenesis; multicopy suppressor of stt4 mutation [Source:SGD;Acc:S000002616]
+#>E	YDR208W.1	1.0	868224-870563
+IV	869616	870488	1.0	PInositol-4-P-5-kinase_core	0	869616-870488	PF01504	http://pfam.sanger.ac.uk/family?acc=PF01504

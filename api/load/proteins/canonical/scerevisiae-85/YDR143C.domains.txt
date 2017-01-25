@@ -1,0 +1,3 @@
+#>P	YDR143C	YDR143C	YDR143C	IV	742045	743874	-1	Ubiquitin-protein ligase; involved in proteasome-dependent degradation of aberrant nuclear proteins; targets substrates with regions of exposed hydrophobicity containing 5 or more contiguous hydrophobic residues; contains intrinsically disordered regions that contribute to substrate recognition; prefers a window of exposed hydrophobicity that causes a particular level of protein insolubility, suggesting that San1p evolved to target highly aggregation-prone proteins [Source:SGD;Acc:S000002550]
+#>E	YDR143C.1	1.0	742042-743874
+IV	743032	743130	-1.0	Znf_RING	0	743032-743130	PF13639	http://pfam.sanger.ac.uk/family?acc=PF13639

@@ -1,0 +1,4 @@
+#>P	YDR468C	YDR468C	YDR468C	IV	1398029	1398700	-1	Essential t-SNARE that mediates fusion of vesicles with the late Golgi; forms a complex with Tlg2p and Vti1p; mediates fusion of endosome-derived vesicles with the late Golgi; binds the docking complex VFT (Vps fifty-three) through interaction with Vps51p [Source:SGD;Acc:S000002876]
+#>E	YDR468C.1	1.0	1398026-1398700
+IV	1398104	1398292	-1.0	T_SNARE_dom	0	1398104-1398292	PF05739	http://pfam.sanger.ac.uk/family?acc=PF05739
+IV	1398440	1398685	-1.0	Syntaxin-6_N	0	1398440-1398685	PF09177	http://pfam.sanger.ac.uk/family?acc=PF09177

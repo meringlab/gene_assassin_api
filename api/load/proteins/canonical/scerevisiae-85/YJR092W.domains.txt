@@ -1,0 +1,4 @@
+#>P	YJR092W	YJR092W	YJR092W	X	598735	603075	1	Anillin-like protein involved in bud-site selection; required for the axial budding pattern; localizes with septins to the bud neck in mitosis and may constitute an axial landmark for the next round of budding; required for the formation and disassembly of the double septin ring structure, and generally for septin organization; in vivo substrate of Cdc28p/Clb2p [Source:SGD;Acc:S000003852]
+#>E	YJR092W.1	1.0	598735-603078
+X	602644	602970	1.0	Pleckstrin_homology	0	602644-602970	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169
+X	602257	602562	1.0	DUF1709_fun	0	602257-602562	PF08174	http://pfam.sanger.ac.uk/family?acc=PF08174

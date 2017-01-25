@@ -1,0 +1,3 @@
+#>P	YER178W	YER178W	YER178W	V	546817	548076	1	E1 alpha subunit of the pyruvate dehydrogenase (PDH) complex; catalyzes the direct oxidative decarboxylation of pyruvate to acetyl-CoA; phosphorylated; regulated by glucose; PDH complex is concentrated in spots within the mitochondrial matrix, often near the ERMES complex and near peroxisomes [Source:SGD;Acc:S000000980]
+#>E	YER178W.1	1.0	546817-548079
+V	547075	547959	1.0	DH_E1	0	547075-547959	PF00676	http://pfam.sanger.ac.uk/family?acc=PF00676

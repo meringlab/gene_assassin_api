@@ -1,0 +1,3 @@
+#>P	YCL066W	YCL066W	YCL066W	III	13282	13806	1	Silenced copy of ALPHA1 at HML; ALPHA1 encodes a transcriptional coactivator involved in the regulation of mating-type alpha-specific gene expression [Source:SGD;Acc:S000000571]
+#>E	YCL066W.1	1.0	13282-13809
+III	13282	13803	1.0	MAT_alpha1	0	13282-13803	PF04769	http://pfam.sanger.ac.uk/family?acc=PF04769

@@ -1,0 +1,4 @@
+#>P	YDR375C	YDR375C	YDR375C	IV	1225169	1226536	-1	Protein translocase and chaperone required for Complex III assembly; member of the AAA ATPase family; forms a homo-oligomeric complex in the mitochondrial inner membrane that translocates the C-terminal domain of Rip1p from the matrix across the inner membrane, and then delivers it to an assembly intermediate of respiratory Complex III in an ATP-dependent reaction; also required for assembly of the Qcr10p subunit; mutations in human homolog BCS1L linked to neonatal diseases [Source:SGD;Acc:S000002783]
+#>E	YDR375C.1	1.0	1225166-1226536
+IV	1225853	1226362	-1.0	BCS1_N	0	1225853-1226362	PF08740	http://pfam.sanger.ac.uk/family?acc=PF08740
+IV	1225376	1225747	-1.0	ATPase_AAA_core	0	1225376-1225747	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

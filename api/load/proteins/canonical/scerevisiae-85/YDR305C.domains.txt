@@ -1,0 +1,3 @@
+#>P	YDR305C	YDR305C	YDR305C	IV	1072749	1073488	-1	Dinucleoside triphosphate hydrolase; has similarity to the tumor suppressor FHIT and belongs to the histidine triad (HIT) superfamily of nucleotide-binding proteins [Source:SGD;Acc:S000002713]
+#>E	YDR305C.2,YDR305C.1	1,1	1072746-1073312,1073402-1073488
+IV	1073049	1073416	-1	Histidine_triad_HIT	0	1073049-1073312,1073402-1073416	PF01230	http://pfam.sanger.ac.uk/family?acc=PF01230

@@ -1,0 +1,4 @@
+#>P	YOR337W	YOR337W	YOR337W	XV	954344	956620	1	Ty1 enhancer activator involved in Ty enhancer-mediated transcription; required for full levels of Ty enhancer-mediated transcription; C6 zinc cluster DNA-binding protein [Source:SGD;Acc:S000005864]
+#>E	YOR337W.1	1.0	954344-956623
+XV	954548	954658	1.0	Zn2-C6_fun-type_DNA-bd	0	954548-954658	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+XV	955328	956080	1.0	Transcription_factor_fun	0	955328-956080	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082

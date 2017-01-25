@@ -1,0 +1,10 @@
+#>P	YBR198C	YBR198C	YBR198C	II	616130	618523	-1	Subunit (90 kDa) of TFIID and SAGA complexes; involved in RNA polymerase II transcription initiation and in chromatin modification [Source:SGD;Acc:S000000402]
+#>E	YBR198C.1	1.0	616127-618523
+II	617690	618085	-1.0	TFIID-su_WD40-assoc_reg	0	617690-618085	PF04494	http://pfam.sanger.ac.uk/family?acc=PF04494
+II	618272	618349	-1.0	LisH_dimerisation_subgr	0	618272-618349	PF08513	http://pfam.sanger.ac.uk/family?acc=PF08513
+II	617042	617155	-1.0	WD40_repeat	0	617042-617155	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	616358	616450	-1.0	WD40_repeat	0	616358-616450	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	616487	616597	-1.0	WD40_repeat	0	616487-616597	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	616739	616843	-1.0	WD40_repeat	0	616739-616843	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	616865	616969	-1.0	WD40_repeat	0	616865-616969	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	616613	616723	-1.0	WD40_repeat	0	616613-616723	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

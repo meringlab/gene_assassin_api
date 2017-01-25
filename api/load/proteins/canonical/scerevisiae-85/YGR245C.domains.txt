@@ -1,0 +1,4 @@
+#>P	YGR245C	YGR245C	YGR245C	VII	979768	982068	-1	Protein required for actin organization and passage through Start; highly conserved nuclear protein; required for actin cytoskeleton organization; plays a critical role in G1 events; binds Nap1p; involved in 60S ribosome biogenesis [Source:SGD;Acc:S000003477]
+#>E	YGR245C.1	1.0	979765-982068
+VII	979774	980694	-1.0	SDA1	0	979774-980694	PF05285	http://pfam.sanger.ac.uk/family?acc=PF05285
+VII	981637	981792	-1.0	Uncharacterised_NUC130/133_N	0	981637-981792	PF08158	http://pfam.sanger.ac.uk/family?acc=PF08158

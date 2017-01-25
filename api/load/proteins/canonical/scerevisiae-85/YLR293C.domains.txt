@@ -1,0 +1,3 @@
+#>P	YLR293C	YLR293C	YLR293C	XII	720774	721430	-1	Ran GTPase; GTP binding protein (mammalian Ranp homolog) involved in the maintenance of nuclear organization, RNA processing and transport; regulated by Srm1p, Rna1p, Yrb1p, Yrb2p, Yrp4p, Yrb30p, Cse1p and Kap95p; GSP1 has a paralog, GSP2, that arose from the whole genome duplication [Source:SGD;Acc:S000004284]
+#>E	YLR293C.1	1.0	720771-721430
+XII	720921	721391	-1.0	Small_GTPase	0	720921-721391	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071

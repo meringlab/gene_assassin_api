@@ -1,0 +1,4 @@
+#>P	YKL194C	YKL194C	YKL194C	XI	77261	78646	-1	Mitochondrial threonyl-tRNA synthetase; aminoacylates both the canonical threonine tRNA tT(UGU)Q1 and the unusual threonine tRNA tT(UAG)Q2 in vitro [Source:SGD;Acc:S000001677]
+#>E	YKL194C.1	1.0	77258-78646
+XI	77279	77602	-1.0	Anticodon-bd	0	77279-77602	PF03129	http://pfam.sanger.ac.uk/family?acc=PF03129
+XI	77915	78442	-1.0	aa-tRNA-synt_IIb_cons-dom	0	77915-78442	PF00587	http://pfam.sanger.ac.uk/family?acc=PF00587

@@ -1,0 +1,5 @@
+#>P	ENSG00000129009	ENST00000249842	ENSP00000249842	15	74174859	74176142	1	immunoglobulin superfamily containing leucine rich repeat [Source:HGNC Symbol;Acc:HGNC:6133]
+#>E	ENSE00001520652	0	74174859-74176145
+15	74175009	74175188	1	Leu-rich_rpt	118.5	74175009-74175188	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+15	74175225	74175401	1	Leu-rich_rpt	118.5	74175225-74175401	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+15	74175591	74175884	1	Ig_I-set	31.9	74175591-74175884	PF07679	http://pfam.sanger.ac.uk/family?acc=PF07679

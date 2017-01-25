@@ -1,0 +1,3 @@
+#>P	YML131W	YML131W	YML131W	XIII	10198	11292	1	Protein of unknown function; similar to medium chain dehydrogenase/reductases; expression induced by stresses including osmotic shock, DNA damaging agents, and other chemicals; GFP-fusion protein localizes to the cytoplasm; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004600]
+#>E	YML131W.1	1.0	10198-11295
+XIII	10726	11136	1.0	ADH_C	0	10726-11136	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107

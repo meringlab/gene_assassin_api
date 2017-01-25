@@ -1,0 +1,3 @@
+#>P	YDR255C	YDR255C	YDR255C	IV	966560	967822	-1	Component of GID Complex that confers ubiquitin ligase (U3) activity; necessary for polyubiquitination and degradation of the gluconeogenic enzyme fructose-1,6-bisphosphatase; forms dimer with Fyv10p that is then recruited to GID Complex by Gid8p; also required for sporulation; conserved protein that has a degenerate RING finger domain [Source:SGD;Acc:S000002663]
+#>E	YDR255C.1	1.0	966557-967822
+IV	966863	967294	-1.0	CTLH/CRA	0	966863-967294	PF10607	http://pfam.sanger.ac.uk/family?acc=PF10607

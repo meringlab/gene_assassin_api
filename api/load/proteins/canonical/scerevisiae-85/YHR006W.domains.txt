@@ -1,0 +1,3 @@
+#>P	YHR006W	YHR006W	YHR006W	VIII	117814	119436	1	Transcription factor; activated by proteolytic processing in response to signals from the SPS sensor system for external amino acids; activates transcription of amino acid permease genes; STP2 has a paralog, STP1, that arose from the whole genome duplication [Source:SGD;Acc:S000001048]
+#>E	YHR006W.1	1.0	117814-119439
+VIII	118423	118491	1.0	Znf_C2H2	0	118423-118491	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

@@ -1,0 +1,7 @@
+#>P	YCR092C	YCR092C	YCR092C	III	276767	279820	-1	Mismatch repair protein; forms dimers with Msh2p that mediate repair of insertion or deletion mutations and removal of nonhomologous DNA ends, contains a PCNA (Pol30p) binding motif required for genome stability [Source:SGD;Acc:S000000688]
+#>E	YCR092C.1	1.0	276764-279820
+III	276881	277594	-1.0	DNA_mismatch_repair_MutS_C	0	276881-277594	PF00488	http://pfam.sanger.ac.uk/family?acc=PF00488
+III	279041	279424	-1.0	DNA_mismatch_repair_MutS-lik_N	0	279041-279424	PF01624	http://pfam.sanger.ac.uk/family?acc=PF01624
+III	277742	278002	-1.0	DNA_mismatch_repair_MutS_clamp	0	277742-278002	PF05190	http://pfam.sanger.ac.uk/family?acc=PF05190
+III	278612	278995	-1.0	DNA_mismatch_repair_MutS_connt	0	278612-278995	PF05188	http://pfam.sanger.ac.uk/family?acc=PF05188
+III	277616	278554	-1.0	DNA_mismatch_repair_MutS_core	0	277616-278554	PF05192	http://pfam.sanger.ac.uk/family?acc=PF05192

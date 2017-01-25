@@ -1,0 +1,3 @@
+#>P	YOR138C	YOR138C	YOR138C	XV	584312	586324	-1	Protein that regulates ubiquitination of Rsp5p; has a WW domain consensus motif of PPPSY (residues 131-135) that mediates binding of Rsp5p to Ubp2p; contains an UBA domain; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000005664]
+#>E	YOR138C.1	1.0	584309-586324
+XV	586211	586318	-1.0	UBA/transl_elong_EF1B_N	0	586211-586318	PF00627	http://pfam.sanger.ac.uk/family?acc=PF00627

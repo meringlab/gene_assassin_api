@@ -1,0 +1,3 @@
+#>P	YJR085C	YJR085C	YJR085C	X	585123	585437	-1	Protein of unknown function; GFP-fusion protein is induced in response to the DNA-damaging agent MMS; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003845]
+#>E	YJR085C.1	1.0	585120-585437
+X	585147	585434	-1.0	UPF0136_TM	0	585147-585434	PF03647	http://pfam.sanger.ac.uk/family?acc=PF03647

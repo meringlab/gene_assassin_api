@@ -1,0 +1,3 @@
+#>P	YNR046W	YNR046W	YNR046W	XIV	707788	708192	1	Protein involved in methylation of tRNA, rRNA, and translation factors; also involved in ribosome biogenesis; subunit of tRNA methyltransferase (MTase) complexes in combination with Trm9p and Trm11p; interacts with and stabilizes 18S rRNA methyltransferase Bud23p; subunit of complex with Mtq2p that methylates Sup45p (eRF1) in the ternary complex eRF1-eRF3-GTP; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000005329]
+#>E	YNR046W.1	1.0	707788-708195
+XIV	707791	708159	1.0	UPF0434/Trm112	0	707791-708159	PF03966	http://pfam.sanger.ac.uk/family?acc=PF03966

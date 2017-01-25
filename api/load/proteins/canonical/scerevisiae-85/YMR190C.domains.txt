@@ -1,0 +1,6 @@
+#>P	YMR190C	YMR190C	YMR190C	XIII	640918	645258	-1	RecQ family nucleolar DNA helicase; role in genome integrity maintenance; regulates chromosome synapsis and meiotic joint molecule/crossover formation; stimulates DNA catenation/decatenation activity of Top3p; potential repressor of a subset of rapamycin responsive genes; rapidly lost in response to rapamycin in Rrd1p-dependent manner; similar to human BLM and WRN proteins implicated in Bloom and Werner syndromes; forms nuclear foci upon DNA replication stress [Source:SGD;Acc:S000004802]
+#>E	YMR190C.1	1.0	640915-645258
+XIII	641680	642009	-1.0	RQC_domain	0	641680-642009	PF09382	http://pfam.sanger.ac.uk/family?acc=PF09382
+XIII	641212	641448	-1.0	Helicase_Sgs1	0	641212-641448	PF11408	http://pfam.sanger.ac.uk/family?acc=PF11408
+XIII	642709	643218	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	642709-643218	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+XIII	642274	642501	-1.0	Helicase_C	0	642274-642501	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

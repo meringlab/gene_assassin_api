@@ -1,0 +1,3 @@
+#>P	YDR533C	YDR533C	YDR533C	IV	1501450	1502160	-1	Methylglyoxalase that converts methylglyoxal to D-lactate; involved in oxidative stress resistance, diauxic shift, and stationary phase survival; has similarity to E. coli Hsp31 and C. albicans Glx3p; member of the DJ-1/ThiJ/PfpI superfamily, which includes human DJ-1 involved in Parkinson's disease and cancer; exists as a dimer and contains a putative metal-binding site; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002941]
+#>E	YDR533C.1	1.0	1501447-1502160
+IV	1501453	1501974	-1.0	ThiJ/PfpI	0	1501453-1501974	PF01965	http://pfam.sanger.ac.uk/family?acc=PF01965

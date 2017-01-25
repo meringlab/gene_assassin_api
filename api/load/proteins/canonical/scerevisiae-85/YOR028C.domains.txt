@@ -1,0 +1,3 @@
+#>P	YOR028C	YOR028C	YOR028C	XV	383536	384420	-1	Basic leucine zipper (bZIP) transcription factor of the yAP-1 family; physically interacts with the Tup1-Cyc8 complex and recruits Tup1p to its targets; mediates pleiotropic drug resistance and salt tolerance; nuclearly localized under oxidative stress and sequestered in the cytoplasm by Lot6p under reducing conditions; CIN5 has a paralog, YAP6, that arose from the whole genome duplication [Source:SGD;Acc:S000005554]
+#>E	YOR028C.1	1.0	383533-384420
+XV	383542	383715	-1.0	bZIP	0	383542-383715	PF00170	http://pfam.sanger.ac.uk/family?acc=PF00170

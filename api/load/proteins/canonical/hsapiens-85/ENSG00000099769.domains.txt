@@ -1,0 +1,8 @@
+#>P	ENSG00000099769	ENST00000415638	ENSP00000416683	16	1790603	1793652	-1	insulin like growth factor binding protein acid labile subunit [Source:HGNC Symbol;Acc:HGNC:5468]
+#>E	ENSE00001604729,ENSE00001269182	0,0	1790600-1792515,1793637-1793652
+16	1792016	1792186	-1	Leu-rich_rpt	462	1792016-1792186	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+16	1791368	1791544	-1	Leu-rich_rpt	462	1791368-1791544	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+16	1791080	1791259	-1	Leu-rich_rpt	462	1791080-1791259	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+16	1791587	1791763	-1	Leu-rich_rpt	462	1791587-1791763	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+16	1791800	1791982	-1	Leu-rich_rpt	462	1791800-1791982	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+16	1792199	1792300	-1	LRRNT	37.2	1792199-1792300	PF01462	http://pfam.sanger.ac.uk/family?acc=PF01462

@@ -1,0 +1,3 @@
+#>P	YNL044W	YNL044W	YNL044W	XIV	545268	545874	1	Protein localized to COPII vesicles; proposed to be involved in ER to Golgi transport; interacts with members of the Rab GTPase family and Yip1p; also interacts with Rtn1p [Source:SGD;Acc:S000004989]
+#>E	YNL044W.1,YNL044W.2	1,1	545268-545291,545371-545877
+XIV	545431	545856	1	Prenylated_rab_accept_PRA1	0	545431-545856	PF03208	http://pfam.sanger.ac.uk/family?acc=PF03208

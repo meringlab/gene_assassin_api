@@ -1,0 +1,3 @@
+#>P	YDL220C	YDL220C	YDL220C	IV	62247	65018	-1	Single stranded DNA-binding protein found at TG1-3 telomere G-tails; key roles in regulation of telomerase, telomere end protection, conventional telomere replication; regulates telomere replication through recruitment of specific sub-complexes, essential function is telomere capping; forms homodimer via N-terminus; disruption of dimerization leads to short telomeres; autophagy and proteasome are involved in Cdc13p degradation; differentially phosphorylated through cell cycle [Source:SGD;Acc:S000002379]
+#>E	YDL220C.1	1.0	62244-65018
+IV	63087	63488	-1.0	Telomer_end-bd	0	63087-63488	PF02765	http://pfam.sanger.ac.uk/family?acc=PF02765

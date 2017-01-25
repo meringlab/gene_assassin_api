@@ -1,0 +1,3 @@
+#>P	YPL116W	YPL116W	YPL116W	XVI	329606	331696	1	Trichostatin A-insensitive homodimeric histone deacetylase (HDAC); specificity in vitro for histones H3, H4, H2A, and H2B; similar to Hda1p, Rpd3p, Hos1p, and Hos2p; deletion results in increased histone acetylation at rDNA repeats [Source:SGD;Acc:S000006037]
+#>E	YPL116W.1	1.0	329606-331699
+XVI	329789	330907	1.0	His_deacetylse_dom	0	329789-330907	PF00850	http://pfam.sanger.ac.uk/family?acc=PF00850

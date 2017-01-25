@@ -1,0 +1,3 @@
+#>P	YDR507C	YDR507C	YDR507C	IV	1462361	1465786	-1	Protein kinase involved in bud growth and assembly of the septin ring; proposed to have kinase-dependent and kinase-independent activities; undergoes autophosphorylation; similar to Hsl1p; GIN4 has a paralog, KCC4, that arose from the whole genome duplication [Source:SGD;Acc:S000002915]
+#>E	YDR507C.1	1.0	1462358-1465786
+IV	1464923	1465732	-1.0	Prot_kinase_cat_dom	0	1464923-1465732	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

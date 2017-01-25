@@ -1,0 +1,3 @@
+#>P	YGL012W	YGL012W	YGL012W	VII	472855	474273	1	C-24(28) sterol reductase; catalyzes the final step in ergosterol biosynthesis; mutants are viable, but lack ergosterol [Source:SGD;Acc:S000002980]
+#>E	YGL012W.1	1.0	472855-474276
+VII	472954	474273	1.0	Ergosterol_biosynth_ERG4_ERG24	0	472954-474273	PF01222	http://pfam.sanger.ac.uk/family?acc=PF01222

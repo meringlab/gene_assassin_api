@@ -1,0 +1,3 @@
+#>P	YJL121C	YJL121C	YJL121C	X	190377	191090	-1	D-ribulose-5-phosphate 3-epimerase; catalyzes a reaction in the non-oxidative part of the pentose-phosphate pathway; mutants are sensitive to oxidative stress [Source:SGD;Acc:S000003657]
+#>E	YJL121C.1	1.0	190374-191090
+X	190452	191075	-1.0	Ribul_P_3_epim	0	190452-191075	PF00834	http://pfam.sanger.ac.uk/family?acc=PF00834

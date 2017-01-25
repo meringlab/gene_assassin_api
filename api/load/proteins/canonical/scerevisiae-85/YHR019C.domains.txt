@@ -1,0 +1,4 @@
+#>P	YHR019C	YHR019C	YHR019C	VIII	141897	143558	-1	Cytosolic asparaginyl-tRNA synthetase; required for protein synthesis, catalyzes the specific attachment of asparagine to its cognate tRNA [Source:SGD;Acc:S000001061]
+#>E	YHR019C.1	1.0	141894-143558
+VIII	141915	142865	-1.0	aa-tRNA-synt_II	0	141915-142865	PF00152	http://pfam.sanger.ac.uk/family?acc=PF00152
+VIII	142929	143165	-1.0	NA-bd_OB_tRNA-helicase	0	142929-143165	PF01336	http://pfam.sanger.ac.uk/family?acc=PF01336

@@ -1,0 +1,3 @@
+#>P	YGR277C	YGR277C	YGR277C	VII	1045647	1046561	-1	Subunit of the CoA-Synthesizing Protein Complex (CoA-SPC); subunits of this complex are: Cab2p, Cab3p, Cab4p, Cab5p, Sis2p and Vhs3p; probable pantetheine-phosphate adenylyltransferase (PPAT); PPAT catalyzes the fourth step in the biosynthesis of coenzyme A from pantothenate; null mutant lethality is complemented by E. coli coaD (encoding PPAT); widely conserved [Source:SGD;Acc:S000003509]
+#>E	YGR277C.1	1.0	1045644-1046561
+VII	1045698	1046123	-1.0	Cytidylyltransf	0	1045698-1046123	PF01467	http://pfam.sanger.ac.uk/family?acc=PF01467

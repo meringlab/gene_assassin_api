@@ -1,0 +1,3 @@
+#>P	YDR057W	YDR057W	YDR057W	IV	565927	567552	1	ER quality-control lectin; integral subunit of the HRD ligase; participates in efficient ER retention of misfolded proteins by recognizing them and delivering them to Hrd1p; binds to glycans with terminal alpha-1,6 linked mannose on misfolded N-glycosylated proteins and participates in targeting proteins to ERAD; member of the OS-9 protein family [Source:SGD;Acc:S000002464]
+#>E	YDR057W.1	1.0	565927-567555
+IV	566272	566505	1.0	PRKCSH	0	566272-566505	PF07915	http://pfam.sanger.ac.uk/family?acc=PF07915

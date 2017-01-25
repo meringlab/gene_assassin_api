@@ -1,0 +1,3 @@
+#>P	YML121W	YML121W	YML121W	XIII	26930	27859	1	Cytoplasmic GTPase; forms a heterodimer with Gtr2p to stimulate TORC1 in response to amino acids; component of GSE complex, which is required for sorting of Gap1p; involved in phosphate transport and telomeric silencing; similar to human RagA and RagB [Source:SGD;Acc:S000004590]
+#>E	YML121W.1	1.0	26930-27862
+XIII	26951	27679	1.0	Gtr1_RagA	0	26951-27679	PF04670	http://pfam.sanger.ac.uk/family?acc=PF04670

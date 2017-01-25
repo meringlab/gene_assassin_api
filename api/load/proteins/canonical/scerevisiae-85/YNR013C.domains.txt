@@ -1,0 +1,4 @@
+#>P	YNR013C	YNR013C	YNR013C	XIV	649031	651712	-1	Low-affinity vacuolar phosphate transporter; exports phosphate from the vacuolar lumen to the cytosol; regulates phosphate and polyphosphate metabolism; acts upstream of Pho81p in regulation of the PHO pathway; deletion of pho84, pho87, pho89, pho90, and pho91 causes synthetic lethality; transcription independent of Pi and Pho4p activity; overexpression results in vigorous growth [Source:SGD;Acc:S000005296]
+#>E	YNR013C.1	1.0	649028-651712
+XIV	650939	651712	-1.0	SPX_N	0	650939-651712	PF03105	http://pfam.sanger.ac.uk/family?acc=PF03105
+XIV	649055	650416	-1.0	Na/sul_symport	0	649055-650416	PF00939	http://pfam.sanger.ac.uk/family?acc=PF00939

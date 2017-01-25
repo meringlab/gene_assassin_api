@@ -1,0 +1,6 @@
+#>P	YBR080C	YBR080C	YBR080C	II	398617	400890	-1	AAA ATPase and SNARE disassembly chaperone; required for vesicular transport between ER and Golgi, the 'priming' step in homotypic vacuole fusion, autophagy, and protein secretion; releases Sec17p from SNAP complexes; has similarity to mammalian N-ethylmaleimide-sensitive factor (NSF) [Source:SGD;Acc:S000000284]
+#>E	YBR080C.1	1.0	398614-400890
+II	400582	400806	-1.0	CDC4_N-term_subdom	0	400582-400806	PF02359	http://pfam.sanger.ac.uk/family?acc=PF02359
+II	399640	400062	-1.0	ATPase_AAA_core	0	399640-400062	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+II	398824	399213	-1.0	ATPase_AAA_core	0	398824-399213	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+II	400279	400491	-1.0	Cdc48_dom2	0	400279-400491	PF02933	http://pfam.sanger.ac.uk/family?acc=PF02933

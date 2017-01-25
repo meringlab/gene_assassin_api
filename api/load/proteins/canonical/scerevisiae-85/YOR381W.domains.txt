@@ -1,0 +1,5 @@
+#>P	YOR381W	YOR381W	YOR381W	XV	1055545	1057677	1	Ferric reductase; reduces siderophore-bound iron prior to uptake by transporters; expression induced by low iron levels [Source:SGD;Acc:S000005908]
+#>E	YOR381W.1	1.0	1055545-1057680
+XV	1057153	1057614	1.0	Fe_red_NAD-bd_6	0	1057153-1057614	PF08030	http://pfam.sanger.ac.uk/family?acc=PF08030
+XV	1056835	1057140	1.0	FAD-bd_8	0	1056835-1057140	PF08022	http://pfam.sanger.ac.uk/family?acc=PF08022
+XV	1056385	1056729	1.0	Flavoprotein_TM	0	1056385-1056729	PF01794	http://pfam.sanger.ac.uk/family?acc=PF01794

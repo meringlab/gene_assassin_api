@@ -1,0 +1,4 @@
+#>P	YOR010C	YOR010C	YOR010C	XV	346198	346950	-1	Putative cell wall mannoprotein; member of the Srp1p/Tip1p family of serine-alanine-rich proteins; transcription is induced by cold shock and anaerobiosis; TIR2 has a paralog, TIR3, that arose from the whole genome duplication [Source:SGD;Acc:S000005536]
+#>E	YOR010C.1	1.0	346195-346950
+XV	346279	346332	-1.0	Yeast_PIR	0	346279-346332	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+XV	346600	346917	-1.0	SRP1_TIP1	0	346600-346917	PF00660	http://pfam.sanger.ac.uk/family?acc=PF00660

@@ -1,0 +1,4 @@
+#>P	YDR423C	YDR423C	YDR423C	IV	1318049	1319275	-1	AP-1-like basic leucine zipper (bZIP) transcriptional activator; involved in stress responses, iron metabolism, and pleiotropic drug resistance; controls a set of genes involved in stabilizing proteins; binds consensus sequence TTACTAA; CAD1 has a paralog, YAP1, that arose from the whole genome duplication [Source:SGD;Acc:S000002831]
+#>E	YDR423C.1	1.0	1318046-1319275
+IV	1319027	1319140	-1.0	bZIP	0	1319027-1319140	PF00170	http://pfam.sanger.ac.uk/family?acc=PF00170
+IV	1318058	1318978	-1.0	TF_PAP1	0	1318058-1318978	PF08601	http://pfam.sanger.ac.uk/family?acc=PF08601

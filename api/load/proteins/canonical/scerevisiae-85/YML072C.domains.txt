@@ -1,0 +1,7 @@
+#>P	YML072C	YML072C	YML072C	XIII	124733	129367	-1	Cortical ER protein involved in ER-plasma membrane tethering; one of 6 proteins (Ist2p, Scs2p, Scs22p, Tcb1p, Tcb2p, Tcb3p) that connect ER to the plasma membrane (PM) and regulate PM phosphatidylinositol-4-phosphate (PI4P) levels by controlling access of Sac1p phosphatase to its substrate PI4P in the PM; localized to the bud via specific mRNA transport; non-tagged protein detected in a phosphorylated state in mitochondria; C-termini of Tcb1p, Tcb2p and Tcb3p interact [Source:SGD;Acc:S000004537]
+#>E	YML072C.1	1.0	124730-129367
+XIII	124886	125068	-1.0	C2_Ca-dep	0	124886-125068	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
+XIII	127631	127891	-1.0	C2_Ca-dep	0	127631-127891	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
+XIII	126728	126925	-1.0	C2_Ca-dep	0	126728-126925	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
+XIII	125717	125962	-1.0	C2_Ca-dep	0	125717-125962	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
+XIII	127145	127348	-1.0	C2_Ca-dep	0	127145-127348	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168

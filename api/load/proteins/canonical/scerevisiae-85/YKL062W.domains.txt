@@ -1,0 +1,4 @@
+#>P	YKL062W	YKL062W	YKL062W	XI	323228	325117	1	Stress-responsive transcriptional activator; activated in stochastic pulses of nuclear localization in response to various stress conditions; binds DNA at stress response elements of responsive genes, inducing gene expression; involved in diauxic shift [Source:SGD;Acc:S000001545]
+#>E	YKL062W.1	1.0	323228-325120
+XI	325031	325099	1.0	Znf_C2H2	0	325031-325099	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096
+XI	324944	325015	1.0	Znf_C2H2	0	324944-325015	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

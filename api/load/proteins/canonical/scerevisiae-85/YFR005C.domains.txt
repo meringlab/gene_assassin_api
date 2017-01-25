@@ -1,0 +1,4 @@
+#>P	YFR005C	YFR005C	YFR005C	VI	154530	155873	-1	Conserved zinc-finger domain protein involved in pre-mRNA splicing; critical for splicing of nearly all intron-containing genes; required for assembly of U4 snRNA into the U4/U6 particle [Source:SGD;Acc:S000001901]
+#>E	YFR005C.1	1.0	154527-155873
+VI	155559	155711	-1.0	Znf_UBP	0	155559-155711	PF02148	http://pfam.sanger.ac.uk/family?acc=PF02148
+VI	154719	155435	-1.0	Peptidase_C19	0	154719-155435	PF00443	http://pfam.sanger.ac.uk/family?acc=PF00443

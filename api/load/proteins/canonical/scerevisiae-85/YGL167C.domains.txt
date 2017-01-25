@@ -1,0 +1,6 @@
+#>P	YGL167C	YGL167C	YGL167C	VII	187619	190468	-1	High affinity Ca2+/Mn2+ P-type ATPase; required for Ca2+ and Mn2+ transport into Golgi; involved in Ca2+ dependent protein sorting and processing; D53A mutant (Mn2+ transporting) is rapamycin sensitive, Q783A mutant (Ca2+ transporting) is rapamycin resistant; Mn2+ transport into Golgi lumen appears to be required for rapamycin sensitivity; mutations in human homolog ATP2C1 cause acantholytic skin condition Hailey-Hailey disease [Source:SGD;Acc:S000003135]
+#>E	YGL167C.1	1.0	187616-190468
+VII	187667	188185	-1.0	ATPase_P-typ_cation-transptr_C	0	187667-188185	PF00689	http://pfam.sanger.ac.uk/family?acc=PF00689
+VII	189386	190114	-1.0	ATPase_P-typ_ATPase-assoc-dom	0	189386-190114	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122
+VII	188402	189376	-1.0	Dehalogen-like_hydro	0	188402-189376	PF00702	http://pfam.sanger.ac.uk/family?acc=PF00702
+VII	190145	190354	-1.0	ATPase_P-typ_cation-transptr_N	0	190145-190354	PF00690	http://pfam.sanger.ac.uk/family?acc=PF00690

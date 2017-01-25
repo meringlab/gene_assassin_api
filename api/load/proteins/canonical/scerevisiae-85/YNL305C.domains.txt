@@ -1,0 +1,3 @@
+#>P	YNL305C	YNL305C	YNL305C	XIV	58901	59791	-1	Protein involved in apoptosis; variously described as containing a BCL-2 homology (BH3) domain or as a member of the BAX inhibitor family; reported to promote apoptosis under some conditions and to inhibit it in others; localizes to ER and vacuole; may link the unfolded protein response to apoptosis via regulation of calcium-mediated signaling; translocates to mitochondria under apoptosis-inducing conditions in a process involving Mir1p and Cor1p [Source:SGD;Acc:S000005249]
+#>E	YNL305C.1	1.0	58898-59791
+XIV	58922	59650	-1.0	Inhibitor_apoptosis_Bax1	129.5	58922-59650	PF01027	http://pfam.sanger.ac.uk/family?acc=PF01027

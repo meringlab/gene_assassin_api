@@ -1,0 +1,3 @@
+#>P	YJL191W	YJL191W	YJL191W	X	73787	74608	1	Protein component of the small (40S) ribosomal subunit; required for ribosome assembly and 20S pre-rRNA processing; mutations confer cryptopleurine resistance; homologous to mammalian ribosomal protein S14 and bacterial S11; RPS14B has a paralog, RPS14A, that arose from the whole genome duplication [Source:SGD;Acc:S000003727]
+#>E	YJL191W.1,YJL191W.2	1,1	73787-73796,74205-74611
+X	74240	74596	1	Ribosomal_S11	0	74240-74596	PF00411	http://pfam.sanger.ac.uk/family?acc=PF00411

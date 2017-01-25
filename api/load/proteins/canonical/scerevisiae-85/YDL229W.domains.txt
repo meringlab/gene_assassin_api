@@ -1,0 +1,3 @@
+#>P	YDL229W	YDL229W	YDL229W	IV	44065	45903	1	Cytoplasmic ATPase that is a ribosome-associated molecular chaperone; functions with J-protein partner Zuo1p; may be involved in folding of newly-made polypeptide chains; member of the HSP70 family; interacts with phosphatase subunit Reg1p; SSB1 has a paralog, SSB2, that arose from the whole genome duplication [Source:SGD;Acc:S000002388]
+#>E	YDL229W.1	1.0	44065-45906
+IV	44089	45897	1.0	Hsp_70	0	44089-45897	PF00012	http://pfam.sanger.ac.uk/family?acc=PF00012

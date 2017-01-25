@@ -1,0 +1,3 @@
+#>P	YOL133W	YOL133W	YOL133W	XV	70325	70687	1	RING-H2 domain core subunit of multiple ubiquitin ligase complexes; subunit of Skp1-Cullin-F-box (SCF) that tethers the Cdc34p (E2) and Cdc53p (cullin) SCF subunits, and is required for degradation of Gic2p, Far1p, Sic1p and Cln2p; subunit of the Rtt101p-Mms1p-Mms22p ubiquitin ligase that stabilizes replication forks after DNA lesions; subunit of the Cul3p-Elc1p-Ela1p ubiquitin ligase involved in Rpb1p degradation as part of transcription-coupled repair [Source:SGD;Acc:S000005493]
+#>E	YOL133W.1	1.0	70325-70690
+XV	70424	70657	1.0	Znf_RING_H2	0	70424-70657	PF12678	http://pfam.sanger.ac.uk/family?acc=PF12678

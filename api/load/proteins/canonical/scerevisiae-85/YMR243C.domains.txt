@@ -1,0 +1,3 @@
+#>P	YMR243C	YMR243C	YMR243C	XIII	754841	756166	-1	Vacuolar membrane zinc transporter; transports zinc from cytosol to vacuole for storage; also has role in resistance to zinc shock resulting from sudden influx of zinc into cytoplasm; human ortholog SLC30A10 functions as a Mn transporter and mutations in SLC30A10 cause neurotoxic accumulation of Mn in liver and brain; ZRC1 has a paralog, COT1, that arose from the whole genome duplication [Source:SGD;Acc:S000004856]
+#>E	YMR243C.1	1.0	754838-756166
+XIII	755039	756133	-1.0	Cation_efflux	0	755039-756133	PF01545	http://pfam.sanger.ac.uk/family?acc=PF01545

@@ -1,0 +1,3 @@
+#>P	YFR041C	YFR041C	YFR041C	VI	237371	238255	-1	Type I membrane protein with a J domain; required to preserve the folding capacity of the endoplasmic reticulum; loss of the non-essential ERJ5 gene leads to a constitutively induced unfolded protein response [Source:SGD;Acc:S000001937]
+#>E	YFR041C.1	1.0	237368-238255
+VI	237941	238126	-1.0	DnaJ_N	0	237941-238126	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226

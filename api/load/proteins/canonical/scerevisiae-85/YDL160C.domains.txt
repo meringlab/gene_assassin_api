@@ -1,0 +1,4 @@
+#>P	YDL160C	YDL160C	YDL160C	IV	170413	171930	-1	Cytoplasmic DExD/H-box helicase, stimulates mRNA decapping; coordinates distinct steps in mRNA function and decay, interacts with both the decapping and deadenylase complexes, role in translational repression, mRNA decay, and processing body dynamics; may have a role in mRNA export; C-terminus of Dhh1p interacts with Ngr1p and promotes POR1, but not EDC1 mRNA decay; forms cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000002319]
+#>E	YDL160C.1	1.0	170410-171930
+IV	170797	171024	-1.0	Helicase_C	0	170797-171024	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+IV	171226	171720	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	171226-171720	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

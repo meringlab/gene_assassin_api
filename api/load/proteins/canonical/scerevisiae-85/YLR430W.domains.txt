@@ -1,0 +1,3 @@
+#>P	YLR430W	YLR430W	YLR430W	XII	993434	1000126	1	Presumed helicase and subunit of the Nrd1 complex (Nrd1p-Nab3p-Sen1p); complex interacts with the exosome to mediate 3' end formation of some mRNAs, snRNAs, snoRNAs, and CUTs; has a separate role in coordinating DNA replication with transcription, by associating with moving replication forks and preventing errors that occur when forks encounter transcribed regions; homolog of Senataxin, which is implicated in Ataxia-Oculomotor Apraxia 2 and a dominant form of ALS [Source:SGD;Acc:S000004422]
+#>E	YLR430W.1	1.0	993434-1000129
+XII	993746	996013	1.0	Helicase_Sen1_N	0	993746-996013	PF12726	http://pfam.sanger.ac.uk/family?acc=PF12726

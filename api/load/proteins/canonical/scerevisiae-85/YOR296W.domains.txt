@@ -1,0 +1,4 @@
+#>P	YOR296W	YOR296W	YOR296W	XV	870202	874068	1	Putative protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; expressed during copper starvation; YOR296W is not an essential gene [Source:SGD;Acc:S000005822]
+#>E	YOR296W.1	1.0	870202-874071
+XV	873334	873741	1.0	Munc13_subgr_dom-2	0	873334-873741	PF10540	http://pfam.sanger.ac.uk/family?acc=PF10540
+XV	872776	873039	1.0	C2_Ca-dep	0	872776-873039	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168

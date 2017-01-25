@@ -1,0 +1,6 @@
+#>P	YDR270W	YDR270W	YDR270W	IV	1005675	1008686	1	Cu(+2)-transporting P-type ATPase; required for export of copper from the cytosol into an extracytosolic compartment; has similarity to human proteins involved in Menkes and Wilsons diseases; protein abundance increases in response to DNA replication stress; affects TBSV model (+)RNA virus replication by regulating copper metabolism [Source:SGD;Acc:S000002678]
+#>E	YDR270W.1	1.0	1005675-1008689
+IV	1007535	1008215	1.0	Dehalogen-like_hydro	0	1007535-1008215	PF00702	http://pfam.sanger.ac.uk/family?acc=PF00702
+IV	1005924	1006106	1.0	HeavyMe-assoc_HMA	0	1005924-1006106	PF00403	http://pfam.sanger.ac.uk/family?acc=PF00403
+IV	1005690	1005869	1.0	HeavyMe-assoc_HMA	0	1005690-1005869	PF00403	http://pfam.sanger.ac.uk/family?acc=PF00403
+IV	1006806	1007522	1.0	ATPase_P-typ_ATPase-assoc-dom	0	1006806-1007522	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122

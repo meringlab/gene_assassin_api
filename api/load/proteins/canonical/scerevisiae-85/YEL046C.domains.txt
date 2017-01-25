@@ -1,0 +1,3 @@
+#>P	YEL046C	YEL046C	YEL046C	V	67632	68792	-1	Threonine aldolase; catalyzes the cleavage of L-allo-threonine and L-threonine to glycine; involved in glycine biosynthesis [Source:SGD;Acc:S000000772]
+#>E	YEL046C.1	1.0	67629-68792
+V	67887	68747	-1.0	ArAA_b-elim_lyase/Thr_aldolase	0	67887-68747	PF01212	http://pfam.sanger.ac.uk/family?acc=PF01212

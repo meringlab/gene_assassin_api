@@ -1,0 +1,4 @@
+#>P	YOR079C	YOR079C	YOR079C	XV	473478	474416	-1	Golgi membrane protein involved in manganese homeostasis; overproduction suppresses the sod1 (copper, zinc superoxide dismutase) null mutation [Source:SGD;Acc:S000005605]
+#>E	YOR079C.1	1.0	473475-474416
+XV	474018	474404	-1.0	ZIP	0	474018-474404	PF02535	http://pfam.sanger.ac.uk/family?acc=PF02535
+XV	473499	474038	-1.0	ZIP	0	473499-474038	PF02535	http://pfam.sanger.ac.uk/family?acc=PF02535

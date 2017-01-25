@@ -1,0 +1,3 @@
+#>P	YOR330C	YOR330C	YOR330C	XV	939624	943385	-1	Mitochondrial DNA polymerase gamma subunit; conserved C-terminal segment is required for the maintenance of mitochondrial genome; its human ortholog, POLG, can rescue mip1 phenotypes, and mutations in POLG are associated with Alpers-Huttenlocher syndrome (AHS) and other mitochondrial diseases; Mip1p is the single subunit of mitochondrial DNA polymerase in yeast, in contrast to metazoans in which there is a complex of a catalytic subunit and an accessory subunit [Source:SGD;Acc:S000005857]
+#>E	YOR330C.1	1.0	939621-943385
+XV	940569	941795	-1.0	DNA-dir_DNA_pol_A_palm_dom	0	940569-941795	PF00476	http://pfam.sanger.ac.uk/family?acc=PF00476

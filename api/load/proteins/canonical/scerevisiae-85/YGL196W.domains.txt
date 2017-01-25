@@ -1,0 +1,4 @@
+#>P	YGL196W	YGL196W	YGL196W	VII	129883	131166	1	D-serine dehydratase (aka D-serine ammonia-lyase); converts D-serine to pyruvate and ammonia by a reaction dependent on pyridoxal 5'-phosphate and zinc; may play a role in D-serine detoxification; L-serine is not a substrate [Source:SGD;Acc:S000003164]
+#>E	YGL196W.1	1.0	129883-131169
+VII	129982	130665	1.0	Ala_racemase_N	0	129982-130665	PF01168	http://pfam.sanger.ac.uk/family?acc=PF01168
+VII	130807	131121	1.0	D-ser_dehydrat-like_dom	0	130807-131121	PF14031	http://pfam.sanger.ac.uk/family?acc=PF14031

@@ -1,0 +1,5 @@
+#>P	YGR257C	YGR257C	YGR257C	VII	1006208	1007305	-1	Mitochondrial protein of the mitochondrial carrier family; high affinity pyridoxal 5&#8242;-phosphate transporter; involved in mitochondrial iron homeostasis and in activating mitochondrial Sod2p by facilitating insertion of an essential manganese cofactor [Source:SGD;Acc:S000003489]
+#>E	YGR257C.1	1.0	1006205-1007305
+VII	1006217	1006513	-1.0	Mitochondrial_sb/sol_carrier	0	1006217-1006513	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+VII	1006862	1007275	-1.0	Mitochondrial_sb/sol_carrier	0	1006862-1007275	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+VII	1006550	1006837	-1.0	Mitochondrial_sb/sol_carrier	0	1006550-1006837	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

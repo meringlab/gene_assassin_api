@@ -1,0 +1,4 @@
+#>P	YKL040C	YKL040C	YKL040C	XI	361061	361828	-1	Protein involved in iron metabolism in mitochondria; similar to NifU, which is a protein required for the maturation of the Fe/S clusters of nitrogenase in nitrogen-fixing bacteria [Source:SGD;Acc:S000001523]
+#>E	YKL040C.1	1.0	361058-361828
+XI	361484	361759	-1.0	NIF_FeS_clus_asmbl_NifU-like_N	0	361484-361759	PF08712	http://pfam.sanger.ac.uk/family?acc=PF08712
+XI	361148	361360	-1.0	NIF_FeS_clus_asmbl_NifU_C	0	361148-361360	PF01106	http://pfam.sanger.ac.uk/family?acc=PF01106

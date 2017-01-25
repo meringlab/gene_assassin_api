@@ -1,0 +1,3 @@
+#>P	YLR433C	YLR433C	YLR433C	XII	1004350	1006008	-1	Calcineurin A; one isoform (the other is Cmp2p) of the catalytic subunit of calcineurin, a Ca++/calmodulin-regulated protein phosphatase which regulates Crz1p (a stress-response transcription factor), the other calcineurin subunit is CNB1; regulates the function of Aly1p alpha-arrestin; CNA1 has a paralog, CMP2, that arose from the whole genome duplication [Source:SGD;Acc:S000004425]
+#>E	YLR433C.1	1.0	1004347-1006008
+XII	1005049	1005672	-1.0	Metallo_PEstase_dom	0	1005049-1005672	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149

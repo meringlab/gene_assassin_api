@@ -1,0 +1,4 @@
+#>P	YLL021W	YLL021W	YLL021W	XII	100947	105344	1	Component of the polarisome; functions in actin cytoskeletal organization during polarized growth; acts as a scaffold for Mkk1p and Mpk1p cell wall integrity signaling components; potential Cdc28p substrate; coding sequence contains length polymorphisms in different strains; SPA2 has a paralog, SPH1, that arose from the whole genome duplication [Source:SGD;Acc:S000003944]
+#>E	YLL021W.1	1.0	100947-105347
+XII	101226	101315	1.0	GIT_SHD	49.1	101226-101315	PF08518	http://pfam.sanger.ac.uk/family?acc=PF08518
+XII	101076	101162	1.0	GIT_SHD	38.4	101076-101162	PF08518	http://pfam.sanger.ac.uk/family?acc=PF08518

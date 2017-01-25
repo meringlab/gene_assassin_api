@@ -1,0 +1,4 @@
+#>P	YLR318W	YLR318W	YLR318W	XII	766542	769193	1	Reverse transcriptase subunit of the telomerase holoenzyme; essential for telomerase core catalytic activity, involved in other aspects of telomerase assembly and function; mutations in human homolog are associated with aplastic anemia [Source:SGD;Acc:S000004310]
+#>E	YLR318W.1	1.0	766542-769196
+XII	767862	768665	1.0	RVT	0	767862-768665	PF00078	http://pfam.sanger.ac.uk/family?acc=PF00078
+XII	767385	767777	1.0	Telomerase_RBD	0	767385-767777	PF12009	http://pfam.sanger.ac.uk/family?acc=PF12009

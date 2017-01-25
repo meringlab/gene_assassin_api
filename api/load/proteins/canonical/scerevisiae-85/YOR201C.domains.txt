@@ -1,0 +1,4 @@
+#>P	YOR201C	YOR201C	YOR201C	XV	720473	721708	-1	Ribose methyltransferase; modifies a functionally critical, conserved nucleotide in mitochondrial 21S rRNA [Source:SGD;Acc:S000005727]
+#>E	YOR201C.1	1.0	720470-721708
+XV	720494	720982	-1.0	SpoU_MeTrfase	0	720494-720982	PF00588	http://pfam.sanger.ac.uk/family?acc=PF00588
+XV	721118	721336	-1.0	SpoU_subst-bd	0	721118-721336	PF08032	http://pfam.sanger.ac.uk/family?acc=PF08032

@@ -1,0 +1,4 @@
+#>P	YOR326W	YOR326W	YOR326W	XV	925721	930442	1	Type V myosin motor involved in actin-based transport of cargos; required for the polarized delivery of secretory vesicles, the vacuole, late Golgi elements, peroxisomes, and the mitotic spindle; MYO2 has a paralog, MYO4, that arose from the whole genome duplication [Source:SGD;Acc:S000005853]
+#>E	YOR326W.1	1.0	925721-930445
+XV	929864	930172	1.0	Dil_domain	0	929864-930172	PF01843	http://pfam.sanger.ac.uk/family?acc=PF01843
+XV	925934	928027	1.0	Myosin_head_motor_dom	0	925934-928027	PF00063	http://pfam.sanger.ac.uk/family?acc=PF00063

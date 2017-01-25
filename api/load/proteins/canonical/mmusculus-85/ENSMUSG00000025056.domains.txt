@@ -1,0 +1,7 @@
+#>P	ENSMUSG00000025056	ENSMUST00000026036	ENSMUSP00000026036	X	86191801	86195592	1	nuclear receptor subfamily 0, group B, member 1 [Source:MGI Symbol;Acc:MGI:1352460]
+#>E	ENSMUSE00000147607,ENSMUSE00000404948	1,1	86191801-86192974,86195351-86195595
+X	86192560	86195532	1	Nucl_hrmn_rcpt_lig-bd	67.5	86192560-86192974,86195351-86195532	PF00104	http://pfam.sanger.ac.uk/family?acc=PF00104
+X	86191801	86191941	1	Nuclear_receptor_repeat	305.6	86191801-86191941	PF14046	http://pfam.sanger.ac.uk/family?acc=PF14046
+X	86192206	86192346	1	Nuclear_receptor_repeat	305.6	86192206-86192346	PF14046	http://pfam.sanger.ac.uk/family?acc=PF14046
+X	86192002	86192148	1	Nuclear_receptor_repeat	305.6	86192002-86192148	PF14046	http://pfam.sanger.ac.uk/family?acc=PF14046
+X	86192407	86192538	1	Nuclear_receptor_repeat	305.6	86192407-86192538	PF14046	http://pfam.sanger.ac.uk/family?acc=PF14046

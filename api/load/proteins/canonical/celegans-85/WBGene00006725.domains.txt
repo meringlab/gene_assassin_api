@@ -1,0 +1,4 @@
+#>P	WBGene00006725	H06I04.4a.2	H06I04.4a.2	III	3068335	3069158	1	Ubiquitin-like protein 1-40S ribosomal protein S27a Ubiquitin-like protein 1 40S ribosomal protein S27a [Source:UniProtKB/Swiss-Prot;Acc:P37165]
+#>E	H06I04.4a.2.e1,H06I04.4a.1.e2,H06I04.4a.2.e3	0,0,0	3068335-3068467,3068574-3068743,3068973-3069161
+III	3068726	3069092	1	Ribosomal_S27a	89.2	3068726-3068743,3068973-3069092	PF01599	http://pfam.sanger.ac.uk/family?acc=PF01599
+III	3068359	3068638	1	Ubiquitin_dom	55.7	3068359-3068467,3068574-3068638	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240

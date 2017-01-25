@@ -1,0 +1,3 @@
+#>P	YKL141W	YKL141W	YKL141W	XI	179667	180260	1	Subunit of succinate dehydrogenase and of TIM22 translocase; functions as cytochrome b subunit of succinate dehydrogenase, which couples oxidation of succinate to transfer of electrons to ubiquinone as part of the TCA cycle and the mitochondrial respiratory chain; also required for mitochondrial inner membrane protein import as part of the TIM22 complex; SDH3 has a paralog, SHH3, that arose from the whole genome duplication [Source:SGD;Acc:S000001624]
+#>E	YKL141W.1	1.0	179667-180263
+XI	179880	180245	1.0	Succ_DH_Fumarate_Rdtase_TM-su	0	179880-180245	PF01127	http://pfam.sanger.ac.uk/family?acc=PF01127

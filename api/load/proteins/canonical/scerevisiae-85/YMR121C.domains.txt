@@ -1,0 +1,3 @@
+#>P	YMR121C	YMR121C	YMR121C	XIII	509737	510348	-1	Ribosomal 60S subunit protein L15B; binds to 5.8 S rRNA; homologous to mammalian ribosomal protein L15, no bacterial homolog; RPL15B has a paralog, RPL15A, that arose from the whole genome duplication; relocalizes from nucleus to nucleolus upon DNA replication stress [Source:SGD;Acc:S000004728]
+#>E	YMR121C.1	1.0	509734-510348
+XIII	509773	510345	-1.0	Ribosomal_L15e	0	509773-510345	PF00827	http://pfam.sanger.ac.uk/family?acc=PF00827

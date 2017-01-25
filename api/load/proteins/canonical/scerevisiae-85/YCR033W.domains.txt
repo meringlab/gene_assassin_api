@@ -1,0 +1,5 @@
+#>P	YCR033W	YCR033W	YCR033W	III	186489	190166	1	Subunit of the Set3C deacetylase complex; interacts directly with the Set3C subunit, Sif2p; putative DNA-binding protein; mutant has increased aneuploidy tolerance; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000000629]
+#>E	YCR033W.1	1.0	186489-190169
+III	188499	188633	1.0	SANT_DNA-bd	0	188499-188633	PF00249	http://pfam.sanger.ac.uk/family?acc=PF00249
+III	189159	189284	1.0	SANT_DNA-bd	0	189159-189284	PF00249	http://pfam.sanger.ac.uk/family?acc=PF00249
+III	187614	187685	1.0	DUF348	0	187614-187685	PF03990	http://pfam.sanger.ac.uk/family?acc=PF03990

@@ -1,0 +1,4 @@
+#>P	YNL290W	YNL290W	YNL290W	XIV	86218	87237	1	Subunit of heteropentameric Replication factor C (RF-C); which is a DNA binding protein and ATPase that acts as a clamp loader of the proliferating cell nuclear antigen (PCNA) processivity factor for DNA polymerases delta and epsilon; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000005234]
+#>E	YNL290W.1	1.0	86218-87240
+XIV	86926	87195	1.0	Rep_factor-C	0	86926-87195	PF08542	http://pfam.sanger.ac.uk/family?acc=PF08542
+XIV	86362	86715	1.0	ATPase_AAA_core	0	86362-86715	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

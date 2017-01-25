@@ -1,0 +1,5 @@
+#>P	YKL220C	YKL220C	YKL220C	XI	9094	11226	-1	Ferric reductase and cupric reductase; reduces siderophore-bound iron and oxidized copper prior to uptake by transporters; expression induced by low iron levels but not by low copper levels [Source:SGD;Acc:S000001703]
+#>E	YKL220C.1	1.0	9091-11226
+XI	9157	9618	-1.0	Fe_red_NAD-bd_6	0	9157-9618	PF08030	http://pfam.sanger.ac.uk/family?acc=PF08030
+XI	10039	10386	-1.0	Flavoprotein_TM	0	10039-10386	PF01794	http://pfam.sanger.ac.uk/family?acc=PF01794
+XI	9631	9936	-1.0	FAD-bd_8	0	9631-9936	PF08022	http://pfam.sanger.ac.uk/family?acc=PF08022

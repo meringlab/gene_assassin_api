@@ -1,0 +1,4 @@
+#>P	YMR216C	YMR216C	YMR216C	XIII	698814	701039	-1	SR protein kinase (SRPK); involved in regulating proteins involved in mRNA metabolism and cation homeostasis; similar to human SRPK1 [Source:SGD;Acc:S000004829]
+#>E	YMR216C.1	1.0	698811-701039
+XIII	700131	700565	-1.0	Prot_kinase_cat_dom	0	700131-700565	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+XIII	698922	699407	-1.0	Prot_kinase_cat_dom	0	698922-699407	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

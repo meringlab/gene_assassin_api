@@ -1,0 +1,3 @@
+#>P	YJR148W	YJR148W	YJR148W	X	705744	706871	1	Cytosolic branched-chain amino acid (BCAA) aminotransferase; preferentially involved in BCAA catabolism; homolog of murine ECA39; highly expressed during stationary phase and repressed during logarithmic phase; BAT2 has a paralog, BAT1, that arose from the whole genome duplication [Source:SGD;Acc:S000003909]
+#>E	YJR148W.1	1.0	705744-706874
+X	706017	706796	1.0	Aminotrans_IV	0	706017-706796	PF01063	http://pfam.sanger.ac.uk/family?acc=PF01063

@@ -1,0 +1,4 @@
+#>P	YLR233C	YLR233C	YLR233C	XII	607428	609524	-1	TLC1 RNA-associated factor involved in telomere length regulation; recruitment subunit of telomerase; has G-quadruplex promoting activity required for telomere elongation; possible role in activating telomere-bound Est2p-TLC1-RNA; EST1 has a paralog, EBS1, that arose from the whole genome duplication [Source:SGD;Acc:S000004223]
+#>E	YLR233C.1	1.0	607425-609524
+XII	608004	608855	-1.0	Telomere_elong_Est1_DNA-bd	0	608004-608855	PF10373	http://pfam.sanger.ac.uk/family?acc=PF10373
+XII	608889	609284	-1.0	EST1	0	608889-609284	PF10374	http://pfam.sanger.ac.uk/family?acc=PF10374

@@ -1,0 +1,3 @@
+#>P	YDR389W	YDR389W	YDR389W	IV	1252537	1254498	1	GTPase activating protein (GAP) for Rho1p; regulator of a Tor2p-mediated, Rho1p GTPase switch that controls organization of the actin cytoskeleton; negative regulator of the RHO1-PKC1-MAPK cell integrity (CWI) and membrane fluidity homeostasis signaling pathways; potential Cdc28p substrate; SAC7 has a paralog, BAG7, that arose from the whole genome duplication [Source:SGD;Acc:S000002797]
+#>E	YDR389W.1	1.0	1252537-1254501
+IV	1252987	1253640	1.0	RhoGAP_dom	0	1252987-1253640	PF00620	http://pfam.sanger.ac.uk/family?acc=PF00620

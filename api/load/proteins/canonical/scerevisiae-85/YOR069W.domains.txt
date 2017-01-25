@@ -1,0 +1,4 @@
+#>P	YOR069W	YOR069W	YOR069W	XV	453768	455792	1	Nexin-1 homolog; required for localizing membrane proteins from a prevacuolar/late endosomal compartment back to late Golgi; structural component of retromer membrane coat complex; forms a retromer subcomplex with Vps17p; required for recruiting the retromer complex to the endosome membranes; VPS5 has a paralog, YKR078W, that arose from the whole genome duplication [Source:SGD;Acc:S000005595]
+#>E	YOR069W.1	1.0	453768-455795
+XV	454611	454934	1.0	Phox	0	454611-454934	PF00787	http://pfam.sanger.ac.uk/family?acc=PF00787
+XV	455085	455783	1.0	Vps5_C	0	455085-455783	PF09325	http://pfam.sanger.ac.uk/family?acc=PF09325

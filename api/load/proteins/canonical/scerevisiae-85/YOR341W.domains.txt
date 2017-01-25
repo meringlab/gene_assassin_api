@@ -1,0 +1,7 @@
+#>P	YOR341W	YOR341W	YOR341W	XV	960987	965978	1	RNA polymerase I largest subunit A190 [Source:SGD;Acc:S000005868]
+#>E	YOR341W.1	1.0	960987-965981
+XV	962952	963485	1.0	RNA_pol_Rpb1_3	0	962952-963485	PF04983	http://pfam.sanger.ac.uk/family?acc=PF04983
+XV	963645	963932	1.0	RNA_pol_Rpb1_4	0	963645-963932	PF05000	http://pfam.sanger.ac.uk/family?acc=PF05000
+XV	963951	965825	1.0	RNA_pol_Rpb1_5	0	963951-965825	PF04998	http://pfam.sanger.ac.uk/family?acc=PF04998
+XV	961014	962393	1.0	RNA_pol_Rpb1_1	0	961014-962393	PF04997	http://pfam.sanger.ac.uk/family?acc=PF04997
+XV	962403	962942	1.0	RNA_pol_asu	0	962403-962942	PF00623	http://pfam.sanger.ac.uk/family?acc=PF00623

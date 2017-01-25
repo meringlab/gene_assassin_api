@@ -1,0 +1,3 @@
+#>P	YIL123W	YIL123W	YIL123W	IX	128151	129578	1	Protein of the SUN family (Sim1p, Uth1p, Nca3p, Sun4p); may participate in DNA replication; promoter contains SCB regulation box at -300 bp indicating that expression may be cell cycle-regulated; SIM1 has a paralog, SUN4, that arose from the whole genome duplication [Source:SGD;Acc:S000001385]
+#>E	YIL123W.1	1.0	128151-129581
+IX	128808	129539	1.0	SUN	0	128808-129539	PF03856	http://pfam.sanger.ac.uk/family?acc=PF03856

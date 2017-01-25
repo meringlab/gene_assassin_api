@@ -1,0 +1,3 @@
+#>P	YER163C	YER163C	YER163C	V	503087	503782	-1	Gamma-glutamyl cyclotransferase; cleaves the gamma-glutamyl bond of glutathione to yield 5-oxoproline and a Cys-Gly dipeptide; similar to mammalian pro-apoptotic protein ChaC1; expression of mouse ChaC1 in yeast increases apoptosis; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm and nucleus; periodically expressed during the metabolic cycle [Source:SGD;Acc:S000000965]
+#>E	YER163C.1	1.0	503084-503782
+V	503090	503761	-1.0	ChaC	226.7	503090-503761	PF04752	http://pfam.sanger.ac.uk/family?acc=PF04752

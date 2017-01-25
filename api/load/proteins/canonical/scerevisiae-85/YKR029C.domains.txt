@@ -1,0 +1,4 @@
+#>P	YKR029C	YKR029C	YKR029C	XI	497581	499833	-1	Defining member of the SET3 histone deacetylase complex; which is a meiosis-specific repressor of sporulation genes; necessary for efficient transcription by RNAPII; one of two yeast proteins that contains both SET and PHD domains; SET3 has a paralog, SET4, that arose from the whole genome duplication [Source:SGD;Acc:S000001737]
+#>E	YKR029C.1	1.0	497578-499833
+XI	499339	499476	-1.0	Znf_PHD-finger	0	499339-499476	PF00628	http://pfam.sanger.ac.uk/family?acc=PF00628
+XI	498475	498669	-1.0	SET_dom	0	498475-498669	PF00856	http://pfam.sanger.ac.uk/family?acc=PF00856

@@ -1,0 +1,4 @@
+#>P	YOR319W	YOR319W	YOR319W	XV	912822	913460	1	U2-snRNP associated splicing factor; similar to the mammalian splicing factor SAP49; proposed to function as a U2-snRNP assembly factor along with Hsh155p and binding partner Cus1p; contains two RNA recognition motifs (RRM) [Source:SGD;Acc:S000005846]
+#>E	YOR319W.1	1.0	912822-913463
+XV	912852	913043	1.0	RRM_dom	0	912852-913043	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+XV	913149	913355	1.0	RRM_dom	0	913149-913355	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

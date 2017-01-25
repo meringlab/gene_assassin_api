@@ -1,0 +1,3 @@
+#>P	YMR008C	YMR008C	YMR008C	XIII	280593	282584	-1	Phospholipase B (lysophospholipase) involved in lipid metabolism; required for efficient acyl chain remodeling of newly synthesized phosphatidylethanolamine-derived phosphatidylcholine; required for deacylation of phosphatidylcholine and phosphatidylethanolamine but not phosphatidylinositol; PLB1 has a paralog, PLB3, that arose from the whole genome duplication [Source:SGD;Acc:S000004610]
+#>E	YMR008C.1	1.0	280590-282584
+XIII	280827	282290	-1.0	LysoPLipase_cat_dom	0	280827-282290	PF01735	http://pfam.sanger.ac.uk/family?acc=PF01735

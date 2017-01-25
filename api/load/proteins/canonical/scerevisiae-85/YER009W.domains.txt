@@ -1,0 +1,3 @@
+#>P	YER009W	YER009W	YER009W	V	172115	172489	1	Nuclear envelope protein; interacts with GDP-bound Gsp1p and with proteins of the nuclear pore to transport Gsp1p into the nucleus where it is an essential player in nucleocytoplasmic transport [Source:SGD;Acc:S000000811]
+#>E	YER009W.1	1.0	172115-172492
+V	172139	172477	1.0	NTF2	0	172139-172477	PF02136	http://pfam.sanger.ac.uk/family?acc=PF02136

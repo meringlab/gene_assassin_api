@@ -1,0 +1,4 @@
+#>P	YCL004W	YCL004W	YCL004W	III	109105	110667	1	Phosphatidylglycerolphosphate synthase; catalyzes the synthesis of phosphatidylglycerolphosphate from CDP-diacylglycerol and sn-glycerol 3-phosphate in the first committed and rate-limiting step of cardiolipin biosynthesis [Source:SGD;Acc:S000000510]
+#>E	YCL004W.1	1.0	109105-110670
+III	110359	110475	1.0	PLipase_D/transphosphatidylase	0	110359-110475	PF00614	http://pfam.sanger.ac.uk/family?acc=PF00614
+III	109339	109764	1.0	PLD-like_dom	0	109339-109764	PF13091	http://pfam.sanger.ac.uk/family?acc=PF13091

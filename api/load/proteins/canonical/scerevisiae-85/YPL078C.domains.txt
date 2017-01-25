@@ -1,0 +1,3 @@
+#>P	YPL078C	YPL078C	YPL078C	XVI	408013	408744	-1	Subunit b of the stator stalk of mitochondrial F1F0 ATP synthase; ATP synthase is a large, evolutionarily conserved enzyme complex required for ATP synthesis; contributes to the oligomerization of the complex, which in turn determines the shape of inner membrane cristae; phosphorylated [Source:SGD;Acc:S000005999]
+#>E	YPL078C.1	1.0	408010-408744
+XVI	408034	408522	-1.0	ATPase_F0-cplx_bsu_mt	0	408034-408522	PF05405	http://pfam.sanger.ac.uk/family?acc=PF05405

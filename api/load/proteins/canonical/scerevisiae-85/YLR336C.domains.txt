@@ -1,0 +1,4 @@
+#>P	YLR336C	YLR336C	YLR336C	XII	799700	802396	-1	Essential nuclear protein; required for biogenesis of the small ribosomal subunit; has a possible role in the osmoregulatory glycerol response; putative homolog of human NOM1 which is implicated in acute myeloid leukemia [Source:SGD;Acc:S000004328]
+#>E	YLR336C.1	1.0	799697-802396
+XII	800780	801391	-1.0	MIF4G-like_typ-3	0	800780-801391	PF02854	http://pfam.sanger.ac.uk/family?acc=PF02854
+XII	800081	800464	-1.0	Initiation_fac_eIF4g_MI	0	800081-800464	PF02847	http://pfam.sanger.ac.uk/family?acc=PF02847

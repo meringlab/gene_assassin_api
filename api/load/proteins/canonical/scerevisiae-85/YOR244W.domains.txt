@@ -1,0 +1,4 @@
+#>P	YOR244W	YOR244W	YOR244W	XV	792531	793865	1	Catalytic subunit of the histone acetyltransferase complex (NuA4); acetylates four conserved internal lysines of histone H4 N-terminal tail and can acetylate histone H2A; master regulator of cellular acetylation balance; required for cell cycle progression and transcriptional silencing at the rDNA locus and regulation of autophagy; human ortholog TIP60/KAT5 is implicated in cancer and other diseases [Source:SGD;Acc:S000005770]
+#>E	YOR244W.1	1.0	792531-793868
+XV	793191	793745	1.0	MOZ_SAS	0	793191-793745	PF01853	http://pfam.sanger.ac.uk/family?acc=PF01853
+XV	792594	792752	1.0	Tudor-knot	0	792594-792752	PF11717	http://pfam.sanger.ac.uk/family?acc=PF11717

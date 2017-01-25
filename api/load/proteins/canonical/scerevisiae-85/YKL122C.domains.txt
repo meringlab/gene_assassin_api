@@ -1,0 +1,3 @@
+#>P	YKL122C	YKL122C	YKL122C	XI	212498	212998	-1	Subunit of the signal recognition particle (SRP); SRP functions in protein targeting to the endoplasmic reticulum membrane; not found in mammalian SRP; forms a pre-SRP structure in the nucleolus that is translocated to the cytoplasm [Source:SGD;Acc:S000001605]
+#>E	YKL122C.1	1.0	212495-212998
+XI	212765	212992	-1.0	Signal_recog_particle_SRP9	0	212765-212992	PF05486	http://pfam.sanger.ac.uk/family?acc=PF05486

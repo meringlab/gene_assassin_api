@@ -1,0 +1,3 @@
+#>P	YLR457C	YLR457C	YLR457C	XII	1055815	1056771	-1	Spindle pole body (SPB) component; required for the insertion of the duplication plaque into the nuclear membrane during SPB duplication; essential for bipolar spindle formation; component of the Mps2p-Bbp1p complex; NBP1 has a paralog, YPR174C, that arose from the whole genome duplication [Source:SGD;Acc:S000004449]
+#>E	YLR457C.1	1.0	1055812-1056771
+XII	1055815	1056771	-1.0	NBP1_fun	0	1055815-1056771	PF08537	http://pfam.sanger.ac.uk/family?acc=PF08537

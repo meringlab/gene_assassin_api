@@ -1,0 +1,4 @@
+#>P	YDL058W	YDL058W	YDL058W	IV	345665	351034	1	Essential protein involved in vesicle-mediated ER to Golgi transport; binds membranes and functions during vesicle docking to the Golgi; required for assembly of the ER-to-Golgi SNARE complex [Source:SGD;Acc:S000002216]
+#>E	YDL058W.1	1.0	345665-351037
+IV	346751	347809	1.0	Vesicle_Uso1_P115_head	0	346751-347809	PF04869	http://pfam.sanger.ac.uk/family?acc=PF04869
+IV	350663	351022	1.0	Uso1_p115_C	0	350663-351022	PF04871	http://pfam.sanger.ac.uk/family?acc=PF04871

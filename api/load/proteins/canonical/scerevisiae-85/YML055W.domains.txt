@@ -1,0 +1,3 @@
+#>P	YML055W	YML055W	YML055W	XIII	164790	165323	1	Subunit of signal peptidase complex; complex catalyzes cleavage of N-terminal signal sequences of proteins targeted to the secretory pathway; homologous to mammalian SPC25; other members of the complex are Spc1p, Spc1p, and Sec11p [Source:SGD;Acc:S000004519]
+#>E	YML055W.1	1.0	164790-165326
+XIII	164829	165302	1.0	SigPept_cplx_su2	0	164829-165302	PF06703	http://pfam.sanger.ac.uk/family?acc=PF06703

@@ -1,0 +1,3 @@
+#>P	YOL082W	YOL082W	YOL082W	XV	168727	169971	1	Receptor protein for the cytoplasm-to-vacuole targeting (Cvt) pathway; delivers cargo proteins aminopeptidase I (Ape1p) and alpha-mannosidase (Ams1p) to the phagophore assembly site for packaging into Cvt vesicles [Source:SGD;Acc:S000005442]
+#>E	YOL082W.1	1.0	168727-169974
+XV	169309	169971	1.0	Atg19/Atg34_C	0	169309-169971	PF12744	http://pfam.sanger.ac.uk/family?acc=PF12744

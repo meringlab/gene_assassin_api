@@ -1,0 +1,5 @@
+#>P	ENSMUSG00000045973	ENSMUST00000116341	ENSMUSP00000112044	4	45399244	45400137	-1	solute carrier family 25, member 51 [Source:MGI Symbol;Acc:MGI:2684984]
+#>E	ENSMUSE00001213469	0	45399241-45400137
+4	45399802	45400047	-1	Mitochondrial_sb/sol_carrier	105.9	45399802-45400047	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+4	45399250	45399507	-1	Mitochondrial_sb/sol_carrier	105.9	45399250-45399507	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+4	45399532	45399783	-1	Mitochondrial_sb/sol_carrier	105.9	45399532-45399783	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

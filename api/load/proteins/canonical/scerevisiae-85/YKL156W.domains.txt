@@ -1,0 +1,3 @@
+#>P	YKL156W	YKL156W	YKL156W	XI	158613	159209	1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S27, no bacterial homolog; RPS27A has a paralog, RPS27B, that arose from the whole genome duplication; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001639]
+#>E	YKL156W.1,YKL156W.2	1,1	158613-158615,158967-159212
+XI	159045	159209	1	Ribosomal_S27e	0	159045-159209	PF01667	http://pfam.sanger.ac.uk/family?acc=PF01667

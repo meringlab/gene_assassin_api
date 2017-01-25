@@ -1,0 +1,4 @@
+#>P	YCR066W	YCR066W	YCR066W	III	231500	232960	1	E3 ubiquitin ligase; forms heterodimer with Rad6p to monoubiquitinate PCNA-K164; heterodimer binds single-stranded DNA and has single-stranded DNA dependent ATPase activity; required for postreplication repair; SUMO-targeted ubiquitin ligase (STUbl) that contains a SUMO-interacting motif (SIM) which stimulates its ubiquitin ligase activity towards the sumoylated form of PCNA [Source:SGD;Acc:S000000662]
+#>E	YCR066W.1	1.0	231500-232963
+III	231581	231694	1.0	Znf_C3HC4_RING-type	0	231581-231694	PF00097	http://pfam.sanger.ac.uk/family?acc=PF00097
+III	232331	232432	1.0	SAP_DNA-bd	0	232331-232432	PF02037	http://pfam.sanger.ac.uk/family?acc=PF02037

@@ -1,0 +1,5 @@
+#>P	YBL030C	YBL030C	YBL030C	II	163044	163997	-1	Major ADP/ATP carrier of the mitochondrial inner membrane; exchanges cytosolic ADP for mitochondrially synthesized ATP; also imports heme and ATP; phosphorylated; required for viability in many lab strains that carry a sal1 mutation; PET9 has a paralog, AAC3, that arose from the whole genome duplication [Source:SGD;Acc:S000000126]
+#>E	YBL030C.1	1.0	163041-163997
+II	163341	163622	-1.0	Mitochondrial_sb/sol_carrier	0	163341-163622	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+II	163056	163322	-1.0	Mitochondrial_sb/sol_carrier	0	163056-163322	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+II	163650	163940	-1.0	Mitochondrial_sb/sol_carrier	0	163650-163940	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

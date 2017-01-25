@@ -1,0 +1,3 @@
+#>P	YGR248W	YGR248W	YGR248W	VII	985972	986736	1	6-phosphogluconolactonase; protein abundance increases in response to DNA replication stress; SOL4 has a paralog, SOL3, that arose from the whole genome duplication [Source:SGD;Acc:S000003480]
+#>E	YGR248W.1	1.0	985972-986739
+VII	986011	986628	1.0	Glc/Gal-6P_isomerase	0	986011-986628	PF01182	http://pfam.sanger.ac.uk/family?acc=PF01182

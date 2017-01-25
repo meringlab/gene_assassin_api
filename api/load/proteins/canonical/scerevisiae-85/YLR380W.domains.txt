@@ -1,0 +1,4 @@
+#>P	YLR380W	YLR380W	YLR380W	XII	878282	879505	1	Phosphatidylinositol transfer protein; has a potential role in regulating lipid and fatty acid metabolism under heme-depleted conditions; interacts specifically with thioredoxin peroxidase; may have a role in oxidative stress resistance; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004372]
+#>E	YLR380W.1	1.0	878282-879508
+XII	878525	878671	1.0	CRAL/TRIO_N_dom	0	878525-878671	PF03765	http://pfam.sanger.ac.uk/family?acc=PF03765
+XII	878771	879217	1.0	CRAL-TRIO_dom	0	878771-879217	PF00650	http://pfam.sanger.ac.uk/family?acc=PF00650

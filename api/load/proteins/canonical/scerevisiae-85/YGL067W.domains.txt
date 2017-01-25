@@ -1,0 +1,4 @@
+#>P	YGL067W	YGL067W	YGL067W	VII	376101	377252	1	NADH diphosphatase (pyrophosphatase); hydrolyzes the pyrophosphate linkage in NADH and related nucleotides; localizes to peroxisomes; nudix hydrolase family member [Source:SGD;Acc:S000003035]
+#>E	YGL067W.1	1.0	376101-377255
+VII	376623	376697	1.0	Znr_NADH_PPase	0	376623-376697	PF09297	http://pfam.sanger.ac.uk/family?acc=PF09297
+VII	376770	377120	1.0	NUDIX_hydrolase_dom	0	376770-377120	PF00293	http://pfam.sanger.ac.uk/family?acc=PF00293

@@ -1,0 +1,3 @@
+#>P	YMR322C	YMR322C	YMR322C	XIII	918369	919079	-1	Possible chaperone and cysteine protease; required for transcriptional reprogramming during the diauxic shift and for survival in stationary phase; similar to bacterial Hsp31 and yeast Hsp31p, Hsp32p, and Hsp33p; DJ-1/ThiJ/PfpI superfamily member; predicted involvement in pyridoxine metabolism; induced by mild heat stress and copper deprivation [Source:SGD;Acc:S000004941]
+#>E	YMR322C.1	1.0	918366-919079
+XIII	918375	918887	-1.0	ThiJ/PfpI	0	918375-918887	PF01965	http://pfam.sanger.ac.uk/family?acc=PF01965

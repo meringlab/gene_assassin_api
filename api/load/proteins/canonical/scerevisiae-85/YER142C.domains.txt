@@ -1,0 +1,3 @@
+#>P	YER142C	YER142C	YER142C	V	455149	456036	-1	3-methyl-adenine DNA glycosylase; involved in protecting DNA against alkylating agents; initiates base excision repair by removing damaged bases to create abasic sites that are subsequently repaired; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000000944]
+#>E	YER142C.1	1.0	455146-456036
+V	455329	455772	-1.0	HhH-GPD_domain	55.1	455329-455772	PF00730	http://pfam.sanger.ac.uk/family?acc=PF00730

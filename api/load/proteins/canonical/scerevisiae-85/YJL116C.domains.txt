@@ -1,0 +1,3 @@
+#>P	YJL116C	YJL116C	YJL116C	X	193863	194873	-1	Protein involved in mitochondrion organization; functions with Nca2p to regulate mitochondrial expression of subunits 6 (Atp6p) and 8 (Atp8p) of the Fo-F1 ATP synthase; member of the SUN family; expression induced in cells treated with the mycotoxin patulin; NCA3 has a paralog, UTH1, that arose from the whole genome duplication [Source:SGD;Acc:S000003652]
+#>E	YJL116C.1	1.0	193860-194873
+X	193899	194630	-1.0	SUN	0	193899-194630	PF03856	http://pfam.sanger.ac.uk/family?acc=PF03856

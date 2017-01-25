@@ -1,0 +1,4 @@
+#>P	YDL190C	YDL190C	YDL190C	IV	118710	121592	-1	Ubiquitin chain assembly factor (E4); cooperates with a ubiquitin-activating enzyme (E1), a ubiquitin-conjugating enzyme (E2), and a ubiquitin protein ligase (E3) to conjugate ubiquitin to substrates; also functions as an E3 [Source:SGD;Acc:S000002349]
+#>E	YDL190C.1	1.0	118707-121592
+IV	118734	118952	-1.0	Ubox_domain	0	118734-118952	PF04564	http://pfam.sanger.ac.uk/family?acc=PF04564
+IV	118995	120944	-1.0	Ub_conjug_fac_E4_core	0	118995-120944	PF10408	http://pfam.sanger.ac.uk/family?acc=PF10408

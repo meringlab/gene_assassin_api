@@ -1,0 +1,3 @@
+#>P	WBGene00011284	R90.2	R90.2	V	12903608	12904083	-1	TransThyretin-Related family domain  [Source:RefSeq peptide;Acc:NP_506225]
+#>E	R90.2.e2,R90.2.e1	1,1	12903605-12903870,12903918-12904083
+V	12903710	12903987	-1	Transthyretin-like	87.4	12903710-12903870,12903918-12903987	PF01060	http://pfam.sanger.ac.uk/family?acc=PF01060

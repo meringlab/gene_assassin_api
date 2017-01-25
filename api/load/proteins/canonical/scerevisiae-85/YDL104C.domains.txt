@@ -1,0 +1,3 @@
+#>P	YDL104C	YDL104C	YDL104C	IV	273656	274876	-1	Protein involved in threonylcarbamoyl adenosine biosynthesis; Sua5p and Qri7p are necessary and sufficient for RNA t6A modification in vitro; highly conserved mitochondrial protein; essential for t6A modification of mitochondrial tRNAs that decode ANN codons; similar to Kae1p and E. coli YgjD, both of which are also required for tRNA t6A modification; when directed to the cytoplasm, complements the essential function of Kae1p in the KEOPS complex [Source:SGD;Acc:S000002262]
+#>E	YDL104C.1	1.0	273653-274876
+IV	273773	274696	-1.0	Peptidase_M22	0	273773-274696	PF00814	http://pfam.sanger.ac.uk/family?acc=PF00814

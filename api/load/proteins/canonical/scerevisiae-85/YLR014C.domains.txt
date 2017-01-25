@@ -1,0 +1,4 @@
+#>P	YLR014C	YLR014C	YLR014C	XII	172271	174982	-1	Zinc finger transcription factor; contains a Zn(2)-Cys(6) binuclear cluster domain, positively regulates transcription of URA1, URA3, URA4, and URA10, which are involved in de novo pyrimidine biosynthesis, in response to pyrimidine starvation; activity may be modulated by interaction with Tup1p [Source:SGD;Acc:S000004004]
+#>E	YLR014C.1	1.0	172268-174982
+XII	173168	174124	-1.0	Transcription_factor_fun	186.7	173168-174124	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082
+XII	174779	174889	-1.0	Zn2-C6_fun-type_DNA-bd	39.9	174779-174889	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

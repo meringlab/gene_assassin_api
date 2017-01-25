@@ -1,0 +1,4 @@
+#>P	YDL095W	YDL095W	YDL095W	IV	287059	289509	1	Protein O-mannosyltransferase of the ER membrane; transfers mannose from dolichyl phosphate-D-mannose to protein serine and threonine residues; 1 of 7 related proteins involved in O-glycosylation which is essential for cell wall rigidity; involved in ER quality control; amino terminus faces cytoplasm, carboxyl terminus faces ER lumen [Source:SGD;Acc:S000002253]
+#>E	YDL095W.1	1.0	287059-289512
+IV	287221	287946	1.0	Glyco_trans_39	0	287221-287946	PF02366	http://pfam.sanger.ac.uk/family?acc=PF02366
+IV	288085	288615	1.0	MIR_motif	0	288085-288615	PF02815	http://pfam.sanger.ac.uk/family?acc=PF02815

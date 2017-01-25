@@ -1,0 +1,3 @@
+#>P	YMR100W	YMR100W	YMR100W	XIII	466300	468159	1	MYND domain-containing protein; required for ubiquitination and turnover of Rpn4p; interacts with Ubr2p (E3) and indirectly with Rad6p (E2); short-lived protein degraded in a Ubr2p/Rad6p dependent manner; similar to the A. nidulans samB gene [Source:SGD;Acc:S000004706]
+#>E	YMR100W.1	1.0	466300-468162
+XIII	467845	467964	1.0	Znf_MYND	0	467845-467964	PF01753	http://pfam.sanger.ac.uk/family?acc=PF01753

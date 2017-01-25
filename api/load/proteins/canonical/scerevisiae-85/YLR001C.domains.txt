@@ -1,0 +1,4 @@
+#>P	YLR001C	YLR001C	YLR001C	XII	151392	153977	-1	Putative protein of unknown function; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; predicted to be palmitoylated [Source:SGD;Acc:S000003991]
+#>E	YLR001C.1	1.0	151389-153977
+XII	153492	153842	-1.0	FAS1_domain	0	153492-153842	PF02469	http://pfam.sanger.ac.uk/family?acc=PF02469
+XII	152172	152537	-1.0	FAS1_domain	0	152172-152537	PF02469	http://pfam.sanger.ac.uk/family?acc=PF02469

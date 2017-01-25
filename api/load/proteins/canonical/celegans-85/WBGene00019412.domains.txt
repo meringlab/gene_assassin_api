@@ -1,0 +1,5 @@
+#>P	WBGene00019412	K05F6.1	K05F6.1	II	1568667	1573297	1	F-box B protein  [Source:RefSeq peptide;Acc:NP_493998]
+#>E	K05F6.1.e1,K05F6.1.e2,K05F6.1.e3	1,1,1	1568667-1569390,1571496-1571742,1572529-1573300
+II	1571510	1571686	1	F-box-assoc_dom_typ2	141.4	1571510-1571686	PF07735	http://pfam.sanger.ac.uk/family?acc=PF07735
+II	1569135	1569320	1	F-box-assoc_dom_typ2	141.4	1569135-1569320	PF07735	http://pfam.sanger.ac.uk/family?acc=PF07735
+II	1572902	1573078	1	F-box-assoc_dom_typ2	141.4	1572902-1573078	PF07735	http://pfam.sanger.ac.uk/family?acc=PF07735

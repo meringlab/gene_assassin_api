@@ -1,0 +1,4 @@
+#>P	YNL242W	YNL242W	YNL242W	XIV	191324	196099	1	Peripheral membrane protein required for autophagic vesicle formation; also required for vesicle formation during pexophagy and the cytoplasm-to-vaucole targeting (Cvt) pathway; involved in Atg9p cycling between the phagophore assembly site and mitochondria; essential for cell cycle progression from G2/M to G1 under nitrogen starvation; forms cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000005186]
+#>E	YNL242W.1	1.0	191324-196102
+XIV	193676	194086	1.0	ATG2_CAD_motif	0	193676-194086	PF13329	http://pfam.sanger.ac.uk/family?acc=PF13329
+XIV	195788	196081	1.0	Autophagy-rel_C	0	195788-196081	PF09333	http://pfam.sanger.ac.uk/family?acc=PF09333

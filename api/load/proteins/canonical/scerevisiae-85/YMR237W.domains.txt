@@ -1,0 +1,3 @@
+#>P	YMR237W	YMR237W	YMR237W	XIII	743749	745920	1	Member of the ChAPs family (Chs5p-Arf1p-binding proteins); members include Bch1p, Bch2p, Bud7p, and Chs6p; ChAPs family proteins form the exomer complex with Chs5p to mediate export of specific cargo proteins from the Golgi to the plasma membrane; may interact with ribosomes; protein abundance increases and forms cytoplasmic foci in response to DNA replication stress; BCH1 has a paralog, BUD7, that arose from the whole genome duplication [Source:SGD;Acc:S000004850]
+#>E	YMR237W.1	1.0	743749-745923
+XIII	744001	745281	1.0	ChAPs	0	744001-745281	PF09295	http://pfam.sanger.ac.uk/family?acc=PF09295

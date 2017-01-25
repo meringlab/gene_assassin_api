@@ -1,0 +1,4 @@
+#>P	YOR033C	YOR033C	YOR033C	XV	392419	394524	-1	5'-3' exonuclease and flap-endonuclease; involved in recombination, double-strand break repair, MMS2 error-free branch of the post replication (PRR) pathway and DNA mismatch repair; role in telomere maintenance; member of the Rad2p nuclease family, with conserved N and I nuclease domains; relative distribution to the nucleus increases upon DNA replication stress; EXO1 has a paralog, DIN7, that arose from the whole genome duplication [Source:SGD;Acc:S000005559]
+#>E	YOR033C.1	1.0	392416-394524
+XV	394231	394524	-1.0	XPG_DNA_repair_N	0	394231-394524	PF00752	http://pfam.sanger.ac.uk/family?acc=PF00752
+XV	393844	394113	-1.0	XPG/RAD2_endonuclease	0	393844-394113	PF00867	http://pfam.sanger.ac.uk/family?acc=PF00867

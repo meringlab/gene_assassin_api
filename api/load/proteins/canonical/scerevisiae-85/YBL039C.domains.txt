@@ -1,0 +1,4 @@
+#>P	YBL039C	YBL039C	YBL039C	II	143992	145728	-1	Major CTP synthase isozyme (see also URA8); catalyzes the ATP-dependent transfer of the amide nitrogen from glutamine to UTP, forming CTP, the final step in de novo biosynthesis of pyrimidines; involved in phospholipid biosynthesis; capable of forming cytoplasmic filaments termed cytoophidium, especially during conditions of glucose depletion; URA7 has a paralog, URA8, that arose from the whole genome duplication [Source:SGD;Acc:S000000135]
+#>E	YBL039C.1	1.0	143989-145728
+II	144067	144786	-1.0	GATASE_1	0	144067-144786	PF00117	http://pfam.sanger.ac.uk/family?acc=PF00117
+II	144907	145728	-1.0	CTP_synthase_N	0	144907-145728	PF06418	http://pfam.sanger.ac.uk/family?acc=PF06418

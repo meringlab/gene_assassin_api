@@ -1,0 +1,3 @@
+#>P	YBR089C-A	YBR089C-A	YBR089C-A	II	426193	426489	-1	High-mobility group (HMG) protein; binds to and remodels nucleosomes; involved in recruiting FACT and other chromatin remodelling complexes to the chromosomes; functionally redundant with Nhp6Ap; required for transcriptional initiation fidelity of some tRNA genes; homologous to mammalian HMGB1 and HMGB2; NHP6B has a paralog, NHP6A, that arose from the whole genome duplication [Source:SGD;Acc:S000002157]
+#>E	YBR089C-A.1	1.0	426190-426489
+II	426205	426411	-1.0	HMG_superfamily	0	426205-426411	PF00505	http://pfam.sanger.ac.uk/family?acc=PF00505

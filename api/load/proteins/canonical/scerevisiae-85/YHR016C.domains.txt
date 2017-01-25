@@ -1,0 +1,4 @@
+#>P	YHR016C	YHR016C	YHR016C	VIII	136884	138455	-1	Actin-binding protein; involved in bundling of actin filaments and endocytosis of actin cortical patches; activity stimulated by Las17p; contains SH3 domain similar to Rvs167p; YSC84 has a paralog, LSB3, that arose from the whole genome duplication [Source:SGD;Acc:S000001058]
+#>E	YHR016C.2,YHR016C.1	1,1	136881-138240,138409-138455
+VIII	136902	137045	-1	SH3_domain	0	136902-137045	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+VIII	137649	138029	-1	Ysc84_actin-binding	0	137649-138029	PF04366	http://pfam.sanger.ac.uk/family?acc=PF04366

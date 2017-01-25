@@ -1,0 +1,4 @@
+#>P	YGL236C	YGL236C	YGL236C	VII	53790	55796	-1	Mitochondrial protein; forms a heterodimer complex with Mss1p that performs the 5-carboxymethylaminomethyl modification of the wobble uridine base in mitochondrial tRNAs; required for respiration in paromomycin-resistant 15S rRNA mutants [Source:SGD;Acc:S000003205]
+#>E	YGL236C.1	1.0	53787-55796
+VII	53835	54032	-1.0	GidA-assoc_3	0	53835-54032	PF13932	http://pfam.sanger.ac.uk/family?acc=PF13932
+VII	54489	55685	-1.0	GIDA-rel	0	54489-55685	PF01134	http://pfam.sanger.ac.uk/family?acc=PF01134

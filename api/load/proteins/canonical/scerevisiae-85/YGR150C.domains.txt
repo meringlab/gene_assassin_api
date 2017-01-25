@@ -1,0 +1,3 @@
+#>P	YGR150C	YGR150C	YGR150C	VII	790462	793053	-1	Mitochondrial 15S rRNA-binding protein; required for intron removal of COB and COX1 pre-mRNAs; has separable roles in stabilizing mitochondrial 15S rRNA and in maturation of the COB and COX1 mRNAs; contains pentatricopeptide repeat (PPR) motifs; mutant is respiratory deficient and has defective plasma membrane electron transport [Source:SGD;Acc:S000003382]
+#>E	YGR150C.1	1.0	790459-793053
+VII	791890	791979	-1.0	Pentatricopeptide_repeat	0	791890-791979	PF01535	http://pfam.sanger.ac.uk/family?acc=PF01535

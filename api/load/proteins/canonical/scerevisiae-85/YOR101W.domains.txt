@@ -1,0 +1,3 @@
+#>P	YOR101W	YOR101W	YOR101W	XV	515244	516170	1	GTPase involved in G-protein signaling in adenylate cyclase activation; plays a role in cell proliferation; localized to the plasma membrane; homolog of mammalian RAS proto-oncogenes; relative distribution to the nucleus increases upon DNA replication stress; RAS1 has a paralog, RAS2, that arose from the whole genome duplication [Source:SGD;Acc:S000005627]
+#>E	YOR101W.1	1.0	515244-516173
+XV	515277	515756	1.0	Small_GTPase	0	515277-515756	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071

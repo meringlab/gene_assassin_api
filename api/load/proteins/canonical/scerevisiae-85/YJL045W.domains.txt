@@ -1,0 +1,4 @@
+#>P	YJL045W	YJL045W	YJL045W	X	356024	357925	1	Minor succinate dehydrogenase isozyme; participates in oxidation of succinate and transfer of electrons to ubiquinone; induced during the diauxic shift in a Cat8p-dependent manner; YJL045W has a paralog, SDH1, that arose from the whole genome duplication [Source:SGD;Acc:S000003581]
+#>E	YJL045W.1	1.0	356024-357928
+X	356165	357355	1.0	FAD_bind2_N	0	356165-357355	PF00890	http://pfam.sanger.ac.uk/family?acc=PF00890
+X	357518	357925	1.0	Fum_Rdtase/Succ_DH_flav-like_C	0	357518-357925	PF02910	http://pfam.sanger.ac.uk/family?acc=PF02910

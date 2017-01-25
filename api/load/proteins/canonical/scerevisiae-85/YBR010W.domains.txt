@@ -1,0 +1,3 @@
+#>P	YBR010W	YBR010W	YBR010W	II	256331	256738	1	Histone H3; core histone protein required for chromatin assembly, part of heterochromatin-mediated telomeric and HM silencing; one of two identical histone H3 proteins (see HHT2); regulated by acetylation, methylation, and phosphorylation; H3K14 acetylation plays an important role in the unfolding of strongly positioned nucleosomes during repair of UV damage [Source:SGD;Acc:S000000214]
+#>E	YBR010W.1	1.0	256331-256741
+II	256502	256726	1.0	Histone_core_D	0	256502-256726	PF00125	http://pfam.sanger.ac.uk/family?acc=PF00125

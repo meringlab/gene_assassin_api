@@ -1,0 +1,4 @@
+#>P	YJR047C	YJR047C	YJR047C	X	524911	525381	-1	Translation elongation factor eIF-5A; previously thought to function in translation initiation; undergoes an essential hypusination modification; expressed under anaerobic conditions; ANB1 has a paralog, HYP2, that arose from the whole genome duplication [Source:SGD;Acc:S000003808]
+#>E	YJR047C.1	1.0	524908-525381
+X	524929	525132	-1.0	Transl_elong_IF5A_C	0	524929-525132	PF01287	http://pfam.sanger.ac.uk/family?acc=PF01287
+X	525205	525300	-1.0	KOW	0	525205-525300	PF00467	http://pfam.sanger.ac.uk/family?acc=PF00467

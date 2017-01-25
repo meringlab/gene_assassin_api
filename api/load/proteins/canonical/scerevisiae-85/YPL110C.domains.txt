@@ -1,0 +1,6 @@
+#>P	YPL110C	YPL110C	YPL110C	XVI	341071	344739	-1	Glycerophosphocholine (GroPCho) phosphodiesterase; hydrolyzes GroPCho to choline and glycerolphosphate, for use as a phosphate source and as a precursor for phosphocholine synthesis; may interact with ribosomes [Source:SGD;Acc:S000006031]
+#>E	YPL110C.1	1.0	341068-344739
+XVI	344101	344739	-1.0	SPX_N	0	344101-344739	PF03105	http://pfam.sanger.ac.uk/family?acc=PF03105
+XVI	342931	343023	-1.0	Ankyrin_rpt	0	342931-343023	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+XVI	343036	343122	-1.0	Ankyrin_rpt	0	343036-343122	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+XVI	341107	342111	-1.0	GlyceroP-diester-Pdiesterase	0	341107-342111	PF03009	http://pfam.sanger.ac.uk/family?acc=PF03009

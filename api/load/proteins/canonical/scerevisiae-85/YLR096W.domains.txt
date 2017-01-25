@@ -1,0 +1,4 @@
+#>P	YLR096W	YLR096W	YLR096W	XII	332590	336030	1	Serine/threonine protein kinase involved in regulation of exocytosis; localizes to the cytoplasmic face of the plasma membrane; KIN2 has a paralog, KIN1, that arose from the whole genome duplication [Source:SGD;Acc:S000004086]
+#>E	YLR096W.1	1.0	332590-336033
+XII	332884	333720	1.0	Prot_kinase_cat_dom	0	332884-333720	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+XII	335893	336030	1.0	Kinase-assoc_KA1	0	335893-336030	PF02149	http://pfam.sanger.ac.uk/family?acc=PF02149

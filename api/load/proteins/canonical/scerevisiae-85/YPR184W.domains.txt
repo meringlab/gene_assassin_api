@@ -1,0 +1,4 @@
+#>P	YPR184W	YPR184W	YPR184W	XVI	902044	906651	1	Glycogen debranching enzyme; contains glucanotranferase and alpha-1,6-amyloglucosidase activities; required for glycogen degradation; phosphorylated in mitochondria; activity is inhibited by Igd1p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000006388]
+#>E	YPR184W.1	1.0	902044-906654
+XVI	902551	902787	1.0	Glyco_hydro_13_cat_dom	0	902551-902787	PF00128	http://pfam.sanger.ac.uk/family?acc=PF00128
+XVI	905176	906612	1.0	GDE_C	0	905176-906612	PF06202	http://pfam.sanger.ac.uk/family?acc=PF06202

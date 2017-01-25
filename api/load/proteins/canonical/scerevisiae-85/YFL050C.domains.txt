@@ -1,0 +1,4 @@
+#>P	YFL050C	YFL050C	YFL050C	VI	33275	35848	-1	Probable Mg(2+) transporter; overexpression confers increased tolerance to Al(3+) and Ga(3+) ions; plays a role in regulating Ty1 transposition [Source:SGD;Acc:S000001844]
+#>E	YFL050C.1	1.0	33272-35848
+VI	33473	33796	-1.0	MgTranspt_CorA/ZnTranspt_ZntB	0	33473-33796	PF01544	http://pfam.sanger.ac.uk/family?acc=PF01544
+VI	33872	34486	-1.0	MgTranspt_CorA/ZnTranspt_ZntB	0	33872-34486	PF01544	http://pfam.sanger.ac.uk/family?acc=PF01544

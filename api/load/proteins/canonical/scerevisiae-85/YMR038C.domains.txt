@@ -1,0 +1,4 @@
+#>P	YMR038C	YMR038C	YMR038C	XIII	347514	348260	-1	Copper chaperone for superoxide dismutase Sod1p; involved in oxidative stress protection; Met-X-Cys-X2-Cys motif within the N-terminal portion is involved in insertion of copper into Sod1p under conditions of copper deprivation; required for regulation of yeast copper genes in response to DNA-damaging agents; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004641]
+#>E	YMR038C.1	1.0	347511-348260
+XIII	348060	348233	-1.0	HeavyMe-assoc_HMA	0	348060-348233	PF00403	http://pfam.sanger.ac.uk/family?acc=PF00403
+XIII	347676	347978	-1.0	SOD_Cu_Zn_dom	0	347676-347978	PF00080	http://pfam.sanger.ac.uk/family?acc=PF00080

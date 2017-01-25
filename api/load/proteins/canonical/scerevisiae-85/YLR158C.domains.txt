@@ -1,0 +1,3 @@
+#>P	YLR158C	YLR158C	YLR158C	XII	482552	483637	-1	Cell-wall L-asparaginase II involved in asparagine catabolism; expression induced during nitrogen starvation; ORF contains a short non-coding RNA that enhances expression of full-length gene; likely arose in via horizontal gene transfer from the wine yeast Wickerhamomyces anomalus or a close relative; reference strain S288C has four copies of ASP3; ASP3-3 has a paralog, ASP3-1, that arose from a segmental duplication [Source:SGD;Acc:S000004148]
+#>E	YLR158C.1	1.0	482549-483637
+XII	482594	483535	-1.0	Asparaginase/glutaminase	0	482594-483535	PF00710	http://pfam.sanger.ac.uk/family?acc=PF00710

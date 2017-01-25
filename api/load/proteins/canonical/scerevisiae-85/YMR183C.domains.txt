@@ -1,0 +1,3 @@
+#>P	YMR183C	YMR183C	YMR183C	XIII	626924	627808	-1	Plasma membrane t-SNARE; involved in fusion of secretory vesicles at the plasma membrane; syntaxin homolog that is functionally redundant with Sso1p; SSO2 has a paralog, SSO1, that arose from the whole genome duplication [Source:SGD;Acc:S000004795]
+#>E	YMR183C.1	1.0	626921-627808
+XIII	627029	627211	-1.0	T_SNARE_dom	0	627029-627211	PF05739	http://pfam.sanger.ac.uk/family?acc=PF05739

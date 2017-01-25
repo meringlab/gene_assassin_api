@@ -1,0 +1,4 @@
+#>P	YER082C	YER082C	YER082C	V	324275	325936	-1	Nucleolar protein; component of the small subunit (SSU) processome containing the U3 snoRNA that is involved in processing of pre-18S rRNA [Source:SGD;Acc:S000000884]
+#>E	YER082C.1	1.0	324272-325936
+V	324599	324838	-1.0	BING4_C_dom	0	324599-324838	PF08149	http://pfam.sanger.ac.uk/family?acc=PF08149
+V	325031	325120	-1.0	WD40_repeat	0	325031-325120	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

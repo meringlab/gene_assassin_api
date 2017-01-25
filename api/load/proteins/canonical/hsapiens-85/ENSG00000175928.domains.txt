@@ -1,0 +1,6 @@
+#>P	ENSG00000175928	ENST00000319331	ENSP00000314901	3	3844642	3846789	1	leucine rich repeat neuronal 1 [Source:HGNC Symbol;Acc:HGNC:20980]
+#>E	ENSE00001259672	0	3844642-3846792
+3	3845932	3846189	1	Ig_I-set	62	3845932-3846189	PF07679	http://pfam.sanger.ac.uk/family?acc=PF07679
+3	3844999	3845178	1	Leu-rich_rpt	142	3844999-3845178	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+3	3845287	3845466	1	Leu-rich_rpt	142	3845287-3845466	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+3	3845575	3845760	1	Leu-rich_rpt	142	3845575-3845760	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855

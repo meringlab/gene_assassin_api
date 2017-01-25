@@ -1,0 +1,3 @@
+#>P	YOR155C	YOR155C	YOR155C	XV	626631	627980	-1	Inosine 5'-monophosphate (IMP)-specific 5'-nucleotidase; catalyzes the breakdown of IMP to inosine; responsible for production of nicotinamide riboside and nicotinic acid riboside; expression positively regulated by nicotinic acid and glucose availability; does not show similarity to known 5'-nucleotidases from other organisms [Source:SGD;Acc:S000005681]
+#>E	YOR155C.1	1.0	626628-627980
+XV	626652	627980	-1.0	ISN1	0	626652-627980	PF06437	http://pfam.sanger.ac.uk/family?acc=PF06437

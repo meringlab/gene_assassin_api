@@ -1,0 +1,4 @@
+#>P	YJL145W	YJL145W	YJL145W	X	145160	146041	1	Non-classical phosphatidylinositol transfer protein (PITP); exhibits PI- but not PC-transfer activity; localizes to the peripheral endoplasmic reticulum, cytosol and microsomes; similar to Sec14p; partially relocalizes to the plasma membrane upon DNA replication stress [Source:SGD;Acc:S000003681]
+#>E	YJL145W.1	1.0	145160-146044
+X	145184	145405	1.0	CRAL/TRIO_N_dom	0	145184-145405	PF03765	http://pfam.sanger.ac.uk/family?acc=PF03765
+X	145493	145921	1.0	CRAL-TRIO_dom	0	145493-145921	PF00650	http://pfam.sanger.ac.uk/family?acc=PF00650

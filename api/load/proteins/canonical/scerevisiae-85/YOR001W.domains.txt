@@ -1,0 +1,5 @@
+#>P	YOR001W	YOR001W	YOR001W	XV	326832	329030	1	Nuclear exosome exonuclease component; has 3'-5' exonuclease activity that is regulated by Lrp1p; involved in RNA processing, maturation, surveillance, degradation, tethering, and export; role in sn/snoRNAs precursor degradation; forms a stable heterodimer with Lrp1p; has similarity to E. coli RNase D and to human PM-Sc1 100 (EXOSC10); mutant displays reduced transcription elongation in the G-less-based [Source:SGD;Acc:S000005527]
+#>E	YOR001W.1	1.0	326832-329033
+XV	328149	328346	1.0	Helicase/RNaseD_C	0	328149-328346	PF00570	http://pfam.sanger.ac.uk/family?acc=PF00570
+XV	326868	327134	1.0	Exosome-assoc_fac_Rrp6_N	0	326868-327134	PF08066	http://pfam.sanger.ac.uk/family?acc=PF08066
+XV	327471	327971	1.0	3'-5'_exonuclease_dom	0	327471-327971	PF01612	http://pfam.sanger.ac.uk/family?acc=PF01612

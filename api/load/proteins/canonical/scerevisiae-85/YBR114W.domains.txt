@@ -1,0 +1,5 @@
+#>P	YBR114W	YBR114W	YBR114W	II	467248	469617	1	Nucleotide excision repair (NER) protein; binds damaged DNA during NER; binds DNA in an ATP-dependent manner (with Rad7p) during NER; required for NER of non-transcribed chromatin; subunit of Nucleotide Excision Repair Factor 4 (NEF4) and the Elongin-Cullin-Socs (ECS) ligase complex [Source:SGD;Acc:S000000318]
+#>E	YBR114W.1	1.0	467248-469620
+II	469213	469449	1.0	Helicase_C	0	469213-469449	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+II	467806	468807	1.0	SNF2_N	0	467806-468807	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176
+II	468856	468987	1.0	Znf_C3HC4_RING-type	0	468856-468987	PF00097	http://pfam.sanger.ac.uk/family?acc=PF00097

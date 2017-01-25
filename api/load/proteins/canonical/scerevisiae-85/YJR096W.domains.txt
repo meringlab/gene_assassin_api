@@ -1,0 +1,3 @@
+#>P	YJR096W	YJR096W	YJR096W	X	611195	612040	1	Xylose and arabinose reductase; member of the aldo-keto reductase (AKR) family; GFP-fusion protein is induced in response to the DNA-damaging agent MMS [Source:SGD;Acc:S000003857]
+#>E	YJR096W.1	1.0	611195-612043
+X	611243	611995	1.0	NADP_OxRdtase_dom	0	611243-611995	PF00248	http://pfam.sanger.ac.uk/family?acc=PF00248

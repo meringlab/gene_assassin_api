@@ -1,0 +1,3 @@
+#>P	YIR005W	YIR005W	YIR005W	IX	364889	365332	1	Component of the U2 snRNP; required for the first catalytic step of splicing and for spliceosomal assembly; interacts with Rds3p and is required for Mer1p-activated splicing; diploid mutants have a specific defect in MATa1 pre-mRNA splicing which leads to haploid gene expression in diploids [Source:SGD;Acc:S000001444]
+#>E	YIR005W.1	1.0	364889-365335
+IX	364985	365197	1.0	RRM_dom	0	364985-365197	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

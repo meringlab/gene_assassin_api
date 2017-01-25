@@ -1,0 +1,9 @@
+#>P	YGL178W	YGL178W	YGL178W	VII	167352	170568	1	mRNA-binding protein of the PUF family; binds to the 3' UTR of specific mRNAs, including those involved in mating type switching, cell wall integrity, chronological lifespan, chromatin modification, and spindle pole body architecture; recruits the CCR4-NOT deadenylase complex to mRNAs along with Dhh1p and Dcp1p to promote deadenylation, decapping, and decay; also interacts with the Caf20p translational initiation repressor, affecting its mRNA target specificity [Source:SGD;Acc:S000003146]
+#>E	YGL178W.1,YGL178W.2	1,1	167352-167354,167995-170571
+VII	168976	169074	1	Pumilio_RNA-bd_rpt	0	168976-169074	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	168844	168948	1	Pumilio_RNA-bd_rpt	0	168844-168948	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	169195	169269	1	Pumilio_RNA-bd_rpt	0	169195-169269	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	169090	169185	1	Pumilio_RNA-bd_rpt	0	169090-169185	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	168736	168837	1	Pumilio_RNA-bd_rpt	0	168736-168837	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	169309	169407	1	Pumilio_RNA-bd_rpt	0	169309-169407	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+VII	168637	168723	1	Pumilio_RNA-bd_rpt	0	168637-168723	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806

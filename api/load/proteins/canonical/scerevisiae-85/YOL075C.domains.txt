@@ -1,0 +1,6 @@
+#>P	YOL075C	YOL075C	YOL075C	XV	189661	193542	-1	Putative ABC transporter [Source:SGD;Acc:S000005435]
+#>E	YOL075C.1	1.0	189658-193542
+XV	189892	190482	-1.0	ABC_2_trans	0	189892-190482	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+XV	191830	192468	-1.0	ABC_2_trans	0	191830-192468	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+XV	190942	191343	-1.0	ABC_transporter-like	0	190942-191343	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XV	192901	193338	-1.0	ABC_transporter-like	0	192901-193338	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

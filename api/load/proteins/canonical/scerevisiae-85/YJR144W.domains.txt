@@ -1,0 +1,3 @@
+#>P	YJR144W	YJR144W	YJR144W	X	700882	701688	1	Protein with a role in mitochondrial DNA recombinational repair; also involved in interstrand cross-link repair; binds to and catalyzes the annealing of single-stranded mtDNA; oligomerizes to form rings and filaments; related to Rad52-type recombination proteins, with limited overall similarity but sharing conserved functionally important residues; component of the mitochondrial nucleoid, required for the repair of oxidative mtDNA damage and mitochondrial genome maintenance [Source:SGD;Acc:S000003905]
+#>E	YJR144W.1	1.0	700882-701691
+X	700990	701688	1.0	Mgm101p	0	700990-701688	PF06420	http://pfam.sanger.ac.uk/family?acc=PF06420

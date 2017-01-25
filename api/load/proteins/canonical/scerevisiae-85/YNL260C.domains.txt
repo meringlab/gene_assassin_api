@@ -1,0 +1,3 @@
+#>P	YNL260C	YNL260C	YNL260C	XIV	156862	157455	-1	Essential protein that forms a complex with Rli1p and Yae1p; ortholog of human ORAOV1, which is overexpressed in solid tumors; inviability of null mutant under standard conditions is complemented by overexpression of ORAOV1; essential for growth under standard (aerobic) conditions but not under anaerobic conditions; may have a role in protection of ribosomal assembly and function from damage due to reactive oxygen species [Source:SGD;Acc:S000005204]
+#>E	YNL260C.1	1.0	156859-157455
+XIV	157183	157299	-1.0	Essential_protein_Yae1_N	0	157183-157299	PF09811	http://pfam.sanger.ac.uk/family?acc=PF09811

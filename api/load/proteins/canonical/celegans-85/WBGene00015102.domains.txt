@@ -1,0 +1,8 @@
+#>P	WBGene00015102	B0280.5	B0280.5	III	7102239	7103986	-1	Chondroitin proteoglycan-2  [Source:UniProtKB/Swiss-Prot;Acc:P41996]
+#>E	B0280.5.e5,B0280.5.e4,B0280.5.e3,B0280.5.e2,B0280.5.e1	1,1,1,1,1	7102236-7102438,7102483-7102758,7102805-7103491,7103535-7103876,7103920-7103986
+III	7102824	7102976	-1	Chitin-bd_dom	200.7	7102824-7102976	PF01607	http://pfam.sanger.ac.uk/family?acc=PF01607
+III	7103004	7103162	-1	Chitin-bd_dom	200.7	7103004-7103162	PF01607	http://pfam.sanger.ac.uk/family?acc=PF01607
+III	7102493	7102648	-1	Chitin-bd_dom	200.7	7102493-7102648	PF01607	http://pfam.sanger.ac.uk/family?acc=PF01607
+III	7102242	7102397	-1	Chitin-bd_dom	200.7	7102242-7102397	PF01607	http://pfam.sanger.ac.uk/family?acc=PF01607
+III	7103331	7103489	-1	Chitin-bd_dom	200.7	7103331-7103489	PF01607	http://pfam.sanger.ac.uk/family?acc=PF01607
+III	7103716	7103874	-1	Chitin-bd_dom	200.7	7103716-7103874	PF01607	http://pfam.sanger.ac.uk/family?acc=PF01607

@@ -1,0 +1,3 @@
+#>P	YOR374W	YOR374W	YOR374W	XV	1039840	1041396	1	Mitochondrial aldehyde dehydrogenase; required for growth on ethanol and conversion of acetaldehyde to acetate; phosphorylated; activity is K+ dependent; utilizes NADP+ or NAD+ equally as coenzymes; expression is glucose repressed; can substitute for cytosolic NADP-dependent aldehyde dehydrogenase when directed to the cytosol [Source:SGD;Acc:S000005901]
+#>E	YOR374W.1	1.0	1039840-1041399
+XV	1039999	1041378	1.0	Aldehyde_DH_dom	0	1039999-1041378	PF00171	http://pfam.sanger.ac.uk/family?acc=PF00171

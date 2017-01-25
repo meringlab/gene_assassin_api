@@ -1,0 +1,4 @@
+#>P	YCL069W	YCL069W	YCL069W	III	9706	11079	1	Permease of basic amino acids in the vacuolar membrane; VBA3 has a paralog, VBA5, that arose from a segmental duplication [Source:SGD;Acc:S000000574]
+#>E	YCL069W.1	1.0	9706-11082
+III	9712	10275	1.0	MFS	69.4	9712-10275	PF07690	http://pfam.sanger.ac.uk/family?acc=PF07690
+III	10291	10635	1.0	Sub_transporter	25.3	10291-10635	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083

@@ -1,0 +1,3 @@
+#>P	YKL050C	YKL050C	YKL050C	XI	342855	345620	-1	Protein of unknown function; the YKL050W protein is a target of the SCFCdc4 ubiquitin ligase complex and YKL050W transcription is regulated by Azf1p; YKL050C has a paralog, EIS1, that arose from the whole genome duplication [Source:SGD;Acc:S000001533]
+#>E	YKL050C.1	1.0	342852-345620
+XI	344220	344579	-1.0	Eisosome1	0	344220-344579	PF12757	http://pfam.sanger.ac.uk/family?acc=PF12757

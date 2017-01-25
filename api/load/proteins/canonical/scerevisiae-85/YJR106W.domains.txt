@@ -1,0 +1,4 @@
+#>P	YJR106W	YJR106W	YJR106W	X	624838	627012	1	Putative protein of unknown function; may play a role in cell wall biosynthesis, mutants are hypersensitive to Papulacandin B; null mutants have increased plasmid loss; displays a two-hybrid interaction with Pdr5p [Source:SGD;Acc:S000003867]
+#>E	YJR106W.1	1.0	624838-627015
+X	624946	625419	1.0	NaCa_Exmemb	0	624946-625419	PF01699	http://pfam.sanger.ac.uk/family?acc=PF01699
+X	626455	626979	1.0	NaCa_Exmemb	0	626455-626979	PF01699	http://pfam.sanger.ac.uk/family?acc=PF01699

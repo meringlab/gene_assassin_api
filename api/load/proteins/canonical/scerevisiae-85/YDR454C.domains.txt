@@ -1,0 +1,3 @@
+#>P	YDR454C	YDR454C	YDR454C	IV	1366267	1366827	-1	Guanylate kinase; converts GMP to GDP; required for growth and mannose outer chain elongation of cell wall N-linked glycoproteins [Source:SGD;Acc:S000002862]
+#>E	YDR454C.1	1.0	1366264-1366827
+IV	1366273	1366824	-1.0	Guanylate_kin	0	1366273-1366824	PF00625	http://pfam.sanger.ac.uk/family?acc=PF00625

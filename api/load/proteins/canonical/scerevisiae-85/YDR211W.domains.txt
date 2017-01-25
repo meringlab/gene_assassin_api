@@ -1,0 +1,6 @@
+#>P	YDR211W	YDR211W	YDR211W	IV	884727	886862	1	Catalytic epsilon subunit of the translation initiation factor eIF2B; eIF2B is the guanine-nucleotide exchange factor for eIF2; activity subsequently regulated by phosphorylated eIF2; first identified as a negative regulator of GCN4 expression; forms cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000002619]
+#>E	YDR211W.1	1.0	884727-886865
+IV	886614	886859	1.0	eIF5C	0	886614-886859	PF02020	http://pfam.sanger.ac.uk/family?acc=PF02020
+IV	884811	885194	1.0	NTP_transferase	0	884811-885194	PF00483	http://pfam.sanger.ac.uk/family?acc=PF00483
+IV	885768	885854	1.0	Hexapep_transf	0	885768-885854	PF00132	http://pfam.sanger.ac.uk/family?acc=PF00132
+IV	885900	885986	1.0	Hexapep_transf	0	885900-885986	PF00132	http://pfam.sanger.ac.uk/family?acc=PF00132

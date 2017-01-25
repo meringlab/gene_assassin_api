@@ -1,0 +1,4 @@
+#>P	YFR006W	YFR006W	YFR006W	VI	156145	157749	1	Putative X-Pro aminopeptidase; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; YFR006W is not an essential gene [Source:SGD;Acc:S000001902]
+#>E	YFR006W.1	1.0	156145-157752
+VI	156361	156723	1.0	Aminopep_P_N	0	156361-156723	PF05195	http://pfam.sanger.ac.uk/family?acc=PF05195
+VI	156856	157644	1.0	Pept_M24_structural-domain	0	156856-157644	PF00557	http://pfam.sanger.ac.uk/family?acc=PF00557

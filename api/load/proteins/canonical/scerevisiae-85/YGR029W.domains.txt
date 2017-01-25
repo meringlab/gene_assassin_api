@@ -1,0 +1,3 @@
+#>P	YGR029W	YGR029W	YGR029W	VII	543553	544202	1	Flavin-linked sulfhydryl oxidase of the mitochondrial IMS; N-terminus is an intrinsically disordered domain that in the cytosol helps target Erv1p to mitochondria, and in the intermembrane space oxidizes Mia40p as part of a disulfide relay system that promotes intermembrane space retention of imported proteins; functional ortholog of human GFER (ALR) [Source:SGD;Acc:S000003261]
+#>E	YGR029W.1,YGR029W.2	1,1	543553-543638,543722-544205
+VII	543909	544187	1	Evr1_Alr	0	543909-544187	PF04777	http://pfam.sanger.ac.uk/family?acc=PF04777

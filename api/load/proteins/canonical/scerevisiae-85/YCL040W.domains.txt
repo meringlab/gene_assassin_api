@@ -1,0 +1,4 @@
+#>P	YCL040W	YCL040W	YCL040W	III	50838	52337	1	Glucokinase; catalyzes the phosphorylation of glucose at C6 in the first irreversible step of glucose metabolism; one of three glucose phosphorylating enzymes; expression regulated by non-fermentable carbon sources; GLK1 has a paralog, EMI2, that arose from the whole genome duplication [Source:SGD;Acc:S000000545]
+#>E	YCL040W.1	1.0	50838-52340
+III	50877	51527	1.0	Hexokinase_N	0	50877-51527	PF00349	http://pfam.sanger.ac.uk/family?acc=PF00349
+III	51567	52337	1.0	Hexokinase_C	0	51567-52337	PF03727	http://pfam.sanger.ac.uk/family?acc=PF03727

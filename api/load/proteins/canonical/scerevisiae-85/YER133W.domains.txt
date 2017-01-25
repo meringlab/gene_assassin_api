@@ -1,0 +1,3 @@
+#>P	YER133W	YER133W	YER133W	V	432495	433955	1	Type 1 serine/threonine protein phosphatase catalytic subunit; cleavage and polyadenylation factor (CPF) component; involved in various processes including glycogen metabolism, sporulation, mitosis; accumulates at mating projections by interaction with Afr1p; interacts with many regulatory subunits; involved in regulation of the nucleocytoplasmic shuttling of Hxk2p; import into nucleus is inhibited during spindle assembly checkpoint arrest [Source:SGD;Acc:S000000935]
+#>E	YER133W.1,YER133W.2	1,1	432495-432671,433197-433958
+V	432663	433769	1	Metallo_PEstase_dom	0	432663-432671,433197-433769	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149

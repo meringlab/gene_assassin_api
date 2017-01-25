@@ -1,0 +1,8 @@
+#>P	YKL210W	YKL210W	YKL210W	XI	39163	42234	1	Ubiquitin activating enzyme (E1); involved in ubiquitin-mediated protein degradation and essential for viability; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001693]
+#>E	YKL210W.1	1.0	39163-42237
+XI	41623	41823	1.0	UBact_repeat	0	41623-41823	PF02134	http://pfam.sanger.ac.uk/family?acc=PF02134
+XI	41317	41478	1.0	UBact_repeat	0	41317-41478	PF02134	http://pfam.sanger.ac.uk/family?acc=PF02134
+XI	40906	41037	1.0	Ubiquitin-activating_enzyme	0	40906-41037	PF10585	http://pfam.sanger.ac.uk/family?acc=PF10585
+XI	41842	42222	1.0	Ub-activating_enz_e1_C	0	41842-42222	PF09358	http://pfam.sanger.ac.uk/family?acc=PF09358
+XI	39268	39639	1.0	ThiF_NAD_FAD-bd	0	39268-39639	PF00899	http://pfam.sanger.ac.uk/family?acc=PF00899
+XI	40462	40887	1.0	ThiF_NAD_FAD-bd	0	40462-40887	PF00899	http://pfam.sanger.ac.uk/family?acc=PF00899

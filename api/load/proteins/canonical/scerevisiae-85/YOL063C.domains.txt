@@ -1,0 +1,3 @@
+#>P	YOL063C	YOL063C	YOL063C	XV	207395	210265	-1	Protein involved in transcriptional regulation of RNR2 and RNR3; expression of the gene is induced by DNA damage and null mutations confer increased resistance to hydroxyurea; N-terminal region has a leucine repeat and a WD40 repeat [Source:SGD;Acc:S000005424]
+#>E	YOL063C.1	1.0	207392-210265
+XV	207422	209890	-1.0	RNR_trans_reg_CRT10	0	207422-209890	PF08728	http://pfam.sanger.ac.uk/family?acc=PF08728

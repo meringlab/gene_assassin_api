@@ -1,0 +1,6 @@
+#>P	YKL078W	YKL078W	YKL078W	XI	288845	291049	1	Predominantly nucleolar DEAH-box ATP-dependent RNA helicase; required for 18S rRNA synthesis [Source:SGD;Acc:S000001561]
+#>E	YKL078W.1	1.0	288845-291052
+XI	290678	291004	1.0	DUF1605	0	290678-291004	PF07717	http://pfam.sanger.ac.uk/family?acc=PF07717
+XI	290273	290545	1.0	Helicase-assoc_dom	0	290273-290545	PF04408	http://pfam.sanger.ac.uk/family?acc=PF04408
+XI	289139	289573	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	289139-289573	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+XI	289838	290086	1.0	Helicase_C	0	289838-290086	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

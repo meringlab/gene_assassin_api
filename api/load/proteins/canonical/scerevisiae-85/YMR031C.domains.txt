@@ -1,0 +1,3 @@
+#>P	YMR031C	YMR031C	YMR031C	XIII	332215	334743	-1	Component of the eisosome required for proper eisosome assembly; similar to Uso1p; authentic, non-tagged protein is detected in a phosphorylated state in highly purified mitochondria in high-throughput studies; protein increases in abundance and relocalizes from plasma membrane to cytoplasm upon DNA replication stress; EIS1 has a paralog, YKL050C, that arose from the whole genome duplication [Source:SGD;Acc:S000004633]
+#>E	YMR031C.1	1.0	332212-334743
+XIII	333421	333777	-1.0	Eisosome1	0	333421-333777	PF12757	http://pfam.sanger.ac.uk/family?acc=PF12757

@@ -1,0 +1,4 @@
+#>P	YDR263C	YDR263C	YDR263C	IV	994245	995534	-1	Mitochondrial nuclease functioning in DNA repair and replication; modulates the stability of the mitochondrial genome, induced by exposure to mutagens, also induced during meiosis at a time nearly coincident with commitment to recombination; DIN7 has a paralog, EXO1, that arose from the whole genome duplication [Source:SGD;Acc:S000002671]
+#>E	YDR263C.1	1.0	994242-995534
+IV	995241	995534	-1.0	XPG_DNA_repair_N	0	995241-995534	PF00752	http://pfam.sanger.ac.uk/family?acc=PF00752
+IV	994854	995120	-1.0	XPG/RAD2_endonuclease	0	994854-995120	PF00867	http://pfam.sanger.ac.uk/family?acc=PF00867

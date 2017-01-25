@@ -1,0 +1,3 @@
+#>P	YEL004W	YEL004W	YEL004W	V	146951	147976	1	Uridine diphosphate-N-acetylglucosamine (UDP-GlcNAc) transporter; required for cell wall chitin synthesis; localized to the ER [Source:SGD;Acc:S000000730]
+#>E	YEL004W.1	1.0	146951-147979
+V	146963	147937	1.0	UAA	0	146963-147937	PF08449	http://pfam.sanger.ac.uk/family?acc=PF08449

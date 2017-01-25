@@ -1,0 +1,4 @@
+#>P	YDR158W	YDR158W	YDR158W	IV	770357	771451	1	Aspartic beta semi-aldehyde dehydrogenase; catalyzes the second step in the common pathway for methionine and threonine biosynthesis; expression regulated by Gcn4p and the general control of amino acid synthesis [Source:SGD;Acc:S000002565]
+#>E	YDR158W.1	1.0	770357-771454
+IV	770849	771391	1.0	Semialdhyde_DH_dimer_dom	0	770849-771391	PF02774	http://pfam.sanger.ac.uk/family?acc=PF02774
+IV	770375	770746	1.0	Semialdehyde_DH_NAD-bd	0	770375-770746	PF01118	http://pfam.sanger.ac.uk/family?acc=PF01118

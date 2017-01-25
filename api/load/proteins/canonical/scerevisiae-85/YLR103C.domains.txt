@@ -1,0 +1,3 @@
+#>P	YLR103C	YLR103C	YLR103C	XII	343992	345941	-1	DNA replication initiation factor; recruited to MCM pre-RC complexes at replication origins; promotes release of MCM from Mcm10p, recruits elongation machinery; binds tightly to ssDNA, which disrupts interaction with the MCM helicase and stalls it during replication stress; mutants in human homolog may cause velocardiofacial and DiGeorge syndromes [Source:SGD;Acc:S000004093]
+#>E	YLR103C.1	1.0	343989-345941
+XII	343998	345860	-1.0	CDC45	0	343998-345860	PF02724	http://pfam.sanger.ac.uk/family?acc=PF02724

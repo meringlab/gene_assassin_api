@@ -1,0 +1,4 @@
+#>P	YJL047C	YJL047C	YJL047C	X	349583	352108	-1	Cullin subunit of a Roc1p-dependent E3 ubiquitin ligase complex; role in anaphase progression; implicated in Mms22-dependent DNA repair; involved with Mms1p in nonfunctional rRNA decay; modified by the ubiquitin-like protein, Rub1p [Source:SGD;Acc:S000003583]
+#>E	YJL047C.1	1.0	349580-352108
+X	349907	350356	-1.0	Cullin_N	0	349907-350356	PF00888	http://pfam.sanger.ac.uk/family?acc=PF00888
+X	349601	349771	-1.0	Cullin_neddylation_domain	0	349601-349771	PF10557	http://pfam.sanger.ac.uk/family?acc=PF10557

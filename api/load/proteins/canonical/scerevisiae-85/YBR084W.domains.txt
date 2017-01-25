@@ -1,0 +1,5 @@
+#>P	YBR084W	YBR084W	YBR084W	II	411054	413978	1	Mitochondrial C1-tetrahydrofolate synthase; involved in interconversion between different oxidation states of tetrahydrofolate (THF); provides activities of formyl-THF synthetase, methenyl-THF cyclohydrolase, and methylene-THF dehydrogenase [Source:SGD;Acc:S000000288]
+#>E	YBR084W.1	1.0	411054-413981
+II	412083	413978	1.0	Formate_THF_ligase	0	412083-413978	PF01268	http://pfam.sanger.ac.uk/family?acc=PF01268
+II	411522	412022	1.0	THF_DH/CycHdrlase_NAD-bd_dom	0	411522-412022	PF02882	http://pfam.sanger.ac.uk/family?acc=PF02882
+II	411162	411515	1.0	THF_DH/CycHdrlase_cat_dom	0	411162-411515	PF00763	http://pfam.sanger.ac.uk/family?acc=PF00763

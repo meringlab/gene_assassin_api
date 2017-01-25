@@ -1,0 +1,4 @@
+#>P	YGL112C	YGL112C	YGL112C	VII	298181	299728	-1	Subunit (60 kDa) of TFIID and SAGA complexes; involved in transcription initiation of RNA polymerase II and in chromatin modification, similar to histone H4; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000003080]
+#>E	YGL112C.1	1.0	298178-299728
+VII	299507	299701	-1.0	TAF_TATA-bd	0	299507-299701	PF02969	http://pfam.sanger.ac.uk/family?acc=PF02969
+VII	298484	298786	-1.0	DUF1546	0	298484-298786	PF07571	http://pfam.sanger.ac.uk/family?acc=PF07571

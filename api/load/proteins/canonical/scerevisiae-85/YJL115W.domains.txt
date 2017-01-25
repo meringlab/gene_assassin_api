@@ -1,0 +1,3 @@
+#>P	YJL115W	YJL115W	YJL115W	X	196287	197123	1	Nucleosome assembly factor; involved in chromatin assembly and disassembly, anti-silencing protein that causes derepression of silent loci when overexpressed; plays a role in regulating Ty1 transposition; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000003651]
+#>E	YJL115W.1	1.0	196287-197126
+X	196287	196748	1.0	Histone_chaperone_ASF1-like	0	196287-196748	PF04729	http://pfam.sanger.ac.uk/family?acc=PF04729

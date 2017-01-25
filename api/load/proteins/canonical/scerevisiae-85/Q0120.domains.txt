@@ -1,0 +1,4 @@
+#>P	Q0120	Q0120	Q0120	Mito	36540	42248	1	Mitochondrial mRNA maturase; forms a complex with Nam2p to mediate splicing of the bI4 intron of the COB gene; encoded by both exon and intron sequences of partially processed COB mRNA [Source:SGD;Acc:S000007273]
+#>E	Q0120.1,Q0120.2,Q0120.3,Q0120.4	1,1,1,1	36540-36954,37723-37736,39141-39217,40841-42251
+Mito	41874	42143	1	Endonuc_LAG/HNH	0	41874-42143	PF00961	http://pfam.sanger.ac.uk/family?acc=PF00961
+Mito	41556	41822	1	Endonuc_LAG/HNH	0	41556-41822	PF00961	http://pfam.sanger.ac.uk/family?acc=PF00961

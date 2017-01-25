@@ -1,0 +1,3 @@
+#>P	YNR027W	YNR027W	YNR027W	XIV	674923	675873	1	Putative pyridoxal kinase; a key enzyme in vitamin B6 metabolism; involved in bud-site selection; diploid mutants display a random rather than a bipolar budding pattern; similarity to yeast BUD16 and human pyridoxal kinase (PDXK) [Source:SGD;Acc:S000005310]
+#>E	YNR027W.1	1.0	674923-675876
+XIV	675163	675651	1.0	HMP-P_kinase-1	0	675163-675651	PF08543	http://pfam.sanger.ac.uk/family?acc=PF08543

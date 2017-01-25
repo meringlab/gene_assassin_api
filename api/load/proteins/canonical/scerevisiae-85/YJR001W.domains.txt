@@ -1,0 +1,3 @@
+#>P	YJR001W	YJR001W	YJR001W	X	436802	438607	1	Vacuolar transporter; imports large neutral amino acids into the vacuole; member of a family of seven S. cerevisiae genes (AVT1-7) related to vesicular GABA-glycine transporters [Source:SGD;Acc:S000003761]
+#>E	YJR001W.1	1.0	436802-438610
+X	437420	438601	1.0	AA_transpt_TM	0	437420-438601	PF01490	http://pfam.sanger.ac.uk/family?acc=PF01490

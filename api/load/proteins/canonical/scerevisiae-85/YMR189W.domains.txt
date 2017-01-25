@@ -1,0 +1,4 @@
+#>P	YMR189W	YMR189W	YMR189W	XIII	637500	640601	1	P subunit of the mitochondrial glycine decarboxylase complex; glycine decarboxylase is required for the catabolism of glycine to 5,10-methylene-THF; expression is regulated by levels of 5,10-methylene-THF in the cytoplasm [Source:SGD;Acc:S000004801]
+#>E	YMR189W.1	1.0	637500-640604
+XIII	637704	639032	1.0	GDC-P_N	0	637704-639032	PF02347	http://pfam.sanger.ac.uk/family?acc=PF02347
+XIII	639123	639899	1.0	GDC-P_N	0	639123-639899	PF02347	http://pfam.sanger.ac.uk/family?acc=PF02347

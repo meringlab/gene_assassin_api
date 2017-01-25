@@ -1,0 +1,5 @@
+#>P	YDR291W	YDR291W	YDR291W	IV	1039728	1042958	1	3'-5' DNA helicase that has DNA strand annealing activity; helicase activity is stimulated by fork structure and 3'-tail length of substrates; acts with Rad4p in nucleotide-excision repair; belongs to the widely conserved RecQ family of proteins which are involved in maintaining genomic integrity; similar to the human RecQ4p implicated in Rothmund-Thomson syndrome (RTS) [Source:SGD;Acc:S000002699]
+#>E	YDR291W.1	1.0	1039728-1042961
+IV	1040604	1041137	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	1040604-1041137	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+IV	1041417	1041623	1.0	Helicase_C	0	1041417-1041623	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+IV	1042425	1042694	1.0	DEAD/DEAH-box_helicase	0	1042425-1042694	PF09369	http://pfam.sanger.ac.uk/family?acc=PF09369

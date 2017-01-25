@@ -1,0 +1,3 @@
+#>P	YOL002C	YOL002C	YOL002C	XV	323414	324364	-1	Plasma membrane receptor for plant antifungal protein, osmotin; involved in zinc ion homeostasis, apoptosis; negatively regulates ZRT1 and other functionally divergent genes through CCCTC promoter motif (IzRE); modulates FET3 activity in iron-independent manner; affects gene expression by influencing balance of competition between Msn2p/Msn4p and Nrg1p/Nrg2p for binding to the IzRE; transcription regulated by Zap1p, zinc, fatty acid levels; similar to mammalian adiponectins [Source:SGD;Acc:S000005362]
+#>E	YOL002C.1	1.0	323411-324364
+XV	323474	324145	-1.0	HlyIII-related	0	323474-324145	PF03006	http://pfam.sanger.ac.uk/family?acc=PF03006

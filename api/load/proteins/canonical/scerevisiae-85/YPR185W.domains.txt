@@ -1,0 +1,3 @@
+#>P	YPR185W	YPR185W	YPR185W	XVI	907218	909431	1	Regulatory subunit of the Atg1p signaling complex; stimulates Atg1p kinase activity; required for vesicle formation during autophagy and the cytoplasm-to-vacuole targeting (Cvt) pathway; contains a HORMA domain required for autophagy and for recruitment of the phosphatidylinositol 3-kinase complex subunit Atg14p to the pre-autophagosomal structure [Source:SGD;Acc:S000006389]
+#>E	YPR185W.1	1.0	907218-909434
+XVI	907260	908009	1.0	Autophagy-rel_p13	0	907260-908009	PF10033	http://pfam.sanger.ac.uk/family?acc=PF10033

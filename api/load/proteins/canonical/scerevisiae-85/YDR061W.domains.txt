@@ -1,0 +1,4 @@
+#>P	YDR061W	YDR061W	YDR061W	IV	574164	575780	1	Protein with similarity to ABC transporter family members; lacks predicted membrane-spanning regions; transcriptionally activated by Yrm1p along with genes involved in multidrug resistance [Source:SGD;Acc:S000002468]
+#>E	YDR061W.1	1.0	574164-575783
+IV	574554	574730	1.0	ABC_transporter-like	0	574554-574730	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+IV	575199	575618	1.0	ABC_transporter-like	0	575199-575618	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

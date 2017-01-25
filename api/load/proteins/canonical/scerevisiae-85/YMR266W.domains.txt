@@ -1,0 +1,4 @@
+#>P	YMR266W	YMR266W	YMR266W	XIII	798518	801376	1	Membrane protein of unknown function; overexpression suppresses NaCl sensitivity of sro7 mutant cells by restoring sodium pump (Ena1p) localization to the plasma membrane [Source:SGD;Acc:S000004879]
+#>E	YMR266W.1	1.0	798518-801379
+XIII	800972	801259	1.0	DUF3779	0	800972-801259	PF12621	http://pfam.sanger.ac.uk/family?acc=PF12621
+XIII	799520	800497	1.0	DUF221	0	799520-800497	PF02714	http://pfam.sanger.ac.uk/family?acc=PF02714

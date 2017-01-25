@@ -1,0 +1,6 @@
+#>P	YBR195C	YBR195C	YBR195C	II	610617	611882	-1	Subunit of chromatin assembly factor I (CAF-1); chromatin assembly by CAF-1 affects multiple processes including silencing at telomeres, mating type loci, and rDNA; maintenance of kinetochore structure; deactivation of DNA damage checkpoint after DNA repair; chromatin dynamics during transcription; and repression of divergent noncoding transcription; Msi1p localizes to nucleus and cytoplasm and independently regulates the RAS/cAMP pathway via sequestration of Npr1p kinase [Source:SGD;Acc:S000000399]
+#>E	YBR195C.1	1.0	610614-611882
+II	611625	611825	-1.0	Histone-bd_RBBP4	0	611625-611825	PF12265	http://pfam.sanger.ac.uk/family?acc=PF12265
+II	610644	610754	-1.0	WD40_repeat	0	610644-610754	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	610908	611006	-1.0	WD40_repeat	0	610908-611006	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	610773	610871	-1.0	WD40_repeat	0	610773-610871	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

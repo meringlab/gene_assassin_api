@@ -1,0 +1,3 @@
+#>P	YEL029C	YEL029C	YEL029C	V	96861	97796	-1	Putative pyridoxal kinase; a key enzyme involved in pyridoxal 5'-phosphate synthesis, the active form of vitamin B6; required for genome integrity; involved in bud-site selection; similarity to yeast BUD17 and human pyridoxal kinase (PDXK) [Source:SGD;Acc:S000000755]
+#>E	YEL029C.1	1.0	96858-97796
+V	97095	97565	-1.0	HMP-P_kinase-1	0	97095-97565	PF08543	http://pfam.sanger.ac.uk/family?acc=PF08543

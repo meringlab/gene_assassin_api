@@ -1,0 +1,3 @@
+#>P	YAL028W	YAL028W	YAL028W	I	92900	94483	1	Tail-anchored ER membrane protein of unknown function; interacts with homolog Frt1p; promotes growth in conditions of high Na+, alkaline pH, or cell wall stress, possibly via a role in posttranslational translocation; potential Cdc28p substrate; FRT2 has a paralog, FRT1, that arose from the whole genome duplication [Source:SGD;Acc:S000000026]
+#>E	YAL028W.1	1.0	92900-94486
+I	93152	93739	1.0	HPH_family	0	93152-93739	PF13694	http://pfam.sanger.ac.uk/family?acc=PF13694

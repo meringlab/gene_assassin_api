@@ -1,0 +1,6 @@
+#>P	YDR135C	YDR135C	YDR135C	IV	723007	727551	-1	Vacuolar glutathione S-conjugate transporter; ABC-C transporter of the ATP-binding cassette family; required for vacuole fusion; forms stable complexes with vacuole fusion machinery; regulates Vam7p recruitment to vacuoles; role in detoxifying metals (Cd, Hg, As); transports GSSG that is not immediately reduced in cytosol to vacuole; transports unconjugated bilirubin, selenodigluthatione, oxidized glutathione; similar to human cystic fibrosis protein CFTR [Source:SGD;Acc:S000002542]
+#>E	YDR135C.1	1.0	723004-727551
+IV	725818	726693	-1.0	ABC_transptr_TM_dom	0	725818-726693	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664
+IV	723883	724698	-1.0	ABC_transptr_TM_dom	0	723883-724698	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664
+IV	723238	723615	-1.0	ABC_transporter-like	0	723238-723615	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+IV	725212	725484	-1.0	ABC_transporter-like	0	725212-725484	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

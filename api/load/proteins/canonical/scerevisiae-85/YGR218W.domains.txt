@@ -1,0 +1,5 @@
+#>P	YGR218W	YGR218W	YGR218W	VII	932541	935792	1	Major karyopherin; involved in export of proteins, RNAs, and ribosomal subunits from the nucleus; exportin [Source:SGD;Acc:S000003450]
+#>E	YGR218W.1	1.0	932541-935795
+VII	934698	935669	1.0	CRM1_C_dom	0	934698-935669	PF08767	http://pfam.sanger.ac.uk/family?acc=PF08767
+VII	932871	933308	1.0	Exportin-1/Importin-b-like	0	932871-933308	PF08389	http://pfam.sanger.ac.uk/family?acc=PF08389
+VII	932640	932840	1.0	Importin-beta_N	0	932640-932840	PF03810	http://pfam.sanger.ac.uk/family?acc=PF03810

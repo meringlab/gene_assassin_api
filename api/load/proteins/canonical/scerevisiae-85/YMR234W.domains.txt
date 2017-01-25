@@ -1,0 +1,4 @@
+#>P	YMR234W	YMR234W	YMR234W	XIII	740266	741309	1	Ribonuclease H1; able to bind double-stranded RNAs and RNA-DNA hybrids; associates with RNAse polymerase I. [Source:SGD;Acc:S000004847]
+#>E	YMR234W.1	1.0	740266-741312
+XIII	740284	740412	1.0	RNase_H1_N	0	740284-740412	PF01693	http://pfam.sanger.ac.uk/family?acc=PF01693
+XIII	740821	741300	1.0	RNaseH_domain	0	740821-741300	PF00075	http://pfam.sanger.ac.uk/family?acc=PF00075

@@ -1,0 +1,4 @@
+#>P	YDR395W	YDR395W	YDR395W	IV	1263324	1266155	1	Nuclear transport factor (karyopherin); involved in protein transport between the cytoplasm and nucleoplasm; similar to Nmd5p, Cse1p, Lph2p, and the human cellular apoptosis susceptibility protein, CAS1 [Source:SGD;Acc:S000002803]
+#>E	YDR395W.1	1.0	1263324-1266158
+IV	1263396	1263611	1.0	Importin-beta_N	0	1263396-1263611	PF03810	http://pfam.sanger.ac.uk/family?acc=PF03810
+IV	1263900	1264580	1.0	Exportin/Importin_Cse1-like	0	1263900-1264580	PF08506	http://pfam.sanger.ac.uk/family?acc=PF08506

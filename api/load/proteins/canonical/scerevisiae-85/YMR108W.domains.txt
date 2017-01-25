@@ -1,0 +1,5 @@
+#>P	YMR108W	YMR108W	YMR108W	XIII	484084	486144	1	Acetolactate synthase; catalyses the first common step in isoleucine and valine biosynthesis and is the target of several classes of inhibitors, localizes to the mitochondria; expression of the gene is under general amino acid control [Source:SGD;Acc:S000004714]
+#>E	YMR108W.1	1.0	484084-486147
+XIII	484360	484851	1.0	Thiamin_PyroP_enz_TPP-bd_dom	0	484360-484851	PF02776	http://pfam.sanger.ac.uk/family?acc=PF02776
+XIII	485569	486012	1.0	TPP_enzyme-bd_C	0	485569-486012	PF02775	http://pfam.sanger.ac.uk/family?acc=PF02775
+XIII	484948	485376	1.0	Thiamin_PyroP_enz_cen_dom	0	484948-485376	PF00205	http://pfam.sanger.ac.uk/family?acc=PF00205

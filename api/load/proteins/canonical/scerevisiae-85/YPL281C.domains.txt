@@ -1,0 +1,4 @@
+#>P	YPL281C	YPL281C	YPL281C	XVI	9560	10870	-1	Enolase, a phosphopyruvate hydratase; catalyzes the conversion of 2-phosphoglycerate to phosphoenolpyruvate; complements the growth defect of an ENO1 ENO2 double mutant [Source:SGD;Acc:S000006202]
+#>E	YPL281C.1	1.0	9557-10870
+XVI	9575	10438	-1.0	Enolase_C	0	9575-10438	PF00113	http://pfam.sanger.ac.uk/family?acc=PF00113
+XVI	10469	10864	-1.0	Enolase_N	0	10469-10864	PF03952	http://pfam.sanger.ac.uk/family?acc=PF03952

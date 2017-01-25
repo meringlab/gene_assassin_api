@@ -1,0 +1,3 @@
+#>P	YDR386W	YDR386W	YDR386W	IV	1246084	1247979	1	Subunit of structure-specific Mms4p-Mus81p endonuclease; cleaves branched DNA; involved in DNA repair, replication fork stability, and joint molecule formation/resolution during meiotic recombination; promotes template switching during break-induced replication (BIR), causing non-reciprocal translocations (NRTs); helix-hairpin-helix protein; phosphorylation of non-catalytic subunit Mms4p by Cdc28p and Cdcp during mitotic cell cycle activates function of Mms4p-Mus81p [Source:SGD;Acc:S000002794]
+#>E	YDR386W.1	1.0	1246084-1247982
+IV	1247140	1247421	1.0	ERCC4_domain	0	1247140-1247421	PF02732	http://pfam.sanger.ac.uk/family?acc=PF02732

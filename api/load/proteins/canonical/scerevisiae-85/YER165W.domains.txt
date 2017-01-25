@@ -1,0 +1,7 @@
+#>P	YER165W	YER165W	YER165W	V	510373	512103	1	Poly(A) binding protein; part of the 3'-end RNA-processing complex, mediates interactions between the 5' cap structure and the 3' mRNA poly(A) tail, involved in control of poly(A) tail length, interacts with translation factor eIF-4G; stimulates, but is not required for the deadenylation activity of the Pan2p-Pan3p poly(A)-ribonuclease complex [Source:SGD;Acc:S000000967]
+#>E	YER165W.1	1.0	510373-512106
+V	511033	511239	1.0	RRM_dom	0	511033-511239	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+V	510754	510960	1.0	RRM_dom	0	510754-510960	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+V	511342	511548	1.0	RRM_dom	0	511342-511548	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+V	510490	510699	1.0	RRM_dom	0	510490-510699	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+V	511843	512061	1.0	PABP_HYD	0	511843-512061	PF00658	http://pfam.sanger.ac.uk/family?acc=PF00658

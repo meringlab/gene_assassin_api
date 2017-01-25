@@ -1,0 +1,3 @@
+#>P	YOR119C	YOR119C	YOR119C	XV	548795	550246	-1	Serine kinase involved in cell cycling and pre-rRNA processing; associated with late pre-40S particles via its conserved C-terminal domain and participates in late 40S biogenesis; association with pre-40S particles regulated by its catalytic ATPase site and likely occurs after the release of Rio2p from these particles; involved in cell cycle progression and processing of the 20S pre-rRNA into mature 18S rRNA; essential gene [Source:SGD;Acc:S000005645]
+#>E	YOR119C.1	1.0	548792-550246
+XV	549350	549982	-1.0	RIO-like_kinase	0	549350-549982	PF01163	http://pfam.sanger.ac.uk/family?acc=PF01163

@@ -1,0 +1,3 @@
+#>P	YAL002W	YAL002W	YAL002W	I	143707	147528	1	Membrane-binding component of the CORVET complex; involved in endosomal vesicle tethering and fusion in the endosome to vacuole protein targeting pathway; interacts with Vps21p; contains RING finger motif [Source:SGD;Acc:S000000002]
+#>E	YAL002W.1	1.0	143707-147531
+I	145315	145911	1.0	Vps8_central_dom	0	145315-145911	PF12816	http://pfam.sanger.ac.uk/family?acc=PF12816

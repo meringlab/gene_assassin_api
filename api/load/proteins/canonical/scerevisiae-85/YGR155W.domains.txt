@@ -1,0 +1,4 @@
+#>P	YGR155W	YGR155W	YGR155W	VII	798543	800063	1	Cystathionine beta-synthase; catalyzes synthesis of cystathionine from serine and homocysteine, the first committed step in cysteine biosynthesis; responsible for hydrogen sulfide generation; advances passage through START by promoting cell growth which requires catalytic activity, and reducing critical cell size independent of catalytic activity; mutations in human ortholog cause homocystinuria [Source:SGD;Acc:S000003387]
+#>E	YGR155W.1	1.0	798543-800066
+VII	799653	799814	1.0	Cysta_beta_synth_core	0	799653-799814	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571
+VII	798591	799496	1.0	PyrdxlP-dep_enz_bsu	0	798591-799496	PF00291	http://pfam.sanger.ac.uk/family?acc=PF00291

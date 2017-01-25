@@ -1,0 +1,4 @@
+#>P	YER007W	YER007W	YER007W	V	164527	166080	1	Microtubule effector required for tubulin heterodimer formation; binds alpha-tubulin, required for normal microtubule function, null mutant exhibits cold-sensitive microtubules and sensitivity to benomyl [Source:SGD;Acc:S000000809]
+#>E	YER007W.1	1.0	164527-166083
+V	165292	165342	1.0	Leu-rich_rpt	0	165292-165342	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+V	164539	164739	1.0	CAP-Gly_domain	0	164539-164739	PF01302	http://pfam.sanger.ac.uk/family?acc=PF01302

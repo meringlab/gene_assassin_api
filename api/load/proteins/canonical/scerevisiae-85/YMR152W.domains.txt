@@ -1,0 +1,3 @@
+#>P	YMR152W	YMR152W	YMR152W	XIII	563096	564190	1	Protein of unknown function; null mutant displays sensitivity to DNA damaging agents; may have a role in lipid metabolism, based on localization to lipid droplets; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004760]
+#>E	YMR152W.1	1.0	563096-564193
+XIII	563201	563383	1.0	ADH_GroES-like	0	563201-563383	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240

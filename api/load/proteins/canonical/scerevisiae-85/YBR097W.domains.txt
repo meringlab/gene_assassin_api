@@ -1,0 +1,3 @@
+#>P	YBR097W	YBR097W	YBR097W	II	436951	441312	1	Serine/threonine protein kinase involved in vacuolar protein sorting; functions as a membrane-associated complex with Vps34p; active form recruits Vps34p to the Golgi membrane; interacts with the GDP-bound form of Gpa1p; myristoylated; a fraction is localized, with Vps34p, to nuclear pores at nucleus-vacuole junctions and may facilitate transcription elongation for genes positioned at the nuclear periphery [Source:SGD;Acc:S000000301]
+#>E	YBR097W.1	1.0	436951-441315
+II	437092	437832	1.0	Prot_kinase_cat_dom	0	437092-437832	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

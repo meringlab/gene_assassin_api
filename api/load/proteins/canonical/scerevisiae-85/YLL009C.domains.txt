@@ -1,0 +1,3 @@
+#>P	YLL009C	YLL009C	YLL009C	XII	131208	131414	-1	Copper metallochaperone that transfers copper to Sco1p and Cox11p; eventual delivery to cytochrome c oxidase; contains twin cysteine-x9-cysteine motifs [Source:SGD;Acc:S000003932]
+#>E	YLL009C.1	1.0	131205-131414
+XII	131220	131363	-1.0	Cyt_c_oxidase_Cu-chaperone	0	131220-131363	PF05051	http://pfam.sanger.ac.uk/family?acc=PF05051

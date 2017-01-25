@@ -1,0 +1,4 @@
+#>P	YGL045W	YGL045W	YGL045W	VII	414102	415727	1	Protein involved in proteolytic activation of Rim101p; part of response to alkaline pH; interacts with ESCRT-1 subunits Stp22p and Vps28p; essential for anaerobic growth; member of the arrestin-related trafficking adaptor family [Source:SGD;Acc:S000003013]
+#>E	YGL045W.1	1.0	414102-415730
+VII	414879	415256	1.0	Arrestin_C-like	0	414879-415256	PF02752	http://pfam.sanger.ac.uk/family?acc=PF02752
+VII	414216	414701	1.0	Arrestin-like_N	0	414216-414701	PF00339	http://pfam.sanger.ac.uk/family?acc=PF00339

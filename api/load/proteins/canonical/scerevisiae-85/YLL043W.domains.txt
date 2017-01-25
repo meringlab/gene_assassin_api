@@ -1,0 +1,3 @@
+#>P	YLL043W	YLL043W	YLL043W	XII	49938	51944	1	Aquaglyceroporin, plasma membrane channel; involved in efflux of glycerol and xylitol, and in uptake of acetic acid and the trivalent metalloids arsenite and antimonite; role in mediating passive diffusion of glycerol is key factor in maintenance of redox balance; member of major intrinsic protein (MIP) family; phosphorylated by Hog1p MAPK under acetate stress; deletion improves xylose fermentation [Source:SGD;Acc:S000003966]
+#>E	YLL043W.1	1.0	49938-51947
+XII	50670	51518	1.0	MIP	0	50670-51518	PF00230	http://pfam.sanger.ac.uk/family?acc=PF00230

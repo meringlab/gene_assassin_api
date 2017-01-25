@@ -1,0 +1,4 @@
+#>P	YHR213W	YHR213W	YHR213W	VIII	539151	539744	1	Pseudogenic fragment with similarity to flocculins; YHR213W has a paralog, YAR062W, that arose from a segmental duplication [Source:SGD;Acc:S000001256]
+#>E	YHR213W.1	1.0	539151-539747
+VIII	539151	539477	1.0	PA14	0	539151-539477	PF07691	http://pfam.sanger.ac.uk/family?acc=PF07691
+VIII	539556	539666	1.0	Flocculin	0	539556-539666	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624

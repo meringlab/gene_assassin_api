@@ -1,0 +1,6 @@
+#>P	YER013W	YER013W	YER013W	V	178841	182275	1	DEAH-box RNA-dependent ATPase/ATP-dependent RNA helicase; associates with lariat intermediates before the second catalytic step of splicing; mediates ATP-dependent mRNA release from the spliceosome and unwinds RNA duplexes; required for proofreading the exon ligation reaction [Source:SGD;Acc:S000000815]
+#>E	YER013W.1	1.0	178841-182278
+V	181460	181732	1.0	Helicase-assoc_dom	0	181460-181732	PF04408	http://pfam.sanger.ac.uk/family?acc=PF04408
+V	181019	181279	1.0	Helicase_C	0	181019-181279	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+V	179375	179590	1.0	Rbsml_prot_S1_RNA-bd_dom	0	179375-179590	PF00575	http://pfam.sanger.ac.uk/family?acc=PF00575
+V	181835	182134	1.0	DUF1605	0	181835-182134	PF07717	http://pfam.sanger.ac.uk/family?acc=PF07717

@@ -1,0 +1,5 @@
+#>P	YBR118W	YBR118W	YBR118W	II	477671	479044	1	Translational elongation factor EF-1 alpha; also encoded by TEF1; functions in the binding reaction of aminoacyl-tRNA (AA-tRNA) to ribosomes; TEF2-RFP levels increase during replicative aging; may also have a role in tRNA re-export from the nucleus; TEF2 has a paralog, TEF1, that arose from the whole genome duplication [Source:SGD;Acc:S000000322]
+#>E	YBR118W.1	1.0	477671-479047
+II	477683	478366	1.0	ProtSyn_GTP-bd	0	477683-478366	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+II	478442	478642	1.0	Transl_elong_EFTu/EF1A_2	0	478442-478642	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144
+II	478664	478987	1.0	Transl_elong_EFTu/EF1A_C	0	478664-478987	PF03143	http://pfam.sanger.ac.uk/family?acc=PF03143

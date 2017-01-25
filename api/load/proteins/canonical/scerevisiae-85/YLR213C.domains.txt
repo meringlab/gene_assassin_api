@@ -1,0 +1,3 @@
+#>P	YLR213C	YLR213C	YLR213C	XII	566657	567922	-1	Putative glycoside hydrolase of the spore wall envelope; required for normal spore wall assembly, possibly for cross-linking between the glucan and chitosan layers; expressed during sporulation [Source:SGD;Acc:S000004203]
+#>E	YLR213C.1	1.0	566654-567922
+XII	566951	567475	-1.0	Glyco_hydro_16	0	566951-567475	PF00722	http://pfam.sanger.ac.uk/family?acc=PF00722

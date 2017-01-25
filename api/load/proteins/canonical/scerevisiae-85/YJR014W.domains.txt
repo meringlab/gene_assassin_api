@@ -1,0 +1,3 @@
+#>P	YJR014W	YJR014W	YJR014W	X	461829	462422	1	Protein of unknown function; associates with ribosomes and has a putative RNA binding domain; interacts with Tma20p; similar to human GRAP and human DRP1, which interacts with human Tma20p homolog MCT-1; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003775]
+#>E	YJR014W.1	1.0	461829-462425
+X	462108	462356	1.0	TIF_SUI1	0	462108-462356	PF01253	http://pfam.sanger.ac.uk/family?acc=PF01253

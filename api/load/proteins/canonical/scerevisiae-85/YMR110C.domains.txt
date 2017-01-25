@@ -1,0 +1,3 @@
+#>P	YMR110C	YMR110C	YMR110C	XIII	490397	491992	-1	Hexadecenal dehydrogenase; involved in the conversion of sphingosine 1-phosphate breakdown product hexadecenal to hexadecenoic acid; located in the mitochondrial outer membrane and also in lipid particles; has similarity to ALDH3A2, a human fatty aldehyde dehydrogenase (FALDH) mutated in Sjogren-Larsson syndrome, a neurocutaneous disorder [Source:SGD;Acc:S000004716]
+#>E	YMR110C.1	1.0	490394-491992
+XIII	490604	491869	-1.0	Aldehyde_DH_dom	0	490604-491869	PF00171	http://pfam.sanger.ac.uk/family?acc=PF00171

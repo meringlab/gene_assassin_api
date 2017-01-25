@@ -1,0 +1,4 @@
+#>P	WBGene00000608	ZK1193.1	ZK1193.1	X	421724	422643	1	Cuticle collagen 19  [Source:UniProtKB/Swiss-Prot;Acc:P18835]
+#>E	ZK1193.1.e1,ZK1193.1.e2	1,1	421724-421858,421912-422646
+X	422422	422598	1	Collagen	85.3	422422-422598	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
+X	421742	421941	1	Col_cuticle_N	45	421742-421858,421912-421941	PF01484	http://pfam.sanger.ac.uk/family?acc=PF01484

@@ -1,0 +1,3 @@
+#>P	YHR135C	YHR135C	YHR135C	VIII	372697	374310	-1	Palmitoylated plasma membrane-bound casein kinase I (CK1) isoform; shares redundant functions with Yck2p in morphogenesis, proper septin assembly, endocytic trafficking, and glucose sensing; stabilized by Sod1p binding in the presence of glucose and oxygen, causing glucose repression of respiratory metabolism; YCK1 has a paralog, YCK2, that arose from the whole genome duplication [Source:SGD;Acc:S000001177]
+#>E	YHR135C.1	1.0	372694-374310
+VIII	373411	374106	-1.0	Prot_kinase_cat_dom	114.5	373411-374106	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

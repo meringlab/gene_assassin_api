@@ -1,0 +1,4 @@
+#>P	YLR362W	YLR362W	YLR362W	XII	849866	852016	1	Signal transducing MEK kinase; involved in pheromone response and pseudohyphal/invasive growth pathways where it phosphorylates Ste7p, and the high osmolarity response pathway, via phosphorylation of Pbs2p; regulated by Ste20p and Ste50p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004354]
+#>E	YLR362W.1	1.0	849866-852019
+XII	851117	852001	1.0	Prot_kinase_cat_dom	0	851117-852001	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+XII	849920	850105	1.0	SAM_2	0	849920-850105	PF07647	http://pfam.sanger.ac.uk/family?acc=PF07647

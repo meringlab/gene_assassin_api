@@ -1,0 +1,3 @@
+#>P	YHR085W	YHR085W	YHR085W	VIII	276764	277765	1	Component of the Rix1 complex and possibly pre-replicative complexes; required for processing of ITS2 sequences from 35S pre-rRNA; component of the pre-60S ribosomal particle with the dynein-related AAA-type ATPase Mdn1p; required for pre-replicative complex (pre-RC) formation and maintenance during DNA replication licensing; relocalizes to the cytosol in response to hypoxia; essential gene [Source:SGD;Acc:S000001127]
+#>E	YHR085W.1	1.0	276764-277768
+VIII	277133	277414	1.0	IPI1-like_dom	0	277133-277414	PF12333	http://pfam.sanger.ac.uk/family?acc=PF12333

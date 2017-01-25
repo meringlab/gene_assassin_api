@@ -1,0 +1,4 @@
+#>P	YMR085W	YMR085W	YMR085W	XIII	437491	438786	1	Putative protein of unknown function; YMR085W and adjacent ORF YMR084W are merged in related strains, and together are paralogous to glutamine-fructose-6-phosphate amidotransferase GFA1 [Source:SGD;Acc:S000004690]
+#>E	YMR085W.1	1.0	437491-438789
+XIII	438328	438729	1.0	SIS	0	438328-438729	PF01380	http://pfam.sanger.ac.uk/family?acc=PF01380
+XIII	437815	438198	1.0	SIS	0	437815-438198	PF01380	http://pfam.sanger.ac.uk/family?acc=PF01380

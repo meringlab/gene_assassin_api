@@ -1,0 +1,3 @@
+#>P	YKL125W	YKL125W	YKL125W	XI	208247	210127	1	Protein required for transcription of rDNA by RNA polymerase I; transcription factor independent of DNA template; involved in recruitment of RNA polymerase I to rDNA; structure reveals unique HEAT repeat fold and a surface serine patch; phosphorylation of serine patch impairs cell growth and reduces RNA polymerase I binding in vitro and RNA polymerase I recruitment to the rDNA gene in vivo [Source:SGD;Acc:S000001608]
+#>E	YKL125W.1	1.0	208247-210130
+XI	208367	210103	1.0	RNA_pol_I_trans_ini_fac_RRN3	0	208367-210103	PF05327	http://pfam.sanger.ac.uk/family?acc=PF05327

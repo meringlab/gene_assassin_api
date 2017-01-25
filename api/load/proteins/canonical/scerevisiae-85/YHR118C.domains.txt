@@ -1,0 +1,3 @@
+#>P	YHR118C	YHR118C	YHR118C	VIII	344324	345628	-1	Subunit of the origin recognition complex (ORC); ORC directs DNA replication by binding to replication origins and is also involved in transcriptional silencing; phosphorylated by Cdc28p; mutation in the human Orc6p is linked to Meier-Gorlin syndrome [Source:SGD;Acc:S000001160]
+#>E	YHR118C.1	1.0	344321-345628
+VIII	344381	345565	-1.0	ORC6	0	344381-345565	PF05460	http://pfam.sanger.ac.uk/family?acc=PF05460

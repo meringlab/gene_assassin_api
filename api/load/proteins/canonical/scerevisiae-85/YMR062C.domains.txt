@@ -1,0 +1,3 @@
+#>P	YMR062C	YMR062C	YMR062C	XIII	395057	396379	-1	Mitochondrial ornithine acetyltransferase; catalyzes the fifth step in arginine biosynthesis; also possesses acetylglutamate synthase activity, regenerates acetylglutamate while forming ornithine [Source:SGD;Acc:S000004666]
+#>E	YMR062C.1	1.0	395054-396379
+XIII	395057	396286	-1.0	Arg_biosynth_ArgJ	0	395057-396286	PF01960	http://pfam.sanger.ac.uk/family?acc=PF01960

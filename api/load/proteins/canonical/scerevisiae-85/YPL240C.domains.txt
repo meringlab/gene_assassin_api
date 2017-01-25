@@ -1,0 +1,4 @@
+#>P	YPL240C	YPL240C	YPL240C	XVI	96499	98625	-1	Hsp90 chaperone; redundant in function with Hsc82p; required for pheromone signaling, negative regulation of Hsf1p; docks with Tom70p for mitochondrial preprotein delivery; promotes telomerase DNA binding, nucleotide addition; protein abundance increases in response to DNA replication stress; contains two acid-rich unstructured regions that promote solubility of chaperone-substrate complexes; HSP82 has a paralog, HSC82, that arose from the whole genome duplication [Source:SGD;Acc:S000006161]
+#>E	YPL240C.1	1.0	96496-98625
+XVI	96499	98079	-1.0	Hsp90	0	96499-98079	PF00183	http://pfam.sanger.ac.uk/family?acc=PF00183
+XVI	98122	98544	-1.0	ATPase-like_ATP-bd	0	98122-98544	PF02518	http://pfam.sanger.ac.uk/family?acc=PF02518

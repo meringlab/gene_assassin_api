@@ -1,0 +1,4 @@
+#>P	YDL042C	YDL042C	YDL042C	IV	376760	378445	-1	Conserved NAD+ dependent histone deacetylase of the Sirtuin family; involved in regulation of lifespan; plays roles in silencing at HML, HMR, telomeres, and the rDNA locus; negatively regulates initiation of DNA replication; functions as a regulator of autophagy like mammalian homolog SIRT1, and also of mitophagy; SIR2 has a paralog, HST1, that arose from the whole genome duplication [Source:SGD;Acc:S000002200]
+#>E	YDL042C.1	1.0	376757-378445
+IV	377663	378133	-1.0	NAD-dep_histone_deAcase_SIR2_N	0	377663-378133	PF04574	http://pfam.sanger.ac.uk/family?acc=PF04574
+IV	377012	377662	-1.0	NAD-dep_deAcase_sirtuin	0	377012-377662	PF02146	http://pfam.sanger.ac.uk/family?acc=PF02146

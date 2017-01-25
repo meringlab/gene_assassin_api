@@ -1,0 +1,4 @@
+#>P	YHR169W	YHR169W	YHR169W	VIII	442181	443473	1	ATPase, putative RNA helicase of the DEAD-box family; component of 90S preribosome complex involved in production of 18S rRNA and assembly of 40S small ribosomal subunit; ATPase activity stimulated by association with Esf2p [Source:SGD;Acc:S000001212]
+#>E	YHR169W.1	1.0	442181-443476
+VIII	443000	443227	1.0	Helicase_C	92.1	443000-443227	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+VIII	442256	442771	1.0	DNA/RNA_helicase_DEAD/DEAH_N	133.6	442256-442771	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

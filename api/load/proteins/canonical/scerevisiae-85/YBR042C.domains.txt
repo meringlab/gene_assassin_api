@@ -1,0 +1,3 @@
+#>P	YBR042C	YBR042C	YBR042C	II	320419	321609	-1	Putative transferase involved in phospholipid biosynthesis; required for incorporation of stearic acid into phosphatidylinositol; affects chromosome stability when overexpressed; CST26 has a paralog, YDR018C, that arose from the whole genome duplication [Source:SGD;Acc:S000000246]
+#>E	YBR042C.1	1.0	320416-321609
+II	320764	321387	-1.0	Acyltransferase	0	320764-321387	PF01553	http://pfam.sanger.ac.uk/family?acc=PF01553

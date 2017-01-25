@@ -1,0 +1,3 @@
+#>P	YDR392W	YDR392W	YDR392W	IV	1258696	1259706	1	Subunit of the SAGA and SAGA-like transcriptional regulatory complexes; interacts with Spt15p to activate transcription of some RNA polymerase II-dependent genes, also functions to inhibit transcription at some promoters; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000002800]
+#>E	YDR392W.1	1.0	1258696-1259709
+IV	1258708	1258983	1.0	TFIID-18	0	1258708-1258983	PF02269	http://pfam.sanger.ac.uk/family?acc=PF02269

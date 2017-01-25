@@ -1,0 +1,6 @@
+#>P	YOR133W	YOR133W	YOR133W	XV	575098	577623	1	Elongation factor 2 (EF-2), also encoded by EFT2; catalyzes ribosomal translocation during protein synthesis; contains diphthamide, the unique posttranslationally modified histidine residue specifically ADP-ribosylated by diphtheria toxin; EFT1 has a paralog, EFT2, that arose from the whole genome duplication [Source:SGD;Acc:S000005659]
+#>E	YOR133W.1	1.0	575098-577626
+XV	577267	577527	1.0	Transl_elong_EFG/EF2_C	0	577267-577527	PF00679	http://pfam.sanger.ac.uk/family?acc=PF00679
+XV	575149	576129	1.0	ProtSyn_GTP-bd	0	575149-576129	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+XV	576916	577257	1.0	Transl_elong_EFG/EF2_IV	0	576916-577257	PF03764	http://pfam.sanger.ac.uk/family?acc=PF03764
+XV	576277	576504	1.0	Transl_elong_EFTu/EF1A_2	0	576277-576504	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144

@@ -1,0 +1,3 @@
+#>P	YHR023W	YHR023W	YHR023W	VIII	151666	157449	1	Type II myosin heavy chain; required for wild-type cytokinesis and cell separation; localizes to the actomyosin ring; binds to myosin light chains Mlc1p and Mlc2p through its IQ1 and IQ2 motifs respectively [Source:SGD;Acc:S000001065]
+#>E	YHR023W.1	1.0	151666-157452
+VIII	151894	154002	1.0	Myosin_head_motor_dom	0	151894-154002	PF00063	http://pfam.sanger.ac.uk/family?acc=PF00063

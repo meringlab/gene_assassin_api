@@ -1,0 +1,3 @@
+#>P	WBGene00022582	ZC262.5	ZC262.5	III	8342227	8342610	-1	Putative ATP synthase subunit epsilon, mitochondrial  [Source:UniProtKB/Swiss-Prot;Acc:P34539]
+#>E	ZC262.5.e2,ZC262.5.e1	1,1	8342224-8342307,8342530-8342610
+III	8342248	8342604	-1	ATPase_F1-cplx_esu_mt	58.5	8342248-8342307,8342530-8342604	PF04627	http://pfam.sanger.ac.uk/family?acc=PF04627

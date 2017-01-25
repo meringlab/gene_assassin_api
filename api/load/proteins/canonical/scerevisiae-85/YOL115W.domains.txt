@@ -1,0 +1,4 @@
+#>P	YOL115W	YOL115W	YOL115W	XV	101475	103226	1	Non-canonical poly(A) polymerase; involved in nuclear RNA degradation as a component of TRAMP; catalyzes polyadenylation of hypomodified tRNAs, and snoRNA and rRNA precursors; required for mRNA surveillance and maintenance of genome integrity, serving as a link between RNA and DNA metabolism; overlapping but non-redundant functions with Trf5p; relocalizes to cytosol in response to hypoxia [Source:SGD;Acc:S000005475]
+#>E	YOL115W.1	1.0	101475-103229
+XV	102585	102767	1.0	PAP_assoc	0	102585-102767	PF03828	http://pfam.sanger.ac.uk/family?acc=PF03828
+XV	102084	102422	1.0	Nucleotidyltransferase	0	102084-102422	PF01909	http://pfam.sanger.ac.uk/family?acc=PF01909

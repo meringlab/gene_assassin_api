@@ -1,0 +1,5 @@
+#>P	YPR128C	YPR128C	YPR128C	XVI	791221	792204	-1	Peroxisomal adenine nucleotide transporter; involved in beta-oxidation of medium-chain fatty acid; required for peroxisome proliferation [Source:SGD;Acc:S000006332]
+#>E	YPR128C.1	1.0	791218-792204
+XVI	791287	791550	-1.0	Mitochondrial_sb/sol_carrier	73.2	791287-791550	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XVI	791890	792195	-1.0	Mitochondrial_sb/sol_carrier	70.7	791890-792195	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XVI	791569	791838	-1.0	Mitochondrial_sb/sol_carrier	39.4	791569-791838	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

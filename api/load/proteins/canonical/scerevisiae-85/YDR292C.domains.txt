@@ -1,0 +1,5 @@
+#>P	YDR292C	YDR292C	YDR292C	IV	1043149	1045011	-1	Signal recognition particle (SRP) receptor alpha subunit; contain GTPase domains; involved in SRP-dependent protein targeting; interacts with the beta subunit, Srp102p [Source:SGD;Acc:S000002700]
+#>E	YDR292C.1	1.0	1043146-1045011
+IV	1043152	1043820	-1.0	Signal_recog_part_SRP54_GTPase	0	1043152-1043820	PF00448	http://pfam.sanger.ac.uk/family?acc=PF00448
+IV	1044547	1045011	-1.0	Sig_recog_part_rcpt_asu-like_N	0	1044547-1045011	PF09201	http://pfam.sanger.ac.uk/family?acc=PF09201
+IV	1043953	1044114	-1.0	Signal_recog_particl_SRP54_hlx	0	1043953-1044114	PF02881	http://pfam.sanger.ac.uk/family?acc=PF02881

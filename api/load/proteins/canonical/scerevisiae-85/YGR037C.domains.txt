@@ -1,0 +1,3 @@
+#>P	YGR037C	YGR037C	YGR037C	VII	559734	559994	-1	Acyl-CoA-binding protein; transports newly synthesized acyl-CoA esters from fatty acid synthetase (Fas1p-Fas2p) to acyl-CoA-consuming processes; subject to starvation-induced, Grh1p-mediated unconventional secretion; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003269]
+#>E	YGR037C.1	1.0	559731-559994
+VII	559740	559988	-1.0	Acyl-CoA-binding_protein	0	559740-559988	PF00887	http://pfam.sanger.ac.uk/family?acc=PF00887

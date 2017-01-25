@@ -1,0 +1,3 @@
+#>P	YPR156C	YPR156C	YPR156C	XVI	837912	839777	-1	Polyamine transporter of the major facilitator superfamily; member of the 12-spanner drug:H(+) antiporter DHA1 family; specific for spermine; localizes to the plasma membrane; TPO3 has a paralog, TPO2, that arose from the whole genome duplication [Source:SGD;Acc:S000006360]
+#>E	YPR156C.1	1.0	837909-839777
+XVI	838077	839225	-1.0	MFS	0	838077-839225	PF07690	http://pfam.sanger.ac.uk/family?acc=PF07690

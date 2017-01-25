@@ -1,0 +1,4 @@
+#>P	YML099C	YML099C	YML099C	XIII	74401	77040	-1	Zinc finger transcription factor involved in arginine-responsive genes; Zn(2)-Cys(6) binuclear cluster domain type; involved in the regulation of arginine-responsive genes; acts with Arg80p and Arg82p [Source:SGD;Acc:S000004565]
+#>E	YML099C.1	1.0	74398-77040
+XIII	74407	75858	-1.0	DUF3468	0	74407-75858	PF11951	http://pfam.sanger.ac.uk/family?acc=PF11951
+XIII	76867	76986	-1.0	Zn2-C6_fun-type_DNA-bd	0	76867-76986	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

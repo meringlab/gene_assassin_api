@@ -1,0 +1,3 @@
+#>P	YHR133C	YHR133C	YHR133C	VIII	370725	371597	-1	Protein involved in regulation of sterol biosynthesis; specifically stabilizes Hmg2p, one of two HMG-CoA isoenzymes that catalyze the rate-limiting step in sterol biosynthesis; forms foci at the nuclear periphery upon DNA replication stress; relocalizes to the cytosol in response to hypoxia; homolog of mammalian INSIG proteins; NSG1 has a paralog, NSG2, that arose from the whole genome duplication [Source:SGD;Acc:S000001175]
+#>E	YHR133C.1	1.0	370722-371597
+VIII	370836	371282	-1.0	INSIG_fam	0	370836-371282	PF07281	http://pfam.sanger.ac.uk/family?acc=PF07281

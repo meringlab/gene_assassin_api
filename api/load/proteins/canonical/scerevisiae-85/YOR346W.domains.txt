@@ -1,0 +1,5 @@
+#>P	YOR346W	YOR346W	YOR346W	XV	981828	984782	1	Deoxycytidyl transferase; involved in repair of abasic sites and adducted guanines in damaged DNA by translesion synthesis (TLS); forms a complex with the subunits of DNA polymerase zeta, Rev3p and Rev7p; relocalizes from nucleus to cytoplasm upon DNA replication stress [Source:SGD;Acc:S000005873]
+#>E	YOR346W.1	1.0	981828-984785
+XV	983571	983918	1.0	DNA_pol_Y-fam_little_finger	0	983571-983918	PF11799	http://pfam.sanger.ac.uk/family?acc=PF11799
+XV	982908	983390	1.0	DNA_repair_prot_UmuC-like	0	982908-983390	PF00817	http://pfam.sanger.ac.uk/family?acc=PF00817
+XV	982311	982535	1.0	BRCT	0	982311-982535	PF00533	http://pfam.sanger.ac.uk/family?acc=PF00533

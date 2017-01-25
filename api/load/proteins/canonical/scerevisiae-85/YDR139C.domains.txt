@@ -1,0 +1,3 @@
+#>P	YDR139C	YDR139C	YDR139C	IV	733621	733924	-1	Ubiquitin-like protein with similarity to mammalian NEDD8; conjugation (neddylation) substrates include the cullins Cdc53p, Rtt101p, and Cul3p; activated by Ula1p and Uba3p (E1 enzyme pair); conjugation mediated by Ubc12p (E2 enzyme) [Source:SGD;Acc:S000002546]
+#>E	YDR139C.2,YDR139C.1	1,1	733618-733702,733776-733924
+IV	733630	733909	-1	Ubiquitin	0	733630-733702,733776-733909	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240

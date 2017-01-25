@@ -1,0 +1,4 @@
+#>P	YLR401C	YLR401C	YLR401C	XII	922445	924448	-1	Dihydrouridine synthase; member of a widespread family of conserved proteins including Smm1p, Dus1p, and Dus4p; contains a consensus oleate response element (ORE) in its promoter region; forms nuclear foci upon DNA replication stress [Source:SGD;Acc:S000004393]
+#>E	YLR401C.1	1.0	922442-924448
+XII	923006	923560	-1.0	tRNA_hU_synthase	0	923006-923560	PF01207	http://pfam.sanger.ac.uk/family?acc=PF01207
+XII	922724	922945	-1.0	tRNA_hU_synthase	0	922724-922945	PF01207	http://pfam.sanger.ac.uk/family?acc=PF01207

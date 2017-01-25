@@ -1,0 +1,3 @@
+#>P	YDR191W	YDR191W	YDR191W	IV	842337	843446	1	Member of the Sir2 family of NAD(+)-dependent protein deacetylases; involved along with Hst3p in silencing at telomeres, cell cycle progression, radiation resistance, genomic stability and short-chain fatty acid metabolism [Source:SGD;Acc:S000002599]
+#>E	YDR191W.1	1.0	842337-843449
+IV	842634	843281	1.0	NAD-dep_deAcase_sirtuin	0	842634-843281	PF02146	http://pfam.sanger.ac.uk/family?acc=PF02146

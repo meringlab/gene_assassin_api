@@ -1,0 +1,4 @@
+#>P	YDR098C	YDR098C	YDR098C	IV	644181	645035	-1	Glutathione-dependent oxidoreductase; hydroperoxide and superoxide-radical responsive; monothiol glutaredoxin subfamily member along with Grx4p and Grx5p; protects cells from oxidative damage; with Grx4p, binds to Aft1p in iron-replete conditions, promoting its dissociation from promoters; evidence exists indicating that the translation start site is not Met1 as currently annotated, but rather Met36; GRX3 has a paralog, GRX4, that arose from the whole genome duplication [Source:SGD;Acc:S000002505]
+#>E	YDR098C.1	1.0	644178-645035
+IV	644631	644894	-1.0	Thioredoxin_domain	57	644631-644894	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085
+IV	644253	644444	-1.0	Glutaredoxin	62.5	644253-644444	PF00462	http://pfam.sanger.ac.uk/family?acc=PF00462

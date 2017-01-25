@@ -1,0 +1,3 @@
+#>P	YER028C	YER028C	YER028C	V	210695	211876	-1	Transcriptional regulator; partially nonfunctional in S288C strains but has a major role in catabolite repression and ethanol response in some other strains; involved in response to toxic agents; phosphorylation by Snf1p or the Mec1p pathway inactivates Mig3p, allowing induction of damage response genesenvironment [Source:SGD;Acc:S000000830]
+#>E	YER028C.1	1.0	210692-211876
+V	211670	211744	-1.0	Znf_C2H2	0	211670-211744	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

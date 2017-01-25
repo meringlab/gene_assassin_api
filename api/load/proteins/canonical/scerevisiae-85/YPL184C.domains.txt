@@ -1,0 +1,3 @@
+#>P	YPL184C	YPL184C	YPL184C	XVI	195953	197788	-1	RNA-binding protein that may be involved in translational regulation; binds specific categories of mRNAs, including those that contain upstream open reading frames (uORFs) and internal ribosome entry sites (IRES); interacts genetically with chromatin remodelers and splicing factors, linking chromatin state, splicing and as a result mRNA maturation [Source:SGD;Acc:S000006105]
+#>E	YPL184C.1	1.0	195950-197788
+XVI	196031	196162	-1.0	RRM_dom	0	196031-196162	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

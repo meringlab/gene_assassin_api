@@ -1,0 +1,3 @@
+#>P	YLL002W	YLL002W	YLL002W	XII	146291	147598	1	Histone acetyltransferase; critical for cell survival in the presence of DNA damage during S phase; prevents hyper-amplification of rDNA; acetylates H3-K56 and H3-K9; involved in non-homologous end joining and in regulation of Ty1 transposition; interacts physically with Vps75p [Source:SGD;Acc:S000003925]
+#>E	YLL002W.1	1.0	146291-147601
+XII	146297	147523	1.0	Histone_H3-K56_AcTrfase_RTT109	0	146297-147523	PF08214	http://pfam.sanger.ac.uk/family?acc=PF08214

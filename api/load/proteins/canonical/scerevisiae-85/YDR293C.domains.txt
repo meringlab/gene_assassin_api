@@ -1,0 +1,3 @@
+#>P	YDR293C	YDR293C	YDR293C	IV	1045643	1049392	-1	Translational repressor with a role in polar growth and wall integrity; regulated by Cbk1p phosphorylation to effect bud-specific translational control and localization of specific mRNAs; interacts with TOR pathway components; contains a functional N-terminal nuclear localization sequence and nucleocytoplasmic shuttling appears to be critical to Ssd1p function [Source:SGD;Acc:S000002701]
+#>E	YDR293C.1	1.0	1045640-1049392
+IV	1046348	1047262	-1.0	RNase_II/R	0	1046348-1047262	PF00773	http://pfam.sanger.ac.uk/family?acc=PF00773

@@ -1,0 +1,3 @@
+#>P	YEL031W	YEL031W	YEL031W	V	90258	93902	1	P-type ATPase, ion transporter of the ER membrane; required to maintain normal lipid composition of intracellular compartments and proper targeting of mitochondrial outer membrane tail-anchored proteins; involved in ER function and Ca2+ homeostasis; required for regulating Hmg2p degradation; confers sensitivity to a killer toxin (SMKT) produced by Pichia farinosa KK1 [Source:SGD;Acc:S000000757]
+#>E	YEL031W.1	1.0	90258-93905
+V	90936	91652	1.0	ATPase_P-typ_ATPase-assoc-dom	0	90936-91652	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122

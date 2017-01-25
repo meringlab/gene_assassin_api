@@ -1,0 +1,7 @@
+#>P	YER125W	YER125W	YER125W	V	410189	412615	1	E3 ubiquitin ligase of NEDD4 family; regulates many cellular processes including MVB sorting, heat shock response, transcription, endocytosis, ribosome stability; mutant tolerates aneuploidy; autoubiquitinates; ubiquitinates Sec23p and Sna3p; deubiquitinated by Ubp2p; activity regulated by SUMO ligase Siz1p, in turn regulates Siz1p SUMO ligase activity; required for efficient Golgi-to-ER trafficking in COPI mutants; human homolog implicated in Liddle syndrome [Source:SGD;Acc:S000000927]
+#>E	YER125W.1	1.0	410189-412618
+V	410204	410449	1.0	C2_Ca-dep	0	410204-410449	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
+V	411704	412609	1.0	HECT	0	411704-412609	PF00632	http://pfam.sanger.ac.uk/family?acc=PF00632
+V	411353	411442	1.0	WW_Rsp5_WWP	0	411353-411442	PF00397	http://pfam.sanger.ac.uk/family?acc=PF00397
+V	410879	410968	1.0	WW_Rsp5_WWP	0	410879-410968	PF00397	http://pfam.sanger.ac.uk/family?acc=PF00397
+V	411185	411274	1.0	WW_Rsp5_WWP	0	411185-411274	PF00397	http://pfam.sanger.ac.uk/family?acc=PF00397

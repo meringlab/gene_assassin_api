@@ -1,0 +1,3 @@
+#>P	YPR020W	YPR020W	YPR020W	XVI	599870	600214	1	Subunit g of the mitochondrial F1F0 ATP synthase; reversibly phosphorylated on two residues; unphosphorylated form is required for dimerization of the ATP synthase complex, which in turn determines oligomerization of the complex and the shape of inner membrane cristae [Source:SGD;Acc:S000006224]
+#>E	YPR020W.1	1.0	599870-600217
+XVI	599906	600208	1.0	ATPase_F0-cplx_gsu_mt	0	599906-600208	PF04718	http://pfam.sanger.ac.uk/family?acc=PF04718

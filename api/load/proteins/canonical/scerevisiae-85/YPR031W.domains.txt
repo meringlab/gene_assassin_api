@@ -1,0 +1,4 @@
+#>P	YPR031W	YPR031W	YPR031W	XVI	631515	633758	1	Subunit of the NuA3 histone acetyltransferase complex; this complex acetylates histone H3; contains PHD finger domain that interacts with methylated histone H3 [Source:SGD;Acc:S000006235]
+#>E	YPR031W.1	1.0	631515-633761
+XVI	632310	632447	1.0	Znf_PHD-finger	0	632310-632447	PF00628	http://pfam.sanger.ac.uk/family?acc=PF00628
+XVI	631641	632180	1.0	Enhancer_polycomb-like_N	0	631641-632180	PF10513	http://pfam.sanger.ac.uk/family?acc=PF10513

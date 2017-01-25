@@ -1,0 +1,5 @@
+#>P	YHR091C	YHR091C	YHR091C	VIII	284842	286770	-1	Mitochondrial arginyl-tRNA synthetase; mutations in human ortholog are associated with pontocerebellar hypoplasia type 6; MSR1 has a paralog, YDR341C, that arose from the whole genome duplication [Source:SGD;Acc:S000001133]
+#>E	YHR091C.1	1.0	284839-286770
+VIII	284842	285198	-1.0	DALR_anticod-bd	0	284842-285198	PF05746	http://pfam.sanger.ac.uk/family?acc=PF05746
+VIII	286321	286551	-1.0	Arg-tRNA-synth_N	0	286321-286551	PF03485	http://pfam.sanger.ac.uk/family?acc=PF03485
+VIII	285238	286296	-1.0	Arg-tRNA-synth_Ia_core	0	285238-286296	PF00750	http://pfam.sanger.ac.uk/family?acc=PF00750

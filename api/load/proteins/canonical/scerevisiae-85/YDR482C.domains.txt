@@ -1,0 +1,3 @@
+#>P	YDR482C	YDR482C	YDR482C	IV	1420434	1420838	-1	Protein involved in RNA splicing by the spliceosome; component of a complex containing Cef1p; interacts genetically with ISY1 and BUD13; may bind RNA; has similarity to S. pombe Cwf21p [Source:SGD;Acc:S000002890]
+#>E	YDR482C.1	1.0	1420431-1420838
+IV	1420506	1420640	-1.0	mRNA_splic_Cwf21	0	1420506-1420640	PF08312	http://pfam.sanger.ac.uk/family?acc=PF08312

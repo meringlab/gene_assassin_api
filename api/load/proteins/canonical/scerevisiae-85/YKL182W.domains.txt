@@ -1,0 +1,5 @@
+#>P	YKL182W	YKL182W	YKL182W	XI	100671	106823	1	Beta subunit of fatty acid synthetase; complex catalyzes the synthesis of long-chain saturated fatty acids; contains acetyltransacylase, dehydratase, enoyl reductase, malonyl transacylase, and palmitoyl transacylase activities [Source:SGD;Acc:S000001665]
+#>E	YKL182W.1	1.0	100671-106826
+XI	105657	106781	1.0	Acyl_transferase	0	105657-106781	PF00698	http://pfam.sanger.ac.uk/family?acc=PF00698
+XI	105237	105614	1.0	MaoC_deHydtase	0	105237-105614	PF01575	http://pfam.sanger.ac.uk/family?acc=PF01575
+XI	103722	103892	1.0	DUF1729	0	103722-103892	PF08354	http://pfam.sanger.ac.uk/family?acc=PF08354

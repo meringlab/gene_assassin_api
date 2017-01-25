@@ -1,0 +1,3 @@
+#>P	YLR330W	YLR330W	YLR330W	XII	787664	789676	1	Component of the exomer complex; exomer also contains Csh6p, Bch1p, Bch2p, and Bud7p and is involved in export of selected proteins, such as chitin synthase Chs3p, from the Golgi to the plasma membrane; Chs5p is the only protein with a BRCT domain that is not localized to the nucleus [Source:SGD;Acc:S000004322]
+#>E	YLR330W.1	1.0	787664-789679
+XII	788162	788407	1.0	BRCT	0	788162-788407	PF00533	http://pfam.sanger.ac.uk/family?acc=PF00533

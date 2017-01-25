@@ -1,0 +1,5 @@
+#>P	YDL031W	YDL031W	YDL031W	IV	394217	397201	1	Putative ATP-dependent RNA helicase of the DEAD-box protein family; constituent of 66S pre-ribosomal particles; essential protein involved in ribosome biogenesis [Source:SGD;Acc:S000002189]
+#>E	YDL031W.1	1.0	394217-397204
+IV	396674	396859	1.0	DBP10CT	0	396674-396859	PF08147	http://pfam.sanger.ac.uk/family?acc=PF08147
+IV	395567	395797	1.0	Helicase_C	0	395567-395797	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+IV	394697	395191	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	394697-395191	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

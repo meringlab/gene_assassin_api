@@ -1,0 +1,4 @@
+#>P	YJR103W	YJR103W	YJR103W	X	620754	622487	1	Minor CTP synthase isozyme (see also URA7); catalyzes the ATP-dependent transfer of the amide nitrogen from glutamine to UTP, forming CTP, the final step in de novo biosynthesis of pyrimidines; involved in phospholipid biosynthesis; capable of forming cytoplasmic filaments termed cytoophidium, especially during conditions of glucose depletion; URA8 has a paralog, URA7, that arose from the whole genome duplication [Source:SGD;Acc:S000003864]
+#>E	YJR103W.1	1.0	620754-622490
+X	620754	621572	1.0	CTP_synthase_N	0	620754-621572	PF06418	http://pfam.sanger.ac.uk/family?acc=PF06418
+X	621696	622421	1.0	GATASE_1	0	621696-622421	PF00117	http://pfam.sanger.ac.uk/family?acc=PF00117

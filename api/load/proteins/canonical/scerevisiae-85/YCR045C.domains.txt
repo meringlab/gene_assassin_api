@@ -1,0 +1,4 @@
+#>P	YCR045C	YCR045C	YCR045C	III	208138	209610	-1	Probable subtilisin-family protease; role in formation of the dityrosine layer of spore walls; localizes to the spore wall and also the nuclear envelope and ER region in mature spores [Source:SGD;Acc:S000000641]
+#>E	YCR045C.1	1.0	208135-209610
+III	209344	209556	-1.0	Prot_inh_S8A	0	209344-209556	PF05922	http://pfam.sanger.ac.uk/family?acc=PF05922
+III	208429	209100	-1.0	Peptidase_S8/S53	0	208429-209100	PF00082	http://pfam.sanger.ac.uk/family?acc=PF00082

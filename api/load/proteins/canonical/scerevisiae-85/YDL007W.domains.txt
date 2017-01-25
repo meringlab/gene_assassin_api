@@ -1,0 +1,3 @@
+#>P	YDL007W	YDL007W	YDL007W	IV	438047	439357	1	ATPase of the 19S regulatory particle of the 26S proteasome; one of six ATPases of the regulatory particle; involved in the degradation of ubiquitinated substrates; required for normal peptide hydrolysis by the core 20S particle; N-myristoylation of Rpt2p at Gly2 is involved in regulating the proper intracellular distribution of proteasome activity by controlling the nuclear localization of the 26S proteasome [Source:SGD;Acc:S000002165]
+#>E	YDL007W.1	1.0	438047-439360
+IV	438701	439099	1.0	ATPase_AAA_core	0	438701-439099	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

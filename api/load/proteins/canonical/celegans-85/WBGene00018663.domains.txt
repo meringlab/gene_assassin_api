@@ -1,0 +1,3 @@
+#>P	WBGene00018663	F52C6.6	F52C6.6	II	1912473	1912835	-1	MATH (meprin-associated Traf homology) domain containing  [Source:RefSeq peptide;Acc:NP_494120]
+#>E	F52C6.6.e2,F52C6.6.e1	1,1	1912470-1912680,1912729-1912835
+II	1912503	1912802	-1	MATH/TRAF_dom	73.1	1912503-1912680,1912729-1912802	PF00917	http://pfam.sanger.ac.uk/family?acc=PF00917

@@ -1,0 +1,4 @@
+#>P	YDR034C	YDR034C	YDR034C	IV	509740	512109	-1	Transcriptional activator involved in regulating lysine biosynthesis; involved in the regulation of genes of the lysine biosynthesis pathway; requires 2-aminoadipate semialdehyde as co-inducer [Source:SGD;Acc:S000002441]
+#>E	YDR034C.1	1.0	509737-512109
+IV	511528	511638	-1.0	Zn2-C6_fun-type_DNA-bd	0	511528-511638	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+IV	509791	511035	-1.0	DUF3468	0	509791-511035	PF11951	http://pfam.sanger.ac.uk/family?acc=PF11951

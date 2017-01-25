@@ -1,0 +1,4 @@
+#>P	YNL264C	YNL264C	YNL264C	XIV	145566	146615	-1	Phosphatidylinositol transfer protein (PITP); downregulates Plb1p-mediated turnover of phosphatidylcholine; forms a complex with Psd2p which appears essential for maintenance of vacuolar PE levels; found in the cytosol and microsomes; homologous to Pdr16p; deletion affects phospholipid composition [Source:SGD;Acc:S000005208]
+#>E	YNL264C.1	1.0	145563-146615
+XIV	146268	146474	-1.0	CRAL/TRIO_N_dom	0	146268-146474	PF03765	http://pfam.sanger.ac.uk/family?acc=PF03765
+XIV	145743	146192	-1.0	CRAL-TRIO_dom	0	145743-146192	PF00650	http://pfam.sanger.ac.uk/family?acc=PF00650

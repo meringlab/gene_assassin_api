@@ -1,0 +1,6 @@
+#>P	YLR032W	YLR032W	YLR032W	XII	204991	208497	1	DNA helicase/Ubiquitin ligase; involved in error-free branch of DNA damage tolerance (DDT) pathway; proposed to promote replication fork regression during postreplication repair by template switching; stimulates synthesis of free and PCNA-bound polyubiquitin chains by Ubc13p-Mms2p; required for error-prone translesion synthesis; forms nuclear foci upon DNA replication stress; associates with native telomeres, cooperates with homologous recombination in senescent cells [Source:SGD;Acc:S000004022]
+#>E	YLR032W.1	1.0	204991-208500
+XII	206308	207534	1.0	SNF2_N	0	206308-207534	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176
+XII	207730	207870	1.0	Znf_C3HC4_RING-type	0	207730-207870	PF00097	http://pfam.sanger.ac.uk/family?acc=PF00097
+XII	208111	208335	1.0	Helicase_C	0	208111-208335	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XII	205516	205845	1.0	HIP116_Rad5p_N	0	205516-205845	PF08797	http://pfam.sanger.ac.uk/family?acc=PF08797

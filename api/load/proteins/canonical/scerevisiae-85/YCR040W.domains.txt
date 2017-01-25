@@ -1,0 +1,3 @@
+#>P	YCR040W	YCR040W	YCR040W	III	200442	200966	1	Transcriptional co-activator that regulates mating-type-specific genes; targets the transcription factor Mcm1p to the promoters of alpha-specific genes; one of two genes encoded by the MATalpha mating type cassette [Source:SGD;Acc:S000000636]
+#>E	YCR040W.1	1.0	200442-200969
+III	200442	200963	1.0	MAT_alpha1	0	200442-200963	PF04769	http://pfam.sanger.ac.uk/family?acc=PF04769

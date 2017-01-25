@@ -1,0 +1,4 @@
+#>P	YLR337C	YLR337C	YLR337C	XII	802656	805106	-1	Verprolin, proline-rich actin-associated protein; involved in cytoskeletal organization and cytokinesis; promotes actin nucleation and endocytosis; related to mammalian Wiskott-Aldrich syndrome protein (WASP)-interacting protein (WIP) [Source:SGD;Acc:S000004329]
+#>E	YLR337C.1	1.0	802653-805106
+XII	804948	805022	-1.0	WH2_actin-bd	0	804948-805022	PF02205	http://pfam.sanger.ac.uk/family?acc=PF02205
+XII	804774	804854	-1.0	WH2_actin-bd	0	804774-804854	PF02205	http://pfam.sanger.ac.uk/family?acc=PF02205

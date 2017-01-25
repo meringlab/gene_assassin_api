@@ -1,0 +1,3 @@
+#>P	YML081C-A	YML081C-A	YML081C-A	XIII	103986	104162	-1	Subunit of the mitochondrial F1F0 ATP synthase; F1F0 ATP synthase is a large, evolutionarily conserved enzyme complex required for ATP synthesis; termed subunit I or subunit j; does not correspond to known ATP synthase subunits in other organisms [Source:SGD;Acc:S000007247]
+#>E	YML081C-A.1	1.0	103983-104162
+XIII	103995	104153	-1.0	ATPase_F0-cplx_jsu	0	103995-104153	PF04911	http://pfam.sanger.ac.uk/family?acc=PF04911

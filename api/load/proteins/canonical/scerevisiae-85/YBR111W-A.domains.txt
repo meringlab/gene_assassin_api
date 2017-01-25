@@ -1,0 +1,3 @@
+#>P	YBR111W-A	YBR111W-A	YBR111W-A	II	462139	462576	1	Component of both the SAGA histone acetylase and TREX-2 complexes; interacts with RNA polymerase II; involved in mRNA export coupled transcription activation and elongation; involved in post-transcriptional tethering of active genes to the nuclear periphery and to non-nascent mRNP [Source:SGD;Acc:S000028510]
+#>E	YBR111W-A.1,YBR111W-A.2,YBR111W-A.3	1,1,1	462139-462209,462290-462429,462500-462579
+II	462157	462558	1	TF_enhancer_of_yellow_2	0	462157-462209,462290-462429,462500-462558	PF10163	http://pfam.sanger.ac.uk/family?acc=PF10163

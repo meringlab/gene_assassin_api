@@ -1,0 +1,4 @@
+#>P	YDR170C	YDR170C	YDR170C	IV	796196	802222	-1	Guanine nucleotide exchange factor (GEF) for ADP ribosylation factors; involved in proliferation of the Golgi, intra-Golgi transport and ER-to-Golgi transport; found in the cytoplasm and on Golgi-associated coated vesicles [Source:SGD;Acc:S000002577]
+#>E	YDR170C.1	1.0	796193-802222
+IV	797882	798121	-1.0	DUF1981_SEC7_assoc	0	797882-798121	PF09324	http://pfam.sanger.ac.uk/family?acc=PF09324
+IV	799193	799747	-1.0	Sec7	0	799193-799747	PF01369	http://pfam.sanger.ac.uk/family?acc=PF01369

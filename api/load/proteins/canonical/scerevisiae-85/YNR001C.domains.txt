@@ -1,0 +1,3 @@
+#>P	YNR001C	YNR001C	YNR001C	XIV	629625	631061	-1	Citrate synthase; catalyzes the condensation of acetyl coenzyme A and oxaloacetate to form citrate; the rate-limiting enzyme of the TCA cycle; nuclear encoded mitochondrial protein; CIT1 has a paralog, CIT2, that arose from the whole genome duplication [Source:SGD;Acc:S000005284]
+#>E	YNR001C.1	1.0	629622-631061
+XIV	629682	630815	-1.0	Citrate_synthase-like	343.6	629682-630815	PF00285	http://pfam.sanger.ac.uk/family?acc=PF00285

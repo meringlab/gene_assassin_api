@@ -1,0 +1,4 @@
+#>P	YOL087C	YOL087C	YOL087C	XV	155290	158637	-1	Ubiquitin-binding protein of unknown function; contains one WD40 repeat in a beta-propeller fold; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; homolog of human WDR48/UAF1, which is involved in regulating the Fanconi anemia pathway; deletion mutant is sensitive to various chemicals including phenanthroline, sanguinarine, and nordihydroguaiaretic acid [Source:SGD;Acc:S000005447]
+#>E	YOL087C.1	1.0	155287-158637
+XV	155335	156492	-1.0	DUF3337	0	155335-156492	PF11816	http://pfam.sanger.ac.uk/family?acc=PF11816
+XV	157750	157863	-1.0	WD40_repeat	0	157750-157863	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

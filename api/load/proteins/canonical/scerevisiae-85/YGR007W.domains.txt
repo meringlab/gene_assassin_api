@@ -1,0 +1,4 @@
+#>P	YGR007W	YGR007W	YGR007W	VII	506969	507937	1	Ethanolamine-phosphate cytidylyltransferase; catalyzes the second step of phosphatidylethanolamine biosynthesis; involved in the maintenance of plasma membrane; similar to mammalian CTP: phosphocholine cytidylyl-transferases [Source:SGD;Acc:S000003239]
+#>E	YGR007W.1	1.0	506969-507940
+VII	507002	507391	1.0	Cytidylyltransf	0	507002-507391	PF01467	http://pfam.sanger.ac.uk/family?acc=PF01467
+VII	507569	507778	1.0	Cytidylyltransf	0	507569-507778	PF01467	http://pfam.sanger.ac.uk/family?acc=PF01467

@@ -1,0 +1,3 @@
+#>P	YJL129C	YJL129C	YJL129C	X	173602	177306	-1	Component of the Trk1p-Trk2p potassium transport system; 180 kDa high affinity potassium transporter; phosphorylated in vivo and interacts physically with the phosphatase Ppz1p, suggesting Trk1p acitivy is regulated by phosphorylation; TRK1 has a paralog, TRK2, that arose from the whole genome duplication [Source:SGD;Acc:S000003665]
+#>E	YJL129C.1	1.0	173599-177306
+X	173788	175020	-1.0	Cat_transpt	0	173788-175020	PF02386	http://pfam.sanger.ac.uk/family?acc=PF02386

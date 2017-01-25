@@ -1,0 +1,4 @@
+#>P	YGL017W	YGL017W	YGL017W	VII	459854	461362	1	Arginyl-tRNA-protein transferase; catalyzes post-translational conjugation of arginine to the amino termini of acceptor proteins which are then subject to degradation via the N-end rule pathway [Source:SGD;Acc:S000002985]
+#>E	YGL017W.1	1.0	459854-461365
+VII	459890	460198	1.0	Arg_tRNA_PTrfase_N	0	459890-460198	PF04376	http://pfam.sanger.ac.uk/family?acc=PF04376
+VII	460343	460792	1.0	Arg-tRNA-P_Trfase_C	0	460343-460792	PF04377	http://pfam.sanger.ac.uk/family?acc=PF04377

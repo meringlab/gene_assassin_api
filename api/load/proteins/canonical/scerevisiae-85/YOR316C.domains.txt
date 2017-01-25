@@ -1,0 +1,3 @@
+#>P	YOR316C	YOR316C	YOR316C	XV	906239	907555	-1	Vacuolar transporter that mediates zinc transport into the vacuole; overexpression confers resistance to cobalt and rhodium; protein abundance increases in response to DNA replication stress; COT1 has a paralog, ZRC1, that arose from the whole genome duplication [Source:SGD;Acc:S000005843]
+#>E	YOR316C.1	1.0	906236-907555
+XV	906401	907522	-1.0	Cation_efflux	0	906401-907522	PF01545	http://pfam.sanger.ac.uk/family?acc=PF01545

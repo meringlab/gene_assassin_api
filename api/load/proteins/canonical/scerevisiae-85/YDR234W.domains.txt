@@ -1,0 +1,5 @@
+#>P	YDR234W	YDR234W	YDR234W	IV	931129	933207	1	Homoaconitase; catalyzes the conversion of homocitrate to homoisocitrate, which is a step in the lysine biosynthesis pathway [Source:SGD;Acc:S000002642]
+#>E	YDR234W.1	1.0	931129-933210
+IV	931195	932103	1.0	Acoase/IPM_deHydtase_lsu_aba	0	931195-932103	PF00330	http://pfam.sanger.ac.uk/family?acc=PF00330
+IV	932086	932502	1.0	Acoase/IPM_deHydtase_lsu_aba	0	932086-932502	PF00330	http://pfam.sanger.ac.uk/family?acc=PF00330
+IV	932581	932985	1.0	AconitaseA/IPMdHydase_ssu_swvl	0	932581-932985	PF00694	http://pfam.sanger.ac.uk/family?acc=PF00694

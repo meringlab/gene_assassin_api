@@ -1,0 +1,4 @@
+#>P	YBR001C	YBR001C	YBR001C	II	238944	241283	-1	Putative neutral trehalase, required for thermotolerance; may mediate resistance to other cellular stresses; NTH2 has a paralog, NTH1, that arose from the whole genome duplication [Source:SGD;Acc:S000000205]
+#>E	YBR001C.1	1.0	238941-241283
+II	240792	240881	-1.0	Trehalase_Ca-bd	0	240792-240881	PF07492	http://pfam.sanger.ac.uk/family?acc=PF07492
+II	239034	240710	-1.0	Glyco_hydro_37	0	239034-240710	PF01204	http://pfam.sanger.ac.uk/family?acc=PF01204

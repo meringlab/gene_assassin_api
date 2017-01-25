@@ -1,0 +1,3 @@
+#>P	YGR008C	YGR008C	YGR008C	VII	508113	508364	-1	Protein involved in resistance to desiccation stress; Stf2p exhibits antioxidant properties, and its overexpression prevents ROS accumulation and apoptosis; binds to F0 sector of mitochondrial F1F0 ATPase in vitro and may modulate the inhibitory action of Inh1p and Stf1p; protein abundance increases in response to DNA replication stress; STF2 has a paralog, TMA10, that arose from the whole genome duplication [Source:SGD;Acc:S000003240]
+#>E	YGR008C.1	1.0	508110-508364
+VII	508191	508280	-1.0	HABP4_PAIRBP1-bd	0	508191-508280	PF04774	http://pfam.sanger.ac.uk/family?acc=PF04774

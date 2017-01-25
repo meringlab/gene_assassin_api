@@ -1,0 +1,4 @@
+#>P	YIL108W	YIL108W	YIL108W	IX	160887	162974	1	Putative metalloendopeptidase; forms cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000001370]
+#>E	YIL108W.1	1.0	160887-162977
+IX	162804	162962	1.0	Mannose-bd_lectin	0	162804-162962	PF01419	http://pfam.sanger.ac.uk/family?acc=PF01419
+IX	160905	162176	1.0	Unchr_Zn-peptidase-like	0	160905-162176	PF12044	http://pfam.sanger.ac.uk/family?acc=PF12044

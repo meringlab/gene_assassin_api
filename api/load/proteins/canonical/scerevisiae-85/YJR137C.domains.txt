@@ -1,0 +1,6 @@
+#>P	YJR137C	YJR137C	YJR137C	X	678960	683285	-1	Sulfite reductase beta subunit; involved in amino acid biosynthesis, transcription repressed by methionine [Source:SGD;Acc:S000003898]
+#>E	YJR137C.1	1.0	678957-683285
+X	679710	680276	-1.0	NO2/SO3_Rdtase_4Fe4S_dom	0	679710-680276	PF01077	http://pfam.sanger.ac.uk/family?acc=PF01077
+X	679440	679655	-1.0	NiRdtase/SiRdtase_haem-b_fer	0	679440-679655	PF03460	http://pfam.sanger.ac.uk/family?acc=PF03460
+X	680382	680561	-1.0	NiRdtase/SiRdtase_haem-b_fer	0	680382-680561	PF03460	http://pfam.sanger.ac.uk/family?acc=PF03460
+X	680808	681236	-1.0	Flavodoxin/NO_synth	0	680808-681236	PF00258	http://pfam.sanger.ac.uk/family?acc=PF00258

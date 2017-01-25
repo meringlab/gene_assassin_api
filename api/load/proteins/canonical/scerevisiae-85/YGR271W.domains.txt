@@ -1,0 +1,8 @@
+#>P	YGR271W	YGR271W	YGR271W	VII	1031791	1037691	1	Putative RNA helicase related to Ski2p; involved in translation inhibition of non-poly(A) mRNAs; required for repressing propagation of dsRNA viruses [Source:SGD;Acc:S000003503]
+#>E	YGR271W.1	1.0	1031791-1037694
+VII	1032658	1033197	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	1032658-1033197	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+VII	1035214	1035705	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	1035214-1035705	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+VII	1034176	1035090	1.0	Sec63-dom	0	1034176-1035090	PF02889	http://pfam.sanger.ac.uk/family?acc=PF02889
+VII	1036669	1037661	1.0	Sec63-dom	0	1036669-1037661	PF02889	http://pfam.sanger.ac.uk/family?acc=PF02889
+VII	1036078	1036314	1.0	Helicase_C	0	1036078-1036314	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+VII	1033555	1033809	1.0	Helicase_C	0	1033555-1033809	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

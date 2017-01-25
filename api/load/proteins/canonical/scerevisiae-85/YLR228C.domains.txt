@@ -1,0 +1,4 @@
+#>P	YLR228C	YLR228C	YLR228C	XII	600022	602463	-1	Sterol regulatory element binding protein; regulates transcription of sterol biosynthetic genes; contains Zn[2]-Cys[6] binuclear cluster; relocates from intracellular membranes to perinuclear foci on sterol depletion; ECM22 has a paralog, UPC2, that arose from the whole genome duplication [Source:SGD;Acc:S000004218]
+#>E	YLR228C.1	1.0	600019-602463
+XII	602224	602340	-1.0	Zn2-C6_fun-type_DNA-bd	0	602224-602340	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+XII	600562	600942	-1.0	DUF3468	0	600562-600942	PF11951	http://pfam.sanger.ac.uk/family?acc=PF11951

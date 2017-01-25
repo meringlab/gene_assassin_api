@@ -1,0 +1,4 @@
+#>P	YLR216C	YLR216C	YLR216C	XII	572099	573211	-1	Peptidyl-prolyl cis-trans isomerase (cyclophilin); catalyzes the cis-trans isomerization of peptide bonds N-terminal to proline residues; plays a role in determining prion variants; binds to Hsp82p and contributes to chaperone activity; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004206]
+#>E	YLR216C.1	1.0	572096-573211
+XII	572189	572290	-1.0	TPR-1	0	572189-572290	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+XII	572690	573193	-1.0	Cyclophilin-like_PPIase_dom	0	572690-573193	PF00160	http://pfam.sanger.ac.uk/family?acc=PF00160

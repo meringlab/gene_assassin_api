@@ -1,0 +1,3 @@
+#>P	YMR174C	YMR174C	YMR174C	XIII	610162	610365	-1	Cytoplasmic proteinase A (Pep4p) inhibitor; dependent on Pbs2p and Hog1p protein kinases for osmotic induction; intrinsically unstructured, N-terminal half becomes ordered in the active site of proteinase A upon contact [Source:SGD;Acc:S000004786]
+#>E	YMR174C.1	1.0	610159-610365
+XIII	610162	610365	-1.0	Prtase_A_inh_IA3	0	610162-610365	PF10466	http://pfam.sanger.ac.uk/family?acc=PF10466

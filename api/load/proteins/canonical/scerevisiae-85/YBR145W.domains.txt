@@ -1,0 +1,4 @@
+#>P	YBR145W	YBR145W	YBR145W	II	533762	534814	1	Alcohol dehydrogenase isoenzyme V; involved in ethanol production; ADH5 has a paralog, ADH1, that arose from the whole genome duplication [Source:SGD;Acc:S000000349]
+#>E	YBR145W.1	1.0	533762-534817
+II	533861	534181	1.0	ADH_GroES-like	0	533861-534181	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240
+II	534314	534700	1.0	ADH_C	0	534314-534700	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107

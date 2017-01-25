@@ -1,0 +1,4 @@
+#>P	YML065W	YML065W	YML065W	XIII	142210	144951	1	Largest subunit of the origin recognition complex; involved in directing DNA replication by binding to replication origins; also involved in transcriptional silencing; exhibits ATPase activity; ORC1 has a paralog, SIR3, that arose from the whole genome duplication [Source:SGD;Acc:S000004530]
+#>E	YML065W.1	1.0	142210-144954
+XIII	143632	144069	1.0	ATPase_AAA_core	0	143632-144069	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+XIII	142357	142770	1.0	BAH_dom	0	142357-142770	PF01426	http://pfam.sanger.ac.uk/family?acc=PF01426

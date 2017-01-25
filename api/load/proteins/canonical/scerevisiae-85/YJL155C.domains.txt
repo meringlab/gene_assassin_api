@@ -1,0 +1,4 @@
+#>P	YJL155C	YJL155C	YJL155C	X	129288	130643	-1	Fructose-2,6-bisphosphatase, required for glucose metabolism; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003691]
+#>E	YJL155C.1	1.0	129285-130643
+X	129972	130637	-1.0	6Phosfructo_kin	0	129972-130637	PF01591	http://pfam.sanger.ac.uk/family?acc=PF01591
+X	129522	129965	-1.0	His_Pase_superF_clade-1	0	129522-129965	PF00300	http://pfam.sanger.ac.uk/family?acc=PF00300

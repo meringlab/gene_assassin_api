@@ -1,0 +1,3 @@
+#>P	YLR418C	YLR418C	YLR418C	XII	956917	958095	-1	Component of the Paf1p complex; binds to and modulates the activity of RNA polymerases I and II; required for expression of certain genes, modification of some histones, and telomere maintenance; involved in transcription elongation as demonstrated by the G-less-based run-on (GLRO) assay; protein abundance increases in response to DNA replication stress; human homologue, parafibromin, is a tumour suppressor linked to breast, renal and gastric cancers [Source:SGD;Acc:S000004410]
+#>E	YLR418C.1	1.0	956914-958095
+XII	956926	957717	-1.0	RNA_pol_access_fac_Cdc73	0	956926-957717	PF05179	http://pfam.sanger.ac.uk/family?acc=PF05179

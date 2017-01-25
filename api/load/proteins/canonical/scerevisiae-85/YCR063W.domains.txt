@@ -1,0 +1,3 @@
+#>P	YCR063W	YCR063W	YCR063W	III	228318	228788	1	Component of the SF3b subcomplex of the U2 snRNP; increases efficiency of first and second step pre-mRNA splicing; diploid mutants display a random budding pattern instead of the wild-type bipolar pattern; facilitates passage through G1/S Start, but is not required for G2/M transition or exit from mitosis [Source:SGD;Acc:S000000659]
+#>E	YCR063W.1	1.0	228318-228791
+III	228318	228782	1.0	G10	0	228318-228782	PF01125	http://pfam.sanger.ac.uk/family?acc=PF01125

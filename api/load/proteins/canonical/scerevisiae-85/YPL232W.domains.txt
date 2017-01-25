@@ -1,0 +1,4 @@
+#>P	YPL232W	YPL232W	YPL232W	XVI	107275	108144	1	Plasma membrane t-SNARE; involved in fusion of secretory vesicles at the plasma membrane and in vesicle fusion during sporulation; forms a complex with Sec9p that binds v-SNARE Snc2p; syntaxin homolog; functionally redundant with Sso2p; SSO1 has a paralog, SSO2, that arose from the whole genome duplication [Source:SGD;Acc:S000006153]
+#>E	YPL232W.1	1.0	107275-108147
+XVI	107374	107625	1.0	Syntaxin_N	0	107374-107625	PF00804	http://pfam.sanger.ac.uk/family?acc=PF00804
+XVI	107860	108042	1.0	T_SNARE_dom	0	107860-108042	PF05739	http://pfam.sanger.ac.uk/family?acc=PF05739

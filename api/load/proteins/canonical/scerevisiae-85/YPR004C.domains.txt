@@ -1,0 +1,4 @@
+#>P	YPR004C	YPR004C	YPR004C	XVI	564010	565041	-1	Putative ortholog of mammalian ETF-alpha; interacts with frataxin, Yfh1p; null mutant displays elevated frequency of mitochondrial genome loss; may have a role in oxidative stress response; ETF-alpha is an electron transfer flavoprotein complex subunit [Source:SGD;Acc:S000006208]
+#>E	YPR004C.1	1.0	564007-565041
+XVI	564130	564387	-1.0	ETF_asu_C	0	564130-564387	PF00766	http://pfam.sanger.ac.uk/family?acc=PF00766
+XVI	564496	564969	-1.0	ETF_a/b_N	0	564496-564969	PF01012	http://pfam.sanger.ac.uk/family?acc=PF01012

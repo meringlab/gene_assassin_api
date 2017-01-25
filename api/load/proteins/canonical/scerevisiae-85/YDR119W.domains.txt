@@ -1,0 +1,3 @@
+#>P	YDR119W	YDR119W	YDR119W	IV	688227	690530	1	Protein of unknown function; proposed role as a basic amino acid permease based on phylogeny; GFP-fusion protein localizes to vacuolar membrane; physical interaction with Atg27p suggests a possible role in autophagy; non-essential gene [Source:SGD;Acc:S000002526]
+#>E	YDR119W.1	1.0	688227-690533
+IV	689001	690224	1.0	MFS	0	689001-690224	PF07690	http://pfam.sanger.ac.uk/family?acc=PF07690

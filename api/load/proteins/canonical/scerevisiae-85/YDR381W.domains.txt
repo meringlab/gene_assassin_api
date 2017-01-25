@@ -1,0 +1,3 @@
+#>P	YDR381W	YDR381W	YDR381W	IV	1236558	1238001	1	Nuclear polyadenylated RNA-binding protein; required for export of poly(A)+ mRNA from the nucleus; proposed to couple mRNA export with 3' end processing via its interactions with Mex67p and Pcf11p; interacts with DBP2; inhibits the helicase activity of Dbp2; functionally redundant with Yra2p, another REF family member [Source:SGD;Acc:S000002789]
+#>E	YDR381W.1,YDR381W.2	1,1	1236558-1236842,1237609-1238004
+IV	1236801	1237761	1	RRM_dom	0	1236801-1236842,1237609-1237761	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

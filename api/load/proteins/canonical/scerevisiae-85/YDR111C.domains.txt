@@ -1,0 +1,3 @@
+#>P	YDR111C	YDR111C	YDR111C	IV	678244	679764	-1	Catalytically inactive alanine transaminase; expression is repressed in the presence of alanine and repression is mediated by Nrg1p; ALT2 has a paralog, ALT1, that arose from the whole genome duplication [Source:SGD;Acc:S000002518]
+#>E	YDR111C.1	1.0	678241-679764
+IV	678304	679431	-1.0	Aminotransferase_I/II	124.8	678304-679431	PF00155	http://pfam.sanger.ac.uk/family?acc=PF00155

@@ -1,0 +1,7 @@
+#>P	YOR034C	YOR034C	YOR034C	XV	394840	397086	-1	Ankyrin repeat-containing protein; member of a family of putative palmitoyltransferases containing an Asp-His-His-Cys-cysteine rich (DHHC-CRD) domain; possibly involved in constitutive endocytosis of Ste3p; AKR2 has a paralog, AKR1, that arose from the whole genome duplication [Source:SGD;Acc:S000005560]
+#>E	YOR034C.1	1.0	394837-397086
+XV	395347	395865	-1.0	Znf_DHHC_palmitoyltrfase	0	395347-395865	PF01529	http://pfam.sanger.ac.uk/family?acc=PF01529
+XV	396751	396825	-1.0	Ankyrin_rpt	0	396751-396825	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+XV	396442	396522	-1.0	Ankyrin_rpt	0	396442-396522	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+XV	396643	396735	-1.0	Ankyrin_rpt	0	396643-396735	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+XV	396328	396420	-1.0	Ankyrin_rpt	0	396328-396420	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023

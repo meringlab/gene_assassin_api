@@ -1,0 +1,3 @@
+#>P	YPL120W	YPL120W	YPL120W	XVI	322071	323741	1	Subunit of phosphatidylinositol (PtdIns) 3-kinase complexes I and II; Complex I is essential in autophagy and Complex II is required for vacuolar protein sorting; required for overflow degradation of misfolded proteins when ERAD is saturated; C-terminus has a novel globular fold that is essential for autophagy through the targeting of the PI3-kinase complex I to the pre-autophagosomal structure; ortholog of the higher eukaryotic gene Beclin 1 [Source:SGD;Acc:S000006041]
+#>E	YPL120W.1	1.0	322071-323744
+XVI	322548	323690	1.0	Autophagy-rel_prot_6	0	322548-323690	PF04111	http://pfam.sanger.ac.uk/family?acc=PF04111

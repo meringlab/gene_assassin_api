@@ -1,0 +1,6 @@
+#>P	YCR089W	YCR089W	YCR089W	III	267434	272260	1	Cell wall adhesin, expressed specifically during mating; may be involved in maintenance of cell wall integrity during mating; FIG2 has a paralog, AGA1, that arose from the whole genome duplication [Source:SGD;Acc:S000000685]
+#>E	YCR089W.1	1.0	267434-272263
+III	268700	268825	1.0	Flocculin_t3_rpt	0	268700-268825	PF13928	http://pfam.sanger.ac.uk/family?acc=PF13928
+III	270884	270961	1.0	Flocculin_t3_rpt	0	270884-270961	PF13928	http://pfam.sanger.ac.uk/family?acc=PF13928
+III	269597	269746	1.0	Flocculin_t3_rpt	0	269597-269746	PF13928	http://pfam.sanger.ac.uk/family?acc=PF13928
+III	269027	269152	1.0	Flocculin_t3_rpt	0	269027-269152	PF13928	http://pfam.sanger.ac.uk/family?acc=PF13928

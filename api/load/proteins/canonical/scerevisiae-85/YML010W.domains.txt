@@ -1,0 +1,5 @@
+#>P	YML010W	YML010W	YML010W	XIII	247677	250865	1	Component of the universally conserved Spt4/5 complex (DSIF complex); the complex has multiple roles in concert with RNA polymerases I and II, including regulation of transcription elongation, RNA processing, quality control, and transcription-coupled DNA repair [Source:SGD;Acc:S000004470]
+#>E	YML010W.1	1.0	247677-250868
+XIII	250080	250172	1.0	KOW	0	250080-250172	PF00467	http://pfam.sanger.ac.uk/family?acc=PF00467
+XIII	248535	248792	1.0	TF_Spt5_NGN-domain	0	248535-248792	PF03439	http://pfam.sanger.ac.uk/family?acc=PF03439
+XIII	248214	248516	1.0	Spt5_N	0	248214-248516	PF11942	http://pfam.sanger.ac.uk/family?acc=PF11942

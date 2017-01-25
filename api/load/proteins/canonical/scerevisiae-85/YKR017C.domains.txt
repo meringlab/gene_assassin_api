@@ -1,0 +1,5 @@
+#>P	YKR017C	YKR017C	YKR017C	XI	471697	473349	-1	RING finger ubiquitin ligase (E3); involved in ubiquitylation and degradation of excess histones; interacts with Ubc4p and Rad53p; null mutant sensitive to hydroxyurea (HU) [Source:SGD;Acc:S000001725]
+#>E	YKR017C.1	1.0	471694-473349
+XI	472408	472617	-1.0	Znf_C6HC	0	472408-472617	PF01485	http://pfam.sanger.ac.uk/family?acc=PF01485
+XI	472216	472338	-1.0	Znf_C6HC	0	472216-472338	PF01485	http://pfam.sanger.ac.uk/family?acc=PF01485
+XI	472681	472815	-1.0	Znf_C3HC4_RING-type	0	472681-472815	PF00097	http://pfam.sanger.ac.uk/family?acc=PF00097

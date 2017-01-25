@@ -1,0 +1,3 @@
+#>P	YGR040W	YGR040W	YGR040W	VII	575398	576501	1	Mitogen-activated protein kinase (MAPK); involved in signal transduction pathways that control filamentous growth and pheromone response; the KSS1 gene is nonfunctional in S288C strains and functional in W303 strains [Source:SGD;Acc:S000003272]
+#>E	YGR040W.1	1.0	575398-576504
+VII	575434	576336	1.0	Prot_kinase_cat_dom	0	575434-576336	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

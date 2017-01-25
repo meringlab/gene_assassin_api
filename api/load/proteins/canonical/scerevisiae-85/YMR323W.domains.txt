@@ -1,0 +1,4 @@
+#>P	YMR323W	YMR323W	YMR323W	XIII	920088	921398	1	Enolase, a phosphopyruvate hydratase; catalyzes the conversion of 2-phosphoglycerate to phosphoenolpyruvate; complements the growth defect of an ENO1 ENO2 double mutant in glucose [Source:SGD;Acc:S000004942]
+#>E	YMR323W.1	1.0	920088-921401
+XIII	920520	921383	1.0	Enolase_C	0	920520-921383	PF00113	http://pfam.sanger.ac.uk/family?acc=PF00113
+XIII	920094	920489	1.0	Enolase_N	0	920094-920489	PF03952	http://pfam.sanger.ac.uk/family?acc=PF03952

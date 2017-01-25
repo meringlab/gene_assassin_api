@@ -1,0 +1,4 @@
+#>P	YFL023W	YFL023W	YFL023W	VI	90986	93373	1	Unconventional prefoldin protein involved in translation initiation; required for correct assembly of RNAP I, II, and III in an Rpb5p-dependent manner; shuttles between nucleus and cytoplasm; mutants have inappropriate expression of nutrient sensitive genes due to translational derepression of Gcn4p transcription factor; diploid mutants show random budding; ortholog of human URI/RMP [Source:SGD;Acc:S000001871]
+#>E	YFL023W.1	1.0	90986-93376
+VI	91010	91354	1.0	Prefoldin_subunit	0	91010-91354	PF02996	http://pfam.sanger.ac.uk/family?acc=PF02996
+VI	93116	93355	1.0	DUF3835	0	93116-93355	PF12927	http://pfam.sanger.ac.uk/family?acc=PF12927

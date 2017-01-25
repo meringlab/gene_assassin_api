@@ -1,0 +1,3 @@
+#>P	YKL056C	YKL056C	YKL056C	XI	334415	334915	-1	Protein that associates with ribosomes; homolog of translationally controlled tumor protein; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm and relocates to the mitochondrial outer surface upon oxidative stress [Source:SGD;Acc:S000001539]
+#>E	YKL056C.1	1.0	334412-334915
+XI	334424	334915	-1.0	Translational_control_tumour_p	0	334424-334915	PF00838	http://pfam.sanger.ac.uk/family?acc=PF00838

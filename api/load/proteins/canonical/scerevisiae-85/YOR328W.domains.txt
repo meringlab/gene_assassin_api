@@ -1,0 +1,7 @@
+#>P	YOR328W	YOR328W	YOR328W	XV	931803	936494	1	ATP-binding cassette (ABC) transporter; multidrug transporter involved in the pleiotropic drug resistance network; regulated by Pdr1p and Pdr3p [Source:SGD;Acc:S000005855]
+#>E	YOR328W.1	1.0	931803-936497
+XV	933372	934007	1.0	ABC_2_trans	0	933372-934007	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+XV	935520	936170	1.0	ABC_2_trans	0	935520-936170	PF01061	http://pfam.sanger.ac.uk/family?acc=PF01061
+XV	934698	935081	1.0	ABC_transporter-like	0	934698-935081	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XV	932460	932870	1.0	ABC_transporter-like	0	932460-932870	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XV	934032	934331	1.0	PDR_CDR_ABC	0	934032-934331	PF06422	http://pfam.sanger.ac.uk/family?acc=PF06422

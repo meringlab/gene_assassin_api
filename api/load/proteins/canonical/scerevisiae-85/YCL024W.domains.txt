@@ -1,0 +1,3 @@
+#>P	YCL024W	YCL024W	YCL024W	III	79162	82272	1	Protein kinase of the bud neck involved in the septin checkpoint; associates with septin proteins, negatively regulates Swe1p by phosphorylation, shows structural homology to bud neck kinases Gin4p and Hsl1p; KCC4 has a paralog, GIN4, that arose from the whole genome duplication [Source:SGD;Acc:S000000529]
+#>E	YCL024W.1	1.0	79162-82275
+III	79222	80013	1.0	Prot_kinase_cat_dom	0	79222-80013	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

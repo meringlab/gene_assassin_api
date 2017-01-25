@@ -1,0 +1,3 @@
+#>P	YER131W	YER131W	YER131W	V	423952	424308	1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S26, no bacterial homolog; RPS26B has a paralog, RPS26A, that arose from the whole genome duplication [Source:SGD;Acc:S000000933]
+#>E	YER131W.1	1.0	423952-424311
+V	423952	424278	1.0	Ribosomal_S26e	169.6	423952-424278	PF01283	http://pfam.sanger.ac.uk/family?acc=PF01283

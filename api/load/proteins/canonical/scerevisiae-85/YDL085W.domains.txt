@@ -1,0 +1,4 @@
+#>P	YDL085W	YDL085W	YDL085W	IV	303211	304845	1	Mitochondrial external NADH dehydrogenase; catalyzes the oxidation of cytosolic NADH; Nde1p and Nde2p are involved in providing the cytosolic NADH to the mitochondrial respiratory chain; NDE2 has a paralog, NDE1, that arose from the whole genome duplication [Source:SGD;Acc:S000002243]
+#>E	YDL085W.1	1.0	303211-304848
+IV	303994	304233	1.0	Pyr_OxRdtase_NAD-bd_dom	0	303994-304233	PF00070	http://pfam.sanger.ac.uk/family?acc=PF00070
+IV	303508	303927	1.0	Pyr_nucl-diS_OxRdtase_FAD/NAD	0	303508-303927	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992

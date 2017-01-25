@@ -1,0 +1,7 @@
+#>P	YOR093C	YOR093C	YOR093C	XV	497509	502452	-1	Putative protein of unknown function; deletion causes sensitivity to unfolded protein response-inducing agents [Source:SGD;Acc:S000005619]
+#>E	YOR093C.1	1.0	497506-502452
+XV	502093	502437	-1.0	DMAP1-bd	0	502093-502437	PF06464	http://pfam.sanger.ac.uk/family?acc=PF06464
+XV	497992	498888	-1.0	AMP-dep_Synth/Lig	0	497992-498888	PF00501	http://pfam.sanger.ac.uk/family?acc=PF00501
+XV	500521	500733	-1.0	AMP-dep_Synth/Lig	0	500521-500733	PF00501	http://pfam.sanger.ac.uk/family?acc=PF00501
+XV	501361	501876	-1.0	AMP-dep_Synth/Lig	0	501361-501876	PF00501	http://pfam.sanger.ac.uk/family?acc=PF00501
+XV	499093	499329	-1.0	AMP-dep_Synth/Lig	0	499093-499329	PF00501	http://pfam.sanger.ac.uk/family?acc=PF00501

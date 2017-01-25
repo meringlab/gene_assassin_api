@@ -1,0 +1,4 @@
+#>P	YDR353W	YDR353W	YDR353W	IV	1183299	1184255	1	Cytoplasmic thioredoxin reductase; key regulatory enzyme that determines the redox state of the thioredoxin system, which acts as a disulfide reductase system and protects cells against both oxidative and reductive stress; protein abundance increases in response to DNA replication stress; TRR1 has a paralog, TRR2, that arose from the whole genome duplication [Source:SGD;Acc:S000002761]
+#>E	YDR353W.1	1.0	1183299-1184258
+IV	1183767	1183970	1.0	Pyr_OxRdtase_NAD-bd_dom	0	1183767-1183970	PF00070	http://pfam.sanger.ac.uk/family?acc=PF00070
+IV	1183311	1184177	1.0	Pyr_nucl-diS_OxRdtase_FAD/NAD	0	1183311-1184177	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992

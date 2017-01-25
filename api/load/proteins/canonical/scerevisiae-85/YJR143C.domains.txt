@@ -1,0 +1,4 @@
+#>P	YJR143C	YJR143C	YJR143C	X	698329	700614	-1	Protein O-mannosyltransferase; transfers mannose residues from dolichyl phosphate-D-mannose to protein serine/threonine residues; appears to form homodimers in vivo and does not complex with other Pmt proteins; target for new antifungals [Source:SGD;Acc:S000003904]
+#>E	YJR143C.1	1.0	698326-700614
+X	699700	700443	-1.0	Glyco_trans_39	0	699700-700443	PF02366	http://pfam.sanger.ac.uk/family?acc=PF02366
+X	699055	699567	-1.0	MIR_motif	0	699055-699567	PF02815	http://pfam.sanger.ac.uk/family?acc=PF02815

@@ -1,0 +1,5 @@
+#>P	YDR246W	YDR246W	YDR246W	IV	954288	954944	1	Core component of transport protein particle (TRAPP) complexes I-III; TRAPP complexes are related multimeric guanine nucleotide-exchange factor for the GTPase Ypt1p, regulating ER-Golgi traffic (TRAPPI), intra-Golgi traffic (TRAPPII), endosome-Golgi traffic (TRAPPII and III) and autophagy (TRAPPIII); human homolog is TRAPPC4 [Source:SGD;Acc:S000002654]
+#>E	YDR246W.1	1.0	954288-954947
+IV	954630	954728	1.0	Sybindin	0	954630-954728	PF04099	http://pfam.sanger.ac.uk/family?acc=PF04099
+IV	954801	954938	1.0	Sybindin	0	954801-954938	PF04099	http://pfam.sanger.ac.uk/family?acc=PF04099
+IV	954300	954455	1.0	Sybindin	0	954300-954455	PF04099	http://pfam.sanger.ac.uk/family?acc=PF04099

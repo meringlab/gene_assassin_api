@@ -1,0 +1,7 @@
+#>P	YJR066W	YJR066W	YJR066W	X	559416	566825	1	PIK-related protein kinase and rapamycin target; subunit of TORC1, a complex that controls growth in response to nutrients by regulating translation, transcription, ribosome biogenesis, nutrient transport and autophagy; involved in meiosis; TOR1 has a paralog, TOR2, that arose from the whole genome duplication [Source:SGD;Acc:S000003827]
+#>E	YJR066W.1	1.0	559416-566828
+X	563796	564950	1.0	PIK-rel_kinase_FAT	0	563796-564950	PF02259	http://pfam.sanger.ac.uk/family?acc=PF02259
+X	566730	566825	1.0	FATC	0	566730-566825	PF02260	http://pfam.sanger.ac.uk/family?acc=PF02260
+X	565269	565568	1.0	FKBP_rapamycin-assoc_FKBP12-bd	0	565269-565568	PF08771	http://pfam.sanger.ac.uk/family?acc=PF08771
+X	565770	566513	1.0	PI3/4_kinase_cat_dom	0	565770-566513	PF00454	http://pfam.sanger.ac.uk/family?acc=PF00454
+X	561894	562373	1.0	DUF3385_TOR	0	561894-562373	PF11865	http://pfam.sanger.ac.uk/family?acc=PF11865

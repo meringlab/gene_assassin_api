@@ -1,0 +1,8 @@
+#>P	YLL013C	YLL013C	YLL013C	XII	122078	124714	-1	Protein of the mitochondrial outer surface; links the Arp2/3 complex with the mitochore during anterograde mitochondrial movement; also binds to and promotes degradation of mRNAs for select nuclear-encoded mitochondrial proteins [Source:SGD;Acc:S000003936]
+#>E	YLL013C.1	1.0	122075-124714
+XII	122897	122992	-1.0	Pumilio_RNA-bd_rpt	0	122897-122992	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+XII	122693	122779	-1.0	Pumilio_RNA-bd_rpt	0	122693-122779	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+XII	122567	122668	-1.0	Pumilio_RNA-bd_rpt	0	122567-122668	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+XII	122333	122428	-1.0	Pumilio_RNA-bd_rpt	0	122333-122428	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+XII	122492	122563	-1.0	Pumilio_RNA-bd_rpt	0	122492-122563	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+XII	122795	122884	-1.0	Pumilio_RNA-bd_rpt	0	122795-122884	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806

@@ -1,0 +1,3 @@
+#>P	YBR263W	YBR263W	YBR263W	II	736264	737733	1	Mitochondrial serine hydroxymethyltransferase; converts serine to glycine plus 5,10 methylenetetrahydrofolate; involved in generating precursors for purine, pyrimidine, amino acid, and lipid biosynthesis; reverse reaction generates serine [Source:SGD;Acc:S000000467]
+#>E	YBR263W.1	1.0	736264-737736
+II	736363	737559	1.0	Ser_HO-MeTrfase	0	736363-737559	PF00464	http://pfam.sanger.ac.uk/family?acc=PF00464

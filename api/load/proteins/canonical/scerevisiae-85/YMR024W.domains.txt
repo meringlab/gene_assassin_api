@@ -1,0 +1,4 @@
+#>P	YMR024W	YMR024W	YMR024W	XIII	321875	323044	1	Mitochondrial ribosomal protein of the large subunit; located in close proximity to the polypeptide exit channel of the ribosome; mutations in human homolog MRPL44 cause childhood cardiomyopathy; human MRPL44 deficiency results in inefficient assembly of the mitochondrial ribosome, and in tissue-specific respiratory chain deficiency, manifesting as either Complex I+Complex IV or Complex IV deficiency, depending on a cell type [Source:SGD;Acc:S000004626]
+#>E	YMR024W.1	1.0	321875-323047
+XIII	322787	322975	1.0	Ds-RNA-bd	0	322787-322975	PF00035	http://pfam.sanger.ac.uk/family?acc=PF00035
+XIII	322334	322681	1.0	RNase_III	0	322334-322681	PF00636	http://pfam.sanger.ac.uk/family?acc=PF00636

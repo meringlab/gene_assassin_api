@@ -1,0 +1,3 @@
+#>P	YPL016W	YPL016W	YPL016W	XVI	521014	524955	1	Subunit of the SWI/SNF chromatin remodeling complex; regulates transcription by remodeling chromatin; required for transcription of many genes, including ADH1, ADH2, GAL1, HO, INO1 and SUC2; can form the prion [SWI+]; human homolog ARID1A is a candidate tumor suppressor gene in breast cancer [Source:SGD;Acc:S000005937]
+#>E	YPL016W.1	1.0	521014-524958
+XVI	522226	522480	1.0	ARID/BRIGHT_DNA-bd	0	522226-522480	PF01388	http://pfam.sanger.ac.uk/family?acc=PF01388

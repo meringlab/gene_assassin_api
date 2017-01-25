@@ -1,0 +1,4 @@
+#>P	YFR009W	YFR009W	YFR009W	VI	162488	164743	1	Positive regulator of the Gcn2p kinase activity; forms a complex with Gcn1p; proposed to stimulate Gcn2p activation by an uncharged tRNA [Source:SGD;Acc:S000001905]
+#>E	YFR009W.1	1.0	162488-164746
+VI	163202	163675	1.0	ABC_transporter-like	0	163202-163675	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+VI	164201	164524	1.0	ABC_transporter-like	0	164201-164524	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

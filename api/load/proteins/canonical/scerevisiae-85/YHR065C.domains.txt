@@ -1,0 +1,4 @@
+#>P	YHR065C	YHR065C	YHR065C	VIII	227535	229037	-1	Protein involved in rRNA processing; required for maturation of the 35S primary transcript of pre-rRNA and for cleavage leading to mature 18S rRNA; homologous to eIF-4a, which is a DEAD box RNA-dependent ATPase with helicase activity [Source:SGD;Acc:S000001107]
+#>E	YHR065C.1	1.0	227532-229037
+VIII	227790	228014	-1.0	Helicase_C	0	227790-228014	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+VIII	228219	228725	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	228219-228725	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

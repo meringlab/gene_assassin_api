@@ -1,0 +1,4 @@
+#>P	YML085C	YML085C	YML085C	XIII	97944	99400	-1	Alpha-tubulin; associates with beta-tubulin (Tub2p) to form tubulin dimer, which polymerizes to form microtubules; relative distribution to nuclear foci increases upon DNA replication stress; TUB1 has a paralog, TUB3, that arose from the whole genome duplication [Source:SGD;Acc:S000004550]
+#>E	YML085C.2,YML085C.1	1,1	97941-99259,99376-99400
+XIII	98106	98495	-1	Tubulin/FtsZ_2-layer-sand-dom	0	98106-98495	PF03953	http://pfam.sanger.ac.uk/family?acc=PF03953
+XIII	98607	99394	-1	Tubulin_FtsZ_GTPase	0	98607-99259,99376-99394	PF00091	http://pfam.sanger.ac.uk/family?acc=PF00091

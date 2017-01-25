@@ -1,0 +1,4 @@
+#>P	YNL182C	YNL182C	YNL182C	XIV	295963	297627	-1	Component of the Rix1 complex and pre-replicative complexes (pre-RCs); required for processing of ITS2 sequences from 35S pre-rRNA; component of the pre-60S ribosomal particle with the dynein-related AAA-type ATPase Mdn1p; required for pre-RC formation and maintenance during DNA replication licensing; highly conserved protein which contains several WD40 motifs; IPI3 is an essential gene; other members include Rix1p, Ipi1p, and Ipi3p [Source:SGD;Acc:S000005126]
+#>E	YNL182C.1	1.0	295960-297627
+XIV	296953	297090	-1.0	WD40_repeat	0	296953-297090	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIV	297130	297219	-1.0	WD40_repeat	0	297130-297219	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

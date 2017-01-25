@@ -1,0 +1,5 @@
+#>P	YLR214W	YLR214W	YLR214W	XII	568567	570624	1	Ferric reductase and cupric reductase; reduces siderophore-bound iron and oxidized copper prior to uptake by transporters; expression induced by low copper and iron levels [Source:SGD;Acc:S000004204]
+#>E	YLR214W.1	1.0	568567-570627
+XII	569347	569688	1.0	Flavoprotein_TM	0	569347-569688	PF01794	http://pfam.sanger.ac.uk/family?acc=PF01794
+XII	570148	570561	1.0	Fe_red_NAD-bd_6	0	570148-570561	PF08030	http://pfam.sanger.ac.uk/family?acc=PF08030
+XII	569806	570123	1.0	FAD-bd_8	0	569806-570123	PF08022	http://pfam.sanger.ac.uk/family?acc=PF08022

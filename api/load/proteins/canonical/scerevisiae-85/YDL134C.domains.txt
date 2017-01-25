@@ -1,0 +1,3 @@
+#>P	YDL134C	YDL134C	YDL134C	IV	219665	220771	-1	Catalytic subunit of protein phosphatase 2A (PP2A); functionally redundant with Pph22p; methylated at C terminus; forms alternate complexes with several regulatory subunits; involved in signal transduction and regulation of mitosis; forms nuclear foci upon DNA replication stress; PPH21 has a paralog, PPH22, that arose from the whole genome duplication [Source:SGD;Acc:S000002292]
+#>E	YDL134C.1	1.0	219662-220771
+IV	219863	220441	-1.0	Metallo_PEstase_dom	0	219863-220441	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149

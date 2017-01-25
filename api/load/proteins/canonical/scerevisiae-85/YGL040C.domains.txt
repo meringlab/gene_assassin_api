@@ -1,0 +1,3 @@
+#>P	YGL040C	YGL040C	YGL040C	VII	419530	420555	-1	Aminolevulinate dehydratase; a homo-octameric enzyme, catalyzes the conversion of 5-aminolevulinate to porphobilinogen, the second step in heme biosynthesis; enzymatic activity is zinc-dependent; localizes to the cytoplasm and nucleus [Source:SGD;Acc:S000003008]
+#>E	YGL040C.1	1.0	419527-420555
+VII	419542	420492	-1.0	Porphobilinogen_synth	0	419542-420492	PF00490	http://pfam.sanger.ac.uk/family?acc=PF00490

@@ -1,0 +1,4 @@
+#>P	YMR277W	YMR277W	YMR277W	XIII	820256	822451	1	Carboxy-terminal domain (CTD) phosphatase; essential for dephosphorylation of the repeated C-terminal domain of the RNA polymerase II large subunit (Rpo21p); relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000004890]
+#>E	YMR277W.1	1.0	820256-822454
+XIII	821753	821995	1.0	BRCT	0	821753-821995	PF00533	http://pfam.sanger.ac.uk/family?acc=PF00533
+XIII	820781	821281	1.0	NIF	0	820781-821281	PF03031	http://pfam.sanger.ac.uk/family?acc=PF03031

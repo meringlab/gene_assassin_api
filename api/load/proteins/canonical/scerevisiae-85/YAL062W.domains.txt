@@ -1,0 +1,4 @@
+#>P	YAL062W	YAL062W	YAL062W	I	31567	32937	1	NADP(+)-dependent glutamate dehydrogenase; synthesizes glutamate from ammonia and alpha-ketoglutarate; rate of alpha-ketoglutarate utilization differs from Gdh1p; expression regulated by nitrogen and carbon sources; GDH3 has a paralog, GDH1, that arose from the whole genome duplication [Source:SGD;Acc:S000000058]
+#>E	YAL062W.1	1.0	31567-32940
+I	32119	32928	1.0	Glu/Leu/Phe/Val_DH_C	0	32119-32928	PF00208	http://pfam.sanger.ac.uk/family?acc=PF00208
+I	31684	32070	1.0	Glu/Leu/Phe/Val_DH_dimer_dom	0	31684-32070	PF02812	http://pfam.sanger.ac.uk/family?acc=PF02812

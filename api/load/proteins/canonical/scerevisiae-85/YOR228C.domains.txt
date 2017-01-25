@@ -1,0 +1,4 @@
+#>P	YOR228C	YOR228C	YOR228C	XV	766872	767777	-1	Mitochondrial protein of unknown function involved in lipid homeostasis; integral membrane protein that localizes to the mitochondrial outer membrane; involved in mitochondrial morphology; interacts genetically with MDM10, and other members of the ERMES complex; contains five predicted transmembrane domains [Source:SGD;Acc:S000005754]
+#>E	YOR228C.1	1.0	766869-767777
+XV	766917	767237	-1.0	DUF1691	0	766917-767237	PF07950	http://pfam.sanger.ac.uk/family?acc=PF07950
+XV	767244	767579	-1.0	DUF1691	0	767244-767579	PF07950	http://pfam.sanger.ac.uk/family?acc=PF07950

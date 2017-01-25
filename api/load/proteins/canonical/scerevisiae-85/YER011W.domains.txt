@@ -1,0 +1,4 @@
+#>P	YER011W	YER011W	YER011W	V	175248	176009	1	Cell wall mannoprotein; expression is downregulated at acidic pH and induced by cold shock and anaerobiosis; abundance is increased in cells cultured without shaking; member of the Srp1p/Tip1p family of serine-alanine-rich proteins [Source:SGD;Acc:S000000813]
+#>E	YER011W.1	1.0	175248-176012
+V	175878	175928	1.0	Yeast_PIR	0	175878-175928	PF00399	http://pfam.sanger.ac.uk/family?acc=PF00399
+V	175281	175601	1.0	SRP1_TIP1	0	175281-175601	PF00660	http://pfam.sanger.ac.uk/family?acc=PF00660

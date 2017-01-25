@@ -1,0 +1,3 @@
+#>P	YJR110W	YJR110W	YJR110W	X	633615	635678	1	Phosphatidylinositol 3-phosphate (PI3P) phosphatase; involved in various protein sorting pathways, including CVT targeting and endosome to vacuole transport; has similarity to the conserved myotubularin dual specificity phosphatase family [Source:SGD;Acc:S000003871]
+#>E	YJR110W.1	1.0	633615-635681
+X	634176	634520	1.0	Myotub-related	0	634176-634520	PF06602	http://pfam.sanger.ac.uk/family?acc=PF06602

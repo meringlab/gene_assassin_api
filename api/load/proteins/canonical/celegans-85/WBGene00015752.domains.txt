@@ -1,0 +1,5 @@
+#>P	WBGene00015752	C14B9.2	C14B9.2	III	8133675	8136401	1	Probable protein disulfide-isomerase A4  [Source:UniProtKB/Swiss-Prot;Acc:P34329]
+#>E	C14B9.2.e1,C14B9.2.e2,C14B9.2.e3	1,1,1	8133675-8133865,8134233-8135796,8136303-8136404
+III	8134486	8134794	1	Thioredoxin_domain	326	8134486-8134794	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085
+III	8133786	8134446	1	Thioredoxin_domain	326	8133786-8133865,8134233-8134446	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085
+III	8135542	8136368	1	Thioredoxin_domain	326	8135542-8135796,8136303-8136368	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085

@@ -1,0 +1,3 @@
+#>P	YLR128W	YLR128W	YLR128W	XII	398530	399430	1	Scaffold-type E3 ligase; required for cullin neddylation and ubiquitin ligase activation; contains a ubiquitin-binding domain (UBA) for ubiquitin and Nedd8 (Rub1p) interaction and a PONY domain involved in cullin binding and neddylation [Source:SGD;Acc:S000004118]
+#>E	YLR128W.1,YLR128W.2	1,1	398530-398532,398627-399433
+XII	399047	399418	1	DUF298	0	399047-399418	PF03556	http://pfam.sanger.ac.uk/family?acc=PF03556

@@ -1,0 +1,4 @@
+#>P	YHR032W	YHR032W	YHR032W	VIII	173344	175086	1	Member of the multi-drug and toxin extrusion (MATE) family; the MATE family is part of the multidrug/oligosaccharidyl-lipid/polysaccharide (MOP) exporter superfamily; overproduction confers ethionine resistance and accumulation of S-adenosylmethionine [Source:SGD;Acc:S000001074]
+#>E	YHR032W.1	1.0	173344-175089
+VIII	173863	174348	1.0	MATE	0	173863-174348	PF01554	http://pfam.sanger.ac.uk/family?acc=PF01554
+VIII	174562	174975	1.0	MATE	0	174562-174975	PF01554	http://pfam.sanger.ac.uk/family?acc=PF01554

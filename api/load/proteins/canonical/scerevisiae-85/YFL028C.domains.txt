@@ -1,0 +1,3 @@
+#>P	YFL028C	YFL028C	YFL028C	VI	79347	80213	-1	Part of evolutionarily-conserved CCR4-NOT regulatory complex; contains single ABC-type ATPase domain but no transmembrane domain; interacts with several subunits of Mediator [Source:SGD;Acc:S000001866]
+#>E	YFL028C.1	1.0	79344-80213
+VI	79686	80072	-1.0	ABC_transporter-like	0	79686-80072	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

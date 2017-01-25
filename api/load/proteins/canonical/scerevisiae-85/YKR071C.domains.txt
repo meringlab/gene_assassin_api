@@ -1,0 +1,3 @@
+#>P	YKR071C	YKR071C	YKR071C	XI	574937	575980	-1	Component of the cytosolic Fe-S protein assembly (CIA) machinery; contains an Fe-S cluster that receives electrons from NADPH via the action of Tah18pin an early step in the CIA pathway; ortholog of human Ciapin1; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001779]
+#>E	YKR071C.1	1.0	574934-575980
+XI	574958	575251	-1.0	CIAPIN1	0	574958-575251	PF05093	http://pfam.sanger.ac.uk/family?acc=PF05093

@@ -1,0 +1,3 @@
+#>P	YKR013W	YKR013W	YKR013W	XI	463959	464945	1	Sterol binding protein involved in the export of acetylated sterols; secreted glycoprotein and member of the CAP protein superfamily (cysteine-rich secretory proteins (CRISP), antigen 5, and pathogenesis related 1 proteins); sterol export function is redundant with that of PRY1; may be involved in detoxification of hydrophobic compounds; PRY2 has a paralog, PRY1, that arose from the whole genome duplication [Source:SGD;Acc:S000001721]
+#>E	YKR013W.1	1.0	463959-464948
+XI	464547	464891	1.0	CAP_domain	0	464547-464891	PF00188	http://pfam.sanger.ac.uk/family?acc=PF00188

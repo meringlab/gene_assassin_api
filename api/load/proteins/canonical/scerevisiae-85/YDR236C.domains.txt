@@ -1,0 +1,3 @@
+#>P	YDR236C	YDR236C	YDR236C	IV	935239	935892	-1	Riboflavin kinase, produces riboflavin monophosphate (FMN); FMN is a necessary cofactor for many enzymes; predominantly localizes to the microsomal fraction and also found in the mitochondrial inner membrane [Source:SGD;Acc:S000002644]
+#>E	YDR236C.1	1.0	935236-935892
+IV	935275	935724	-1.0	Riboflavin_kinase_bac/euk	0	935275-935724	PF01687	http://pfam.sanger.ac.uk/family?acc=PF01687

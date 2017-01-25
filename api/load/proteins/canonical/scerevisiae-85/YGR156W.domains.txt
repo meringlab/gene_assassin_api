@@ -1,0 +1,3 @@
+#>P	YGR156W	YGR156W	YGR156W	VII	800546	801820	1	Essential component of CPF (cleavage and polyadenylation factor); involved in 3' end formation of snoRNA and mRNA; interacts directly with Pta1p; relocalizes to the cytosol in response to hypoxia; similar to mammalian Cleavage-Stimulation Factor CstF-64 [Source:SGD;Acc:S000003388]
+#>E	YGR156W.1	1.0	800546-801823
+VII	801062	801316	1.0	CSTF2_hinge	0	801062-801316	PF14327	http://pfam.sanger.ac.uk/family?acc=PF14327

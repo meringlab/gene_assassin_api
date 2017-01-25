@@ -1,0 +1,3 @@
+#>P	YCR091W	YCR091W	YCR091W	III	274404	276563	1	Putative serine/threonine protein kinase; implicated in the regulation of phospholipid asymmetry through the activation of phospholipid translocases (flippases) Lem3p-Dnf1p/Dnf2p; KIN82 has a paralog, FPK1, that arose from the whole genome duplication [Source:SGD;Acc:S000000687]
+#>E	YCR091W.1	1.0	274404-276566
+III	275373	276209	1.0	Prot_kinase_cat_dom	0	275373-276209	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

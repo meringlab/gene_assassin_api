@@ -1,0 +1,4 @@
+#>P	YAR009C	YAR009C	YAR009C	I	160600	164187	-1	Retrotransposon TYA Gag and TYB Pol genes; in YARCTY1-1 TYB is mutant and probably non-functional; protein product forms cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000000067]
+#>E	YAR009C.1	1.0	160597-164187
+I	163522	163881	-1.0	Integrase_cat-core	0	163522-163881	PF00665	http://pfam.sanger.ac.uk/family?acc=PF00665
+I	161428	162030	-1.0	RVT_2	0	161428-162030	PF07727	http://pfam.sanger.ac.uk/family?acc=PF07727

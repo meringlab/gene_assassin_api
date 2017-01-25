@@ -1,0 +1,3 @@
+#>P	YBL027W	YBL027W	YBL027W	II	168423	169373	1	Ribosomal 60S subunit protein L19B; rpl19a and rpl19b single null mutations result in slow growth, while the double null mutation is lethal; homologous to mammalian ribosomal protein L19, no bacterial homolog; RPL19B has a paralog, RPL19A, that arose from the whole genome duplication [Source:SGD;Acc:S000000123]
+#>E	YBL027W.1,YBL027W.2	1,1	168423-168424,168809-169376
+II	168813	169247	1	Ribosomal_L19/L19e	0	168813-169247	PF01280	http://pfam.sanger.ac.uk/family?acc=PF01280

@@ -1,0 +1,5 @@
+#>P	YAL035W	YAL035W	YAL035W	I	76427	79432	1	Translation initiation factor eIF5B; GTPase that promotes Met-tRNAiMet binding to ribosomes and ribosomal subunit joining; promotes GTP-dependent maturation of 18S rRNA by Nob1p; protein abundance increases in response to DNA replication stress; homolog of bacterial IF2 [Source:SGD;Acc:S000000033]
+#>E	YAL035W.1	1.0	76427-79435
+I	78356	78589	1.0	Transl_elong_EFTu/EF1A_2	0	78356-78589	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144
+I	77645	78274	1.0	ProtSyn_GTP-bd	0	77645-78274	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+I	78662	78958	1.0	TIF_IF2_dom3	0	78662-78958	PF11987	http://pfam.sanger.ac.uk/family?acc=PF11987

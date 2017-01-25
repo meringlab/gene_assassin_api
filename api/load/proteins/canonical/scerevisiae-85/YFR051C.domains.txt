@@ -1,0 +1,4 @@
+#>P	YFR051C	YFR051C	YFR051C	VI	250166	251803	-1	Delta subunit of the coatomer complex (COPI); COPI coats Golgi-derived transport vesicles; involved in retrograde transport between Golgi and ER [Source:SGD;Acc:S000001947]
+#>E	YFR051C.1	1.0	250163-251803
+VI	251429	251782	-1.0	AP_mu_sigma_su	0	251429-251782	PF01217	http://pfam.sanger.ac.uk/family?acc=PF01217
+VI	250199	250954	-1.0	Clathrin_mu_C	0	250199-250954	PF00928	http://pfam.sanger.ac.uk/family?acc=PF00928

@@ -1,0 +1,4 @@
+#>P	YKR016W	YKR016W	YKR016W	XI	469717	471336	1	Component of the MICOS complex; MICOS (formerly MINOS or MitOS) is a mitochondrial inner membrane complex that extends into the intermembrane space and has a role in the maintenance of crista junctions, inner membrane architecture, and formation of contact sites to the outer membrane; Mic60p is also involved in import of intermembrane space (IMS) proteins, probably by positioning Mia40p relative to the TOM complex to receive incoming proteins; ortholog of mammalian mitofilin [Source:SGD;Acc:S000001724]
+#>E	YKR016W.1	1.0	469717-471339
+XI	470128	471330	1.0	Mt-IM_prot_Mitofilin	0	470128-471330	PF09731	http://pfam.sanger.ac.uk/family?acc=PF09731
+XI	469810	470052	1.0	Mt-IM_prot_Mitofilin	0	469810-470052	PF09731	http://pfam.sanger.ac.uk/family?acc=PF09731

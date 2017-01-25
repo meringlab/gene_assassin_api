@@ -1,0 +1,3 @@
+#>P	YDR399W	YDR399W	YDR399W	IV	1270068	1270730	1	Dimeric hypoxanthine-guanine phosphoribosyltransferase; catalyzes the transfer of the phosphoribosyl portion of 5-phosphoribosyl-alpha-1-pyrophosphate to a purine base (either guanine or hypoxanthine) to form pyrophosphate and a purine nucleotide (either guanosine monophosphate or inosine monophosphate); mutations in the human homolog HPRT1 can cause Lesch-Nyhan syndrome and Kelley-Seegmiller syndrome [Source:SGD;Acc:S000002807]
+#>E	YDR399W.1	1.0	1270068-1270733
+IV	1270083	1270472	1.0	PRibTrfase	0	1270083-1270472	PF00156	http://pfam.sanger.ac.uk/family?acc=PF00156

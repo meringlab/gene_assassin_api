@@ -1,0 +1,4 @@
+#>P	YCR047C	YCR047C	YCR047C	III	210721	211545	-1	Methyltransferase; methylates residue G1575 of 18S rRNA; required for rRNA processing and nuclear export of 40S ribosomal subunits independently of methylation activity; diploid mutant displays random budding pattern [Source:SGD;Acc:S000000643]
+#>E	YCR047C.1	1.0	210718-211545
+III	210724	210930	-1.0	Unchr_MeTrfase_Williams-Beuren	0	210724-210930	PF12589	http://pfam.sanger.ac.uk/family?acc=PF12589
+III	211081	211392	-1.0	Methyltransf_11	0	211081-211392	PF08241	http://pfam.sanger.ac.uk/family?acc=PF08241

@@ -1,0 +1,6 @@
+#>P	YOL004W	YOL004W	YOL004W	XV	316938	321545	1	Component of both the Rpd3S and Rpd3L histone deacetylase complexes; involved in transcriptional repression and activation of diverse processes, including mating-type switching and meiosis; involved in the maintenance of chromosomal integrity [Source:SGD;Acc:S000005364]
+#>E	YOL004W.1	1.0	316938-321548
+XV	319179	319481	1.0	HDAC_interact	0	319179-319481	PF08295	http://pfam.sanger.ac.uk/family?acc=PF08295
+XV	317652	317792	1.0	PAH	0	317652-317792	PF02671	http://pfam.sanger.ac.uk/family?acc=PF02671
+XV	318213	318353	1.0	PAH	0	318213-318353	PF02671	http://pfam.sanger.ac.uk/family?acc=PF02671
+XV	318975	319109	1.0	PAH	0	318975-319109	PF02671	http://pfam.sanger.ac.uk/family?acc=PF02671

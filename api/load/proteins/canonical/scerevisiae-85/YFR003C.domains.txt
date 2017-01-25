@@ -1,0 +1,3 @@
+#>P	YFR003C	YFR003C	YFR003C	VI	152660	153124	-1	Regulatory subunit of the type I protein phosphatase (PP1) Glc7p; Glc7p participates in the regulation of a variety of metabolic processes including mitosis and glycogen metabolism; in vitro evidence suggests Ypi1p is an inhibitor of Glc7p while in vivo evidence suggests it is an activator; overproduction causes decreased cellular content of glycogen; partial depletion causes lithium sensitivity, while overproduction confers lithium-tolerance [Source:SGD;Acc:S000001899]
+#>E	YFR003C.1	1.0	152657-153124
+VI	152852	153040	-1.0	PPI_Ypi1	0	152852-153040	PF07491	http://pfam.sanger.ac.uk/family?acc=PF07491

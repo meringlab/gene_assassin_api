@@ -1,0 +1,5 @@
+#>P	YHR111W	YHR111W	YHR111W	VIII	333072	334391	1	E1-like protein that activates Urm1p before urmylation; also acts in thiolation of the wobble base of cytoplasmic tRNAs by adenylating and then thiolating Urm1p; receives sulfur from Tum1p [Source:SGD;Acc:S000001153]
+#>E	YHR111W.1	1.0	333072-334394
+VIII	333267	333662	1.0	ThiF_NAD_FAD-bd	0	333267-333662	PF00899	http://pfam.sanger.ac.uk/family?acc=PF00899
+VIII	334095	334361	1.0	Rhodanese-like	0	334095-334361	PF00581	http://pfam.sanger.ac.uk/family?acc=PF00581
+VIII	333687	333947	1.0	MoeZ_MoeB	0	333687-333947	PF05237	http://pfam.sanger.ac.uk/family?acc=PF05237

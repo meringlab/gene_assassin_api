@@ -1,0 +1,4 @@
+#>P	YER036C	YER036C	YER036C	V	223370	225199	-1	ATPase of the ATP-binding cassette (ABC) family; involved in 40S and 60S ribosome biogenesis, has similarity to Gcn20p; shuttles from nucleus to cytoplasm, physically interacts with Tif6p, Lsg1p [Source:SGD;Acc:S000000838]
+#>E	YER036C.1	1.0	223367-225199
+V	224435	224839	-1.0	ABC_transporter-like	0	224435-224839	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+V	223568	223897	-1.0	ABC_transporter-like	0	223568-223897	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

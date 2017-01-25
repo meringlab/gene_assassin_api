@@ -1,0 +1,3 @@
+#>P	YMR150C	YMR150C	YMR150C	XIII	561959	562528	-1	Catalytic subunit of mitochondrial inner membrane peptidase complex; required for maturation of mitochondrial proteins of the intermembrane space; complex contains two catalytic subunits (Imp1p and Imp2p that differ in substrate specificty) and Som1p [Source:SGD;Acc:S000004758]
+#>E	YMR150C.1	1.0	561956-562528
+XIII	562238	562420	-1.0	Peptidase_S24_S26	0	562238-562420	PF00717	http://pfam.sanger.ac.uk/family?acc=PF00717

@@ -1,0 +1,4 @@
+#>P	YNR074C	YNR074C	YNR074C	XIV	777605	778738	-1	Mitochondrial cell death effector; translocates to the nucleus in response to apoptotic stimuli, homolog of mammalian Apoptosis-Inducing Factor, putative reductase [Source:SGD;Acc:S000005357]
+#>E	YNR074C.1	1.0	777602-778738
+XIV	777875	778717	-1.0	Pyr_nucl-diS_OxRdtase_FAD/NAD	0	777875-778717	PF07992	http://pfam.sanger.ac.uk/family?acc=PF07992
+XIV	778079	778324	-1.0	Pyr_OxRdtase_NAD-bd_dom	0	778079-778324	PF00070	http://pfam.sanger.ac.uk/family?acc=PF00070

@@ -1,0 +1,4 @@
+#>P	YDR485C	YDR485C	YDR485C	IV	1424823	1427207	-1	Htz1p-binding component of the SWR1 complex; exchanges histone variant H2AZ (Htz1p) for chromatin-bound histone H2A; may function as a lock that prevents removal of H2AZ from nucleosomes; required for vacuolar protein sorting [Source:SGD;Acc:S000002893]
+#>E	YDR485C.1	1.0	1424820-1427207
+IV	1424997	1425086	-1.0	YL1_C	0	1424997-1425086	PF08265	http://pfam.sanger.ac.uk/family?acc=PF08265
+IV	1426329	1427156	-1.0	YL1	0	1426329-1427156	PF05764	http://pfam.sanger.ac.uk/family?acc=PF05764

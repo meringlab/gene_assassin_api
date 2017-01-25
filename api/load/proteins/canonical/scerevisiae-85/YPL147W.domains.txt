@@ -1,0 +1,4 @@
+#>P	YPL147W	YPL147W	YPL147W	XVI	273255	275864	1	Subunit of a heterodimeric peroxisomal ABC transport complex; required for import of long-chain fatty acids into peroxisomes; similarity to human adrenoleukodystrophy transporter ABCD1 and ABCD2 and ALD-related proteins; mutations in ABCD1 cause X-linked adrenoleukodystrophy (X-ALD), a peroxisomal disorder; complex also includes Pxa2p [Source:SGD;Acc:S000006068]
+#>E	YPL147W.1	1.0	273255-275867
+XVI	275283	275585	1.0	ABC_transporter-like	0	275283-275585	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XVI	273801	274652	1.0	ABC_Ald_N	0	273801-274652	PF06472	http://pfam.sanger.ac.uk/family?acc=PF06472

@@ -1,0 +1,4 @@
+#>P	YLR070C	YLR070C	YLR070C	XII	274144	275211	-1	Xylitol dehydrogenase; converts xylitol to D-xylulose; expression induced by xylose, even though this pentose sugar is not well utilized by S. cerevisiae; null mutant has cell wall defect [Source:SGD;Acc:S000004060]
+#>E	YLR070C.1	1.0	274141-275211
+XII	274273	274668	-1.0	ADH_C	0	274273-274668	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107
+XII	274786	275121	-1.0	ADH_GroES-like	0	274786-275121	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240

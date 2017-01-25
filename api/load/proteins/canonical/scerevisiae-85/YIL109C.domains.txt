@@ -1,0 +1,7 @@
+#>P	YIL109C	YIL109C	YIL109C	IX	157388	160165	-1	Component of the Sec23p-Sec24p heterodimer of the COPII vesicle coat; required for cargo selection during vesicle formation in ER to Golgi transport; homologous to Sfb3p; SEC24 has a paralog, SFB2, that arose from the whole genome duplication [Source:SGD;Acc:S000001371]
+#>E	YIL109C.1	1.0	157385-160165
+IX	158258	158506	-1.0	Sec23_24_beta_S	0	158258-158506	PF08033	http://pfam.sanger.ac.uk/family?acc=PF08033
+IX	159371	159484	-1.0	Znf_Sec23_Sec24	0	159371-159484	PF04810	http://pfam.sanger.ac.uk/family?acc=PF04810
+IX	157910	158224	-1.0	Sec23/24_helical_dom	0	157910-158224	PF04815	http://pfam.sanger.ac.uk/family?acc=PF04815
+IX	158522	159265	-1.0	Sec23/24_trunk_dom	0	158522-159265	PF04811	http://pfam.sanger.ac.uk/family?acc=PF04811
+IX	157601	157822	-1.0	Gelsolin_dom	0	157601-157822	PF00626	http://pfam.sanger.ac.uk/family?acc=PF00626

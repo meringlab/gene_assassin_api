@@ -1,0 +1,5 @@
+#>P	YJR070C	YJR070C	YJR070C	X	569624	570598	-1	Deoxyhypusine hydroxylase; HEAT-repeat containing metalloenzyme that catalyzes hypusine formation; binds to and is required for the modification of Hyp2p (eIF5A); complements S. pombe mmd1 mutants defective in mitochondrial positioning; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003831]
+#>E	YJR070C.1	1.0	569621-570598
+X	570194	570271	-1.0	PBS_lyase_HEAT	0	570194-570271	PF03130	http://pfam.sanger.ac.uk/family?acc=PF03130
+X	569717	569797	-1.0	PBS_lyase_HEAT	0	569717-569797	PF03130	http://pfam.sanger.ac.uk/family?acc=PF03130
+X	569822	569890	-1.0	PBS_lyase_HEAT	0	569822-569890	PF03130	http://pfam.sanger.ac.uk/family?acc=PF03130

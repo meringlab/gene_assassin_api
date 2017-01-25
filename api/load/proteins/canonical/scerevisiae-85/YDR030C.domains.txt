@@ -1,0 +1,6 @@
+#>P	YDR030C	YDR030C	YDR030C	IV	501756	503273	-1	Protein involved in DNA repair; related to the human CSA protein that is involved in transcription-coupled repair nucleotide excision repair [Source:SGD;Acc:S000002437]
+#>E	YDR030C.1	1.0	501753-503273
+IV	502116	502208	-1.0	WD40_repeat	0	502116-502208	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	502326	502412	-1.0	WD40_repeat	0	502326-502412	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	503022	503099	-1.0	WD40_repeat	0	503022-503099	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	502602	502706	-1.0	WD40_repeat	0	502602-502706	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

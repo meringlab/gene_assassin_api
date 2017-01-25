@@ -1,0 +1,4 @@
+#>P	YPL119C	YPL119C	YPL119C	XVI	324414	326264	-1	Putative ATP-dependent RNA helicase of the DEAD-box protein family; mutants show reduced stability of the 40S ribosomal subunit scanning through 5' untranslated regions of mRNAs; protein abundance increases in response to DNA replication stress; DBP1 has a paralog, DED1, that arose from the whole genome duplication [Source:SGD;Acc:S000006040]
+#>E	YPL119C.1	1.0	324411-326264
+XVI	324747	324977	-1.0	Helicase_C	0	324747-324977	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XVI	325179	325733	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	325179-325733	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270

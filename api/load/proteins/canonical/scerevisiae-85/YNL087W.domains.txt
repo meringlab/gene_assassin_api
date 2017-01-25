@@ -1,0 +1,5 @@
+#>P	YNL087W	YNL087W	YNL087W	XIV	462411	465944	1	ER protein involved in ER-plasma membrane tethering; one of 6 proteins (Ist2p, Scs2p, Scs22p, Tcb1p, Tcb2p, Tcb3p) that connect ER to plasma membrane (PM) and regulate PM phosphatidylinositol-4-phosphate (PI4P) levels by controlling access of Sac1p phosphatase to its substrate PI4P in the PM; contains 3 calcium and lipid binding domains; mRNA is targeted to bud; TCB2 has a paralog, TCB1, that arose from the whole genome duplication [Source:SGD;Acc:S000005031]
+#>E	YNL087W.1	1.0	462411-465947
+XIV	465363	465617	1.0	C2_Ca-dep	0	465363-465617	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
+XIV	464364	464603	1.0	C2_Ca-dep	0	464364-464603	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
+XIV	463548	463796	1.0	C2_Ca-dep	0	463548-463796	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168

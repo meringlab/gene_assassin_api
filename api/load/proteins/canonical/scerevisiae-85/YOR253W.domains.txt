@@ -1,0 +1,3 @@
+#>P	YOR253W	YOR253W	YOR253W	XV	804377	804904	1	Subunit of protein N-terminal acetyltransferase NatA; NatA is comprised of Nat1p, Ard1p, and Nat5p; N-terminally acetylates many proteins, which influences multiple processes such as the cell cycle, heat-shock resistance, mating, sporulation, and telomeric silencing [Source:SGD;Acc:S000005779]
+#>E	YOR253W.1	1.0	804377-804907
+XV	804575	804763	1.0	AcTrfase_GCN5-related_dom	0	804575-804763	PF00583	http://pfam.sanger.ac.uk/family?acc=PF00583

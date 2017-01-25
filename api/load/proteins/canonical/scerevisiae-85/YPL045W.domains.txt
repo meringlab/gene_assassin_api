@@ -1,0 +1,4 @@
+#>P	YPL045W	YPL045W	YPL045W	XVI	467260	469653	1	Subunit of the HOPS and the CORVET complexes; part of the Class C Vps complex essential for membrane docking and fusion at Golgi-to-endosome and endosome-to-vacuole protein transport stages [Source:SGD;Acc:S000005966]
+#>E	YPL045W.1	1.0	467260-469656
+XVI	467269	468393	1.0	Vps16_N	0	467269-468393	PF04841	http://pfam.sanger.ac.uk/family?acc=PF04841
+XVI	468691	469650	1.0	Vps16_C	0	468691-469650	PF04840	http://pfam.sanger.ac.uk/family?acc=PF04840

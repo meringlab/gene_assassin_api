@@ -1,0 +1,4 @@
+#>P	YGR278W	YGR278W	YGR278W	VII	1046731	1048461	1	Spliceosome-associated protein that is required for pre-mRNA splicing; necessary for Prp2p function at the first catalytic step of splicing; has similarity to S. pombe Cwf22p; CWC22 is an essential protein [Source:SGD;Acc:S000003510]
+#>E	YGR278W.1	1.0	1046731-1048464
+VII	1046800	1047339	1.0	MIF4G-like_typ-3	0	1046800-1047339	PF02854	http://pfam.sanger.ac.uk/family?acc=PF02854
+VII	1047601	1047924	1.0	Initiation_fac_eIF4g_MI	0	1047601-1047924	PF02847	http://pfam.sanger.ac.uk/family?acc=PF02847

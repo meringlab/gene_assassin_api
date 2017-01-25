@@ -1,0 +1,3 @@
+#>P	YPL266W	YPL266W	YPL266W	XVI	39121	40074	1	Essential 18S rRNA dimethylase (dimethyladenosine transferase); responsible for conserved m6(2)Am6(2)A dimethylation in 3'-terminal loop of 18S rRNA, part of 90S and 40S pre-particles in nucleolus, involved in pre-ribosomal RNA processing [Source:SGD;Acc:S000006187]
+#>E	YPL266W.1	1.0	39121-40077
+XVI	39202	39957	1.0	rRNA_Ade_methylase_transferase	0	39202-39957	PF00398	http://pfam.sanger.ac.uk/family?acc=PF00398

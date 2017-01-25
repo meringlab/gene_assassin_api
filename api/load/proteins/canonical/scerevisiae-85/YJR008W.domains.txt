@@ -1,0 +1,3 @@
+#>P	YJR008W	YJR008W	YJR008W	X	452430	453443	1	Protein of unknown function; inhibits haploid invasive growth when overexpressed; synthetically lethal with phospholipase C (PLC1); expression induced by mild heat-stress on a non-fermentable carbon source, upon entry into stationary phase and upon nitrogen deprivation; repressed by inosine and choline in an Opi1p-dependent manner; highly conserved from bacteria to human; Memo, the human homolog, is an ErbB2 interacting protein with an essential function in cell motility [Source:SGD;Acc:S000003768]
+#>E	YJR008W.1	1.0	452430-453446
+X	452445	453428	1.0	UPF0103/Memo-related	0	452445-453428	PF01875	http://pfam.sanger.ac.uk/family?acc=PF01875

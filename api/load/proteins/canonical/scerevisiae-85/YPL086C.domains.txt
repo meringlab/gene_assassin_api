@@ -1,0 +1,4 @@
+#>P	YPL086C	YPL086C	YPL086C	XVI	384776	386446	-1	Subunit of Elongator complex; Elongator is required for modification of wobble nucleosides in tRNA; exhibits histone acetyltransferase activity that is directed to histones H3 and H4; disruption confers resistance to K. lactis zymotoxin [Source:SGD;Acc:S000006007]
+#>E	YPL086C.1	1.0	384773-386446
+XVI	385535	386101	-1.0	rSAM	0	385535-386101	PF04055	http://pfam.sanger.ac.uk/family?acc=PF04055
+XVI	384806	385096	-1.0	AcTrfase_GCN5-related_dom	0	384806-385096	PF00583	http://pfam.sanger.ac.uk/family?acc=PF00583

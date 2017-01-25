@@ -1,0 +1,5 @@
+#>P	YER086W	YER086W	YER086W	V	328477	330204	1	Threonine deaminase, catalyzes first step in isoleucine biosynthesis; expression is under general amino acid control; ILV1 locus exhibits highly positioned nucleosomes whose organization is independent of known ILV1 regulation [Source:SGD;Acc:S000000888]
+#>E	YER086W.1	1.0	328477-330207
+V	329932	330198	1.0	Thr_deHydtase_C	0	329932-330198	PF00585	http://pfam.sanger.ac.uk/family?acc=PF00585
+V	329623	329916	1.0	Thr_deHydtase_C	0	329623-329916	PF00585	http://pfam.sanger.ac.uk/family?acc=PF00585
+V	328732	329529	1.0	PyrdxlP-dep_enz_bsu	0	328732-329529	PF00291	http://pfam.sanger.ac.uk/family?acc=PF00291

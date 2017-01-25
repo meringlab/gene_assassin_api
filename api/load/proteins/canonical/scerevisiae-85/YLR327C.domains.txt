@@ -1,0 +1,3 @@
+#>P	YLR327C	YLR327C	YLR327C	XII	783130	783387	-1	Protein of unknown function that associates with ribosomes; protein abundance increases in response to DNA replication stress; TMA10 has a paralog, STF2, that arose from the whole genome duplication [Source:SGD;Acc:S000004319]
+#>E	YLR327C.1	1.0	783127-783387
+XII	783166	783303	-1.0	HABP4_PAIRBP1-bd	0	783166-783303	PF04774	http://pfam.sanger.ac.uk/family?acc=PF04774

@@ -1,0 +1,8 @@
+#>P	YKL012W	YKL012W	YKL012W	XI	418310	420058	1	U1 snRNP protein involved in splicing; interacts with the branchpoint-binding protein during the formation of the second commitment complex [Source:SGD;Acc:S000001495]
+#>E	YKL012W.1	1.0	418310-420061
+XI	419813	419956	1.0	FF_domain	21.9	419813-419956	PF01846	http://pfam.sanger.ac.uk/family?acc=PF01846
+XI	418916	419071	1.0	FF_domain	40.2	418916-419071	PF01846	http://pfam.sanger.ac.uk/family?acc=PF01846
+XI	419381	419539	1.0	FF_domain	51.7	419381-419539	PF01846	http://pfam.sanger.ac.uk/family?acc=PF01846
+XI	418709	418864	1.0	FF_domain	47.5	418709-418864	PF01846	http://pfam.sanger.ac.uk/family?acc=PF01846
+XI	418319	418396	1.0	WW_Rsp5_WWP	40.8	418319-418396	PF00397	http://pfam.sanger.ac.uk/family?acc=PF00397
+XI	418436	418519	1.0	WW_Rsp5_WWP	35.9	418436-418519	PF00397	http://pfam.sanger.ac.uk/family?acc=PF00397

@@ -1,0 +1,4 @@
+#>P	YDR213W	YDR213W	YDR213W	IV	889751	892489	1	Sterol regulatory element binding protein; induces transcription of sterol biosynthetic genes and of DAN/TIR gene products; relocates from intracellular membranes to perinuclear foci on sterol depletion; UPC2 has a paralog, ECM22, that arose from the whole genome duplication [Source:SGD;Acc:S000002621]
+#>E	YDR213W.1	1.0	889751-892492
+IV	891584	891997	1.0	DUF3468	0	891584-891997	PF11951	http://pfam.sanger.ac.uk/family?acc=PF11951
+IV	889898	889996	1.0	Zn2-C6_fun-type_DNA-bd	0	889898-889996	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

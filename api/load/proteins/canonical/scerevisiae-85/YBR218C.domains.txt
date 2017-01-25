@@ -1,0 +1,8 @@
+#>P	YBR218C	YBR218C	YBR218C	II	658710	662249	-1	Pyruvate carboxylase isoform; cytoplasmic enzyme that converts pyruvate to oxaloacetate; differentially regulated than isoform Pyc1p; mutations in the human homolog are associated with lactic acidosis; PYC2 has a paralog, PYC1, that arose from the whole genome duplication [Source:SGD;Acc:S000000422]
+#>E	YBR218C.1	1.0	658707-662249
+II	658743	658946	-1.0	Biotin_lipoyl	0	658743-658946	PF00364	http://pfam.sanger.ac.uk/family?acc=PF00364
+II	660849	661172	-1.0	Biotin_COase_C	0	660849-661172	PF02785	http://pfam.sanger.ac.uk/family?acc=PF02785
+II	659811	660554	-1.0	PYR_CT	0	659811-660554	PF00682	http://pfam.sanger.ac.uk/family?acc=PF00682
+II	661218	661844	-1.0	CarbamoylP_synth_lsu_ATP-bd	0	661218-661844	PF02786	http://pfam.sanger.ac.uk/family?acc=PF02786
+II	659091	659696	-1.0	Carboxylase_cons_dom	0	659091-659696	PF02436	http://pfam.sanger.ac.uk/family?acc=PF02436
+II	661857	662192	-1.0	CarbamoylP_synth_lsu_N	0	661857-662192	PF00289	http://pfam.sanger.ac.uk/family?acc=PF00289

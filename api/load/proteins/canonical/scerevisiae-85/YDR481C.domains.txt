@@ -1,0 +1,3 @@
+#>P	YDR481C	YDR481C	YDR481C	IV	1418553	1420250	-1	Repressible vacuolar alkaline phosphatase; regulated by levels of Pi and by Pho4p, Pho9p, Pho80p, Pho81p and Pho85p; dephosphorylates phosphotyrosyl peptides; contributes to NAD+ metabolism by producing nicotinamide riboside from NMN [Source:SGD;Acc:S000002889]
+#>E	YDR481C.1	1.0	1418550-1420250
+IV	1418670	1420055	-1.0	Alkaline_phosphatase	0	1418670-1420055	PF00245	http://pfam.sanger.ac.uk/family?acc=PF00245

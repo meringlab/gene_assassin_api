@@ -1,0 +1,4 @@
+#>P	YDR118W	YDR118W	YDR118W	IV	685882	687837	1	Subunit of the Anaphase-Promoting Complex/Cyclosome (APC/C); APC/C is a ubiquitin-protein ligase required for degradation of anaphase inhibitors, including mitotic cyclins, during the metaphase/anaphase transition; component of the platform domain of the APC/C, based on structural analysis; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000002525]
+#>E	YDR118W.1	1.0	685882-687840
+IV	685885	685995	1.0	Apc4_WD40_dom	0	685885-685995	PF12894	http://pfam.sanger.ac.uk/family?acc=PF12894
+IV	686548	687117	1.0	APC4_long_dom	0	686548-687117	PF12896	http://pfam.sanger.ac.uk/family?acc=PF12896

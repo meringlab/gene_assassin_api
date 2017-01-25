@@ -1,0 +1,4 @@
+#>P	YFL052W	YFL052W	YFL052W	VI	28232	29626	1	Putative zinc cluster protein that contains a DNA binding domain; computational analysis suggests a role as a transcription factor; null mutant is sensitive to Calcofluor White, low osmolarity, and heat, suggesting a role for YFL052Wp in cell wall integrity [Source:SGD;Acc:S000001842]
+#>E	YFL052W.1	1.0	28232-29629
+VI	28475	29149	1.0	Transcription_factor_fun	0	28475-29149	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082
+VI	28247	28357	1.0	Zn2-C6_fun-type_DNA-bd	0	28247-28357	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

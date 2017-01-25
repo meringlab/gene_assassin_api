@@ -1,0 +1,3 @@
+#>P	YAL043C	YAL043C	YAL043C	I	58698	61052	-1	Subunit of holo-CPF; holo-CPF is a multiprotein complex and functional homolog of mammalian CPSF, required for the cleavage and polyadenylation of mRNA and snoRNA 3' ends; involved in pre-tRNA processing; binds to the phosphorylated CTD of RNAPII [Source:SGD;Acc:S000000041]
+#>E	YAL043C.1	1.0	58695-61052
+I	60021	60794	-1.0	DUF3453	0	60021-60794	PF11935	http://pfam.sanger.ac.uk/family?acc=PF11935

@@ -1,0 +1,6 @@
+#>P	YPR042C	YPR042C	YPR042C	XVI	650438	653662	-1	PUF family mRNA-binding protein; Pumilio homology domain confers RNA binding activity; preferentially binds mRNAs encoding membrane-associated proteins; binding site composed of two UAAU tetranucleotides, separated by a 3-nt linker; PUF2 has a paralog, JSN1, that arose from the whole genome duplication [Source:SGD;Acc:S000006246]
+#>E	YPR042C.1	1.0	650435-653662
+XVI	651839	651934	-1.0	Pumilio_RNA-bd_rpt	19.9	651839-651934	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+XVI	651725	651820	-1.0	Pumilio_RNA-bd_rpt	21.3	651725-651820	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+XVI	651509	651607	-1.0	Pumilio_RNA-bd_rpt	20.8	651509-651607	PF00806	http://pfam.sanger.ac.uk/family?acc=PF00806
+XVI	652499	652651	-1.0	RRM_dom	25.6	652499-652651	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

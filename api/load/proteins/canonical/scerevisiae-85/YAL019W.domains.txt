@@ -1,0 +1,4 @@
+#>P	YAL019W	YAL019W	YAL019W	I	114919	118311	1	Snf2p family member with ATP-dependent chromatin remodeling activity; has a role in silencing at the mating type locus, telomeres and centromeres; enriched at centromeres and is required for correct chromatin structure around centromeres, as well as at the boundary element of the silent HMR; recruited to DNA double-strand breaks (DSBs) where it promotes 5' strand resection of DSBs; potential Cdc28p substrate [Source:SGD;Acc:S000000017]
+#>E	YAL019W.1	1.0	114919-118314
+I	117874	118107	1.0	Helicase_C	0	117874-118107	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+I	116641	117558	1.0	SNF2_N	0	116641-117558	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176

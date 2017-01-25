@@ -1,0 +1,4 @@
+#>P	YMR165C	YMR165C	YMR165C	XIII	590043	592628	-1	Mg2+-dependent phosphatidate (PA) phosphatase; dephosphorylates PA to yield diacylglycerol; responsible for de novo lipid synthesis and formation of lipid droplets; phosphorylation by Pho80p-Pho85p decreases catalytic activity and alters Pah1p localization and abundance; phosphorylation by protein kinase A decreases catalytic efficiency; dephosphorylation by Nem1p-Spo7p anchors Pah1p to the membrane increasing substrate catalysis; homologous to mammalian lipins 1 and 2 [Source:SGD;Acc:S000004775]
+#>E	YMR165C.1	1.0	590040-592628
+XIII	592302	592628	-1.0	Lipin_N	0	592302-592628	PF04571	http://pfam.sanger.ac.uk/family?acc=PF04571
+XIII	590949	591449	-1.0	LNS2	0	590949-591449	PF08235	http://pfam.sanger.ac.uk/family?acc=PF08235

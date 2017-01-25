@@ -1,0 +1,4 @@
+#>P	YOL028C	YOL028C	YOL028C	XV	270636	271370	-1	Putative basic leucine zipper (bZIP) transcription factor; YAP7 has a paralog, YAP5, that arose from the whole genome duplication [Source:SGD;Acc:S000005388]
+#>E	YOL028C.1	1.0	270633-271370
+XV	271173	271223	-1.0	Hap4_TF_heteromerisation	0	271173-271223	PF10297	http://pfam.sanger.ac.uk/family?acc=PF10297
+XV	270825	270989	-1.0	bZIP	0	270825-270989	PF00170	http://pfam.sanger.ac.uk/family?acc=PF00170

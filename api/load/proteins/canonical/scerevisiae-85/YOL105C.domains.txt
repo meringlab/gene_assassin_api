@@ -1,0 +1,4 @@
+#>P	YOL105C	YOL105C	YOL105C	XV	114141	115808	-1	Sensor-transducer of the stress-activated PKC1-MPK1 signaling pathway; involved in maintenance of cell wall integrity; involved in response to heat shock and other stressors; regulates 1,3-beta-glucan synthesis; WSC3 has a paralog, WSC2, that arose from the whole genome duplication [Source:SGD;Acc:S000005465]
+#>E	YOL105C.1	1.0	114138-115808
+XV	114579	114833	-1.0	Glycophorin	0	114579-114833	PF01102	http://pfam.sanger.ac.uk/family?acc=PF01102
+XV	115443	115685	-1.0	WSC_carb-bd	0	115443-115685	PF01822	http://pfam.sanger.ac.uk/family?acc=PF01822

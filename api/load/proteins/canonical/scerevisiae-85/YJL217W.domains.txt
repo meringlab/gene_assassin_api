@@ -1,0 +1,3 @@
+#>P	YJL217W	YJL217W	YJL217W	X	23133	23726	1	Cytoplasmic protein involved in the regulation of enolase (ENO1); mRNA expression is induced by calcium shortage, copper deficiency (via Mac1p) and the presence of galactose (via Gal4p); mRNA expression is also regulated by the cell cycle [Source:SGD;Acc:S000003753]
+#>E	YJL217W.1	1.0	23133-23729
+X	23169	23711	1.0	DUF1349	0	23169-23711	PF07081	http://pfam.sanger.ac.uk/family?acc=PF07081

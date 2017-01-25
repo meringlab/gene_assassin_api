@@ -1,0 +1,4 @@
+#>P	YLR271W	YLR271W	YLR271W	XII	682737	683558	1	Putative protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm and the nucleus and is induced in response to the DNA-damaging agent MMS [Source:SGD;Acc:S000004261]
+#>E	YLR271W.1	1.0	682737-683561
+XII	682866	682991	1.0	G_patch	52.8	682866-682991	PF01585	http://pfam.sanger.ac.uk/family?acc=PF01585
+XII	683391	683555	1.0	DUF4187	66.8	683391-683555	PF13821	http://pfam.sanger.ac.uk/family?acc=PF13821

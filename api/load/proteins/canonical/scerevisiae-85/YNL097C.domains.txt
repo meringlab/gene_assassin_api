@@ -1,0 +1,4 @@
+#>P	YNL097C	YNL097C	YNL097C	XIV	441369	442358	-1	Component of the Rpd3L histone deacetylase complex; involved in transcriptional regulation of PHO5; affects termination of snoRNAs and cryptic unstable transcripts (CUTs); C-terminus has similarity to human candidate tumor suppressor p33(ING1) and its isoform ING3 [Source:SGD;Acc:S000005041]
+#>E	YNL097C.1	1.0	441366-442358
+XIV	441372	441515	-1.0	Znf_PHD-finger	0	441372-441515	PF00628	http://pfam.sanger.ac.uk/family?acc=PF00628
+XIV	442029	442334	-1.0	ING_N	0	442029-442334	PF12998	http://pfam.sanger.ac.uk/family?acc=PF12998

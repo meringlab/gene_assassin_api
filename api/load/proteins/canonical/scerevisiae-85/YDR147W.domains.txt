@@ -1,0 +1,3 @@
+#>P	YDR147W	YDR147W	YDR147W	IV	751631	753232	1	Ethanolamine kinase; primarily responsible for phosphatidylethanolamine synthesis via the CDP-ethanolamine pathway; exhibits some choline kinase activity, thus contributing to phosphatidylcholine synthesis via the CDP-choline pathway; EKI1 has a paralog, CKI1, that arose from the whole genome duplication [Source:SGD;Acc:S000002554]
+#>E	YDR147W.1	1.0	751631-753235
+IV	751862	752014	1.0	Choline_kin_N	0	751862-752014	PF04428	http://pfam.sanger.ac.uk/family?acc=PF04428

@@ -1,0 +1,4 @@
+#>P	YJL109C	YJL109C	YJL109C	X	212003	217309	-1	Nucleolar protein; component of the small subunit (SSU) processome containing the U3 snoRNA that is involved in processing of pre-18S rRNA; mutant has increased aneuploidy tolerance [Source:SGD;Acc:S000003645]
+#>E	YJL109C.1	1.0	212000-217309
+X	212399	212842	-1.0	BP28_C_dom	0	212399-212842	PF08146	http://pfam.sanger.ac.uk/family?acc=PF08146
+X	216245	216613	-1.0	U3snoRNP10	0	216245-216613	PF12397	http://pfam.sanger.ac.uk/family?acc=PF12397

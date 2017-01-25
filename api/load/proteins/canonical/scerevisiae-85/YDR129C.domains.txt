@@ -1,0 +1,6 @@
+#>P	YDR129C	YDR129C	YDR129C	IV	713343	715379	-1	Fimbrin, actin-bundling protein; cooperates with Scp1p (calponin/transgelin) in the organization and maintenance of the actin cytoskeleton; relocalizes from plasma membrane to cytoplasm upon DNA replication stress [Source:SGD;Acc:S000002536]
+#>E	YDR129C.2,YDR129C.1	1,1	713340-715247,715359-715379
+IV	714102	714401	-1	CH-domain	0	714102-714401	PF00307	http://pfam.sanger.ac.uk/family?acc=PF00307
+IV	713712	714020	-1	CH-domain	0	713712-714020	PF00307	http://pfam.sanger.ac.uk/family?acc=PF00307
+IV	714498	714842	-1	CH-domain	0	714498-714842	PF00307	http://pfam.sanger.ac.uk/family?acc=PF00307
+IV	713352	713654	-1	CH-domain	0	713352-713654	PF00307	http://pfam.sanger.ac.uk/family?acc=PF00307

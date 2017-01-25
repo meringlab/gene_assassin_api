@@ -1,0 +1,4 @@
+#>P	YNL258C	YNL258C	YNL258C	XIV	158112	160373	-1	Peripheral membrane protein needed for Golgi-to-ER retrograde traffic; forms a complex with Sec39p and Tip20p that interacts with ER SNAREs Sec20p and Use1p; component of the ER target site that interacts with coatomer; interacts with Cin5p; similar to the fly and human ZW10 gene [Source:SGD;Acc:S000005202]
+#>E	YNL258C.1	1.0	158109-160373
+XIV	158115	159017	-1.0	Dsl1_C	0	158115-159017	PF11989	http://pfam.sanger.ac.uk/family?acc=PF11989
+XIV	159294	160364	-1.0	Dsl1_N	0	159294-160364	PF11988	http://pfam.sanger.ac.uk/family?acc=PF11988

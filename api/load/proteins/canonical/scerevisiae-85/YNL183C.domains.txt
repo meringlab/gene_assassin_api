@@ -1,0 +1,3 @@
+#>P	YNL183C	YNL183C	YNL183C	XIV	293140	295509	-1	Protein kinase; stabilizes several plasma membrane amino acid transporters by antagonizing their ubiquitin-mediated degradation; phosphorylates Aly2p; negatively regulates Ldb19p-mediated endocytosis through phosphorylation of Ldb19p, which prevents its association with the plasma membrane; Npr1p activity is negatively regulated via phosphorylation by the TOR complex; NPR1 has a paralog, PRR2, that arose from the whole genome duplication [Source:SGD;Acc:S000005127]
+#>E	YNL183C.1	1.0	293137-295509
+XIV	293284	294195	-1.0	Prot_kinase_cat_dom	0	293284-294195	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

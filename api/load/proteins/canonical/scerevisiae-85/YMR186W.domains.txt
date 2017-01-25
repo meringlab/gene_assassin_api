@@ -1,0 +1,4 @@
+#>P	YMR186W	YMR186W	YMR186W	XIII	632355	634469	1	Cytoplasmic chaperone of the Hsp90 family; plays a role in determining prion variants; redundant in function and nearly identical with Hsp82p, and together they are essential; expressed constitutively at 10-fold higher basal levels than HSP82 and induced 2-3 fold by heat shock; contains two acid-rich unstructured regions that promote the solubility of chaperone-substrate complexes; HSC82 has a paralog, HSP82, that arose from the whole genome duplication [Source:SGD;Acc:S000004798]
+#>E	YMR186W.1	1.0	632355-634472
+XIII	632436	632837	1.0	ATPase-like_ATP-bd	41.7	632436-632837	PF02518	http://pfam.sanger.ac.uk/family?acc=PF02518
+XIII	632901	634469	1.0	Hsp90	862.5	632901-634469	PF00183	http://pfam.sanger.ac.uk/family?acc=PF00183

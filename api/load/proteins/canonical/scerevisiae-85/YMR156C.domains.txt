@@ -1,0 +1,3 @@
+#>P	YMR156C	YMR156C	YMR156C	XIII	570303	571016	-1	DNA 3'-phosphatase; functions in repair of endogenous damage of double-stranded DNA, activity is specific for removal of 3' phosphates at strand breaks; similar to the l-2-haloacid dehalogenase superfamily; homolog of human polynucleotide kinase/3&#8242;-phosphatase [Source:SGD;Acc:S000004765]
+#>E	YMR156C.1	1.0	570300-571016
+XIII	570309	570929	-1.0	PNK3P	0	570309-570929	PF08645	http://pfam.sanger.ac.uk/family?acc=PF08645

@@ -1,0 +1,3 @@
+#>P	YEL007W	YEL007W	YEL007W	V	141892	143889	1	Transcriptional regulator of pseudohyphal growth; protein with sequence similarity to S. pombe gti1+ (gluconate transport inducer 1) and C. albicans Wor1 [Source:SGD;Acc:S000000733]
+#>E	YEL007W.1	1.0	141892-143892
+V	141907	142470	1.0	Gluconate_transp_1/Pac2	0	141907-142470	PF09729	http://pfam.sanger.ac.uk/family?acc=PF09729

@@ -1,0 +1,4 @@
+#>P	YHR148W	YHR148W	YHR148W	VIII	393534	394082	1	Component of the SSU processome; SSU processome is required for pre-18S rRNA processing, essential protein that interacts with Mpp10p and mediates interactions of Imp4p and Mpp10p with U3 snoRNA [Source:SGD;Acc:S000001191]
+#>E	YHR148W.1	1.0	393534-394085
+VIII	393858	393998	1.0	S4_RNA-bd	0	393858-393998	PF01479	http://pfam.sanger.ac.uk/family?acc=PF01479
+VIII	393543	393857	1.0	Ribosomal_S4/S9_N	0	393543-393857	PF00163	http://pfam.sanger.ac.uk/family?acc=PF00163

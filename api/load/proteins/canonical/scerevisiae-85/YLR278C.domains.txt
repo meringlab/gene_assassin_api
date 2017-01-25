@@ -1,0 +1,4 @@
+#>P	YLR278C	YLR278C	YLR278C	XII	700002	704024	-1	Zinc-cluster protein; GFP-fusion protein localizes to the nucleus; mutant shows moderate growth defect on caffeine; has a prion-domain like fragment that increases frequency of [URE3]; YLR278C is not an essential gene [Source:SGD;Acc:S000004268]
+#>E	YLR278C.1	1.0	699999-704024
+XII	703818	703910	-1.0	Zn2-C6_fun-type_DNA-bd	0	703818-703910	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+XII	702288	703094	-1.0	Transcription_factor_fun	0	702288-703094	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082

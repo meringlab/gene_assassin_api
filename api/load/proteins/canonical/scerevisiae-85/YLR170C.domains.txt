@@ -1,0 +1,3 @@
+#>P	YLR170C	YLR170C	YLR170C	XII	500582	501049	-1	Small subunit of the clathrin-associated adaptor complex AP-1; AP-1 is involved in protein sorting at the trans-Golgi network; homolog of the sigma subunit of the mammalian clathrin AP-1 complex [Source:SGD;Acc:S000004160]
+#>E	YLR170C.1	1.0	500579-501049
+XII	500615	501040	-1.0	AP_mu_sigma_su	0	500615-501040	PF01217	http://pfam.sanger.ac.uk/family?acc=PF01217

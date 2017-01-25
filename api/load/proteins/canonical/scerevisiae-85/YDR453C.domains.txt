@@ -1,0 +1,4 @@
+#>P	YDR453C	YDR453C	YDR453C	IV	1365075	1365662	-1	Stress inducible cytoplasmic thioredoxin peroxidase; cooperates with Tsa1p in the removal of reactive oxygen, nitrogen and sulfur species using thioredoxin as hydrogen donor; deletion enhances the mutator phenotype of tsa1 mutants; protein abundance increases in response to DNA replication stress; TSA2 has a paralog, TSA1, that arose from the whole genome duplication [Source:SGD;Acc:S000002861]
+#>E	YDR453C.1	1.0	1365072-1365662
+IV	1365252	1365650	-1.0	AhpC/TSA	0	1365252-1365650	PF00578	http://pfam.sanger.ac.uk/family?acc=PF00578
+IV	1365087	1365188	-1.0	Peroxiredoxin_C	0	1365087-1365188	PF10417	http://pfam.sanger.ac.uk/family?acc=PF10417

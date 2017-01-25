@@ -1,0 +1,5 @@
+#>P	YOR007C	YOR007C	YOR007C	XV	338941	339978	-1	Glutamine-rich cytoplasmic cochaperone; serves as a scaffold bringing together Get4, Get5p, and other TRC complex members that are required to mediate posttranslational insertion of tail-anchored proteins into the ER membrane; interacts with the prion domain of Sup35p; amyloid sensor; plays a role in targeting chaperones to prion aggregates; has similarity to human cochaperone SGT; forms cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000005533]
+#>E	YOR007C.1	1.0	338938-339978
+XV	339574	339675	-1.0	TPR_2	0	339574-339675	PF07719	http://pfam.sanger.ac.uk/family?acc=PF07719
+XV	339370	339468	-1.0	TPR-1	0	339370-339468	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+XV	339472	339570	-1.0	TPR-1	0	339472-339570	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515

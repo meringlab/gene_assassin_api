@@ -1,0 +1,4 @@
+#>P	YJL200C	YJL200C	YJL200C	X	56447	58813	-1	Putative mitochondrial aconitase isozyme; similarity to Aco1p, an aconitase required for the TCA cycle; expression induced during growth on glucose, by amino acid starvation via Gcn4p, and repressed on ethanol [Source:SGD;Acc:S000003736]
+#>E	YJL200C.1	1.0	56444-58813
+X	56672	57058	-1.0	AconitaseA/IPMdHydase_ssu_swvl	145	56672-57058	PF00694	http://pfam.sanger.ac.uk/family?acc=PF00694
+X	57299	58651	-1.0	Acoase/IPM_deHydtase_lsu_aba	607.7	57299-58651	PF00330	http://pfam.sanger.ac.uk/family?acc=PF00330

@@ -1,0 +1,3 @@
+#>P	YDL002C	YDL002C	YDL002C	IV	446970	447578	-1	Non-essential INO80 chromatin remodeling complex subunit; preferentially binds DNA ends, protecting them from exonucleatic cleavage; deletion affects telomere maintenance via recombination; related to mammalian high mobility group proteins [Source:SGD;Acc:S000002160]
+#>E	YDL002C.1	1.0	446967-447578
+IV	447105	447299	-1.0	HMG_superfamily	0	447105-447299	PF00505	http://pfam.sanger.ac.uk/family?acc=PF00505

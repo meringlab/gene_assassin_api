@@ -1,0 +1,5 @@
+#>P	ENSMUSG00000050304	ENSMUST00000058635	ENSMUSP00000052849	18	37637680	37638474	-1	solute carrier family 25 (mitochondrial carrier, ornithine transporter) member 2 [Source:MGI Symbol;Acc:MGI:2137907]
+#>E	ENSMUSE00000362603	1.0	37637677-37638474
+18	37638301	37638450	-1.0	Mitochondrial_sb/sol_carrier	167.4	37638301-37638450	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+18	37637695	37637964	-1.0	Mitochondrial_sb/sol_carrier	167.4	37637695-37637964	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+18	37637986	37638261	-1.0	Mitochondrial_sb/sol_carrier	167.4	37637986-37638261	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

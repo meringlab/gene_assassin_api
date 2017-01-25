@@ -1,0 +1,5 @@
+#>P	YER070W	YER070W	YER070W	V	298950	301613	1	Major isoform of large subunit of ribonucleotide-diphosphate reductase; the RNR complex catalyzes rate-limiting step in dNTP synthesis, regulated by DNA replication and DNA damage checkpoint pathways via localization of small subunits; relative distribution to the nucleus increases upon DNA replication stress; RNR1 has a paralog, RNR3, that arose from the whole genome duplication [Source:SGD;Acc:S000000872]
+#>E	YER070W.1	1.0	298950-301616
+V	298950	299216	1.0	ATP-cone	0	298950-299216	PF03477	http://pfam.sanger.ac.uk/family?acc=PF03477
+V	299373	299585	1.0	Ribncl_Rdtase_lsu_N	0	299373-299585	PF00317	http://pfam.sanger.ac.uk/family?acc=PF00317
+V	299592	301178	1.0	Ribncl_red_lg_C	0	299592-301178	PF02867	http://pfam.sanger.ac.uk/family?acc=PF02867

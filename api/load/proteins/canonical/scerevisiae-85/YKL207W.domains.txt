@@ -1,0 +1,3 @@
+#>P	YKL207W	YKL207W	YKL207W	XI	48194	48952	1	Member of conserved ER transmembrane complex; required for efficient folding of proteins in the ER; required for respiratory growth; null mutant displays induction of the unfolded protein response; homologous to worm Y62E10A.10/EMC-3, fly CG6750, human TMEM111 [Source:SGD;Acc:S000001690]
+#>E	YKL207W.1	1.0	48194-48955
+XI	48197	48781	1.0	DUF106_TM	0	48197-48781	PF01956	http://pfam.sanger.ac.uk/family?acc=PF01956

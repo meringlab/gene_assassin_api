@@ -1,0 +1,3 @@
+#>P	YLR147C	YLR147C	YLR147C	XII	434161	434463	-1	Core Sm protein Sm D3; part of heteroheptameric complex (with Smb1p, Smd1p, Smd2p, Sme1p, Smx3p, and Smx2p) that is part of the spliceosomal U1, U2, U4, and U5 snRNPs; homolog of human Sm D3 [Source:SGD;Acc:S000004137]
+#>E	YLR147C.1	1.0	434158-434463
+XII	434245	434436	-1.0	LSM_domain	0	434245-434436	PF01423	http://pfam.sanger.ac.uk/family?acc=PF01423

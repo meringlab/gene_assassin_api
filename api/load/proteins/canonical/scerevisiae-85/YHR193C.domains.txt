@@ -1,0 +1,4 @@
+#>P	YHR193C	YHR193C	YHR193C	VIII	487715	488236	-1	Alpha subunit of the nascent polypeptide-associated complex (NAC); involved in protein sorting and translocation; associated with cytoplasmic ribosomes [Source:SGD;Acc:S000001236]
+#>E	YHR193C.1	1.0	487712-488236
+VIII	488021	488188	-1.0	Nas_poly-pep-assoc_cplx	0	488021-488188	PF01849	http://pfam.sanger.ac.uk/family?acc=PF01849
+VIII	487721	487831	-1.0	UBA/transl_elong_EF1B_N	0	487721-487831	PF00627	http://pfam.sanger.ac.uk/family?acc=PF00627

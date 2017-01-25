@@ -1,0 +1,4 @@
+#>P	YPL262W	YPL262W	YPL262W	XVI	47336	48799	1	Fumarase; converts fumaric acid to L-malic acid in the TCA cycle; cytosolic and mitochondrial distribution determined by the N-terminal targeting sequence, protein conformation, and status of glyoxylate shunt; phosphorylated in mitochondria [Source:SGD;Acc:S000006183]
+#>E	YPL262W.1	1.0	47336-48802
+XVI	47441	48436	1.0	Lyase1_N	0	47441-48436	PF00206	http://pfam.sanger.ac.uk/family?acc=PF00206
+XVI	48632	48796	1.0	Fumarase_C_C	0	48632-48796	PF10415	http://pfam.sanger.ac.uk/family?acc=PF10415

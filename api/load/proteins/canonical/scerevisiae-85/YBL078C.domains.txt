@@ -1,0 +1,3 @@
+#>P	YBL078C	YBL078C	YBL078C	II	80381	80731	-1	Component of autophagosomes and Cvt vesicles; regulator of Atg1p, targets it to autophagosomes; binds the Atg1p-Atg13p complex, triggering its vacuolar degradation; unique ubiquitin-like protein whose conjugation target is lipid phosphatidylethanolamine (PE); Atg8p-PE is anchored to membranes, is involved in phagophore expansion, and may mediate membrane fusion during autophagosome formation; deconjugation of Atg8p-PE is required for efficient autophagosome biogenesis [Source:SGD;Acc:S000000174]
+#>E	YBL078C.1	1.0	80378-80731
+II	80384	80695	-1.0	Atg8_ubiquitin-like	0	80384-80695	PF02991	http://pfam.sanger.ac.uk/family?acc=PF02991

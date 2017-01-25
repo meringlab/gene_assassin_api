@@ -1,0 +1,3 @@
+#>P	YBR111C	YBR111C	YBR111C	II	461181	461873	-1	Nudix hydrolase family member with ADP-ribose pyrophosphatase activity; shown to metabolize O-acetyl-ADP-ribose to AMP and acetylated ribose 5'-phosphate [Source:SGD;Acc:S000000315]
+#>E	YBR111C.1	1.0	461178-461873
+II	461268	461621	-1.0	NUDIX_hydrolase_dom	0	461268-461621	PF00293	http://pfam.sanger.ac.uk/family?acc=PF00293

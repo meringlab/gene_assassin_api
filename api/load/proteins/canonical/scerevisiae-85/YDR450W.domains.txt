@@ -1,0 +1,3 @@
+#>P	YDR450W	YDR450W	YDR450W	IV	1359923	1360795	1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S18 and bacterial S13; RPS18A has a paralog, RPS18B, that arose from the whole genome duplication; protein increases in abundance and relocalizes from cytoplasm to nuclear foci upon DNA replication stress [Source:SGD;Acc:S000002858]
+#>E	YDR450W.1,YDR450W.2	1,1	1359923-1359969,1360405-1360798
+IV	1359968	1360789	1	Ribosomal_S13	0	1359968-1359969,1360405-1360789	PF00416	http://pfam.sanger.ac.uk/family?acc=PF00416

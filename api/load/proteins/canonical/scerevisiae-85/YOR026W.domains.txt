@@ -1,0 +1,4 @@
+#>P	YOR026W	YOR026W	YOR026W	XV	379781	380803	1	Kinetochore checkpoint WD40 repeat protein; localizes to kinetochores during prophase and metaphase, delays anaphase in the presence of unattached kinetochores; forms complexes with Mad1p-Bub1p and with Cdc20p, binds Mad2p and Mad3p [Source:SGD;Acc:S000005552]
+#>E	YOR026W.1	1.0	379781-380806
+XV	379790	379894	1.0	WD40_repeat	0	379790-379894	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XV	380537	380617	1.0	WD40_repeat	0	380537-380617	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

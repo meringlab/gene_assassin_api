@@ -1,0 +1,3 @@
+#>P	YGR207C	YGR207C	YGR207C	VII	910846	911628	-1	Mitochondrial protein that interacts with frataxin (Yfh1p); putative ortholog of mammalian electron transfer flavoprotein complex subunit ETF-beta; may have a role in oxidative stress response [Source:SGD;Acc:S000003439]
+#>E	YGR207C.1	1.0	910843-911628
+VII	911047	911529	-1.0	ETF_a/b_N	0	911047-911529	PF01012	http://pfam.sanger.ac.uk/family?acc=PF01012

@@ -1,0 +1,6 @@
+#>P	YKL209C	YKL209C	YKL209C	XI	42426	46295	-1	Plasma membrane ATP-binding cassette (ABC) transporter; required for the export of a-factor, catalyzes ATP hydrolysis coupled to a-factor transport; contains 12 transmembrane domains and two ATP binding domains; expressed only in MATa cells [Source:SGD;Acc:S000001692]
+#>E	YKL209C.1	1.0	42423-46295
+XI	45366	46217	-1.0	ABC_transptr_TM_dom	0	45366-46217	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664
+XI	43314	44147	-1.0	ABC_transptr_TM_dom	0	43314-44147	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664
+XI	44697	45101	-1.0	ABC_transporter-like	0	44697-45101	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XI	42642	43016	-1.0	ABC_transporter-like	0	42642-43016	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005

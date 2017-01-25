@@ -1,0 +1,4 @@
+#>P	YAR003W	YAR003W	YAR003W	I	155005	156282	1	Subunit of the COMPASS (Set1C) complex; COMPASS methylates histone H3 on lysine 4 and is required in transcriptional silencing near telomeres; WD40 beta propeller superfamily member with similarity to mammalian Rbbp7 [Source:SGD;Acc:S000000064]
+#>E	YAR003W.1	1.0	155005-156285
+I	155617	155727	1.0	WD40_repeat	0	155617-155727	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+I	155206	155304	1.0	WD40_repeat	0	155206-155304	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

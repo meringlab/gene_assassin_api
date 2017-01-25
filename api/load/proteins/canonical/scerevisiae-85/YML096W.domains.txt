@@ -1,0 +1,4 @@
+#>P	YML096W	YML096W	YML096W	XIII	79909	81483	1	Putative protein with similarity to asparagine synthetases; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; YML096W is not an essential gene and partially overlaps the verified gene RAD10 [Source:SGD;Acc:S000004562]
+#>E	YML096W.1	1.0	79909-81486
+XIII	80131	80430	1.0	GATase_2	41.4	80131-80430	PF13537	http://pfam.sanger.ac.uk/family?acc=PF13537
+XIII	80599	81360	1.0	Asn_synthase	166.8	80599-81360	PF00733	http://pfam.sanger.ac.uk/family?acc=PF00733

@@ -1,0 +1,5 @@
+#>P	YNL001W	YNL001W	YNL001W	XIV	627456	628613	1	Protein that facilitates ribosomal subunit dissociation; Dom34-Hbs1 complex and Rli1p have roles in dissociating inactive ribosomes to facilitate translation restart, particularly ribosomes stalled in 3' UTRs; required for RNA cleavage in no-go decay, but reports conflict on endonuclease activity; Pelota ortholog; protein abundance increases in response to DNA replication stress; DOM34 has a paralog, YCL001W-B, that arose from the whole genome duplication [Source:SGD;Acc:S000004946]
+#>E	YNL001W.1	1.0	627456-628616
+XIV	627876	628277	1.0	eRF1_2	0	627876-628277	PF03464	http://pfam.sanger.ac.uk/family?acc=PF03464
+XIV	628287	628583	1.0	eRF1_3	0	628287-628583	PF03465	http://pfam.sanger.ac.uk/family?acc=PF03465
+XIV	627474	627860	1.0	eRF1_1_Pelota	0	627474-627860	PF03463	http://pfam.sanger.ac.uk/family?acc=PF03463

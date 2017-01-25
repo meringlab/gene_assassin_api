@@ -1,0 +1,3 @@
+#>P	YJR130C	YJR130C	YJR130C	X	665221	667137	-1	Cystathionine gamma-synthase, converts cysteine into cystathionine; STR2 has a paralog, YML082W, that arose from the whole genome duplication [Source:SGD;Acc:S000003891]
+#>E	YJR130C.1	1.0	665218-667137
+X	665239	666039	-1.0	Cys/Met-Metab_PyrdxlP-dep_enz	0	665239-666039	PF01053	http://pfam.sanger.ac.uk/family?acc=PF01053

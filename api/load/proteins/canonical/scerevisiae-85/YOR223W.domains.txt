@@ -1,0 +1,4 @@
+#>P	YOR223W	YOR223W	YOR223W	XV	759782	760657	1	Subunit of the DSC ubiquitin ligase complex; protein of unknown function that localizes to the ER and vacuole lumen; overexpression affects endocytic protein trafficking; ortholog of fission yeast dsc3 [Source:SGD;Acc:S000005749]
+#>E	YOR223W.1	1.0	759782-760660
+XV	759854	760156	1.0	UPF0645_transmembrane	0	759854-760156	PF10302	http://pfam.sanger.ac.uk/family?acc=PF10302
+XV	760238	760654	1.0	DUF2407_C	0	760238-760654	PF13373	http://pfam.sanger.ac.uk/family?acc=PF13373

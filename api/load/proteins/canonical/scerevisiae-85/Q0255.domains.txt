@@ -1,0 +1,5 @@
+#>P	Q0255	Q0255	Q0255	Mito	74495	75981	1	Maturase-like protein [Source:SGD;Acc:S000007282]
+#>E	Q0255.1,Q0255.2,Q0255.3	1,1,1	74495-75622,75663-75872,75904-75984
+Mito	75792	75927	1	NUMOD1	0	75792-75872,75904-75927	PF07453	http://pfam.sanger.ac.uk/family?acc=PF07453
+Mito	75167	75514	1	Endonuc_LAG/HNH	0	75167-75514	PF00961	http://pfam.sanger.ac.uk/family?acc=PF00961
+Mito	74759	75040	1	Endonuc_LAG/HNH	0	74759-75040	PF00961	http://pfam.sanger.ac.uk/family?acc=PF00961

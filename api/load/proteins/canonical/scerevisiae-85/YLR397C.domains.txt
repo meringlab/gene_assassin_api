@@ -1,0 +1,4 @@
+#>P	YLR397C	YLR397C	YLR397C	XII	912553	914892	-1	ATPase of the CDC48/PAS1/SEC18 (AAA) family, forms a hexameric complex; is essential for pre-60S maturation and release of several preribosome maturation factors; releases Rlp24p from purified pre-60S particles in vitro; target of the ribosomal biosynthesis inhibitor diazaborine; may be involved in degradation of aberrant mRNAs [Source:SGD;Acc:S000004389]
+#>E	YLR397C.1	1.0	912550-914892
+XII	913657	914049	-1.0	ATPase_AAA_core	0	913657-914049	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+XII	912847	913236	-1.0	ATPase_AAA_core	0	912847-913236	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

@@ -1,0 +1,3 @@
+#>P	YFL038C	YFL038C	YFL038C	VI	55369	55986	-1	Rab family GTPase; involved in the ER-to-Golgi step of the secretory pathway; complex formation with the Rab escort protein Mrs6p is required for prenylation of Ypt1p by protein geranylgeranyltransferase type II (Bet2p-Bet4p); binds to unspliced HAC1 mRNA; regulates unfolded protein response (UPR) by promoting the decay of HAC1 RNA [Source:SGD;Acc:S000001856]
+#>E	YFL038C.1	1.0	55366-55986
+VI	55477	55959	-1.0	Small_GTPase	0	55477-55959	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071

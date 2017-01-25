@@ -1,0 +1,3 @@
+#>P	YER030W	YER030W	YER030W	V	213437	213895	1	Histone chaperone for Htz1p/H2A-H2B dimer; required for the stabilization of the Chz1p-Htz1-H2B complex; has overlapping function with Nap1p; null mutant displays weak sensitivity to MMS and benomyl; contains a highly conserved CHZ motif; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000000832]
+#>E	YER030W.1	1.0	213437-213898
+V	213692	213802	1.0	Histone_chaperone_domain_CHZ	0	213692-213802	PF09649	http://pfam.sanger.ac.uk/family?acc=PF09649

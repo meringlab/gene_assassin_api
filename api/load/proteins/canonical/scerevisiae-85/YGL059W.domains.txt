@@ -1,0 +1,3 @@
+#>P	YGL059W	YGL059W	YGL059W	VII	392223	393695	1	Mitochondrial protein kinase; negatively regulates activity of the pyruvate dehydrogenase complex by phosphorylating the ser-133 residue of the Pda1p subunit; acts in concert with kinase Pkp1p and phosphatases Ptc5p and Ptc6p; relocalizes from mitochondrion to cytoplasm upon DNA replication stress [Source:SGD;Acc:S000003027]
+#>E	YGL059W.1	1.0	392223-393698
+VII	392457	392933	1.0	BCDHK/PDK_N	0	392457-392933	PF10436	http://pfam.sanger.ac.uk/family?acc=PF10436

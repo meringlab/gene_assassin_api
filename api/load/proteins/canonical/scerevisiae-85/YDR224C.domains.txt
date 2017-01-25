@@ -1,0 +1,3 @@
+#>P	YDR224C	YDR224C	YDR224C	IV	914320	914712	-1	Histone H2B; core histone protein required for chromatin assembly and chromosome function; nearly identical to HTB2; Rad6p-Bre1p-Lge1p mediated ubiquitination regulates reassembly after DNA replication, transcriptional activation, meiotic DSB formation and H3 methylation [Source:SGD;Acc:S000002632]
+#>E	YDR224C.1	1.0	914317-914712
+IV	914401	914604	-1.0	Histone_core_D	0	914401-914604	PF00125	http://pfam.sanger.ac.uk/family?acc=PF00125

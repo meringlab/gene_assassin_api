@@ -1,0 +1,3 @@
+#>P	YIL124W	YIL124W	YIL124W	IX	126204	127094	1	Bifunctional triacylglycerol lipase and 1-acyl DHAP reductase; NADPH-dependent 1-acyl dihydroxyacetone phosphate reductase involved in phosphatidic acid biosynthesis; lipid droplet triacylglycerol lipase involved in the mobilization of non-polar lipids; found in lipid particles, the endoplasmic reticulum and the mitochondrial outer membrane; required for spore germination; role in cell wall biosynthesis; capable of metabolizing steroid hormones; oleic acid inducible [Source:SGD;Acc:S000001386]
+#>E	YIL124W.1	1.0	126204-127097
+IX	126231	126725	1.0	DH_sc/Rdtase_SDR	0	126231-126725	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106

@@ -1,0 +1,3 @@
+#>P	YBL102W	YBL102W	YBL102W	II	24098	24742	1	Tetra-spanning membrane protein found mostly in the late Golgi; non-essential; can suppress some sed5 alleles; may be part of the transport machinery, but precise function is unknown; similar to mammalian syntaxin 5 [Source:SGD;Acc:S000000198]
+#>E	YBL102W.1	1.0	24098-24745
+II	24368	24706	1.0	Vesicle_transpt_Got1/SFT2	0	24368-24706	PF04178	http://pfam.sanger.ac.uk/family?acc=PF04178

@@ -1,0 +1,6 @@
+#>P	YNR011C	YNR011C	YNR011C	XIV	644323	646950	-1	RNA-dependent DExD/H-box ATPase; required for activation of spliceosome before first transesterification step in RNA splicing; implicated in rearranging and proofreading snRNA structure in catalytic activation of spliceosome; ortholog of human protein DHX16 [Source:SGD;Acc:S000005294]
+#>E	YNR011C.1	1.0	644320-646950
+XIV	644833	645099	-1.0	Helicase-assoc_dom	0	644833-645099	PF04408	http://pfam.sanger.ac.uk/family?acc=PF04408
+XIV	645280	645552	-1.0	Helicase_C	0	645280-645552	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XIV	645796	646260	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	645796-646260	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+XIV	644365	644727	-1.0	DUF1605	0	644365-644727	PF07717	http://pfam.sanger.ac.uk/family?acc=PF07717

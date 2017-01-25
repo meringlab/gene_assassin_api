@@ -1,0 +1,3 @@
+#>P	YJR131W	YJR131W	YJR131W	X	667644	669290	1	Alpha-1,2-mannosidase; involved in ER-associated protein degradation (ERAD); catalyzes the removal of one mannose residue from a glycosylated protein, converting the modification from Man9GlcNAc to Man8GlcNAc; catalyzes the last step in glycoprotein maturation in the ER and is critical for ER protein degradation [Source:SGD;Acc:S000003892]
+#>E	YJR131W.1	1.0	667644-669293
+X	667776	669239	1.0	Glyco_hydro_47	0	667776-669239	PF01532	http://pfam.sanger.ac.uk/family?acc=PF01532

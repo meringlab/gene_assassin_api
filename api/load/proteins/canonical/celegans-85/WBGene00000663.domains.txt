@@ -1,0 +1,4 @@
+#>P	WBGene00000663	W05G11.3.1	W05G11.3.1	III	41063	41968	1	COLlagen  [Source:RefSeq peptide;Acc:NP_497131]
+#>E	W05G11.3.1.e1	0.0	41063-41971
+III	41483	41650	1.0	Collagen	81.3	41483-41650	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
+III	41096	41233	1.0	Col_cuticle_N	48.7	41096-41233	PF01484	http://pfam.sanger.ac.uk/family?acc=PF01484

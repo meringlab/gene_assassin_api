@@ -1,0 +1,4 @@
+#>P	YOR181W	YOR181W	YOR181W	XV	675939	677837	1	Actin assembly factor; C-terminal WCA domain activates Arp2/3 complex-mediated nucleation of branched actin filaments and a polyproline domain which can nucleate actin filaments independent of Arp2/3; mutants are defective in actin cytoskeleton dependent processes such as: endocytosis, bud site selection and cytokinesis; localizes with the Arp2/3 complex to actin cortical patches; homolog of the Wiskott-Aldrich Syndrome protein (WASP), implicated in severe immunodeficiency [Source:SGD;Acc:S000005707]
+#>E	YOR181W.1	1.0	675939-677840
+XV	675978	676307	1.0	EVH1	0	675978-676307	PF00568	http://pfam.sanger.ac.uk/family?acc=PF00568
+XV	677568	677648	1.0	WH2_actin-bd	0	677568-677648	PF02205	http://pfam.sanger.ac.uk/family?acc=PF02205

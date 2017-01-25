@@ -1,0 +1,4 @@
+#>P	YDR243C	YDR243C	YDR243C	IV	948521	950284	-1	RNA helicase in the DEAD-box family; involved in RNA isomerization at the 5' splice site and for exchange of U6 for U1 snRNA at the 5' splice site [Source:SGD;Acc:S000002651]
+#>E	YDR243C.1	1.0	948518-950284
+IV	949124	949693	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	949124-949693	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+IV	948692	948919	-1.0	Helicase_C	0	948692-948919	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

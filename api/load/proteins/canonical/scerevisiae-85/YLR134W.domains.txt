@@ -1,0 +1,5 @@
+#>P	YLR134W	YLR134W	YLR134W	XII	410723	412411	1	Minor isoform of pyruvate decarboxylase; key enzyme in alcoholic fermentation, decarboxylates pyruvate to acetaldehyde, regulation is glucose- and ethanol-dependent, repressed by thiamine, involved in amino acid catabolism [Source:SGD;Acc:S000004124]
+#>E	YLR134W.1	1.0	410723-412414
+XII	411323	411724	1.0	Thiamin_PyroP_enz_cen_dom	0	411323-411724	PF00205	http://pfam.sanger.ac.uk/family?acc=PF00205
+XII	411938	412243	1.0	TPP_enzyme-bd_C	0	411938-412243	PF02775	http://pfam.sanger.ac.uk/family?acc=PF02775
+XII	410735	411256	1.0	Thiamin_PyroP_enz_TPP-bd_dom	0	410735-411256	PF02776	http://pfam.sanger.ac.uk/family?acc=PF02776

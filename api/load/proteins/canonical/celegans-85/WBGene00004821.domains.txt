@@ -1,0 +1,4 @@
+#>P	WBGene00004821	F54D10.1	F54D10.1	II	3824155	3824706	1	SKp1 Related (ubiquitin ligase complex component)  [Source:RefSeq peptide;Acc:NP_494662]
+#>E	F54D10.1.e1	1.0	3824155-3824709
+II	3824458	3824667	1.0	Skp1_comp_dimer	70	3824458-3824667	PF01466	http://pfam.sanger.ac.uk/family?acc=PF01466
+II	3824221	3824409	1.0	Skp1_comp_POZ	41.4	3824221-3824409	PF03931	http://pfam.sanger.ac.uk/family?acc=PF03931

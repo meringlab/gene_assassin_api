@@ -1,0 +1,4 @@
+#>P	YEL060C	YEL060C	YEL060C	V	40049	41953	-1	Vacuolar proteinase B (yscB) with H3 N-terminal endopeptidase activity; serine protease of the subtilisin family; involved in protein degradation in the vacuole and required for full protein degradation during sporulation; activity inhibited by Pbi2p; protein abundance increases in response to DNA replication stress; PRB1 has a paralog, YSP3, that arose from the whole genome duplication [Source:SGD;Acc:S000000786]
+#>E	YEL060C.1	1.0	40046-41953
+V	40250	40990	-1.0	Peptidase_S8/S53	0	40250-40990	PF00082	http://pfam.sanger.ac.uk/family?acc=PF00082
+V	41117	41410	-1.0	Prot_inh_S8A	0	41117-41410	PF05922	http://pfam.sanger.ac.uk/family?acc=PF05922

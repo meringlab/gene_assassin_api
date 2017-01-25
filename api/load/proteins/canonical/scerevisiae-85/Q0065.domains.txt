@@ -1,0 +1,5 @@
+#>P	Q0065	Q0065	Q0065	Mito	13818	21932	1	Endonuclease I-SceII; encoded by a mobile group I intron within the mitochondrial COX1 gene; intron is normally spliced by the BI4p maturase but AI4p can mutate to acquire the same maturase activity [Source:SGD;Acc:S000007264]
+#>E	Q0065.1,Q0065.2,Q0065.3,Q0065.4	1,1,1,1	13818-13986,16435-16470,18954-18991,20508-21935
+Mito	21564	21842	1	Endonuc_LAG/HNH	0	21564-21842	PF00961	http://pfam.sanger.ac.uk/family?acc=PF00961
+Mito	21246	21509	1	Endonuc_LAG/HNH	0	21246-21509	PF00961	http://pfam.sanger.ac.uk/family?acc=PF00961
+Mito	13851	21011	1	Cyt_c_Oxase_su1	0	13851-13986,16435-16470,18954-18991,20508-21011	PF00115	http://pfam.sanger.ac.uk/family?acc=PF00115

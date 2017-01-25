@@ -1,0 +1,5 @@
+#>P	YBR104W	YBR104W	YBR104W	II	449667	450653	1	Putative mitochondrial inner membrane transporter; proposed role in oleate metabolism and glutamate biosynthesis; member of the mitochondrial carrier (MCF) family; YMC2 has a paralog, YMC1, that arose from the whole genome duplication [Source:SGD;Acc:S000000308]
+#>E	YBR104W.1	1.0	449667-450656
+II	449760	450023	1.0	Mitochondrial_sb/sol_carrier	0	449760-450023	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+II	450084	450335	1.0	Mitochondrial_sb/sol_carrier	0	450084-450335	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+II	450372	450647	1.0	Mitochondrial_sb/sol_carrier	0	450372-450647	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

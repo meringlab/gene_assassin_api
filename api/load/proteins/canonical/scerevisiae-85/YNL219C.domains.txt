@@ -1,0 +1,3 @@
+#>P	YNL219C	YNL219C	YNL219C	XIV	235999	237663	-1	Mannosyltransferase, involved in N-linked glycosylation; catalyzes both the transfer of seventh mannose residue on B-arm and ninth mannose residue on the C-arm from Dol-P-Man to lipid-linked oligosaccharides; mutation of the human ortholog causes type 1 congenital disorders of glycosylation [Source:SGD;Acc:S000005163]
+#>E	YNL219C.1	1.0	235996-237663
+XIV	236422	237633	-1.0	GPI_mannosylTrfase	0	236422-237633	PF03901	http://pfam.sanger.ac.uk/family?acc=PF03901

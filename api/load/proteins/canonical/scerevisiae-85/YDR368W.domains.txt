@@ -1,0 +1,3 @@
+#>P	YDR368W	YDR368W	YDR368W	IV	1213904	1214839	1	NADPH-dependent aldo-keto reductase; reduces multiple substrates including 2-methylbutyraldehyde and D,L-glyceraldehyde, expression is induced by osmotic and oxidative stress; functionally redundant with other aldo-keto reductases; protein abundance increases in response to DNA replication stress; YPR1 has a paralog, GCY1, that arose from the whole genome duplication [Source:SGD;Acc:S000002776]
+#>E	YDR368W.1	1.0	1213904-1214842
+IV	1213970	1214779	1.0	NADP_OxRdtase_dom	0	1213970-1214779	PF00248	http://pfam.sanger.ac.uk/family?acc=PF00248

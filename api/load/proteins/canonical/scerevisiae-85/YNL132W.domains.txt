@@ -1,0 +1,4 @@
+#>P	YNL132W	YNL132W	YNL132W	XIV	375321	378488	1	Protein required for biogenesis of the small ribosomal subunit; heterozygous mutant shows haploinsufficiency in K1 killer toxin resistance; essential gene; NAT10, the human homolog, implicated in several types of cancer and premature aging. [Source:SGD;Acc:S000005076]
+#>E	YNL132W.1	1.0	375321-378491
+XIV	375642	375926	1.0	DUF1726	0	375642-375926	PF08351	http://pfam.sanger.ac.uk/family?acc=PF08351
+XIV	376161	376799	1.0	DUF699_exoDNase-V_alpha	0	376161-376799	PF05127	http://pfam.sanger.ac.uk/family?acc=PF05127

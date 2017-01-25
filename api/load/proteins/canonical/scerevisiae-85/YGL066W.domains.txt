@@ -1,0 +1,3 @@
+#>P	YGL066W	YGL066W	YGL066W	VII	377609	379579	1	SAGA complex subunit; has a role in anchoring the deubiquitination module into SAGA and SLIK complexes; involved in preinitiation complex assembly at promoters; relocalizes to the cytosol in response to hypoxia; human ortholog ataxin-7 is associated with spinocerebellar ataxia diseases; mutant displays reduced transcription elongation in the G-less-based run-on (GLRO) assay [Source:SGD;Acc:S000003034]
+#>E	YGL066W.1	1.0	377609-379582
+VII	378239	378451	1.0	SCA7_dom	0	378239-378451	PF08313	http://pfam.sanger.ac.uk/family?acc=PF08313

@@ -1,0 +1,3 @@
+#>P	YNL153C	YNL153C	YNL153C	XIV	345672	346058	-1	Subunit of the heterohexameric cochaperone prefoldin complex; prefoldin binds specifically to cytosolic chaperonin and transfers target proteins to it; prefoldin complex also localizes to chromatin of actively transcribed genes in the nucleus and facilitates transcriptional elongation [Source:SGD;Acc:S000005097]
+#>E	YNL153C.1	1.0	345669-346058
+XIV	345690	346004	-1.0	PFD_beta-like	0	345690-346004	PF01920	http://pfam.sanger.ac.uk/family?acc=PF01920

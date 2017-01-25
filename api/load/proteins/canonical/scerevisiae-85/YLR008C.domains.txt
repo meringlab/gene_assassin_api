@@ -1,0 +1,3 @@
+#>P	YLR008C	YLR008C	YLR008C	XII	165580	166083	-1	Subunit of the import motor (PAM complex); the PAM complex is a  component of the Translocase of the Inner Mitochondrial membrane (TIM23 complex); essential J-protein cochaperone that stimulates Ssc1p ATPase activity to drive import; inhibited by Pam16p [Source:SGD;Acc:S000003998]
+#>E	YLR008C.1	1.0	165577-166083
+XII	165598	165741	-1.0	DnaJ_N	0	165598-165741	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226

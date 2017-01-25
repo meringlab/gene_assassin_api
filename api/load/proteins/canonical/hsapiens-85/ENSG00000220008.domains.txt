@@ -1,0 +1,6 @@
+#>P	ENSG00000220008	ENST00000585527	ENSP00000467753	19	2290001	2291776	-1	leucine rich repeat and Ig domain containing 3 [Source:HGNC Symbol;Acc:HGNC:21206]
+#>E	ENSE00002968835	1.0	2289998-2291776
+19	2291507	2291608	-1.0	Leu-rich_rpt	198.7	2291507-2291608	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+19	2291291	2291473	-1.0	Leu-rich_rpt	198.7	2291291-2291473	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+19	2290868	2291038	-1.0	Leu-rich_rpt	198.7	2290868-2291038	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+19	2290286	2290543	-1.0	Ig_I-set	62.2	2290286-2290543	PF07679	http://pfam.sanger.ac.uk/family?acc=PF07679

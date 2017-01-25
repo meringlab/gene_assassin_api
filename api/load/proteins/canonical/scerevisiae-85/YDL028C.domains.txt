@@ -1,0 +1,3 @@
+#>P	YDL028C	YDL028C	YDL028C	IV	401000	403291	-1	Dual-specificity kinase; autophosphorylation required for function; required for spindle pole body (SPB) duplication and spindle checkpoint function; contributes to bi-orientation by promoting formation of force-generating kinetochore-microtubule attachments in meiosis I; substrates include SPB proteins Spc42p, Spc110p, and Spc98p, mitotic exit network protein Mob1p, kinetochore protein Cnn1p, and checkpoint protein Mad1p; substrate of APCC(Cdh1); similar to human Mps1p [Source:SGD;Acc:S000002186]
+#>E	YDL028C.1	1.0	400997-403291
+IV	401147	401974	-1.0	Prot_kinase_cat_dom	168.2	401147-401974	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

@@ -1,0 +1,4 @@
+#>P	YFR022W	YFR022W	YFR022W	VI	196833	199031	1	Alpha-arrestin involved in ubiquitin-dependent endocytosis; contributes to desensitization of agonist-occupied alpha-factor receptor Ste2p by Rsp5p-independent internalization; PPXY motif-mediated binding of the ubiquitin ligase Rsp5p is not required for adaptation; mutation suppresses the temperature sensitivity of an mck1 rim11 double mutant; ROG3 has a paralog, ROD1, that arose from the whole genome duplication [Source:SGD;Acc:S000001918]
+#>E	YFR022W.1	1.0	196833-199034
+VI	197526	198011	1.0	Arrestin_C-like	0	197526-198011	PF02752	http://pfam.sanger.ac.uk/family?acc=PF02752
+VI	197244	197480	1.0	Arrestin-like_N	0	197244-197480	PF00339	http://pfam.sanger.ac.uk/family?acc=PF00339

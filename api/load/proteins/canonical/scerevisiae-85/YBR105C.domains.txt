@@ -1,0 +1,3 @@
+#>P	YBR105C	YBR105C	YBR105C	II	450884	451969	-1	GID Complex regulatory subunit; binds GID Complex in response to glucose through interactions with complex member Vid28p; regulates fructose-1,6-bisphosphatase (FBPase) targeting to the vacuole; promotes proteasome-dependent catabolite degradation of FBPase; peripheral membrane protein located at Vid (vacuole import and degradation) vesicles [Source:SGD;Acc:S000000309]
+#>E	YBR105C.1	1.0	450881-451969
+II	450929	451609	-1.0	Vacuolar_import/degrad_Vid24	0	450929-451609	PF09783	http://pfam.sanger.ac.uk/family?acc=PF09783

@@ -1,0 +1,4 @@
+#>P	YNL115C	YNL115C	YNL115C	XIV	410122	412053	-1	Putative protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to mitochondria; YNL115C is not an essential gene [Source:SGD;Acc:S000005059]
+#>E	YNL115C.1	1.0	410119-412053
+XIV	410200	410922	-1.0	AB_hydrolase_1	0	410200-410922	PF00561	http://pfam.sanger.ac.uk/family?acc=PF00561
+XIV	411067	411978	-1.0	DUF2417	0	411067-411978	PF10329	http://pfam.sanger.ac.uk/family?acc=PF10329

@@ -1,0 +1,3 @@
+#>P	YDR174W	YDR174W	YDR174W	IV	812110	812847	1	Chromatin associated high mobility group (HMG) family member; involved in genome maintenance; rDNA-binding component of the Pol I transcription system; associates with a 5'-3' DNA helicase and Fpr1p, a prolyl isomerase; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000002581]
+#>E	YDR174W.1	1.0	812110-812850
+IV	812425	812643	1.0	HMG_superfamily	0	812425-812643	PF00505	http://pfam.sanger.ac.uk/family?acc=PF00505

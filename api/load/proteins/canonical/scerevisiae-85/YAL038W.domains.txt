@@ -1,0 +1,4 @@
+#>P	YAL038W	YAL038W	YAL038W	I	71786	73285	1	Pyruvate kinase; functions as a homotetramer in glycolysis to convert phosphoenolpyruvate to pyruvate, the input for aerobic (TCA cycle) or anaerobic (glucose fermentation) respiration; regulated via allosteric activation by fructose bisphosphate; CDC19 has a paralog, PYK2, that arose from the whole genome duplication [Source:SGD;Acc:S000000036]
+#>E	YAL038W.1	1.0	71786-73288
+I	71840	72871	1.0	Pyrv_Knase_brl	0	71840-72871	PF00224	http://pfam.sanger.ac.uk/family?acc=PF00224
+I	72920	73279	1.0	Pyrv_Knase_C	0	72920-73279	PF02887	http://pfam.sanger.ac.uk/family?acc=PF02887

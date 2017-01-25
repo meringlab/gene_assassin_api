@@ -1,0 +1,4 @@
+#>P	YBL019W	YBL019W	YBL019W	II	184353	185912	1	Class II abasic (AP) endonuclease involved in repair of DNA damage; homolog of human HAP1 and E. coli exoIII [Source:SGD;Acc:S000000115]
+#>E	YBL019W.1	1.0	184353-185915
+II	184410	185414	1.0	Endo/exonuclease/phosphatase	0	184410-185414	PF03372	http://pfam.sanger.ac.uk/family?acc=PF03372
+II	185772	185909	1.0	Znf_GRF	0	185772-185909	PF06839	http://pfam.sanger.ac.uk/family?acc=PF06839

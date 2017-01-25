@@ -1,0 +1,3 @@
+#>P	YER064C	YER064C	YER064C	V	282708	284222	-1	Non-essential nuclear protein; null mutation has global effects on transcription; VHR2 has a paralog, VHR1, that arose from the whole genome duplication; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000000866]
+#>E	YER064C.1	1.0	282705-284222
+V	283887	284165	-1.0	DUF352	0	283887-284165	PF04001	http://pfam.sanger.ac.uk/family?acc=PF04001

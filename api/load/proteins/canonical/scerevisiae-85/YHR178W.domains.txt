@@ -1,0 +1,4 @@
+#>P	YHR178W	YHR178W	YHR178W	VIII	459299	461527	1	Transcription factor; involved in regulating multidrug resistance and oxidative stress response; forms a heterodimer with Pdr1p; contains a Zn(II)2Cys6 zinc finger domain that interacts with a pleiotropic drug resistance element in vitro [Source:SGD;Acc:S000001221]
+#>E	YHR178W.1	1.0	459299-461530
+VIII	459359	459466	1.0	Zn2-C6_fun-type_DNA-bd	0	459359-459466	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172
+VIII	460205	460936	1.0	Transcription_factor_fun	0	460205-460936	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082

@@ -1,0 +1,3 @@
+#>P	YGL087C	YGL087C	YGL087C	VII	346409	346904	-1	Ubiquitin-conjugating enzyme variant; involved in error-free postreplication repair; forms a heteromeric complex with Ubc13p, an active ubiquitin-conjugating enzyme; cooperates with chromatin-associated RING finger proteins, Rad18p and Rad5p; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003055]
+#>E	YGL087C.2,YGL087C.1	1,1	346406-346808,346894-346904
+VII	346439	346750	-1	UBQ-conjugat_E2	0	346439-346750	PF00179	http://pfam.sanger.ac.uk/family?acc=PF00179

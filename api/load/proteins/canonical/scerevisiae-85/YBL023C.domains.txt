@@ -1,0 +1,4 @@
+#>P	YBL023C	YBL023C	YBL023C	II	174923	177526	-1	Protein involved in DNA replication; component of the Mcm2-7 hexameric helicase complex that binds chromatin as a part of the pre-replicative complex; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000000119]
+#>E	YBL023C.1	1.0	174920-177526
+II	176945	177382	-1.0	MCM_2	0	176945-177382	PF12619	http://pfam.sanger.ac.uk/family?acc=PF12619
+II	174992	176086	-1.0	MCM_DNA-dep_ATPase	0	174992-176086	PF00493	http://pfam.sanger.ac.uk/family?acc=PF00493

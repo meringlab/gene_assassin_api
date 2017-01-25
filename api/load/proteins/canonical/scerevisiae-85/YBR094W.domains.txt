@@ -1,0 +1,4 @@
+#>P	YBR094W	YBR094W	YBR094W	II	432036	434294	1	Putative tubulin tyrosine ligase associated with P-bodies; forms cytoplasmic foci upon DNA replication stress [Source:SGD;Acc:S000000298]
+#>E	YBR094W.1	1.0	432036-434297
+II	432036	432740	1.0	SurE-like_Pase/nucleotidase	0	432036-432740	PF01975	http://pfam.sanger.ac.uk/family?acc=PF01975
+II	433200	434228	1.0	Tub_tyr_ligase	0	433200-434228	PF03133	http://pfam.sanger.ac.uk/family?acc=PF03133

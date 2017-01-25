@@ -1,0 +1,4 @@
+#>P	YGL205W	YGL205W	YGL205W	VII	108158	110401	1	Fatty-acyl coenzyme A oxidase; involved in the fatty acid beta-oxidation pathway; localized to the peroxisomal matrix [Source:SGD;Acc:S000003173]
+#>E	YGL205W.1	1.0	108158-110404
+VII	108710	108886	1.0	Acyl-CoA_Oxase/DH_cen-dom	0	108710-108886	PF02770	http://pfam.sanger.ac.uk/family?acc=PF02770
+VII	109787	110335	1.0	Acyl-CoA_oxidase_C	0	109787-110335	PF01756	http://pfam.sanger.ac.uk/family?acc=PF01756

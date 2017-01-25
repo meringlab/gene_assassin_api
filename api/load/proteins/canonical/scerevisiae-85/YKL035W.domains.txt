@@ -1,0 +1,3 @@
+#>P	YKL035W	YKL035W	YKL035W	XI	369891	371387	1	UDP-glucose pyrophosphorylase (UGPase); catalyses the reversible formation of UDP-Glc from glucose 1-phosphate and UTP, involved in a wide variety of metabolic pathways, expression modulated by Pho85p through Pho4p; UGP1 has a paralog, YHL012W, that arose from the whole genome duplication [Source:SGD;Acc:S000001518]
+#>E	YKL035W.1	1.0	369891-371390
+XI	370041	371282	1.0	UDPGP_trans	650	370041-371282	PF01704	http://pfam.sanger.ac.uk/family?acc=PF01704

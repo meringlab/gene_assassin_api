@@ -1,0 +1,5 @@
+#>P	YPR074C	YPR074C	YPR074C	XVI	692799	694838	-1	Transketolase; catalyzes conversion of xylulose-5-phosphate and ribose-5-phosphate to sedoheptulose-7-phosphate and glyceraldehyde-3-phosphate in the pentose phosphate pathway; needed for synthesis of aromatic amino acids; TKL1 has a paralog, TKL2, that arose from the whole genome duplication [Source:SGD;Acc:S000006278]
+#>E	YPR074C.1	1.0	692796-694838
+XVI	693243	693776	-1.0	Transketolase-like_Pyr-bd	0	693243-693776	PF02779	http://pfam.sanger.ac.uk/family?acc=PF02779
+XVI	693822	694817	-1.0	Transketolase_N	0	693822-694817	PF00456	http://pfam.sanger.ac.uk/family?acc=PF00456
+XVI	692871	693203	-1.0	Transketolase_C	0	692871-693203	PF02780	http://pfam.sanger.ac.uk/family?acc=PF02780

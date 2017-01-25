@@ -1,0 +1,4 @@
+#>P	YOR003W	YOR003W	YOR003W	XV	331455	332888	1	Putative precursor to the subtilisin-like protease III; YSP3 has a paralog, PRB1, that arose from the whole genome duplication [Source:SGD;Acc:S000005529]
+#>E	YOR003W.1	1.0	331455-332891
+XV	331662	331955	1.0	Prot_inh_S8A	0	331662-331955	PF05922	http://pfam.sanger.ac.uk/family?acc=PF05922
+XV	332082	332789	1.0	Peptidase_S8/S53	0	332082-332789	PF00082	http://pfam.sanger.ac.uk/family?acc=PF00082

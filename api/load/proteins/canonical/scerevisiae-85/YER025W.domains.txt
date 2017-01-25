@@ -1,0 +1,5 @@
+#>P	YER025W	YER025W	YER025W	V	205251	206831	1	Gamma subunit of the translation initiation factor eIF2; involved in the identification of the start codon; binds GTP when forming the ternary complex with GTP and tRNAi-Met; mutations in human ortholog cause X-linked intellectual disability (XLID) [Source:SGD;Acc:S000000827]
+#>E	YER025W.1	1.0	205251-206834
+V	205545	206159	1.0	ProtSyn_GTP-bd	0	205545-206159	PF00009	http://pfam.sanger.ac.uk/family?acc=PF00009
+V	206253	206501	1.0	Transl_elong_EFTu/EF1A_2	0	206253-206501	PF03144	http://pfam.sanger.ac.uk/family?acc=PF03144
+V	206529	206801	1.0	TIF2_gsu_C	0	206529-206801	PF09173	http://pfam.sanger.ac.uk/family?acc=PF09173

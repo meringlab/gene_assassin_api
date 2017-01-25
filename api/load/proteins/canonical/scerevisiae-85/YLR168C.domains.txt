@@ -1,0 +1,3 @@
+#>P	YLR168C	YLR168C	YLR168C	XII	499581	500270	-1	Mitochondrial intermembrane space protein; involved in phospholipid metabolism; has role in regulation of phospholipid metabolism by inhibiting conversion of phosphatidylethanolamine to phosphatidylcholine; null mutant has defects in mitochondrial morphology; similar to Ups1p, Ups3p and to human PRELI; UPS2 has a paralog, UPS3, that arose from the whole genome duplication [Source:SGD;Acc:S000004158]
+#>E	YLR168C.1	1.0	499578-500270
+XII	499758	500228	-1.0	PRELI/MSF1	0	499758-500228	PF04707	http://pfam.sanger.ac.uk/family?acc=PF04707

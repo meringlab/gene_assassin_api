@@ -1,0 +1,4 @@
+#>P	YHL003C	YHL003C	YHL003C	VIII	100651	101883	-1	Ceramide synthase component; involved in synthesis of ceramide from C26(acyl)-coenzyme A and dihydrosphingosine or phytosphingosine, functionally equivalent to Lac1p; forms ER foci upon DNA replication stress; homolog of human CERS2, a tumor metastasis suppressor gene whose silencing enahnces invasion/metastasis of prostate cancer cells; LAG1 has a paralog, LAC1, that arose from the whole genome duplication [Source:SGD;Acc:S000000995]
+#>E	YHL003C.1	1.0	100648-101883
+VIII	101380	101559	-1.0	TRAM1	0	101380-101559	PF08390	http://pfam.sanger.ac.uk/family?acc=PF08390
+VIII	100753	101367	-1.0	TLC-dom	0	100753-101367	PF03798	http://pfam.sanger.ac.uk/family?acc=PF03798

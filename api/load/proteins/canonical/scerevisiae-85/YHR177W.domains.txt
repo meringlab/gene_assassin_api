@@ -1,0 +1,4 @@
+#>P	YHR177W	YHR177W	YHR177W	VIII	456591	457949	1	Putative transcription factor containing a WOPR domain; binds DNA in vitro; similar to C. albicans Wor1p transcription factor that regulates white-opaque switching; overexpression causes a cell cycle delay or arrest [Source:SGD;Acc:S000001220]
+#>E	YHR177W.1	1.0	456591-457952
+VIII	456609	456854	1.0	Gluconate_transp_1/Pac2	0	456609-456854	PF09729	http://pfam.sanger.ac.uk/family?acc=PF09729
+VIII	456918	457028	1.0	Gluconate_transp_1/Pac2	0	456918-457028	PF09729	http://pfam.sanger.ac.uk/family?acc=PF09729

@@ -1,0 +1,5 @@
+#>P	YPR021C	YPR021C	YPR021C	XVI	600652	603357	-1	Mitochondrial amino acid transporter; acts both as a glutamate uniporter and as an aspartate-glutamate exchanger; involved in nitrogen metabolism and nitrogen compound biosynthesis [Source:SGD;Acc:S000006225]
+#>E	YPR021C.1	1.0	600649-603357
+XVI	601222	601497	-1.0	Mitochondrial_sb/sol_carrier	0	601222-601497	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XVI	600916	601185	-1.0	Mitochondrial_sb/sol_carrier	0	600916-601185	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XVI	601504	601764	-1.0	Mitochondrial_sb/sol_carrier	0	601504-601764	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

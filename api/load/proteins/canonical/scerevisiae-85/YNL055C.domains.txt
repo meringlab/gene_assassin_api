@@ -1,0 +1,3 @@
+#>P	YNL055C	YNL055C	YNL055C	XIV	517997	518845	-1	Mitochondrial porin (voltage-dependent anion channel); outer membrane protein required for maintenance of mitochondrial osmotic stability and mitochondrial membrane permeability; couples the glutathione pools of the intermembrane space (IMS) and the cytosol; phosphorylated; protein abundance increases in response to DNA replication stress; POR1 has a paralog, POR2, that arose from the whole genome duplication [Source:SGD;Acc:S000005000]
+#>E	YNL055C.1	1.0	517994-518845
+XIV	518018	518839	-1.0	Porin_Euk	0	518018-518839	PF01459	http://pfam.sanger.ac.uk/family?acc=PF01459

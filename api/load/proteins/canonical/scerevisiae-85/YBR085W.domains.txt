@@ -1,0 +1,5 @@
+#>P	YBR085W	YBR085W	YBR085W	II	415983	416903	1	Mitochondrial inner membrane ADP/ATP translocator; exchanges cytosolic ADP for mitochondrially synthesized ATP; expressed under anaerobic conditions; similar to Aac1p; has roles in maintenance of viability and in respiration; AAC3 has a paralog, PET9, that arose from the whole genome duplication [Source:SGD;Acc:S000000289]
+#>E	YBR085W.1	1.0	415983-416906
+II	416328	416603	1.0	Mitochondrial_sb/sol_carrier	0	416328-416603	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+II	416007	416297	1.0	Mitochondrial_sb/sol_carrier	0	416007-416297	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+II	416625	416891	1.0	Mitochondrial_sb/sol_carrier	0	416625-416891	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

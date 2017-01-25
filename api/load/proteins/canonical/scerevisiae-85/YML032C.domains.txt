@@ -1,0 +1,3 @@
+#>P	YML032C	YML032C	YML032C	XIII	212518	213930	-1	Protein that stimulates strand exchange; stimulates strand exchange by facilitating Rad51p binding to single-stranded DNA; anneals complementary single-stranded DNA; involved in the repair of double-strand breaks in DNA during vegetative growth and meiosis and UV induced sister chromatid recombination [Source:SGD;Acc:S000004494]
+#>E	YML032C.1	1.0	212515-213930
+XIII	213439	213876	-1.0	Rad52_Rad22	0	213439-213876	PF04098	http://pfam.sanger.ac.uk/family?acc=PF04098

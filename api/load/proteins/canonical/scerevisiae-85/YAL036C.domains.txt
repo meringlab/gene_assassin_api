@@ -1,0 +1,4 @@
+#>P	YAL036C	YAL036C	YAL036C	I	75046	76152	-1	Member of the DRG family of GTP-binding proteins; associates with translating ribosomes; interacts with Tma46p, Ygr250cp, Gir2p and Yap1p via two-hybrid [Source:SGD;Acc:S000000034]
+#>E	YAL036C.1	1.0	75043-76152
+I	75049	75273	-1.0	TGS	0	75049-75273	PF02824	http://pfam.sanger.ac.uk/family?acc=PF02824
+I	75655	75951	-1.0	GTP_binding_domain	0	75655-75951	PF01926	http://pfam.sanger.ac.uk/family?acc=PF01926

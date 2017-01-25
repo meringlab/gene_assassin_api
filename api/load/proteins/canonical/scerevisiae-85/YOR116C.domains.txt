@@ -1,0 +1,7 @@
+#>P	YOR116C	YOR116C	YOR116C	XV	539766	544145	-1	RNA polymerase III largest subunit C160; part of core enzyme; similar to bacterial beta-prime subunit and to RPA190 and RPO21 [Source:SGD;Acc:S000005642]
+#>E	YOR116C.1	1.0	539763-544145
+XV	541602	541919	-1.0	RNA_pol_Rpb1_4	102.7	541602-541919	PF05000	http://pfam.sanger.ac.uk/family?acc=PF05000
+XV	539991	541583	-1.0	RNA_pol_Rpb1_5	326.3	539991-541583	PF04998	http://pfam.sanger.ac.uk/family?acc=PF04998
+XV	543042	544115	-1.0	RNA_pol_Rpb1_1	273	543042-544115	PF04997	http://pfam.sanger.ac.uk/family?acc=PF04997
+XV	542538	543038	-1.0	RNA_pol_asu	232.8	542538-543038	PF00623	http://pfam.sanger.ac.uk/family?acc=PF00623
+XV	541995	542528	-1.0	RNA_pol_Rpb1_3	129.1	541995-542528	PF04983	http://pfam.sanger.ac.uk/family?acc=PF04983

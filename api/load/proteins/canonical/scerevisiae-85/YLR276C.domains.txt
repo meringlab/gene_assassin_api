@@ -1,0 +1,5 @@
+#>P	YLR276C	YLR276C	YLR276C	XII	695049	696830	-1	DEAD-box protein required for 27S rRNA processing; exhibits DNA, RNA and DNA/RNA helicase activities; ATPase activity shows preference for DNA over RNA; DNA helicase activity abolished by mutation in RNA-binding domain [Source:SGD;Acc:S000004266]
+#>E	YLR276C.1	1.0	695046-696830
+XII	696168	696710	-1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	696168-696710	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+XII	695838	695954	-1.0	Helicase_C	0	695838-695954	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271
+XII	695577	695687	-1.0	Helicase_C	0	695577-695687	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

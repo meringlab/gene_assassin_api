@@ -1,0 +1,9 @@
+#>P	YBL105C	YBL105C	YBL105C	II	14244	17696	-1	Protein serine/threonine kinase; essential for cell wall remodeling during growth; localized to sites of polarized growth and the mother-daughter bud neck; homolog of the alpha, beta, and gamma isoforms of mammalian protein kinase C (PKC) [Source:SGD;Acc:S000000201]
+#>E	YBL105C.1	1.0	14241-17696
+II	16854	17066	-1.0	C2_Ca-dep	0	16854-17066	PF00168	http://pfam.sanger.ac.uk/family?acc=PF00168
+II	14448	15224	-1.0	Prot_kinase_cat_dom	0	14448-15224	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+II	16311	16454	-1.0	Prot_Kinase_C-like_PE/DAG-bd	0	16311-16454	PF00130	http://pfam.sanger.ac.uk/family?acc=PF00130
+II	16098	16253	-1.0	Prot_Kinase_C-like_PE/DAG-bd	0	16098-16253	PF00130	http://pfam.sanger.ac.uk/family?acc=PF00130
+II	17490	17678	-1.0	HR1_rho-bd	0	17490-17678	PF02185	http://pfam.sanger.ac.uk/family?acc=PF02185
+II	17142	17342	-1.0	HR1_rho-bd	0	17142-17342	PF02185	http://pfam.sanger.ac.uk/family?acc=PF02185
+II	14259	14390	-1.0	Pkinase_C	0	14259-14390	PF00433	http://pfam.sanger.ac.uk/family?acc=PF00433

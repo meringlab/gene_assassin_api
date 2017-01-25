@@ -1,0 +1,3 @@
+#>P	YBR141C	YBR141C	YBR141C	II	527028	528038	-1	Nucleolar S-adenosylmethionine-dependent rRNA methyltransferase; methylates adenine (m1A) of the large subunit (LSU) rRNA at position 2142; belongs to Rossmann fold superfamily; green fluorescent protein (GFP)-fusion protein localizes to the nucleolus; YBR141C is not an essential gene [Source:SGD;Acc:S000000345]
+#>E	YBR141C.1	1.0	527025-528038
+II	527034	527663	-1.0	DUF3321	256.5	527034-527663	PF11968	http://pfam.sanger.ac.uk/family?acc=PF11968

@@ -1,0 +1,4 @@
+#>P	YGL076C	YGL076C	YGL076C	VII	364338	365996	-1	Ribosomal 60S subunit protein L7A; required for processing of 27SA3 pre-rRNA to 27SB pre-rRNA during assembly of large ribosomal subunit; depletion leads to a turnover of pre-rRNA; contains a conserved C-terminal Nucleic acid Binding Domain (NDB2); binds to Domain II of 25S and 5.8S rRNAs; homologous to mammalian ribosomal protein L7 and bacterial L30; RPL7A has a paralog, RPL7B, that arose from the whole genome duplication [Source:SGD;Acc:S000003044]
+#>E	YGL076C.3,YGL076C.2,YGL076C.1	1,1,1	364335-364964,365433-365526,365986-365996
+VII	364827	365507	-1	Ribosomal_L30_N	0	364827-364964,365433-365507	PF08079	http://pfam.sanger.ac.uk/family?acc=PF08079
+VII	364668	364823	-1	Ribosomal_L30_ferredoxin-like	0	364668-364823	PF00327	http://pfam.sanger.ac.uk/family?acc=PF00327

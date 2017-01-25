@@ -1,0 +1,5 @@
+#>P	YMR102C	YMR102C	YMR102C	XIII	469851	472352	-1	Protein of unknown function; transcription is activated by paralogous transcription factors Yrm1p and Yrr1p along with genes involved in multidrug resistance; mutant shows increased resistance to azoles; not an essential gene; YMR102C has a paralog, DGR2, that arose from the whole genome duplication [Source:SGD;Acc:S000004708]
+#>E	YMR102C.1	1.0	469848-472352
+XIII	471750	471833	-1.0	WD40_repeat	0	471750-471833	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	471312	471404	-1.0	WD40_repeat	0	471312-471404	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	471438	471548	-1.0	WD40_repeat	0	471438-471548	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

@@ -1,0 +1,4 @@
+#>P	YCR059C	YCR059C	YCR059C	III	223457	224230	-1	Negative regulator of eIF2 kinase Gcn2p; competes with Gcn2p for binding to Gcn1p; may contribute to regulation of translation in response to starvation via regulation of Gcn2p; binds to monomeric actin and to ribosomes and polyribosomes; ortholog of mammalian IMPACT [Source:SGD;Acc:S000000655]
+#>E	YCR059C.1	1.0	223454-224230
+III	223910	224221	-1.0	RWD-domain	0	223910-224221	PF05773	http://pfam.sanger.ac.uk/family?acc=PF05773
+III	223478	223804	-1.0	Impact_N	0	223478-223804	PF01205	http://pfam.sanger.ac.uk/family?acc=PF01205

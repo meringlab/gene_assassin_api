@@ -1,0 +1,4 @@
+#>P	YPL199C	YPL199C	YPL199C	XVI	172036	172755	-1	Putative protein of unknown function; predicted to be palmitoylated [Source:SGD;Acc:S000006120]
+#>E	YPL199C.1	1.0	172033-172755
+XVI	172240	172467	-1.0	Smr/MutS2_C	0	172240-172467	PF01713	http://pfam.sanger.ac.uk/family?acc=PF01713
+XVI	172486	172683	-1.0	DUF1771	0	172486-172683	PF08590	http://pfam.sanger.ac.uk/family?acc=PF08590

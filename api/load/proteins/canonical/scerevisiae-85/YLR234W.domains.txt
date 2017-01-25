@@ -1,0 +1,4 @@
+#>P	YLR234W	YLR234W	YLR234W	XII	609783	611750	1	DNA Topoisomerase III; conserved protein that functions in a complex with Sgs1p and Rmi1p to relax single-stranded negatively-supercoiled DNA preferentially; DNA catenation/decatenation activity stimulated by RPA and Sgs1p-Top2p-Rmi1p; involved in telomere stability and regulation of mitotic recombination [Source:SGD;Acc:S000004224]
+#>E	YLR234W.1	1.0	609783-611753
+XII	610293	611657	1.0	Topo_IA_cen	305.6	610293-611657	PF01131	http://pfam.sanger.ac.uk/family?acc=PF01131
+XII	609789	610244	1.0	Toprim_domain	62	609789-610244	PF01751	http://pfam.sanger.ac.uk/family?acc=PF01751

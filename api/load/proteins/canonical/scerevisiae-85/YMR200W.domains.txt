@@ -1,0 +1,3 @@
+#>P	YMR200W	YMR200W	YMR200W	XIII	664752	665519	1	Molecular chaperone involved in protein folding in ER; mutation causes defects in cell wall synthesis and lysis of autophagic bodies, suppresses tor2 mutations, and is synthetically lethal with kar2-1 and with rot2 mutations; involved in N-linked glycosylation and O-mannosylation; transmembrane helix Ser250 is essential for Rot1p to interact with other membrane components and exert its functional role, avoiding exposure of Ser H-bonding group at lipid-exposed surface [Source:SGD;Acc:S000004813]
+#>E	YMR200W.1	1.0	664752-665522
+XIII	664842	665510	1.0	Chaperone_Rot1_fun	0	664842-665510	PF10681	http://pfam.sanger.ac.uk/family?acc=PF10681

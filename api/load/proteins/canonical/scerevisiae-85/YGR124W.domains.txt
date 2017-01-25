@@ -1,0 +1,4 @@
+#>P	YGR124W	YGR124W	YGR124W	VII	739944	741659	1	Asparagine synthetase; catalyzes the synthesis of L-asparagine from L-aspartate in the asparagine biosynthetic pathway; ASN2 has a paralog, ASN1, that arose from the whole genome duplication [Source:SGD;Acc:S000003356]
+#>E	YGR124W.1	1.0	739944-741662
+VII	740577	741377	1.0	Asn_synthase	0	740577-741377	PF00733	http://pfam.sanger.ac.uk/family?acc=PF00733
+VII	740082	740441	1.0	GATase_2	0	740082-740441	PF13537	http://pfam.sanger.ac.uk/family?acc=PF13537

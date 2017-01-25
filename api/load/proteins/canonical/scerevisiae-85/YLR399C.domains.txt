@@ -1,0 +1,4 @@
+#>P	YLR399C	YLR399C	YLR399C	XII	919539	921596	-1	Protein involved in transcription initiation; functions at TATA-containing promoters; associates with the basal transcription factor TFIID; contains two bromodomains; corresponds to the C-terminal region of mammalian TAF1; redundant with Bdf2p; BDF1 has a paralog, BDF2, that arose from the whole genome duplication [Source:SGD;Acc:S000004391]
+#>E	YLR399C.1	1.0	919536-921596
+XII	920388	920636	-1.0	Bromodomain	0	920388-920636	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439
+XII	920874	921104	-1.0	Bromodomain	0	920874-921104	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439

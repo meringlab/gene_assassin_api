@@ -1,0 +1,4 @@
+#>P	YOL098C	YOL098C	YOL098C	XV	132728	135838	-1	Putative metalloprotease [Source:SGD;Acc:S000005458]
+#>E	YOL098C.1	1.0	132725-135838
+XV	135419	135673	-1.0	Pept_M16_N	0	135419-135673	PF00675	http://pfam.sanger.ac.uk/family?acc=PF00675
+XV	134879	135259	-1.0	Peptidase_M16_C	0	134879-135259	PF05193	http://pfam.sanger.ac.uk/family?acc=PF05193

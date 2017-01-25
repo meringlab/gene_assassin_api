@@ -1,0 +1,3 @@
+#>P	YJL154C	YJL154C	YJL154C	X	131104	133935	-1	Endosomal subunit of membrane-associated retromer complex; required for retrograde transport; receptor that recognizes retrieval signals on cargo proteins, forms subcomplex with Vps26p and Vps29p that selects cargo proteins for retrieval; interacts with Ypt7p [Source:SGD;Acc:S000003690]
+#>E	YJL154C.1	1.0	131101-133935
+X	131449	133914	-1.0	VPS35	0	131449-133914	PF03635	http://pfam.sanger.ac.uk/family?acc=PF03635

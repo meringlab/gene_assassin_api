@@ -1,0 +1,4 @@
+#>P	YNL275W	YNL275W	YNL275W	XIV	119268	120995	1	Boron efflux transporter of the plasma membrane; binds HCO3-, I-, Br-, NO3- and Cl-; has similarity to the characterized boron efflux transporter A. thaliana BOR1 [Source:SGD;Acc:S000005219]
+#>E	YNL275W.1	1.0	119268-120998
+XIV	119448	119945	1.0	HCO3_transpt_C	0	119448-119945	PF00955	http://pfam.sanger.ac.uk/family?acc=PF00955
+XIV	119973	120761	1.0	HCO3_transpt_C	0	119973-120761	PF00955	http://pfam.sanger.ac.uk/family?acc=PF00955

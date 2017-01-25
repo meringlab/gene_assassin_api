@@ -1,0 +1,4 @@
+#>P	YFR031C-A	YFR031C-A	YFR031C-A	VI	220510	221418	-1	Ribosomal 60S subunit protein L2A; homologous to mammalian ribosomal protein L2 and bacterial L2; RPL2A has a paralog, RPL2B, that arose from the whole genome duplication [Source:SGD;Acc:S000002104]
+#>E	YFR031C-A.2,YFR031C-A.1	1,1	220507-221267,221415-221418
+VI	220588	220983	-1	Ribosomal_L2_C	0	220588-220983	PF03947	http://pfam.sanger.ac.uk/family?acc=PF03947
+VI	221005	221229	-1	Rbsml_prot_L2_RNA-bd_dom	0	221005-221229	PF00181	http://pfam.sanger.ac.uk/family?acc=PF00181

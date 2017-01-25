@@ -1,0 +1,4 @@
+#>P	YML004C	YML004C	YML004C	XIII	261708	262685	-1	Monomeric glyoxalase I; catalyzes the detoxification of methylglyoxal (a by-product of glycolysis) via condensation with glutathione to produce S-D-lactoylglutathione; expression regulated by methylglyoxal levels and osmotic stress [Source:SGD;Acc:S000004463]
+#>E	YML004C.1	1.0	261705-262685
+XIII	261726	262124	-1.0	Glyoxalase-like_dom	0	261726-262124	PF12681	http://pfam.sanger.ac.uk/family?acc=PF12681
+XIII	262194	262619	-1.0	Glyas_Fos-R_dOase	0	262194-262619	PF00903	http://pfam.sanger.ac.uk/family?acc=PF00903

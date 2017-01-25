@@ -1,0 +1,3 @@
+#>P	YCL010C	YCL010C	YCL010C	III	103574	104350	-1	Component of the HAT/Core module of the SAGA, SLIK, and ADA complexes; HAT/Core module also contains Gcn5p, Ngg1p, and Ada2p; binds methylated histone H3K4; involved in transcriptional regulation through SAGA and TBP recruitment to target promoters and H3 acetylation [Source:SGD;Acc:S000000516]
+#>E	YCL010C.1	1.0	103571-104350
+III	103601	103972	-1.0	SGF29_tudor-like_dom	0	103601-103972	PF07039	http://pfam.sanger.ac.uk/family?acc=PF07039

@@ -1,0 +1,3 @@
+#>P	YIL005W	YIL005W	YIL005W	IX	345692	347794	1	ER protein with chaperone and co-chaperone activity; involved in retention of resident ER proteins; has a role in recognizing proteins targeted for ER-associated degradation (ERAD), member of the protein disulfide isomerase family [Source:SGD;Acc:S000001267]
+#>E	YIL005W.1	1.0	345692-347797
+IX	345797	346108	1.0	Thioredoxin_domain	0	345797-346108	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085

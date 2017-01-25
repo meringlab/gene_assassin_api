@@ -1,0 +1,3 @@
+#>P	YIL009C-A	YIL009C-A	YIL009C-A	IX	335669	336212	-1	Component of the telomerase holoenzyme; involved in telomere replication [Source:SGD;Acc:S000006432]
+#>E	YIL009C-A.2,YIL009C-A.1	1,1	335666-335935,335937-336212
+IX	335675	336155	-1	Telomerase_holoenzyme_Est3_su	0	335675-335935,335937-336155	PF10341	http://pfam.sanger.ac.uk/family?acc=PF10341

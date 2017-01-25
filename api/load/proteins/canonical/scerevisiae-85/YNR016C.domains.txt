@@ -1,0 +1,8 @@
+#>P	YNR016C	YNR016C	YNR016C	XIV	654676	661374	-1	Acetyl-CoA carboxylase, biotin containing enzyme; catalyzes carboxylation of cytosolic acetyl-CoA to form malonyl-CoA and regulates histone acetylation by regulating the availablity of acetyl-CoA; required for de novo biosynthesis of long-chain fatty acids; ACC1 has a paralog, HFA1, that arose from the whole genome duplication [Source:SGD;Acc:S000005299]
+#>E	YNR016C.1	1.0	654673-661374
+XIV	659077	659271	-1.0	Biotin_lipoyl	0	659077-659271	PF00364	http://pfam.sanger.ac.uk/family?acc=PF00364
+XIV	656938	659073	-1.0	AcCoA_COase_cen	0	656938-659073	PF08326	http://pfam.sanger.ac.uk/family?acc=PF08326
+XIV	654985	656655	-1.0	Carboxyl_trans	0	654985-656655	PF01039	http://pfam.sanger.ac.uk/family?acc=PF01039
+XIV	659686	660006	-1.0	Biotin_COase_C	0	659686-660006	PF02785	http://pfam.sanger.ac.uk/family?acc=PF02785
+XIV	660835	661200	-1.0	CarbamoylP_synth_lsu_N	0	660835-661200	PF00289	http://pfam.sanger.ac.uk/family?acc=PF00289
+XIV	660136	660678	-1.0	CarbamoylP_synth_lsu_ATP-bd	0	660136-660678	PF02786	http://pfam.sanger.ac.uk/family?acc=PF02786

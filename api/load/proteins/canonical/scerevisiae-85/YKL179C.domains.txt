@@ -1,0 +1,3 @@
+#>P	YKL179C	YKL179C	YKL179C	XI	110467	112503	-1	Golgi membrane protein with similarity to mammalian CASP; genetic interactions with GOS1 (encoding a Golgi snare protein) suggest a role in Golgi function [Source:SGD;Acc:S000001662]
+#>E	YKL179C.1	1.0	110464-112503
+XI	110578	111282	-1.0	CASP_C	255.7	110578-111282	PF08172	http://pfam.sanger.ac.uk/family?acc=PF08172

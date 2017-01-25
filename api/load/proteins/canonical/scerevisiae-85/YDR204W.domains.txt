@@ -1,0 +1,3 @@
+#>P	YDR204W	YDR204W	YDR204W	IV	858137	859141	1	Protein with a role in ubiquinone (Coenzyme Q) biosynthesis; possibly functioning in stabilization of Coq7p; located on the matrix face of the mitochondrial inner membrane; component of a mitochondrial ubiquinone-synthesizing complex [Source:SGD;Acc:S000002612]
+#>E	YDR204W.1	1.0	858137-859144
+IV	858386	859051	1.0	CoenzQ_biosynthesis_Coq4	0	858386-859051	PF05019	http://pfam.sanger.ac.uk/family?acc=PF05019

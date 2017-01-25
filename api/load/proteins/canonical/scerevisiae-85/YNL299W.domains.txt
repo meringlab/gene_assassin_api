@@ -1,0 +1,4 @@
+#>P	YNL299W	YNL299W	YNL299W	XIV	66517	68442	1	Non-canonical poly(A) polymerase; involved in nuclear RNA degradation as a component of the TRAMP complex; catalyzes polyadenylation of hypomodified tRNAs, and snoRNA and rRNA precursors; overlapping but non-redundant functions with Pap2p [Source:SGD;Acc:S000005243]
+#>E	YNL299W.1	1.0	66517-68445
+XIV	67117	67440	1.0	Nucleotidyltransferase	0	67117-67440	PF01909	http://pfam.sanger.ac.uk/family?acc=PF01909
+XIV	67618	67800	1.0	PAP_assoc	0	67618-67800	PF03828	http://pfam.sanger.ac.uk/family?acc=PF03828

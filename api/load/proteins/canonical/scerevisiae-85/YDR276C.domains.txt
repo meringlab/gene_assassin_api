@@ -1,0 +1,3 @@
+#>P	YDR276C	YDR276C	YDR276C	IV	1013479	1013643	-1	Small plasma membrane protein; confers resistance to amphotericin B and is a potential target of this common antifungal drug; related to a family of plant polypeptides that are overexpressed under high salt concentration or low temperature; not essential for viability; deletion causes hyperpolarization of the plasma membrane potential [Source:SGD;Acc:S000002684]
+#>E	YDR276C.1	1.0	1013476-1013643
+IV	1013485	1013631	-1.0	PMP3	0	1013485-1013631	PF01679	http://pfam.sanger.ac.uk/family?acc=PF01679

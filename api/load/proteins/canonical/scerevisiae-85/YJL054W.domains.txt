@@ -1,0 +1,3 @@
+#>P	YJL054W	YJL054W	YJL054W	X	334265	335698	1	Component of the mitochondrial TIM22 complex; involved in insertion of polytopic proteins into the inner membrane [Source:SGD;Acc:S000003590]
+#>E	YJL054W.1	1.0	334265-335701
+X	334322	335665	1.0	Mt_import_IM_translocase_Tim54	0	334322-335665	PF11711	http://pfam.sanger.ac.uk/family?acc=PF11711

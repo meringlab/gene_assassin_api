@@ -1,0 +1,3 @@
+#>P	YOR246C	YOR246C	YOR246C	XV	795804	796793	-1	Protein proposed to be involved in vacuolar functions; mutant shows defect in CPY processing and defects in vacuolar morphology; has similarity to oxidoreductases, found in lipid particles; required for replication of Brome mosaic virus in S. cerevisiae, a model system for studying replication of positive-strand RNA viruses in their natural hosts [Source:SGD;Acc:S000005772]
+#>E	YOR246C.1	1.0	795801-796793
+XV	796263	796526	-1.0	DH_sc/Rdtase_SDR	26.4	796263-796526	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106

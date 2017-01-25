@@ -1,0 +1,3 @@
+#>P	YER117W	YER117W	YER117W	V	396769	397650	1	Ribosomal 60S subunit protein L23B; homologous to mammalian ribosomal protein L23 and bacterial L14; RPL23B has a paralog, RPL23A, that arose from the whole genome duplication [Source:SGD;Acc:S000000919]
+#>E	YER117W.1,YER117W.2	1,1	396769-396810,397282-397653
+V	397288	397638	1	Ribosomal_L14b/L23e	0	397288-397638	PF00238	http://pfam.sanger.ac.uk/family?acc=PF00238

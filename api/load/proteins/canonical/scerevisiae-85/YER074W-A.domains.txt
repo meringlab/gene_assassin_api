@@ -1,0 +1,3 @@
+#>P	YER074W-A	YER074W-A	YER074W-A	V	307653	308120	1	Integral membrane protein required for ER to Golgi transport; localized to the Golgi, the ER, and COPII vesicles; interacts with Yip1p and Yif1p [Source:SGD;Acc:S000007651]
+#>E	YER074W-A.1,YER074W-A.2,YER074W-A.3	1,1,1	307653-307746,307849-307956,308068-308123
+V	307668	308120	1	Yos1	0	307668-307746,307849-307956,308068-308120	PF08571	http://pfam.sanger.ac.uk/family?acc=PF08571

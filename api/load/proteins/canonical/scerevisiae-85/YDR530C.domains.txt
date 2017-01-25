@@ -1,0 +1,3 @@
+#>P	YDR530C	YDR530C	YDR530C	IV	1496794	1497768	-1	Diadenosine 5',5'''-P1,P4-tetraphosphate phosphorylase II; AP4A phosphorylase involved in catabolism of bis(5'-nucleosidyl) tetraphosphates; APA2 has a paralog, APA1, that arose from the whole genome duplication [Source:SGD;Acc:S000002938]
+#>E	YDR530C.1	1.0	1496791-1497768
+IV	1496830	1497027	-1.0	ATP_adenylylTrfase_C	0	1496830-1497027	PF09830	http://pfam.sanger.ac.uk/family?acc=PF09830

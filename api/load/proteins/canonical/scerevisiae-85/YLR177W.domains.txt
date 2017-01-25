@@ -1,0 +1,3 @@
+#>P	YLR177W	YLR177W	YLR177W	XII	511054	512937	1	Putative protein of unknown function; phosphorylated by Dbf2p-Mob1p in vitro; some strains contain microsatellite polymophisms at this locus; not an essential gene; YLR177W has a paralog, PSP1, that arose from the whole genome duplication [Source:SGD;Acc:S000004167]
+#>E	YLR177W.1	1.0	511054-512940
+XII	512461	512748	1.0	PSP1_C	0	512461-512748	PF04468	http://pfam.sanger.ac.uk/family?acc=PF04468

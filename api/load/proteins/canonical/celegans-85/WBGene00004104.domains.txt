@@ -1,0 +1,21 @@
+#>P	WBGene00004104	C14C11.8b	C14C11.8b	V	5670018	5676082	-1	Prion-like-(Q/N-rich)-domain-bearing protein  [Source:RefSeq peptide;Acc:NP_504494]
+#>E	C14C11.8a.e10,C14C11.8a.e9,C14C11.8a.e8,C14C11.8a.e7,C14C11.8a.e6,C14C11.8b.e6,C14C11.8a.e5,C14C11.8a.e4,C14C11.8a.e3,C14C11.8a.e2,C14C11.8a.e1	1,1,1,1,1,0,1,1,1,1,1	5670015-5670221,5671168-5671296,5671346-5671408,5671457-5671927,5672137-5672277,5672326-5672592,5673143-5673283,5673332-5673412,5673457-5673627,5674298-5674441,5675912-5676082
+V	5672545	5672589	-1	Cys_rich_tripleX	30.4	5672545-5672589	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5673236	5673334	-1	Cys_rich_tripleX	30.4	5673236-5673283,5673332-5673334	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5670159	5670206	-1	Cys_rich_tripleX	30.4	5670159-5670206	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5672230	5672274	-1	Cys_rich_tripleX	30.4	5672230-5672274	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5671469	5671519	-1	Cys_rich_tripleX	30.4	5671469-5671519	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5672428	5672469	-1	Cys_rich_tripleX	30.4	5672428-5672469	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5672140	5672190	-1	Cys_rich_tripleX	30.4	5672140-5672190	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5672452	5672499	-1	Cys_rich_tripleX	30.4	5672452-5672499	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5671781	5671831	-1	Cys_rich_tripleX	30.4	5671781-5671831	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5672329	5672379	-1	Cys_rich_tripleX	30.4	5672329-5672379	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5673146	5673196	-1	Cys_rich_tripleX	30.4	5673146-5673196	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5671670	5671717	-1	Cys_rich_tripleX	30.4	5671670-5671717	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5671580	5671630	-1	Cys_rich_tripleX	30.4	5671580-5671630	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5671285	5671381	-1	Cys_rich_tripleX	30.4	5671285-5671296,5671346-5671381	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5671234	5671275	-1	Cys_rich_tripleX	30.4	5671234-5671275	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5671724	5671771	-1	Cys_rich_tripleX	30.4	5671724-5671771	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5671880	5671924	-1	Cys_rich_tripleX	30.4	5671880-5671924	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5671526	5671573	-1	Cys_rich_tripleX	30.4	5671526-5671573	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363
+V	5673335	5673385	-1	Cys_rich_tripleX	30.4	5673335-5673385	PF02363	http://pfam.sanger.ac.uk/family?acc=PF02363

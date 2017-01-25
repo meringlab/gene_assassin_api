@@ -1,0 +1,3 @@
+#>P	YIR019C	YIR019C	YIR019C	IX	389575	393675	-1	GPI-anchored cell surface glycoprotein (flocculin); required for pseudohyphal formation, invasive growth, flocculation, and biofilms; transcriptionally regulated by the MAPK pathway (via Ste12p and Tec1p) and the cAMP pathway (via Flo8p); required for formation of fibrous interconnections between cells in a colony of a wild S. cerevisiae strain; a portion is cleaved and shed from cells, and free extracellular Flo11p contributes to the surface properties of cells [Source:SGD;Acc:S000001458]
+#>E	YIR019C.1	1.0	389572-393675
+IX	393094	393552	-1.0	Uncharacterised_Flo11-rel_N	0	393094-393552	PF10182	http://pfam.sanger.ac.uk/family?acc=PF10182

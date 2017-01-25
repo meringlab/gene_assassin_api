@@ -1,0 +1,3 @@
+#>P	YMR133W	YMR133W	YMR133W	XIII	536207	537606	1	Protein involved in early stages of meiotic recombination; possibly involved in the coordination of recombination and meiotic division; mutations lead to premature initiation of the first meiotic division [Source:SGD;Acc:S000004740]
+#>E	YMR133W.1,YMR133W.2	1,1	536207-537448,537565-537609
+XIII	536240	537211	1	Meiotic_Rec114	0	536240-537211	PF03525	http://pfam.sanger.ac.uk/family?acc=PF03525

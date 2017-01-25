@@ -1,0 +1,3 @@
+#>P	YMR168C	YMR168C	YMR168C	XIII	597335	599158	-1	Essential kinetochore protein; component of the CBF3 complex that binds the CDEIII region of the centromere; contains an N-terminal Zn2Cys6 type zinc finger domain, a C-terminal acidic domain, and a putative coiled coil dimerization domain [Source:SGD;Acc:S000004778]
+#>E	YMR168C.1	1.0	597332-599158
+XIII	599024	599125	-1.0	Zn2-C6_fun-type_DNA-bd	0	599024-599125	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

@@ -1,0 +1,3 @@
+#>P	YKL130C	YKL130C	YKL130C	XI	195291	196028	-1	RNA-binding protein that binds specific mRNAs and interacts with She3p; part of the mRNA localization machinery that restricts accumulation of certain proteins to the bud; binds to ER-derived membranes and targets mRNAs to cortical ER [Source:SGD;Acc:S000001613]
+#>E	YKL130C.1	1.0	195288-196028
+XI	195357	195986	-1.0	RNA-bd_She2p	0	195357-195986	PF11435	http://pfam.sanger.ac.uk/family?acc=PF11435

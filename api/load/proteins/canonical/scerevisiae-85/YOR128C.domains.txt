@@ -1,0 +1,4 @@
+#>P	YOR128C	YOR128C	YOR128C	XV	564479	566191	-1	Phosphoribosylaminoimidazole carboxylase; catalyzes a step in the 'de novo' purine nucleotide biosynthetic pathway; red pigment accumulates in mutant cells deprived of adenine [Source:SGD;Acc:S000005654]
+#>E	YOR128C.1	1.0	564476-566191
+XV	565337	565852	-1.0	ATP-grasp_carboxylate-amine	0	565337-565852	PF02222	http://pfam.sanger.ac.uk/family?acc=PF02222
+XV	564536	564982	-1.0	N5-CAIR_Mutase_PurE_dom	0	564536-564982	PF00731	http://pfam.sanger.ac.uk/family?acc=PF00731

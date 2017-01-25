@@ -1,0 +1,3 @@
+#>P	YNR026C	YNR026C	YNR026C	XIV	673277	674689	-1	Guanine nucleotide exchange factor (GEF); activates Sar1p by catalyzing the exchange of GDP for GTP; required for the initiation of COPII vesicle formation in ER to Golgi transport; glycosylated integral membrane protein of the ER; SEC12 has a paralog, SED4, that arose from the whole genome duplication [Source:SGD;Acc:S000005309]
+#>E	YNR026C.1	1.0	673274-674689
+XIV	673685	673774	-1.0	WD40_repeat	0	673685-673774	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

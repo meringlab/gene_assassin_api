@@ -1,0 +1,4 @@
+#>P	YMR205C	YMR205C	YMR205C	XIII	671890	674766	-1	Beta subunit of heterooctameric phosphofructokinase; involved in glycolysis; indispensable for anaerobic growth; activated by fructose-2,6-bisphosphate and AMP; mutation inhibits glucose induction of cell cycle-related genes [Source:SGD;Acc:S000004818]
+#>E	YMR205C.1	1.0	671887-674766
+XIII	673240	674178	-1.0	Phosphofructokinase_dom	0	673240-674178	PF00365	http://pfam.sanger.ac.uk/family?acc=PF00365
+XIII	672130	673005	-1.0	Phosphofructokinase_dom	0	672130-673005	PF00365	http://pfam.sanger.ac.uk/family?acc=PF00365

@@ -1,0 +1,4 @@
+#>P	YIL131C	YIL131C	YIL131C	IX	100784	102235	-1	Forkhead family transcription factor; minor role in expression of G2/M phase genes; negatively regulates transcription elongation; positive role in chromatin silencing at HML, HMR; facilitates clustering and activation of early-firing replication origins; binds to recombination enhancer near HML, regulates donor preference during mating-type switching; relocalizes to cytosol in response to hypoxia; FKH1 has a paralog, FKH2, that arose from the whole genome duplication [Source:SGD;Acc:S000001393]
+#>E	YIL131C.1	1.0	100781-102235
+IX	101042	101329	-1.0	TF_fork_head	0	101042-101329	PF00250	http://pfam.sanger.ac.uk/family?acc=PF00250
+IX	101750	102010	-1.0	FHA_dom	0	101750-102010	PF00498	http://pfam.sanger.ac.uk/family?acc=PF00498

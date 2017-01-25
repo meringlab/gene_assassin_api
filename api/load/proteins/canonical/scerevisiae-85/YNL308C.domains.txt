@@ -1,0 +1,4 @@
+#>P	YNL308C	YNL308C	YNL308C	XIV	54125	55897	-1	Essential nucleolar protein required for 40S ribosome biogenesis; associate with snR30; physically and functionally interacts with Krr1p [Source:SGD;Acc:S000005252]
+#>E	YNL308C.1	1.0	54122-55897
+XIV	54707	54997	-1.0	KRR1-interact_protein_1	0	54707-54997	PF05178	http://pfam.sanger.ac.uk/family?acc=PF05178
+XIV	54266	54574	-1.0	Kri1-like_C	0	54266-54574	PF12936	http://pfam.sanger.ac.uk/family?acc=PF12936

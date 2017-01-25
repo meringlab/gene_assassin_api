@@ -1,0 +1,4 @@
+#>P	YJR019C	YJR019C	YJR019C	X	467235	468281	-1	Peroxisomal acyl-CoA thioesterase; likely to be involved in fatty acid oxidation rather than fatty acid synthesis; conserved protein also found in human peroxisomes; TES1 mRNA levels increase during growth on fatty acids [Source:SGD;Acc:S000003780]
+#>E	YJR019C.1	1.0	467232-468281
+X	467934	468218	-1.0	Acyl_CoA_thio_II_dom	0	467934-468218	PF02551	http://pfam.sanger.ac.uk/family?acc=PF02551
+X	467274	467681	-1.0	Acyl_CoA_thio_II_dom	0	467274-467681	PF02551	http://pfam.sanger.ac.uk/family?acc=PF02551

@@ -1,0 +1,4 @@
+#>P	YPL040C	YPL040C	YPL040C	XVI	475996	479001	-1	Mitochondrial isoleucyl-tRNA synthetase; null mutant is deficient in respiratory growth [Source:SGD;Acc:S000005961]
+#>E	YPL040C.1	1.0	475993-479001
+XVI	476356	476730	-1.0	V/L/I-tRNA-synth_anticodon-bd	0	476356-476730	PF08264	http://pfam.sanger.ac.uk/family?acc=PF08264
+XVI	476866	478752	-1.0	aa-tRNA-synth_Ia	0	476866-478752	PF00133	http://pfam.sanger.ac.uk/family?acc=PF00133

@@ -1,0 +1,3 @@
+#>P	YEL012W	YEL012W	YEL012W	V	131772	132548	1	Ubiquitin-conjugating enzyme that regulates gluconeogenesis; negatively regulates gluconeogenesis by mediating the glucose-induced ubiquitination of fructose-1,6-bisphosphatase (FBPase); cytoplasmic enzyme that catalyzes the ubiquitination of histones in vitro [Source:SGD;Acc:S000000738]
+#>E	YEL012W.1,YEL012W.2	1,1	131772-131776,131900-132551
+V	131934	132320	1	UBQ-conjugat_E2	0	131934-132320	PF00179	http://pfam.sanger.ac.uk/family?acc=PF00179

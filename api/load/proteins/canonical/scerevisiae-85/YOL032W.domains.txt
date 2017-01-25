@@ -1,0 +1,3 @@
+#>P	YOL032W	YOL032W	YOL032W	XV	265429	266166	1	Protein with a possible role in phospholipid biosynthesis; null mutant displays an inositol-excreting phenotype that is suppressed by exogenous choline; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005392]
+#>E	YOL032W.1	1.0	265429-266169
+XV	265429	266148	1.0	DUF775	0	265429-266148	PF05603	http://pfam.sanger.ac.uk/family?acc=PF05603

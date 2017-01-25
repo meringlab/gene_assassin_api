@@ -1,0 +1,3 @@
+#>P	YGL154C	YGL154C	YGL154C	VII	215281	216096	-1	Phosphopantetheinyl transferase involved in lysine biosynthesis; converts inactive apo-form of Lys2p (alpha-aminoadipate reductase) into catalytically active holo-form by posttranslational addition of phosphopantetheine [Source:SGD;Acc:S000003122]
+#>E	YGL154C.1	1.0	215278-216096
+VII	215491	215700	-1.0	4-PPantetheinyl_Trfase	0	215491-215700	PF01648	http://pfam.sanger.ac.uk/family?acc=PF01648

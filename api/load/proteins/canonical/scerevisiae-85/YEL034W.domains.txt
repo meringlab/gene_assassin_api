@@ -1,0 +1,4 @@
+#>P	YEL034W	YEL034W	YEL034W	V	85676	86146	1	Translation elongation factor eIF-5A; required for translation of proteins containing polyproline stretches, including Bni1p, and this leads to a requirement for mating projection formation; structural homolog of bacterial EF-P; undergoes an essential hypusination modification; HYP2 has a paralog, ANB1, that arose from the whole genome duplication [Source:SGD;Acc:S000000760]
+#>E	YEL034W.1	1.0	85676-86149
+V	85757	85852	1.0	KOW	0	85757-85852	PF00467	http://pfam.sanger.ac.uk/family?acc=PF00467
+V	85925	86128	1.0	Transl_elong_IF5A_C	0	85925-86128	PF01287	http://pfam.sanger.ac.uk/family?acc=PF01287

@@ -1,0 +1,3 @@
+#>P	YOR089C	YOR089C	YOR089C	XV	490199	490828	-1	Endosomal Rab family GTPase; required for endocytic transport and sorting of vacuolar hydrolases; required for endosomal localization of the CORVET complex; required with YPT52 for MVB biogenesis and sorting; involved in autophagy and ionic stress tolerance; geranylgeranylation required for membrane association; protein abundance increases in response to DNA replication stress; mammalian Rab5 homolog; VPS21 has a paralog, YPT53, that arose from the whole genome duplication [Source:SGD;Acc:S000005615]
+#>E	YOR089C.1	1.0	490196-490828
+XV	490316	490804	-1.0	Small_GTPase	0	490316-490804	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071

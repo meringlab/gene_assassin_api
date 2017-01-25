@@ -1,0 +1,4 @@
+#>P	YJL171C	YJL171C	YJL171C	X	99707	100894	-1	GPI-anchored cell wall protein of unknown function; induced in response to cell wall damaging agents and by mutations in genes involved in cell wall biogenesis; sequence similarity to YBR162C/TOS1, a covalently bound cell wall protein; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003707]
+#>E	YJL171C.1	1.0	99704-100894
+X	100616	100822	-1.0	DUF2403_glycine-rich	0	100616-100822	PF10290	http://pfam.sanger.ac.uk/family?acc=PF10290
+X	99878	100585	-1.0	DUF2401_secretory	0	99878-100585	PF10287	http://pfam.sanger.ac.uk/family?acc=PF10287

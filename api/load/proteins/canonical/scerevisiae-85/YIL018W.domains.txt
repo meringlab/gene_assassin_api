@@ -1,0 +1,4 @@
+#>P	YIL018W	YIL018W	YIL018W	IX	316768	317929	1	Ribosomal 60S subunit protein L2B; homologous to mammalian ribosomal protein L2 and bacterial L2; RPL2B has a paralog, RPL2A, that arose from the whole genome duplication; expression is upregulated at low temperatures [Source:SGD;Acc:S000001280]
+#>E	YIL018W.1,YIL018W.2	1,1	316768-316771,317172-317932
+IX	317210	317434	1	Rbsml_prot_L2_RNA-bd_dom	0	317210-317434	PF00181	http://pfam.sanger.ac.uk/family?acc=PF00181
+IX	317456	317851	1	Ribosomal_L2_C	0	317456-317851	PF03947	http://pfam.sanger.ac.uk/family?acc=PF03947

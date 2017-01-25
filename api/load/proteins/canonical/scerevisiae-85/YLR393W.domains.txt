@@ -1,0 +1,3 @@
+#>P	YLR393W	YLR393W	YLR393W	XII	907079	907915	1	Assembly factor for the F0 sector of mitochondrial F1F0 ATP synthase; mitochondrial inner membrane protein; interacts genetically with ATP6 [Source:SGD;Acc:S000004385]
+#>E	YLR393W.1	1.0	907079-907918
+XII	907130	907915	1.0	ATPase-assembly-fac_ATP10_mt	0	907130-907915	PF05176	http://pfam.sanger.ac.uk/family?acc=PF05176

@@ -1,0 +1,6 @@
+#>P	YDL126C	YDL126C	YDL126C	IV	236160	238664	-1	AAA ATPase; subunit of polyubiquitin-selective segregase complex involved in ERAD, cell wall integrity during heat stress, mitotic spindle disassembly; subunit of complex involved in mitochondria-associated degradation; role in mobilizing membrane bound transcription factors by regulated ubiquitin/proteasome-dependent processing, in macroautophagy, PMN, RAD, ribophagy, homotypic ER membrane fusion, disassembly of Met30p from SCF complex; functional ortholog of human p97/VCP [Source:SGD;Acc:S000002284]
+#>E	YDL126C.1	1.0	236157-238664
+IV	237525	237914	-1.0	ATPase_AAA_core	0	237525-237914	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+IV	236694	237095	-1.0	ATPase_AAA_core	0	236694-237095	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+IV	238317	238559	-1.0	CDC4_N-term_subdom	0	238317-238559	PF02359	http://pfam.sanger.ac.uk/family?acc=PF02359
+IV	238071	238259	-1.0	Cdc48_dom2	0	238071-238259	PF02933	http://pfam.sanger.ac.uk/family?acc=PF02933

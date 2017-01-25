@@ -1,0 +1,4 @@
+#>P	YDR074W	YDR074W	YDR074W	IV	593893	596580	1	Phosphatase subunit of the trehalose-6-P synthase/phosphatase complex; involved in synthesis of the storage carbohydrate trehalose; expression is induced by stress conditions and repressed by the Ras-cAMP pathway; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002481]
+#>E	YDR074W.1	1.0	593893-596583
+IV	594076	595512	1.0	Glyco_trans_20	0	594076-595512	PF00982	http://pfam.sanger.ac.uk/family?acc=PF00982
+IV	595615	596352	1.0	Trehalose_PPase	0	595615-596352	PF02358	http://pfam.sanger.ac.uk/family?acc=PF02358

@@ -1,0 +1,4 @@
+#>P	YLL034C	YLL034C	YLL034C	XII	70636	73146	-1	Putative ATPase of the AAA family; required for export of pre-ribosomal large subunits from the nucleus; distributed between the nucleolus, nucleoplasm, and nuclear periphery depending on growth conditions [Source:SGD;Acc:S000003957]
+#>E	YLL034C.1	1.0	70633-73146
+XII	72025	72423	-1.0	ATPase_AAA_core	0	72025-72423	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004
+XII	71050	71439	-1.0	ATPase_AAA_core	0	71050-71439	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

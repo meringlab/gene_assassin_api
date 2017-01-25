@@ -1,0 +1,6 @@
+#>P	YBR175W	YBR175W	YBR175W	II	582408	583352	1	Essential subunit of the COMPASS (Set1C) complex; COMPASS methylates histone H3 on lysine 4 and is required in transcriptional silencing near telomeres; WD40 beta propeller superfamily member and ortholog of mammalian WDR5 [Source:SGD;Acc:S000000379]
+#>E	YBR175W.1	1.0	582408-583355
+II	582795	582908	1.0	WD40_repeat	0	582795-582908	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	582561	582644	1.0	WD40_repeat	0	582561-582644	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	582978	583058	1.0	WD40_repeat	0	582978-583058	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+II	582672	582779	1.0	WD40_repeat	0	582672-582779	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

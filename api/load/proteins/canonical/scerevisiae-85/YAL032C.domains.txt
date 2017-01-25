@@ -1,0 +1,3 @@
+#>P	YAL032C	YAL032C	YAL032C	I	83338	84474	-1	Protein required for pre-mRNA splicing; associates with the spliceosome and interacts with splicing factors Prp22p and Prp46p; orthologous to human transcriptional coactivator SKIP and can activate transcription of a reporter gene [Source:SGD;Acc:S000000030]
+#>E	YAL032C.1	1.0	83335-84474
+I	83722	84195	-1.0	SKI-int_prot_SKIP_SNW-dom	0	83722-84195	PF02731	http://pfam.sanger.ac.uk/family?acc=PF02731

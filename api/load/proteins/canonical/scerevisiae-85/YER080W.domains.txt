@@ -1,0 +1,3 @@
+#>P	YER080W	YER080W	YER080W	V	319963	321843	1	Putative protein of unknown function; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; null mutant displays elevated frequency of mitochondrial genome loss [Source:SGD;Acc:S000000882]
+#>E	YER080W.1	1.0	319963-321846
+V	320398	321297	1.0	Aminoglycoside_PTrfase	0	320398-321297	PF01636	http://pfam.sanger.ac.uk/family?acc=PF01636

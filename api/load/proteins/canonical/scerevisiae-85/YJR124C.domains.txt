@@ -1,0 +1,4 @@
+#>P	YJR124C	YJR124C	YJR124C	X	652895	654238	-1	Putative protein of unknown function; expression induced under calcium shortage [Source:SGD;Acc:S000003885]
+#>E	YJR124C.1	1.0	652892-654238
+X	652913	653422	-1.0	MFS	0	652913-653422	PF07690	http://pfam.sanger.ac.uk/family?acc=PF07690
+X	653615	654184	-1.0	MFS	0	653615-654184	PF07690	http://pfam.sanger.ac.uk/family?acc=PF07690

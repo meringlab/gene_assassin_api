@@ -1,0 +1,4 @@
+#>P	YBR227C	YBR227C	YBR227C	II	673575	675134	-1	Mitochondrial matrix protein; putative ATP-binding chaperone with non-proteolytic function; similar to bacterial ClpX proteins [Source:SGD;Acc:S000000431]
+#>E	YBR227C.1	1.0	673572-675134
+II	674037	674738	-1.0	ATPase_AAA-2	0	674037-674738	PF07724	http://pfam.sanger.ac.uk/family?acc=PF07724
+II	673821	674021	-1.0	Clp_ATPase_C	0	673821-674021	PF10431	http://pfam.sanger.ac.uk/family?acc=PF10431

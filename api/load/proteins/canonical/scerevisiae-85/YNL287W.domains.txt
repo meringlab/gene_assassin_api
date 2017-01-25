@@ -1,0 +1,4 @@
+#>P	YNL287W	YNL287W	YNL287W	XIV	91994	94798	1	Gamma subunit of coatomer; coatomer is a heptameric protein complex that together with Arf1p forms the COPI coat; involved in ER to Golgi transport of selective cargo [Source:SGD;Acc:S000005231]
+#>E	YNL287W.1	1.0	91994-94801
+XIV	93998	94792	1.0	Coatomer_gsu_app	0	93998-94792	PF08752	http://pfam.sanger.ac.uk/family?acc=PF08752
+XIV	92051	93670	1.0	Clathrin/coatomer_adapt-like_N	0	92051-93670	PF01602	http://pfam.sanger.ac.uk/family?acc=PF01602

@@ -1,0 +1,3 @@
+#>P	YFR040W	YFR040W	YFR040W	VI	234242	237247	1	Protein required for function of the Sit4p protein phosphatase; forms a complex with Sit4p; member of a family of similar proteins including Sap4p, Sap185p, and Sap190p; protein abundance increases in response to DNA replication stress; SAP155 has a paralog, SAP4, that arose from the whole genome duplication [Source:SGD;Acc:S000001936]
+#>E	YFR040W.1	1.0	234242-237250
+VI	235241	236779	1.0	SAPS	0	235241-236779	PF04499	http://pfam.sanger.ac.uk/family?acc=PF04499

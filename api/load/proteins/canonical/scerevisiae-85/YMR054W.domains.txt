@@ -1,0 +1,3 @@
+#>P	YMR054W	YMR054W	YMR054W	XIII	383303	385972	1	Subunit a of the vacuolar-ATPase V0 domain; one of two isoforms (Stv1p and Vph1p); Stv1p is located in V-ATPase complexes of the Golgi and endosomes while Vph1p is located in V-ATPase complexes of the vacuole [Source:SGD;Acc:S000004658]
+#>E	YMR054W.1	1.0	383303-385975
+XIII	383393	385957	1.0	ATPase_V0/A0-cplx_116kDa_su	0	383393-385957	PF01496	http://pfam.sanger.ac.uk/family?acc=PF01496

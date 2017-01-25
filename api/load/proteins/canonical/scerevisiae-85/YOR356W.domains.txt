@@ -1,0 +1,4 @@
+#>P	YOR356W	YOR356W	YOR356W	XV	1007221	1009113	1	Putative ortholog of human ETF-dH; found in a large supramolecular complex with other mitochondrial dehydrogenases; may have a role in oxidative stress response; ETF-dH is also known as electron transfer flavoprotein dehydrogenase [Source:SGD;Acc:S000005883]
+#>E	YOR356W.1	1.0	1007221-1009116
+XV	1008637	1008975	1.0	ETFD_OxRdtase	0	1008637-1008975	PF05187	http://pfam.sanger.ac.uk/family?acc=PF05187
+XV	1007410	1007583	1.0	FAD-dep_OxRdtase	0	1007410-1007583	PF01266	http://pfam.sanger.ac.uk/family?acc=PF01266

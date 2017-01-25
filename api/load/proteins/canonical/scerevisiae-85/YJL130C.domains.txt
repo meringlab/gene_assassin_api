@@ -1,0 +1,12 @@
+#>P	YJL130C	YJL130C	YJL130C	X	165726	172367	-1	Bifunctional carbamoylphosphate synthetase/aspartate transcarbamylase; catalyzes the first two enzymatic steps in the de novo biosynthesis of pyrimidines; both activities are subject to feedback inhibition by UTP [Source:SGD;Acc:S000003666]
+#>E	YJL130C.1	1.0	165723-172367
+X	167949	168245	-1.0	MGS-like_dom	0	167949-168245	PF02142	http://pfam.sanger.ac.uk/family?acc=PF02142
+X	169101	169427	-1.0	CarbamoylP_synth_lsu_N	0	169101-169427	PF00289	http://pfam.sanger.ac.uk/family?acc=PF00289
+X	170712	171056	-1.0	CarbamoylP_synth_lsu_N	0	170712-171056	PF00289	http://pfam.sanger.ac.uk/family?acc=PF00289
+X	170088	170699	-1.0	CarbamoylP_synth_lsu_ATP-bd	0	170088-170699	PF02786	http://pfam.sanger.ac.uk/family?acc=PF02786
+X	168486	169085	-1.0	CarbamoylP_synth_lsu_ATP-bd	0	168486-169085	PF02786	http://pfam.sanger.ac.uk/family?acc=PF02786
+X	166209	166637	-1.0	Asp/Orn_carbamoyltranf_P-bd	0	166209-166637	PF02729	http://pfam.sanger.ac.uk/family?acc=PF02729
+X	165741	166196	-1.0	Asp_carbamoyltransf_Asp/Orn-bd	0	165741-166196	PF00185	http://pfam.sanger.ac.uk/family?acc=PF00185
+X	171885	172301	-1.0	CarbamoylP_synth_ssu_N	0	171885-172301	PF00988	http://pfam.sanger.ac.uk/family?acc=PF00988
+X	171150	171677	-1.0	GATASE_1	0	171150-171677	PF00117	http://pfam.sanger.ac.uk/family?acc=PF00117
+X	169464	169835	-1.0	CarbamoylP_synth_lsu_oligo	0	169464-169835	PF02787	http://pfam.sanger.ac.uk/family?acc=PF02787

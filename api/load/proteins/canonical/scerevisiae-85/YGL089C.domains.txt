@@ -1,0 +1,5 @@
+#>P	YGL089C	YGL089C	YGL089C	VII	344794	345153	-1	Mating pheromone alpha-factor, made by alpha cells; interacts with mating type a cells to induce cell cycle arrest and other responses leading to mating; also encoded by MF(ALPHA)1, which is more highly expressed; MF(ALPHA)2 has a paralog, MF(ALPHA)1, that arose from the whole genome duplication [Source:SGD;Acc:S000003057]
+#>E	YGL089C.1	1.0	344791-345153
+VII	344911	345153	-1.0	Mating_factor_alpha_N	0	344911-345153	PF05436	http://pfam.sanger.ac.uk/family?acc=PF05436
+VII	344857	344895	-1.0	Mating_factor_alpha	0	344857-344895	PF04648	http://pfam.sanger.ac.uk/family?acc=PF04648
+VII	344794	344832	-1.0	Mating_factor_alpha	0	344794-344832	PF04648	http://pfam.sanger.ac.uk/family?acc=PF04648

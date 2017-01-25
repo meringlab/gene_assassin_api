@@ -1,0 +1,5 @@
+#>P	YPR066W	YPR066W	YPR066W	XVI	681213	682109	1	Protein that activates Rub1p (NEDD8) before neddylation; acts together with Ula1p; may play a role in protein degradation; GFP-fusion protein localizes to the cytoplasm in a punctate pattern  [Source:SGD;Acc:S000006270]
+#>E	YPR066W.1	1.0	681213-682112
+XVI	681219	681635	1.0	ThiF_NAD_FAD-bd	0	681219-681635	PF00899	http://pfam.sanger.ac.uk/family?acc=PF00899
+XVI	681798	681986	1.0	UBact_repeat	0	681798-681986	PF02134	http://pfam.sanger.ac.uk/family?acc=PF02134
+XVI	681651	681782	1.0	Ubiquitin-activating_enzyme	0	681651-681782	PF10585	http://pfam.sanger.ac.uk/family?acc=PF10585

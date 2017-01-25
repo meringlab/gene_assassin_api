@@ -1,0 +1,6 @@
+#>P	YMR049C	YMR049C	YMR049C	XIII	368097	370517	-1	Constituent of 66S pre-ribosomal particles; forms a complex with Nop7p and Ytm1p that is required for maturation of the large ribosomal subunit; required for maturation of the 25S and 5.8S ribosomal RNAs; homologous to mammalian Bop1 [Source:SGD;Acc:S000004652]
+#>E	YMR049C.1	1.0	368094-370517
+XIII	369240	370025	-1.0	BOP1_N_dom	0	369240-370025	PF08145	http://pfam.sanger.ac.uk/family?acc=PF08145
+XIII	368103	368207	-1.0	WD40_repeat	0	368103-368207	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	368268	368375	-1.0	WD40_repeat	0	368268-368375	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	369123	369233	-1.0	WD40_repeat	0	369123-369233	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

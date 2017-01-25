@@ -1,0 +1,4 @@
+#>P	YLR386W	YLR386W	YLR386W	XII	893628	896267	1	Enzyme regulator; involved in synthesis of phosphatidylinositol 3,5-bisphosphate, in control of trafficking of some proteins to the vacuole lumen via the MVB, and in maintenance of vacuole size and acidity; binds negative (Fig4p) and positive (Fab1p) regulators of PtdIns(3,5)P(2) to control endolysosome function; similar to mammalian Vac14p [Source:SGD;Acc:S000004378]
+#>E	YLR386W.1	1.0	893628-896270
+XII	893886	893975	1.0	HEAT	0	893886-893975	PF02985	http://pfam.sanger.ac.uk/family?acc=PF02985
+XII	895338	895868	1.0	DUF3434	0	895338-895868	PF11916	http://pfam.sanger.ac.uk/family?acc=PF11916

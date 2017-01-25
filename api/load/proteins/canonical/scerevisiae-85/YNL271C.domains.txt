@@ -1,0 +1,6 @@
+#>P	YNL271C	YNL271C	YNL271C	XIV	129525	135383	-1	Formin; polarisome component; nucleates the formation of linear actin filaments, involved in cell processes such as budding and mitotic spindle orientation which require the formation of polarized actin cables, functionally redundant with BNR1 [Source:SGD;Acc:S000005215]
+#>E	YNL271C.1	1.0	129522-135383
+XIV	134649	134861	-1.0	Drf_GTPase-bd	0	134649-134861	PF06371	http://pfam.sanger.ac.uk/family?acc=PF06371
+XIV	134013	134489	-1.0	Drf_GTPase-bd	0	134013-134489	PF06371	http://pfam.sanger.ac.uk/family?acc=PF06371
+XIV	133257	133853	-1.0	Drf_FH3	0	133257-133853	PF06367	http://pfam.sanger.ac.uk/family?acc=PF06367
+XIV	130161	131336	-1.0	FH2_actin-bd	0	130161-131336	PF02181	http://pfam.sanger.ac.uk/family?acc=PF02181

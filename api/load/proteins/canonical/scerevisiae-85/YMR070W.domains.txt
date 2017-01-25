@@ -1,0 +1,3 @@
+#>P	YMR070W	YMR070W	YMR070W	XIII	409154	410623	1	Transcriptional repressor and activator with two C2-H2 zinc fingers; involved in repression of a subset of hypoxic genes by Rox1p, repression of several DAN/TIR genes during aerobic growth and ergosterol biosynthetic genes in response to hyperosmotic stress; contributes to recruitment of Tup1p-Cyc8p general repressor to promoters; involved in positive transcriptional regulation of CWP2 and other genes; relocalizes to the cytosol in response to hypoxia; can form [MOT3+] prion [Source:SGD;Acc:S000004674]
+#>E	YMR070W.1	1.0	409154-410626
+XIII	410189	410257	1.0	Znf_C2H2	0	410189-410257	PF00096	http://pfam.sanger.ac.uk/family?acc=PF00096

@@ -1,0 +1,6 @@
+#>P	YMR068W	YMR068W	YMR068W	XIII	406304	407581	1	Component of a complex containing the Tor2p kinase and other proteins; complex may have a role in regulation of cell growth [Source:SGD;Acc:S000004672]
+#>E	YMR068W.1	1.0	406304-407584
+XIII	406625	406708	1.0	Ankyrin_rpt	0	406625-406708	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+XIII	406418	406498	1.0	Ankyrin_rpt	0	406418-406498	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+XIII	406724	406798	1.0	Ankyrin_rpt	0	406724-406798	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+XIII	406526	406594	1.0	Ankyrin_rpt	0	406526-406594	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023

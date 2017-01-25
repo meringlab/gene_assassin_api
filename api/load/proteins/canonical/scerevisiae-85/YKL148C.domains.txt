@@ -1,0 +1,4 @@
+#>P	YKL148C	YKL148C	YKL148C	XI	169210	171129	-1	Flavoprotein subunit of succinate dehydrogenase; couples the oxidation of succinate to the transfer of electrons to ubiquinone as part of the TCA cycle and the mitochondrial respiratory chain; FAD binding to Sdh1p is required for the assembly of the succinate dehydrogenase subunits; SDH1 has a paralog, YJL045W, that arose from the whole genome duplication [Source:SGD;Acc:S000001631]
+#>E	YKL148C.1	1.0	169207-171129
+XI	169780	170970	-1.0	FAD_bind2_N	0	169780-170970	PF00890	http://pfam.sanger.ac.uk/family?acc=PF00890
+XI	169210	169617	-1.0	Fum_Rdtase/Succ_DH_flav-like_C	0	169210-169617	PF02910	http://pfam.sanger.ac.uk/family?acc=PF02910

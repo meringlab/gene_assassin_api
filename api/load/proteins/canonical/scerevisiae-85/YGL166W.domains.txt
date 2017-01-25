@@ -1,0 +1,3 @@
+#>P	YGL166W	YGL166W	YGL166W	VII	191129	191803	1	Copper-binding transcription factor; activates transcription of the metallothionein genes CUP1-1 and CUP1-2 in response to elevated copper concentrations; required for regulation of copper genes in response to DNA-damaging reagents; CUP2 has a paralog, HAA1, that arose from the whole genome duplication [Source:SGD;Acc:S000003134]
+#>E	YGL166W.1	1.0	191129-191806
+VII	191129	191248	1.0	Cu_fist_DNA-bd	75.2	191129-191248	PF00649	http://pfam.sanger.ac.uk/family?acc=PF00649

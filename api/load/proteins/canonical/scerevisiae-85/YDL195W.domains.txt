@@ -1,0 +1,6 @@
+#>P	YDL195W	YDL195W	YDL195W	IV	107208	111026	1	Component of the Sec13p-Sec31p complex of the COPII vesicle coat; COPII coat is required for vesicle formation in ER to Golgi transport; mutant has increased aneuploidy tolerance [Source:SGD;Acc:S000002354]
+#>E	YDL195W.1	1.0	107208-111029
+IV	110598	111008	1.0	SRA1-protein/COPII_Sec31	0	110598-111008	PF07304	http://pfam.sanger.ac.uk/family?acc=PF07304
+IV	109902	110045	1.0	Sec31	0	109902-110045	PF11549	http://pfam.sanger.ac.uk/family?acc=PF11549
+IV	107949	108065	1.0	WD40_repeat	0	107949-108065	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	107511	107618	1.0	WD40_repeat	0	107511-107618	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

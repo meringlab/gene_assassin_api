@@ -1,0 +1,5 @@
+#>P	YKR052C	YKR052C	YKR052C	XI	532553	533464	-1	Iron transporter of the mitochondrial carrier family; mediates Fe2+ transport across the inner mitochondrial membrane; active under low-iron conditions; may transport other cations; protein abundance increases in response to DNA replication stress; MRS4 has a paralog, MRS3, that arose from the whole genome duplication [Source:SGD;Acc:S000001760]
+#>E	YKR052C.1	1.0	532550-533464
+XI	533135	533401	-1.0	Mitochondrial_sb/sol_carrier	0	533135-533401	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XI	532856	533113	-1.0	Mitochondrial_sb/sol_carrier	0	532856-533113	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+XI	532553	532846	-1.0	Mitochondrial_sb/sol_carrier	0	532553-532846	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

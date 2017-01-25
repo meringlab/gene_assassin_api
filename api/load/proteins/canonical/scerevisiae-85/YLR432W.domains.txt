@@ -1,0 +1,5 @@
+#>P	YLR432W	YLR432W	YLR432W	XII	1002557	1004125	1	Inosine monophosphate dehydrogenase; catalyzes the rate-limiting step in the de novo synthesis of GTP; member of a four-gene family in S. cerevisiae, constitutively expressed; IMD3 has a paralog, IMD4, that arose from the whole genome duplication [Source:SGD;Acc:S000004424]
+#>E	YLR432W.1	1.0	1002557-1004128
+XII	1002662	1004092	1.0	IMP_DH_GMPRt	0	1002662-1004092	PF00478	http://pfam.sanger.ac.uk/family?acc=PF00478
+XII	1002926	1003066	1.0	Cysta_beta_synth_core	0	1002926-1003066	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571
+XII	1003094	1003252	1.0	Cysta_beta_synth_core	0	1003094-1003252	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571

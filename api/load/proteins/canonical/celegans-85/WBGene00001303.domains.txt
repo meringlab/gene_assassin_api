@@ -1,0 +1,3 @@
+#>P	WBGene00001303	F32D8.6	F32D8.6	V	10896883	10897135	-1	Protein transport protein Sec61 subunit gamma  [Source:UniProtKB/Swiss-Prot;Acc:Q19967]
+#>E	F32D8.6.e2,F32D8.6.e1	1,1	10896880-10896992,10897042-10897135
+V	10896892	10897099	-1	Translocase_SecE/Sec61-g	53.4	10896892-10896992,10897042-10897099	PF00584	http://pfam.sanger.ac.uk/family?acc=PF00584

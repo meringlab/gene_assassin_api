@@ -1,0 +1,3 @@
+#>P	WBGene00001437	F26A1.2	F26A1.2	III	4844662	4846543	1	Putative forkhead-related transcription factor fkh-5  [Source:UniProtKB/Swiss-Prot;Acc:Q19802]
+#>E	F26A1.2.e1,F26A1.2.e2,F26A1.2.e3	1,1,1	4844662-4845269,4845448-4845659,4845981-4846546
+III	4845175	4845586	1	Fork_head_dom	54.8	4845175-4845269,4845448-4845586	PF00250	http://pfam.sanger.ac.uk/family?acc=PF00250

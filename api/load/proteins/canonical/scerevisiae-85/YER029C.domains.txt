@@ -1,0 +1,3 @@
+#>P	YER029C	YER029C	YER029C	V	212590	213177	-1	Core Sm protein Sm B; part of heteroheptameric complex (with Smd1p, Smd2p, Smd3p, Sme1p, Smx3p, and Smx2p) that is part of the spliceosomal U1, U2, U4, and U5 snRNPs; homolog of human Sm B and Sm B' [Source:SGD;Acc:S000000831]
+#>E	YER029C.1	1.0	212587-213177
+V	212893	213147	-1.0	LSM_domain	0	212893-213147	PF01423	http://pfam.sanger.ac.uk/family?acc=PF01423

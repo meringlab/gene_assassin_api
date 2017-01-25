@@ -1,0 +1,5 @@
+#>P	YJR040W	YJR040W	YJR040W	X	507746	510082	1	Voltage-gated chloride channel; localized to the golgi, the endosomal system, and plasma membrane; involved in cation homeostasis; highly homologous to vertebrate voltage-gated chloride channels; modulates TBSV model (+) RNA virus replication by regulating copper metabolism [Source:SGD;Acc:S000003801]
+#>E	YJR040W.1	1.0	507746-510085
+X	509504	509698	1.0	Cysta_beta_synth_core	0	509504-509698	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571
+X	509798	509953	1.0	Cysta_beta_synth_core	0	509798-509953	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571
+X	508244	509386	1.0	Cl-channel_volt-gated	0	508244-509386	PF00654	http://pfam.sanger.ac.uk/family?acc=PF00654

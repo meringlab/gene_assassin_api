@@ -1,0 +1,4 @@
+#>P	YDR324C	YDR324C	YDR324C	IV	1114436	1116763	-1	Subunit of U3-containing 90S preribosome and SSU processome complexes; involved in production of 18S rRNA and assembly of small ribosomal subunit; member of t-Utp subcomplex involved with transcription of 35S rRNA transcript; Small Subunit processome is also known as SSU processome [Source:SGD;Acc:S000002732]
+#>E	YDR324C.1	1.0	1114433-1116763
+IV	1116122	1116205	-1.0	WD40_repeat	0	1116122-1116205	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	1115849	1115947	-1.0	WD40_repeat	0	1115849-1115947	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

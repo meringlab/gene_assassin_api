@@ -1,0 +1,4 @@
+#>P	YAL061W	YAL061W	YAL061W	I	33448	34698	1	Putative medium-chain alcohol dehydrogenase with similarity to BDH1; transcription induced by constitutively active PDR1 and PDR3 [Source:SGD;Acc:S000000057]
+#>E	YAL061W.1	1.0	33448-34701
+I	33523	33927	1.0	ADH_GroES-like	0	33523-33927	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240
+I	34045	34443	1.0	ADH_C	0	34045-34443	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107

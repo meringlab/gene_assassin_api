@@ -1,0 +1,3 @@
+#>P	YNL098C	YNL098C	YNL098C	XIV	439605	440570	-1	GTP-binding protein; regulates nitrogen starvation response, sporulation, and filamentous growth; farnesylation and palmitoylation required for activity and localization to plasma membrane; homolog of mammalian Ras proto-oncogenes; RAS2 has a paralog, RAS1, that arose from the whole genome duplication [Source:SGD;Acc:S000005042]
+#>E	YNL098C.1	1.0	439602-440570
+XIV	440058	440537	-1.0	Small_GTPase	0	440058-440537	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071

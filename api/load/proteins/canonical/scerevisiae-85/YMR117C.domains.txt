@@ -1,0 +1,3 @@
+#>P	YMR117C	YMR117C	YMR117C	XIII	501253	501891	-1	Component of the kinetochore-associated Ndc80 complex; involved in chromosome segregation, spindle checkpoint activity, and kinetochore clustering; evolutionarily conserved; other members include Ndc80p, Nuf2p, Spc24p, and Spc25p [Source:SGD;Acc:S000004723]
+#>E	YMR117C.1	1.0	501250-501891
+XIII	501259	501624	-1.0	Ndc80_Spc24	0	501259-501624	PF08286	http://pfam.sanger.ac.uk/family?acc=PF08286

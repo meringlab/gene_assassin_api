@@ -1,0 +1,4 @@
+#>P	YDL248W	YDL248W	YDL248W	IV	1802	2950	1	Protein of unknown function; member of the DUP380 subfamily of conserved, often subtelomerically-encoded proteins; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies [Source:SGD;Acc:S000002407]
+#>E	YDL248W.1	1.0	1802-2953
+IV	2537	2863	1.0	DUP	0	2537-2863	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674
+IV	1997	2302	1.0	DUP	0	1997-2302	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674

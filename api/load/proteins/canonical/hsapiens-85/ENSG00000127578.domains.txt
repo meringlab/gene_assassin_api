@@ -1,0 +1,6 @@
+#>P	ENSG00000127578	ENST00000319070	ENSP00000324763	16	631254	634054	1	WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30912]
+#>E	ENSE00001061905,ENSE00001239712	0,0	631254-631424,632582-634057
+16	632786	632869	1	Kazal_dom	25.5	632786-632869	PF07648	http://pfam.sanger.ac.uk/family?acc=PF07648
+16	633329	633463	1	Kunitz_BPTI	87.4	633329-633463	PF00014	http://pfam.sanger.ac.uk/family?acc=PF00014
+16	633482	633637	1	Kunitz_BPTI	87.4	633482-633637	PF00014	http://pfam.sanger.ac.uk/family?acc=PF00014
+16	631338	632638	1	WAP_dom	31.7	631338-631424,632582-632638	PF00095	http://pfam.sanger.ac.uk/family?acc=PF00095

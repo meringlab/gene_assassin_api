@@ -1,0 +1,3 @@
+#>P	YDR101C	YDR101C	YDR101C	IV	655689	657467	-1	Nuclear export factor for the ribosomal pre-60S subunit; shuttling factor which directly binds FG rich nucleoporins and facilities translocation through the nuclear pore complex; interacts directly with Alb1p; responsible for Tif6p recycling defects in the absence of Rei1; associated with the ribosomal export complex [Source:SGD;Acc:S000002508]
+#>E	YDR101C.1	1.0	655686-657467
+IV	656904	657389	-1.0	Pept_M24_structural-domain	0	656904-657389	PF00557	http://pfam.sanger.ac.uk/family?acc=PF00557

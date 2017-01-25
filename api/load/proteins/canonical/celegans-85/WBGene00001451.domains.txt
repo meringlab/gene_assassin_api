@@ -1,0 +1,5 @@
+#>P	WBGene00001451	F31F6.4a	F31F6.4a	X	14881538	14882064	1	FMRF-Like Peptide  [Source:RefSeq peptide;Acc:NP_741934]
+#>E	F31F6.4a.e1,F31F6.4a.e2,F31F6.4a.e3	1,1,0	14881538-14881660,14881730-14881863,14881917-14882067
+X	14881823	14881852	1	FMRFamid-related_peptide-like	22.7	14881823-14881852	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+X	14881957	14881986	1	FMRFamid-related_peptide-like	22.7	14881957-14881986	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+X	14881927	14881956	1	FMRFamid-related_peptide-like	22.7	14881927-14881956	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581

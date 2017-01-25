@@ -1,0 +1,3 @@
+#>P	YJR073C	YJR073C	YJR073C	X	572318	572935	-1	Methylene-fatty-acyl-phospholipid synthase; catalyzes the last two steps in phosphatidylcholine biosynthesis; also known as phospholipid methyltransferase [Source:SGD;Acc:S000003834]
+#>E	YJR073C.1	1.0	572315-572935
+X	572339	572641	-1.0	PEMT	0	572339-572641	PF04191	http://pfam.sanger.ac.uk/family?acc=PF04191

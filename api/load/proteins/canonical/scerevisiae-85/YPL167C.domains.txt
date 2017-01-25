@@ -1,0 +1,6 @@
+#>P	YPL167C	YPL167C	YPL167C	XVI	232596	237107	-1	Catalytic subunit of DNA polymerase zeta; involved in translesion synthesis during post-replication repair; required for mutagenesis induced by DNA damage; involved in double-strand break repair; forms a complex with Rev7p, Pol31p and Pol32p [Source:SGD;Acc:S000006088]
+#>E	YPL167C.1	1.0	232593-237107
+XVI	236460	236909	-1.0	DNA-dir_DNA_pol_B_exonuc	0	236460-236909	PF03104	http://pfam.sanger.ac.uk/family?acc=PF03104
+XVI	234588	235187	-1.0	DNA-dir_DNA_pol_B_exonuc	0	234588-235187	PF03104	http://pfam.sanger.ac.uk/family?acc=PF03104
+XVI	233007	234353	-1.0	DNA-dir_DNA_pol_B_multi_dom	0	233007-234353	PF00136	http://pfam.sanger.ac.uk/family?acc=PF00136
+XVI	232668	232916	-1.0	Znf-C4pol	0	232668-232916	PF14260	http://pfam.sanger.ac.uk/family?acc=PF14260

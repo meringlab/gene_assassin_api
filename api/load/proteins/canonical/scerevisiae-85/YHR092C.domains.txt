@@ -1,0 +1,3 @@
+#>P	YHR092C	YHR092C	YHR092C	VIII	287084	288811	-1	High-affinity glucose transporter; member of the major facilitator superfamily, expression is induced by low levels of glucose and repressed by high levels of glucose; HXT4 has a paralog, HXT7, that arose from the whole genome duplication [Source:SGD;Acc:S000001134]
+#>E	YHR092C.1	1.0	287081-288811
+VIII	287210	288592	-1.0	Sub_transporter	0	287210-288592	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083

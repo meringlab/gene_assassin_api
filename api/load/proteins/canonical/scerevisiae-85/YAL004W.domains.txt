@@ -1,0 +1,3 @@
+#>P	YAL004W	YAL004W	YAL004W	I	140760	141404	1	Dubious open reading frame; unlikely to encode a functional protein, based on available experimental and comparative sequence data; completely overlaps verified gene SSA1/YAL005C [Source:SGD;Acc:S000002136]
+#>E	YAL004W.1	1.0	140760-141407
+I	140760	141404	1.0	Glutamate_DH_NAD-spec	0	140760-141404	PF10712	http://pfam.sanger.ac.uk/family?acc=PF10712

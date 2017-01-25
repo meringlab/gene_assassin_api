@@ -1,0 +1,4 @@
+#>P	YMR303C	YMR303C	YMR303C	XIII	873294	874337	-1	Glucose-repressible alcohol dehydrogenase II; catalyzes the conversion of ethanol to acetaldehyde; involved in the production of certain carboxylate esters; regulated by ADR1 [Source:SGD;Acc:S000004918]
+#>E	YMR303C.1	1.0	873291-874337
+XIII	873927	874247	-1.0	ADH_GroES-like	103.6	873927-874247	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240
+XIII	873408	873794	-1.0	ADH_C	103.3	873408-873794	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107

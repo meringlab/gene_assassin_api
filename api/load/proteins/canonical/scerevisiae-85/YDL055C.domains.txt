@@ -1,0 +1,4 @@
+#>P	YDL055C	YDL055C	YDL055C	IV	355677	356759	-1	GDP-mannose pyrophosphorylase (mannose-1-phosphate guanyltransferase); synthesizes GDP-mannose from GTP and mannose-1-phosphate in cell wall biosynthesis; required for normal cell wall structure [Source:SGD;Acc:S000002213]
+#>E	YDL055C.1	1.0	355674-356759
+IV	356076	356756	-1.0	NTP_transferase	0	356076-356756	PF00483	http://pfam.sanger.ac.uk/family?acc=PF00483
+IV	355896	355994	-1.0	Hexapep_transf	0	355896-355994	PF00132	http://pfam.sanger.ac.uk/family?acc=PF00132

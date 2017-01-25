@@ -1,0 +1,4 @@
+#>P	YKL196C	YKL196C	YKL196C	XI	74935	75534	-1	Vesicle membrane protein (v-SNARE) with acyltransferase activity; involved in trafficking to and within the Golgi, endocytic trafficking to the vacuole, and vacuolar fusion; membrane localization due to prenylation at the carboxy-terminus [Source:SGD;Acc:S000001679]
+#>E	YKL196C.1	1.0	74932-75534
+XI	75154	75405	-1.0	Longin	0	75154-75405	PF13774	http://pfam.sanger.ac.uk/family?acc=PF13774
+XI	74956	75123	-1.0	Synaptobrevin	0	74956-75123	PF00957	http://pfam.sanger.ac.uk/family?acc=PF00957

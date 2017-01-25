@@ -1,0 +1,4 @@
+#>P	YIL148W	YIL148W	YIL148W	IX	68708	69525	1	Ubiquitin-ribosomal 60S subunit protein L40A fusion protein; cleaved to yield ubiquitin and ribosomal protein L40A; ubiquitin may facilitate assembly of the ribosomal protein into ribosomes; homologous to mammalian ribosomal protein L40, no bacterial homolog; RPL40A has a paralog, RPL40B, that arose from the whole genome duplication; relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000001410]
+#>E	YIL148W.1,YIL148W.2	1,1	68708-68715,69150-69528
+IX	69157	69363	1	Ubiquitin	0	69157-69363	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240
+IX	69373	69525	1	Ribosomal_L40e	0	69373-69525	PF01020	http://pfam.sanger.ac.uk/family?acc=PF01020

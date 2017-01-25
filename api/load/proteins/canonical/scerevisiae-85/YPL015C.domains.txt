@@ -1,0 +1,3 @@
+#>P	YPL015C	YPL015C	YPL015C	XVI	525813	526883	-1	Cytoplasmic NAD(+)-dependent protein deacetylase; member of the silencing information regulator 2 (Sir2) family of NAD(+)-dependent protein deacetylases; modulates nucleolar (rDNA) and telomeric silencing; possesses NAD(+)-dependent histone deacetylase activity in vitro; contains a nuclear export signal (NES); function regulated by its nuclear export [Source:SGD;Acc:S000005936]
+#>E	YPL015C.1	1.0	525810-526883
+XVI	526194	526790	-1.0	NAD-dep_deAcase_sirtuin	0	526194-526790	PF02146	http://pfam.sanger.ac.uk/family?acc=PF02146

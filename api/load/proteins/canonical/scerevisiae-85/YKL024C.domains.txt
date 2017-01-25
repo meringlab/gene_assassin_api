@@ -1,0 +1,3 @@
+#>P	YKL024C	YKL024C	YKL024C	XI	392529	393140	-1	Uridylate kinase; catalyzes the seventh enzymatic step in the de novo biosynthesis of pyrimidines, converting uridine monophosphate (UMP) into uridine-5'-diphosphate (UDP) [Source:SGD;Acc:S000001507]
+#>E	YKL024C.1	1.0	392526-393140
+XI	392607	393080	-1.0	Adenylate_kin	0	392607-393080	PF00406	http://pfam.sanger.ac.uk/family?acc=PF00406

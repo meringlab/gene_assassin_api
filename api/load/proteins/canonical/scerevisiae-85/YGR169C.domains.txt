@@ -1,0 +1,3 @@
+#>P	YGR169C	YGR169C	YGR169C	VII	834692	835903	-1	tRNA:pseudouridine synthase; catalyzes the conversion of uridine to pseudouridine at position 31 in cytoplasmic and mitochondrial tRNAs; mutation of Asp168 to Ala abolishes enzyme activity; not essential for viability [Source:SGD;Acc:S000003401]
+#>E	YGR169C.1	1.0	834689-835903
+VII	835028	835522	-1.0	PsdUridine_synth_RsuA/RluD	0	835028-835522	PF00849	http://pfam.sanger.ac.uk/family?acc=PF00849

@@ -1,0 +1,3 @@
+#>P	YNL047C	YNL047C	YNL047C	XIV	539914	541881	-1	Phosphoinositide PI4,5P(2) binding protein, forms a complex with Slm1p; acts downstream of Mss4p in a pathway regulating actin cytoskeleton organization in response to stress; phosphorylated by the TORC2 complex; SLM2 has a paralog, SLM1, that arose from the whole genome duplication [Source:SGD;Acc:S000004992]
+#>E	YNL047C.1	1.0	539911-541881
+XIV	540220	540543	-1.0	Pleckstrin_homology	0	540220-540543	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169

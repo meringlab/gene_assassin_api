@@ -1,0 +1,4 @@
+#>P	YER066W	YER066W	YER066W	V	290242	290796	1	Putative protein of unknown function; non-essential gene identified in a screen for mutants with decreased levels of rDNA transcription [Source:SGD;Acc:S000000868]
+#>E	YER066W.1	1.0	290242-290799
+V	290245	290358	1.0	WD40_repeat	0	290245-290358	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+V	290440	290538	1.0	WD40_repeat	0	290440-290538	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

@@ -1,0 +1,5 @@
+#>P	YPR048W	YPR048W	YPR048W	XVI	659182	661050	1	Conserved NAPDH-dependent diflavin reductase; component of an early step in the cytosolic Fe-S protein assembly (CIA) machinery; transfers electrons from NADPH to the Fe-S cluster of Dre2p; plays a pro-death role under oxidative stress; Tah18p-dependent nitric oxide synthesis confers high-temperature stress tolerance; possible target for development of antifungal drugs [Source:SGD;Acc:S000006252]
+#>E	YPR048W.1	1.0	659182-661053
+XVI	659206	659613	1.0	Flavodoxin/NO_synth	0	659206-659613	PF00258	http://pfam.sanger.ac.uk/family?acc=PF00258
+XVI	660622	660915	1.0	OxRdtase_FAD/NAD-bd	0	660622-660915	PF00175	http://pfam.sanger.ac.uk/family?acc=PF00175
+XVI	659869	660531	1.0	FAD-binding_1	0	659869-660531	PF00667	http://pfam.sanger.ac.uk/family?acc=PF00667

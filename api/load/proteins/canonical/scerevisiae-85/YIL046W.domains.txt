@@ -1,0 +1,9 @@
+#>P	YIL046W	YIL046W	YIL046W	IX	268651	270570	1	F-box protein containing five copies of the WD40 motif; controls cell cycle function, sulfur metabolism, and methionine biosynthesis as part of the ubiquitin ligase complex; interacts with and regulates Met4p, localizes within the nucleus; dissociation of Met30p from SCF complex in response to cadmium stress is regulated by Cdc48p [Source:SGD;Acc:S000001308]
+#>E	YIL046W.1	1.0	268651-270573
+IX	270211	270264	1.0	WD40_repeat	0	270211-270264	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IX	269764	269874	1.0	WD40_repeat	0	269764-269874	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IX	269533	269634	1.0	WD40_repeat	0	269533-269634	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IX	269644	269754	1.0	WD40_repeat	0	269644-269754	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IX	270274	270384	1.0	WD40_repeat	0	270274-270384	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IX	269893	269997	1.0	WD40_repeat	0	269893-269997	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IX	269200	269325	1.0	F-box_dom_cyclin-like	0	269200-269325	PF00646	http://pfam.sanger.ac.uk/family?acc=PF00646

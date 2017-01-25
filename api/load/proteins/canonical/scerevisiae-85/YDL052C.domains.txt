@@ -1,0 +1,3 @@
+#>P	YDL052C	YDL052C	YDL052C	IV	362675	363583	-1	1-acyl-sn-glycerol-3-phosphate acyltransferase; catalyzes the acylation of lysophosphatidic acid to form phosphatidic acid, a key intermediate in lipid metabolism; enzymatic activity detected in lipid particles and microsomes [Source:SGD;Acc:S000002210]
+#>E	YDL052C.1	1.0	362672-363583
+IV	363011	363397	-1.0	Acyltransferase	0	363011-363397	PF01553	http://pfam.sanger.ac.uk/family?acc=PF01553

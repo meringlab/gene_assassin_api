@@ -1,0 +1,4 @@
+#>P	YLL029W	YLL029W	YLL029W	XII	81461	83707	1	Protein involved in negative regulation of iron regulon transcription; forms an iron independent complex with Fra2p, Grx3p, and Grx4p; cytosolic; mutant fails to repress transcription of iron regulon and is defective in spore formation [Source:SGD;Acc:S000003952]
+#>E	YLL029W.1	1.0	81461-83710
+XII	81782	82264	1.0	Creatinase	0	81782-82264	PF01321	http://pfam.sanger.ac.uk/family?acc=PF01321
+XII	82874	83500	1.0	Pept_M24_structural-domain	0	82874-83500	PF00557	http://pfam.sanger.ac.uk/family?acc=PF00557

@@ -1,0 +1,3 @@
+#>P	YDR515W	YDR515W	YDR515W	IV	1473429	1474769	1	RNA binding protein that associates with polysomes; may be involved in regulating mRNA translation; involved in the copper-dependent mineralization of copper sulfide complexes on cell surface in cells cultured in copper salts; SLF1 has a paralog, SRO9, that arose from the whole genome duplication; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002923]
+#>E	YDR515W.1	1.0	1473429-1474772
+IV	1474251	1474433	1.0	Lupus_La_RNA-bd	0	1474251-1474433	PF05383	http://pfam.sanger.ac.uk/family?acc=PF05383

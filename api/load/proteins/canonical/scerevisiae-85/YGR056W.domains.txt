@@ -1,0 +1,5 @@
+#>P	YGR056W	YGR056W	YGR056W	VII	601661	604444	1	Component of the RSC chromatin remodeling complex; required for expression of mid-late sporulation-specific genes; contains two essential bromodomains, a bromo-adjacent homology (BAH) domain, and an AT hook; RSC1 has a paralog, RSC2, that arose from the whole genome duplication [Source:SGD;Acc:S000003288]
+#>E	YGR056W.1	1.0	601661-604447
+VII	602435	602623	1.0	Bromodomain	0	602435-602623	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439
+VII	601751	601954	1.0	Bromodomain	0	601751-601954	PF00439	http://pfam.sanger.ac.uk/family?acc=PF00439
+VII	602762	603115	1.0	BAH_dom	0	602762-603115	PF01426	http://pfam.sanger.ac.uk/family?acc=PF01426

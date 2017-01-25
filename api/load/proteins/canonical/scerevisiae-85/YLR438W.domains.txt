@@ -1,0 +1,3 @@
+#>P	YLR438W	YLR438W	YLR438W	XII	1012501	1013772	1	L-ornithine transaminase (OTAse); catalyzes the second step of arginine degradation, expression is dually-regulated by allophanate induction and a specific arginine induction process; not nitrogen catabolite repression sensitive; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004430]
+#>E	YLR438W.1	1.0	1012501-1013775
+XII	1012588	1013595	1.0	Aminotrans_3	0	1012588-1013595	PF00202	http://pfam.sanger.ac.uk/family?acc=PF00202

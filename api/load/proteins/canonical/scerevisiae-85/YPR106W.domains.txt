@@ -1,0 +1,3 @@
+#>P	YPR106W	YPR106W	YPR106W	XVI	740061	741389	1	Predicted protein kinase; overexpression causes sensitivity to staurosporine, which is a potent inhibitor of protein kinase C [Source:SGD;Acc:S000006310]
+#>E	YPR106W.1	1.0	740061-741392
+XVI	740475	741164	1.0	Prot_kinase_cat_dom	0	740475-741164	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

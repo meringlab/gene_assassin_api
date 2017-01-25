@@ -1,0 +1,3 @@
+#>P	ENSG00000180389	ENST00000381026	ENSP00000370414	13	27945260	27945412	1	ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit pseudogene 2 [Source:HGNC Symbol;Acc:HGNC:34026]
+#>E	ENSE00001487262	1.0	27945260-27945415
+13	27945266	27945409	1.0	ATPase_F1-cplx_esu_mt	70.1	27945266-27945409	PF04627	http://pfam.sanger.ac.uk/family?acc=PF04627

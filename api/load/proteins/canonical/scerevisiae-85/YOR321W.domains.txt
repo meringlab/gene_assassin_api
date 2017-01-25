@@ -1,0 +1,4 @@
+#>P	YOR321W	YOR321W	YOR321W	XV	916030	918288	1	Protein O-mannosyltransferase; transfers mannose residues from dolichyl phosphate-D-mannose to protein serine/threonine residues; acts in a complex with Pmt5p, can instead interact with Pmt1p in some conditions; antifungal drug target; PMT3 has a paralog, PMT2, that arose from the whole genome duplication [Source:SGD;Acc:S000005848]
+#>E	YOR321W.1	1.0	916030-918291
+XV	917086	917616	1.0	MIR_motif	0	917086-917616	PF02815	http://pfam.sanger.ac.uk/family?acc=PF02815
+XV	916216	916944	1.0	Glyco_trans_39	0	916216-916944	PF02366	http://pfam.sanger.ac.uk/family?acc=PF02366

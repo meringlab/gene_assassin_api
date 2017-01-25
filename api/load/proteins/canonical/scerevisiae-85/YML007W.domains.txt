@@ -1,0 +1,4 @@
+#>P	YML007W	YML007W	YML007W	XIII	253848	255797	1	Basic leucine zipper (bZIP) transcription factor; required for oxidative stress tolerance; activated by H2O2 through the multistep formation of disulfide bonds and transit from the cytoplasm to the nucleus; Yap1p is degraded in the nucleus after the oxidative stress has passed; mediates resistance to cadmium; relative distribution to the nucleus increases upon DNA replication stress; YAP1 has a paralog, CAD1, that arose from the whole genome duplication [Source:SGD;Acc:S000004466]
+#>E	YML007W.1	1.0	253848-255800
+XIII	254046	254153	1.0	bZIP	0	254046-254153	PF00170	http://pfam.sanger.ac.uk/family?acc=PF00170
+XIII	254691	255791	1.0	TF_PAP1	0	254691-255791	PF08601	http://pfam.sanger.ac.uk/family?acc=PF08601

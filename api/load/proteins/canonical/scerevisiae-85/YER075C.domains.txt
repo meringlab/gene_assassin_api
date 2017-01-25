@@ -1,0 +1,4 @@
+#>P	YER075C	YER075C	YER075C	V	308416	311199	-1	Phosphotyrosine-specific protein phosphatase; involved in the inactivation of mitogen-activated protein kinase (MAPK) during osmolarity sensing; dephosporylates Hog1p MAPK and regulates its localization; localized to the cytoplasm [Source:SGD;Acc:S000000877]
+#>E	YER075C.1	1.0	308413-311199
+V	310528	310890	-1.0	Rhodanese-like	0	310528-310890	PF00581	http://pfam.sanger.ac.uk/family?acc=PF00581
+V	308572	309612	-1.0	Tyr_Pase_rcpt/non-rcpt	0	308572-309612	PF00102	http://pfam.sanger.ac.uk/family?acc=PF00102

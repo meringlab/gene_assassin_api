@@ -1,0 +1,3 @@
+#>P	YNR068C	YNR068C	YNR068C	XIV	760070	760885	-1	Putative protein of unknown function; exhibits homology to C-terminal end of Bul1p; expressed as a readthrough product of BSC5, the readthrough locus being termed BUL3; the BUL3 readthrough product is involved in ubiquitin-mediated sorting of plasma membrane proteins and interacts with WW domains of Rsp5p in vitro, but in a functionally different way than the non-readthrough form [Source:SGD;Acc:S000005351]
+#>E	YNR068C.1	1.0	760067-760885
+XIV	760079	760873	-1.0	Bul1_C	0	760079-760873	PF04426	http://pfam.sanger.ac.uk/family?acc=PF04426

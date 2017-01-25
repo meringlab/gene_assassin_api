@@ -1,0 +1,9 @@
+#>P	YOR151C	YOR151C	YOR151C	XV	613000	616671	-1	RNA polymerase II second largest subunit B150; part of central core; similar to bacterial beta subunit [Source:SGD;Acc:S000005677]
+#>E	YOR151C.1	1.0	612997-616671
+XV	614746	614934	-1.0	RNA_pol_Rpb2_4	0	614746-614934	PF04566	http://pfam.sanger.ac.uk/family?acc=PF04566
+XV	615280	616548	-1.0	RNA_pol_bsu_protrusion	0	615280-616548	PF04563	http://pfam.sanger.ac.uk/family?acc=PF04563
+XV	613300	614421	-1.0	DNA-dir_RNA_pol_su2_6	0	613300-614421	PF00562	http://pfam.sanger.ac.uk/family?acc=PF00562
+XV	615451	616014	-1.0	RNA_pol_Rpb2_2	0	615451-616014	PF04561	http://pfam.sanger.ac.uk/family?acc=PF04561
+XV	614437	614631	-1.0	RNA_pol_Rpb2_5	0	614437-614631	PF04567	http://pfam.sanger.ac.uk/family?acc=PF04567
+XV	613018	613296	-1.0	RNA_pol_Rpb2_7	0	613018-613296	PF04560	http://pfam.sanger.ac.uk/family?acc=PF04560
+XV	615037	615231	-1.0	RNA_pol_Rpb2_3	0	615037-615231	PF04565	http://pfam.sanger.ac.uk/family?acc=PF04565

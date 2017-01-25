@@ -1,0 +1,3 @@
+#>P	YMR264W	YMR264W	YMR264W	XIII	795805	796413	1	Ubiquitin-binding protein; endoplasmic reticulum membrane protein that recruits the ubiquitin-conjugating enzyme Ubc7p to the ER where it functions in protein degradation; contains a CUE domain that binds ubiquitin to facilitate intramolecular monoubiquitination; CUE1 has a paralog, CUE4, that arose from the whole genome duplication [Source:SGD;Acc:S000004877]
+#>E	YMR264W.1	1.0	795805-796416
+XIII	796003	796119	1.0	CUE	0	796003-796119	PF02845	http://pfam.sanger.ac.uk/family?acc=PF02845

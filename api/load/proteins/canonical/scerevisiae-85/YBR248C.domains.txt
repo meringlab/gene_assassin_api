@@ -1,0 +1,4 @@
+#>P	YBR248C	YBR248C	YBR248C	II	714810	716465	-1	Imidazole glycerol phosphate synthase; glutamine amidotransferase:cyclase that catalyzes the fifth step of histidine biosynthesis and also produces 5-aminoimidazole-4-carboxamide ribotide (AICAR), a purine precursor [Source:SGD;Acc:S000000452]
+#>E	YBR248C.1	1.0	714807-716465
+II	715836	716450	-1.0	GATASE_1	0	715836-716450	PF00117	http://pfam.sanger.ac.uk/family?acc=PF00117
+II	714870	715751	-1.0	His_biosynth	0	714870-715751	PF00977	http://pfam.sanger.ac.uk/family?acc=PF00977

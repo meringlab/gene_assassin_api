@@ -1,0 +1,3 @@
+#>P	YDR185C	YDR185C	YDR185C	IV	831937	832473	-1	Mitochondrial protein of unknown function; similar to Ups1p and Ups2p which are involved in regulation of mitochondrial cardiolipin and phosphatidylethanolamine levels; null is viable but interacts synthetically with ups1 and ups2 mutations; UPS3 has a paralog, UPS2, that arose from the whole genome duplication [Source:SGD;Acc:S000002593]
+#>E	YDR185C.1	1.0	831934-832473
+IV	831961	832431	-1.0	PRELI/MSF1	0	831961-832431	PF04707	http://pfam.sanger.ac.uk/family?acc=PF04707

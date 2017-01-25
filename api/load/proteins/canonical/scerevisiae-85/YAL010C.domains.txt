@@ -1,0 +1,3 @@
+#>P	YAL010C	YAL010C	YAL010C	I	134187	135665	-1	Subunit of both the ERMES and the SAM complex; component of ERMES complex which acts as a molecular tether between the mitochondria and the ER, necessary for efficient phospholipid exchange between organelles and for mitophagy; SAM/TOB complex component that functions in the assembly of outer membrane beta-barrel proteins; involved in mitochondrial inheritance and morphology; ERMES complex is often co-localized with peroxisomes and concentrated areas of pyruvate dehydrogenase [Source:SGD;Acc:S000000008]
+#>E	YAL010C.1	1.0	134184-135665
+I	134769	135539	-1.0	DUF3722	0	134769-135539	PF12519	http://pfam.sanger.ac.uk/family?acc=PF12519

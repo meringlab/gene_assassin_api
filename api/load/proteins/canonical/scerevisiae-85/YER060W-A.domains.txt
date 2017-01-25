@@ -1,0 +1,3 @@
+#>P	YER060W-A	YER060W-A	YER060W-A	V	276572	278161	1	Putative purine-cytosine permease; very similar to Fcy2p but cannot substitute for its function [Source:SGD;Acc:S000002958]
+#>E	YER060W-A.1	1.0	276572-278164
+V	276788	278044	1.0	Cyt_pur_permease	403.8	276788-278044	PF02133	http://pfam.sanger.ac.uk/family?acc=PF02133

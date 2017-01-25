@@ -1,0 +1,4 @@
+#>P	YCR024C	YCR024C	YCR024C	III	160747	162222	-1	Mitochondrial asparaginyl-tRNA synthetase [Source:SGD;Acc:S000000618]
+#>E	YCR024C.1	1.0	160744-162222
+III	160765	161802	-1.0	aa-tRNA-synt_II	0	160765-161802	PF00152	http://pfam.sanger.ac.uk/family?acc=PF00152
+III	161896	162123	-1.0	NA-bd_OB_tRNA-helicase	0	161896-162123	PF01336	http://pfam.sanger.ac.uk/family?acc=PF01336

@@ -1,0 +1,3 @@
+#>P	YLR205C	YLR205C	YLR205C	XII	552727	553677	-1	ER localized heme oxygenase; involved in heme degradation during iron starvation and in the oxidative stress response; expression is regulated by AFT1 and oxidative stress; relocates to the perinuclear region in the presence of oxidants [Source:SGD;Acc:S000004195]
+#>E	YLR205C.1	1.0	552724-553677
+XII	552922	553629	-1.0	Haem_Oase-like	0	552922-553629	PF01126	http://pfam.sanger.ac.uk/family?acc=PF01126

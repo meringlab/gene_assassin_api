@@ -1,0 +1,3 @@
+#>P	YOR359W	YOR359W	YOR359W	XV	1011189	1012757	1	Flap-structured DNA-binding and RNA-binding protein; stimulates deadenylation-dependent mRNA degradation mediated by the CCR4-NOT deadenylase complex; member of the Smaug (Smg) family of post-transcriptional regulators which bind RNA through a conserved sterile alpha motif (SAM) domain that interacts with Smg recognition element (SREs) containing transcripts; stimulates Dna2p endonuclease activity [Source:SGD;Acc:S000005886]
+#>E	YOR359W.1	1.0	1011189-1012760
+XV	1012542	1012709	1.0	SAM_2	0	1012542-1012709	PF07647	http://pfam.sanger.ac.uk/family?acc=PF07647

@@ -1,0 +1,5 @@
+#>P	YPL207W	YPL207W	YPL207W	XVI	159909	162338	1	Iron-sulfer protein required for synthesis of Wybutosine modified tRNA; Wybutosine is a modified guanosine found at the 3'-position adjacent to the anticodon of phenylalanine tRNA which supports reading frame maintenance by stabilizing codon-anticodon interactions; induction by Yap5p in response to iron provides protection from high iron toxicity; overexpression results in increased cellular iron [Source:SGD;Acc:S000006128]
+#>E	YPL207W.1	1.0	159909-162341
+XVI	161328	161879	1.0	rSAM	0	161328-161879	PF04055	http://pfam.sanger.ac.uk/family?acc=PF04055
+XVI	161883	162089	1.0	tRNA_wybutosine-synth	0	161883-162089	PF08608	http://pfam.sanger.ac.uk/family?acc=PF08608
+XVI	160527	160967	1.0	Flavodoxin/NO_synth	0	160527-160967	PF00258	http://pfam.sanger.ac.uk/family?acc=PF00258

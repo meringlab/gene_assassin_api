@@ -1,0 +1,3 @@
+#>P	YER102W	YER102W	YER102W	V	363100	363699	1	Protein component of the small (40S) ribosomal subunit; homologous to mammalian ribosomal protein S8, no bacterial homolog; RPS8B has a paralog, RPS8A, that arose from the whole genome duplication [Source:SGD;Acc:S000000904]
+#>E	YER102W.1	1.0	363100-363702
+V	363100	363651	1.0	Ribosomal_S8e/biogenesis_NSA2	0	363100-363651	PF01201	http://pfam.sanger.ac.uk/family?acc=PF01201

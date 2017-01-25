@@ -1,0 +1,3 @@
+#>P	YHR152W	YHR152W	YHR152W	VIII	401434	401952	1	Nucleolar protein of unknown function; positive regulator of mitotic exit; involved in regulating release of Cdc14p from the nucleolus in early anaphase, may play similar role in meiosis; SPO12 has a paralog, BNS1, that arose from the whole genome duplication [Source:SGD;Acc:S000001195]
+#>E	YHR152W.1	1.0	401434-401955
+VIII	401782	401886	1.0	Spo12	0	401782-401886	PF05032	http://pfam.sanger.ac.uk/family?acc=PF05032

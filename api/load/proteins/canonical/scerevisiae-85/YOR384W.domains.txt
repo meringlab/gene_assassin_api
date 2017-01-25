@@ -1,0 +1,5 @@
+#>P	YOR384W	YOR384W	YOR384W	XV	1061564	1063645	1	Putative ferric reductase with similarity to Fre2p; expression induced by low iron levels; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies [Source:SGD;Acc:S000005911]
+#>E	YOR384W.1	1.0	1061564-1063648
+XV	1062383	1062733	1.0	Flavoprotein_TM	0	1062383-1062733	PF01794	http://pfam.sanger.ac.uk/family?acc=PF01794
+XV	1063154	1063582	1.0	Fe_red_NAD-bd_6	0	1063154-1063582	PF08030	http://pfam.sanger.ac.uk/family?acc=PF08030
+XV	1062833	1063138	1.0	FAD-bd_8	0	1062833-1063138	PF08022	http://pfam.sanger.ac.uk/family?acc=PF08022

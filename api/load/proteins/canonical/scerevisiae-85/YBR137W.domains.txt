@@ -1,0 +1,3 @@
+#>P	YBR137W	YBR137W	YBR137W	II	513044	513580	1	Protein with a role in ER delivery of tail-anchored membrane proteins; interacts with Sgt2p; binds to the TRC complex, which inserts proteins into the ER membrane; interacts with Msn5p karyopherin; YBR137W is not an essential gene [Source:SGD;Acc:S000000341]
+#>E	YBR137W.1	1.0	513044-513583
+II	513140	513529	1.0	DUF336	0	513140-513529	PF03928	http://pfam.sanger.ac.uk/family?acc=PF03928

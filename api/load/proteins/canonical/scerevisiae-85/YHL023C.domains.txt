@@ -1,0 +1,3 @@
+#>P	YHL023C	YHL023C	YHL023C	VIII	59126	62563	-1	Subunit of SEA (Seh1-associated), Npr2/3, and Iml1p complexes; Npr2/3 complex mediates downregulation of TORC1 activity upon amino acid limitation; SEA complex is a coatomer-related complex that associates dynamically with the vacuole; Iml1p complex (Iml1p-Npr2p-Npr3p) is required for non-nitrogen-starvation (NNS)-induced autophagy; required for Npr2p phosphorylation and Iml1p-Npr2p interaction; null mutant shows delayed meiotic DNA replication and double-strand break repair [Source:SGD;Acc:S000001015]
+#>E	YHL023C.1	1.0	59123-62563
+VIII	59663	61369	-1.0	NPR3	0	59663-61369	PF03666	http://pfam.sanger.ac.uk/family?acc=PF03666

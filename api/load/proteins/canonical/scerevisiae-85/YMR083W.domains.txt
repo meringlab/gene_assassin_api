@@ -1,0 +1,4 @@
+#>P	YMR083W	YMR083W	YMR083W	XIII	434788	435912	1	Mitochondrial alcohol dehydrogenase isozyme III; involved in the shuttling of mitochondrial NADH to the cytosol under anaerobic conditions and ethanol production [Source:SGD;Acc:S000004688]
+#>E	YMR083W.1	1.0	434788-435915
+XIII	434959	435285	1.0	ADH_GroES-like	0	434959-435285	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240
+XIII	435412	435795	1.0	ADH_C	0	435412-435795	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107

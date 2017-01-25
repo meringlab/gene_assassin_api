@@ -1,0 +1,3 @@
+#>P	YJL104W	YJL104W	YJL104W	X	227327	227773	1	Subunit of the import motor (PAM complex); the PAM complex is a  component of the Translocase of the Inner Mitochondrial membrane (TIM23 complex); forms a 1:1 subcomplex with Pam18p and inhibits its cochaperone activity; contains a J-like domain [Source:SGD;Acc:S000003640]
+#>E	YJL104W.1	1.0	227327-227776
+X	227327	227710	1.0	Protein_transpt	0	227327-227710	PF03656	http://pfam.sanger.ac.uk/family?acc=PF03656

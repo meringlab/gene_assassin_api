@@ -1,0 +1,5 @@
+#>P	YNL004W	YNL004W	YNL004W	XIV	622915	624618	1	Poly(A+) RNA-binding protein; key surveillance factor for the selective export of spliced mRNAs from the nucleus to the cytoplasm; preference for intron-containing genes; similar to Npl3p; HRB1 has a paralog, GBP2, that arose from the whole genome duplication [Source:SGD;Acc:S000004949]
+#>E	YNL004W.1,YNL004W.2	1,1	622915-622944,623287-624621
+XIV	624043	624249	1	RRM_dom	0	624043-624249	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+XIV	624388	624594	1	RRM_dom	0	624388-624594	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076
+XIV	623743	623946	1	RRM_dom	0	623743-623946	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

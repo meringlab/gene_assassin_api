@@ -1,0 +1,4 @@
+#>P	YDL078C	YDL078C	YDL078C	IV	315360	316388	-1	Peroxisomal malate dehydrogenase; catalyzes interconversion of malate and oxaloacetate; involved in the glyoxylate cycle [Source:SGD;Acc:S000002236]
+#>E	YDL078C.1	1.0	315357-316388
+IV	315378	315953	-1.0	Lactate/malate_DH_C	0	315378-315953	PF02866	http://pfam.sanger.ac.uk/family?acc=PF02866
+IV	315960	316385	-1.0	Lactate/malate_DH_N	0	315960-316385	PF00056	http://pfam.sanger.ac.uk/family?acc=PF00056

@@ -1,0 +1,4 @@
+#>P	YDL227C	YDL227C	YDL227C	IV	46274	48031	-1	Site-specific endonuclease; required for gene conversion at the MAT locus (homothallic switching) through the generation of a ds DNA break; expression restricted to mother cells in late G1 as controlled by Swi4p-Swi6p, Swi5p, and Ash1p [Source:SGD;Acc:S000002386]
+#>E	YDL227C.1	1.0	46271-48031
+IV	46769	47107	-1.0	Homing_endonuc	0	46769-47107	PF05204	http://pfam.sanger.ac.uk/family?acc=PF05204
+IV	46643	48031	-1.0	Hom_end_hint	0	46643-48031	PF05203	http://pfam.sanger.ac.uk/family?acc=PF05203

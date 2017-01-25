@@ -1,0 +1,3 @@
+#>P	YPL178W	YPL178W	YPL178W	XVI	212158	212781	1	Small subunit of the heterodimeric cap binding complex with Sto1p; interacts with Npl3p, possibly to package mRNA for export from the nucleus; may have a role in telomere maintenance; contains an RNA-binding motif [Source:SGD;Acc:S000006099]
+#>E	YPL178W.1	1.0	212158-212784
+XVI	212299	212508	1.0	RRM_dom	0	212299-212508	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

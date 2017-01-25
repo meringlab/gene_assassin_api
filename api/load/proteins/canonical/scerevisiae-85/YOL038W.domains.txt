@@ -1,0 +1,4 @@
+#>P	YOL038W	YOL038W	YOL038W	XV	255337	256098	1	Alpha 4 subunit of the 20S proteasome; may replace alpha 3 subunit (Pre9p) under stress conditions to create a more active proteasomal isoform; GFP-fusion protein relocates from cytosol to the mitochondrial surface upon oxidative stress [Source:SGD;Acc:S000005398]
+#>E	YOL038W.1	1.0	255337-256101
+XV	255415	255981	1.0	Proteasome_sua/b	0	255415-255981	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227
+XV	255346	255414	1.0	Proteasome_asu_N	0	255346-255414	PF10584	http://pfam.sanger.ac.uk/family?acc=PF10584

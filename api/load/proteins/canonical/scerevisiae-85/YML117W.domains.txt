@@ -1,0 +1,4 @@
+#>P	YML117W	YML117W	YML117W	XIII	34243	37644	1	Putative RNA-binding protein; associates with mRNAs encoding cell wall proteins in high-throughput studies; deletion mutants display increased sensitivity to some cell wall disrupting agents; expression negatively regulated by cAMP [Source:SGD;Acc:S000004585]
+#>E	YML117W.1	1.0	34243-37647
+XIII	34417	34581	1.0	RNA-binding_domain_put	0	34417-34581	PF10378	http://pfam.sanger.ac.uk/family?acc=PF10378
+XIII	34837	35922	1.0	mRNA-bd_dom	0	34837-35922	PF10567	http://pfam.sanger.ac.uk/family?acc=PF10567

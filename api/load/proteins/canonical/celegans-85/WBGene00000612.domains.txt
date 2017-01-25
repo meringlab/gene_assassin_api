@@ -1,0 +1,4 @@
+#>P	WBGene00000612	C15A11.1	C15A11.1	I	7385910	7386935	-1	COLlagen  [Source:RefSeq peptide;Acc:NP_492086]
+#>E	C15A11.1.e1	1.0	7385907-7386935
+I	7386756	7386902	-1.0	Col_cuticle_N	44.7	7386756-7386902	PF01484	http://pfam.sanger.ac.uk/family?acc=PF01484
+I	7386294	7386467	-1.0	Collagen	62.1	7386294-7386467	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391

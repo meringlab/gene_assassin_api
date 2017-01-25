@@ -1,0 +1,5 @@
+#>P	YPR047W	YPR047W	YPR047W	XVI	657529	658935	1	Mitochondrial phenylalanyl-tRNA synthetase; active as a monomer, unlike the cytoplasmic subunit which is active as a dimer complexed to a beta subunit dimer; similar to the alpha subunit of E. coli phenylalanyl-tRNA synthetase [Source:SGD;Acc:S000006251]
+#>E	YPR047W.1	1.0	657529-658938
+XVI	658297	658608	1.0	Phenylalanyl-tRNA_Synthase	0	658297-658608	PF01409	http://pfam.sanger.ac.uk/family?acc=PF01409
+XVI	657676	658059	1.0	Phenylalanyl-tRNA_Synthase	0	657676-658059	PF01409	http://pfam.sanger.ac.uk/family?acc=PF01409
+XVI	658642	658935	1.0	PheS_beta_Fdx_antiC-bd	0	658642-658935	PF03147	http://pfam.sanger.ac.uk/family?acc=PF03147

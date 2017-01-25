@@ -1,0 +1,5 @@
+#>P	YFR019W	YFR019W	YFR019W	VI	184502	191335	1	1-phosphatidylinositol-3-phosphate 5-kinase; vacuolar membrane kinase that generates phosphatidylinositol (3,5)P2, which is involved in vacuolar sorting and homeostasis [Source:SGD;Acc:S000001915]
+#>E	YFR019W.1	1.0	184502-191338
+VI	187004	187618	1.0	Cpn60/TCP-1	0	187004-187618	PF00118	http://pfam.sanger.ac.uk/family?acc=PF00118
+VI	185207	185392	1.0	Znf_FYVE	0	185207-185392	PF01363	http://pfam.sanger.ac.uk/family?acc=PF01363
+VI	190598	191299	1.0	PInositol-4-P-5-kinase_core	0	190598-191299	PF01504	http://pfam.sanger.ac.uk/family?acc=PF01504

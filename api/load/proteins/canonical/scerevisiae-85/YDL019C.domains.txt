@@ -1,0 +1,5 @@
+#>P	YDL019C	YDL019C	YDL019C	IV	417666	421514	-1	Member of an oxysterol-binding protein family with seven members; in S. cerevisiae, family members have overlapping, redundant functions in sterol metabolism and collectively perform a function essential for viability; OSH2 has a paralog, SWH1, that arose from the whole genome duplication [Source:SGD;Acc:S000002177]
+#>E	YDL019C.1	1.0	417663-421514
+IV	421125	421199	-1.0	Ankyrin_rpt	0	421125-421199	PF00023	http://pfam.sanger.ac.uk/family?acc=PF00023
+IV	420360	420641	-1.0	Pleckstrin_homology	0	420360-420641	PF00169	http://pfam.sanger.ac.uk/family?acc=PF00169
+IV	417708	418826	-1.0	Oxysterol-bd	0	417708-418826	PF01237	http://pfam.sanger.ac.uk/family?acc=PF01237

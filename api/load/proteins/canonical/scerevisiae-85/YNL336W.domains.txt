@@ -1,0 +1,4 @@
+#>P	YNL336W	YNL336W	YNL336W	XIV	8330	9472	1	Protein of unknown function; member of the DUP380 subfamily of conserved, often subtelomerically-encoded proteins [Source:SGD;Acc:S000005280]
+#>E	YNL336W.1	1.0	8330-9475
+XIV	8525	8830	1.0	DUP	0	8525-8830	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674
+XIV	9065	9391	1.0	DUP	0	9065-9391	PF00674	http://pfam.sanger.ac.uk/family?acc=PF00674

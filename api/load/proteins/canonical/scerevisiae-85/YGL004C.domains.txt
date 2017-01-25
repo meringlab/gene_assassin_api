@@ -1,0 +1,4 @@
+#>P	YGL004C	YGL004C	YGL004C	VII	490706	491956	-1	Assembly chaperone for the 19S proteasome regulatory particle base; proteasome-interacting protein involved in the assembly of the base subcomplex of the 19S proteasome regulatory particle (RP); null mutants accumulate ubiquitinated Gcn4p and display decreased 26S proteasome stability; interacts with Rpt5p [Source:SGD;Acc:S000002972]
+#>E	YGL004C.1	1.0	490703-491956
+VII	491339	491443	-1.0	WD40_repeat	0	491339-491443	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	491465	491560	-1.0	WD40_repeat	0	491465-491560	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

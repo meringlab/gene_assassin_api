@@ -1,0 +1,3 @@
+#>P	YNL142W	YNL142W	YNL142W	XIV	357453	358949	1	Ammonium permease involved in regulation of pseudohyphal growth; belongs to a ubiquitous family of cytoplasmic membrane proteins that transport only ammonium (NH4+); expression is under the nitrogen catabolite repression regulation [Source:SGD;Acc:S000005086]
+#>E	YNL142W.1	1.0	357453-358952
+XIV	357552	358784	1.0	NH4_transpt_AmtB-like	0	357552-358784	PF00909	http://pfam.sanger.ac.uk/family?acc=PF00909

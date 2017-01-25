@@ -1,0 +1,3 @@
+#>P	YPR061C	YPR061C	YPR061C	XVI	675980	676882	-1	Probable Hsp40p co-chaperone; has a DnaJ-like domain and appears to be involved in ER-associated degradation of misfolded proteins containing a tightly folded cytoplasmic domain; inhibits replication of Brome mosaic virus in S. cerevisiae [Source:SGD;Acc:S000006265]
+#>E	YPR061C.1	1.0	675977-676882
+XVI	676442	676711	-1.0	DnaJ_N	0	676442-676711	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226

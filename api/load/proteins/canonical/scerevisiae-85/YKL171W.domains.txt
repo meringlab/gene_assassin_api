@@ -1,0 +1,4 @@
+#>P	YKL171W	YKL171W	YKL171W	XI	127475	130258	1	Protein kinase; implicated in proteasome function; interacts with TORC1, Ure2 and Gdh2; overexpression leads to hypersensitivity to rapamycin and nuclear accumulation of Gln3; epitope-tagged protein localizes to the cytoplasm [Source:SGD;Acc:S000001654]
+#>E	YKL171W.1	1.0	127475-130261
+XI	129941	130198	1.0	Prot_kinase_cat_dom	0	129941-130198	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+XI	128825	129316	1.0	Prot_kinase_cat_dom	0	128825-129316	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

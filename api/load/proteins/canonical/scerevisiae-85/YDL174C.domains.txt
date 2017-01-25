@@ -1,0 +1,4 @@
+#>P	YDL174C	YDL174C	YDL174C	IV	145829	147589	-1	D-lactate dehydrogenase; oxidizes D-lactate to pyruvate, transcription is heme-dependent, repressed by glucose, and derepressed in ethanol or lactate; located in the mitochondrial inner membrane [Source:SGD;Acc:S000002333]
+#>E	YDL174C.1	1.0	145826-147589
+IV	145868	146611	-1.0	FAD-linked_oxidase_C	0	145868-146611	PF02913	http://pfam.sanger.ac.uk/family?acc=PF02913
+IV	146720	147139	-1.0	Oxid_FAD_bind_N	0	146720-147139	PF01565	http://pfam.sanger.ac.uk/family?acc=PF01565

@@ -1,0 +1,3 @@
+#>P	YGL103W	YGL103W	YGL103W	VII	310967	311924	1	Ribosomal 60S subunit protein L28; homologous to mammalian ribosomal protein L27A and bacterial L15; may have peptidyl transferase activity; can mutate to cycloheximide resistance [Source:SGD;Acc:S000003071]
+#>E	YGL103W.1,YGL103W.2	1,1	310967-311015,311527-311927
+VII	311535	311918	1	Ribosomal_L18e/L15P	0	311535-311918	PF00828	http://pfam.sanger.ac.uk/family?acc=PF00828

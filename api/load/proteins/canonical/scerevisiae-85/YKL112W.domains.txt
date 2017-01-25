@@ -1,0 +1,4 @@
+#>P	YKL112W	YKL112W	YKL112W	XI	226570	228762	1	DNA binding protein with possible chromatin-reorganizing activity; involved in transcriptional activation, gene silencing, and DNA replication and repair [Source:SGD;Acc:S000001595]
+#>E	YKL112W.1	1.0	226570-228765
+XI	227530	228090	1.0	BAF1_ABF1	0	227530-228090	PF04684	http://pfam.sanger.ac.uk/family?acc=PF04684
+XI	226591	226971	1.0	BAF1_ABF1	0	226591-226971	PF04684	http://pfam.sanger.ac.uk/family?acc=PF04684

@@ -1,0 +1,3 @@
+#>P	YER154W	YER154W	YER154W	V	475020	476225	1	Mitochondrial inner membrane insertase; mediates the insertion of both mitochondrial- and nuclear-encoded proteins from the matrix into the inner membrane; also has a role in insertion of carrier proteins into the inner membrane; acts as a voltage-gated ion channel, activated by substrate peptides; interacts with mitochondrial ribosomes; conserved from bacteria to animals [Source:SGD;Acc:S000000956]
+#>E	YER154W.1	1.0	475020-476228
+V	475401	475979	1.0	Membrane_insertion_OxaA/YidC	0	475401-475979	PF02096	http://pfam.sanger.ac.uk/family?acc=PF02096

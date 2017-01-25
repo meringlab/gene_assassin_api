@@ -1,0 +1,3 @@
+#>P	YGR129W	YGR129W	YGR129W	VII	750400	751044	1	Member of the NineTeen Complex (NTC); NTC contains Prp19p and stabilizes U6 snRNA in catalytic forms of the spliceosome containing U2, U5, and U6 snRNAs; relocalizes to the cytosol in response to hypoxia; isy1 syf2 cells have defective spindles activiating cell cycle arrest [Source:SGD;Acc:S000003361]
+#>E	YGR129W.1	1.0	750400-751047
+VII	750577	751026	1.0	mRNA_splic_SYF2	0	750577-751026	PF08231	http://pfam.sanger.ac.uk/family?acc=PF08231

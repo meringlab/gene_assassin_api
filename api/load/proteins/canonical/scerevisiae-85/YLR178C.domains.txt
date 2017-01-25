@@ -1,0 +1,3 @@
+#>P	YLR178C	YLR178C	YLR178C	XII	513165	513821	-1	Inhibitor of carboxypeptidase Y (Prc1p), and Ras GAP (Ira2p); phosphatidylethanolamine-binding protein (PEBP) family member and ortholog of hPEBP1/RKIP, a natural metastasis suppressor; targets to vacuolar membranes during stationary phase; acetylated by NatB N-terminal acetyltransferase; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004168]
+#>E	YLR178C.1	1.0	513162-513821
+XII	513180	513722	-1.0	PtdEtn-bd_prot_PEBP	0	513180-513722	PF01161	http://pfam.sanger.ac.uk/family?acc=PF01161

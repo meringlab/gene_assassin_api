@@ -1,0 +1,7 @@
+#>P	YPR176C	YPR176C	YPR176C	XVI	891104	892078	-1	Beta subunit of Type II geranylgeranyltransferase; required for vesicular transport between the endoplasmic reticulum and the Golgi; provides a membrane attachment moiety to Rab-like proteins Ypt1p and Sec4p [Source:SGD;Acc:S000006380]
+#>E	YPR176C.1	1.0	891101-892078
+XVI	891485	891610	-1.0	Prenyltrans	0	891485-891610	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432
+XVI	891788	891913	-1.0	Prenyltrans	0	891788-891913	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432
+XVI	891185	891319	-1.0	Prenyltrans	0	891185-891319	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432
+XVI	891629	891751	-1.0	Prenyltrans	0	891629-891751	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432
+XVI	891332	891454	-1.0	Prenyltrans	0	891332-891454	PF00432	http://pfam.sanger.ac.uk/family?acc=PF00432

@@ -1,0 +1,4 @@
+#>P	YDL035C	YDL035C	YDL035C	IV	389175	392057	-1	Plasma membrane G protein coupled receptor (GPCR); interacts with the heterotrimeric G protein alpha subunit, Gpa2p, and with Plc1p; sensor that integrates nutritional signals with the modulation of cell fate via PKA and cAMP synthesis [Source:SGD;Acc:S000002193]
+#>E	YDL035C.1	1.0	389172-392057
+IV	391221	391898	-1.0	Glucose_rcpt_Git3_N	0	391221-391898	PF11710	http://pfam.sanger.ac.uk/family?acc=PF11710
+IV	390003	390230	-1.0	Glucose_rcpt_Git3_C	0	390003-390230	PF11970	http://pfam.sanger.ac.uk/family?acc=PF11970

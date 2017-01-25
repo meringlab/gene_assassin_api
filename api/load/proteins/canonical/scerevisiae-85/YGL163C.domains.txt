@@ -1,0 +1,5 @@
+#>P	YGL163C	YGL163C	YGL163C	VII	193710	196403	-1	DNA-dependent ATPase that stimulates strand exchange; modifies the topology of double-stranded DNA; involved in the recombinational repair of double-strand breaks in DNA during vegetative growth and meiosis; member of the SWI/SNF family of DNA translocases; forms nuclear foci upon DNA replication stress [Source:SGD;Acc:S000003131]
+#>E	YGL163C.1	1.0	193707-196403
+VII	195618	196334	-1.0	Rad54_N	0	195618-196334	PF08658	http://pfam.sanger.ac.uk/family?acc=PF08658
+VII	194544	195584	-1.0	SNF2_N	0	194544-195584	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176
+VII	194094	194333	-1.0	Helicase_C	0	194094-194333	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

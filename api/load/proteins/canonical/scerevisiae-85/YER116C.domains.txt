@@ -1,0 +1,3 @@
+#>P	YER116C	YER116C	YER116C	V	395351	396172	-1	Subunit of Slx5-Slx8 SUMO-targeted ubiquitin ligase (STUbL) complex; stimulated by prior attachment of SUMO to the substrate; contains a C-terminal RING domain; forms nuclear foci upon DNA replication stress [Source:SGD;Acc:S000000918]
+#>E	YER116C.1	1.0	395348-396172
+V	395426	395557	-1.0	Znf_C3HC4_RING-type	0	395426-395557	PF00097	http://pfam.sanger.ac.uk/family?acc=PF00097

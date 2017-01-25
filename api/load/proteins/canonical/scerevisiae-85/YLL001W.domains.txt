@@ -1,0 +1,5 @@
+#>P	YLL001W	YLL001W	YLL001W	XII	147890	150160	1	Dynamin-related GTPase involved in mitochondrial organization; required for mitochondrial fission and morphology; assembles on the cytoplasmic face of mitochondrial tubules at sites at which division will occur; also participates in endocytosis and regulating peroxisome abundance [Source:SGD;Acc:S000003924]
+#>E	YLL001W.1	1.0	147890-150163
+XII	147980	148627	1.0	Dynamin_GTPase	0	147980-148627	PF00350	http://pfam.sanger.ac.uk/family?acc=PF00350
+XII	149882	150154	1.0	GED	0	149882-150154	PF02212	http://pfam.sanger.ac.uk/family?acc=PF02212
+XII	148652	149530	1.0	Dynamin_central	0	148652-149530	PF01031	http://pfam.sanger.ac.uk/family?acc=PF01031

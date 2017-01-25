@@ -1,0 +1,4 @@
+#>P	WBGene00003924	Y110A7A.14.2	Y110A7A.14.2	I	5105250	5106045	-1	Proteasome subunit alpha type-4  [Source:UniProtKB/Swiss-Prot;Acc:Q9N599]
+#>E	Y110A7A.14.1.e2,Y110A7A.14.2.e1	1,0	5105247-5105626,5105673-5106045
+I	5105965	5106033	-1	Proteasome_asu_N	51.3	5105965-5106033	PF10584	http://pfam.sanger.ac.uk/family?acc=PF10584
+I	5105364	5105961	-1	Proteasome_sua/b	191.3	5105364-5105626,5105673-5105961	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227

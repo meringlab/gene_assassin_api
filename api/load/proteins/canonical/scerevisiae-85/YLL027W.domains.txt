@@ -1,0 +1,3 @@
+#>P	YLL027W	YLL027W	YLL027W	XII	87403	88152	1	Protein required for maturation of mitochondrial [4Fe-4S] proteins; functions in a complex with Isa2p and possibly Iba57p; isa1 deletion causes loss of mitochondrial DNA and respiratory deficiency; depletion reduces growth on nonfermentable carbon sources; functional ortholog of bacterial A-type ISC proteins [Source:SGD;Acc:S000003950]
+#>E	YLL027W.1	1.0	87403-88155
+XII	87841	88110	1.0	FeS_biogenesis	0	87841-88110	PF01521	http://pfam.sanger.ac.uk/family?acc=PF01521

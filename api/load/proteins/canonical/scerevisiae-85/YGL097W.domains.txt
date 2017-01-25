@@ -1,0 +1,5 @@
+#>P	YGL097W	YGL097W	YGL097W	VII	321782	323227	1	Nucleotide exchange factor for Gsp1p; localizes to the nucleus, required for nucleocytoplasmic trafficking of macromolecules; suppressor of the pheromone response pathway; potentially phosphorylated by Cdc28p [Source:SGD;Acc:S000003065]
+#>E	YGL097W.1	1.0	321782-323230
+VII	323018	323167	1.0	Reg_chr_condens	0	323018-323167	PF00415	http://pfam.sanger.ac.uk/family?acc=PF00415
+VII	322328	322489	1.0	Reg_chr_condens	0	322328-322489	PF00415	http://pfam.sanger.ac.uk/family?acc=PF00415
+VII	322091	322321	1.0	Reg_chr_condens	0	322091-322321	PF00415	http://pfam.sanger.ac.uk/family?acc=PF00415

@@ -1,0 +1,3 @@
+#>P	YPL050C	YPL050C	YPL050C	XVI	460782	461966	-1	Subunit of Golgi mannosyltransferase complex; this complex mediates elongation of the polysaccharide mannan backbone; forms a separate complex with Van1p that is also involved in backbone elongation; this complex also contains Anp1p, Mnn10p, Mnn11p, and Hoc1p [Source:SGD;Acc:S000005971]
+#>E	YPL050C.1	1.0	460779-461966
+XVI	460893	461693	-1.0	Anp1	0	460893-461693	PF03452	http://pfam.sanger.ac.uk/family?acc=PF03452

@@ -1,0 +1,4 @@
+#>P	YML086C	YML086C	YML086C	XIII	95794	97371	-1	D-Arabinono-1,4-lactone oxidase; catalyzes the final step in biosynthesis of dehydro-D-arabinono-1,4-lactone, which is protective against oxidative stress [Source:SGD;Acc:S000004551]
+#>E	YML086C.1	1.0	95791-97371
+XIII	96895	97305	-1.0	Oxid_FAD_bind_N	0	96895-97305	PF01565	http://pfam.sanger.ac.uk/family?acc=PF01565
+XIII	95833	96816	-1.0	ALO	0	95833-96816	PF04030	http://pfam.sanger.ac.uk/family?acc=PF04030

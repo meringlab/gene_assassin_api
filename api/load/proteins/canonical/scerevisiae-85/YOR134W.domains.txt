@@ -1,0 +1,3 @@
+#>P	YOR134W	YOR134W	YOR134W	XV	578564	579790	1	Rho GTPase activating protein (RhoGAP); stimulates the intrinsic GTPase activity of Rho1p, which plays a bud growth by regulating actin cytoskeleton organization and cell wall biosynthesis, resulting in the downregulation of Rho1p; structurally and functionally related to Sac7p; BAG7 has a paralog, SAC7, that arose from the whole genome duplication [Source:SGD;Acc:S000005660]
+#>E	YOR134W.1	1.0	578564-579793
+XV	578789	579259	1.0	RhoGAP_dom	0	578789-579259	PF00620	http://pfam.sanger.ac.uk/family?acc=PF00620

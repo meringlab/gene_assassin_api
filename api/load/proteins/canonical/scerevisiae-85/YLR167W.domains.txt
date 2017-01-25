@@ -1,0 +1,4 @@
+#>P	YLR167W	YLR167W	YLR167W	XII	498947	499402	1	Fusion protein cleaved to yield ribosomal protein S31 and ubiquitin; ubiquitin may facilitate assembly of the ribosomal protein into ribosomes; interacts genetically with translation factor eIF2B; homologous to mammalian ribosomal protein S27A, no bacterial homolog [Source:SGD;Acc:S000004157]
+#>E	YLR167W.1	1.0	498947-499405
+XII	498962	499168	1.0	Ubiquitin	0	498962-499168	PF00240	http://pfam.sanger.ac.uk/family?acc=PF00240
+XII	499247	499384	1.0	Ribosomal_S27a	0	499247-499384	PF01599	http://pfam.sanger.ac.uk/family?acc=PF01599

@@ -1,0 +1,3 @@
+#>P	YLR248W	YLR248W	YLR248W	XII	634252	636081	1	Protein kinase involved in response to oxidative and osmotic stress; identified as suppressor of S. pombe cell cycle checkpoint mutations; similar to CaM (calmodulin) kinases; RCK2 has a paralog, RCK1, that arose from the whole genome duplication [Source:SGD;Acc:S000004238]
+#>E	YLR248W.1	1.0	634252-636084
+XII	634738	635685	1.0	Prot_kinase_cat_dom	0	634738-635685	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

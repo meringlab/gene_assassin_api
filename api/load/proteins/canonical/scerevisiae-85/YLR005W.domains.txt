@@ -1,0 +1,4 @@
+#>P	YLR005W	YLR005W	YLR005W	XII	160049	161431	1	Subunit of the core form of RNA polymerase transcription factor TFIIH; has both protein kinase and DNA-dependent ATPase/helicase activities; essential for transcription and nucleotide excision repair; interacts with Tfb4p [Source:SGD;Acc:S000003995]
+#>E	YLR005W.1	1.0	160049-161434
+XII	160433	161023	1.0	Ssl1-like	0	160433-161023	PF04056	http://pfam.sanger.ac.uk/family?acc=PF04056
+XII	161255	161416	1.0	TFIIH_C1-like_dom	0	161255-161416	PF07975	http://pfam.sanger.ac.uk/family?acc=PF07975

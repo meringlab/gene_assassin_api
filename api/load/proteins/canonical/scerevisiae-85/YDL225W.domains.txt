@@ -1,0 +1,4 @@
+#>P	YDL225W	YDL225W	YDL225W	IV	52445	54097	1	Component of the septin ring that is required for cytokinesis; septins are GTP-binding proteins that assemble into rod-like hetero-oligomers that can associate with other rods to form filaments; septin rings at the mother-bud neck act as scaffolds for recruiting cell division factors and as barriers to prevent diffusion of specific proteins; undergoes sumoylation and phosphorylation during mitosis; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002384]
+#>E	YDL225W.1	1.0	52445-54100
+IV	52814	53470	1.0	Cell_div_GTP-bd	0	52814-53470	PF00735	http://pfam.sanger.ac.uk/family?acc=PF00735
+IV	52502	52651	1.0	Cell_div_GTP-bd	0	52502-52651	PF00735	http://pfam.sanger.ac.uk/family?acc=PF00735

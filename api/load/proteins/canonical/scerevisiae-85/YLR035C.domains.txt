@@ -1,0 +1,4 @@
+#>P	YLR035C	YLR035C	YLR035C	XII	212372	214456	-1	Protein involved in mismatch repair and meiotic recombination; only certain frameshift intermediates are mismatch repair substrates; forms a complex with Mlh1p [Source:SGD;Acc:S000004025]
+#>E	YLR035C.1	1.0	212369-214456
+XII	213989	214387	-1.0	ATPase-like_ATP-bd	0	213989-214387	PF02518	http://pfam.sanger.ac.uk/family?acc=PF02518
+XII	213386	213712	-1.0	DNA_mismatch_repair_C	0	213386-213712	PF01119	http://pfam.sanger.ac.uk/family?acc=PF01119

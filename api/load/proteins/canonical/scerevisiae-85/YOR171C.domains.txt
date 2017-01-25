@@ -1,0 +1,3 @@
+#>P	YOR171C	YOR171C	YOR171C	XV	652013	653884	-1	Sphingoid long-chain base kinase; responsible for synthesis of long-chain base phosphates, which function as signaling molecules, regulates synthesis of ceramide from exogenous long-chain bases, localizes to the Golgi and late endosomes; LCB4 has a paralog, LCB5, that arose from the whole genome duplication [Source:SGD;Acc:S000005697]
+#>E	YOR171C.1	1.0	652010-653884
+XV	652820	653200	-1.0	Diacylglycerol_kinase_cat_dom	0	652820-653200	PF00781	http://pfam.sanger.ac.uk/family?acc=PF00781

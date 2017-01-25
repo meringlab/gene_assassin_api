@@ -1,0 +1,3 @@
+#>P	YGL164C	YGL164C	YGL164C	VII	191981	193300	-1	RanGTP-binding protein; inhibits RanGAP1 (Rna1p)-mediated GTP hydrolysis of RanGTP (Gsp1p); shares similarity to proteins in other fungi but not in higher eukaryotes [Source:SGD;Acc:S000003132]
+#>E	YGL164C.1	1.0	191978-193300
+VII	192362	193300	-1.0	Ran_GTP-bd-rel	407	192362-193300	PF05508	http://pfam.sanger.ac.uk/family?acc=PF05508

@@ -1,0 +1,3 @@
+#>P	YLR043C	YLR043C	YLR043C	XII	231705	232013	-1	Cytoplasmic thioredoxin isoenzyme; part of thioredoxin system which protects cells against oxidative and reductive stress; forms LMA1 complex with Pbi2p; acts as a cofactor for Tsa1p; required for ER-Golgi transport and vacuole inheritance; with Trx2p, facilitates mitochondrial import of small Tims Tim9p, Tim10p, Tim13p by maintaining them in reduced form; abundance increases iunder DNA replication stress; TRX1 has a paralog, TRX2, that arose from the whole genome duplication [Source:SGD;Acc:S000004033]
+#>E	YLR043C.1	1.0	231702-232013
+XII	231711	232001	-1.0	Thioredoxin_domain	0	231711-232001	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085

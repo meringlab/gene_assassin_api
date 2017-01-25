@@ -1,0 +1,4 @@
+#>P	YIL160C	YIL160C	YIL160C	IX	40194	41444	-1	3-ketoacyl-CoA thiolase with broad chain length specificity; cleaves 3-ketoacyl-CoA into acyl-CoA and acetyl-CoA during beta-oxidation of fatty acids [Source:SGD;Acc:S000001422]
+#>E	YIL160C.1	1.0	40191-41444
+IX	40581	41345	-1.0	Thiolase_N	0	40581-41345	PF00108	http://pfam.sanger.ac.uk/family?acc=PF00108
+IX	40203	40556	-1.0	Thiolase_C	0	40203-40556	PF02803	http://pfam.sanger.ac.uk/family?acc=PF02803

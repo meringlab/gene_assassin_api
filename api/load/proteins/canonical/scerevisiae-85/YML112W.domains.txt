@@ -1,0 +1,3 @@
+#>P	YML112W	YML112W	YML112W	XIII	45063	45950	1	Gamma subunit of C-terminal domain kinase I; CTDK-I phosphorylates RNA polymerase II subunit Rpo21p to affect transcription and pre-mRNA 3' end processing, and also phosphorylates ribosomal protein Rps2p to increase translational fidelity; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004580]
+#>E	YML112W.1	1.0	45063-45953
+XIII	45732	45938	1.0	Ctk3_C	0	45732-45938	PF12350	http://pfam.sanger.ac.uk/family?acc=PF12350

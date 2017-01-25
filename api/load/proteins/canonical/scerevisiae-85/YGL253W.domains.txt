@@ -1,0 +1,4 @@
+#>P	YGL253W	YGL253W	YGL253W	VII	23935	25392	1	Hexokinase isoenzyme 2; catalyzes phosphorylation of glucose in the cytosol; predominant hexokinase during growth on glucose; functions in the nucleus to repress expression of HXK1 and GLK1 and to induce expression of its own gene; antiapoptotic; phosphorylation/dephosphorylation at serine-14 by protein kinase Snf1p and protein phosphatase Glc7p-Reg1p regulates nucleocytoplasmic shuttling of Hxk2p; HXK2 has a paralog, HXK1, that arose from the whole genome duplication [Source:SGD;Acc:S000003222]
+#>E	YGL253W.1	1.0	23935-25395
+VII	23995	24603	1.0	Hexokinase_N	0	23995-24603	PF00349	http://pfam.sanger.ac.uk/family?acc=PF00349
+VII	24607	25353	1.0	Hexokinase_C	0	24607-25353	PF03727	http://pfam.sanger.ac.uk/family?acc=PF03727

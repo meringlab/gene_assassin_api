@@ -1,0 +1,3 @@
+#>P	YHR053C	YHR053C	YHR053C	VIII	212538	212720	-1	Metallothionein; binds copper and mediates resistance to high concentrations of copper and cadmium; locus is variably amplified in different strains, with two copies, CUP1-1 and CUP1-2, in the genomic sequence reference strain S288C; CUP1-1 has a paralog, CUP1-2, that arose from a segmental duplication [Source:SGD;Acc:S000001095]
+#>E	YHR053C.1	1.0	212535-212720
+VIII	212577	212696	-1.0	Metalthion_dom_yeast	0	212577-212696	PF11403	http://pfam.sanger.ac.uk/family?acc=PF11403

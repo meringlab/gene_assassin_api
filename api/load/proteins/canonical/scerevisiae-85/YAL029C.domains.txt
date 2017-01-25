@@ -1,0 +1,5 @@
+#>P	YAL029C	YAL029C	YAL029C	I	87858	92270	-1	Type V myosin motor involved in actin-based transport of cargos; required for mRNA transport, including ASH1 mRNA, and facilitating the growth and movement of ER tubules into the growing bud along with She3p; MYO4 has a paralog, MYO2, that arose from the whole genome duplication [Source:SGD;Acc:S000000027]
+#>E	YAL029C.1	1.0	87855-92270
+I	88071	88376	-1.0	Dil_domain	0	88071-88376	PF01843	http://pfam.sanger.ac.uk/family?acc=PF01843
+I	89514	89570	-1.0	IQ_motif_EF-hand-BS	0	89514-89570	PF00612	http://pfam.sanger.ac.uk/family?acc=PF00612
+I	89976	92051	-1.0	Myosin_head_motor_dom	0	89976-92051	PF00063	http://pfam.sanger.ac.uk/family?acc=PF00063

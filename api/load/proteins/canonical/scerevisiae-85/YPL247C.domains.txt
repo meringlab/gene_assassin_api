@@ -1,0 +1,4 @@
+#>P	YPL247C	YPL247C	YPL247C	XVI	82628	84196	-1	Putative protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm and nucleus; similar to the petunia WD repeat protein an11; overexpression causes a cell cycle delay or arrest [Source:SGD;Acc:S000006168]
+#>E	YPL247C.1	1.0	82625-84196
+XVI	82928	83041	-1.0	WD40_repeat	0	82928-83041	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XVI	83249	83359	-1.0	WD40_repeat	0	83249-83359	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

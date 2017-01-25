@@ -1,0 +1,3 @@
+#>P	YHR076W	YHR076W	YHR076W	VIII	251101	252222	1	Type 2C serine/threonine protein phosphatase (PP2C); alternatively spliced to create two mRNA isoforms; protein from spliced form localizes to the mitochondria while the one from the unspliced form is localized to the nuclear envelope; activates coenzyme Q6 biosynthesis by dephosphorylation of demethoxy-Q6 hydroxylase Coq7p [Source:SGD;Acc:S000001118]
+#>E	YHR076W.1,YHR076W.2	1,1	251101-251155,251249-252225
+VIII	251491	252222	1	PP2C-like	153.2	251491-252222	PF07228	http://pfam.sanger.ac.uk/family?acc=PF07228

@@ -1,0 +1,5 @@
+#>P	YML056C	YML056C	YML056C	XIII	162197	164176	-1	Inosine monophosphate dehydrogenase; catalyzes the rate-limiting step in the de novo synthesis of GTP; member of a four-gene family in S. cerevisiae, constitutively expressed; IMD4 has a paralog, IMD3, that arose from the whole genome duplication [Source:SGD;Acc:S000004520]
+#>E	YML056C.2,YML056C.1	1,1	162194-163308,163717-164176
+XIII	162230	164068	-1	IMP_DH_GMPRt	0	162230-163308,163717-164068	PF00478	http://pfam.sanger.ac.uk/family?acc=PF00478
+XIII	163256	163804	-1	Cysta_beta_synth_core	0	163256-163308,163717-163804	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571
+XIII	163070	163228	-1	Cysta_beta_synth_core	0	163070-163228	PF00571	http://pfam.sanger.ac.uk/family?acc=PF00571

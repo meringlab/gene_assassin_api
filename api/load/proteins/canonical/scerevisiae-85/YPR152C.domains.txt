@@ -1,0 +1,4 @@
+#>P	YPR152C	YPR152C	YPR152C	XVI	832064	833458	-1	Putative protein of unknown function containing WW and FF domains; overexpression causes accumulation of cells in G1 phase [Source:SGD;Acc:S000006356]
+#>E	YPR152C.1	1.0	832061-833458
+XVI	833369	833449	-1.0	WW_Rsp5_WWP	38.4	833369-833449	PF00397	http://pfam.sanger.ac.uk/family?acc=PF00397
+XVI	832670	832807	-1.0	FF_domain	35.7	832670-832807	PF01846	http://pfam.sanger.ac.uk/family?acc=PF01846

@@ -1,0 +1,3 @@
+#>P	YDR298C	YDR298C	YDR298C	IV	1058179	1058814	-1	Subunit 5 of the stator stalk of mitochondrial F1F0 ATP synthase; F1F0 ATP synthase is a large, evolutionarily conserved enzyme complex required for ATP synthesis; homologous to bovine subunit OSCP (oligomycin sensitivity-conferring protein); phosphorylated [Source:SGD;Acc:S000002706]
+#>E	YDR298C.1	1.0	1058176-1058814
+IV	1058194	1058721	-1.0	ATPase_F1-cplx_OSCP/dsu	0	1058194-1058721	PF00213	http://pfam.sanger.ac.uk/family?acc=PF00213

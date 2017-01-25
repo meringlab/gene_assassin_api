@@ -1,0 +1,4 @@
+#>P	YLR022C	YLR022C	YLR022C	XII	184177	184926	-1	Guanine nucleotide exchange factor (GEF) for Ria1p; essential protein involved in ribosome maturation; with Ria1p, promotes release of Tif6p from 60S ribosomal subunits in the cytoplasm so that they can assemble with 40S subunits to generate mature ribosomes; ortholog of the human protein (SBDS) responsible for autosomal recessive Shwachman-Bodian-Diamond Syndrome; highly conserved across archaea and eukaryotes [Source:SGD;Acc:S000004012]
+#>E	YLR022C.1	1.0	184174-184926
+XII	184231	184611	-1.0	Ribosome_mat_SBDS_C	0	184231-184611	PF09377	http://pfam.sanger.ac.uk/family?acc=PF09377
+XII	184624	184890	-1.0	Ribosome_mat_SBDS_N	0	184624-184890	PF01172	http://pfam.sanger.ac.uk/family?acc=PF01172

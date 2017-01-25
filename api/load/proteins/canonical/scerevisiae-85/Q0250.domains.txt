@@ -1,0 +1,4 @@
+#>P	Q0250	Q0250	Q0250	Mito	73758	74510	1	Subunit II of cytochrome c oxidase (Complex IV); Complex IV is the terminal member of the mitochondrial inner membrane electron transport chain; one of three mitochondrially-encoded subunits [Source:SGD;Acc:S000007281]
+#>E	Q0250.1	1.0	73758-74513
+Mito	74100	74474	1.0	Cyt_c_oxidase_su2_C	0	74100-74474	PF00116	http://pfam.sanger.ac.uk/family?acc=PF00116
+Mito	73806	74066	1.0	Cyt_c_oxidase_su2_TM_dom	0	73806-74066	PF02790	http://pfam.sanger.ac.uk/family?acc=PF02790

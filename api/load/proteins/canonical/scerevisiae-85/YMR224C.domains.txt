@@ -1,0 +1,4 @@
+#>P	YMR224C	YMR224C	YMR224C	XIII	718578	720653	-1	Nuclease subunit of the MRX complex with Rad50p and Xrs2p; complex functions in repair of DNA double-strand breaks and in telomere stability; Mre11p associates with Ser/Thr-rich ORFs in premeiotic phase; nuclease activity required for MRX function; widely conserved; forms nuclear foci upon DNA replication stress [Source:SGD;Acc:S000004837]
+#>E	YMR224C.1	1.0	718575-720653
+XIII	719232	719780	-1.0	Mre11_DNA-bd	0	719232-719780	PF04152	http://pfam.sanger.ac.uk/family?acc=PF04152
+XIII	719919	720629	-1.0	Metallo_PEstase_dom	0	719919-720629	PF00149	http://pfam.sanger.ac.uk/family?acc=PF00149

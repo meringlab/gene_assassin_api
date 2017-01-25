@@ -1,0 +1,3 @@
+#>P	YLR047C	YLR047C	YLR047C	XII	239350	241407	-1	Protein with sequence similarity to iron/copper reductases; involved in iron homeostasis; deletion mutant has iron deficiency/accumulation growth defects; expression increased in the absence of copper-responsive transcription factor Mac1p [Source:SGD;Acc:S000004037]
+#>E	YLR047C.1	1.0	239347-241407
+XII	240712	241053	-1.0	Flavoprotein_TM	0	240712-241053	PF01794	http://pfam.sanger.ac.uk/family?acc=PF01794

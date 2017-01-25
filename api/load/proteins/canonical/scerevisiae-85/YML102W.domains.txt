@@ -1,0 +1,7 @@
+#>P	YML102W	YML102W	YML102W	XIII	68294	69697	1	Subunit of chromatin assembly factor I (CAF-1), with Rlf2p and Msi1p; chromatin assembly by CAF-1 is important for multiple processes including silencing at telomeres, mating type loci, and rDNA; maintenance of kinetochore structure, deactivation of the DNA damage checkpoint after DNA repair, chromatin dynamics during transcription; and repression of divergent transcription; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000004570]
+#>E	YML102W.1	1.0	68294-69700
+XIII	68324	68422	1.0	WD40_repeat	0	68324-68422	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	68846	68935	1.0	WD40_repeat	0	68846-68935	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	68732	68812	1.0	WD40_repeat	0	68732-68812	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	69404	69481	1.0	WD40_repeat	0	69404-69481	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	68483	68590	1.0	WD40_repeat	0	68483-68590	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

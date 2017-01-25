@@ -1,0 +1,4 @@
+#>P	YMR240C	YMR240C	YMR240C	XIII	749933	751240	-1	Protein required for assembly of U2 snRNP into the spliceosome; forms a complex with Hsh49p and Hsh155p [Source:SGD;Acc:S000004853]
+#>E	YMR240C.1	1.0	749930-751240
+XIII	750230	750373	-1.0	PSP	0	750230-750373	PF04046	http://pfam.sanger.ac.uk/family?acc=PF04046
+XIII	750416	750820	-1.0	DUF382	0	750416-750820	PF04037	http://pfam.sanger.ac.uk/family?acc=PF04037

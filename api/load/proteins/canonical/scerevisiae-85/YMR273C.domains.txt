@@ -1,0 +1,3 @@
+#>P	YMR273C	YMR273C	YMR273C	XIII	811236	813980	-1	Protein with a role in regulating Swe1p-dependent polarized growth; involved in maintaining Cdc55p in the cytoplasm where it promotes mitotic entry; involved in mitotic exit through Cdc14p regulation; interacts with silencing proteins at telomeres; has a role in Bcy1p localization; implicated in mRNA nuclear export; ZDS1 has a paralog, ZDS2, that arose from the whole genome duplication [Source:SGD;Acc:S000004886]
+#>E	YMR273C.1	1.0	811233-813980
+XIII	811302	811460	-1.0	ZDS1_C	0	811302-811460	PF08632	http://pfam.sanger.ac.uk/family?acc=PF08632

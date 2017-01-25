@@ -1,0 +1,4 @@
+#>P	YDR080W	YDR080W	YDR080W	IV	604008	606983	1	Subunit of the HOPS endocytic tethering complex; vacuole membrane protein that functions as a Rab GTPase effector, interacting specifically with the GTP-bound conformation of Ypt7p, facilitating tethering, docking and promoting membrane fusion events at the late endosome and vacuole; required for both membrane and protein trafficking; Yck3p-mediated phosphorylation regulates the organization of vacuolar fusion sites [Source:SGD;Acc:S000002487]
+#>E	YDR080W.1	1.0	604008-606986
+IV	606267	606701	1.0	Clathrin_H-chain/VPS_repeat	0	606267-606701	PF00637	http://pfam.sanger.ac.uk/family?acc=PF00637
+IV	604443	604544	1.0	WD40_repeat	0	604443-604544	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

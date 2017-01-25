@@ -1,0 +1,3 @@
+#>P	YCL037C	YCL037C	YCL037C	III	57377	58678	-1	Cytoplasmic RNA-binding protein; shuttles between nucleus and cytoplasm and is exported from the nucleus in an mRNA export-dependent manner; associates with translating ribosomes; involved in heme regulation of Hap1p as a component of the HMC complex, also involved in the organization of actin filaments; contains a La motif; SRO9 has a paralog, SLF1, that arose from the whole genome duplication [Source:SGD;Acc:S000000542]
+#>E	YCL037C.1	1.0	57374-58678
+III	57710	57886	-1.0	Lupus_La_RNA-bd	0	57710-57886	PF05383	http://pfam.sanger.ac.uk/family?acc=PF05383

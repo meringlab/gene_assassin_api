@@ -1,0 +1,3 @@
+#>P	YNR069C	YNR069C	YNR069C	XIV	761126	762592	-1	Protein of unknown function; shows homology with N-terminal end of Bul1p; ORF exhibits genomic organization compatible with a translational readthrough-dependent mode of expression; readthrough expression includes YNR068C and the locus for this readthrough is termed BUL3; Bul3p is involved in ubiquitin-mediated sorting of plasma membrane proteins; readthrough and shortened forms of Bul3p interact with Rsp5p differently in vitro [Source:SGD;Acc:S000005352]
+#>E	YNR069C.1	1.0	761123-762592
+XIV	761207	762430	-1.0	Bul1_N	0	761207-762430	PF04425	http://pfam.sanger.ac.uk/family?acc=PF04425

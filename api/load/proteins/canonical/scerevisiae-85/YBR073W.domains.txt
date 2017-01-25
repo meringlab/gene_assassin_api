@@ -1,0 +1,5 @@
+#>P	YBR073W	YBR073W	YBR073W	II	383112	385985	1	DNA-dependent ATPase; DNA recombination/repair translocase, supercoils DNA and promotes DNA strand opening; stimulates strand exchange by modifying dsDNA topology; involved in recombinational repair of DNA double-strand breaks (DSBs) during mitosis and meiosis; phosphorylated in Mec1p-, Rad53p-dependent way in response to one DSB; contributes to remodelling of nucleosomes; proposed to be involved in crossover interference; interacts with Dmc1p; stimulates Dmc1p and Rad51p [Source:SGD;Acc:S000000277]
+#>E	YBR073W.1	1.0	383112-385988
+II	384006	385022	1.0	SNF2_N	0	384006-385022	PF00176	http://pfam.sanger.ac.uk/family?acc=PF00176
+II	383433	383615	1.0	DUF2439	0	383433-383615	PF10382	http://pfam.sanger.ac.uk/family?acc=PF10382
+II	385212	385445	1.0	Helicase_C	0	385212-385445	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

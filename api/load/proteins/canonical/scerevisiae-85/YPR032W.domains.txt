@@ -1,0 +1,3 @@
+#>P	YPR032W	YPR032W	YPR032W	XVI	634123	637221	1	Effector of Rab GTPase Sec4p; forms a complex with Sec4p and t-SNARE Sec9p; involved in exocytosis and docking and fusion of post-Golgi vesicles with plasma membrane; regulates cell proliferation and colony development via the Rho1-Tor1 pathway; homolog of Drosophila lgl tumor suppressor; SRO7 has a paralog, SRO77, that arose from the whole genome duplication [Source:SGD;Acc:S000006236]
+#>E	YPR032W.1	1.0	634123-637224
+XVI	635767	636951	1.0	Lgl_C	0	635767-636951	PF08596	http://pfam.sanger.ac.uk/family?acc=PF08596

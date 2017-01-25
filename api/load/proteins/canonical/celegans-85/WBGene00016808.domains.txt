@@ -1,0 +1,3 @@
+#>P	WBGene00016808	C50D2.5	C50D2.5	II	98411	98890	1	Splicing factor 3B subunit 6-like protein  [Source:UniProtKB/Swiss-Prot;Acc:Q8ITY4]
+#>E	C50D2.5.e1,C50D2.5.e2	1,1	98411-98559,98626-98893
+II	98471	98737	1	RRM_dom	60	98471-98559,98626-98737	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

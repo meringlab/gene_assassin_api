@@ -1,0 +1,4 @@
+#>P	YPR081C	YPR081C	YPR081C	XVI	702117	703970	-1	Glycine-tRNA synthetase, not expressed under normal growth conditions; expression is induced under heat, oxidative, pH, or ethanol stress conditions; more stable than the major glycine-tRNA synthetase Grs1p at 37 deg C; GRS2 has a paralog, GRS1, that arose from the whole genome duplication [Source:SGD;Acc:S000006285]
+#>E	YPR081C.1	1.0	702114-703970
+XVI	702186	702458	-1.0	Anticodon-bd	0	702186-702458	PF03129	http://pfam.sanger.ac.uk/family?acc=PF03129
+XVI	702948	703838	-1.0	aa-tRNA-synt_IIb_cons-dom	0	702948-703838	PF00587	http://pfam.sanger.ac.uk/family?acc=PF00587

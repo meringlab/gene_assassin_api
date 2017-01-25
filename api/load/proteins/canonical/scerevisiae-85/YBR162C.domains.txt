@@ -1,0 +1,4 @@
+#>P	YBR162C	YBR162C	YBR162C	II	563206	564570	-1	Covalently-bound cell wall protein of unknown function; identified as a cell cycle regulated SBF target gene; deletion mutants are highly resistant to treatment with beta-1,3-glucanase; has sequence similarity to YJL171C [Source:SGD;Acc:S000000366]
+#>E	YBR162C.1	1.0	563203-564570
+II	564268	564459	-1.0	DUF2403_glycine-rich	0	564268-564459	PF10290	http://pfam.sanger.ac.uk/family?acc=PF10290
+II	563236	563913	-1.0	DUF2401_secretory	0	563236-563913	PF10287	http://pfam.sanger.ac.uk/family?acc=PF10287

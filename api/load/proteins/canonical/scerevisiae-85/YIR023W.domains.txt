@@ -1,0 +1,4 @@
+#>P	YIR023W	YIR023W	YIR023W	IX	399777	402686	1	Positive regulator of genes in multiple nitrogen degradation pathways; contains DNA binding domain but does not appear to bind the dodecanucleotide sequence present in the promoter region of many genes involved in allantoin catabolism [Source:SGD;Acc:S000001462]
+#>E	YIR023W.1	1.0	399777-402689
+IX	400737	401564	1.0	Transcription_factor_fun	0	400737-401564	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082
+IX	400221	400322	1.0	Zn2-C6_fun-type_DNA-bd	0	400221-400322	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

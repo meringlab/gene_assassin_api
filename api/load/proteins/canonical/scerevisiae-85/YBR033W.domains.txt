@@ -1,0 +1,3 @@
+#>P	YBR033W	YBR033W	YBR033W	II	301944	304700	1	Putative zinc cluster protein, predicted to be a transcription factor; not an essential gene; EDS1 has a paralog, RGT1, that arose from the whole genome duplication [Source:SGD;Acc:S000000237]
+#>E	YBR033W.1	1.0	301944-304703
+II	302103	302225	1.0	Zn2-C6_fun-type_DNA-bd	0	302103-302225	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

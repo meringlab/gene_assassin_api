@@ -1,0 +1,4 @@
+#>P	YGR178C	YGR178C	YGR178C	VII	851050	853215	-1	Component of glucose deprivation induced stress granules; involved in P-body-dependent granule assembly; similar to human ataxin-2; interacts with Pab1p to regulate mRNA polyadenylation; interacts with Mkt1p to regulate HO translation; protein increases in abundance and relative distribution to the nucleus increases upon DNA replication stress [Source:SGD;Acc:S000003410]
+#>E	YGR178C.1	1.0	851047-853215
+VII	852643	853068	-1.0	SM_dom_ATX	0	852643-853068	PF14438	http://pfam.sanger.ac.uk/family?acc=PF14438
+VII	852322	852540	-1.0	LsmAD_domain	0	852322-852540	PF06741	http://pfam.sanger.ac.uk/family?acc=PF06741

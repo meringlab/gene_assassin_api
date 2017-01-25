@@ -1,0 +1,4 @@
+#>P	YER021W	YER021W	YER021W	V	196948	198516	1	Essential non-ATPase regulatory subunit of the 26S proteasome lid; similar to the p58 subunit of the human 26S proteasome; temperature-sensitive alleles cause metaphase arrest, suggesting a role for the proteasome in cell cycle control [Source:SGD;Acc:S000000823]
+#>E	YER021W.1	1.0	196948-198519
+V	198295	198504	1.0	26S_Psome_reg_C	0	198295-198504	PF08375	http://pfam.sanger.ac.uk/family?acc=PF08375
+V	197977	198282	1.0	PCI_dom	0	197977-198282	PF01399	http://pfam.sanger.ac.uk/family?acc=PF01399

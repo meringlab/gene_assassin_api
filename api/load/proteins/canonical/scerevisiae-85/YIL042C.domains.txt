@@ -1,0 +1,4 @@
+#>P	YIL042C	YIL042C	YIL042C	IX	275111	276292	-1	Mitochondrial protein kinase; involved in negative regulation of pyruvate dehydrogenase complex activity by phosphorylating the ser-133 residue of the Pda1p subunit; acts in concert with kinase Pkp2p and phosphatases Ptc5p and Ptc6p [Source:SGD;Acc:S000001304]
+#>E	YIL042C.1	1.0	275108-276292
+IX	275144	275515	-1.0	ATPase-like_ATP-bd	0	275144-275515	PF02518	http://pfam.sanger.ac.uk/family?acc=PF02518
+IX	275657	276130	-1.0	BCDHK/PDK_N	0	275657-276130	PF10436	http://pfam.sanger.ac.uk/family?acc=PF10436

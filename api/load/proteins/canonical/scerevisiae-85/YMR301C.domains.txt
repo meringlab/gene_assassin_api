@@ -1,0 +1,4 @@
+#>P	YMR301C	YMR301C	YMR301C	XIII	867558	869627	-1	Mitochondrial inner membrane ATP-binding cassette (ABC) transporter; exports mitochondrially synthesized precursors of iron-sulfur (Fe/S) clusters to the cytosol [Source:SGD;Acc:S000004916]
+#>E	YMR301C.1	1.0	867555-869627
+XIII	867825	868202	-1.0	ABC_transporter-like	0	867825-868202	PF00005	http://pfam.sanger.ac.uk/family?acc=PF00005
+XIII	868461	869297	-1.0	ABC_transptr_TM_dom	0	868461-869297	PF00664	http://pfam.sanger.ac.uk/family?acc=PF00664

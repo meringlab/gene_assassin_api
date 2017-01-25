@@ -1,0 +1,4 @@
+#>P	YCR105W	YCR105W	YCR105W	III	309070	310152	1	NADPH-dependent medium chain alcohol dehydrogenase; has broad substrate specificity; member of the cinnamyl family of alcohol dehydrogenases; may be involved in fusel alcohol synthesis or in aldehyde tolerance [Source:SGD;Acc:S000000702]
+#>E	YCR105W.1	1.0	309070-310155
+III	309169	309516	1.0	ADH_GroES-like	0	309169-309516	PF08240	http://pfam.sanger.ac.uk/family?acc=PF08240
+III	309640	310017	1.0	ADH_C	0	309640-310017	PF00107	http://pfam.sanger.ac.uk/family?acc=PF00107

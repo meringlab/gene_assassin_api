@@ -1,0 +1,3 @@
+#>P	YGR250C	YGR250C	YGR250C	VII	991179	993521	-1	Putative RNA binding protein; localizes to stress granules induced by glucose deprivation; interacts with Rbg1p in a two-hybrid assay; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000003482]
+#>E	YGR250C.1	1.0	991176-993521
+VII	992724	992933	-1.0	RRM_dom	0	992724-992933	PF00076	http://pfam.sanger.ac.uk/family?acc=PF00076

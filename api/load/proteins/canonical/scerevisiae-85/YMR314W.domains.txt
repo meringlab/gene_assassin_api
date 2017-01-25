@@ -1,0 +1,4 @@
+#>P	YMR314W	YMR314W	YMR314W	XIII	901709	902410	1	Alpha 6 subunit of the 20S proteasome; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000004931]
+#>E	YMR314W.1	1.0	901709-902413
+XIII	901724	901792	1.0	Proteasome_asu_N	0	901724-901792	PF10584	http://pfam.sanger.ac.uk/family?acc=PF10584
+XIII	901793	902356	1.0	Proteasome_sua/b	0	901793-902356	PF00227	http://pfam.sanger.ac.uk/family?acc=PF00227

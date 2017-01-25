@@ -1,0 +1,3 @@
+#>P	YNL304W	YNL304W	YNL304W	XIV	60297	61547	1	Rab GTPase; Myo2p-binding protein implicated in mother-to-bud transport of cortical endoplasmic reticulum (ER), late Golgi, and mitochondria during cell division; function is regulated at multiple levels; abundance of active Ypt11p forms is controlled by phosphorylation status and degradation; normally a low-abundance protein whose ER localization is only detected when protein is highly over expressed [Source:SGD;Acc:S000005248]
+#>E	YNL304W.1	1.0	60297-61550
+XIV	60897	61298	1.0	Small_GTPase	0	60897-61298	PF00071	http://pfam.sanger.ac.uk/family?acc=PF00071

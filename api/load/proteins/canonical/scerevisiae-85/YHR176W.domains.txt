@@ -1,0 +1,4 @@
+#>P	YHR176W	YHR176W	YHR176W	VIII	454229	455524	1	Flavin-containing monooxygenase; localized to the cytoplasmic face of the ER membrane; catalyzes oxidation of biological thiols to maintain the ER redox buffer ratio for correct folding of disulfide-bonded proteins [Source:SGD;Acc:S000001219]
+#>E	YHR176W.1	1.0	454229-455527
+VIII	454946	455065	1.0	Flavin_mOase-like	0	454946-455065	PF00743	http://pfam.sanger.ac.uk/family?acc=PF00743
+VIII	454244	454885	1.0	Flavin_mOase-like	0	454244-454885	PF00743	http://pfam.sanger.ac.uk/family?acc=PF00743

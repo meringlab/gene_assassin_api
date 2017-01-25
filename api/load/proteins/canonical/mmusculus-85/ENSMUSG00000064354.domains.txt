@@ -1,0 +1,4 @@
+#>P	ENSMUSG00000064354	ENSMUST00000082405	ENSMUSP00000080994	MT	7013	7693	1	mitochondrially encoded cytochrome c oxidase II [Source:MGI Symbol;Acc:MGI:102503]
+#>E	ENSMUSE00000521532	1.0	7013-7696
+MT	7013	7261	1.0	Cyt_c_oxidase_su2_TM_dom	95.7	7013-7261	PF02790	http://pfam.sanger.ac.uk/family?acc=PF02790
+MT	7295	7654	1.0	Cyt_c_oxidase_su2_C	211.9	7295-7654	PF00116	http://pfam.sanger.ac.uk/family?acc=PF00116

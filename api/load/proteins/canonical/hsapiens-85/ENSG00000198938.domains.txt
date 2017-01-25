@@ -1,0 +1,3 @@
+#>P	ENSG00000198938	ENST00000362079	ENSP00000354982	MT	9207	9987	1	mitochondrially encoded cytochrome c oxidase III [Source:HGNC Symbol;Acc:HGNC:7422]
+#>E	ENSE00001608952	1.0	9207-9990
+MT	9222	9989	1.0	Cyt_c_oxidase_su3_dom	426.1	9222-9989	PF00510	http://pfam.sanger.ac.uk/family?acc=PF00510

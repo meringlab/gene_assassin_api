@@ -1,0 +1,4 @@
+#>P	YJR097W	YJR097W	YJR097W	X	612413	612928	1	Protein of unknown function; contains a CSL Zn finger and a DnaJ-domain; involved in diphthamide biosynthesis; ortholog human Dph4 [Source:SGD;Acc:S000003858]
+#>E	YJR097W.1	1.0	612413-612931
+X	612689	612904	1.0	Znf_DHP	0	612689-612904	PF05207	http://pfam.sanger.ac.uk/family?acc=PF05207
+X	612434	612631	1.0	DnaJ_N	0	612434-612631	PF00226	http://pfam.sanger.ac.uk/family?acc=PF00226

@@ -1,0 +1,4 @@
+#>P	YLR359W	YLR359W	YLR359W	XII	844282	845727	1	Adenylosuccinate lyase; catalyzes two steps in the 'de novo' purine nucleotide biosynthetic pathway; expression is repressed by adenine and activated by Bas1p and Pho2p; mutations in human ortholog ADSL cause adenylosuccinase deficiency [Source:SGD;Acc:S000004351]
+#>E	YLR359W.1	1.0	844282-845730
+XII	845404	845655	1.0	AdenyloSucc_lyase_C	0	845404-845655	PF10397	http://pfam.sanger.ac.uk/family?acc=PF10397
+XII	844393	845196	1.0	Lyase1_N	0	844393-845196	PF00206	http://pfam.sanger.ac.uk/family?acc=PF00206

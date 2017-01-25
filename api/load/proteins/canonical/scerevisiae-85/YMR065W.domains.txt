@@ -1,0 +1,3 @@
+#>P	YMR065W	YMR065W	YMR065W	XIII	399702	401213	1	Protein required for nuclear membrane fusion during karyogamy; localizes to the membrane with a soluble portion in the endoplasmic reticulum lumen, may form a complex with Jem1p and Kar2p; similar to zebrafish Brambleberry protein; expression of the gene is regulated by pheromone [Source:SGD;Acc:S000004669]
+#>E	YMR065W.1	1.0	399702-401216
+XIII	399702	401213	1.0	Nuclear_fusion_KAR5	0	399702-401213	PF04163	http://pfam.sanger.ac.uk/family?acc=PF04163

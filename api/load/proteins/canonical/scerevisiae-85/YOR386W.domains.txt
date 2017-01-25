@@ -1,0 +1,4 @@
+#>P	YOR386W	YOR386W	YOR386W	XV	1066839	1068533	1	DNA photolyase involved in photoreactivation; repairs pyrimidine dimers in the presence of visible light; induced by DNA damage; regulated by transcriptional repressor Rph1p [Source:SGD;Acc:S000005913]
+#>E	YOR386W.1	1.0	1066839-1068536
+XV	1067067	1067594	1.0	DNA_photolyase_N	0	1067067-1067594	PF00875	http://pfam.sanger.ac.uk/family?acc=PF00875
+XV	1067757	1068530	1.0	Photolyase_FAD-bd/Cryptochr_C	0	1067757-1068530	PF03441	http://pfam.sanger.ac.uk/family?acc=PF03441

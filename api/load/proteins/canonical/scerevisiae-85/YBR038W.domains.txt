@@ -1,0 +1,4 @@
+#>P	YBR038W	YBR038W	YBR038W	II	311898	314786	1	Chitin synthase II; catalyzes transfer of N-acetylglucosamine (GlcNAc) to chitin upon activation of zymogenic form; required for chitin synthesis in the primary septum during cytokinesis; localization regulated by Cdk1p during mitosis; phosphorylation by Dbf2p kinase regulates its dynamics and chitin synthesis during cytokinesis [Source:SGD;Acc:S000000242]
+#>E	YBR038W.1	1.0	311898-314789
+II	312789	313271	1.0	Chitin_synth	0	312789-313271	PF01644	http://pfam.sanger.ac.uk/family?acc=PF01644
+II	312594	312788	1.0	Chitin_synth_N	0	312594-312788	PF08407	http://pfam.sanger.ac.uk/family?acc=PF08407

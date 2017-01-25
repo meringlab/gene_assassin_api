@@ -1,0 +1,3 @@
+#>P	YLR426W	YLR426W	YLR426W	XII	987062	988110	1	Putative protein of unknown function; detected in highly purified mitochondria in high-throughput studies; proposed to be involved in resistance to mechlorethamine and streptozotocin; null mutant sensitive to expression of top1-T722A allele [Source:SGD;Acc:S000004418]
+#>E	YLR426W.1,YLR426W.2	1,1	987062-987141,987213-988113
+XII	987343	987825	1	DH_sc/Rdtase_SDR	0	987343-987825	PF00106	http://pfam.sanger.ac.uk/family?acc=PF00106

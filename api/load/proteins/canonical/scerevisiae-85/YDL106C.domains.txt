@@ -1,0 +1,3 @@
+#>P	YDL106C	YDL106C	YDL106C	IV	270225	271901	-1	Homeobox transcription factor; regulatory targets include genes involved in phosphate metabolism; binds cooperatively with Pho4p to the PHO5 promoter; phosphorylation of Pho2p facilitates interaction with Pho4p; relocalizes to the cytosol in response to hypoxia [Source:SGD;Acc:S000002264]
+#>E	YDL106C.1	1.0	270222-271901
+IV	271500	271670	-1.0	Homeobox	0	271500-271670	PF00046	http://pfam.sanger.ac.uk/family?acc=PF00046

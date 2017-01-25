@@ -1,0 +1,4 @@
+#>P	YBL037W	YBL037W	YBL037W	II	147209	150283	1	Alpha-adaptin; large subunit of the clathrin associated protein complex (AP-2); involved in vesicle mediated transport [Source:SGD;Acc:S000000133]
+#>E	YBL037W.1	1.0	147209-150286
+II	149513	149854	1.0	Clathrin_a/b/g-adaptin_app_Ig	0	149513-149854	PF02883	http://pfam.sanger.ac.uk/family?acc=PF02883
+II	147320	149152	1.0	Clathrin/coatomer_adapt-like_N	0	147320-149152	PF01602	http://pfam.sanger.ac.uk/family?acc=PF01602

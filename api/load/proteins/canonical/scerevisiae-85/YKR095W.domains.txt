@@ -1,0 +1,3 @@
+#>P	YKR095W	YKR095W	YKR095W	XI	619805	625429	1	Myosin-like protein associated with the nuclear envelope; nuclear basket protein that connects the nuclear pore complex with the nuclear interior; involved with Tel1p in telomere length control; involved with Pml1p and Pml39p in nuclear retention of unspliced mRNAs; MLP1 has a paralog, MLP2, that arose from the whole genome duplication [Source:SGD;Acc:S000001803]
+#>E	YKR095W.1	1.0	619805-625432
+XI	622793	623182	1.0	TPR_MLP1_2	0	622793-623182	PF07926	http://pfam.sanger.ac.uk/family?acc=PF07926

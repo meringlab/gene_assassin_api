@@ -1,0 +1,3 @@
+#>P	YPR007C	YPR007C	YPR007C	XVI	569339	571378	-1	Meiosis-specific component of sister chromatid cohesion complex; maintains cohesion between sister chromatids during meiosis I; maintains cohesion between centromeres of sister chromatids until meiosis II; independent of its role in sister chromatid cohesion, Rec8p promotes allelic collisions and prevents nonspecific chromosome interactions; homolog of S. pombe Rec8p [Source:SGD;Acc:S000006211]
+#>E	YPR007C.1	1.0	569336-571378
+XVI	571031	571231	-1.0	Rad21_Rec8_N	0	571031-571231	PF04825	http://pfam.sanger.ac.uk/family?acc=PF04825

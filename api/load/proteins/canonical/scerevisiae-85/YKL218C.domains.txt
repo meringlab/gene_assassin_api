@@ -1,0 +1,3 @@
+#>P	YKL218C	YKL218C	YKL218C	XI	17362	18339	-1	3-hydroxyaspartate dehydratase; deaminates L-threo-3-hydroxyaspartate to form oxaloacetate and ammonia; required in the presence of hydroxyaspartate; highly similar to mouse serine racemase (Srr) but has no serine racemase activity [Source:SGD;Acc:S000001701]
+#>E	YKL218C.1	1.0	17359-18339
+XI	17425	18288	-1.0	PyrdxlP-dep_enz_bsu	0	17425-18288	PF00291	http://pfam.sanger.ac.uk/family?acc=PF00291

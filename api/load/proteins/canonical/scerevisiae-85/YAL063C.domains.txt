@@ -1,0 +1,19 @@
+#>P	YAL063C	YAL063C	YAL063C	I	24003	27968	-1	Lectin-like protein with similarity to Flo1p; thought to be expressed and involved in flocculation [Source:SGD;Acc:S000000059]
+#>E	YAL063C.1	1.0	24000-27968
+I	27225	27635	-1.0	PA14	0	27225-27635	PF07691	http://pfam.sanger.ac.uk/family?acc=PF07691
+I	25671	25796	-1.0	Flocculin	0	25671-25796	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	25941	26066	-1.0	Flocculin	0	25941-26066	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	26616	26741	-1.0	Flocculin	0	26616-26741	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	25401	25520	-1.0	Flocculin	0	25401-25520	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	25536	25658	-1.0	Flocculin	0	25536-25658	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	26076	26201	-1.0	Flocculin	0	26076-26201	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	26481	26606	-1.0	Flocculin	0	26481-26606	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	26211	26336	-1.0	Flocculin	0	26211-26336	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	26886	27011	-1.0	Flocculin	0	26886-27011	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	25806	25931	-1.0	Flocculin	0	25806-25931	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	27021	27146	-1.0	Flocculin	0	27021-27146	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	26751	26876	-1.0	Flocculin	0	26751-26876	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	26346	26471	-1.0	Flocculin	0	26346-26471	PF00624	http://pfam.sanger.ac.uk/family?acc=PF00624
+I	24780	24914	-1.0	Flocculin_t3_rpt	0	24780-24914	PF13928	http://pfam.sanger.ac.uk/family?acc=PF13928
+I	24411	24545	-1.0	Flocculin_t3_rpt	0	24411-24545	PF13928	http://pfam.sanger.ac.uk/family?acc=PF13928
+I	24564	24698	-1.0	Flocculin_t3_rpt	0	24564-24698	PF13928	http://pfam.sanger.ac.uk/family?acc=PF13928

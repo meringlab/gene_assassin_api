@@ -1,0 +1,5 @@
+#>P	YCL030C	YCL030C	YCL030C	III	65937	68333	-1	Multifunctional enzyme containing phosphoribosyl-ATP pyrophosphatase; phosphoribosyl-AMP cyclohydrolase, and histidinol dehydrogenase activities; catalyzes the second, third, ninth and tenth steps in histidine biosynthesis [Source:SGD;Acc:S000000535]
+#>E	YCL030C.1	1.0	65934-68333
+III	67353	67592	-1.0	PRib-ATP_PPHydrolase-like	0	67353-67592	PF01503	http://pfam.sanger.ac.uk/family?acc=PF01503
+III	67617	67838	-1.0	PRib_AMP_CycHydrolase	0	67617-67838	PF01502	http://pfam.sanger.ac.uk/family?acc=PF01502
+III	65970	67223	-1.0	Hstdl_DH	0	65970-67223	PF00815	http://pfam.sanger.ac.uk/family?acc=PF00815

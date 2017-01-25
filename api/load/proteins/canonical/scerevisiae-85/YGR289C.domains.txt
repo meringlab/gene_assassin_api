@@ -1,0 +1,3 @@
+#>P	YGR289C	YGR289C	YGR289C	VII	1073966	1075813	-1	High-affinity maltose transporter (alpha-glucoside transporter); inducible; encoded in the MAL1 complex locus; broad substrate specificity that includes maltotriose; required for isomaltose utilization [Source:SGD;Acc:S000003521]
+#>E	YGR289C.1	1.0	1073963-1075813
+VII	1074113	1075483	-1.0	Sub_transporter	0	1074113-1075483	PF00083	http://pfam.sanger.ac.uk/family?acc=PF00083

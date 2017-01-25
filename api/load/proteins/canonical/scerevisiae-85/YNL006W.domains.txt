@@ -1,0 +1,7 @@
+#>P	YNL006W	YNL006W	YNL006W	XIV	620067	620975	1	Protein required for the transport of Gap1p; required for the transport of amino acid permease Gap1p from the Golgi to the cell surface; component of the TOR signaling pathway; associates with both Tor1p and Tor2p; contains a WD-repeat [Source:SGD;Acc:S000004951]
+#>E	YNL006W.1	1.0	620067-620978
+XIV	620403	620498	1.0	WD40_repeat	0	620403-620498	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIV	620787	620900	1.0	WD40_repeat	0	620787-620900	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIV	620658	620771	1.0	WD40_repeat	0	620658-620771	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIV	620262	620375	1.0	WD40_repeat	0	620262-620375	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIV	620076	620120	1.0	WD40_repeat	0	620076-620120	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

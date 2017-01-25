@@ -1,0 +1,4 @@
+#>P	YIL137C	YIL137C	YIL137C	IX	89951	92788	-1	Ribosome-associated protein that is involved in ribosome biogenesis; putative metalloprotease [Source:SGD;Acc:S000001399]
+#>E	YIL137C.1	1.0	89948-92788
+IX	91511	92767	-1.0	Peptidase_M1_N	0	91511-92767	PF01433	http://pfam.sanger.ac.uk/family?acc=PF01433
+IX	90002	91099	-1.0	Pept_M1_aminopeptidase_C	0	90002-91099	PF11838	http://pfam.sanger.ac.uk/family?acc=PF11838

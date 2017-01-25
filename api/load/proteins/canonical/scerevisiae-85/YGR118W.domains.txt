@@ -1,0 +1,3 @@
+#>P	YGR118W	YGR118W	YGR118W	VII	726974	727727	1	Ribosomal protein 28 (rp28) of the small (40S) ribosomal subunit; required for translational accuracy; homologous to mammalian ribosomal protein S23 and bacterial S12; RPS23A has a paralog, RPS23B, that arose from the whole genome duplication; deletion of both RPS23A and RPS23B is lethal [Source:SGD;Acc:S000003350]
+#>E	YGR118W.1,YGR118W.2	1,1	726974-727038,727358-727730
+VII	727007	727724	1	Ribosomal_S12/S23	0	727007-727038,727358-727724	PF00164	http://pfam.sanger.ac.uk/family?acc=PF00164

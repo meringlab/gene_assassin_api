@@ -1,0 +1,3 @@
+#>P	YGL073W	YGL073W	YGL073W	VII	368753	371251	1	Trimeric heat shock transcription factor; activates multiple genes in response to highly diverse stresses, including hyperthermia; recognizes variable heat shock elements (HSEs) consisting of inverted NGAAN repeats; monitors translational status of cell at the ribosome through an RQC (Ribosomal Quality Control)-mediated translation-stress signal; involved in diauxic shift; posttranslationally regulated [Source:SGD;Acc:S000003041]
+#>E	YGL073W.1	1.0	368753-371254
+VII	369272	369583	1.0	HSF_DNA-bd	0	369272-369583	PF00447	http://pfam.sanger.ac.uk/family?acc=PF00447

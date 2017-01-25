@@ -1,0 +1,3 @@
+#>P	YBR271W	YBR271W	YBR271W	II	744852	746108	1	S-adenosylmethionine-dependent methyltransferase; seven-beta-strand lysine methyltransferase which dimethylates translation elongation factor EF2 (Eft1p and Eft2p) at lysine 613 and methylates EF3 (Yef3p) at lysine 187; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; involved in regulation of translational termination; predicted involvement in ribosome biogenesis [Source:SGD;Acc:S000000475]
+#>E	YBR271W.1	1.0	744852-746111
+II	745494	746000	1.0	Nicotinamide_N-MeTfrase_put	0	745494-746000	PF10294	http://pfam.sanger.ac.uk/family?acc=PF10294

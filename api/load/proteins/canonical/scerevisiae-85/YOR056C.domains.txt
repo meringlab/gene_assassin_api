@@ -1,0 +1,3 @@
+#>P	YOR056C	YOR056C	YOR056C	XV	430250	431626	-1	Protein involved in proteasomal and 40S ribosomal subunit biogenesis; required for cleavage of the 20S pre-rRNA to generate the mature 18S rRNA; cleavage is activated by Fun12p, a GTPase and translation initiation factor; relocalizes from nucleus to nucleolus upon DNA replication stress [Source:SGD;Acc:S000005582]
+#>E	YOR056C.1	1.0	430247-431626
+XV	430517	430750	-1.0	NOB1_Zn-bd	0	430517-430750	PF08772	http://pfam.sanger.ac.uk/family?acc=PF08772

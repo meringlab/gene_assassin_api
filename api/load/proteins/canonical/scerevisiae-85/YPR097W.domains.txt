@@ -1,0 +1,5 @@
+#>P	YPR097W	YPR097W	YPR097W	XVI	725394	728612	1	Protein that contains a PX domain and binds phosphoinositides; the authentic, non-tagged protein is detected in highly purified mitochondria in high-throughput studies; PX stands for Phox homology [Source:SGD;Acc:S000006301]
+#>E	YPR097W.1	1.0	725394-728615
+XVI	726243	726890	1.0	Phox	0	726243-726890	PF00787	http://pfam.sanger.ac.uk/family?acc=PF00787
+XVI	727080	728150	1.0	DUF3818_PX-associated	0	727080-728150	PF12825	http://pfam.sanger.ac.uk/family?acc=PF12825
+XVI	725394	725840	1.0	PX-associated	0	725394-725840	PF12828	http://pfam.sanger.ac.uk/family?acc=PF12828

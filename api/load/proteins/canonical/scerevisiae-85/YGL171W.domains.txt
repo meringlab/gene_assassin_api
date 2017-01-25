@@ -1,0 +1,4 @@
+#>P	YGL171W	YGL171W	YGL171W	VII	182390	184081	1	RNA-dependent ATPase; involved in pre-rRNA processing at sites A0, A1, and A2, and in control of cell cycle progression; contains two upstream open reading frames (uORFs) in 5' untranslated region which regulate translation [Source:SGD;Acc:S000003139]
+#>E	YGL171W.1	1.0	182390-184084
+VII	182825	183355	1.0	DNA/RNA_helicase_DEAD/DEAH_N	0	182825-183355	PF00270	http://pfam.sanger.ac.uk/family?acc=PF00270
+VII	183563	183790	1.0	Helicase_C	0	183563-183790	PF00271	http://pfam.sanger.ac.uk/family?acc=PF00271

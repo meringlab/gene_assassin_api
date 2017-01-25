@@ -1,0 +1,5 @@
+#>P	YNL267W	YNL267W	YNL267W	XIV	140878	144075	1	Phosphatidylinositol 4-kinase; catalyzes first step in the biosynthesis of phosphatidylinositol-4,5-biphosphate; may control cytokinesis through the actin cytoskeleton; may control nonselective autophagy and mitophagy through trafficking of Atg9p [Source:SGD;Acc:S000005211]
+#>E	YNL267W.1	1.0	140878-144078
+XIV	141241	141390	1.0	Phosphatidylinositol_kinase	0	141241-141390	PF11522	http://pfam.sanger.ac.uk/family?acc=PF11522
+XIV	140947	141216	1.0	PInositide-3_kin_accessory_dom	0	140947-141216	PF00613	http://pfam.sanger.ac.uk/family?acc=PF00613
+XIV	143251	143892	1.0	PI3/4_kinase_cat_dom	0	143251-143892	PF00454	http://pfam.sanger.ac.uk/family?acc=PF00454

@@ -1,0 +1,3 @@
+#>P	YNR034W	YNR034W	YNR034W	XIV	690321	691283	1	Protein with a possible role in tRNA export; shows similarity to 6-phosphogluconolactonase non-catalytic domains but does not exhibit this enzymatic activity; homologous to Sol3p and Sol4p; SOL1 has a paralog, SOL2, that arose from the whole genome duplication; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000005317]
+#>E	YNR034W.1	1.0	690321-691286
+XIV	690579	691136	1.0	Glc/Gal-6P_isomerase	0	690579-691136	PF01182	http://pfam.sanger.ac.uk/family?acc=PF01182

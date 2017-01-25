@@ -1,0 +1,5 @@
+#>P	YMR109W	YMR109W	YMR109W	XIII	486587	490243	1	One of two type I myosin motors; contains proline-rich tail homology 2 (TH2) and SH3 domains; MYO5 deletion has little effect on growth, but myo3 myo5 double deletion causes severe defects in growth and actin cytoskeleton organization; MYO5 has a paralog, MYO3, that arose from the whole genome duplication [Source:SGD;Acc:S000004715]
+#>E	YMR109W.1	1.0	486587-490246
+XIII	488861	489466	1.0	Myosin_tail_2	182.6	488861-489466	PF06017	http://pfam.sanger.ac.uk/family?acc=PF06017
+XIII	489860	490003	1.0	SH3_domain	48.3	489860-490003	PF00018	http://pfam.sanger.ac.uk/family?acc=PF00018
+XIII	486701	488692	1.0	Myosin_head_motor_dom	742.4	486701-488692	PF00063	http://pfam.sanger.ac.uk/family?acc=PF00063

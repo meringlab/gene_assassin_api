@@ -1,0 +1,4 @@
+#>P	YLR210W	YLR210W	YLR210W	XII	562008	563387	1	B-type cyclin involved in cell cycle progression; activates Cdc28p to promote the G2/M transition; may be involved in DNA replication and spindle assembly; accumulates during S phase and G2, then targeted for ubiquitin-mediated degradation; CLB4 has a paralog, CLB3, that arose from the whole genome duplication [Source:SGD;Acc:S000004200]
+#>E	YLR210W.1	1.0	562008-563390
+XII	562635	563012	1.0	Cyclin_N	0	562635-563012	PF00134	http://pfam.sanger.ac.uk/family?acc=PF00134
+XII	563019	563360	1.0	Cyclin_C	0	563019-563360	PF02984	http://pfam.sanger.ac.uk/family?acc=PF02984

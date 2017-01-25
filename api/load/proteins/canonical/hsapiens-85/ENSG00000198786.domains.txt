@@ -1,0 +1,5 @@
+#>P	ENSG00000198786	ENST00000361567	ENSP00000354813	MT	12337	14145	1	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5 [Source:HGNC Symbol;Acc:HGNC:7461]
+#>E	ENSE00001435330	1.0	12337-14148
+MT	12736	13590	1.0	ND/Mrp_mem	246.3	12736-13590	PF00361	http://pfam.sanger.ac.uk/family?acc=PF00361
+MT	13600	14142	1.0	NADH_DH_su5_C	178.8	13600-14142	PF06455	http://pfam.sanger.ac.uk/family?acc=PF06455
+MT	12529	12699	1.0	Proton_antipo_N	51.8	12529-12699	PF00662	http://pfam.sanger.ac.uk/family?acc=PF00662

@@ -1,0 +1,4 @@
+#>P	YGL130W	YGL130W	YGL130W	VII	266145	267521	1	Guanylyltransferase involved in mRNA 5' capping; subunit of the mRNA capping enzyme, which is a heterotetramer composed of two molecules of Ceg1p and a homodimer of Cet1p, the mRNA 5?-triphosphatase subunit; nuclear import of Ceg1p requires interaction with Cet1p; mammalian capping enzyme is a single bifunctional polypeptide [Source:SGD;Acc:S000003098]
+#>E	YGL130W.1	1.0	266145-267524
+VII	266901	267335	1.0	mRNA_cap_enzyme_C	0	266901-267335	PF03919	http://pfam.sanger.ac.uk/family?acc=PF03919
+VII	266283	266891	1.0	mRNA_cap_enzyme	0	266283-266891	PF01331	http://pfam.sanger.ac.uk/family?acc=PF01331

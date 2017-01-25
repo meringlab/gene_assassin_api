@@ -1,0 +1,3 @@
+#>P	YPL051W	YPL051W	YPL051W	XVI	459963	460556	1	ARF-like small GTPase of the RAS superfamily; required for recruitment of Arl1p, a GTPase that regulates membrane traffic, to the Golgi apparatus; NatC-catalyzed N-terminal acetylation regulates Golgi membrane association mediated by interaction with membrane receptor, Sys1p; similar to ADP-ribosylation factor and orthologous to mammalian ARFRP1 [Source:SGD;Acc:S000005972]
+#>E	YPL051W.1	1.0	459963-460559
+XVI	459996	460511	1.0	Small_GTPase_ARF/SAR	0	459996-460511	PF00025	http://pfam.sanger.ac.uk/family?acc=PF00025

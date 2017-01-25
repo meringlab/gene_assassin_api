@@ -1,0 +1,3 @@
+#>P	YDR155C	YDR155C	YDR155C	IV	768515	769000	-1	Cytoplasmic peptidyl-prolyl cis-trans isomerase (cyclophilin); catalyzes the cis-trans isomerization of peptide bonds N-terminal to proline residues; binds the drug cyclosporin A; N-terminally propionylated in vivo; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000002562]
+#>E	YDR155C.1	1.0	768512-769000
+IV	768530	768985	-1.0	Cyclophilin-like_PPIase_dom	0	768530-768985	PF00160	http://pfam.sanger.ac.uk/family?acc=PF00160

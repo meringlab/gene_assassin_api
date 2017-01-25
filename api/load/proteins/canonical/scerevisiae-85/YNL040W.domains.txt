@@ -1,0 +1,4 @@
+#>P	YNL040W	YNL040W	YNL040W	XIV	553380	554747	1	Putative protein of unknown function; has strong similarity to alanyl-tRNA synthases from Eubacteria; null mutant displays decreased translation rate and increased readthrough of premature stop codons; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm; YNL040W is not an essential gene [Source:SGD;Acc:S000004985]
+#>E	YNL040W.1	1.0	553380-554750
+XIV	554058	554192	1.0	tRNA_SAD	0	554058-554192	PF07973	http://pfam.sanger.ac.uk/family?acc=PF07973
+XIV	553491	553727	1.0	Ala-tRNA-synth_IIc_N	0	553491-553727	PF01411	http://pfam.sanger.ac.uk/family?acc=PF01411

@@ -1,0 +1,6 @@
+#>P	YGL003C	YGL003C	YGL003C	VII	492477	494174	-1	Activator of anaphase-promoting complex/cyclosome (APC/C); cell-cycle regulated; directs ubiquitination of cyclins resulting in mitotic exit; targets the APC/C to specific substrates including Cdc20p, Ase1p, Cin8p and Fin1p [Source:SGD;Acc:S000002971]
+#>E	YGL003C.1	1.0	492474-494174
+VII	492939	493037	-1.0	WD40_repeat	0	492939-493037	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	492801	492920	-1.0	WD40_repeat	0	492801-492920	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	493077	493175	-1.0	WD40_repeat	0	493077-493175	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+VII	492546	492656	-1.0	WD40_repeat	0	492546-492656	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

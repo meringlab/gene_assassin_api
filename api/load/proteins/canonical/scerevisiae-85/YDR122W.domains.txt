@@ -1,0 +1,4 @@
+#>P	YDR122W	YDR122W	YDR122W	IV	694700	697891	1	Serine/threonine protein kinase involved in regulation of exocytosis; localizes to the cytoplasmic face of the plasma membrane; KIN1 has a paralog, KIN2, that arose from the whole genome duplication [Source:SGD;Acc:S000002529]
+#>E	YDR122W.1	1.0	694700-697894
+IV	697751	697891	1.0	Kinase-assoc_KA1	71.1	697751-697891	PF02149	http://pfam.sanger.ac.uk/family?acc=PF02149
+IV	695057	695893	1.0	Prot_kinase_cat_dom	235.8	695057-695893	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069

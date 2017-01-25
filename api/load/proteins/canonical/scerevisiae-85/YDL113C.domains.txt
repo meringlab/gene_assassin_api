@@ -1,0 +1,3 @@
+#>P	YDL113C	YDL113C	YDL113C	IV	256636	258555	-1	Sorting nexin family member; required for the cytoplasm-to-vacuole targeting (Cvt) pathway and for endosomal sorting; has a Phox homology domain that binds phosphatidylinositol-3-phosphate; interacts with Snx4p; potential Cdc28p substrate [Source:SGD;Acc:S000002271]
+#>E	YDL113C.1	1.0	256633-258555
+IV	257668	258087	-1.0	Phox	0	257668-258087	PF00787	http://pfam.sanger.ac.uk/family?acc=PF00787

@@ -1,0 +1,4 @@
+#>P	YDR128W	YDR128W	YDR128W	IV	709549	712992	1	Subunit of the SEA (Seh1-associated) complex; SEA is a coatomer-related complex that associates dynamically with the vacuole; has N-terminal WD-40 repeats and a C-terminal RING motif; mtc5 is synthetically sick with cdc13-1; relative distribution to vacuolar membrane punctae decreases upon DNA replication stress [Source:SGD;Acc:S000002535]
+#>E	YDR128W.1	1.0	709549-712995
+IV	709873	709977	1.0	WD40_repeat	0	709873-709977	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+IV	710122	710238	1.0	WD40_repeat	0	710122-710238	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

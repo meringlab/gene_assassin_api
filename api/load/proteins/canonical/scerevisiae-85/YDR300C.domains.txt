@@ -1,0 +1,4 @@
+#>P	YDR300C	YDR300C	YDR300C	IV	1061508	1062791	-1	Gamma-glutamyl kinase; catalyzes the first step in proline biosynthesis; PRO1 has a paralog, YHR033W, that arose from the whole genome duplication [Source:SGD;Acc:S000002708]
+#>E	YDR300C.1	1.0	1061505-1062791
+IV	1061565	1061828	-1.0	PUA	80.4	1061565-1061828	PF01472	http://pfam.sanger.ac.uk/family?acc=PF01472
+IV	1062069	1062761	-1.0	Asp/Glu/Uridylate_kinase	121.5	1062069-1062761	PF00696	http://pfam.sanger.ac.uk/family?acc=PF00696

@@ -1,0 +1,6 @@
+#>P	YHR117W	YHR117W	YHR117W	VIII	342349	344265	1	Mitochondrial outer membrane protein; probable minor component of the TOM (translocase of outer membrane) complex responsible for recognition and import of mitochondrially directed proteins; TOM71 has a paralog, TOM70, that arose from the whole genome duplication [Source:SGD;Acc:S000001159]
+#>E	YHR117W.1	1.0	342349-344268
+VIII	342733	342825	1.0	TPR-1	0	342733-342825	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+VIII	343588	343683	1.0	TPR-1	0	343588-343683	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+VIII	342844	342930	1.0	TPR-1	0	342844-342930	PF00515	http://pfam.sanger.ac.uk/family?acc=PF00515
+VIII	343483	343575	1.0	TPR_repeat	0	343483-343575	PF13181	http://pfam.sanger.ac.uk/family?acc=PF13181

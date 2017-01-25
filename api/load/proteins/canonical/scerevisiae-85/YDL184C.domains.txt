@@ -1,0 +1,3 @@
+#>P	YDL184C	YDL184C	YDL184C	IV	130410	130484	-1	Ribosomal 60S subunit protein L41A; comprises only 25 amino acids; rpl41a rpl41b double null mutant is viable; homologous to mammalian ribosomal protein L41, no bacterial homolog; RPL41A has a paralog, RPL41B, that arose from the whole genome duplication [Source:SGD;Acc:S000002343]
+#>E	YDL184C.1	1.0	130407-130484
+IV	130410	130484	-1.0	Ribosomal_L41	0	130410-130484	PF05162	http://pfam.sanger.ac.uk/family?acc=PF05162

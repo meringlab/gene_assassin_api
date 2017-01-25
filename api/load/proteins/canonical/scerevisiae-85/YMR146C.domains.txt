@@ -1,0 +1,6 @@
+#>P	YMR146C	YMR146C	YMR146C	XIII	557484	558524	-1	eIF3i subunit of the eukaryotic translation initiation factor 3 (eIF3); subunit of the core complex of eIF3; essential for translation; stimulates rate of ribosomal scanning during translation reinitiation [Source:SGD;Acc:S000004754]
+#>E	YMR146C.1	1.0	557481-558524
+XIII	558414	558512	-1.0	WD40_repeat	0	558414-558512	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	557871	557951	-1.0	WD40_repeat	0	557871-557951	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	557568	557663	-1.0	WD40_repeat	0	557568-557663	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400
+XIII	558285	558398	-1.0	WD40_repeat	0	558285-558398	PF00400	http://pfam.sanger.ac.uk/family?acc=PF00400

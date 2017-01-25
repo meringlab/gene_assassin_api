@@ -1,0 +1,4 @@
+#>P	YNL218W	YNL218W	YNL218W	XIV	238238	239998	1	Protein with DNA-dependent ATPase and ssDNA annealing activities; involved in maintenance of genome; interacts functionally with DNA polymerase delta; homolog of human Werner helicase interacting protein (WHIP); forms nuclear foci upon DNA replication stress [Source:SGD;Acc:S000005162]
+#>E	YNL218W.1	1.0	238238-240001
+XIV	239465	239908	1.0	MgsA_C	0	239465-239908	PF12002	http://pfam.sanger.ac.uk/family?acc=PF12002
+XIV	238754	239110	1.0	ATPase_AAA_core	0	238754-239110	PF00004	http://pfam.sanger.ac.uk/family?acc=PF00004

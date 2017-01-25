@@ -1,0 +1,4 @@
+#>P	YPR108W	YPR108W	YPR108W	XVI	742454	743740	1	Essential non-ATPase regulatory subunit of the 26S proteasome; similar to another S. cerevisiae regulatory subunit, Rpn5p, as well as to mammalian proteasome subunits [Source:SGD;Acc:S000006312]
+#>E	YPR108W.1	1.0	742454-743743
+XVI	742736	743260	1.0	26S_proteasome_reg_su-Rpn7	0	742736-743260	PF10602	http://pfam.sanger.ac.uk/family?acc=PF10602
+XVI	743315	743626	1.0	PCI_dom	0	743315-743626	PF01399	http://pfam.sanger.ac.uk/family?acc=PF01399

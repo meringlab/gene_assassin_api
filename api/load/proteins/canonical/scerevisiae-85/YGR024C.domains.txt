@@ -1,0 +1,4 @@
+#>P	YGR024C	YGR024C	YGR024C	VII	531886	532596	-1	tRNAHis guanylyltransferase; adds a guanosine residue to the 5' end of tRNAH is after transcription and RNase P cleavage; can also catalyze reverse (3'-5') polymerization with certain substrates in a template-dependent reaction; couples nuclear division and migration to cell budding and cytokinesis; essential enzyme conserved among eukaryotes [Source:SGD;Acc:S000003256]
+#>E	YGR024C.1	1.0	531883-532596
+VII	531946	532179	-1.0	Thg1_C_dom	0	531946-532179	PF14413	http://pfam.sanger.ac.uk/family?acc=PF14413
+VII	532183	532581	-1.0	tRNAHis_GuaTrfase_cat	0	532183-532581	PF04446	http://pfam.sanger.ac.uk/family?acc=PF04446

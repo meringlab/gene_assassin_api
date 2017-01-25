@@ -1,0 +1,3 @@
+#>P	YLL010C	YLL010C	YLL010C	XII	129333	130613	-1	Plasma membrane associated protein phosphatase; involved in the general stress response; required along with binding partner Whi2p for full activation of STRE-mediated gene expression, possibly through dephosphorylation of Msn2p; PSR1 has a paralog, PSR2, that arose from the whole genome duplication [Source:SGD;Acc:S000003933]
+#>E	YLL010C.1	1.0	129330-130613
+XII	129378	129842	-1.0	NIF	0	129378-129842	PF03031	http://pfam.sanger.ac.uk/family?acc=PF03031

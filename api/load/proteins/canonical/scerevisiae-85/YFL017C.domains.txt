@@ -1,0 +1,3 @@
+#>P	YFL017C	YFL017C	YFL017C	VI	103986	104462	-1	Glucosamine-6-phosphate acetyltransferase; evolutionarily conserved; required for multiple cell cycle events including passage through START, DNA synthesis, and mitosis; involved in UDP-N-acetylglucosamine synthesis, forms GlcNAc6P from AcCoA [Source:SGD;Acc:S000001877]
+#>E	YFL017C.1	1.0	103983-104462
+VI	104019	104195	-1.0	AcTrfase_GCN5-related_dom	62.2	104019-104195	PF00583	http://pfam.sanger.ac.uk/family?acc=PF00583

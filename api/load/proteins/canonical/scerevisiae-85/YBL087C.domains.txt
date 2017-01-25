@@ -1,0 +1,3 @@
+#>P	YBL087C	YBL087C	YBL087C	II	59825	60739	-1	Ribosomal 60S subunit protein L23A; homologous to mammalian ribosomal protein L23 and bacterial L14; RPL23A has a paralog, RPL23B, that arose from the whole genome duplication [Source:SGD;Acc:S000000183]
+#>E	YBL087C.2,YBL087C.1	1,1	59822-60193,60698-60739
+II	59837	60187	-1	Ribosomal_L14b/L23e	0	59837-60187	PF00238	http://pfam.sanger.ac.uk/family?acc=PF00238

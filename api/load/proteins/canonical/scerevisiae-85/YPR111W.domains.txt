@@ -1,0 +1,4 @@
+#>P	YPR111W	YPR111W	YPR111W	XVI	747306	748997	1	Ser/Thr kinase involved in late nuclear division; one of the mitotic exit network (MEN) proteins; necessary for the execution of cytokinesis; also plays a role in regulating the stability of SWI5 and CLB2 mRNAs; DBF20 has a paralog, DBF2, that arose from the whole genome duplication [Source:SGD;Acc:S000006315]
+#>E	YPR111W.1	1.0	747306-749000
+XVI	747810	748709	1.0	Prot_kinase_cat_dom	0	747810-748709	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+XVI	748764	748925	1.0	Pkinase_C	0	748764-748925	PF00433	http://pfam.sanger.ac.uk/family?acc=PF00433

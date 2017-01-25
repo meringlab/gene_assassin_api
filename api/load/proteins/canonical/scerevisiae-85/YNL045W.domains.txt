@@ -1,0 +1,4 @@
+#>P	YNL045W	YNL045W	YNL045W	XIV	542963	544975	1	Leucyl aminopeptidase yscIV with epoxide hydrolase activity; metalloenzyme containing one zinc atom; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm and nucleus; also known as leukotriene A4 hydrolase [Source:SGD;Acc:S000004990]
+#>E	YNL045W.1	1.0	542963-544978
+XIV	544484	544969	1.0	Peptidase_M1_C	0	544484-544969	PF09127	http://pfam.sanger.ac.uk/family?acc=PF09127
+XIV	543155	544258	1.0	Peptidase_M1_N	0	543155-544258	PF01433	http://pfam.sanger.ac.uk/family?acc=PF01433

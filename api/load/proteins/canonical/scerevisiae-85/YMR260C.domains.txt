@@ -1,0 +1,3 @@
+#>P	YMR260C	YMR260C	YMR260C	XIII	789381	789839	-1	Translation initiation factor eIF1A; essential protein that forms a complex with Sui1p (eIF1) and the 40S ribosomal subunit and scans for the start codon; C-terminus associates with Fun12p (eIF5B); N terminus interacts with eIF2 and eIF3 [Source:SGD;Acc:S000004873]
+#>E	YMR260C.1	1.0	789378-789839
+XIII	789558	789752	-1.0	RNA-binding_domain_S1_IF1	0	789558-789752	PF01176	http://pfam.sanger.ac.uk/family?acc=PF01176

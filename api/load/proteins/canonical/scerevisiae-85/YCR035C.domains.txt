@@ -1,0 +1,3 @@
+#>P	YCR035C	YCR035C	YCR035C	III	191837	193018	-1	Exosome non-catalytic core component; involved in 3'-5' RNA processing and degradation in both the nucleus and the cytoplasm; has similarity to E. coli RNase PH and to human hRrp43p (OIP2, EXOSC8); protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000000631]
+#>E	YCR035C.1	1.0	191834-193018
+III	192287	192877	-1.0	ExoRNase_PH_dom1	0	192287-192877	PF01138	http://pfam.sanger.ac.uk/family?acc=PF01138

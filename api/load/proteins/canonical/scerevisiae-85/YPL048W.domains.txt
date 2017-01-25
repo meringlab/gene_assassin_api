@@ -1,0 +1,5 @@
+#>P	YPL048W	YPL048W	YPL048W	XVI	464401	465645	1	Nuclear protein required for transcription of MXR1; binds the MXR1 promoter in the presence of other nuclear factors; binds calcium and phospholipids; has similarity to translational cofactor EF-1 gamma [Source:SGD;Acc:S000005969]
+#>E	YPL048W.1	1.0	464401-465648
+XVI	464764	464997	1.0	GST_C	0	464764-464997	PF00043	http://pfam.sanger.ac.uk/family?acc=PF00043
+XVI	465157	465477	1.0	Transl_elong_EF1_G_con	0	465157-465477	PF00647	http://pfam.sanger.ac.uk/family?acc=PF00647
+XVI	464410	464613	1.0	Glutathione_S-Trfase_N	0	464410-464613	PF02798	http://pfam.sanger.ac.uk/family?acc=PF02798

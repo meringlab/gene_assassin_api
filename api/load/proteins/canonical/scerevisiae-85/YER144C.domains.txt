@@ -1,0 +1,4 @@
+#>P	YER144C	YER144C	YER144C	V	457809	460223	-1	Putative ubiquitin-specific protease; concentrates at the bud neck; UBP5 has a paralog, DOA4, that arose from the whole genome duplication [Source:SGD;Acc:S000000946]
+#>E	YER144C.1	1.0	457806-460223
+V	459399	459779	-1.0	Rhodanese-like	0	459399-459779	PF00581	http://pfam.sanger.ac.uk/family?acc=PF00581
+V	457821	458891	-1.0	Peptidase_C19	0	457821-458891	PF00443	http://pfam.sanger.ac.uk/family?acc=PF00443

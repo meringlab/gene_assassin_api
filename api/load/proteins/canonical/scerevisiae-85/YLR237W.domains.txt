@@ -1,0 +1,3 @@
+#>P	YLR237W	YLR237W	YLR237W	XII	612367	614160	1	Plasma membrane transporter responsible for the uptake of thiamine; contributes to uptake of 5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranoside (acadesine); member of the major facilitator superfamily of transporters; mutation of human ortholog causes thiamine-responsive megaloblastic anemia [Source:SGD;Acc:S000004227]
+#>E	YLR237W.1	1.0	612367-614163
+XII	612466	613767	1.0	Cyt_pur_permease	0	612466-613767	PF02133	http://pfam.sanger.ac.uk/family?acc=PF02133

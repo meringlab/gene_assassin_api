@@ -1,0 +1,3 @@
+#>P	YDL160C-A	YDL160C-A	YDL160C-A	IV	169369	169608	-1	Component of the heterotetrameric MHF histone-fold complex; in humans the MHF complex interacts with both DNA and Mph1p ortholog FANCM to stabilize and remodel blocked replication forks and repair damaged DNA; mhf2 srs2 double mutants are MMS hypersensitive; orthologous to human centromere constitutive-associated network (CCAN) subunit CENP-X, also known as MHF2 [Source:SGD;Acc:S000028520]
+#>E	YDL160C-A.1	1.0	169366-169608
+IV	169369	169599	-1.0	CENP-S_centromere_X	0	169369-169599	PF09415	http://pfam.sanger.ac.uk/family?acc=PF09415

@@ -1,0 +1,3 @@
+#>P	YFL045C	YFL045C	YFL045C	VI	43631	44392	-1	Phosphomannomutase; involved in synthesis of GDP-mannose and dolichol-phosphate-mannose; required for folding and glycosylation of secretory proteins in the ER lumen [Source:SGD;Acc:S000001849]
+#>E	YFL045C.1	1.0	43628-44392
+VI	43634	44290	-1.0	PMM	0	43634-44290	PF03332	http://pfam.sanger.ac.uk/family?acc=PF03332

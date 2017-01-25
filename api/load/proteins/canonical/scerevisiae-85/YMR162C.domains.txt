@@ -1,0 +1,3 @@
+#>P	YMR162C	YMR162C	YMR162C	XIII	578954	583921	-1	Trans-golgi network aminophospholipid translocase (flippase); maintains membrane lipid asymmetry in post-Golgi secretory vesicles; localizes to the trans-Golgi network; likely involved in protein transport; type 4 P-type ATPase [Source:SGD;Acc:S000004772]
+#>E	YMR162C.1	1.0	578951-583921
+XIII	582323	583045	-1.0	ATPase_P-typ_ATPase-assoc-dom	0	582323-583045	PF00122	http://pfam.sanger.ac.uk/family?acc=PF00122

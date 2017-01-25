@@ -1,0 +1,4 @@
+#>P	YNL238W	YNL238W	YNL238W	XIV	202428	204869	1	Kexin, a subtilisin-like protease (proprotein convertase); a calcium-dependent serine protease involved in the activation of proproteins of the secretory pathway [Source:SGD;Acc:S000005182]
+#>E	YNL238W.1	1.0	202428-204872
+XIV	202938	203789	1.0	Peptidase_S8/S53	0	202938-203789	PF00082	http://pfam.sanger.ac.uk/family?acc=PF00082
+XIV	203940	204197	1.0	PrprotnconvertsP	0	203940-204197	PF01483	http://pfam.sanger.ac.uk/family?acc=PF01483

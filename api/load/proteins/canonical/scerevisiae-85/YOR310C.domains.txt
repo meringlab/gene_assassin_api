@@ -1,0 +1,5 @@
+#>P	YOR310C	YOR310C	YOR310C	XV	896828	898360	-1	Protein involved in producing mature rRNAs and snoRNAs; involved in pre-rRNA processing, 18S rRNA synthesis, and snoRNA synthesis; component of the small subunit processome complex, which is required for processing of pre-18S rRNA [Source:SGD;Acc:S000005837]
+#>E	YOR310C.1	1.0	896825-898360
+XV	897722	897877	-1.0	NOSIC	0	897722-897877	PF08060	http://pfam.sanger.ac.uk/family?acc=PF08060
+XV	897152	897601	-1.0	SnoRNA-bd_dom	0	897152-897601	PF01798	http://pfam.sanger.ac.uk/family?acc=PF01798
+XV	898163	898354	-1.0	NOP5_N	0	898163-898354	PF08156	http://pfam.sanger.ac.uk/family?acc=PF08156

@@ -1,0 +1,3 @@
+#>P	YPL135W	YPL135W	YPL135W	XVI	297553	298047	1	Conserved protein of the mitochondrial matrix; performs a scaffolding function during assembly of iron-sulfur clusters, interacts physically and functionally with yeast frataxin (Yfh1p); isu1 isu2 double mutant is inviable; ISU1 has a paralog, ISU2, that arose from the whole genome duplication [Source:SGD;Acc:S000006056]
+#>E	YPL135W.1	1.0	297553-298050
+XVI	297655	298029	1.0	NIF_FeS_clus_asmbl_NifU_N	0	297655-298029	PF01592	http://pfam.sanger.ac.uk/family?acc=PF01592

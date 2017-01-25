@@ -1,0 +1,4 @@
+#>P	YGR288W	YGR288W	YGR288W	VII	1070293	1071711	1	MAL-activator protein; part of complex locus MAL1; nonfunctional in genomic reference strain S288C [Source:SGD;Acc:S000003520]
+#>E	YGR288W.1	1.0	1070293-1071714
+VII	1070566	1071270	1.0	Transcription_factor_fun	0	1070566-1071270	PF04082	http://pfam.sanger.ac.uk/family?acc=PF04082
+VII	1070323	1070433	1.0	Zn2-C6_fun-type_DNA-bd	0	1070323-1070433	PF00172	http://pfam.sanger.ac.uk/family?acc=PF00172

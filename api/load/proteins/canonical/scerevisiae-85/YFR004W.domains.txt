@@ -1,0 +1,4 @@
+#>P	YFR004W	YFR004W	YFR004W	VI	153393	154310	1	Metalloprotease subunit of 19S regulatory particle; part of 26S proteasome lid; couples the deubiquitination and degradation of proteasome substrates; involved, independent of catalytic activity, in fission of mitochondria and peroxisomes; protein abundance increases in response to DNA replication stress [Source:SGD;Acc:S000001900]
+#>E	YFR004W.1	1.0	153393-154313
+VI	153462	153791	1.0	Mov34_MPN_PAD1	0	153462-153791	PF01398	http://pfam.sanger.ac.uk/family?acc=PF01398
+VI	153897	154265	1.0	Rpn11/EIF3F_C	0	153897-154265	PF13012	http://pfam.sanger.ac.uk/family?acc=PF13012

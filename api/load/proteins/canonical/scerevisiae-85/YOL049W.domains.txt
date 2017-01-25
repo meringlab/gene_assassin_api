@@ -1,0 +1,4 @@
+#>P	YOL049W	YOL049W	YOL049W	XV	238619	240091	1	Glutathione synthetase; catalyzes the ATP-dependent synthesis of glutathione (GSH) from gamma-glutamylcysteine and glycine; induced by oxidative stress and heat shock [Source:SGD;Acc:S000005409]
+#>E	YOL049W.1	1.0	238619-240094
+XV	239267	239578	1.0	Glutathione_synth_subst-bd_euk	0	239267-239578	PF03199	http://pfam.sanger.ac.uk/family?acc=PF03199
+XV	238619	240088	1.0	Glutathione_synthase_euk	0	238619-240088	PF03917	http://pfam.sanger.ac.uk/family?acc=PF03917

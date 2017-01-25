@@ -1,0 +1,4 @@
+#>P	YAL023C	YAL023C	YAL023C	I	106275	108551	-1	Protein O-mannosyltransferase of the ER membrane; transfers mannose residues from dolichyl phosphate-D-mannose to protein serine/threonine residues; involved in ER quality control; acts in a complex with Pmt1p, can instead interact with Pmt5p; antifungal drug target; PMT2 has a paralog, PMT3, that arose from the whole genome duplication [Source:SGD;Acc:S000000021]
+#>E	YAL023C.1	1.0	106272-108551
+I	107616	108347	-1.0	Glyco_trans_39	0	107616-108347	PF02366	http://pfam.sanger.ac.uk/family?acc=PF02366
+I	106947	107474	-1.0	MIR_motif	0	106947-107474	PF02815	http://pfam.sanger.ac.uk/family?acc=PF02815

@@ -1,0 +1,4 @@
+#>P	WBGene00022637	ZK6.2	ZK6.2	V	404619	405994	1	Nuclear Hormone Receptor family  [Source:RefSeq peptide;Acc:NP_503191]
+#>E	ZK6.2.e1,ZK6.2.e2,ZK6.2.e3,ZK6.2.e4	1,1,1,1	404619-404681,404733-404829,405068-405682,405729-405997
+V	404637	405132	1	Znf_hrmn_rcpt	52.4	404637-404681,404733-404829,405068-405132	PF00105	http://pfam.sanger.ac.uk/family?acc=PF00105
+V	405340	405898	1	Nucl_hrmn_rcpt_lig-bd	57.9	405340-405682,405729-405898	PF00104	http://pfam.sanger.ac.uk/family?acc=PF00104

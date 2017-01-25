@@ -1,0 +1,3 @@
+#>P	YBL056W	YBL056W	YBL056W	II	113762	115165	1	Type 2C protein phosphatase (PP2C); dephosphorylates Hog1p (see also Ptc2p) to limit maximal kinase activity induced by osmotic stress; dephosphorylates T169 phosphorylated Cdc28p (see also Ptc2p); role in DNA damage checkpoint inactivation; PTC3 has a paralog, PTC2, that arose from the whole genome duplication [Source:SGD;Acc:S000000152]
+#>E	YBL056W.1	1.0	113762-115168
+II	113831	114592	1.0	PP2C-like	0	113831-114592	PF00481	http://pfam.sanger.ac.uk/family?acc=PF00481

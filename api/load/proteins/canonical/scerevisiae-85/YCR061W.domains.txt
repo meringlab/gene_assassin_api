@@ -1,0 +1,4 @@
+#>P	YCR061W	YCR061W	YCR061W	III	225563	227455	1	Protein of unknown function; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm in a punctate pattern; induced by treatment with 8-methoxypsoralen and UVA irradiation [Source:SGD;Acc:S000000657]
+#>E	YCR061W.1	1.0	225563-227458
+III	226553	227428	1.0	Uncharacterised_YCR061W_C	0	226553-227428	PF10355	http://pfam.sanger.ac.uk/family?acc=PF10355
+III	225815	226126	1.0	DUF2427	0	225815-226126	PF10348	http://pfam.sanger.ac.uk/family?acc=PF10348

@@ -1,0 +1,6 @@
+#>P	YMR278W	YMR278W	YMR278W	XIII	822763	824628	1	Phosphoribomutase; catalyzes interconversion of ribose-1-phosphate and ribose-5-phosphate; has some phosphoglucomutase activity but primary activity in vivo is phosphoribomutase; contributes to ribose recycling in the pentose phosphate pathway; transcription induced in response to stress; green fluorescent protein (GFP)-fusion protein localizes to the cytoplasm and nucleus; non-essential [Source:SGD;Acc:S000004891]
+#>E	YMR278W.1	1.0	822763-824631
+XIII	822919	823338	1.0	A-D-PHexomutase_a/b/a-I	0	822919-823338	PF02878	http://pfam.sanger.ac.uk/family?acc=PF02878
+XIII	823804	824133	1.0	A-D-PHexomutase_a/b/a-III	0	823804-824133	PF02880	http://pfam.sanger.ac.uk/family?acc=PF02880
+XIII	824464	824553	1.0	A-D-PHexomutase_C	0	824464-824553	PF00408	http://pfam.sanger.ac.uk/family?acc=PF00408
+XIII	823438	823764	1.0	A-D-PHexomutase_a/b/a-II	0	823438-823764	PF02879	http://pfam.sanger.ac.uk/family?acc=PF02879

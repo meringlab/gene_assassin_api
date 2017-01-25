@@ -1,0 +1,3 @@
+#>P	YFL055W	YFL055W	YFL055W	VI	17004	18677	1	Low-affinity amino acid permease; may act to supply the cell with amino acids as nitrogen source in nitrogen-poor conditions; transcription is induced under conditions of sulfur limitation; plays a role in regulating Ty1 transposition [Source:SGD;Acc:S000001839]
+#>E	YFL055W.1	1.0	17004-18680
+VI	17172	18530	1.0	AA-permease_dom	0	17172-18530	PF00324	http://pfam.sanger.ac.uk/family?acc=PF00324

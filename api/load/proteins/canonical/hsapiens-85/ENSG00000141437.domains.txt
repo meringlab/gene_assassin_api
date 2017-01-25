@@ -1,0 +1,5 @@
+#>P	ENSG00000141437	ENST00000269205	ENSP00000372612	18	31759771	31760691	-1	solute carrier family 25 member 52 [Source:HGNC Symbol;Acc:HGNC:23324]
+#>E	ENSE00001373615	1.0	31759768-31760691
+18	31760056	31760310	-1.0	Mitochondrial_sb/sol_carrier	116	31760056-31760310	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+18	31759774	31760034	-1.0	Mitochondrial_sb/sol_carrier	116	31759774-31760034	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+18	31760329	31760571	-1.0	Mitochondrial_sb/sol_carrier	116	31760329-31760571	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153

@@ -1,0 +1,3 @@
+#>P	YDR013W	YDR013W	YDR013W	IV	473157	473780	1	Subunit of the GINS complex (Sld5p, Psf1p, Psf2p, Psf3p); complex is localized to DNA replication origins and implicated in assembly of the DNA replication machinery [Source:SGD;Acc:S000002420]
+#>E	YDR013W.1	1.0	473157-473783
+IV	473235	473540	1.0	GINS_complex	0	473235-473540	PF05916	http://pfam.sanger.ac.uk/family?acc=PF05916
