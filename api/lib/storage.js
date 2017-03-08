@@ -282,6 +282,8 @@ exports = module.exports = function (URL, callback) {
             "poolSize" : 100, //5 by default
             "sslValidate": false,
             "ssl": false,
+            "connectWithNoPrimary": true, //our data is read-only so this is safe
+            "readPreference": MongoClient.connect.ReadPreference.NEAREST,
             "reconnectTries": 100,
             "reconnectInterval": 30000,
         }
