@@ -4,9 +4,9 @@
 
 const when = require('when');
 const bunyan = require('bunyan');
-const _und = require('underscore')
-const MongoClient = require('mongodb').MongoClient
-const Logger = require('mongodb').Logger
+const _und = require('underscore');
+const MongoClient = require('mongodb').MongoClient;
+const Logger = require('mongodb').Logger;
 
 function Storage(_db) {
     var db = _db;

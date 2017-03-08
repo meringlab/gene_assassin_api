@@ -2,6 +2,9 @@
 
 const URL = 'mongodb://localhost:27017';
 
+// const URL = 'mongodb://user:pass@ga_mongo:27017';
+const RS = '';
+// const RS = '?replicaSet=rs1&authSource=admin';
 /**
  * Module dependencies.
  */
@@ -21,6 +24,7 @@ var server = http.createServer(app);
 
 var boot = function (mongodbUrl) {
     app.set('mongodb_url', mongodbUrl);
+    app.set('mongodb_rs', RS);
     /**
      * Listen on provided port, on all network interfaces.
      */
