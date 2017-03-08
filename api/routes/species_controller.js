@@ -8,11 +8,11 @@ const logger = bunyan.createLogger({
 });
 
 const AVAILABLE_SPECIES = {
-    'drerio': 'drerio-85',
-    'hsapiens': 'hsapiens-85',
-    'mmusculus': 'mmusculus-85',
-    'celegans': 'celegans-85',
-    'scerevisiae': 'scerevisiae-85',
+    'drerio': 'drerio-85'
+    ,'celegans': 'celegans-85'
+    // 'hsapiens': 'hsapiens-85',
+    // 'mmusculus': 'mmusculus-85',
+    // 'scerevisiae': 'scerevisiae-85',
 };
 //maintain mongodb clients, one per species
 const storagePool = {};
@@ -29,7 +29,7 @@ router.param('species', function (req, res, next, species) {
   req.species = species;
   if (!(species in storagePool)) {
     const mongodbUrl = req.app.get('mongodb_url');
-    const url = `${mongodbUrl}/${AVAILABLE_SPECIES[species]}`
+    const url = `${mongodbUrl}/${AVAILABLE_SPECIES[species]}${req.app.get('mongodb_rs')}`;
     require('../lib/storage')(url, function(err, storage) {
       if (err) {
         res.status(404);
