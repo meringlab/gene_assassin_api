@@ -1,21 +1,11 @@
 #!/usr/bin/env node
 
-const URL = 'mongodb://localhost:27017';
-
-// const URL = 'mongodb://user:pass@ga_mongo:27017';
-const RS = '';
-// const RS = '?replicaSet=rs1&authSource=admin';
-/**
- * Module dependencies.
- */
-
 const app = require('../app');
 const debug = require('debug')('ga-domains-api');
 const http = require('http');
 
-/**
- * Get port from environment and store in Express.
- */
+const URL = process.env.MONGODB_URL || 'mongodb://localhost:27017';
+const RS = process.env.MONGODB_RSET || '';
 
 var port = normalizePort(process.env.PORT || '3000');
 app.set('port', port);
