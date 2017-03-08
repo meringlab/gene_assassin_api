@@ -3,19 +3,16 @@
  */
 
 const when = require('when');
-const bunyan = require('bunyan');
 const _und = require('underscore');
 const MongoClient = require('mongodb').MongoClient;
 const Logger = require('mongodb').Logger;
 
+const log = require('../lib/logger').child({
+    source: 'storage'
+});
+
 function Storage(_db) {
     var db = _db;
-    const log = bunyan.createLogger({
-        name: "ga-API-domains",
-        module: "storage/mongodb"
-        , server: db.serverConfig.host
-    });
-
 
   /**
    * Note: expects index on db.guides({chromosome+start+end})
@@ -272,10 +269,6 @@ function Storage(_db) {
 }
 
 exports = module.exports = function (URL, callback) {
-    const log = bunyan.createLogger({
-        name: "ga-API-domains",
-        module: "storage/exports"
-    });
     log.info('using server: ' + URL)
     const mongodbOptions = {
         "server": {
