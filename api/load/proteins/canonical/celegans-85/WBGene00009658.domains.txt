@@ -1,5 +1,5 @@
 #>P	WBGene00009658	F43G6.5	F43G6.5	II	11814914	11816575	-1	\N
 #>E	F43G6.5.e1	1.0	11814911-11816575
-II	11815478	11816518	-1.0	PolA_pol_cen_dom	350.9	11815478-11816518	PF04928	http://pfam.sanger.ac.uk/family?acc=PF04928
-II	11815292	11815471	-1.0	PolA_pol_RNA-bd_dom	77.1	11815292-11815471	PF04926	http://pfam.sanger.ac.uk/family?acc=PF04926
-II	11816060	11816308	-1.0	Polymerase_NTP_transf_dom	37	11816060-11816308	PF01909	http://pfam.sanger.ac.uk/family?acc=PF01909
+II	11815478	11816518	-1.0	PolA_pol_cen_dom	350.9	11815478-11816518	PF04928	http://pfam.xfam.org/family/PF04928
+II	11815292	11815471	-1.0	PolA_pol_RNA-bd_dom	77.1	11815292-11815471	PF04926	http://pfam.xfam.org/family/PF04926
+II	11816060	11816308	-1.0	Polymerase_NTP_transf_dom	37	11816060-11816308	PF01909	http://pfam.xfam.org/family/PF01909

@@ -1,5 +1,5 @@
 #>P	WBGene00010780	K11H3.3	K11H3.3	III	9851887	9853263	1	Putative tricarboxylate transport protein, mitochondrial  [Source:UniProtKB/Swiss-Prot;Acc:P34519]
 #>E	K11H3.3.e1,K11H3.3.e2,K11H3.3.e3,K11H3.3.e4	1,1,1,1	9851887-9851918,9851966-9852235,9852578-9853096,9853149-9853266
-III	9852003	9852605	1	Mitochondrial_sb/sol_carrier	200.2	9852003-9852235,9852578-9852605	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-III	9852630	9852905	1	Mitochondrial_sb/sol_carrier	200.2	9852630-9852905	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-III	9852948	9853239	1	Mitochondrial_sb/sol_carrier	200.2	9852948-9853096,9853149-9853239	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+III	9852003	9852605	1	Mitochondrial_sb/sol_carrier	200.2	9852003-9852235,9852578-9852605	PF00153	http://pfam.xfam.org/family/PF00153
+III	9852630	9852905	1	Mitochondrial_sb/sol_carrier	200.2	9852630-9852905	PF00153	http://pfam.xfam.org/family/PF00153
+III	9852948	9853239	1	Mitochondrial_sb/sol_carrier	200.2	9852948-9853096,9853149-9853239	PF00153	http://pfam.xfam.org/family/PF00153

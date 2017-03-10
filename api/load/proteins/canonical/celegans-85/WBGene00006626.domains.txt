@@ -1,8 +1,8 @@
 #>P	WBGene00006626	F10G7.2	F10G7.2	II	4706844	4709771	1	Tudor Staphylococcal Nuclease homolog  [Source:RefSeq peptide;Acc:NP_494839]
 #>E	F10G7.2.e1,F10G7.2.e2,F10G7.2.e3,F10G7.2.e4	1,1,1,1	4706844-4707277,4707355-4708494,4708552-4709527,4709580-4709774
-II	4709042	4709398	1	Tudor	95.6	4709042-4709398	PF00567	http://pfam.sanger.ac.uk/family?acc=PF00567
-II	4709420	4709744	1	Staphylococal_nuclease_OB-fold	237.3	4709420-4709527,4709580-4709744	PF00565	http://pfam.sanger.ac.uk/family?acc=PF00565
-II	4707000	4707421	1	Staphylococal_nuclease_OB-fold	237.3	4707000-4707277,4707355-4707421	PF00565	http://pfam.sanger.ac.uk/family?acc=PF00565
-II	4708022	4708393	1	Staphylococal_nuclease_OB-fold	237.3	4708022-4708393	PF00565	http://pfam.sanger.ac.uk/family?acc=PF00565
-II	4707581	4707901	1	Staphylococal_nuclease_OB-fold	237.3	4707581-4707901	PF00565	http://pfam.sanger.ac.uk/family?acc=PF00565
-II	4708631	4708978	1	Staphylococal_nuclease_OB-fold	237.3	4708631-4708978	PF00565	http://pfam.sanger.ac.uk/family?acc=PF00565
+II	4709042	4709398	1	Tudor	95.6	4709042-4709398	PF00567	http://pfam.xfam.org/family/PF00567
+II	4709420	4709744	1	Staphylococal_nuclease_OB-fold	237.3	4709420-4709527,4709580-4709744	PF00565	http://pfam.xfam.org/family/PF00565
+II	4707000	4707421	1	Staphylococal_nuclease_OB-fold	237.3	4707000-4707277,4707355-4707421	PF00565	http://pfam.xfam.org/family/PF00565
+II	4708022	4708393	1	Staphylococal_nuclease_OB-fold	237.3	4708022-4708393	PF00565	http://pfam.xfam.org/family/PF00565
+II	4707581	4707901	1	Staphylococal_nuclease_OB-fold	237.3	4707581-4707901	PF00565	http://pfam.xfam.org/family/PF00565
+II	4708631	4708978	1	Staphylococal_nuclease_OB-fold	237.3	4708631-4708978	PF00565	http://pfam.xfam.org/family/PF00565

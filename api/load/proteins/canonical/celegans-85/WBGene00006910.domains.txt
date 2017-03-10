@@ -1,4 +1,4 @@
 #>P	WBGene00006910	R10E11.8.2	R10E11.8.2	III	9781254	9781760	1	V-type proton ATPase 16 kDa proteolipid subunit 1  [Source:UniProtKB/Swiss-Prot;Acc:Q21898]
 #>E	R10E11.8.2.e1	0.0	9781254-9781763
-III	9781572	9781751	1.0	ATPase_proteolipid_c-like_dom	117.7	9781572-9781751	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
-III	9781335	9781514	1.0	ATPase_proteolipid_c-like_dom	117.7	9781335-9781514	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
+III	9781572	9781751	1.0	ATPase_proteolipid_c-like_dom	117.7	9781572-9781751	PF00137	http://pfam.xfam.org/family/PF00137
+III	9781335	9781514	1.0	ATPase_proteolipid_c-like_dom	117.7	9781335-9781514	PF00137	http://pfam.xfam.org/family/PF00137

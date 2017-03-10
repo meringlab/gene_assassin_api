@@ -1,3 +1,3 @@
 #>P	WBGene00005512	T27A1.7	T27A1.7	II	508248	509326	-1	Serpentine Receptor, class H  [Source:RefSeq peptide;Acc:NP_493749]
 #>E	T27A1.7.e2,T27A1.7.e1	1,1	508245-508912,508966-509326
-II	508299	509257	-1	7TM_GPCR_serpentine_rcpt_Srh	289	508299-508912,508966-509257	PF10318	http://pfam.sanger.ac.uk/family?acc=PF10318
+II	508299	509257	-1	7TM_GPCR_serpentine_rcpt_Srh	289	508299-508912,508966-509257	PF10318	http://pfam.xfam.org/family/PF10318

@@ -1,5 +1,5 @@
 #>P	ENSDARG00000063518	ENSDART00000092924	ENSDARP00000087356	2	51748	53235	1	zgc:153913 [Source:ZFIN;Acc:ZDB-GENE-061103-397]
 #>E	ENSDARE00000680926	1	51748-53238
-2	52759	52818	1	Leu-rich_rpt	29.2	52759-52818	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
-2	52186	52365	1	Leu-rich_rpt	185.3	52186-52365	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
-2	52546	52719	1	Leu-rich_rpt	185.3	52546-52719	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+2	52759	52818	1	Leu-rich_rpt	29.2	52759-52818	PF00560	http://pfam.xfam.org/family/PF00560
+2	52186	52365	1	Leu-rich_rpt	185.3	52186-52365	PF13855	http://pfam.xfam.org/family/PF13855
+2	52546	52719	1	Leu-rich_rpt	185.3	52546-52719	PF13855	http://pfam.xfam.org/family/PF13855

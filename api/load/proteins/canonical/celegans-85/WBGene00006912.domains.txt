@@ -1,4 +1,4 @@
 #>P	WBGene00006912	Y38F2AL.4	Y38F2AL.4	IV	2315463	2315945	-1	V-type proton ATPase 16 kDa proteolipid subunit 2/3  [Source:UniProtKB/Swiss-Prot;Acc:P34546]
 #>E	Y38F2AL.4.e1	1.0	2315460-2315945
-IV	2315472	2315657	-1.0	ATPase_proteolipid_c-like_dom	123	2315472-2315657	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
-IV	2315709	2315891	-1.0	ATPase_proteolipid_c-like_dom	123	2315709-2315891	PF00137	http://pfam.sanger.ac.uk/family?acc=PF00137
+IV	2315472	2315657	-1.0	ATPase_proteolipid_c-like_dom	123	2315472-2315657	PF00137	http://pfam.xfam.org/family/PF00137
+IV	2315709	2315891	-1.0	ATPase_proteolipid_c-like_dom	123	2315709-2315891	PF00137	http://pfam.xfam.org/family/PF00137

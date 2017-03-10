@@ -1,6 +1,6 @@
 #>P	ENSDARG00000037836	ENSDART00000147198	ENSDARP00000122885	3	47893868	47895709	-1	insulin-like growth factor binding protein, acid labile subunit [Source:ZFIN;Acc:ZDB-GENE-061009-25]
 #>E	ENSDARE00000984816	0	47893865-47895709
-3	47894276	47894455	-1	Leu-rich_rpt	307.4	47894276-47894455	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
-3	47894573	47894740	-1	Leu-rich_rpt	307.4	47894573-47894740	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
-3	47894852	47895031	-1	Leu-rich_rpt	307.4	47894852-47895031	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
-3	47895284	47895457	-1	Leu-rich_rpt	307.4	47895284-47895457	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
+3	47894276	47894455	-1	Leu-rich_rpt	307.4	47894276-47894455	PF13855	http://pfam.xfam.org/family/PF13855
+3	47894573	47894740	-1	Leu-rich_rpt	307.4	47894573-47894740	PF13855	http://pfam.xfam.org/family/PF13855
+3	47894852	47895031	-1	Leu-rich_rpt	307.4	47894852-47895031	PF13855	http://pfam.xfam.org/family/PF13855
+3	47895284	47895457	-1	Leu-rich_rpt	307.4	47895284-47895457	PF13855	http://pfam.xfam.org/family/PF13855

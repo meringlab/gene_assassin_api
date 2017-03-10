@@ -1,3 +1,3 @@
 #>P	WBGene00003124	K10B3.9.2	K10B3.9.2	X	3115000	3115565	-1	ATPase inhibitor mai-1, mitochondrial  [Source:UniProtKB/Swiss-Prot;Acc:P37209]
 #>E	K10B3.9.1.e2,K10B3.9.1.e1	1,1	3114997-3115053,3115356-3115565
-X	3115362	3115556	-1	ATPase_inhibitor_mt	55	3115362-3115556	PF04568	http://pfam.sanger.ac.uk/family?acc=PF04568
+X	3115362	3115556	-1	ATPase_inhibitor_mt	55	3115362-3115556	PF04568	http://pfam.xfam.org/family/PF04568

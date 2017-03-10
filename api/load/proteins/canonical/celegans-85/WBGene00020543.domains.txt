@@ -1,3 +1,3 @@
 #>P	WBGene00020543	T17A3.6	T17A3.6	III	143634	144502	-1	F-box B protein  [Source:RefSeq peptide;Acc:NP_497156]
 #>E	T17A3.6.e2,T17A3.6.e1	1,1	143631-144438,144486-144502
-III	143859	144047	-1	F-box-assoc_dom_typ2	66.9	143859-144047	PF07735	http://pfam.sanger.ac.uk/family?acc=PF07735
+III	143859	144047	-1	F-box-assoc_dom_typ2	66.9	143859-144047	PF07735	http://pfam.xfam.org/family/PF07735

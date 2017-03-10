@@ -1,3 +1,3 @@
 #>P	WBGene00018935	F56B3.12	F56B3.12	IV	794755	795406	-1	SKp1 Related (ubiquitin ligase complex component)  [Source:RefSeq peptide;Acc:NP_741300]
 #>E	F56B3.12.e3,F56B3.12.e2	1,1	794752-795259,795363-795406
-IV	794794	794973	-1	Skp1_comp_dimer	54.5	794794-794973	PF01466	http://pfam.sanger.ac.uk/family?acc=PF01466
+IV	794794	794973	-1	Skp1_comp_dimer	54.5	794794-794973	PF01466	http://pfam.xfam.org/family/PF01466

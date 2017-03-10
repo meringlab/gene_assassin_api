@@ -1,10 +1,10 @@
 #>P	WBGene00020648	T21D12.7	T21D12.7	IV	288806	291425	-1	\N
 #>E	T21D12.7.e8,T21D12.7.e7,T21D12.7.e6,T21D12.7.e5,T21D12.7.e4,T21D12.7.e3,T21D12.7.e2,T21D12.7.e1	1,1,1,1,1,1,1,1	288803-289630,289687-289952,290005-290178,290227-290367,290418-290594,290639-290773,291112-291291,291341-291425
-IV	290428	290589	-1	Kunitz_BPTI	117.8	290428-290589	PF00014	http://pfam.sanger.ac.uk/family?acc=PF00014
-IV	291119	291286	-1	Kunitz_BPTI	117.8	291119-291286	PF00014	http://pfam.sanger.ac.uk/family?acc=PF00014
-IV	290234	290362	-1	Lustrin_cystein	122.5	290234-290362	PF14625	http://pfam.sanger.ac.uk/family?acc=PF14625
-IV	289130	289267	-1	Lustrin_cystein	122.5	289130-289267	PF14625	http://pfam.sanger.ac.uk/family?acc=PF14625
-IV	290646	290771	-1	Lustrin_cystein	122.5	290646-290771	PF14625	http://pfam.sanger.ac.uk/family?acc=PF14625
-IV	289613	289803	-1	Lustrin_cystein	122.5	289613-289630,289687-289803	PF14625	http://pfam.sanger.ac.uk/family?acc=PF14625
-IV	289813	289947	-1	Lustrin_cystein	122.5	289813-289947	PF14625	http://pfam.sanger.ac.uk/family?acc=PF14625
-IV	289457	289600	-1	Lustrin_cystein	122.5	289457-289600	PF14625	http://pfam.sanger.ac.uk/family?acc=PF14625
+IV	290428	290589	-1	Kunitz_BPTI	117.8	290428-290589	PF00014	http://pfam.xfam.org/family/PF00014
+IV	291119	291286	-1	Kunitz_BPTI	117.8	291119-291286	PF00014	http://pfam.xfam.org/family/PF00014
+IV	290234	290362	-1	Lustrin_cystein	122.5	290234-290362	PF14625	http://pfam.xfam.org/family/PF14625
+IV	289130	289267	-1	Lustrin_cystein	122.5	289130-289267	PF14625	http://pfam.xfam.org/family/PF14625
+IV	290646	290771	-1	Lustrin_cystein	122.5	290646-290771	PF14625	http://pfam.xfam.org/family/PF14625
+IV	289613	289803	-1	Lustrin_cystein	122.5	289613-289630,289687-289803	PF14625	http://pfam.xfam.org/family/PF14625
+IV	289813	289947	-1	Lustrin_cystein	122.5	289813-289947	PF14625	http://pfam.xfam.org/family/PF14625
+IV	289457	289600	-1	Lustrin_cystein	122.5	289457-289600	PF14625	http://pfam.xfam.org/family/PF14625

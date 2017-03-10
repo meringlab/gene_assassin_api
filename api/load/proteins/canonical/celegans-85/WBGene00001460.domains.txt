@@ -1,5 +1,5 @@
 #>P	WBGene00001460	C52D10.11	C52D10.11	IV	17190542	17191891	-1	FMRF-Like Peptide  [Source:RefSeq peptide;Acc:NP_503051]
 #>E	C52D10.11.e3,C52D10.11.e2,C52D10.11.e1	1,1,1	17190539-17190646,17190693-17190793,17191708-17191891
-IV	17190720	17190743	-1	FMRFamid-related_peptide-like	16.5	17190720-17190743	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-IV	17190542	17190571	-1	FMRFamid-related_peptide-like	16.5	17190542-17190571	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-IV	17190605	17190628	-1	FMRFamid-related_peptide-like	16.5	17190605-17190628	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+IV	17190720	17190743	-1	FMRFamid-related_peptide-like	16.5	17190720-17190743	PF01581	http://pfam.xfam.org/family/PF01581
+IV	17190542	17190571	-1	FMRFamid-related_peptide-like	16.5	17190542-17190571	PF01581	http://pfam.xfam.org/family/PF01581
+IV	17190605	17190628	-1	FMRFamid-related_peptide-like	16.5	17190605-17190628	PF01581	http://pfam.xfam.org/family/PF01581

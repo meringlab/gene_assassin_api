@@ -1,4 +1,4 @@
 #>P	WBGene00015168	B0403.4	B0403.4	X	7066542	7068440	-1	Probable protein disulfide-isomerase A6  [Source:UniProtKB/Swiss-Prot;Acc:Q11067]
 #>E	B0403.4.e4,B0403.4.e3,B0403.4.e2,B0403.4.e1	1,1,1,1	7066539-7066854,7066906-7067569,7067992-7068300,7068407-7068440
-X	7067535	7068259	-1	Thioredoxin_domain	200.8	7067535-7067569,7067992-7068259	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085
-X	7067106	7067417	-1	Thioredoxin_domain	200.8	7067106-7067417	PF00085	http://pfam.sanger.ac.uk/family?acc=PF00085
+X	7067535	7068259	-1	Thioredoxin_domain	200.8	7067535-7067569,7067992-7068259	PF00085	http://pfam.xfam.org/family/PF00085
+X	7067106	7067417	-1	Thioredoxin_domain	200.8	7067106-7067417	PF00085	http://pfam.xfam.org/family/PF00085

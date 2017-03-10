@@ -1,3 +1,3 @@
 #>P	WBGene00018240	F40G9.2	F40G9.2	III	190997	191860	1	Cytochrome OXidase assembly protein  [Source:RefSeq peptide;Acc:NP_497175]
 #>E	F40G9.2.e1,F40G9.2.e2	1,1	190997-191089,191765-191863
-III	191048	191860	1	Cyt_c_oxidase_Cu-chaperone	75.3	191048-191089,191765-191860	PF05051	http://pfam.sanger.ac.uk/family?acc=PF05051
+III	191048	191860	1	Cyt_c_oxidase_Cu-chaperone	75.3	191048-191089,191765-191860	PF05051	http://pfam.xfam.org/family/PF05051

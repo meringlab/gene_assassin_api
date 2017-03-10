@@ -1,5 +1,5 @@
 #>P	WBGene00000996	F49E8.5.2	F49E8.5.2	IV	7551741	7552864	-1	\N
 #>E	F49E8.5.2.e4,F49E8.5.1.e2,F49E8.5.1.e1	0,1,1	7551738-7551887,7552002-7552495,7552570-7552864
-IV	7552607	7552855	-1	Mitochondrial_sb/sol_carrier	218.5	7552607-7552855	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-IV	7552206	7552490	-1	Mitochondrial_sb/sol_carrier	218.5	7552206-7552490	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-IV	7551810	7552184	-1	Mitochondrial_sb/sol_carrier	218.5	7551810-7551887,7552002-7552184	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IV	7552607	7552855	-1	Mitochondrial_sb/sol_carrier	218.5	7552607-7552855	PF00153	http://pfam.xfam.org/family/PF00153
+IV	7552206	7552490	-1	Mitochondrial_sb/sol_carrier	218.5	7552206-7552490	PF00153	http://pfam.xfam.org/family/PF00153
+IV	7551810	7552184	-1	Mitochondrial_sb/sol_carrier	218.5	7551810-7551887,7552002-7552184	PF00153	http://pfam.xfam.org/family/PF00153

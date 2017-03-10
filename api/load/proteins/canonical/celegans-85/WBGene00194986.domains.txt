@@ -1,3 +1,3 @@
 #>P	WBGene00194986	T27F7.4	T27F7.4	II	4991590	4993077	-1	Putative alpha 2 mannosyltransferase; Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:G5EDN2]
 #>E	T27F7.4.e1	1.0	4991587-4993077
-II	4991893	4993047	-1.0	GPI_mannosylTrfase	268.4	4991893-4993047	PF03901	http://pfam.sanger.ac.uk/family?acc=PF03901
+II	4991893	4993047	-1.0	GPI_mannosylTrfase	268.4	4991893-4993047	PF03901	http://pfam.xfam.org/family/PF03901

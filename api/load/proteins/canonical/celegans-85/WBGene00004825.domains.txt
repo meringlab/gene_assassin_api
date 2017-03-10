@@ -1,4 +1,4 @@
 #>P	WBGene00004825	R12H7.3	R12H7.3	X	13224244	13224708	-1	SKp1 Related (ubiquitin ligase complex component)  [Source:RefSeq peptide;Acc:NP_510193]
 #>E	R12H7.3.e1	1.0	13224241-13224708
-X	13224328	13224444	-1.0	Skp1_comp_dimer	27.7	13224328-13224444	PF01466	http://pfam.sanger.ac.uk/family?acc=PF01466
-X	13224490	13224678	-1.0	Skp1_comp_POZ	27.6	13224490-13224678	PF03931	http://pfam.sanger.ac.uk/family?acc=PF03931
+X	13224328	13224444	-1.0	Skp1_comp_dimer	27.7	13224328-13224444	PF01466	http://pfam.xfam.org/family/PF01466
+X	13224490	13224678	-1.0	Skp1_comp_POZ	27.6	13224490-13224678	PF03931	http://pfam.xfam.org/family/PF03931

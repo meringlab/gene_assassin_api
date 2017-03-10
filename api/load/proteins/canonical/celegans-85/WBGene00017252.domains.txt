@@ -1,4 +1,4 @@
 #>P	WBGene00017252	F08D12.9	F08D12.9	II	2771177	2772240	-1	SKN-1 Dependent Zygotic transcript  [Source:RefSeq peptide;Acc:NP_494358]
 #>E	F08D12.9.e2,F08D12.9.e1	1,1	2771174-2772113,2772158-2772240
-II	2772071	2772222	-1	F-box_dom	28.5	2772071-2772113,2772158-2772222	PF00646	http://pfam.sanger.ac.uk/family?acc=PF00646
-II	2771378	2771533	-1	F-box-assoc_dom_typ2	52.1	2771378-2771533	PF07735	http://pfam.sanger.ac.uk/family?acc=PF07735
+II	2772071	2772222	-1	F-box_dom	28.5	2772071-2772113,2772158-2772222	PF00646	http://pfam.xfam.org/family/PF00646
+II	2771378	2771533	-1	F-box-assoc_dom_typ2	52.1	2771378-2771533	PF07735	http://pfam.xfam.org/family/PF07735

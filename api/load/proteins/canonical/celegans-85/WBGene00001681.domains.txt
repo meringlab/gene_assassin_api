@@ -1,3 +1,3 @@
 #>P	WBGene00001681	K02A4.2.2	K02A4.2.2	X	12881593	12882411	-1	Guanine nucleotide-binding protein subunit gamma  [Source:UniProtKB/Swiss-Prot;Acc:P54406]
 #>E	K02A4.2.2.e2,K02A4.2.2.e1	0,0	12881590-12881695,12882329-12882411
-X	12881593	12882390	-1	G-protein_gamma-like_dom	45.9	12881593-12881695,12882329-12882390	PF00631	http://pfam.sanger.ac.uk/family?acc=PF00631
+X	12881593	12882390	-1	G-protein_gamma-like_dom	45.9	12881593-12881695,12882329-12882390	PF00631	http://pfam.xfam.org/family/PF00631

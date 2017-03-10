@@ -1,5 +1,5 @@
 #>P	WBGene00001459	F15D4.8	F15D4.8	II	13235335	13237076	1	FMRFamide-like neuropeptides 16 AQTFVRF-amide 1 AQTFVRF-amide 2 GQTFVRF-amide [Source:UniProtKB/Swiss-Prot;Acc:Q7YX32]
 #>E	F15D4.8.e1,F15D4.8.e2	1,1	13235335-13235422,13236889-13237079
-II	13237041	13237058	1	FMRFamid-related_peptide-like	15.2	13237041-13237058	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-II	13237011	13237028	1	FMRFamid-related_peptide-like	15.2	13237011-13237028	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-II	13236981	13236998	1	FMRFamid-related_peptide-like	15.2	13236981-13236998	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+II	13237041	13237058	1	FMRFamid-related_peptide-like	15.2	13237041-13237058	PF01581	http://pfam.xfam.org/family/PF01581
+II	13237011	13237028	1	FMRFamid-related_peptide-like	15.2	13237011-13237028	PF01581	http://pfam.xfam.org/family/PF01581
+II	13236981	13236998	1	FMRFamid-related_peptide-like	15.2	13236981-13236998	PF01581	http://pfam.xfam.org/family/PF01581

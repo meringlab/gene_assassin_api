@@ -1,5 +1,5 @@
 #>P	WBGene00000676	C18H7.3	C18H7.3	IV	604444	605873	1	COLlagen  [Source:RefSeq peptide;Acc:NP_499957]
 #>E	C18H7.3.e1,C18H7.3.e2	1,1	604444-604693,604744-605876
-IV	604474	604611	1	Col_cuticle_N	36.9	604474-604611	PF01484	http://pfam.sanger.ac.uk/family?acc=PF01484
-IV	604923	605099	1	Collagen	53.8	604923-605099	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
-IV	605115	605285	1	Collagen	53.8	605115-605285	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
+IV	604474	604611	1	Col_cuticle_N	36.9	604474-604611	PF01484	http://pfam.xfam.org/family/PF01484
+IV	604923	605099	1	Collagen	53.8	604923-605099	PF01391	http://pfam.xfam.org/family/PF01391
+IV	605115	605285	1	Collagen	53.8	605115-605285	PF01391	http://pfam.xfam.org/family/PF01391

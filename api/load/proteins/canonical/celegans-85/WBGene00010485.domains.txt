@@ -1,5 +1,5 @@
 #>P	WBGene00010485	K01H12.2	K01H12.2	IV	9708220	9709258	-1	Adenine Nucleotide Translocator  [Source:RefSeq peptide;Acc:NP_501727]
 #>E	K01H12.2.e3,K01H12.2.e2,K01H12.2.e1	1,1,1	9708217-9708586,9708631-9709192,9709249-9709258
-IV	9708849	9709133	-1	Mitochondrial_sb/sol_carrier	215.8	9708849-9709133	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-IV	9708502	9708824	-1	Mitochondrial_sb/sol_carrier	215.8	9708502-9708586,9708631-9708824	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-IV	9708223	9708489	-1	Mitochondrial_sb/sol_carrier	215.8	9708223-9708489	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+IV	9708849	9709133	-1	Mitochondrial_sb/sol_carrier	215.8	9708849-9709133	PF00153	http://pfam.xfam.org/family/PF00153
+IV	9708502	9708824	-1	Mitochondrial_sb/sol_carrier	215.8	9708502-9708586,9708631-9708824	PF00153	http://pfam.xfam.org/family/PF00153
+IV	9708223	9708489	-1	Mitochondrial_sb/sol_carrier	215.8	9708223-9708489	PF00153	http://pfam.xfam.org/family/PF00153

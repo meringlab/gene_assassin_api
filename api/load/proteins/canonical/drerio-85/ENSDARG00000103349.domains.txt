@@ -1,9 +1,9 @@
 #>P	ENSDARG00000103349	ENSDART00000172503	ENSDARP00000135222	KN149857.1	6862	9234	1	\N
 #>E	ENSDARE00001162457	1.0	6862-9237
-KN149857.1	6913	7161	1.0	Cadherin_N	108.6	6913-7161	PF08266	http://pfam.sanger.ac.uk/family?acc=PF08266
-KN149857.1	8875	9129	1.0	Cadherin_C	79.6	8875-9129	PF16492	http://pfam.sanger.ac.uk/family?acc=PF16492
-KN149857.1	7891	8151	1.0	Cadherin	285.6	7891-8151	PF00028	http://pfam.sanger.ac.uk/family?acc=PF00028
-KN149857.1	8566	8808	1.0	Cadherin	285.6	8566-8808	PF00028	http://pfam.sanger.ac.uk/family?acc=PF00028
-KN149857.1	7564	7836	1.0	Cadherin	285.6	7564-7836	PF00028	http://pfam.sanger.ac.uk/family?acc=PF00028
-KN149857.1	7240	7524	1.0	Cadherin	285.6	7240-7524	PF00028	http://pfam.sanger.ac.uk/family?acc=PF00028
-KN149857.1	8194	8481	1.0	Cadherin	285.6	8194-8481	PF00028	http://pfam.sanger.ac.uk/family?acc=PF00028
+KN149857.1	6913	7161	1.0	Cadherin_N	108.6	6913-7161	PF08266	http://pfam.xfam.org/family/PF08266
+KN149857.1	8875	9129	1.0	Cadherin_C	79.6	8875-9129	PF16492	http://pfam.xfam.org/family/PF16492
+KN149857.1	7891	8151	1.0	Cadherin	285.6	7891-8151	PF00028	http://pfam.xfam.org/family/PF00028
+KN149857.1	8566	8808	1.0	Cadherin	285.6	8566-8808	PF00028	http://pfam.xfam.org/family/PF00028
+KN149857.1	7564	7836	1.0	Cadherin	285.6	7564-7836	PF00028	http://pfam.xfam.org/family/PF00028
+KN149857.1	7240	7524	1.0	Cadherin	285.6	7240-7524	PF00028	http://pfam.xfam.org/family/PF00028
+KN149857.1	8194	8481	1.0	Cadherin	285.6	8194-8481	PF00028	http://pfam.xfam.org/family/PF00028

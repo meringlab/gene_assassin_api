@@ -1,3 +1,3 @@
 #>P	WBGene00050896	F56F4.9	F56F4.9	I	6146676	6147065	1	TransThyretin-Related family domain  [Source:RefSeq peptide;Acc:NP_001122487]
 #>E	F56F4.9.e1,F56F4.9.e2	1,1	6146676-6146742,6146791-6147068
-I	6146676	6146963	1	Transthyretin-like	55.7	6146676-6146742,6146791-6146963	PF01060	http://pfam.sanger.ac.uk/family?acc=PF01060
+I	6146676	6146963	1	Transthyretin-like	55.7	6146676-6146742,6146791-6146963	PF01060	http://pfam.xfam.org/family/PF01060

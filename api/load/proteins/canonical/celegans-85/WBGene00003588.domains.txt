@@ -1,6 +1,6 @@
 #>P	WBGene00003588	ZC155.1.1	ZC155.1.1	III	5225624	5226642	1	Annexin  [Source:RefSeq peptide;Acc:NP_498109]
 #>E	ZC155.1.1.e1,ZC155.1.1.e2	0,1	5225624-5226136,5226190-5226645
-III	5225681	5225866	1	Annexin_repeat	253.9	5225681-5225866	PF00191	http://pfam.sanger.ac.uk/family?acc=PF00191
-III	5226235	5226387	1	Annexin_repeat	253.9	5226235-5226387	PF00191	http://pfam.sanger.ac.uk/family?acc=PF00191
-III	5225885	5226082	1	Annexin_repeat	253.9	5225885-5226082	PF00191	http://pfam.sanger.ac.uk/family?acc=PF00191
-III	5226418	5226615	1	Annexin_repeat	253.9	5226418-5226615	PF00191	http://pfam.sanger.ac.uk/family?acc=PF00191
+III	5225681	5225866	1	Annexin_repeat	253.9	5225681-5225866	PF00191	http://pfam.xfam.org/family/PF00191
+III	5226235	5226387	1	Annexin_repeat	253.9	5226235-5226387	PF00191	http://pfam.xfam.org/family/PF00191
+III	5225885	5226082	1	Annexin_repeat	253.9	5225885-5226082	PF00191	http://pfam.xfam.org/family/PF00191
+III	5226418	5226615	1	Annexin_repeat	253.9	5226418-5226615	PF00191	http://pfam.xfam.org/family/PF00191

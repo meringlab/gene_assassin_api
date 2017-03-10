@@ -1,3 +1,3 @@
 #>P	WBGene00010888	M18.2	M18.2	IV	12110698	12111500	-1	Probable dynein light chain 2, cytoplasmic  [Source:UniProtKB/Swiss-Prot;Acc:Q21557]
 #>E	M18.2.e2,M18.2.e1	1,1	12110695-12110727,12111261-12111500
-IV	12110704	12111488	-1	Dynein_light_chain_typ-1/2	91.8	12110704-12110727,12111261-12111488	PF01221	http://pfam.sanger.ac.uk/family?acc=PF01221
+IV	12110704	12111488	-1	Dynein_light_chain_typ-1/2	91.8	12110704-12110727,12111261-12111488	PF01221	http://pfam.xfam.org/family/PF01221

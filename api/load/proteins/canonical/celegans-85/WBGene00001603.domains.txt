@@ -1,4 +1,4 @@
 #>P	WBGene00001603	K03H1.1	K03H1.1	III	9943319	9944677	-1	Probable glutamine synthetase  [Source:UniProtKB/Swiss-Prot;Acc:P34497]
 #>E	K03H1.1.e4,K03H1.1.e3,K03H1.1.e2	1,1,1	9943316-9943727,9943773-9944124,9944338-9944677
-III	9944357	9944584	-1	Gln_synt_b-grasp	42.6	9944357-9944584	PF03951	http://pfam.sanger.ac.uk/family?acc=PF03951
-III	9943331	9944080	-1	Gln_synth_cat_dom	77.4	9943331-9943727,9943773-9944080	PF00120	http://pfam.sanger.ac.uk/family?acc=PF00120
+III	9944357	9944584	-1	Gln_synt_b-grasp	42.6	9944357-9944584	PF03951	http://pfam.xfam.org/family/PF03951
+III	9943331	9944080	-1	Gln_synth_cat_dom	77.4	9943331-9943727,9943773-9944080	PF00120	http://pfam.xfam.org/family/PF00120

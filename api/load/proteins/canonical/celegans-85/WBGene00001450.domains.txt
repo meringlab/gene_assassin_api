@@ -1,9 +1,9 @@
 #>P	WBGene00001450	F49E10.3	F49E10.3	X	5885867	5886612	1	FMRF-Like Peptide  [Source:RefSeq peptide;Acc:NP_508985]
 #>E	F49E10.3.e1,F49E10.3.e2,F49E10.3.e3,F49E10.3.e4	1,1,1,1	5885867-5885961,5886078-5886116,5886169-5886459,5886507-5886615
-X	5886239	5886265	1	FMRFamid-related_peptide-like	20	5886239-5886265	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-X	5886532	5886558	1	FMRFamid-related_peptide-like	20	5886532-5886558	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-X	5886323	5886349	1	FMRFamid-related_peptide-like	20	5886323-5886349	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-X	5886281	5886307	1	FMRFamid-related_peptide-like	20	5886281-5886307	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-X	5886374	5886391	1	FMRFamid-related_peptide-like	20	5886374-5886391	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-X	5886200	5886226	1	FMRFamid-related_peptide-like	20	5886200-5886226	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-X	5886407	5886430	1	FMRFamid-related_peptide-like	20	5886407-5886430	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+X	5886239	5886265	1	FMRFamid-related_peptide-like	20	5886239-5886265	PF01581	http://pfam.xfam.org/family/PF01581
+X	5886532	5886558	1	FMRFamid-related_peptide-like	20	5886532-5886558	PF01581	http://pfam.xfam.org/family/PF01581
+X	5886323	5886349	1	FMRFamid-related_peptide-like	20	5886323-5886349	PF01581	http://pfam.xfam.org/family/PF01581
+X	5886281	5886307	1	FMRFamid-related_peptide-like	20	5886281-5886307	PF01581	http://pfam.xfam.org/family/PF01581
+X	5886374	5886391	1	FMRFamid-related_peptide-like	20	5886374-5886391	PF01581	http://pfam.xfam.org/family/PF01581
+X	5886200	5886226	1	FMRFamid-related_peptide-like	20	5886200-5886226	PF01581	http://pfam.xfam.org/family/PF01581
+X	5886407	5886430	1	FMRFamid-related_peptide-like	20	5886407-5886430	PF01581	http://pfam.xfam.org/family/PF01581

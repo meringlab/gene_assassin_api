@@ -1,3 +1,3 @@
 #>P	WBGene00019703	M01D1.8	M01D1.8	II	1041367	1042302	-1	F-box B protein  [Source:RefSeq peptide;Acc:NP_493896]
 #>E	M01D1.8.e2,M01D1.8.e1	1,1	1041364-1042171,1042217-1042302
-II	1041574	1041747	-1	F-box-assoc_dom_typ2	43.1	1041574-1041747	PF07735	http://pfam.sanger.ac.uk/family?acc=PF07735
+II	1041574	1041747	-1	F-box-assoc_dom_typ2	43.1	1041574-1041747	PF07735	http://pfam.xfam.org/family/PF07735

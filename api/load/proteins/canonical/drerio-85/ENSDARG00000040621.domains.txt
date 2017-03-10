@@ -1,7 +1,7 @@
 #>P	ENSDARG00000040621	ENSDART00000059478	ENSDARP00000059477	10	252425	257040	1	leucine rich repeat containing 32 [Source:ZFIN;Acc:ZDB-GENE-090630-1]
 #>E	ENSDARE00000893436,ENSDARE00000440403	1,1	252425-252511,255151-257043
-10	255508	255690	1	Leu-rich_rpt	206.4	255508-255690	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
-10	255283	255471	1	Leu-rich_rpt	206.4	255283-255471	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
-10	256381	256563	1	Leu-rich_rpt	206.4	256381-256563	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
-10	256018	256185	1	Leu-rich_rpt	206.4	256018-256185	PF13855	http://pfam.sanger.ac.uk/family?acc=PF13855
-10	255718	255768	1	Leu-rich_rpt	57.3	255718-255768	PF00560	http://pfam.sanger.ac.uk/family?acc=PF00560
+10	255508	255690	1	Leu-rich_rpt	206.4	255508-255690	PF13855	http://pfam.xfam.org/family/PF13855
+10	255283	255471	1	Leu-rich_rpt	206.4	255283-255471	PF13855	http://pfam.xfam.org/family/PF13855
+10	256381	256563	1	Leu-rich_rpt	206.4	256381-256563	PF13855	http://pfam.xfam.org/family/PF13855
+10	256018	256185	1	Leu-rich_rpt	206.4	256018-256185	PF13855	http://pfam.xfam.org/family/PF13855
+10	255718	255768	1	Leu-rich_rpt	57.3	255718-255768	PF00560	http://pfam.xfam.org/family/PF00560

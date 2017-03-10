@@ -1,5 +1,5 @@
 #>P	WBGene00015186	B0432.4.2	B0432.4.2	II	286633	288470	1	MItochondrial Solute Carrier  [Source:RefSeq peptide;Acc:NP_493694]
 #>E	B0432.4.1.e1,B0432.4.1.e2,B0432.4.1.e3,B0432.4.1.e4,B0432.4.2.e5	1,1,1,1,0	286633-286691,286768-287004,287118-287266,287879-288195,288315-288473
-II	286654	287002	1	Mitochondrial_sb/sol_carrier	204.2	286654-286691,286768-287002	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-II	287125	288021	1	Mitochondrial_sb/sol_carrier	204.2	287125-287266,287879-288021	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-II	288043	288437	1	Mitochondrial_sb/sol_carrier	204.2	288043-288195,288315-288437	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+II	286654	287002	1	Mitochondrial_sb/sol_carrier	204.2	286654-286691,286768-287002	PF00153	http://pfam.xfam.org/family/PF00153
+II	287125	288021	1	Mitochondrial_sb/sol_carrier	204.2	287125-287266,287879-288021	PF00153	http://pfam.xfam.org/family/PF00153
+II	288043	288437	1	Mitochondrial_sb/sol_carrier	204.2	288043-288195,288315-288437	PF00153	http://pfam.xfam.org/family/PF00153

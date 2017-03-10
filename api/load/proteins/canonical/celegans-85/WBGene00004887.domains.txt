@@ -1,3 +1,3 @@
 #>P	WBGene00004887	C41G7.1b	C41G7.1b	I	9511286	9512098	-1	SMN (human Survival Motor Neuron gene) homolog  [Source:RefSeq peptide;Acc:NP_492525]
 #>E	C41G7.1a.e4,C41G7.1a.e3,C41G7.1a.e2,C41G7.1b.e2,C41G7.1b.e1	1,1,1,0,0	9511283-9511497,9511545-9511785,9511834-9511899,9511943-9512020,9512075-9512098
-I	9511304	9511441	-1	Survival_motor_neuron	72.8	9511304-9511441	PF06003	http://pfam.sanger.ac.uk/family?acc=PF06003
+I	9511304	9511441	-1	Survival_motor_neuron	72.8	9511304-9511441	PF06003	http://pfam.xfam.org/family/PF06003

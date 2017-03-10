@@ -1,4 +1,4 @@
 #>P	WBGene00004822	C42D4.6	C42D4.6	IV	7168710	7169252	1	SKp1 Related (ubiquitin ligase complex component)  [Source:RefSeq peptide;Acc:NP_501128]
 #>E	C42D4.6.e1	1.0	7168710-7169255
-IV	7169025	7169222	1.0	Skp1_comp_dimer	72.1	7169025-7169222	PF01466	http://pfam.sanger.ac.uk/family?acc=PF01466
-IV	7168803	7168982	1.0	Skp1_comp_POZ	37.7	7168803-7168982	PF03931	http://pfam.sanger.ac.uk/family?acc=PF03931
+IV	7169025	7169222	1.0	Skp1_comp_dimer	72.1	7169025-7169222	PF01466	http://pfam.xfam.org/family/PF01466
+IV	7168803	7168982	1.0	Skp1_comp_POZ	37.7	7168803-7168982	PF03931	http://pfam.xfam.org/family/PF03931

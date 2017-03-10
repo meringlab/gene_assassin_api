@@ -1,5 +1,5 @@
 #>P	WBGene00006729	K07B1.3	K07B1.3	V	9334773	9336361	1	UnCoupling Protein (mitochondrial substrate carrier)  [Source:RefSeq peptide;Acc:NP_505414]
 #>E	K07B1.3.e1,K07B1.3.e2,K07B1.3.e3,K07B1.3.e4,K07B1.3.e5,K07B1.3.e6	1,1,1,1,1,1	9334773-9334850,9334902-9335007,9335061-9335212,9335259-9335573,9335992-9336119,9336169-9336364
-V	9335271	9335561	1	Mitochondrial_sb/sol_carrier	218.6	9335271-9335561	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-V	9334839	9335206	1	Mitochondrial_sb/sol_carrier	218.6	9334839-9334850,9334902-9335007,9335061-9335206	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
-V	9335995	9336343	1	Mitochondrial_sb/sol_carrier	218.6	9335995-9336119,9336169-9336343	PF00153	http://pfam.sanger.ac.uk/family?acc=PF00153
+V	9335271	9335561	1	Mitochondrial_sb/sol_carrier	218.6	9335271-9335561	PF00153	http://pfam.xfam.org/family/PF00153
+V	9334839	9335206	1	Mitochondrial_sb/sol_carrier	218.6	9334839-9334850,9334902-9335007,9335061-9335206	PF00153	http://pfam.xfam.org/family/PF00153
+V	9335995	9336343	1	Mitochondrial_sb/sol_carrier	218.6	9335995-9336119,9336169-9336343	PF00153	http://pfam.xfam.org/family/PF00153

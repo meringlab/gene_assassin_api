@@ -1,11 +1,11 @@
 #>P	WBGene00001456	F33D4.3	F33D4.3	IV	7697162	7698368	-1	FMRFamide-like neuropeptides 13 SDRPTRAMDSPLIRF-amide AMDSPLIRF-amide AADGAPLIRF-amide 1 APEASPFIRF-amide 1 AADGAPLIRF-amide 2 APEASPFIRF-amide 2 ASPSAPLIRF-amide SPSAVPLIRF-amide SAAAPLIRF-amide ASSAPLIRF-amide [Source:UniProtKB/Swiss-Prot;Acc:O44185]
 #>E	F33D4.3.e3,F33D4.3.e2,F33D4.3.e1	1,1,1	7697159-7697351,7697677-7697878,7698281-7698368
-IV	7697231	7697251	-1	FMRFamid-related_peptide-like	69.4	7697231-7697251	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-IV	7697706	7697732	-1	FMRFamid-related_peptide-like	69.4	7697706-7697732	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-IV	7697267	7697293	-1	FMRFamid-related_peptide-like	69.4	7697267-7697293	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-IV	7697165	7697188	-1	FMRFamid-related_peptide-like	69.4	7697165-7697188	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-IV	7697742	7697762	-1	FMRFamid-related_peptide-like	69.4	7697742-7697762	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-IV	7697306	7697332	-1	FMRFamid-related_peptide-like	69.4	7697306-7697332	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-IV	7697781	7697810	-1	FMRFamid-related_peptide-like	69.4	7697781-7697810	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-IV	7697198	7697221	-1	FMRFamid-related_peptide-like	69.4	7697198-7697221	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-IV	7697342	7697687	-1	FMRFamid-related_peptide-like	69.4	7697342-7697351,7697677-7697687	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+IV	7697231	7697251	-1	FMRFamid-related_peptide-like	69.4	7697231-7697251	PF01581	http://pfam.xfam.org/family/PF01581
+IV	7697706	7697732	-1	FMRFamid-related_peptide-like	69.4	7697706-7697732	PF01581	http://pfam.xfam.org/family/PF01581
+IV	7697267	7697293	-1	FMRFamid-related_peptide-like	69.4	7697267-7697293	PF01581	http://pfam.xfam.org/family/PF01581
+IV	7697165	7697188	-1	FMRFamid-related_peptide-like	69.4	7697165-7697188	PF01581	http://pfam.xfam.org/family/PF01581
+IV	7697742	7697762	-1	FMRFamid-related_peptide-like	69.4	7697742-7697762	PF01581	http://pfam.xfam.org/family/PF01581
+IV	7697306	7697332	-1	FMRFamid-related_peptide-like	69.4	7697306-7697332	PF01581	http://pfam.xfam.org/family/PF01581
+IV	7697781	7697810	-1	FMRFamid-related_peptide-like	69.4	7697781-7697810	PF01581	http://pfam.xfam.org/family/PF01581
+IV	7697198	7697221	-1	FMRFamid-related_peptide-like	69.4	7697198-7697221	PF01581	http://pfam.xfam.org/family/PF01581
+IV	7697342	7697687	-1	FMRFamid-related_peptide-like	69.4	7697342-7697351,7697677-7697687	PF01581	http://pfam.xfam.org/family/PF01581

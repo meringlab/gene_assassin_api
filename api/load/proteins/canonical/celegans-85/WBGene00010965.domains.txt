@@ -1,3 +1,3 @@
 #>P	WBGene00010965	MTCE.31	MTCE.31	MtDNA	9649	10338	1	Cytochrome c oxidase subunit 2  [Source:UniProtKB/Swiss-Prot;Acc:P24894]
 #>E	MTCE.31.e1	1.0	9649-10341
-MtDNA	9940	10293	1.0	Cyt_c_oxidase_su2_C	162.6	9940-10293	PF00116	http://pfam.sanger.ac.uk/family?acc=PF00116
+MtDNA	9940	10293	1.0	Cyt_c_oxidase_su2_C	162.6	9940-10293	PF00116	http://pfam.xfam.org/family/PF00116

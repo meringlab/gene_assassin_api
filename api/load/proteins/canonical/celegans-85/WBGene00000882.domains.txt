@@ -1,3 +1,3 @@
 #>P	WBGene00000882	F42G9.2	F42G9.2	III	773414	774062	1	Peptidyl-prolyl cis-trans isomerase 6  [Source:UniProtKB/Swiss-Prot;Acc:P52014]
 #>E	F42G9.2.e1,F42G9.2.e2	1,1	773414-773611,773658-774065
-III	773501	774014	1	Cyclophilin-type_PPIase_dom	167	773501-773611,773658-774014	PF00160	http://pfam.sanger.ac.uk/family?acc=PF00160
+III	773501	774014	1	Cyclophilin-type_PPIase_dom	167	773501-773611,773658-774014	PF00160	http://pfam.xfam.org/family/PF00160

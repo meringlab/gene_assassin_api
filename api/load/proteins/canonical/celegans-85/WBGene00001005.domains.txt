@@ -1,3 +1,3 @@
 #>P	WBGene00001005	T26A5.9.3	T26A5.9.3	III	6463218	6463764	-1	Dynein light chain 1, cytoplasmic  [Source:UniProtKB/Swiss-Prot;Acc:Q22799]
 #>E	T26A5.9.2.e2,T26A5.9.3.e1	0,0	6463215-6463392,6463673-6463764
-III	6463221	6463752	-1	Dynein_light_chain_typ-1/2	150.3	6463221-6463392,6463673-6463752	PF01221	http://pfam.sanger.ac.uk/family?acc=PF01221
+III	6463221	6463752	-1	Dynein_light_chain_typ-1/2	150.3	6463221-6463392,6463673-6463752	PF01221	http://pfam.xfam.org/family/PF01221

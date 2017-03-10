@@ -1,5 +1,5 @@
 #>P	WBGene00011791	T15H9.6	T15H9.6	II	9607735	9609396	-1	\N
 #>E	T15H9.6.e1	1.0	9607732-9609396
-II	9608128	9608307	-1.0	PolA_pol_RNA-bd_dom	58.6	9608128-9608307	PF04926	http://pfam.sanger.ac.uk/family?acc=PF04926
-II	9608314	9609354	-1.0	PolA_pol_cen_dom	350.1	9608314-9609354	PF04928	http://pfam.sanger.ac.uk/family?acc=PF04928
-II	9608896	9609156	-1.0	Polymerase_NTP_transf_dom	41.4	9608896-9609156	PF01909	http://pfam.sanger.ac.uk/family?acc=PF01909
+II	9608128	9608307	-1.0	PolA_pol_RNA-bd_dom	58.6	9608128-9608307	PF04926	http://pfam.xfam.org/family/PF04926
+II	9608314	9609354	-1.0	PolA_pol_cen_dom	350.1	9608314-9609354	PF04928	http://pfam.xfam.org/family/PF04928
+II	9608896	9609156	-1.0	Polymerase_NTP_transf_dom	41.4	9608896-9609156	PF01909	http://pfam.xfam.org/family/PF01909

@@ -1,5 +1,5 @@
 #>P	WBGene00001448	C03G5.7.1	C03G5.7.1	X	8528322	8530837	1	FMRFamide-like neuropeptides 5 APKPKFIRF-amide AGAKFIRF-amide GAKFIRF-amide [Source:UniProtKB/Swiss-Prot;Acc:O61466]
 #>E	C03G5.7.1.e1,C03G5.7.1.e2,C03G5.7.1.e3	0,1,1	8528322-8528401,8530032-8530155,8530766-8530840
-X	8530087	8530110	1	FMRFamid-related_peptide-like	19	8530087-8530110	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-X	8530817	8530837	1	FMRFamid-related_peptide-like	19	8530817-8530837	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
-X	8530120	8530140	1	FMRFamid-related_peptide-like	19	8530120-8530140	PF01581	http://pfam.sanger.ac.uk/family?acc=PF01581
+X	8530087	8530110	1	FMRFamid-related_peptide-like	19	8530087-8530110	PF01581	http://pfam.xfam.org/family/PF01581
+X	8530817	8530837	1	FMRFamid-related_peptide-like	19	8530817-8530837	PF01581	http://pfam.xfam.org/family/PF01581
+X	8530120	8530140	1	FMRFamid-related_peptide-like	19	8530120-8530140	PF01581	http://pfam.xfam.org/family/PF01581

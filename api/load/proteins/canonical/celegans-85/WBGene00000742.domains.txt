@@ -1,5 +1,5 @@
 #>P	WBGene00000742	T10E10.5	T10E10.5	X	6329160	6330059	1	COLlagen  [Source:RefSeq peptide;Acc:NP_872255]
 #>E	T10E10.5.e1	1.0	6329160-6330062
-X	6329217	6329363	1.0	Col_cuticle_N	65.8	6329217-6329363	PF01484	http://pfam.sanger.ac.uk/family?acc=PF01484
-X	6329835	6330008	1.0	Collagen	75.9	6329835-6330008	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
-X	6329634	6329810	1.0	Collagen	75.9	6329634-6329810	PF01391	http://pfam.sanger.ac.uk/family?acc=PF01391
+X	6329217	6329363	1.0	Col_cuticle_N	65.8	6329217-6329363	PF01484	http://pfam.xfam.org/family/PF01484
+X	6329835	6330008	1.0	Collagen	75.9	6329835-6330008	PF01391	http://pfam.xfam.org/family/PF01391
+X	6329634	6329810	1.0	Collagen	75.9	6329634-6329810	PF01391	http://pfam.xfam.org/family/PF01391

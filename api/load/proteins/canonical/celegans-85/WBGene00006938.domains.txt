@@ -1,3 +1,3 @@
 #>P	WBGene00006938	F35H8.7	F35H8.7	II	9581968	9583548	-1	Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase wee-1.1  [Source:UniProtKB/Swiss-Prot;Acc:Q20085]
 #>E	F35H8.7.e4,F35H8.7.e3,F35H8.7.e2,F35H8.7.e1	1,1,1,1	9581965-9582255,9582308-9582670,9582714-9583216,9583299-9583548
-II	9582362	9583148	-1	Prot_kinase_dom	144.1	9582362-9582670,9582714-9583148	PF00069	http://pfam.sanger.ac.uk/family?acc=PF00069
+II	9582362	9583148	-1	Prot_kinase_dom	144.1	9582362-9582670,9582714-9583148	PF00069	http://pfam.xfam.org/family/PF00069

@@ -1,5 +1,5 @@
 #>P	ENSDARG00000096519	ENSDART00000152235	ENSDARP00000126990	12	2626000	2628735	1	interphotoreceptor retinoid-binding protein like [Source:ZFIN;Acc:ZDB-GENE-070301-4]
 #>E	ENSDARE00001109690	1.0	2626000-2628738
-12	2628133	2628660	1.0	Tail-specific_protease	230.6	2628133-2628660	PF03572	http://pfam.sanger.ac.uk/family?acc=PF03572
-12	2627248	2627766	1.0	Tail-specific_protease	230.6	2627248-2627766	PF03572	http://pfam.sanger.ac.uk/family?acc=PF03572
-12	2626372	2626899	1.0	Tail-specific_protease	230.6	2626372-2626899	PF03572	http://pfam.sanger.ac.uk/family?acc=PF03572
+12	2628133	2628660	1.0	Tail-specific_protease	230.6	2628133-2628660	PF03572	http://pfam.xfam.org/family/PF03572
+12	2627248	2627766	1.0	Tail-specific_protease	230.6	2627248-2627766	PF03572	http://pfam.xfam.org/family/PF03572
+12	2626372	2626899	1.0	Tail-specific_protease	230.6	2626372-2626899	PF03572	http://pfam.xfam.org/family/PF03572

@@ -1,5 +1,5 @@
 #>P	WBGene00002114	T10D4.4	T10D4.4	II	3127041	3127787	1	INSulin related  [Source:RefSeq peptide;Acc:NP_494454]
 #>E	T10D4.4.e1,T10D4.4.e2,T10D4.4.e3	1,1,1	3127041-3127368,3127412-3127603,3127654-3127790
-II	3127317	3127509	1	Nem_insulin-rel_b-typ	158.8	3127317-3127368,3127412-3127509	PF03488	http://pfam.sanger.ac.uk/family?acc=PF03488
-II	3127128	3127271	1	Nem_insulin-rel_b-typ	158.8	3127128-3127271	PF03488	http://pfam.sanger.ac.uk/family?acc=PF03488
-II	3127552	3127751	1	Nem_insulin-rel_b-typ	158.8	3127552-3127603,3127654-3127751	PF03488	http://pfam.sanger.ac.uk/family?acc=PF03488
+II	3127317	3127509	1	Nem_insulin-rel_b-typ	158.8	3127317-3127368,3127412-3127509	PF03488	http://pfam.xfam.org/family/PF03488
+II	3127128	3127271	1	Nem_insulin-rel_b-typ	158.8	3127128-3127271	PF03488	http://pfam.xfam.org/family/PF03488
+II	3127552	3127751	1	Nem_insulin-rel_b-typ	158.8	3127552-3127603,3127654-3127751	PF03488	http://pfam.xfam.org/family/PF03488

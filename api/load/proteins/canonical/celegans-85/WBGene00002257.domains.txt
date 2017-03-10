@@ -1,3 +1,3 @@
 #>P	WBGene00002257	W02D3.7	W02D3.7	I	6731333	6732269	-1	Fatty acid-binding protein homolog 5  [Source:UniProtKB/Swiss-Prot;Acc:O01814]
 #>E	W02D3.7.e2,W02D3.7.e1	1,1	6731330-6731530,6732060-6732269
-I	6731375	6732248	-1	Lipocln_cytosolic_FA-bd_dom	81.4	6731375-6731530,6732060-6732248	PF00061	http://pfam.sanger.ac.uk/family?acc=PF00061
+I	6731375	6732248	-1	Lipocln_cytosolic_FA-bd_dom	81.4	6731375-6731530,6732060-6732248	PF00061	http://pfam.xfam.org/family/PF00061
