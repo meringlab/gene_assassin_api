@@ -181,14 +181,15 @@ function Storage(_db) {
         return d.promise
     }
 
-  function query(resultType, species, chromosome, start, end){
+    function query(resultType, species, chromosome, start, end) {
         var startingTime = process.hrtime()
         var d = when.defer()
-        queryGenomicRegion(resultType, species, chromosome, start, end, 1000, function (docs) {
+
+        function resultsCollector(docs) {
             var diff = process.hrtime(startingTime)
             var elapsed = diff[1] / 1000000; // divide by a million to get from nano to milli
             var elapsedTimeInMilliSeconds = Math.round(diff[0] * 1000 + elapsed)
-            docs.forEach(function (el) {
+            docs.forEach(function(el) {
                 delete el._id
             });
 
@@ -198,10 +199,11 @@ function Storage(_db) {
                 'numResults': docs.length,
                 'numTotalResults': docs.length,
                 'dbTime': elapsedTimeInMilliSeconds + 'ms',
-                'queryOptions' : {'species': species, chromosome: chromosome, start: start, end: end},
+                'queryOptions': { 'species': species, chromosome: chromosome, start: start, end: end },
                 'result': docs
             })
-        }, function (err) {
+        };
+        queryGenomicRegion(resultType, species, chromosome, start, end, 1000, resultsCollector, function(err) {
             deferredImport.reject(err);
         });
 
@@ -251,11 +253,11 @@ function Storage(_db) {
         db.collection(collection).find(query, {limit: limit}).toArray(function (err, docs) {
             if (err) {
                 log.error(err, 'failed to get %s on [%s,%s,%s]', collection, chromosome, start, end)
-                var e = Error("domainsInGenomicRegion FAILED: " + err.message);
-                errorHandler(e)
-                return
+                var e = Error("queryGenomicRegion FAILED: " + err.message);
+                errorHandler(e);
+                return;
             }
-            resultsCollector(docs)
+            resultsCollector(docs);
         })
 
     }
