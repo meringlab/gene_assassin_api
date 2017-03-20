@@ -181,7 +181,7 @@ function Storage(_db) {
         return d.promise
     }
 
-    function query(resultType, species, chromosome, start, end) {
+    function query(resultType, species, chromosome, start, end, featureSizeConst) {
         var startingTime = process.hrtime()
         var d = when.defer()
 
@@ -203,9 +203,22 @@ function Storage(_db) {
                 'result': docs
             })
         };
-        queryGenomicRegion(resultType, species, chromosome, start, end, 1000, resultsCollector, function(err) {
-            deferredImport.reject(err);
-        });
+        if (featureSizeConst === undefined) {
+            queryGenomicRegion(resultType, species, chromosome, start, end, 1000, resultsCollector, function(err) {
+                deferredImport.reject(err);
+            });
+        } else {
+            const query = {
+                //TODO check border conditionst
+                chromosome: chromosome, $and: [
+                    {start: {$gt: start - featureSizeConst + 1}},
+                    {start: {$lt: end}}
+                ]
+            };
+            queryCollection(resultType, query, 1000, chromosome, start, end, resultsCollector, function(err) {
+                deferredImport.reject(err);
+            });
+        }
 
         return d.promise
     }
@@ -215,7 +228,7 @@ function Storage(_db) {
     };
 
     this.guidesInGenomicRegion = function guidesInGenomicRegion(species, chromosome, start, end) {
-        return query('guides', species, chromosome, start, end);
+        return query('guides', species, chromosome, start, end, 20);
     }
 
   /**
@@ -235,6 +248,19 @@ function Storage(_db) {
         return d.promise
     }
 
+    function queryCollection(collection, query, limit, chromosome, start, end, resultsCollector, errorHandler) {
+//var db = client.db(species)
+        db.collection(collection).find(query, { limit: limit }).toArray(function(err, docs) {
+            if (err) {
+                log.error(err, 'failed to get %s on [%s,%s,%s]', collection, chromosome, start, end)
+                var e = Error("queryGenomicRegion FAILED: " + err.message);
+                errorHandler(e);
+                return;
+            }
+            resultsCollector(docs);
+        })
+    }
+
     function queryGenomicRegion(collection, species, chromosome, start, end, limit, resultsCollector, errorHandler) {
         log.info('queryGenomicRegion(%s, %s, %s, %s, %s)', collection, species, chromosome, start, end)
         limit = limit || 100;
@@ -249,16 +275,7 @@ function Storage(_db) {
                 {start: {$lt: end}, end: {$gt: start}}
             ]
         };
-        //var db = client.db(species)
-        db.collection(collection).find(query, {limit: limit}).toArray(function (err, docs) {
-            if (err) {
-                log.error(err, 'failed to get %s on [%s,%s,%s]', collection, chromosome, start, end)
-                var e = Error("queryGenomicRegion FAILED: " + err.message);
-                errorHandler(e);
-                return;
-            }
-            resultsCollector(docs);
-        })
+        queryCollection(collection, query, limit, chromosome, start, end, resultsCollector, errorHandler);
 
     }
 
