@@ -1,4 +1,4 @@
 #>P	WBGene00004823	C06A8.4	C06A8.4	II	7783878	7784466	1	SKp1 Related (ubiquitin ligase complex component)  [Source:RefSeq peptide;Acc:NP_495638]
 #>E	C06A8.4.e1,C06A8.4.e2	1,1	7783878-7783915,7783965-7784469
-II	7783999	7784193	1	Skp1_comp_POZ	33.1	7783999-7784193	PF03931	http://pfam.sanger.ac.uk/family?acc=PF03931
-II	7784248	7784433	1	Skp1_comp_dimer	67	7784248-7784433	PF01466	http://pfam.sanger.ac.uk/family?acc=PF01466
+II	7783999	7784193	1	Skp1_comp_POZ	33.1	7783999-7784193	PF03931	http://pfam.xfam.org/family/PF03931
+II	7784248	7784433	1	Skp1_comp_dimer	67	7784248-7784433	PF01466	http://pfam.xfam.org/family/PF01466

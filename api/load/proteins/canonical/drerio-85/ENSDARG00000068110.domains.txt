@@ -1,4 +1,4 @@
 #>P	ENSDARG00000068110	ENSDART00000098311	ENSDARP00000089083	3	40874	42367	-1	potassium voltage-gated channel subfamily J member 4 [Source:HGNC Symbol;Acc:HGNC:6265]
 #>E	ENSDARE00001150930,ENSDARE00000699200,ENSDARE00000699203	1,1,1	40871-41002,41042-42165,42259-42367
-3	41162	42139	-1	K_chnl_inward-rec_Kir	508.1	41162-42139	PF01007	http://pfam.sanger.ac.uk/family?acc=PF01007
-3	42140	42346	-1	K_chnl_inward-rec_Kir_N	53.1	42140-42165,42259-42346	PF08466	http://pfam.sanger.ac.uk/family?acc=PF08466
+3	41162	42139	-1	K_chnl_inward-rec_Kir	508.1	41162-42139	PF01007	http://pfam.xfam.org/family/PF01007
+3	42140	42346	-1	K_chnl_inward-rec_Kir_N	53.1	42140-42165,42259-42346	PF08466	http://pfam.xfam.org/family/PF08466

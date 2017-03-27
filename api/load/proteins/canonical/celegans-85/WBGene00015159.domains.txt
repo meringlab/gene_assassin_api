@@ -1,3 +1,3 @@
 #>P	WBGene00015159	B0361.5b	B0361.5b	III	7268701	7275380	-1	Phosphatidylserine decarboxylase proenzyme Phosphatidylserine decarboxylase alpha chain Phosphatidylserine decarboxylase beta chain [Source:UniProtKB/Swiss-Prot;Acc:Q10949]
 #>E	B0361.5a.e4,B0361.5a.e3,B0361.5a.e2,B0361.5b.e2,B0361.5b.e1	1,1,1,0,0	7268698-7269007,7269199-7269728,7270258-7270382,7275051-7275159,7275321-7275380
-III	7268713	7269557	-1	PS_Dcarbxylase	197.7	7268713-7269007,7269199-7269557	PF02666	http://pfam.sanger.ac.uk/family?acc=PF02666
+III	7268713	7269557	-1	PS_Dcarbxylase	197.7	7268713-7269007,7269199-7269557	PF02666	http://pfam.xfam.org/family/PF02666

@@ -1,15 +1,15 @@
 #>P	ENSDARG00000091090	ENSDART00000121875	ENSDARP00000105380	9	49757932	49766979	-1	xin actin binding repeat containing 2b [Source:ZFIN;Acc:ZDB-GENE-030521-26]
 #>E	ENSDARE00000944019,ENSDARE00000941470,ENSDARE00000897301,ENSDARE00000968166	0,0,0,0	49757929-49758645,49758676-49760706,49760806-49765365,49765804-49766979
-9	49766608	49766655	-1	Actin-binding_Xin_repeat	440.8	49766608-49766655	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
-9	49763536	49763583	-1	Actin-binding_Xin_repeat	440.8	49763536-49763583	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
-9	49763839	49763886	-1	Actin-binding_Xin_repeat	440.8	49763839-49763886	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
-9	49765168	49765212	-1	Actin-binding_Xin_repeat	440.8	49765168-49765212	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
-9	49764619	49764666	-1	Actin-binding_Xin_repeat	440.8	49764619-49764666	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
-9	49766386	49766430	-1	Actin-binding_Xin_repeat	440.8	49766386-49766430	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
-9	49764175	49764222	-1	Actin-binding_Xin_repeat	440.8	49764175-49764222	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
-9	49764514	49764561	-1	Actin-binding_Xin_repeat	440.8	49764514-49764561	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
-9	49763326	49763364	-1	Actin-binding_Xin_repeat	440.8	49763326-49763364	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
-9	49764736	49764783	-1	Actin-binding_Xin_repeat	440.8	49764736-49764783	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
-9	49764850	49764897	-1	Actin-binding_Xin_repeat	440.8	49764850-49764897	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
-9	49763953	49764000	-1	Actin-binding_Xin_repeat	440.8	49763953-49764000	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
-9	49763728	49763775	-1	Actin-binding_Xin_repeat	440.8	49763728-49763775	PF08043	http://pfam.sanger.ac.uk/family?acc=PF08043
+9	49766608	49766655	-1	Actin-binding_Xin_repeat	440.8	49766608-49766655	PF08043	http://pfam.xfam.org/family/PF08043
+9	49763536	49763583	-1	Actin-binding_Xin_repeat	440.8	49763536-49763583	PF08043	http://pfam.xfam.org/family/PF08043
+9	49763839	49763886	-1	Actin-binding_Xin_repeat	440.8	49763839-49763886	PF08043	http://pfam.xfam.org/family/PF08043
+9	49765168	49765212	-1	Actin-binding_Xin_repeat	440.8	49765168-49765212	PF08043	http://pfam.xfam.org/family/PF08043
+9	49764619	49764666	-1	Actin-binding_Xin_repeat	440.8	49764619-49764666	PF08043	http://pfam.xfam.org/family/PF08043
+9	49766386	49766430	-1	Actin-binding_Xin_repeat	440.8	49766386-49766430	PF08043	http://pfam.xfam.org/family/PF08043
+9	49764175	49764222	-1	Actin-binding_Xin_repeat	440.8	49764175-49764222	PF08043	http://pfam.xfam.org/family/PF08043
+9	49764514	49764561	-1	Actin-binding_Xin_repeat	440.8	49764514-49764561	PF08043	http://pfam.xfam.org/family/PF08043
+9	49763326	49763364	-1	Actin-binding_Xin_repeat	440.8	49763326-49763364	PF08043	http://pfam.xfam.org/family/PF08043
+9	49764736	49764783	-1	Actin-binding_Xin_repeat	440.8	49764736-49764783	PF08043	http://pfam.xfam.org/family/PF08043
+9	49764850	49764897	-1	Actin-binding_Xin_repeat	440.8	49764850-49764897	PF08043	http://pfam.xfam.org/family/PF08043
+9	49763953	49764000	-1	Actin-binding_Xin_repeat	440.8	49763953-49764000	PF08043	http://pfam.xfam.org/family/PF08043
+9	49763728	49763775	-1	Actin-binding_Xin_repeat	440.8	49763728-49763775	PF08043	http://pfam.xfam.org/family/PF08043

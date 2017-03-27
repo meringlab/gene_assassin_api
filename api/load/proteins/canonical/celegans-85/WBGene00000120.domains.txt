@@ -1,3 +1,3 @@
 #>P	WBGene00000120	C01F6.5	C01F6.5	IV	9108946	9109663	1	Ref/ALY RNA export adaptor family  [Source:RefSeq peptide;Acc:NP_501588]
 #>E	C01F6.5.e1,C01F6.5.e2	1,1	9108946-9109147,9109197-9109666
-IV	9109517	9109660	1	FoP_duplication	27.6	9109517-9109660	PF13865	http://pfam.sanger.ac.uk/family?acc=PF13865
+IV	9109517	9109660	1	FoP_duplication	27.6	9109517-9109660	PF13865	http://pfam.xfam.org/family/PF13865

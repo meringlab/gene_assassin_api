@@ -1,4 +1,4 @@
 #>P	WBGene00001564	C05E4.9a	C05E4.9a	V	724460	727957	-1	Bifunctional glyoxylate cycle protein Isocitrate lyase Malate synthase [Source:UniProtKB/Swiss-Prot;Acc:Q10663]
 #>E	C05E4.9a.e5,C05E4.9a.e4,C05E4.9a.e3,C05E4.9a.e2,C05E4.9a.e1	0,0,1,1,1	724457-724782,724835-726083,726152-726979,727385-727858,727928-727957
-V	726191	726745	-1	Isocitrate_lyase	361.2	726191-726745	PF00463	http://pfam.sanger.ac.uk/family?acc=PF00463
-V	724472	726077	-1	Malate_synthase	653.1	724472-724782,724835-726077	PF01274	http://pfam.sanger.ac.uk/family?acc=PF01274
+V	726191	726745	-1	Isocitrate_lyase	361.2	726191-726745	PF00463	http://pfam.xfam.org/family/PF00463
+V	724472	726077	-1	Malate_synthase	653.1	724472-724782,724835-726077	PF01274	http://pfam.xfam.org/family/PF01274

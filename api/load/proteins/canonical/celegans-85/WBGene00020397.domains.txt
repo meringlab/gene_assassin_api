@@ -1,3 +1,3 @@
 #>P	WBGene00020397	T10B11.1	T10B11.1	I	6951242	6951892	1	Putative pterin-4-alpha-carbinolamine dehydratase  [Source:UniProtKB/Swiss-Prot;Acc:Q9TZH6]
 #>E	T10B11.1.e1,T10B11.1.e2,T10B11.1.e3	1,1,1	6951242-6951376,6951552-6951671,6951722-6951895
-I	6951558	6951883	1	Trans/pterin_deHydtase	109.4	6951558-6951671,6951722-6951883	PF01329	http://pfam.sanger.ac.uk/family?acc=PF01329
+I	6951558	6951883	1	Trans/pterin_deHydtase	109.4	6951558-6951671,6951722-6951883	PF01329	http://pfam.xfam.org/family/PF01329
