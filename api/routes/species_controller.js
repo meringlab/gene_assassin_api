@@ -49,7 +49,7 @@ router.param('species', function (req, res, next, species) {
   }
 });
 
-_und.forEach(['proteins','domains','guides'/*,'primers'*/], function(place) {
+_und.forEach(['proteins','domains','guides','primers'], function(place) {
   router.use(`/:species/${place}`, require(`./${place}`));
 });
 router.use('/:species/', require('./index'));
