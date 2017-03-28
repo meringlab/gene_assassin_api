@@ -29,8 +29,8 @@ router.get('/chromosome/:chromosome', function (req, res, next) {
         },
         function (err) {
             //TODO handle error!
-            log.error(err, 'failed to load domains [%s, %s, %s]', req.chromosome, req.query.start, req.query.end)
-            return next(new Error('failed to load domains: ' + err.message));
+            log.error(err, 'failed to load primers [%s, %s, %s]', req.chromosome, req.query.start, req.query.end);
+            return next(new Error('failed to load primers: ' + err.message));
         });
 });
 
