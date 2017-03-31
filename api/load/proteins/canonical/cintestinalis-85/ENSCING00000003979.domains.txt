@@ -1,0 +1,5 @@
+#>P	ENSCING00000003979	ENSCINT00000008195	ENSCINP00000008195	1	343088	343891	-1	\N
+#>E	ENSCINE00000222588	1.0	343085-343891
+1	343661	343885	-1.0	Mitochondrial_sb/sol_carrier	53.3	343661-343885	PF00153	http://pfam.xfam.org/family/PF00153
+1	343382	343636	-1.0	Mitochondrial_sb/sol_carrier	52.4	343382-343636	PF00153	http://pfam.xfam.org/family/PF00153
+1	343094	343363	-1.0	Mitochondrial_sb/sol_carrier	72.1	343094-343363	PF00153	http://pfam.xfam.org/family/PF00153

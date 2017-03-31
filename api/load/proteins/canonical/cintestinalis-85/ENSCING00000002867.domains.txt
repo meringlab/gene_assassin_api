@@ -1,0 +1,5 @@
+#>P	ENSCING00000002867	ENSCINT00000005835	ENSCINP00000005835	7	459123	461501	-1	excision repair cross-complementing rodent repair deficiency, complementation group 3 (ercc3), mRNA [Source:RefSeq mRNA;Acc:NM_001130095]
+#>E	ENSCINE00000036510	1.0	459120-461501
+7	460053	460520	-1.0	Helicase/UvrB_dom	57.4	460053-460520	PF04851	http://pfam.xfam.org/family/PF04851
+7	459522	459728	-1.0	Helicase_C	38.7	459522-459728	PF00271	http://pfam.xfam.org/family/PF00271
+7	460047	460511	-1.0	DEAD/DEAH_box_helicase_dom	25.1	460047-460511	PF00270	http://pfam.xfam.org/family/PF00270
