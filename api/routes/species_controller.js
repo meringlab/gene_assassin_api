@@ -10,6 +10,7 @@ const logger = bunyan.createLogger({
 const AVAILABLE_SPECIES = {
     'drerio': 'drerio-85'
     ,'celegans': 'celegans-85'
+    ,'cintestinalis': 'cintestinalis-85'
     // 'hsapiens': 'hsapiens-85',
     // 'mmusculus': 'mmusculus-85',
     // 'scerevisiae': 'scerevisiae-85',
