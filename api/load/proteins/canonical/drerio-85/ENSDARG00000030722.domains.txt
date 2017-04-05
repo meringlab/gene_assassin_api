@@ -1,17 +1,13 @@
 #>P	ENSDARG00000030722	ENSDART00000042413	ENSDARP00000042412	2	24094644	24101534	-1	xin actin binding repeat containing 1 [Source:ZFIN;Acc:ZDB-GENE-050221-2]
 #>E	ENSDARE00000035473	0.0	24094641-24101534
-2	24099576	24099620	-1.0	Actin-binding_Xin_repeat	450.7	24099576-24099620	PF08043	http://pfam.xfam.org/family/PF08043
-2	24099675	24099719	-1.0	Actin-binding_Xin_repeat	450.7	24099675-24099719	PF08043	http://pfam.xfam.org/family/PF08043
-2	24100302	24100349	-1.0	Actin-binding_Xin_repeat	450.7	24100302-24100349	PF08043	http://pfam.xfam.org/family/PF08043
-2	24098613	24098660	-1.0	Actin-binding_Xin_repeat	450.7	24098613-24098660	PF08043	http://pfam.xfam.org/family/PF08043
-2	24100983	24101030	-1.0	Actin-binding_Xin_repeat	450.7	24100983-24101030	PF08043	http://pfam.xfam.org/family/PF08043
-2	24098391	24098435	-1.0	Actin-binding_Xin_repeat	450.7	24098391-24098435	PF08043	http://pfam.xfam.org/family/PF08043
-2	24099459	24099503	-1.0	Actin-binding_Xin_repeat	450.7	24099459-24099503	PF08043	http://pfam.xfam.org/family/PF08043
-2	24098811	24098858	-1.0	Actin-binding_Xin_repeat	450.7	24098811-24098858	PF08043	http://pfam.xfam.org/family/PF08043
-2	24099780	24099818	-1.0	Actin-binding_Xin_repeat	450.7	24099780-24099818	PF08043	http://pfam.xfam.org/family/PF08043
-2	24100521	24100568	-1.0	Actin-binding_Xin_repeat	450.7	24100521-24100568	PF08043	http://pfam.xfam.org/family/PF08043
-2	24101178	24101225	-1.0	Actin-binding_Xin_repeat	450.7	24101178-24101225	PF08043	http://pfam.xfam.org/family/PF08043
-2	24100632	24100670	-1.0	Actin-binding_Xin_repeat	450.7	24100632-24100670	PF08043	http://pfam.xfam.org/family/PF08043
-2	24099894	24099941	-1.0	Actin-binding_Xin_repeat	450.7	24099894-24099941	PF08043	http://pfam.xfam.org/family/PF08043
-2	24098922	24098969	-1.0	Actin-binding_Xin_repeat	450.7	24098922-24098969	PF08043	http://pfam.xfam.org/family/PF08043
-2	24098499	24098546	-1.0	Actin-binding_Xin_repeat	450.7	24098499-24098546	PF08043	http://pfam.xfam.org/family/PF08043
+2	24098499	24098546	-1.0	Actin-binding_Xin_repeat	436.1	24098499-24098546	PF08043	http://pfam.xfam.org/family/PF08043
+2	24098613	24098660	-1.0	Actin-binding_Xin_repeat	436.1	24098613-24098660	PF08043	http://pfam.xfam.org/family/PF08043
+2	24098391	24098438	-1.0	Actin-binding_Xin_repeat	436.1	24098391-24098438	PF08043	http://pfam.xfam.org/family/PF08043
+2	24098811	24098858	-1.0	Actin-binding_Xin_repeat	436.1	24098811-24098858	PF08043	http://pfam.xfam.org/family/PF08043
+2	24099576	24099623	-1.0	Actin-binding_Xin_repeat	436.1	24099576-24099623	PF08043	http://pfam.xfam.org/family/PF08043
+2	24099675	24099719	-1.0	Actin-binding_Xin_repeat	436.1	24099675-24099719	PF08043	http://pfam.xfam.org/family/PF08043
+2	24100983	24101030	-1.0	Actin-binding_Xin_repeat	436.1	24100983-24101030	PF08043	http://pfam.xfam.org/family/PF08043
+2	24099459	24099503	-1.0	Actin-binding_Xin_repeat	436.1	24099459-24099503	PF08043	http://pfam.xfam.org/family/PF08043
+2	24098922	24098969	-1.0	Actin-binding_Xin_repeat	436.1	24098922-24098969	PF08043	http://pfam.xfam.org/family/PF08043
+2	24100302	24100349	-1.0	Actin-binding_Xin_repeat	436.1	24100302-24100349	PF08043	http://pfam.xfam.org/family/PF08043
+2	24099894	24099941	-1.0	Actin-binding_Xin_repeat	436.1	24099894-24099941	PF08043	http://pfam.xfam.org/family/PF08043
