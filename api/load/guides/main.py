@@ -2,8 +2,19 @@
 import pymongo
 import os
 
-URL = 'mongodb://mongodb:27017'
+import gzip
+import re
+from Bio import SeqIO  # to read fasta
+from Bio.Seq import Seq
+
+def _fasta_to_dict(fasta_file):
+    with gzip.open(fasta_file, "rt") as handle:  # only "r" doesnt work in python 3:
+        dna_dict = SeqIO.to_dict(SeqIO.parse(handle, "fasta"))
+    return dna_dict
+
+# URL = 'mongodb://mongodb:27017'
 # URL = 'mongodb://localhost:27017/'
+URL = 'mongodb://geneassassin-importer:t5y6u7i8@130.60.240.99';
 
 
 def parseRecord(line):
@@ -35,20 +46,22 @@ def parseRecord(line):
             "strand": rec[3],
             "sequence": rec[4],
             "biochemistry_score": float(rec[5]),
-            # "application_score": float(rec[6]),
+            "application_score": float(rec[6]),
             "offtarget_score": float(rec[7]),
             "score": float(rec[8]),
             "color": rec[9],
-            "mismatches": mismatch 
+            "rank": -1,
+            "mismatches": mismatch
             }
 
 def loading_guides_from_folder(datadir):
     docs = []
+    fasta=os.path.join(datadir, 'Danio_rerio.GRCz10.dna.toplevel.fa.gz')
+    dna_dict = _fasta_to_dict(fasta)
 
     print('loading guides from: ' + datadir)
     for n in os.listdir(os.path.join(datadir,'guides')):
         with open(os.path.join(datadir,'guides',n)) as f:
-            gene_guides = []
             guides = {}
             for line in f.readlines():
                 line = line.strip()
@@ -58,8 +71,6 @@ def loading_guides_from_folder(datadir):
                 try:
                     rec = parseRecord(line)
                     rec['gene'] = n.split('.')[0]
-                    docs.append(rec)
-                    gene_guides.append(rec)
                     guides[rec['sequence']] = rec
                 except:
                     print('error parsing: ' + line + ' from ' + n)
@@ -77,10 +88,20 @@ def loading_guides_from_folder(datadir):
                         # 0 Rank
                         # 1 Gene_id	2 Exon_id
                         # 3 Guide_with_ngg	4 Guide_chr	5 Guide_start	6 Guide_stop	7 Guide_strand
+                        if len(rec[3]) < 20:
+                            print('WARN BAD guide sequence', rec[3])
+                            chr=dna_dict[rec[4]]
+                            if rec[7].startswith('-'):
+                                rec[3] = str(chr[int(rec[5])-1-3:int(rec[6])].reverse_complement().seq)
+                            else:
+                                rec[3] = str(chr[int(rec[5])-1:int(rec[6])+3].seq)
+                            print('WARN getting sequence from the fasta file',rec[3])
+
                         no_ngg_seq = rec[3][:20]  # remove ngg
                         if no_ngg_seq not in guides:
-                            print('WARN guide %s not in guides map %s, ' % (rec[3], s.name))
-                            continue
+                            print('ERROR guide %s not in guides map %s, ' % (rec[3], s.name))
+                            continue # move to the next guide
+                            
                         g = guides[no_ngg_seq]
                         g['sequence'] = rec[3]
                         g['rank'] = int(rec[0])
@@ -96,18 +117,14 @@ def loading_guides_from_folder(datadir):
                         g['exon_ranking_score'] = float(rec[14])
                         g['application_score'] = float(rec[15])
                         g['score'] = round((g['biochemistry_score'] +g['application_score'] + g['offtarget_score']*3) / 5, 4)
+
+                        if g['application_score'] >= -1.0 and g['application_score'] <=1.0:
+                            docs.append(g)
+                        else:
+                            print('WARN application score outside the range',g['application_score'], 
+                                  'skipping guide', g['gene'], '/', g['sequence'])
                     except:
                         print('error parsing: ' + line + ' from ' + n)
-
-            gene_guides.sort(key=lambda r: -r['score'])
-            for g in gene_guides:
-                if 'application_score' not in g:
-                    print('WARN %s missing scores for %s, ' % (n, g['sequence']))
-                    break
-
-                    # outof = ' out of ' + str(len(gene_guides))
-            # for idx, guide in enumerate(gene_guides):
-            #     guide['rank'] = str(idx+1) + outof
 
     print("{0} total guides".format(len(docs)))
     return docs
@@ -115,23 +132,23 @@ def loading_guides_from_folder(datadir):
 client = pymongo.MongoClient(URL)
 
 def load_species(name):
-    db = client[name]
-
-    collection = db.guides
     docs = loading_guides_from_folder(os.path.join('data', name))
+
+    db = client[name]
+    collection = db.guides
     result = collection.insert_many(docs)
 
     print('creating index')
     from pymongo import ASCENDING
     collection.create_index([('chromosome', ASCENDING), ('start', ASCENDING), ('end', ASCENDING)],
-                name= "chr_region_idx", unique=False, background= False, j= True)
+                name= "chr_region_idx", unique=False, background= False)
     collection.create_index([('gene', ASCENDING)],
-                name= "gene_idx", unique=False, background= False, j= True)
+                name= "gene_idx", unique=False, background= False)
 
 
 if __name__ == '__main__':
     # for species_release in os.listdir('data/'):
-    # for species_release in ['celegans-85','drerio-85']:
+    # for species_release in ['celegans-85','drerio-85','cintestinalis-85']:
     for species_release in ['drerio-85']:
         load_species(species_release)
 
